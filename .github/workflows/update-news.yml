@@ -1,0 +1,32 @@
+name: تحديث أخبار التاسعة نيوز
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: تحميل ملفات الموقع
+        uses: actions/checkout@v4
+
+      - name: تحديث الأخبار
+        run: python scripts/update_news.py
+
+      - name: حفظ التحديث
+        run: |
+          git config user.name "Altaasah News Bot"
+          git config user.email "actions@github.com"
+          git add news.json
+          if git diff --cached --quiet; then
+            echo "لا توجد أخبار جديدة."
+          else
+            git commit -m "تحديث الأخبار تلقائيا"
+            git push
+          fi
