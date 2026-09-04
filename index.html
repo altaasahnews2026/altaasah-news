@@ -108,6 +108,19 @@
   }
 </style>
 
+
+<style>
+.menu-panel{position:fixed;inset:0 0 0 auto;width:min(360px,88vw);background:#fff;z-index:1000;transform:translateX(110%);transition:.3s;box-shadow:-10px 0 30px rgba(0,0,0,.18);padding:28px}
+.menu-panel.open{transform:translateX(0)}
+.menu-panel button{border:0;background:none;font-size:30px;cursor:pointer;float:left}
+.menu-panel h2{color:var(--navy);margin-top:20px}
+.menu-panel a{display:block;padding:14px 5px;border-bottom:1px solid #eee;font-weight:700}
+.overlay{position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:999;display:none}
+.overlay.show{display:block}
+.search input:focus{outline:2px solid #dce9f8;border-color:var(--blue)}
+.no-results{display:none;text-align:center;background:#fff;border-radius:12px;padding:25px;margin-top:15px}
+</style>
+
 </head>
 <body>
 
@@ -149,7 +162,7 @@
     </aside>
 
     <article class="hero">
-      <img src="https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=1400&q=85" alt="العراق">
+      <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNjAwIDgwMCI+CjxkZWZzPgogPGxpbmVhckdyYWRpZW50IGlkPSJza3kiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj48c3RvcCBzdG9wLWNvbG9yPSIjMTgzZDc1Ii8+PHN0b3Agb2Zmc2V0PSIuNTUiIHN0b3AtY29sb3I9IiMwYjI1NDkiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMwNjEzMjYiLz48L2xpbmVhckdyYWRpZW50PgogPGxpbmVhckdyYWRpZW50IGlkPSJ3YXRlciIgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjEiPjxzdG9wIHN0b3AtY29sb3I9IiMxNzNlNjciLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMwNjFhMzEiLz48L2xpbmVhckdyYWRpZW50Pgo8L2RlZnM+CjxyZWN0IHdpZHRoPSIxNjAwIiBoZWlnaHQ9IjgwMCIgZmlsbD0idXJsKCNza3kpIi8+CjxjaXJjbGUgY3g9IjEyNTAiIGN5PSIyMTAiIHI9Ijk1IiBmaWxsPSIjZjFiNjVhIiBvcGFjaXR5PSIuNzUiLz4KPHBhdGggZD0iTTAgNTYwIFEzMDAgNTAwIDYwMCA1NjUgVDEyMDAgNTQ1IFQxNjAwIDU2MCBWODAwIEgwWiIgZmlsbD0iIzEwMWUzMSIvPgo8cGF0aCBkPSJNMCA2NTAgUTM1MCA1OTAgNzAwIDY2MCBUMTYwMCA2NDAgVjgwMCBIMFoiIGZpbGw9InVybCgjd2F0ZXIpIi8+CjxnIGZpbGw9IiMxNzJiNDUiPgo8cmVjdCB4PSI5MCIgeT0iNDMwIiB3aWR0aD0iMTEwIiBoZWlnaHQ9IjE3MCIvPjxyZWN0IHg9IjIzMCIgeT0iMzcwIiB3aWR0aD0iOTAiIGhlaWdodD0iMjMwIi8+CjxyZWN0IHg9IjM1MCIgeT0iNDU1IiB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0NSIvPjxyZWN0IHg9IjUyNSIgeT0iMzI1IiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjI3NSIvPgo8cmVjdCB4PSI2ODAiIHk9IjQyMCIgd2lkdGg9Ijk1IiBoZWlnaHQ9IjE4MCIvPjxyZWN0IHg9IjgwNSIgeT0iMjc1IiB3aWR0aD0iMTI1IiBoZWlnaHQ9IjMyNSIvPgo8cmVjdCB4PSI5NjUiIHk9IjM5MCIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIyMTAiLz48cmVjdCB4PSIxMDkwIiB5PSIzMzAiIHdpZHRoPSIxNTAiIGhlaWdodD0iMjcwIi8+CjxyZWN0IHg9IjEyNzAiIHk9IjQzMCIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxNzAiLz48cmVjdCB4PSIxNDIwIiB5PSIzNjAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMjQwIi8+CjwvZz4KPGcgZmlsbD0iI2Q3ZTRmMiIgb3BhY2l0eT0iLjU1Ij4KPHBhdGggZD0iTTAgNjEwIEwxNjAwIDYxMCBMMTYwMCA2MjUgTDAgNjI1WiIvPgo8cGF0aCBkPSJNMTgwIDU3NSBRODAwIDUxMCAxNDMwIDU3NSBMMTQzMCA1OTIgUTgwMCA1MzUgMTgwIDU5MloiLz4KPC9nPgo8L3N2Zz4=" alt="العراق">
       <div class="hero-content">
         <span class="badge">أهم الأخبار</span>
         <h1>الحكومة: مشاريع استراتيجية جديدة للنهوض بالبنية التحتية في العراق</h1>
@@ -181,5 +194,30 @@
   <div class="footer-inner"><div><b>التاسعة نيوز</b><br>نعلم لتعلم</div><div>© التاسعة نيوز — جميع الحقوق محفوظة</div></div>
 </footer>
 
+
+<div class="overlay" id="overlay"></div>
+<aside class="menu-panel" id="menuPanel">
+  <button id="closeMenu" aria-label="إغلاق">×</button>
+  <h2>القائمة</h2>
+  <a href="#">الرئيسية</a><a href="#">العراق</a><a href="#">كركوك</a>
+  <a href="#">سياسة</a><a href="#">أمن</a><a href="#">اقتصاد</a>
+  <a href="#">رياضة</a><a href="#">دولي</a><a href="#">ثقافة</a>
+  <a href="#">علوم وتكنولوجيا</a><a href="#">منوعات</a>
+</aside>
+
+<script>
+const panel=document.getElementById('menuPanel'), overlay=document.getElementById('overlay');
+document.querySelector('.menu').onclick=()=>{panel.classList.add('open');overlay.classList.add('show')};
+document.getElementById('closeMenu').onclick=()=>{panel.classList.remove('open');overlay.classList.remove('show')};
+overlay.onclick=()=>{panel.classList.remove('open');overlay.classList.remove('show')};
+
+const search=document.querySelector('.search input');
+search.addEventListener('input',()=>{
+  const q=search.value.trim().toLowerCase();
+  document.querySelectorAll('.card').forEach(c=>{
+    c.style.display=(!q || c.innerText.toLowerCase().includes(q))?'':'none';
+  });
+});
+</script>
 </body>
 </html>
