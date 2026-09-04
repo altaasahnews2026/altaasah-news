@@ -4,10 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>التاسعة نيوز | أخبار العراق</title>
+<title>التاسعة نيوز</title>
 
 <style>
-
 * {
     box-sizing: border-box;
     margin: 0;
@@ -16,222 +15,225 @@
 
 body {
     font-family: Tahoma, Arial, sans-serif;
-    background: #f4f4f4;
+    background: #f5f5f5;
     color: #222;
 }
 
-/* ===== الهيدر ===== */
-
 header {
-    background: #171717;
+    background: #191919;
     color: white;
+    border-bottom: 3px solid #b92b2b;
+    padding: 22px 20px;
     text-align: center;
-    padding: 25px 15px 20px;
-    border-bottom: 4px solid #c92026;
 }
 
 .logo {
-    font-size: 38px;
+    font-size: 42px;
     font-weight: bold;
-    letter-spacing: 1px;
-}
-
-.logo .white {
-    color: #ffffff;
 }
 
 .logo .red {
-    color: #c92026;
+    color: #d52b2b;
 }
 
-.slogan {
+.logo .white {
+    color: #fff;
+}
+
+.tagline {
     margin-top: 7px;
-    color: #eeeeee;
-    font-size: 15px;
-    font-weight: normal;
-}
-
-/* ===== شريط الأقسام ===== */
-
-nav {
-    background: #ffffff;
-    padding: 15px 10px;
-    text-align: center;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-}
-
-nav a {
-    display: inline-block;
-    color: #222;
-    text-decoration: none;
-    margin: 5px 16px;
-    font-weight: bold;
-    font-size: 16px;
-    transition: 0.3s;
-}
-
-nav a:hover {
-    color: #c92026;
-}
-
-/* ===== الحاوية ===== */
-
-.container {
-    width: 92%;
-    max-width: 1250px;
-    margin: 30px auto;
-}
-
-/* ===== الشريط الأحمر ===== */
-
-.breaking {
-    background: linear-gradient(to left, #c92026, #a9141b);
-    color: white;
-    padding: 15px;
-    text-align: center;
     font-size: 18px;
-    font-weight: bold;
-    border-radius: 4px;
-    margin-bottom: 35px;
-}
-
-/* ===== العنوان ===== */
-
-.title {
-    font-size: 28px;
-    border-right: 6px solid #c92026;
-    padding-right: 12px;
-    margin-bottom: 25px;
-}
-
-/* ===== الأخبار ===== */
-
-.news-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 25px;
-}
-
-.news {
-    background: #ffffff;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 3px 14px rgba(0,0,0,0.10);
-    transition: 0.3s;
-}
-
-.news:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
-}
-
-.news img {
-    width: 100%;
-    height: 230px;
-    object-fit: cover;
-    display: block;
-}
-
-.news-content {
-    padding: 20px;
-}
-
-.news h2 {
-    font-size: 20px;
-    line-height: 1.7;
-    margin-bottom: 10px;
-}
-
-.news p {
-    color: #666;
-    font-size: 15px;
-    line-height: 1.8;
-}
-
-/* ===== الفوتر ===== */
-
-footer {
-    margin-top: 60px;
-    background: #171717;
-    color: white;
-    text-align: center;
-    padding: 35px 20px;
-    border-top: 4px solid #c92026;
-}
-
-.footer-logo {
-    font-size: 27px;
-    font-weight: bold;
-}
-
-.footer-logo .red {
-    color: #c92026;
-}
-
-.footer-slogan {
-    margin-top: 8px;
     color: #ddd;
 }
-
-/* ===== منصات التواصل ===== */
 
 .social {
-    margin-top: 22px;
-}
-
-.social-title {
-    margin-bottom: 15px;
-    font-size: 16px;
-    color: #ddd;
+    margin-top: 15px;
 }
 
 .social a {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 42px;
-    height: 42px;
-    margin: 5px;
+    width: 38px;
+    height: 38px;
+    margin: 4px;
     border-radius: 50%;
-    background: #292929;
+    background: #333;
     color: white;
     text-decoration: none;
-    font-size: 13px;
+    font-size: 17px;
     font-weight: bold;
-    transition: 0.3s;
 }
 
-.social a:hover {
-    background: #c92026;
-    transform: translateY(-3px);
+nav {
+    background: white;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-bottom: 1px solid #ddd;
 }
 
-/* ===== الحقوق ===== */
-
-.copyright {
-    margin-top: 20px;
-    color: #aaa;
-    font-size: 13px;
+nav a {
+    text-decoration: none;
+    color: #222;
+    padding: 18px 25px;
+    font-weight: bold;
 }
 
-/* ===== الهاتف ===== */
+nav a:hover {
+    color: #c62828;
+    border-bottom: 3px solid #c62828;
+}
+
+.breaking {
+    width: 92%;
+    margin: 25px auto;
+    background: #b52a2a;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.container {
+    width: 92%;
+    max-width: 1250px;
+    margin: auto;
+}
+
+.section-title {
+    border-right: 6px solid #c62828;
+    padding-right: 12px;
+    margin: 35px 0 20px;
+    font-size: 30px;
+}
+
+.featured {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+}
+
+.card {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0,0,0,.12);
+    margin-bottom: 20px;
+}
+
+.card img {
+    width: 100%;
+    height: 230px;
+    object-fit: cover;
+    display: block;
+}
+
+.main-card img {
+    height: 390px;
+}
+
+.card-content {
+    padding: 18px;
+}
+
+.card h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.card h3 {
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.card p {
+    color: #777;
+    line-height: 1.8;
+}
+
+.news-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.categories {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 15px;
+    margin-bottom: 50px;
+}
+
+.category {
+    height: 150px;
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #333;
+}
+
+.category img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: .75;
+}
+
+.category span {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: rgba(0,0,0,.65);
+    color: white;
+    padding: 12px;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+footer {
+    background: #191919;
+    color: white;
+    text-align: center;
+    padding: 35px 20px;
+    margin-top: 40px;
+    border-top: 3px solid #c62828;
+}
+
+footer .logo {
+    font-size: 35px;
+}
+
+footer p {
+    margin-top: 12px;
+    color: #ccc;
+}
 
 @media (max-width: 900px) {
-
-    .news-grid {
-        grid-template-columns: 1fr 1fr;
+    .featured {
+        grid-template-columns: 1fr;
     }
 
+    .news-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .categories {
+        grid-template-columns: repeat(3, 1fr);
+    }
 }
 
 @media (max-width: 600px) {
-
     .logo {
         font-size: 30px;
     }
 
     nav a {
-        margin: 6px 8px;
+        padding: 12px;
         font-size: 14px;
     }
 
@@ -239,41 +241,41 @@ footer {
         grid-template-columns: 1fr;
     }
 
-    .news img {
-        height: 210px;
+    .categories {
+        grid-template-columns: repeat(2, 1fr);
     }
 
-    .breaking {
-        font-size: 15px;
+    .main-card img {
+        height: 260px;
     }
-
 }
-
 </style>
 </head>
 
 <body>
 
-<!-- ===== الهيدر ===== -->
-
 <header>
 
     <div class="logo">
-        <span class="white">أخبار</span>
-        <span class="red">التاسعة نيوز</span>
+        <span class="red">التاسعة</span>
+        <span class="white"> نيوز</span>
     </div>
 
-    <div class="slogan">
+    <div class="tagline">
         نعلم لتعلّم
+    </div>
+
+    <div class="social">
+        <a href="#" title="Facebook">f</a>
+        <a href="#" title="X">𝕏</a>
+        <a href="#" title="Instagram">◎</a>
+        <a href="#" title="YouTube">▶</a>
+        <a href="#" title="TikTok">♪</a>
     </div>
 
 </header>
 
-
-<!-- ===== الأقسام ===== -->
-
 <nav>
-
     <a href="#">الرئيسية</a>
     <a href="#">العراق</a>
     <a href="#">كركوك</a>
@@ -281,157 +283,143 @@ footer {
     <a href="#">أمن</a>
     <a href="#">اقتصاد</a>
     <a href="#">رياضة</a>
-
 </nav>
 
-
-<!-- ===== المحتوى ===== -->
-
-<div class="container">
-
-    <div class="breaking">
-        آخر الأخبار والتطورات المحلية والعراقية
-    </div>
-
-
-    <h1 class="title">
-        أحدث الأخبار
-    </h1>
-
-
-    <div class="news-grid">
-
-
-        <!-- الخبر الأول -->
-
-        <article class="news">
-
-            <img src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1000&q=80">
-
-            <div class="news-content">
-
-                <h2>
-                    أخبار العراق تتصدر المشهد مع تطورات جديدة
-                </h2>
-
-                <p>
-                    متابعة مستمرة لأبرز الأحداث والتطورات في العراق.
-                </p>
-
-            </div>
-
-        </article>
-
-
-        <!-- الخبر الثاني -->
-
-        <article class="news">
-
-            <img src="https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1000&q=80">
-
-            <div class="news-content">
-
-                <h2>
-                    تطورات أمنية ومتابعة ميدانية للأحداث
-                </h2>
-
-                <p>
-                    تفاصيل جديدة ومتابعة مباشرة لأبرز الأخبار المحلية.
-                </p>
-
-            </div>
-
-        </article>
-
-
-        <!-- الخبر الثالث -->
-
-        <article class="news">
-
-            <img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1000&q=80">
-
-            <div class="news-content">
-
-                <h2>
-                    مستجدات سياسية واقتصادية في العراق
-                </h2>
-
-                <p>
-                    قراءة لأبرز المستجدات والقرارات والتطورات الجديدة.
-                </p>
-
-            </div>
-
-        </article>
-
-
-    </div>
-
+<div class="breaking">
+    آخر الأخبار والتطورات المحلية والعراقية
 </div>
 
+<main class="container">
 
-<!-- ===== الفوتر ===== -->
+    <h1 class="section-title">أحدث الأخبار</h1>
+
+    <section class="featured">
+
+        <article class="card main-card">
+            <img src="https://images.unsplash.com/photo-1532375810709-75b1da00537c?auto=format&fit=crop&w=1200&q=80">
+
+            <div class="card-content">
+                <h2>العراق يواصل مسار الاستقرار والتنمية</h2>
+                <p>
+                    تطورات جديدة في الملفات السياسية والاقتصادية والأمنية.
+                </p>
+            </div>
+        </article>
+
+        <div>
+
+            <article class="card">
+                <img src="https://images.unsplash.com/photo-1555848962-6e79363ec58f?auto=format&fit=crop&w=800&q=80">
+
+                <div class="card-content">
+                    <h3>مستجدات سياسية في العراق</h3>
+                    <p>مناقشات جديدة حول القوانين والملفات المهمة.</p>
+                </div>
+            </article>
+
+            <article class="card">
+                <img src="https://images.unsplash.com/photo-1518391846015-55a9cc003b25?auto=format&fit=crop&w=800&q=80">
+
+                <div class="card-content">
+                    <h3>تعزيزات أمنية في عدد من المحافظات</h3>
+                    <p>إجراءات جديدة لحفظ الأمن والاستقرار.</p>
+                </div>
+            </article>
+
+        </div>
+
+    </section>
+
+    <h1 class="section-title">آخر الأخبار</h1>
+
+    <section class="news-grid">
+
+        <article class="card">
+            <img src="https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=800&q=80">
+            <div class="card-content">
+                <h3>المنتخب العراقي يحقق فوزاً مهماً</h3>
+                <p>أداء مميز ومستوى قوي في المباراة.</p>
+            </div>
+        </article>
+
+        <article class="card">
+            <img src="https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?auto=format&fit=crop&w=800&q=80">
+            <div class="card-content">
+                <h3>ارتفاع أسعار النفط عالمياً</h3>
+                <p>تأثيرات جديدة على الاقتصاد العراقي.</p>
+            </div>
+        </article>
+
+        <article class="card">
+            <img src="https://images.unsplash.com/photo-1586899028174-e7098604235b?auto=format&fit=crop&w=800&q=80">
+            <div class="card-content">
+                <h3>كركوك تشهد تطورات خدمية جديدة</h3>
+                <p>مشاريع جديدة لتحسين الخدمات في المحافظة.</p>
+            </div>
+        </article>
+
+    </section>
+
+    <h1 class="section-title">أقسام الموقع</h1>
+
+    <section class="categories">
+
+        <div class="category">
+            <img src="https://images.unsplash.com/photo-1580130732478-4e339fb6836f?auto=format&fit=crop&w=500&q=80">
+            <span>العراق</span>
+        </div>
+
+        <div class="category">
+            <img src="https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=500&q=80">
+            <span>كركوك</span>
+        </div>
+
+        <div class="category">
+            <img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=500&q=80">
+            <span>سياسة</span>
+        </div>
+
+        <div class="category">
+            <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=500&q=80">
+            <span>أمن</span>
+        </div>
+
+        <div class="category">
+            <img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=500&q=80">
+            <span>اقتصاد</span>
+        </div>
+
+        <div class="category">
+            <img src="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=500&q=80">
+            <span>رياضة</span>
+        </div>
+
+    </section>
+
+</main>
 
 <footer>
 
-    <div class="footer-logo">
-        أخبار <span class="red">التاسعة نيوز</span>
+    <div class="logo">
+        <span class="red">التاسعة</span>
+        <span class="white"> نيوز</span>
     </div>
 
-    <div class="footer-slogan">
+    <div class="tagline">
         نعلم لتعلّم
     </div>
 
-
-    <!-- منصات التواصل -->
-
     <div class="social">
-
-        <div class="social-title">
-            تابعنا على منصات التواصل الاجتماعي
-        </div>
-
-
-        <!-- Facebook -->
-
-        <a href="#" title="Facebook">
-            f
-        </a>
-
-
-        <!-- Instagram -->
-
-        <a href="#" title="Instagram">
-            ◎
-        </a>
-
-
-        <!-- X -->
-
-        <a href="#" title="X">
-            X
-        </a>
-
-
-        <!-- YouTube -->
-
-        <a href="#" title="YouTube">
-            ▶
-        </a>
-
-
-        <!-- TikTok -->
-
-        <a href="#" title="TikTok">
-            ♪
-        </a>
-
+        <a href="#">f</a>
+        <a href="#">𝕏</a>
+        <a href="#">◎</a>
+        <a href="#">▶</a>
+        <a href="#">♪</a>
     </div>
 
-
-    <div class="copyright">
+    <p>
         © جميع الحقوق محفوظة - التاسعة نيوز
-    </div>
+    </p>
 
 </footer>
 
