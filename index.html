@@ -4,277 +4,145 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>أخبار الطاسة</title>
+<title>أخبار التاسعة</title>
 
 <style>
-*{
-    box-sizing:border-box;
-    margin:0;
-    padding:0;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
-body{
-    font-family:Tahoma, Arial, sans-serif;
-    background:#f3f5f7;
-    color:#222;
+body {
+    font-family: Arial, Tahoma, sans-serif;
+    background: #f5f5f5;
+    color: #222;
 }
 
-header{
-    background:#ffffff;
-    border-bottom:4px solid #c90000;
-    position:sticky;
-    top:0;
-    z-index:1000;
+header {
+    background: #111;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 5px solid #d71920;
 }
 
-.top{
-    max-width:1200px;
-    margin:auto;
-    padding:18px 20px;
-    display:flex;
-    align-items:center;
-    justify-content:space-between;
-    gap:20px;
+.logo {
+    font-size: 34px;
+    font-weight: bold;
 }
 
-.logo{
-    font-size:30px;
-    font-weight:bold;
-    color:#c90000;
+.logo span {
+    color: #d71920;
 }
 
-.logo span{
-    color:#222;
+.slogan {
+    margin-top: 8px;
+    color: #ddd;
+    font-size: 15px;
 }
 
-.date{
-    color:#666;
-    font-size:14px;
+nav {
+    background: white;
+    box-shadow: 0 2px 8px #ccc;
+    padding: 15px;
+    text-align: center;
 }
 
-nav{
-    background:#222;
+nav a {
+    color: #222;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
 }
 
-.navbar{
-    max-width:1200px;
-    margin:auto;
-    display:flex;
-    flex-wrap:wrap;
+nav a:hover {
+    color: #d71920;
 }
 
-.navbar a{
-    color:#fff;
-    text-decoration:none;
-    padding:14px 18px;
-    display:block;
-    font-size:15px;
+.container {
+    width: 92%;
+    max-width: 1200px;
+    margin: 30px auto;
 }
 
-.navbar a:hover{
-    background:#c90000;
+.title {
+    border-right: 6px solid #d71920;
+    padding-right: 12px;
+    margin-bottom: 20px;
+    font-size: 27px;
 }
 
-.container{
-    max-width:1200px;
-    margin:25px auto;
-    padding:0 20px;
+.news-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
 }
 
-.breaking{
-    background:#c90000;
-    color:#fff;
-    padding:12px 18px;
-    border-radius:5px;
-    margin-bottom:25px;
-    font-weight:bold;
+.news {
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px #ddd;
 }
 
-.breaking span{
-    background:#fff;
-    color:#c90000;
-    padding:5px 10px;
-    margin-left:10px;
-    border-radius:4px;
+.news img {
+    width: 100%;
+    height: 210px;
+    object-fit: cover;
+    background: #ddd;
 }
 
-.main{
-    display:grid;
-    grid-template-columns:2fr 1fr;
-    gap:25px;
+.news-content {
+    padding: 18px;
 }
 
-.feature{
-    background:#fff;
-    border-radius:8px;
-    overflow:hidden;
-    box-shadow:0 2px 8px #00000015;
+.news h2 {
+    font-size: 20px;
+    line-height: 1.6;
+    margin-bottom: 10px;
 }
 
-.feature img{
-    width:100%;
-    height:360px;
-    object-fit:cover;
+.news p {
+    color: #666;
+    line-height: 1.7;
 }
 
-.feature-content{
-    padding:20px;
+.date {
+    color: #d71920;
+    font-size: 13px;
+    margin-top: 12px;
 }
 
-.category{
-    color:#c90000;
-    font-size:14px;
-    font-weight:bold;
-    margin-bottom:10px;
+.breaking {
+    background: #d71920;
+    color: white;
+    padding: 12px;
+    margin-bottom: 25px;
+    font-weight: bold;
+    text-align: center;
 }
 
-.feature h1{
-    font-size:28px;
-    line-height:1.5;
-    margin-bottom:12px;
+footer {
+    margin-top: 50px;
+    background: #111;
+    color: white;
+    text-align: center;
+    padding: 25px;
 }
 
-.feature p{
-    color:#666;
-    line-height:1.8;
+footer span {
+    color: #d71920;
 }
 
-.side{
-    display:flex;
-    flex-direction:column;
-    gap:15px;
-}
-
-.news-card{
-    background:#fff;
-    border-radius:8px;
-    overflow:hidden;
-    box-shadow:0 2px 8px #00000012;
-    display:flex;
-    min-height:130px;
-}
-
-.news-card img{
-    width:160px;
-    object-fit:cover;
-}
-
-.news-content{
-    padding:14px;
-}
-
-.news-content h3{
-    font-size:17px;
-    line-height:1.6;
-}
-
-.news-content small{
-    display:block;
-    color:#888;
-    margin-top:8px;
-}
-
-.title{
-    margin:35px 0 18px;
-    border-right:6px solid #c90000;
-    padding-right:12px;
-    font-size:25px;
-}
-
-.news-grid{
-    display:grid;
-    grid-template-columns:repeat(3,1fr);
-    gap:20px;
-}
-
-.grid-card{
-    background:#fff;
-    border-radius:8px;
-    overflow:hidden;
-    box-shadow:0 2px 8px #00000012;
-}
-
-.grid-card img{
-    width:100%;
-    height:190px;
-    object-fit:cover;
-}
-
-.grid-card div{
-    padding:16px;
-}
-
-.grid-card h3{
-    font-size:18px;
-    line-height:1.6;
-}
-
-.grid-card p{
-    color:#777;
-    font-size:14px;
-    line-height:1.7;
-    margin-top:8px;
-}
-
-footer{
-    margin-top:45px;
-    background:#222;
-    color:#fff;
-    padding:30px 20px;
-    text-align:center;
-}
-
-footer .footer-logo{
-    font-size:25px;
-    color:#fff;
-    font-weight:bold;
-    margin-bottom:10px;
-}
-
-footer p{
-    color:#bbb;
-    line-height:2;
-}
-
-@media(max-width:850px){
-    .main{
-        grid-template-columns:1fr;
+@media (max-width: 800px) {
+    .news-grid {
+        grid-template-columns: 1fr;
     }
 
-    .news-grid{
-        grid-template-columns:1fr 1fr;
-    }
-}
-
-@media(max-width:600px){
-    .top{
-        flex-direction:column;
-        text-align:center;
-    }
-
-    .navbar{
-        justify-content:center;
-    }
-
-    .navbar a{
-        padding:11px 10px;
-        font-size:13px;
-    }
-
-    .feature img{
-        height:240px;
-    }
-
-    .feature h1{
-        font-size:21px;
-    }
-
-    .news-grid{
-        grid-template-columns:1fr;
-    }
-
-    .news-card img{
-        width:120px;
+    nav a {
+        display: inline-block;
+        margin: 7px;
     }
 }
 </style>
@@ -283,253 +151,106 @@ footer p{
 <body>
 
 <header>
+    <div class="logo">
+        أخبار <span>التاسعة</span>
+    </div>
 
-<div class="top">
-
-<div class="logo">
-أخبار <span>الطاسة</span>
-</div>
-
-<div class="date" id="date"></div>
-
-</div>
-
-<nav>
-<div class="navbar">
-
-<a href="#">الرئيسية</a>
-<a href="#العراق">العراق</a>
-<a href="#كركوك">كركوك</a>
-<a href="#سياسة">سياسة</a>
-<a href="#أمن">أمن</a>
-<a href="#اقتصاد">اقتصاد</a>
-<a href="#رياضة">رياضة</a>
-<a href="#منوعات">منوعات</a>
-
-</div>
-</nav>
-
+    <div class="slogan">
+        نعلم لتعلّم
+    </div>
 </header>
 
-<main class="container">
+<nav>
+    <a href="#">الرئيسية</a>
+    <a href="#">العراق</a>
+    <a href="#">كركوك</a>
+    <a href="#">سياسة</a>
+    <a href="#">أمن</a>
+    <a href="#">اقتصاد</a>
+    <a href="#">رياضة</a>
+</nav>
 
-<div class="breaking">
-<span>خبر</span>
-متابعة مستمرة لأبرز الأحداث والتطورات في العراق
-</div>
+<div class="container">
 
-<section class="main">
+    <div class="breaking">
+        آخر الأخبار والتطورات المحلية والعراقية
+    </div>
 
-<article class="feature">
+    <h1 class="title">أحدث الأخبار</h1>
 
-<img src="6deaa228-fef4-472c-819d-400fa6c78630.jpg" alt="صورة الخبر">
+    <div class="news-grid">
 
-<div class="feature-content">
+        <article class="news">
+            <img src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80">
 
-<div class="category">أبرز الأخبار</div>
+            <div class="news-content">
+                <h2>
+                    أخبار العراق تتصدر المشهد مع تطورات جديدة
+                </h2>
 
-<h1>
-أخبار العراق وكركوك لحظة بلحظة.. تغطية مستمرة لأهم الأحداث
-</h1>
+                <p>
+                    متابعة مستمرة لأبرز الأحداث والتطورات في العراق.
+                </p>
 
-<p>
-تابعوا معنا آخر الأخبار والتطورات السياسية والأمنية والخدمية في العراق، مع تغطية خاصة لمحافظة كركوك.
-</p>
+                <div class="date">
+                    ٤ أيلول ٢٠٢٦
+                </div>
+            </div>
+        </article>
 
-</div>
+        <article class="news">
+            <img src="https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=900&q=80">
 
-</article>
+            <div class="news-content">
+                <h2>
+                    تطورات أمنية ومتابعة ميدانية للأحداث
+                </h2>
 
-<div class="side">
+                <p>
+                    تفاصيل جديدة ومتابعة مباشرة من مصادر الأخبار.
+                </p>
 
-<article class="news-card">
+                <div class="date">
+                    ٤ أيلول ٢٠٢٦
+                </div>
+            </div>
+        </article>
 
-<img src="6deaa228-fef4-472c-819d-400fa6c78630.jpg">
+        <article class="news">
+            <img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=900&q=80">
 
-<div class="news-content">
+            <div class="news-content">
+                <h2>
+                    مستجدات سياسية واقتصادية في العراق
+                </h2>
 
-<div class="category">أمن</div>
+                <p>
+                    قراءة لأبرز المستجدات والقرارات الجديدة.
+                </p>
 
-<h3>تطورات أمنية جديدة ومتابعة مستمرة للأحداث</h3>
+                <div class="date">
+                    ٤ أيلول ٢٠٢٦
+                </div>
+            </div>
+        </article>
 
-<small>منذ قليل</small>
-
-</div>
-
-</article>
-
-<article class="news-card">
-
-<img src="6deaa228-fef4-472c-819d-400fa6c78630.jpg">
-
-<div class="news-content">
-
-<div class="category">كركوك</div>
-
-<h3>أخبار محلية من محافظة كركوك</h3>
-
-<small>اليوم</small>
-
-</div>
-
-</article>
-
-<article class="news-card">
-
-<img src="6deaa228-fef4-472c-819d-400fa6c78630.jpg">
-
-<div class="news-content">
-
-<div class="category">العراق</div>
-
-<h3>أبرز المستجدات العراقية على مدار الساعة</h3>
-
-<small>اليوم</small>
-
-</div>
-
-</article>
+    </div>
 
 </div>
-
-</section>
-
-
-<h2 class="title" id="العراق">آخر الأخبار</h2>
-
-<section class="news-grid">
-
-<article class="grid-card">
-
-<img src="6deaa228-fef4-472c-819d-400fa6c78630.jpg">
-
-<div>
-<div class="category">العراق</div>
-<h3>تغطية إخبارية شاملة لأبرز الأحداث في العراق</h3>
-<p>آخر التطورات والمستجدات من مختلف المحافظات العراقية.</p>
-</div>
-
-</article>
-
-
-<article class="grid-card" id="كركوك">
-
-<img src="6deaa228-fef4-472c-819d-400fa6c78630.jpg">
-
-<div>
-<div class="category">كركوك</div>
-<h3>متابعة خاصة لأخبار محافظة كركوك</h3>
-<p>أخبار أمنية وخدمية وسياسية من المحافظة.</p>
-</div>
-
-</article>
-
-
-<article class="grid-card" id="سياسة">
-
-<img src="6deaa228-fef4-472c-819d-400fa6c78630.jpg">
-
-<div>
-<div class="category">سياسة</div>
-<h3>آخر التطورات السياسية في العراق</h3>
-<p>تغطية مستمرة للمشهد السياسي والقرارات الحكومية.</p>
-</div>
-
-</article>
-
-
-<article class="grid-card" id="أمن">
-
-<img src="6deaa228-fef4-472c-819d-400fa6c78630.jpg">
-
-<div>
-<div class="category">أمن</div>
-<h3>أخبار أمنية عاجلة من مختلف المحافظات</h3>
-<p>متابعة للعمليات الأمنية والأحداث الميدانية.</p>
-</div>
-
-</article>
-
-
-<article class="grid-card" id="اقتصاد">
-
-<img src="6deaa228-fef4-472c-819d-400fa6c78630.jpg">
-
-<div>
-<div class="category">اقتصاد</div>
-<h3>أهم الأخبار الاقتصادية والأسواق</h3>
-<p>متابعة الأسعار والقرارات الاقتصادية في العراق.</p>
-</div>
-
-</article>
-
-
-<article class="grid-card" id="رياضة">
-
-<img src="6deaa228-fef4-472c-819d-400fa6c78630.jpg">
-
-<div>
-<div class="category">رياضة</div>
-<h3>أخبار الرياضة العراقية والعالمية</h3>
-<p>أحدث النتائج والأخبار الرياضية.</p>
-</div>
-
-</article>
-
-</section>
-
-</main>
-
 
 <footer>
+    <div>
+        أخبار <span>التاسعة</span>
+    </div>
 
-<div class="footer-logo">أخبار الطاسة</div>
+    <div style="margin-top:8px;">
+        نعلم لتعلّم
+    </div>
 
-<p>
-منصة إخبارية مستقلة تهتم بنقل الأخبار والتطورات أولاً بأول
-</p>
-
-<p>
-© 2026 جميع الحقوق محفوظة
-</p>
-
+    <div style="margin-top:12px;font-size:13px;">
+        جميع الحقوق محفوظة © ٢٠٢٦
+    </div>
 </footer>
-
-
-<script>
-const now = new Date();
-
-const days = [
-"الأحد",
-"الاثنين",
-"الثلاثاء",
-"الأربعاء",
-"الخميس",
-"الجمعة",
-"السبت"
-];
-
-const months = [
-"كانون الثاني",
-"شباط",
-"آذار",
-"نيسان",
-"أيار",
-"حزيران",
-"تموز",
-"آب",
-"أيلول",
-"تشرين الأول",
-"تشرين الثاني",
-"كانون الأول"
-];
-
-document.getElementById("date").textContent =
-days[now.getDay()] + "، " +
-now.getDate() + " " +
-months[now.getMonth()] + " " +
-now.getFullYear();
-</script>
 
 </body>
 </html>
