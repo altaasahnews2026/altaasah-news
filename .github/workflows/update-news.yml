@@ -11,10 +11,14 @@ permissions:
 jobs:
   update-news:
     runs-on: ubuntu-latest
-
     steps:
       - name: تحميل ملفات الموقع
         uses: actions/checkout@v4
+
+      - name: التحقق من ملف التحديث
+        run: |
+          test -f scripts/update_news.py
+          python -m py_compile scripts/update_news.py
 
       - name: تحديث الأخبار
         run: python scripts/update_news.py
