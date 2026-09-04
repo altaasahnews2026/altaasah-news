@@ -1,5 +1,4 @@
 import json
-import re
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -12,70 +11,79 @@ QUERIES = [
     "العراق رياضة",
 ]
 
+
 def fetch(url):
-    req = urllib.request.Request(
+    request = urllib.request.Request(
         url,
-        headers={"User-Agent": "Mozilla/5.0 AltaasahNewsBot/1.0"}
+        headers={"User-Agent": "AltaasahNewsBot/1.0"},
     )
-    with urllib.request.urlopen(req, timeout=20) as r:
-        return r.read()
+    with urllib.request.urlopen(request, timeout=30) as response:
+        return response.read()
+
 
 def category(title):
-    t = title.lower()
-    if any(x in t for x in ["كركوك"]):
+    if "كركوك" in title:
         return "كركوك"
-    if any(x in t for x in ["اقتصاد", "نفط", "بنزين", "دولار", "تجارة", "زراعة", "أسعار"]):
+    if any(x in title for x in ["اقتصاد", "نفط", "بنزين", "دولار", "تجارة", "زراعة", "أسعار"]):
         return "اقتصاد"
-    if any(x in t for x in ["رياضة", "منتخب", "كرة", "الدوري", "آسيا"]):
+    if any(x in title for x in ["رياضة", "منتخب", "كرة", "الدوري", "آسيا"]):
         return "رياضة"
-    if any(x in t for x in ["أمن", "الدفاع", "الجيش", "الحشد", "إرهاب", "مخابرات", "اعتقال"]):
+    if any(x in title for x in ["أمن", "الدفاع", "الجيش", "الحشد", "إرهاب", "مخابرات", "اعتقال"]):
         return "أمن"
-    if any(x in t for x in ["سياسة", "وزير", "حكومة", "برلمان", "رئيس", "أمريكا", "إيران"]):
+    if any(x in title for x in ["سياسة", "وزير", "حكومة", "برلمان", "رئيس", "أمريكا", "إيران"]):
         return "سياسة"
     return "محلي"
+
 
 items = []
 seen = set()
 
-for q in QUERIES:
-    params = urllib.parse.urlencode({
-        "q": f"{q} when:1d",
-        "hl": "ar",
-        "gl": "IQ",
-        "ceid": "IQ:ar",
-    })
+for query in QUERIES:
+    params = urllib.parse.urlencode(
+        {
+            "q": f"{query} when:1d",
+            "hl": "ar",
+            "gl": "IQ",
+            "ceid": "IQ:ar",
+        }
+    )
     url = "https://news.google.com/rss/search?" + params
     try:
         root = ET.fromstring(fetch(url))
-    except Exception:
+    except Exception as exc:
+        print(f"تعذر جلب المصدر للبحث {query}: {exc}")
         continue
 
     for item in root.findall("./channel/item"):
         title = (item.findtext("title") or "").strip()
         link = (item.findtext("link") or "").strip()
-        pub = (item.findtext("pubDate") or "").strip()
+        published = (item.findtext("pubDate") or "").strip()
         if not title or not link or title in seen:
             continue
         seen.add(title)
-        items.append({
-            "title": title,
-            "url": link,
-            "category": category(title),
-            "published": pub,
-        })
-
-items = items[:30]
+        items.append(
+            {
+                "title": title,
+                "url": link,
+                "category": category(title),
+                "published": published,
+            }
+        )
 
 if not items:
-    print("لا توجد أخبار جديدة؛ تم الإبقاء على news.json الحالي.")
+    print("لم يتم العثور على أخبار جديدة؛ تم الإبقاء على news.json الحالي.")
     raise SystemExit(0)
+
+# الأحدث أولاً عندما تكون تواريخ النشر قابلة للتحليل.
+items.sort(key=lambda x: x.get("published", ""), reverse=True)
+items = items[:30]
 
 data = {
     "updated_at": datetime.now(timezone.utc).isoformat(),
-    "items": items
+    "items": items,
 }
 
-with open("news.json", "w", encoding="utf-8") as f:
-    json.dump(data, f, ensure_ascii=False, indent=2)
+with open("news.json", "w", encoding="utf-8") as file:
+    json.dump(data, file, ensure_ascii=False, indent=2)
 
-print(f"تم تحديث {len(items)} خبرا.")
+print(f"تم تحديث {len(items)} خبرا بنجاح.")
