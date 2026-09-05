@@ -101,7 +101,10 @@ def fallback_image(title, cat):
     if not os.path.exists(path):
         t = html.escape(title[:90]).replace("\n", " ")
         c = html.escape(cat)
-        svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675"><rect width="1200" height="675" fill="#06192d"/><rect x="0" y="0" width="1200" height="10" fill="#ed1c24"/><text x="600" y="115" fill="#ed1c24" font-family="Arial,Tahoma" font-size="42" font-weight="bold" text-anchor="middle">{c}</text><text x="600" y="205" fill="white" font-family="Arial" font-size="58" font-weight="bold" text-anchor="middle">9NEWS</text><text x="600" y="310" fill="white" font-family="Tahoma,Arial" font-size="30" text-anchor="middle">{t[:55]}</text><text x="600" y="365" fill="white" font-family="Tahoma,Arial" font-size="30" text-anchor="middle">{t[55:]}</text><text x="600" y="610" fill="#b9c7d5" font-family="Tahoma,Arial" font-size="25" text-anchor="middle">التاسعة نيوز — نعلم لتعلم</text></svg>'''
+        # SVG قياسي فقط، بدون foreignObject، لضمان ظهوره داخل img في جميع المتصفحات.
+        lines = [html.escape(x) for x in [t[:42], t[42:84], t[84:90]] if x]
+        texts = "".join(f'<text x="600" y="{310+i*52}" fill="white" font-family="Tahoma,Arial" font-size="30" text-anchor="middle">{line}</text>' for i, line in enumerate(lines))
+        svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675"><rect width="1200" height="675" fill="#06192d"/><rect width="1200" height="10" fill="#ed1c24"/><text x="600" y="115" fill="#ed1c24" font-family="Arial,Tahoma" font-size="42" font-weight="bold" text-anchor="middle">{c}</text><text x="600" y="205" fill="white" font-family="Arial" font-size="58" font-weight="bold" text-anchor="middle">9NEWS</text>{texts}<text x="600" y="610" fill="#b9c7d5" font-family="Tahoma,Arial" font-size="25" text-anchor="middle">التاسعة نيوز — نعلم لتعلم</text></svg>'''
         with open(path, "w", encoding="utf-8") as f:
             f.write(svg)
     return "./assets/news/" + key + ".svg"
@@ -124,7 +127,6 @@ for query in QUERIES:
             continue
         seen.add(title)
         cat = category(title)
-        # نبدأ بصور RSS الأصلية لأنها غالباً صورة الخبر الحقيقية، ولا نأخذ الصورة العامة لصفحة Google News.
         candidates = rss_images(item)
         p = page_image(link)
         if p and p not in candidates:
