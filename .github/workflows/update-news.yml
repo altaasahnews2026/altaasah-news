@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   update-news:
-    if: github.event_name != 'push' || !contains(github.event.head_commit.message, 'إنشاء صفحات أخبار مستقلة وتحسين SEO')
+    if: github.event_name != 'push' || !contains(github.event.head_commit.message, 'تحديث الأخبار والصفحات والصور وRSS')
     runs-on: ubuntu-latest
     steps:
       - name: تحميل ملفات الموقع
@@ -30,7 +30,7 @@ jobs:
       - name: تحديث الأخبار والصور
         run: python scripts/update_news.py
 
-      - name: إنشاء صفحات الأخبار المستقلة وSitemap
+      - name: إنشاء صفحات الأخبار المستقلة وSitemap وRSS
         run: python scripts/generate_articles.py
 
       - name: إصلاح الواجهة والصور والبحث وقسم كركوك
@@ -42,7 +42,7 @@ jobs:
           from pathlib import Path
           p = Path('index.html')
           s = p.read_text(encoding='utf-8')
-          s = s.replace('x.url||\'#\'', 'x.article_url||x.url||\'#\'')
+          s = s.replace("x.url||'#'", "x.article_url||x.url||'#'")
           p.write_text(s, encoding='utf-8')
           PY
 
@@ -63,12 +63,9 @@ jobs:
               '.social a{font-size:18px;color:#fff}': '.social a{font-size:23px;color:#fff}',
               '.copy{border-top:1px solid rgba(255,255,255,.12);margin-top:20px;padding-top:10px;display:flex;justify-content:space-between;color:#aebdcd;font-size:8px}': '.copy{border-top:1px solid rgba(255,255,255,.12);margin-top:12px;padding-top:7px;display:flex;justify-content:space-between;color:#c1ccd7;font-size:10px}',
               '.headIn{height:96px;display:grid;grid-template-columns:170px 1fr 170px;align-items:center;gap:15px}': '.headIn{height:92px;display:grid;grid-template-columns:170px 1fr 170px;align-items:center;gap:15px}',
-              '.footLogo{width:130px;height:60px}': '.footLogo{width:165px;height:60px;background:#fff;border-radius:9px;padding:4px}',
-              '.logo{width:150px;height:60px}': '.logo{width:165px;height:62px}',
               'animation:tickerMove 38s linear infinite': 'animation:tickerMove 75s linear infinite',
           }
-          for a,b in replacements.items():
-              s = s.replace(a,b)
+          for a,b in replacements.items(): s = s.replace(a,b)
           s = s.replace('./assets/logo.svg?v=4', './assets/logo.svg?v=6')
           p.write_text(s, encoding='utf-8')
           PY
@@ -77,12 +74,11 @@ jobs:
         run: |
           git config user.name "Altaasah News Bot"
           git config user.email "actions@github.com"
-          git add news.json news/ sitemap.xml assets/news/ index.html scripts/fix_site.py scripts/generate_articles.py
+          git add news.json news/ sitemap.xml feed.xml assets/news/ index.html scripts/update_news.py scripts/fix_site.py scripts/generate_articles.py
           if git diff --cached --quiet; then
             echo "لا توجد تحديثات جديدة."
           else
-            git commit -m "إنشاء صفحات أخبار مستقلة وتحسين SEO"
-            git push
+            git commit -m "تحديث الأخبار والصفحات والصور وRSS"
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
-
-# تشغيل فوري للتحديث عند أي تغيير على الفرع الرئيسي
