@@ -2,6 +2,8 @@ name: تحديث أخبار التاسعة نيوز
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
   schedule:
     - cron: '*/30 * * * *'
 
