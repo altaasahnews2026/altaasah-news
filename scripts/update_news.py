@@ -1,7 +1,6 @@
 import hashlib
 import html
 import json
-import mimetypes
 import os
 import re
 import urllib.parse
@@ -73,8 +72,7 @@ def rss_images(item):
             if u and u not in out:
                 out.append(u)
     for text in [item.findtext("description") or "", item.findtext("content:encoded", namespaces=NS) or ""]:
-        m = re.search(r'<img[^>]+(?:src|data-src)\s*=\s*["\']([^"\']+)', text, re.I)
-        if m:
+        for m in re.finditer(r'<img[^>]+(?:src|data-src)\s*=\s*["\']([^"\']+)', text, re.I):
             u = clean_url(m.group(1))
             if u and u not in out:
                 out.append(u)
@@ -126,11 +124,11 @@ for query in QUERIES:
             continue
         seen.add(title)
         cat = category(title)
-        candidates = []
+        # نبدأ بصور RSS الأصلية لأنها غالباً صورة الخبر الحقيقية، ولا نأخذ الصورة العامة لصفحة Google News.
+        candidates = rss_images(item)
         p = page_image(link)
-        if p:
+        if p and p not in candidates:
             candidates.append(p)
-        candidates.extend(rss_images(item))
         local = ""
         remote = ""
         for u in candidates:
@@ -141,11 +139,13 @@ for query in QUERIES:
                 local = saved
                 used_images.add(u)
                 break
-            remote = u
-            used_images.add(u)
-            break
+            if not remote:
+                remote = u
+        if not local and remote:
+            local = remote
+            used_images.add(remote)
         if not local:
-            local = remote or fallback_image(title, cat)
+            local = fallback_image(title, cat)
         items.append({"title": title, "url": link, "category": cat, "published": published, "image": local})
 
 if not items:
