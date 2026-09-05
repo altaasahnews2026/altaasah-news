@@ -51,13 +51,13 @@ def page_image(url):
         if "html" not in typ:
             return ""
         text = raw[:4000000].decode("utf-8", errors="ignore")
-        tags = re.findall(r'<meta\b[^>]*>', text, re.I)
+        tags = re.findall(r'<meta\\b[^>]*>', text, re.I)
         for tag in tags:
-            if re.search(r'(?:property|name)\s*=\s*["\'](?:og:image(?::secure_url)?|twitter:image(?::src)?)["\']', tag, re.I):
-                m = re.search(r'content\s*=\s*["\']([^"\']+)', tag, re.I)
+            if re.search(r'(?:property|name)\\s*=\\s*["\\'](?:og:image(?::secure_url)?|twitter:image(?::src)?)["\\']', tag, re.I):
+                m = re.search(r'content\\s*=\\s*["\\']([^"\\']+)', tag, re.I)
                 if m:
                     u = clean_url(m.group(1), url)
-                    if u:
+                    if u and "googleusercontent.com" not in u:
                         return u
     except Exception as e:
         print("تعذر استخراج صورة الصفحة:", e)
@@ -69,12 +69,12 @@ def rss_images(item):
     for tag in ["content", "thumbnail"]:
         for media in item.findall(f"media:{tag}", NS):
             u = clean_url(media.attrib.get("url", ""))
-            if u and u not in out:
+            if u and "googleusercontent.com" not in u and u not in out:
                 out.append(u)
     for text in [item.findtext("description") or "", item.findtext("content:encoded", namespaces=NS) or ""]:
-        for m in re.finditer(r'<img[^>]+(?:src|data-src)\s*=\s*["\']([^"\']+)', text, re.I):
+        for m in re.finditer(r'<img[^>]+(?:src|data-src)\\s*=\\s*["\\']([^"\\']+)', text, re.I):
             u = clean_url(m.group(1))
-            if u and u not in out:
+            if u and "googleusercontent.com" not in u and u not in out:
                 out.append(u)
     return out
 
@@ -95,13 +95,33 @@ def save_image(url):
         return ""
 
 
+def alternative_image(title, cat):
+    """يجلب صورة بديلة مرتبطة بموضوع الخبر من Wikimedia Commons عند تعذر صورة المصدر."""
+    try:
+        q = urllib.parse.quote((title + " " + cat)[:180])
+        api = "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=" + q + "&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url&iiurlwidth=1200&format=json&origin=*"
+        raw, _ = fetch(api, 12)
+        data = json.loads(raw.decode("utf-8", errors="ignore"))
+        pages = list((data.get("query", {}).get("pages", {}) or {}).values())
+        pages.sort(key=lambda p: (0 if any(k in (p.get("title", "").lower()) for k in ["iraq", "iraqi", "kirkuk"]) else 1, p.get("index", 999)))
+        for p in pages:
+            info = (p.get("imageinfo") or [{}])[0]
+            u = clean_url(info.get("thumburl") or info.get("url") or "")
+            if u:
+                saved = save_image(u)
+                if saved:
+                    return saved
+    except Exception as e:
+        print("تعذر جلب صورة بديلة:", e)
+    return ""
+
+
 def fallback_image(title, cat):
     key = hashlib.sha256(title.encode("utf-8")).hexdigest()[:16]
     path = os.path.join(NEWS_IMAGE_DIR, key + ".svg")
     if not os.path.exists(path):
-        t = html.escape(title[:90]).replace("\n", " ")
+        t = html.escape(title[:90]).replace("\\n", " ")
         c = html.escape(cat)
-        # SVG قياسي فقط، بدون foreignObject، لضمان ظهوره داخل img في جميع المتصفحات.
         lines = [html.escape(x) for x in [t[:42], t[42:84], t[84:90]] if x]
         texts = "".join(f'<text x="600" y="{310+i*52}" fill="white" font-family="Tahoma,Arial" font-size="30" text-anchor="middle">{line}</text>' for i, line in enumerate(lines))
         svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675"><rect width="1200" height="675" fill="#06192d"/><rect width="1200" height="10" fill="#ed1c24"/><text x="600" y="115" fill="#ed1c24" font-family="Arial,Tahoma" font-size="42" font-weight="bold" text-anchor="middle">{c}</text><text x="600" y="205" fill="white" font-family="Arial" font-size="58" font-weight="bold" text-anchor="middle">9NEWS</text>{texts}<text x="600" y="610" fill="#b9c7d5" font-family="Tahoma,Arial" font-size="25" text-anchor="middle">التاسعة نيوز — نعلم لتعلم</text></svg>'''
@@ -147,6 +167,8 @@ for query in QUERIES:
             local = remote
             used_images.add(remote)
         if not local:
+            local = alternative_image(title, cat)
+        if not local:
             local = fallback_image(title, cat)
         items.append({"title": title, "url": link, "category": cat, "published": published, "image": local})
 
@@ -156,4 +178,4 @@ if not items:
 items.sort(key=lambda x: x.get("published", ""), reverse=True)
 with open("news.json", "w", encoding="utf-8") as f:
     json.dump({"updated_at": datetime.now(timezone.utc).isoformat(), "items": items[:30]}, f, ensure_ascii=False, indent=2)
-print(f"تم تحديث {min(len(items), 30)} خبرا بصور مستقلة قدر الإمكان")
+print(f"تم تحديث {min(len(items), 30)} خبرا بصور مصدرية أو بديلة مستقلة")
