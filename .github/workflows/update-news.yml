@@ -25,14 +25,40 @@ jobs:
       - name: تحديث الأخبار والصور
         run: python scripts/update_news.py
 
-      - name: حفظ الأخبار والصور
+      - name: تحسين الفوتر والشعار
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('index.html')
+          s = p.read_text(encoding='utf-8')
+          replacements = {
+              '.logo{width:220px;height:82px;object-fit:contain;display:block}': '.logo{width:270px;height:90px;object-fit:contain;display:block}',
+              '.footLogo{width:190px;height:82px;object-fit:contain}': '.footLogo{width:210px;height:72px;object-fit:contain;background:#fff;border-radius:10px;padding:5px}',
+              'footer{background:var(--navy);color:#fff;padding:28px 0 12px}': 'footer{background:var(--navy);color:#fff;padding:18px 0 8px}',
+              '.foot{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:22px}': '.foot{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:16px;align-items:start}',
+              '.foot h3{font-size:13px;margin:0 0 8px}': '.foot h3{font-size:15px;margin:0 0 6px}',
+              '.foot p,.foot a{display:block;color:#b9c7d5;font-size:9px;line-height:1.9}': '.foot p,.foot a{display:block;color:#d1dbe5;font-size:11px;line-height:1.7}',
+              '.social{display:flex;direction:ltr;gap:12px;margin-top:10px}': '.social{display:flex;direction:ltr;gap:16px;margin-top:8px}',
+              '.social a{font-size:18px;color:#fff}': '.social a{font-size:23px;color:#fff}',
+              '.copy{border-top:1px solid rgba(255,255,255,.12);margin-top:20px;padding-top:10px;display:flex;justify-content:space-between;color:#aebdcd;font-size:8px}': '.copy{border-top:1px solid rgba(255,255,255,.12);margin-top:12px;padding-top:7px;display:flex;justify-content:space-between;color:#c1ccd7;font-size:10px}',
+              '.headIn{height:96px;display:grid;grid-template-columns:170px 1fr 170px;align-items:center;gap:15px}': '.headIn{height:92px;display:grid;grid-template-columns:170px 1fr 170px;align-items:center;gap:15px}',
+              '.footLogo{width:130px;height:60px}': '.footLogo{width:165px;height:60px;background:#fff;border-radius:9px;padding:4px}',
+              '.logo{width:150px;height:60px}': '.logo{width:165px;height:62px}',
+          }
+          for a,b in replacements.items():
+              s = s.replace(a,b)
+          s = s.replace('./assets/logo.svg?v=4', './assets/logo.svg?v=6')
+          p.write_text(s, encoding='utf-8')
+          PY
+
+      - name: حفظ الأخبار والصور والتصميم
         run: |
           git config user.name "Altaasah News Bot"
           git config user.email "actions@github.com"
-          git add news.json assets/news/
+          git add news.json assets/news/ index.html
           if git diff --cached --quiet; then
             echo "لا توجد تحديثات جديدة."
           else
-            git commit -m "تحديث الأخبار والصور تلقائيا"
+            git commit -m "تصغير الفوتر وتكبير الخط والأيقونات وتحسين الشعار"
             git push
           fi
