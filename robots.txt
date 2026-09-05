@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://altaasahnews2026.github.io/altaasah-news/sitemap.xml
