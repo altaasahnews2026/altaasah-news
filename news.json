@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-05T19:39:15.460600+00:00",
+  "updated_at": "2026-09-05T20:14:02.770565+00:00",
   "items": [
+    {
+      "title": "وزير النفط يعلن رفع الطاقة التصديرية إلى أكثر من ثلاثة ملايين برميل يومياً - قناة الرشيد الفضائية",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PcGVmSVFBLVVyRFloaGV5SDd0R3FUSTVDeURCOXlZTUF6cy1OaDJqOHpTdm5tYjRMOUkxWVpKNEkwNjR0U3dkUW96ejMybWs2TlRWUFhTUzM5SU1vZ3c?oc=5",
+      "category": "سياسة",
+      "published": "Sat, 05 Sep 2026 19:58:14 GMT",
+      "image": "./assets/news/f97f4e140dbcf9d2.svg"
+    },
+    {
+      "title": "تغيير مرتقب في قيادة عمليات كركوك - شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPSjNqS0tVTGRaU3hwV2dfbDlnaFlkREFobTg0RjRYa0w5cFY5ZXlCMHNEeFd2UVgtdmY0cTZsVG1LT24wNDVSeHFBTGZvZnlXT1RnRVU1VXpzVjg1QVFZVGVtbVFnbzBOQVd1a2JSN2NERVVEUUpydkx5VXlYd1k2UGxTMDFHTF9QNGszbzV0UlZhU1JUQ0lObUFpZmswcHRuX2ZGX0R4NXpfdGZVNkFFRldQZHBjdU5rb0U1MmpUckkyQlhWS0xBWnN5ak9rYUE3VDFPSXhqb2NXS1lnUllUaU1Pd3FXTUtaa1dscWoycF9uLWZNQVNFNnBUQUswZHNyUHBYVjh1SzM4Q3E2REk2V3gxaU9IMUVQdGE2YVhGOW9CTkduVDM2N0owSEMzT1ROODhXaU9qYnJPUVJyZGxyQkxR?oc=5",
+      "category": "كركوك",
+      "published": "Sat, 05 Sep 2026 19:46:40 GMT",
+      "image": "./assets/news/9be010b010d87f80.svg"
+    },
     {
       "title": "الشيخ حمودي: إنهاء التواجد الأجنبي مطلب وطني ودستوري لا تراجع عنه - الواجهة - المربد",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vRE93ZDhPZmpOMS1mR1RXUVJEMWI2eTVoNkhMQ0hYMlJmSnlwUEpBSTBUZFhxTGdWRXF5V0M4RTZtRGpSLTZmazBsbkZ6Sl8y?oc=5",
@@ -9,18 +23,25 @@
       "image": "./assets/news/6d2518aa21b8714e.svg"
     },
     {
-      "title": "22 دقيقة تمنح الاتحاد رقمًا غير مسبوق أمام النصر - winwin.com",
-      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPeXhDLVJwbTVmaWt3RC1uSUVucTVTVWpTb1I4eXlDbTByOTZuQkdXTGxPZnVjNHJaclJrVE1QMUNmRlNjRHdYa0pkU3FSVnhrZlcxSXJoRk5XWG1HZ0Y2SGlBOHdEcHo3Tk9hSVQ1MW1vU255d0FPNW9jc1JYS1BDMHVSTGlpdnhWZmQyMlhHdS1MUkR6NEZwVnJYeXh1dFRFZ1h1VDkya0p0UEk3bXNLZUxNSGo5cmdKMXVYSGVFWDF1MnRIbWR0RExNMnZDM2VpeFRkOU9Vdm84X3ZuWnlmdUVvbkNleG9VN3V0aFJFNDZpUWVXdVloVTJjdks0bTI1NEpvOC1heXVOQS1NMmJqc3dEbFpCWTAzYUgzbEVTSkE1V1dRRzRET0VabFVSUlhtS3BfdDJhVDJFNkFiU1dTMVJzSmRGLWV4TE12T09EWjFJX3o4QWhCekRMcXNBVkl6bXdXUVMtbmdnZVZEbGV3OU95QkNrRkI0UnFhNm15UmhWSko5ZEdWZVBwcUJac0xiRVJONElxUE13ZzEyVldDMXJ4dlRnQVRiTXd3ZVpoYVp1dw?oc=5",
-      "category": "محلي",
-      "published": "Sat, 05 Sep 2026 19:18:08 GMT",
-      "image": "./assets/news/ea95388e724169af.svg"
-    },
-    {
       "title": "\"عمال نينوى\" يتوج بلقب بطولة للمصارعة في كركوك - شفق نيوز",
       "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQRDJ1TVFQU0RxdXhJQUkxajNYZnhCZjlJdU5ucjhWMkdRRjhjbzZySEk2a3JYZDdLYV9yRmE2cjdzdkN4V3psaUxIbVNEYkNGTTdyUm1ydk1qaW96c3QzRUozQklmUTV5WXExUGpfd2tjUXVKYlFoTUh3RXdnenpnbHIzVU94RFZPdlJ6RTlDMEp3V2F0SzRET09KaWR2alBaVGdYbDNQbzJ4MXNOdW96UHB0U1RzMktwV05zZVZ3WG5laXZLUnNHaXctZ3NNUEZNQnM5akZXbTNvSWJNQjJhYVB6ZURRQnFMaXd1S2VwVU9OLWwtRkNYVDF2aDZLRzBDbTY4SFFIN0VFR3NIN1dlS2FpdHNRdEJZTEdzVThHSDF4T2RkTURXRWhTYms1V3J5ZG90LVpKalUzdngtNHpYZm4xQ0tKLXJsRU5zTHdvalQyX21RYS1aeWFkYVBYWXBHbG5YNzZqWFZ0SDlNemhISDhPaEVKTWtIVW45UFpTQWVzRUlqVFROYU94NnFieEpnRjRJVXdCT2RVNzdL?oc=5",
       "category": "كركوك",
       "published": "Sat, 05 Sep 2026 19:14:44 GMT",
       "image": "./assets/news/ed7eff333b675c5c.svg"
+    },
+    {
+      "title": "استقالة أيمن الحكيم من تدريب الكرخ العراقي - صحيفة الخليج",
+      "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNY2ZkTVBYdkhjNTluTUxxcGc1NDBmbjhEMTRCdE1XV1g1TDQ4MnJsRkx2YVZXdHRvN1ZPY0dJUXY4aDVoM2IxRnJ4M3k5M0RiRU1pcnB1NUpQYVRzcFFMMDhudEpuQldINFpIOENFOVpXMVByQ0pQSUZIOENTeWgwS2NEcHZpUDRjYkVpYkhEZG90Q0IzX0tobnRMX0hkZEN6ck1rZExORVUyY1lTWmZjOEFOSjlYNU1uLWVCUlRiSkpaSVZUdWloSzdONzA1d0JwODNTRm1YczRuVndjcjlWZm1qcHR2REdVMmUwdEN1QjNXTGxLQXJlREZUMHVOdTNWaklIWEZaYzY3eHpoSUZlODBpUFM3b2dReURBVlZrZm1hMDdJdkhBTWgwaG9Qd2ZNUDNWZFlIR25mcHY2Zlo4ZzAySnNHdEtpd2VXOWxnUEQ3YW5TWlR3SEh5NHc4YmRRbUd6UlZ6NGlmV3hNR0ZDZDAtSHg0ZkJJdURmZnBNTGxKRDNjNWppY25YMEIwdGFKTG14NUlNd0Zod2xScGdHdFJybTVCYVVTbXpyaERfN2hvTUJNcnM0WDB4RE1GUERHeXRIOEh2c2J2RGo3Rkd2end1Wmc3ODIzUGVpT3NXb0l0RVl2SkxaZjRkQmtyZ2tO?oc=5",
+      "category": "محلي",
+      "published": "Sat, 05 Sep 2026 19:07:44 GMT",
+      "image": "./assets/news/103423a3032c4177.svg"
+    },
+    {
+      "title": "واشنطن توافق على بيع ذخائر هجومية إلى الرياض - alraimedia.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BbWtMV2QtOG9RUDlXcXNEdFZCSEJMMWtqMlZoTzdnZWRkdkgtenNyalFzTWRmajZZd3BjX1IzVDNvaXNvSUhnVWJaa01VNFdWbEtIVWpnY0TSAVhBVV95cUxOQW1rTFdkLThvUVA5V3FzRHRWQkhCTDFrajJWaE83Z2VkZHZILXpzcmpRc01kZmo2WXdwY19SM1Qzb2lzb0lIZ1ViWmtNVTRXVmxLSFVqZ2NE?oc=5",
+      "category": "أمن",
+      "published": "Sat, 05 Sep 2026 19:00:00 GMT",
+      "image": "./assets/news/918cd52dbf239ae2.svg"
     },
     {
       "title": "ضبط محاسب تقاضى رواتب موظف \"وهمي\" لنحو 6 سنوات في نينوى - rudawarabia.net",
@@ -37,11 +58,11 @@
       "image": "./assets/news/9dc45e339430bfaa.svg"
     },
     {
-      "title": "التعادل السلبي يخيم على مواجهة زاخو والطلبة في دوري نجوم العراق - المعلومة",
+      "title": "التعادل السلبي يخيم على مواجهة زاخو والطلبة في دوري نجوم العراق - almaalomah.me",
       "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNdGZpb1NERGFNVS13UEJTME1oNDRhVmItVzhHTU5SM2M3RUtRY2RDUTREZGJ4MjRFQzdRNGs4TjBRVjVma1E2R3o1RWtKektBS3JVdmtMRzNXdmlNd3lfYmtPTlVBMXdqOGxGekI1SVFzMXVXM3pfU1AtdUJnQnZDRVNOcFlud2FxLXNvRHZBNGtSalR0UFZVRzJxZF9tSndyUm1qZHhBQTY0Z1FoWnVpa0J1S2hqdjdyZ0lKME5oV2FCdHk3MXhaS1pqR2pxc0dwRXZMVEJ5SlphNUdlTC1wRWpEaDNpRmZRcGFZZFRwc2dwcVVpc2JiQkdrQzhiX1phZllTU1JueUtVb2R3VWlVRHl4TmI2WnM4TE94RW1pblo4dHAxUUJ4NWNpVHA1VmlSY2Z4SG9nbDBkb1JMdEhzcDRRZnY1VllxTlZ6MHJxanpIcktteFpDRTJzeno2YkhoVjdTWXl1UWtNUGVpR1c1LVdmUGxzSEs5ek1nUXpodngtZ3R3dDllUm5ZZVZEbnZZZGltRlo3MkZXb0xXYUNKenVBUVl2SGk4LThzeTF5Nnh3My1xcEVrM2RJZWd0SFpiWGJrRE05dkhJTHJyN0NkZWV0MlczNElvQXFkV3A5YzJLRTJMY3k0OHJZM3VVNktN?oc=5",
       "category": "كركوك",
       "published": "Sat, 05 Sep 2026 18:22:57 GMT",
-      "image": "./assets/news/fa268bb9fa680559.svg"
+      "image": "./assets/news/736c030a2fe2b217.svg"
     },
     {
       "title": "\"فرح العطاء – العراق\" إلى السليمانية: مخيّم يجمع 75 طفلة وطفلاً تحت راية العيش معًا - المركزية",
@@ -49,6 +70,20 @@
       "category": "محلي",
       "published": "Sat, 05 Sep 2026 18:22:05 GMT",
       "image": "./assets/news/d932e21761531e23.svg"
+    },
+    {
+      "title": "عملية أمنية واسعة في ألتون كوبري عقب هجوم على الحشد الشعبي.. وخيوط مهمة لملاحقة المنفذين - ShiaWaves",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQQzBWTWUyRlhPcE5tS1hTN3N2eGRKRVkxdzRsQ25wVXNKYVFlaFlvUU9wSWVSeEh1OGFIeTRGeVZ0dkMyamE2SktGblhJdUQ3YWJHNFpmVThDM1FSNkdLY202X0E4Z2c3OGl4OFNzUHNkRW82WU9uMzdWQW0xNk5UY0hqbldvMVZ6eGpmVUp0OTFKNWFZdEN2OGpaN1lFbVlQWklxM0ZjeExMV0Z4SlZ1cUF5cklHblZNR01HenFiU2Mzc2N4OXB4WG5uYzNvSDZmc3ZNS3Z3cHUwQjUtV3llN2VZa2toMEJJQWRFZmIxV1hDTTYwWFRHNTRtcmwwLTN0UFd4XzBqSWVITDFsdEkwY2tYTUFCTnJzOWNrd3hRNWZZZE90Qlc0SkktTnZNZ2lYdndFbGxCakpLbGR3SUFQYWxNaldKQ1pybHpkMDM3SFI4eF83UGdXRU5CUUxCY09ZTUYteGJSM09pQQ?oc=5",
+      "category": "أمن",
+      "published": "Sat, 05 Sep 2026 18:21:31 GMT",
+      "image": "./assets/news/ad234a0f3d6fdd97.svg"
+    },
+    {
+      "title": "يونس محمود يُطيح بعدنان درجال من رئاسة الاتحاد العراقي لكرة القدم - الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxQcXpvWDQ0U0duY3o0TEFtQWhtVnBuc1pCV0tmVFoyMWRjNHZjQzc1anZnbHJwLTltUTNteVMyTnFpand6RHVxeWs1NVFHdGw3NFNCMFBuT1NyTmxSdE4wN2xONzVZNjhwRkhTb25Jd2pYSkJTVUhnZzZHVkNKd2JkTlJDT1VLRkJLam84N3l5Q0R3dXBfUGdNQXNyRmRJZUpWeEhlSzVfSm9uMGNCOEpINmZndTE1RXZiMGdHVUtvVVhIOEpaUU5RamZmTk82MG92ZHlmVk8xbF94N3VvOUtIWmduTFJmYjRSYzlGRm9mS2wxQUUzVmhyQmhjeTJYZ3dkYWIyQlB1dm5sWl90RjVpYkRqUzI4WDNJTmRjQnNBWmo1c2xSMFlSVHRlVko4YnNDbGNyTkJKNzViZnNzZVI2QTkzRXdPaGxEQ1Q5dEx1VmtUZTl3T1gwWFZvcDc3ZGFlaHQ1MnduX0VmZGI5dGhqRjRROEZxN3NlRXZoMHpWSkE4SUdUanBSOUliQ3ZnWTRfZ2lyXzNiTVotaF82UXQxalhDY3lyYmxuYnVsTFJvVXNmWFFvUEh3OFA3Z0Uzd2VNUnN4WHlsVEVCQlhtSEx5SDhfTmtRMld0YnZjS3l4VmdEaHdWNWpUdFRaQkJ0akhrM183Z1dUMlhRanowLUFWNWt6Q0p4c1ZYV3ZaRUdfcWtWOEU3NFRaYXV0STVsZnFDa3c1d0oyUllQUXdUajFVeVBVamdWRFU0NTFlMmkzMnoyOG9lT1BjSER1RmtoYUd1cWtHR29HbG9zU050eHU1RWNSaEx5NWFGZUNCazhzTzRueExuRnc3QlppWEV6UkZzTHBCU25HbmxsZkpFRUZVYzJB?oc=5",
+      "category": "رياضة",
+      "published": "Sat, 05 Sep 2026 18:20:44 GMT",
+      "image": "./assets/news/2a6d119c7f7de0ef.svg"
     },
     {
       "title": "مصرف الطيف تحت الوصاية.. اختبار جديد لثقة العراقيين بالقطاع المصرفي - العين الإخبارية",
@@ -65,11 +100,11 @@
       "image": "./assets/news/6e6813637ef936e8.svg"
     },
     {
-      "title": "التعادل السلبي يحسم مواجهة الطلبة وزاخو في دوري النجوم - شبكة الإعلام العراقي",
+      "title": "التعادل السلبي يحسم مواجهة الطلبة وزاخو في دوري النجوم - news.imn.iq",
       "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPVExRNEViVFJrSHdPYUN0TWhOWHBESnowcFZOZkpyRERraGRPVDJTNzh5NE1zM3FpWGU5Z3R4R01HUDRvVVhfb21pNmt2Q0U1NFh6NE5tTjRZQnp2cnFsV1M1dGNxNmNMLXpJQmIwMkp4ME44OHEyY3ZhNkY1TVBWN2lMaktEbXFUMFpNU1E5OFR3cGdiRVpxZjBGSDlwUDVVTnRRalBhdHNCR19OQ0E5YUdlaG5rQ0lHSVpfRmdyMzQwUnRlTGVxdFVmQVh5TVZMb1pSMWkwVzVpbWFCU1NvdHFKM2RTRWs4dzdpa0w1aGVralh1OXN5bXZDVlh6aDhUREhHbmJ0UzZFZGx2RGVITWpSY3BYbEVueFpjNjBheFQ5UDVNTEtLMzZMOEhoNzJvR1pHdDBHZk1PSERsTy1uNjZwdl9wQmdzSlZfU2x6LWRvTkUxRmJPbHlQX0VlQmUyQUxEN2lFWmpXbHNPZUc3TGRCZms4WkE3UWlUQmk1Mzg3dzE2VXlHQmd3Q3NzSWU0eHlpVU1aM1piT0sxazdHVWZkNGdDc1VURmU4R3dwSkx2VlFHbzRkMDRPWThfM09y?oc=5",
       "category": "كركوك",
       "published": "Sat, 05 Sep 2026 18:08:34 GMT",
-      "image": "./assets/news/3a721630b32c6885.svg"
+      "image": "./assets/news/99e48b663a98e778.svg"
     },
     {
       "title": "طوابير أمام محطات البنزين في بغداد - صحيفة الخليج",
@@ -93,18 +128,18 @@
       "image": "./assets/news/4160f0c3946abc3e.svg"
     },
     {
-      "title": "العراق يشارك في اجتماعات الدورة العادية الـ(166) لمجلس جامعة الدول العربية على مستوى كبار المسؤولين والمندوبين الدائمين - وزارة الخارجية العراقية",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9PaEZhWi1YSjQ2YzlMYm9GZzVxcC1PTVdVNFNRbkF3Y24xOHZ4RE1BeTBpVUtvdWRNMkRmbjFXbG9rQ2J2a1E?oc=5",
-      "category": "محلي",
-      "published": "Sat, 05 Sep 2026 17:33:48 GMT",
-      "image": "./assets/news/112835be235f0ca7.svg"
-    },
-    {
-      "title": "أرنولد يفتح باب التغيير في منتخب العراق قبل \"خليجي 27\" - aajeg.com",
+      "title": "أرنولد يفتح باب التغيير في منتخب العراق قبل \"خليجي 27\" - العربي الجديد",
       "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQNk5PQklFaGI2LVlmZTZERFR6Y0wxM1hxSzdjbFpuN1BLcnJqT1lpZlZkNkhuRTFBeVU4VzloQmU4OVRlbFhDUVRkaXFEbTVLeU1kNkhHYUM3dWtoc2dBZGM2R04yd2JBWXlPOVhYaG9QekxaUVJra1lOZXJ1MklTWlFYVXpUSldiRGdDeEFuVlJELWVCalVGR0ItU3JYaTl3TVlHZ25TSWd4QndIdlhLbG5jWGVoSjVzSm9wcHNPMmlSQlhQVzBRU3hCZEZ5UEJPcjBsYTRjUW5BOXUxc0loVnY4RVdCelc4WU16Z2t3dDFmandaWHVsTXdtbEtUZjBrRERnS3I5d2dKenRyemtMWnFzUWZXXzlvZk1YZ1Y5MGRUTzdjc3pnLUxkTE5WNG1yT0V1a2JxZk5fUUNRSW5OZ1B0VUNxclA1WlpkSkJ4N1o0UjRFZEVjSVpkUTJxbVg0Z19tdEdrRm9yV2gtMnMybldaOHJEdWxxNkx0VGNuczh5Tl9iME0zRnpNeHNLanNXTWswMmFielBOeEE1YnfSAaMDQVVfeXFMTi1RTVd6eUtwdEJBVnp5Rm1jb1AyVzlkRS1PbHoxSFQyZzVacGlFTjU0OUFaQWFmTTMwRHItUnBZMXp2eWUyS05GRXNQR0ZnSGtiQlI0QU1FRWprcExFMkpTYkJBUmFVTEJRcXN2M3lGOFAyeGhnOVRIdWk0VnBGcXpfaTNZU1RoUHgyYWgxMjQzdU82eGFOOHFLbjhfSnRNT1FaS1k4ZXpHSmZEa2o4QzYwdHVlV3Q5ODNpcktmRXJpSmFGLVAxTk9WZ3VPVnQ0Nzh2R3gxZC1tOUNaOU9oNmc2Q0x5UXhzQ1BCanVtdGFWbFI4anAzaHR2cUVvTGlCekVkXzd4bXR1eENieVVXd1lncmFobXNmLTg4ZkszN2RvTVl1RmN2QlNhMmluU1Y0ZFgxeFpiYlIxTjRZREpPcC1mWmlYXzQyMldKVGJlUS11ZDJDQldZVVFBMG1HVVltUzVSWnVtZE1TOEpUY0I5WkJWdUlaODJrVHpzSFlCWU9leU5rc1ZXb3lNVDQtVlRIbXlleU5lSjZGY2xRcEpIamcxc0E?oc=5",
       "category": "رياضة",
       "published": "Sat, 05 Sep 2026 17:33:42 GMT",
-      "image": "./assets/news/1b63fc263443004f.svg"
+      "image": "./assets/news/360b62cf061f6218.svg"
+    },
+    {
+      "title": "هل يستطيع العراق رفع انتاجه النفطي إلى 10 ملايين برميل يومياً؟ » وكالة الغد برس - alghadpress.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5maGM5WU1BNVhrOEUtQl9kazFIdFRuZmw0RFZYMGhRYlZtQ1ltR0RmdFpHZTVubm55MmRTMnd1b04ya3VYU1lCa3htbXgzdjg?oc=5",
+      "category": "محلي",
+      "published": "Sat, 05 Sep 2026 17:20:57 GMT",
+      "image": "./assets/news/d3b6d06018f165d2.svg"
     },
     {
       "title": "سيدات العراق يهزمن قطر في بطولة غرب آسيا للكرة الطائرة - video-agencyia.iq",
@@ -114,11 +149,18 @@
       "image": "./assets/news/a37fa1d08fe6c55f.svg"
     },
     {
-      "title": "النزاهة تضبط محاسباً في تربية نينوى لاختلاسه رواتب موظف \"وهمي\" على مدى 6 سنوات - شبكة الإعلام العراقي",
+      "title": "العراق يؤكد للسعودية رفض استخدام أراضيه منطلقاً لاستهداف الدول - الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMijwVBVV95cUxOMm5qZVRNSmt0a3BvekN0OG9NZE9uUklGX203dUZqblBHb2s5cWkxajJteWs1aUE2X29lWUVQTnNmMmNmTG9ReGxfSGU0RmczRHRpR3hKSkp5MXIyLUZNWmViVkYzOWhhdWhHS3JyVHhMN1hZMzM3WVdCMTFiTGo5eFlkTjdsUG90Wkt6UGJuZTBaUEhER1MwdDFUWjdkRWV5c2JldlB2cGVKUFFJanJ0ZmRVMjN3VEpxbTBEenZzX2RMd0gxcjZsUF9VdzgzdlJqMXhmWjd3am9POEd6Q1ZoYThyOUtFSGNKOUZjcEtGRmRFbXFfS0x6OVVfYWpvUHFmTU94c1d2UWVsc3VCNFh2WFEwRjVuWU1qWnRpWUhqQkN2UUdfOFdZbGppdHAtVVN4dUJfLVc1VWNTZHpnQXBHM0pPeUdhOTBhelZCc0RMLWZqLXlVQnNudWxrZHlVWHlYRlk4RWJnWnB5bDh4aFE2emJyZjlQN3Q3SlAwdndObXQzWW5ENGhYWnhJR29BTG9mTXFVcTBpOG5ZS0ViSHRXUGQ0dTVCc0JLNTZPQ1NmVzh5ZGtrc1NJNmswbEpDSngySWtvOXZMRThFem90MVlqTHdwcDYtbXVGX25MOGNqcndGdlhPUTMzQWV0X3JFQVE5dFVhb2VvTk9jUFRpQThMX2oxMjFzcUhhNnRyWjEwckFzN1NnSmh2N0FUMk1lUU1oUU5CTXJXaHZBWEJkUGlMbjhFX1NoSGlMMC1YYnQwXzhHS0lqZUN5M3k0TWpxWklzSWY5Y1BFVVJyN2FyZWRobTJ2emxxeEpzME9fV2c3SHI0azNBMEV1MDNsN0RyOC1BUDd1TjFSeWxrc2ZMX25F?oc=5",
+      "category": "محلي",
+      "published": "Sat, 05 Sep 2026 17:09:33 GMT",
+      "image": "./assets/news/b681768bfa80f1cc.svg"
+    },
+    {
+      "title": "النزاهة تضبط محاسباً في تربية نينوى لاختلاسه رواتب موظف \"وهمي\" على مدى 6 سنوات - news.imn.iq",
       "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxNQ3VYZk1LbDNGYTdJYXE2bmUwZWtVZWZwT1kzLXhlX2laSy1MWEpyV1NRRHl1dmVENTBmLUUxdXR2dzBCTTZPX0ZUTE00amVyVm9OZHBOVk5MdmQ4alluLWlGeFdUcFplakJNcDg0a3hXOEZpSy1jMFBQTmY3aWQxbUd1VUJtSERfZDlKcjAzbDNhN0JQazB3c3NzUk5maWNlNW9kVjBSMzR2MVpTb0xJTS0ta0dHVDZpaDE5cVpUemxGRmxoMTRVQUxrZU1GRHFLZkRRTnhvNTJMaGhEY2xaS0hQSE1iTnpGTTJJZEZneG5KaDVwSy02VzAxa21acERURVV0TzZybDdIeFlrS0QzUUI3N3V3V3R4Yy1aTHhBNEx1bVVNcmZEa0s4SHl5ZGJzcTlubmZlZFFoNHpydEVjdGozYmVLeFJUZWt0aXFTU09jU3BOMzBXLWVvSmJvYkwtSmRTdUk0a3VGaFBfVVMyWFFRWGtFNW04WU9xNnd6bGIxdEVuNWQ0aTNKeXVOa2llNVBDUUEyV3ZBZnNDVmRFeUNpZE9lMXVJbHh1UzlLQ0VlMXFJSVVDSXV1cnd3enlGREx3VFB3Z2xHdXRRajZ1UHViQVdaYm9sVVR6SS1QVHdraExsRmt4XzBvSWtWTHQzZzg0OFQ4LVNTUmdPQnlKMUtWWk5NUThINm5tSGs2V0F6R0UtRThsT3FsbzJxMTRjYlEzQTlPNHZNd3hoMWZHUHJ6bWVSdGwwNXBoOXcyRWVqYUFVUm5rZQ?oc=5",
       "category": "محلي",
       "published": "Sat, 05 Sep 2026 17:04:18 GMT",
-      "image": "./assets/news/1cd5176d439f9d7e.svg"
+      "image": "./assets/news/e998920a148010e6.svg"
     },
     {
       "title": "حقيقة افلاس البنوك في العراق وتفاصيل حماية اموال المودعين - الوقائع الإخبارية",
@@ -128,11 +170,11 @@
       "image": "./assets/news/d263b60808b7a397.svg"
     },
     {
-      "title": "مانشستر سيتي يتغلب على كوفنتري ويواصل صدارته للدوري الإنجليزي - شبكة الإعلام العراقي",
+      "title": "مانشستر سيتي يتغلب على كوفنتري ويواصل صدارته للدوري الإنجليزي - news.imn.iq",
       "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxOUFcwM0VxM1pxWF80Sk96c3NRaFZGa2RPOEJBT2Rld2t4RE5TeXFSMEJ4TlZjcUxYcF9haUZKRE9Wdmp2d1hiNkNURTFwaDU0bzVkam5Ka2VsTTlnOEJ4d1d2bi1Sekt4VWtQMFBXOWNVc1d5VzUwZERiY2pWYlFrbFp0S0dva0JFRXYxdVk0LUwxNU1Jdjd5UTZWYVJIc0R4dXYxT0p6MW9IWk0tZjQ3VVVKQUFEVHpoMENzRzRKMVJfNmg0Yzh0VGl0bUNZclI1NklHOUhnVGRPb1lNV2U5cG9uV2ZhbVJTRHZBbjdGOENvbDhnVkNpbzI5aFZNa3d3Y19qNi1RMFhadHlkZUgxT3VFUXdlNnU2WGl5ajIyZmFtYmN0Q2owdmhhSUtQUWRsUzluWDZKcmF1dFFGbk9KeWlYa1dsaFFnOE43SE8tbmtENnpuVjZxVldCSTd6M3J6cjNaQXFHSzF3R2tuVXdqZXo0dnFPZEduclJDN3NGWUxWRk5UVmJzaWRzeHN1b0MtQngySjhPZnJDaG5mU3R4eXJTeXZWUTUtZjVtREJ5QUk2NFd3YVhTOVRCa0xWWUpPdHd3ZUI2WXd2dGNMajFFbTBHdnc1ZFRSVEdkaW5scmhLOGhvRkJ2cXhjQUFYYzc0cHZPZnZEMC0?oc=5",
       "category": "رياضة",
       "published": "Sat, 05 Sep 2026 17:02:16 GMT",
-      "image": "./assets/news/b7183098896dba32.svg"
+      "image": "./assets/news/73bef119d39f1f9c.svg"
     },
     {
       "title": "واشنطن توافق على صفقات تسليح جديدة لدول خليجية والعراق - newturkpost.com",
@@ -142,11 +184,11 @@
       "image": "./assets/news/e4a054a9649cc37c.svg"
     },
     {
-      "title": "استقالة أيمن الحكيم من تدريب الكرخ العراقي - صحيفة الخليج",
-      "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNY2ZkTVBYdkhjNTluTUxxcGc1NDBmbjhEMTRCdE1XV1g1TDQ4MnJsRkx2YVZXdHRvN1ZPY0dJUXY4aDVoM2IxRnJ4M3k5M0RiRU1pcnB1NUpQYVRzcFFMMDhudEpuQldINFpIOENFOVpXMVByQ0pQSUZIOENTeWgwS2NEcHZpUDRjYkVpYkhEZG90Q0IzX0tobnRMX0hkZEN6ck1rZExORVUyY1lTWmZjOEFOSjlYNU1uLWVCUlRiSkpaSVZUdWloSzdONzA1d0JwODNTRm1YczRuVndjcjlWZm1qcHR2REdVMmUwdEN1QjNXTGxLQXJlREZUMHVOdTNWaklIWEZaYzY3eHpoSUZlODBpUFM3b2dReURBVlZrZm1hMDdJdkhBTWgwaG9Qd2ZNUDNWZFlIR25mcHY2Zlo4ZzAySnNHdEtpd2VXOWxnUEQ3YW5TWlR3SEh5NHc4YmRRbUd6UlZ6NGlmV3hNR0ZDZDAtSHg0ZkJJdURmZnBNTGxKRDNjNWppY25YMEIwdGFKTG14NUlNd0Zod2xScGdHdFJybTVCYVVTbXpyaERfN2hvTUJNcnM0WDB4RE1GUERHeXRIOEh2c2J2RGo3Rkd2end1Wmc3ODIzUGVpT3NXb0l0RVl2SkxaZjRkQmtyZ2tO?oc=5",
+      "title": "بالفيديو / رئيس مجلس الوزراء السيد علي فالح الزيدي يستقبل رئيس وأعضاء كتلة الإعمار والتنمية النيابية. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMimgVBVV95cUxPdnQ4cUE4SEhFRVltSTJGOXJVLUFiUjRYdFFnbWFKMUdqZTVTdWwtUHRVRGZOb3hGbzdRdXhLS00tWVZIVlQ1ODB6b3BSb0ZYSnh6cHlwelJXVnhtbTRNTGtIbzBfVHlEUHVNQjd3WVNpVFBxeGpfNDRQZW94TFNycWF1UVg1WkNBWHF5OHRFZ0d6M01HeUdOSVdsaU1mb0E2TDU4cC1CbXJQTGdRSkRzQzNsbTl3eGJJdnB0bnFMcE0tM1FEVjJ2ellSUk5EVGNnOEpnZmU0TnRvSTNtWnVQMUdCSWJyN0dxeXAyQVkyMzc0ZU1tTTRaQV9LVThzU1lZQW1ER1FFdlc5SERVR1R2X3NZckQzZ3BWOUhJdk1kaThTM2NYb1NOb1FEWDdXb3pQazQzUmRTajUtMWlsM2d6UHY5R09fRzFoQVE0cjJLWHBGdWloM3BIcGR0RG0tSzNtYUo2Q2hqMEIzelNkWlFiY0tXTEtING5rMTdsamVXRF93dEdVTmJDdDBWREMwRmhHc0R2YVlhZVh2NFRLRm4zM0FzSFE1aFBDekFBNEg4Tm1OMXdjYVl6N2F6RDlfRDdYVzRadmk1OE5TUFh5RWFoQnRFV3NPVDVKc1NSV0NJcnFfR0J3eGlrVm9adWhxVHE0NHVYMmtwRGQtVHRHZnlGeHpFSUJGM25OYkVGRlZNRWFwOFlrbnpEOENNTlZxZ2NtSHM0MVdSY3E0b2tTXzJ0czhWTm5OdEFwd3p0YzFiZHNzY2RJQ0t2RmRDb3NNSUhsSW1qZVRCb05ZRERRRlRYODlDbFNJRFhxdzlSQ25VVmhweWd2SW1qT3JsemhjZ01RSi1CakNMc2EzS2hKZ3MweTVIVXhFVVljN3c?oc=5",
       "category": "محلي",
-      "published": "Sat, 05 Sep 2026 16:32:01 GMT",
-      "image": "./assets/news/103423a3032c4177.svg"
+      "published": "Sat, 05 Sep 2026 16:25:56 GMT",
+      "image": "./assets/news/f8aa5fafc1615b7c.svg"
     },
     {
       "title": "طائرة السيدات تخسر أمام العراق - جريدة الراية",
@@ -168,48 +210,6 @@
       "category": "محلي",
       "published": "Sat, 05 Sep 2026 16:20:29 GMT",
       "image": "./assets/news/bdbc666bd86da8e1.svg"
-    },
-    {
-      "title": "الزيدي لكتلة الإعمار والتنمية: هناك (44) مشروع قانون من المهم إقرارها - AlRabiaa TV",
-      "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxOUTB3a0QtR0gyS0Q4VktPU2E2dFFsajFWVmZ6THViazM2ei0zbENkN2Y0bHJLN1lEQ2ZENmxSX0JTSnAtUTJSbTlDSURoaTVOcGNwODJuUk1URnhnX1BCZTFqazFpUkQ4N1k1bmc2UXJERFVPS1hoTS1OZ3ROWldLQ2pxcTNOTDB4U0ZHVEM3QlBWZHBaWkh2RVU0T0JjWTlVMHVMVnRGUnFjVnRUMTMxQ085SDUxUGRvYmJyOTZ5eWh5SlpUeTZkTndDektrVEF5RXMxYUlKQVh2ZVpKeFA1OG9jSmtjUDhHZXRwbG4yb0diYnRWY2pEenphaUtsODFLMWlWc1A4eVo1R1YtS0t0R1c0c3JrVm5uMHBPb1AzZG1memNzcGx2Z3J0dXpMV2NVdGxfMTBpa1hkRGZjbFlXZ2FCdms2Nm15b1UwU1QtSERIdFU2dG90M3ZFMG1pMjJGbHNEcUxzRG04cHBIUC1oMHNjVHFGQ2NmTVNrR2pQZmE5WTRUa3V2MGhIenRJQWpCMXQyYUF5bXlsMW4wM0Rqci1zTGJOYjVMamVRend2cmU1Rkxad28xTDI0cUFWZjZsYmVyd28weE5ybFNiWXFfbUk2ZlowdjU4eDI0Rm5ZakJxcl95S0Frc0ZvV3ltSzFLRHJfNjh6Q3BSMXljdVMtYU5jdzBVY0EtQzN4U2lOazBLSlpRSndkaXJn?oc=5",
-      "category": "محلي",
-      "published": "Sat, 05 Sep 2026 16:19:43 GMT",
-      "image": "./assets/news/84489c9617c6740e.svg"
-    },
-    {
-      "title": "المركزي العراقي ينفي إفلاس البنوك - الجزيرة نت",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQQXpUVzFZa1NSMmpYNFpER2NhNVdGcG5EZks0alp6SHhGUktmUmRsbmstYk9lLWJjajI4cDY4dUdaTkhqOFk2c1hxUzYtNGoxbEpIWXZNUUJsTHlRa1VxM21WOG1Tcm1rbF9WX0pKVldwQTNxbHlteVpUdE1DZXdEQ0xXNjI0dHlfLU9HVDVtalJmTFRBR2lQVEZwNlNPUzFlb2xFSEU3VnRLcU1aUUNwejhEdVF5N2FKdzdscmh3TkRaN3B5WUxhNzVCTjlmbHJ4WEpfMkZoR25fSUdkWkZUcmN5b0l1V3JlZ1NRSU80R0ZrZGREbnBPMm9vd3c4Q0w1aWU2R0N2cmZMY2ozMWhkbmNDNTBOdXpabUg3SVhzQ3RXRGt0b1ZsaEc1dXktTlBDendNTmM2bnFyVklWSy0zX041NUlyR0RqRWtj0gHLAkFVX3lxTFBBelRXMVlrU1Iyalg0WkRHY2E1V0ZwbkRmSzRqWnpIeEZSS2ZSZGxuay1iT2UtYmNqMjhwNjh1R1pOSGo4WTZzWHFTNi00ajFsSkhZdk1RQmxMeVFrVXEzbVY4bVNybWtsX1ZfSkpWV3BBM3FseW15WlR0TUNld0RDTFc2MjR0eV8tT0dUNW1qUmZMVEFHaVBURnA2U09TMWVvbEVIRTdWdEtxTVpRQ3B6OER1UXk3YUp3N2xyaHdORFo3cHlZTGE3NUJOOWZscnhYSl8yRmhHbl9JR2RaRlRyY3lvSXVXcmVnU1FJTzRHRmtkZERucE8yb293dzhDTDVpZTZHQ3ZyZkxjajMxaGRuY0M1ME51elptSDdJWHNDdFdEa3RvVmxoRzV1eS1OUEN6d01OYzZucXJWSVZLLTNfTjU1SXJHRGpFa2M?oc=5",
-      "category": "محلي",
-      "published": "Sat, 05 Sep 2026 16:08:08 GMT",
-      "image": "./assets/news/b9cce7043ccc11ff.svg"
-    },
-    {
-      "title": "بمشاركة اكثر من 80 شاب انطلاق بازار ميسان الثقافي - الواجهة - المربد",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxUGRnSkNCTjRld1hTUUl2NHpNTFRhUmstYl9XWkE0eUp6ei1hOUgyTU5JLVRpa0M2VjMySVdhQi1jb0RuTUZNalB5eVYtVW1r?oc=5",
-      "category": "محلي",
-      "published": "Sat, 05 Sep 2026 16:06:21 GMT",
-      "image": "./assets/news/f02c4dad08e5bc22.svg"
-    },
-    {
-      "title": "التميمي.. موهبة عراقية واعدة في الملاكمة تطمح إلى العالمية والإنجاز الأولمبي - Azzaman",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxORWF6cEx6aTJrZGRRRWNhMEl4c29NcmFtbFNhamhaQVRzbzNhUUR3Q255a3NkbUtBUFA2Ym9BQXBTV3FGWkthOFhaR2ZrV0lOMkpXQ3I3ODBFSThHa3lNY09pVzg5MVZYT3pTaFl0b05uMmRUeFBWTS1NcWdlMExweTRsUTZ1bDlGOEtSb1lobG1zV2N5OHE4M2VXdDFWZjl6bzhONWRLS2l6UndtT3ZKcnhNZm5hVjdLMTZ3Q1pXQWJoOWFYSXVnLUMyS0ttbEFncEo4cC1JMFlVSGtHd0h2aWdfaG45cENZZWZldEkyQURlcHJFdURxYlQwaVdCOHh2bEhUVzlqbUk2NGp4R1BKNm8ybXA5RUl0T24zd1NKSEZPME5vbDV1MVVhZlJJSVgtMzB2eDl5eEp5UktKOFhkM3JCOGc?oc=5",
-      "category": "عربي ودولي",
-      "published": "Sat, 05 Sep 2026 16:05:07 GMT",
-      "image": "./assets/news/88a8a1416e525955.svg"
-    },
-    {
-      "title": "رسميًا.. استقالة جديدة في الدوري العراقي - 365Scores",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNT2RYYl9KMzBZWTEySlBETlBIVjFWby1MUjFKZlJ4MXR3VXJBcEJha0U4dUJ5dFYtNHdwdG1vdXFReXRaMmRuUzhaMTZXWHJGTVBLdWdGSk9TRnhvSGs3SUo2LTU2LXh0bmlqMHVKdXZtUHNxVHBVaVVFSF9TWi1XUURsV1hpb0t3c2FGSE9MSzJTRDhOeUN5a1h4R3pDaXNVR0pqaXhUZWpmVzRyclVRQUItdlBSRXFoNjJrN1otVDVVQUxyRFE1Skx5SkhDNEt2OVVJN0xsOEdibzJjLWs2U3NDcXliWXdhSGFhUzZMVVRoTnYyem9WTEp5Qjdwam1GdDlQMllJRWRHSVJrYWVvcVhlVWRleUcweHBOX0dDWXoybWNvc25ydWFEY1NFb09KcFU2clFRV0JmSkxLNjVsLVBpMHhMT2hXWHRPc0lIdjVFV1RMZTVaWVBhV09MQQ?oc=5",
-      "category": "رياضة",
-      "published": "Sat, 05 Sep 2026 16:03:22 GMT",
-      "image": "./assets/news/f9d1712355a47996.svg"
-    },
-    {
-      "title": "البنك المركزي العراقي ينفي الأخبار المتداولة بشأن رفع سعر صرف الدولار - الواجهة - المربد",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RdWJOLTVBUXhVeFJIaDVLU28zUjZYazVLMmNXZGE2MGUtUWlCU0dDRVYwVHhzRURWOG9ZR2ZKRkFjVlFzOVhxamVCYWFIZWdp?oc=5",
-      "category": "اقتصاد",
-      "published": "Sat, 05 Sep 2026 16:02:26 GMT",
-      "image": "./assets/news/6f1f4cb4f173a554.svg"
     }
   ]
 }
