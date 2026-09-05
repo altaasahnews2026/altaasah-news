@@ -13,12 +13,10 @@ NS = {"media": "http://search.yahoo.com/mrss/", "content": "http://purl.org/rss/
 NEWS_IMAGE_DIR = "assets/news"
 os.makedirs(NEWS_IMAGE_DIR, exist_ok=True)
 
-
 def fetch(url, timeout=20):
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 Chrome/126 Safari/537.36", "Accept": "text/html,application/xhtml+xml,image/*,*/*;q=0.8"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read(), r.headers.get_content_type()
-
 
 def clean_url(url, base=""):
     if not url:
@@ -29,7 +27,6 @@ def clean_url(url, base=""):
     if url.startswith("http://"):
         url = "https://" + url[7:]
     return url if url.startswith("https://") else ""
-
 
 def page_image(url):
     try:
@@ -49,7 +46,6 @@ def page_image(url):
         print("تعذر استخراج صورة الصفحة:", e)
     return ""
 
-
 def rss_images(item):
     out = []
     for tag in ["content", "thumbnail"]:
@@ -63,7 +59,6 @@ def rss_images(item):
             if u and "googleusercontent.com" not in u and u not in out:
                 out.append(u)
     return out
-
 
 def save_image(url):
     try:
@@ -80,10 +75,8 @@ def save_image(url):
         print("تعذر حفظ الصورة:", e)
         return ""
 
-
 def alternative_image(title, cat):
     try:
-        # نستخدم بحث صور Wikimedia Commons بكلمات مفتاحية مختصرة، لأن البحث بالنص الكامل غالبا لا يعيد نتائج.
         keywords = [w for w in re.findall(r'[\w\u0600-\u06ff]{3,}', title) if w not in {"التي", "الذي", "هذا", "هذه", "العراق"}][:6]
         query = " ".join(keywords + ([cat] if cat else [])) or "Iraq"
         q = urllib.parse.quote(query[:120])
@@ -103,7 +96,6 @@ def alternative_image(title, cat):
         print("تعذر جلب صورة بديلة:", e)
     return ""
 
-
 def fallback_image(title, cat):
     key = hashlib.sha256(title.encode("utf-8")).hexdigest()[:16]
     path = os.path.join(NEWS_IMAGE_DIR, key + ".svg")
@@ -112,11 +104,10 @@ def fallback_image(title, cat):
         c = html.escape(cat)
         lines = [html.escape(x) for x in [t[:42], t[42:84], t[84:90]] if x]
         texts = "".join(f'<text x="600" y="{310+i*52}" fill="white" font-family="Tahoma,Arial" font-size="30" text-anchor="middle">{line}</text>' for i, line in enumerate(lines))
-        svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675"><rect width="1200" height="675" fill="#06192d"/><rect width="1200" height="10" fill="#ed1c24"/><text x="600" y="115" fill="#ed1c24" font-family="Arial,Tahoma" font-size="42" font-weight="bold" text-anchor="middle">{c}</text><text x="600" y="205" fill="white" font-family="Arial" font-size="58" font-weight="bold" text-anchor="middle">9NEWS</text>{texts}<text x="600" y="610" fill="#b9c7d5" font-family="Tahoma,Arial" font-size="25" text-anchor="middle">التاسعة نيوز — نعلم لتعلم</text></svg>'''
+        svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675"><rect width="1200" height="675" fill="#06192d"/><rect width="1200" height="10" fill="#ed1c24"/><text x="600" y="115" fill="#ed1c24" font-family="Arial,Tahoma" font-size="42" font-weight="bold" text-anchor="middle">{c}</text>{texts}<text x="600" y="610" fill="#b9c7d5" font-family="Tahoma,Arial" font-size="25" text-anchor="middle">التاسعة نيوز — نعلم لتعلم</text></svg>'''
         with open(path, "w", encoding="utf-8") as f:
             f.write(svg)
     return "./assets/news/" + key + ".svg"
-
 
 items, seen, used_images = [], set(), set()
 for query in QUERIES:
