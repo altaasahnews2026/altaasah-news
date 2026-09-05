@@ -25,7 +25,10 @@ os.makedirs(NEWS_IMAGE_DIR, exist_ok=True)
 
 
 def fetch(url, timeout=30):
-    request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 AltaasahNewsBot/3.0"})
+    request = urllib.request.Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/126 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,image/avif,image/webp,image/apng,*/*;q=0.8",
+    })
     with urllib.request.urlopen(request, timeout=timeout) as response:
         return response.read(), response.headers.get_content_type()
 
@@ -47,7 +50,7 @@ def category(title):
 def clean_image_url(url):
     if not url:
         return ""
-    url = html.unescape(url).strip()
+    url = html.unescape(url).strip().replace("&amp;", "&")
     if url.startswith("//"):
         url = "https:" + url
     if url.startswith("http://"):
@@ -68,6 +71,32 @@ def extract_image(item):
             url = clean_image_url(match.group(1))
             if url:
                 return url
+    return ""
+
+
+def extract_page_image(article_url):
+    """Get og:image/twitter:image from the real article page when RSS has no media image."""
+    try:
+        raw, content_type = fetch(article_url, timeout=12)
+        if not raw or "html" not in content_type:
+            return ""
+        text = raw[:2_000_000].decode("utf-8", errors="ignore")
+        patterns = [
+            r'<meta[^>]+property=["\']og:image(?::secure_url)?["\'][^>]+content=["\']([^"\']+)["\']',
+            r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image(?::secure_url)?["\']',
+            r'<meta[^>]+name=["\']twitter:image(?::src)?["\'][^>]+content=["\']([^"\']+)["\']',
+            r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+name=["\']twitter:image(?::src)?["\']',
+        ]
+        for pattern in patterns:
+            match = re.search(pattern, text, flags=re.I)
+            if match:
+                value = html.unescape(match.group(1)).strip()
+                value = urllib.parse.urljoin(article_url, value)
+                value = clean_image_url(value)
+                if value:
+                    return value
+    except Exception as exc:
+        print(f"تعذر استخراج صورة الصفحة: {exc}")
     return ""
 
 
@@ -123,6 +152,8 @@ for query in QUERIES:
             continue
         seen.add(title)
         remote_image = extract_image(item)
+        if not remote_image:
+            remote_image = extract_page_image(link)
         local_image = save_image(remote_image)
         items.append({
             "title": title,
