@@ -11,6 +11,7 @@ from datetime import datetime, timezone
 QUERIES = ["العراق", "العراق سياسة أمن اقتصاد", "كركوك", "العراق رياضة"]
 NS = {"media": "http://search.yahoo.com/mrss/", "content": "http://purl.org/rss/1.0/modules/content/"}
 NEWS_IMAGE_DIR = "assets/news"
+EMERGENCY_IMAGE = "./6deaa228-fef4-472c-819d-400fa6c78630.jpg"
 os.makedirs(NEWS_IMAGE_DIR, exist_ok=True)
 
 def fetch(url, timeout=20):
@@ -107,17 +108,9 @@ def alternative_image(title, cat):
     return ""
 
 def fallback_image(title, cat):
-    key = hashlib.sha256(title.encode("utf-8")).hexdigest()[:16]
-    path = os.path.join(NEWS_IMAGE_DIR, key + ".svg")
-    if not os.path.exists(path):
-        t = html.escape(title[:90]).replace("\n", " ")
-        c = html.escape(cat)
-        lines = [html.escape(x) for x in [t[:42], t[42:84], t[84:90]] if x]
-        texts = "".join(f'<text x="600" y="{310+i*52}" fill="white" font-family="Tahoma,Arial" font-size="30" text-anchor="middle">{line}</text>' for i, line in enumerate(lines))
-        svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675"><rect width="1200" height="675" fill="#06192d"/><rect width="1200" height="10" fill="#ed1c24"/><text x="600" y="115" fill="#ed1c24" font-family="Arial,Tahoma" font-size="42" font-weight="bold" text-anchor="middle">{c}</text>{texts}<text x="600" y="610" fill="#b9c7d5" font-family="Tahoma,Arial" font-size="25" text-anchor="middle">التاسعة نيوز — نعلم لتعلم</text></svg>'''
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(svg)
-    return "./assets/news/" + key + ".svg"
+    # Never leave an SVG placeholder as the article's main image.
+    # A guaranteed local JPEG is preferable to a broken/external image.
+    return EMERGENCY_IMAGE
 
 items, seen, used_images = [], set(), set()
 for query in QUERIES:
@@ -141,7 +134,6 @@ for query in QUERIES:
         if p and p not in candidates:
             candidates.append(p)
         local = ""
-        remote = ""
         for u in candidates:
             if not u or u in used_images:
                 continue
@@ -150,11 +142,6 @@ for query in QUERIES:
                 local = saved
                 used_images.add(u)
                 break
-            if not remote:
-                remote = u
-        if not local and remote:
-            local = remote
-            used_images.add(remote)
         if not local:
             local = alternative_image(title, cat)
         if not local:
@@ -167,4 +154,4 @@ if not items:
 items.sort(key=lambda x: x.get("published", ""), reverse=True)
 with open("news.json", "w", encoding="utf-8") as f:
     json.dump({"updated_at": datetime.now(timezone.utc).isoformat(), "items": items[:30]}, f, ensure_ascii=False, indent=2)
-print(f"تم تحديث {min(len(items), 30)} خبرا بصور مصدرية أو بديلة مستقلة")
+print(f"تم تحديث {min(len(items), 30)} خبرا مع ضمان وجود صورة محلية أو بديلة")
