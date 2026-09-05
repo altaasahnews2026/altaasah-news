@@ -12,6 +12,7 @@ permissions:
 
 jobs:
   update-news:
+    if: github.event_name != 'push' || !contains(github.event.head_commit.message, 'إنشاء صفحات أخبار مستقلة وتحسين SEO')
     runs-on: ubuntu-latest
     steps:
       - name: تحميل ملفات الموقع
