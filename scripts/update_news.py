@@ -56,15 +56,12 @@ def extract_page_image(article_url):
         raw, content_type = fetch(article_url, 15)
         if not raw or "html" not in content_type: return ""
         text = raw[:3000000].decode("utf-8", errors="ignore")
-        metas = re.findall(r'<meta\b[^>]*(?:property|name)\s*=\s*["\'](?:og:image(?::secure_url)?|twitter:image(?::src)?)["\'][^>]*>', text, re.I)
-        metas += re.findall(r'<meta\b[^>]*content\s*=\s*["\']([^"\']+)["\'][^>]*(?:property|name)\s*=\s*["\'](?:og:image(?::secure_url)?|twitter:image(?::src)?)["\'][^>]*>', text, re.I)
-        for tag in metas:
-            if isinstance(tag, tuple): tag = tag[0]
-            if isinstance(tag, str) and tag.startswith("http"): return clean_url(tag, article_url)
-            m = re.search(r'content\s*=\s*["\']([^"\']+)', str(tag), re.I)
-            if m:
-                url = clean_url(m.group(1), article_url)
-                if url: return url
+        for tag in re.findall(r'<meta\b[^>]*>', text, re.I):
+            if re.search(r'(?:property|name)\s*=\s*["\'](?:og:image(?::secure_url)?|twitter:image(?::src)?)["\']', tag, re.I):
+                m = re.search(r'content\s*=\s*["\']([^"\']+)', tag, re.I)
+                if m:
+                    url = clean_url(m.group(1), article_url)
+                    if url: return url
     except Exception as exc:
         print(f"تعذر استخراج صورة الصفحة: {exc}")
     return ""
@@ -101,6 +98,7 @@ def fallback_image(title, cat):
 
 items = []
 seen = set()
+used_remote_images = set()
 for query in QUERIES:
     params = urllib.parse.urlencode({"q": f"{query} when:1d", "hl": "ar", "gl": "IQ", "ceid": "IQ:ar"})
     try:
@@ -114,7 +112,10 @@ for query in QUERIES:
         if not title or not link or title in seen: continue
         seen.add(title); cat = category(title)
         remote = extract_image(item) or extract_page_image(link)
-        local = save_image(remote) if remote else ""
+        local = ""
+        if remote and remote not in used_remote_images:
+            local = save_image(remote)
+            if local: used_remote_images.add(remote)
         if not local: local = fallback_image(title, cat)
         items.append({"title": title, "url": link, "category": cat, "published": published, "image": local})
 
@@ -125,4 +126,4 @@ items.sort(key=lambda x: x.get("published", ""), reverse=True)
 items = items[:30]
 with open("news.json", "w", encoding="utf-8") as f:
     json.dump({"updated_at": datetime.now(timezone.utc).isoformat(), "items": items}, f, ensure_ascii=False, indent=2)
-print(f"تم تحديث {len(items)} خبرا، ولكل خبر صورة.")
+print(f"تم تحديث {len(items)} خبرا، ولكل خبر صورة مختلفة أو صورة مصدر موثوقة.")
