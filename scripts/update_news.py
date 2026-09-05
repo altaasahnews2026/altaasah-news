@@ -31,30 +31,16 @@ def clean_url(url, base=""):
     return url if url.startswith("https://") else ""
 
 
-def category(title):
-    if "كركوك" in title:
-        return "كركوك"
-    if any(x in title for x in ["اقتصاد", "نفط", "بنزين", "دولار", "تجارة", "زراعة", "أسعار", "الذهب"]):
-        return "اقتصاد"
-    if any(x in title for x in ["رياضة", "منتخب", "كرة", "الدوري", "آسيا", "بطولة"]):
-        return "رياضة"
-    if any(x in title for x in ["أمن", "الدفاع", "الجيش", "الحشد", "إرهاب", "مخابرات", "اعتقال"]):
-        return "أمن"
-    if any(x in title for x in ["سياسة", "وزير", "حكومة", "برلمان", "رئيس", "أمريكا", "إيران", "انتخابات"]):
-        return "سياسة"
-    return "محلي"
-
-
 def page_image(url):
     try:
         raw, typ = fetch(url, 12)
         if "html" not in typ:
             return ""
         text = raw[:4000000].decode("utf-8", errors="ignore")
-        tags = re.findall(r'<meta\\b[^>]*>', text, re.I)
+        tags = re.findall(r'<meta\b[^>]*>', text, re.I)
         for tag in tags:
-            if re.search(r'(?:property|name)\\s*=\\s*["\\'](?:og:image(?::secure_url)?|twitter:image(?::src)?)["\\']', tag, re.I):
-                m = re.search(r'content\\s*=\\s*["\\']([^"\\']+)', tag, re.I)
+            if re.search(r'(?:property|name)\s*=\s*["\'](?:og:image(?::secure_url)?|twitter:image(?::src)?)["\']', tag, re.I):
+                m = re.search(r'content\s*=\s*["\']([^"\']+)', tag, re.I)
                 if m:
                     u = clean_url(m.group(1), url)
                     if u and "googleusercontent.com" not in u:
@@ -72,7 +58,7 @@ def rss_images(item):
             if u and "googleusercontent.com" not in u and u not in out:
                 out.append(u)
     for text in [item.findtext("description") or "", item.findtext("content:encoded", namespaces=NS) or ""]:
-        for m in re.finditer(r'<img[^>]+(?:src|data-src)\\s*=\\s*["\\']([^"\\']+)', text, re.I):
+        for m in re.finditer(r'<img[^>]+(?:src|data-src)\s*=\s*["\']([^"\']+)', text, re.I):
             u = clean_url(m.group(1))
             if u and "googleusercontent.com" not in u and u not in out:
                 out.append(u)
@@ -96,14 +82,16 @@ def save_image(url):
 
 
 def alternative_image(title, cat):
-    """يجلب صورة بديلة مرتبطة بموضوع الخبر من Wikimedia Commons عند تعذر صورة المصدر."""
     try:
-        q = urllib.parse.quote((title + " " + cat)[:180])
-        api = "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=" + q + "&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url&iiurlwidth=1200&format=json&origin=*"
+        # نستخدم بحث صور Wikimedia Commons بكلمات مفتاحية مختصرة، لأن البحث بالنص الكامل غالبا لا يعيد نتائج.
+        keywords = [w for w in re.findall(r'[\w\u0600-\u06ff]{3,}', title) if w not in {"التي", "الذي", "هذا", "هذه", "العراق"}][:6]
+        query = " ".join(keywords + ([cat] if cat else [])) or "Iraq"
+        q = urllib.parse.quote(query[:120])
+        api = "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=" + q + "&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url&iiurlwidth=1200&format=json&origin=*"
         raw, _ = fetch(api, 12)
         data = json.loads(raw.decode("utf-8", errors="ignore"))
         pages = list((data.get("query", {}).get("pages", {}) or {}).values())
-        pages.sort(key=lambda p: (0 if any(k in (p.get("title", "").lower()) for k in ["iraq", "iraqi", "kirkuk"]) else 1, p.get("index", 999)))
+        pages.sort(key=lambda p: p.get("index", 999))
         for p in pages:
             info = (p.get("imageinfo") or [{}])[0]
             u = clean_url(info.get("thumburl") or info.get("url") or "")
@@ -120,7 +108,7 @@ def fallback_image(title, cat):
     key = hashlib.sha256(title.encode("utf-8")).hexdigest()[:16]
     path = os.path.join(NEWS_IMAGE_DIR, key + ".svg")
     if not os.path.exists(path):
-        t = html.escape(title[:90]).replace("\\n", " ")
+        t = html.escape(title[:90]).replace("\n", " ")
         c = html.escape(cat)
         lines = [html.escape(x) for x in [t[:42], t[42:84], t[84:90]] if x]
         texts = "".join(f'<text x="600" y="{310+i*52}" fill="white" font-family="Tahoma,Arial" font-size="30" text-anchor="middle">{line}</text>' for i, line in enumerate(lines))
