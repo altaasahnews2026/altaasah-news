@@ -116,6 +116,9 @@ for query in QUERIES:
         if remote and remote not in used_remote_images:
             local = save_image(remote)
             if local: used_remote_images.add(remote)
+        # إذا تعذر تنزيل الصورة على GitHub Actions، نرسل رابط الصورة الأصلي للمتصفح بدلاً من فقدانها.
+        if not local and remote:
+            local = remote
         if not local: local = fallback_image(title, cat)
         items.append({"title": title, "url": link, "category": cat, "published": published, "image": local})
 
@@ -126,4 +129,4 @@ items.sort(key=lambda x: x.get("published", ""), reverse=True)
 items = items[:30]
 with open("news.json", "w", encoding="utf-8") as f:
     json.dump({"updated_at": datetime.now(timezone.utc).isoformat(), "items": items}, f, ensure_ascii=False, indent=2)
-print(f"تم تحديث {len(items)} خبرا، ولكل خبر صورة مختلفة أو صورة مصدر موثوقة.")
+print(f"تم تحديث {len(items)} خبرا، ولكل خبر صورة مصدر أو صورة بديلة مختلفة.")
