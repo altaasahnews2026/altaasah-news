@@ -25,7 +25,7 @@ jobs:
       - name: تحديث الأخبار والصور
         run: python scripts/update_news.py
 
-      - name: تحسين الفوتر والشعار
+      - name: تحسين الفوتر والشعار والشريط الإخباري
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -44,6 +44,7 @@ jobs:
               '.headIn{height:96px;display:grid;grid-template-columns:170px 1fr 170px;align-items:center;gap:15px}': '.headIn{height:92px;display:grid;grid-template-columns:170px 1fr 170px;align-items:center;gap:15px}',
               '.footLogo{width:130px;height:60px}': '.footLogo{width:165px;height:60px;background:#fff;border-radius:9px;padding:4px}',
               '.logo{width:150px;height:60px}': '.logo{width:165px;height:62px}',
+              'animation:tickerMove 38s linear infinite': 'animation:tickerMove 75s linear infinite',
           }
           for a,b in replacements.items():
               s = s.replace(a,b)
@@ -59,6 +60,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "لا توجد تحديثات جديدة."
           else
-            git commit -m "تصغير الفوتر وتكبير الخط والأيقونات وتحسين الشعار"
+            git commit -m "إبطاء الشريط الإخباري وتحسين التصميم"
             git push
           fi
