@@ -30,6 +30,24 @@ jobs:
       - name: تحديث الأخبار والصور
         run: python scripts/update_news.py
 
+      - name: تثبيت مسارات الصور المحلية
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p = Path('news.json')
+          d = json.loads(p.read_text(encoding='utf-8'))
+          base = 'https://altaasahnews2026.github.io/altaasah-news/'
+          emergency = base + '6deaa228-fef4-472c-819d-400fa6c78630.jpg'
+          for item in d.get('items', []):
+              image = str(item.get('image') or '')
+              if image.startswith('./'):
+                  item['image'] = base + image[2:]
+              elif not image or image.lower().endswith('.svg'):
+                  item['image'] = emergency
+          p.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding='utf-8')
+          PY
+
       - name: إنشاء صفحات الأخبار المستقلة وSitemap وRSS
         run: python scripts/generate_articles.py
 
