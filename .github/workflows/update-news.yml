@@ -21,14 +21,29 @@ jobs:
         run: |
           test -f scripts/update_news.py
           test -f scripts/fix_site.py
+          test -f scripts/generate_articles.py
           python -m py_compile scripts/update_news.py
           python -m py_compile scripts/fix_site.py
+          python -m py_compile scripts/generate_articles.py
 
       - name: تحديث الأخبار والصور
         run: python scripts/update_news.py
 
+      - name: إنشاء صفحات الأخبار المستقلة وSitemap
+        run: python scripts/generate_articles.py
+
       - name: إصلاح الواجهة والصور والبحث وقسم كركوك
         run: python scripts/fix_site.py
+
+      - name: ربط بطاقات الأخبار بصفحات الموقع الداخلية
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('index.html')
+          s = p.read_text(encoding='utf-8')
+          s = s.replace('x.url||\'#\'', 'x.article_url||x.url||\'#\'')
+          p.write_text(s, encoding='utf-8')
+          PY
 
       - name: تحسين الفوتر والشعار والشريط الإخباري
         run: |
@@ -57,15 +72,15 @@ jobs:
           p.write_text(s, encoding='utf-8')
           PY
 
-      - name: حفظ الأخبار والصور والتصميم
+      - name: حفظ الأخبار والصفحات والتصميم
         run: |
           git config user.name "Altaasah News Bot"
           git config user.email "actions@github.com"
-          git add news.json assets/news/ index.html scripts/fix_site.py
+          git add news.json news/ sitemap.xml assets/news/ index.html scripts/fix_site.py scripts/generate_articles.py
           if git diff --cached --quiet; then
             echo "لا توجد تحديثات جديدة."
           else
-            git commit -m "تحديث الأخبار والصور والتصميم"
+            git commit -m "إنشاء صفحات أخبار مستقلة وتحسين SEO"
             git push
           fi
 
