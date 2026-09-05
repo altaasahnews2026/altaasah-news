@@ -17,13 +17,18 @@ jobs:
       - name: تحميل ملفات الموقع
         uses: actions/checkout@v4
 
-      - name: التحقق من ملف التحديث
+      - name: التحقق من ملفات التحديث والإصلاح
         run: |
           test -f scripts/update_news.py
+          test -f scripts/fix_site.py
           python -m py_compile scripts/update_news.py
+          python -m py_compile scripts/fix_site.py
 
       - name: تحديث الأخبار والصور
         run: python scripts/update_news.py
+
+      - name: إصلاح الواجهة والصور والبحث وقسم كركوك
+        run: python scripts/fix_site.py
 
       - name: تحسين الفوتر والشعار والشريط الإخباري
         run: |
@@ -56,10 +61,10 @@ jobs:
         run: |
           git config user.name "Altaasah News Bot"
           git config user.email "actions@github.com"
-          git add news.json assets/news/ index.html
+          git add news.json assets/news/ index.html scripts/fix_site.py
           if git diff --cached --quiet; then
             echo "لا توجد تحديثات جديدة."
           else
-            git commit -m "إبطاء الشريط الإخباري وتحسين التصميم"
+            git commit -m "إصلاح الصور والبحث وقسم كركوك"
             git push
           fi
