@@ -65,6 +65,8 @@ jobs:
           if git diff --cached --quiet; then
             echo "لا توجد تحديثات جديدة."
           else
-            git commit -m "إصلاح الصور والبحث وقسم كركوك"
+            git commit -m "تحديث الأخبار والصور والتصميم"
             git push
           fi
+
+# تشغيل فوري للتحديث عند أي تغيير على الفرع الرئيسي
