@@ -28,6 +28,16 @@ def clean_url(url, base=""):
         url = "https://" + url[7:]
     return url if url.startswith("https://") else ""
 
+def category(title):
+    t = str(title or "")
+    if any(k in t for k in ["كركوك", "زاخو", "الفيحاء"]): return "كركوك"
+    if any(k in t for k in ["رياضة", "دوري", "ملعب", "مباراة", "منتخب", "كرة"]): return "رياضة"
+    if any(k in t for k in ["اقتصاد", "البنك المركزي", "المصارف", "الأسعار", "تجارة", "استثمار"]): return "اقتصاد"
+    if any(k in t for k in ["سياسة", "حكومة", "رئيس الوزراء", "برلمان", "وزير"]): return "سياسة"
+    if any(k in t for k in ["أمن", "أمني", "أمنية", "شرطة", "جيش", "هجوم", "تفجير"]): return "أمن"
+    if any(k in t for k in ["العالم", "دولي", "فلسطين", "إيران", "أمريكا", "السعودية"]): return "عربي ودولي"
+    return "محلي"
+
 def page_image(url):
     try:
         raw, typ = fetch(url, 12)
