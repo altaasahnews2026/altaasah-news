@@ -16,8 +16,9 @@ end = s.find('const esc=', start)
 if start >= 0 and end >= 0:
     s = s[:start] + "const emergencyImage='';\n" + s[end:]
 
-# Replace the complete image helper block. This also removes the malformed
-# duplicate fragment that previously appeared after img().
+# Replace the complete image helper block. Every card gets the generated
+# template image first; if that file ever fails to load, the locally stored
+# original source image is used instead of hiding the image or showing a fake.
 marker_a = s.find('function imageFor(x){')
 marker_b = s.find('function date(s){', marker_a)
 if marker_a >= 0 and marker_b >= 0:
@@ -25,33 +26,37 @@ if marker_a >= 0 and marker_b >= 0:
   const u=clean(x&&x.image);
   return u && !/\\.svg(?:\\?|$)/i.test(u) ? u : '';
 }
+function originalImageFor(x){
+  const u=clean(x&&x.original_image);
+  return u && !/\\.svg(?:\\?|$)/i.test(u) ? u : '';
+}
 function img(x,cls=''){
   const src=imageFor(x);
-  if(!src) return `<div class="${cls}" role="img" aria-label="صورة الخبر غير متاحة"></div>`;
-  return `<img class="${cls}" src="${esc(src)}" alt="صورة الخبر" loading="lazy" decoding="async">`;
+  const original=originalImageFor(x);
+  if(!src && !original) return `<div class="${cls}" role="img" aria-label="صورة الخبر غير متاحة"></div>`;
+  const first=src||original;
+  const fallback=(original && original!==first)?` onerror="this.onerror=null;this.src='${esc(original)}'"`:'';
+  return `<img class="${cls}" src="${esc(first)}" alt="صورة الخبر" loading="eager" decoding="async"${fallback}>`;
 }
 '''
     s = s[:marker_a] + replacement + s[marker_b:]
 
-# Remove legacy image fallback/onerror code so a broken image is not replaced
-# by a template/emergency picture.
-s = re.sub(r"\.onerror\s*=\s*function\(\)\{[^;]*;[^}]*\};?", "", s)
+# Remove all legacy handlers that could hide or replace the real news image.
+s = re.sub(r"\\.onerror\\s*=\\s*function\\(\\)\\{[^;]*;[^}]*\\};?", "", s)
 s = s.replace("this.onerror=null;this.src=pickFallback(hero);", "")
 s = s.replace("this.onerror=null;this.src=pickFallback(x);", "")
 
-# Add a small runtime repair: if a local image fails, leave the card intact
-# rather than inserting a generic image.
-if 'id="news-image-runtime-fix"' not in s:
-    runtime = '''<script id="news-image-runtime-fix">
-document.addEventListener('error',function(e){
-  const im=e.target;
-  if(im && im.tagName==='IMG' && im.closest('.card,.lead,.feature,.catItem')){
-    im.removeAttribute('src');
-    im.style.display='none';
-  }
-},true);
-</script>'''
-    s=s.replace('</body>',runtime+'</body>')
+# Remove the old runtime listener that hid broken images. The image element
+# now handles its own fallback to original_image.
+s = re.sub(r'<script id="news-image-runtime-fix">.*?</script>', '', s, flags=re.S)
+
+# Force news thumbnails to remain visible and reserve their layout space.
+if 'id="news-image-hardening"' not in s:
+    hardening = '''<style id="news-image-hardening">
+.card .thumb,.catItem,.feature,.lead{background:#dbe4ee;}
+.card .thumb img,.catItem img,.feature img,.lead img{display:block!important;visibility:visible!important;opacity:1!important;}
+</style>'''
+    s=s.replace('</head>',hardening+'</head>',1)
 
 p.write_text(s,encoding='utf-8')
-print('تم إصلاح JavaScript الخاص بصور الأخبار وإزالة أي fallback عام.')
+print('تم إصلاح عرض صور الأخبار جذرياً: القالب أولاً ثم الصورة الأصلية عند تعذر التحميل، بدون صور وهمية.')
