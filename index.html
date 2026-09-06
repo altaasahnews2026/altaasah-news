@@ -77,19 +77,22 @@ const emergencyImage='';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const clean=u=>{try{return new URL(u,document.baseURI).href}catch{return ''}};
 function hash(s){let h=0;for(let i=0;i<String(s||'').length;i++)h=((h<<5)-h)+String(s||'').charCodeAt(i)|0;return Math.abs(h)}
-function imageFor(x){
-  const u=clean(x&&x.image);
-  return u && !/\.svg(?:\?|$)/i.test(u) ? u : '';
+function rawizeImage(u){
+  u=clean(u);
+  if(!u || /\.svg(?:\?|$)/i.test(u)) return '';
+  const base='https://altaasahnews2026.github.io/altaasah-news/';
+  const raw='https://raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/';
+  if(u.startsWith(base+'assets/news/')) return raw+u.slice((base).length);
+  if(/^assets\/news\//i.test(u.replace(/^\.\//,''))) return raw+u.replace(/^\.\//,'');
+  return u;
 }
-function originalImageFor(x){
-  const u=clean(x&&x.original_image);
-  return u && !/\.svg(?:\?|$)/i.test(u) ? u : '';
-}
+function imageFor(x){ return rawizeImage(x&&x.image); }
+function originalImageFor(x){ return rawizeImage(x&&x.original_image); }
 function rawImageFor(x){
   const candidates=[x&&x.image,x&&x.original_image].filter(Boolean);
   for(const value of candidates){
-    const p=String(value).replace(/^\.\//,'');
-    if(/^assets\/news\//i.test(p) && !/\.svg(?:\?|$)/i.test(p)) return 'https://raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/'+p;
+    const u=rawizeImage(value);
+    if(u && u.includes('/assets/news/')) return u;
   }
   return '';
 }
