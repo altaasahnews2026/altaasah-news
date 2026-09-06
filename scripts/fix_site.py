@@ -17,19 +17,22 @@ if start >= 0 and end >= 0:
 marker_a = s.find('function imageFor(x){')
 marker_b = s.find('function date(s){', marker_a)
 if marker_a >= 0 and marker_b >= 0:
-    replacement = '''function imageFor(x){
-  const u=clean(x&&x.image);
-  return u && !/\\.svg(?:\\?|$)/i.test(u) ? u : '';
+    replacement = '''function rawizeImage(u){
+  u=clean(u);
+  if(!u || /\\.svg(?:\\?|$)/i.test(u)) return '';
+  const base='https://altaasahnews2026.github.io/altaasah-news/';
+  const raw='https://raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/';
+  if(u.startsWith(base+'assets/news/')) return raw+u.slice((base).length);
+  if(/^assets\\/news\\//i.test(u.replace(/^\\.\\//,''))) return raw+u.replace(/^\\.\\//,'');
+  return u;
 }
-function originalImageFor(x){
-  const u=clean(x&&x.original_image);
-  return u && !/\\.svg(?:\\?|$)/i.test(u) ? u : '';
-}
+function imageFor(x){ return rawizeImage(x&&x.image); }
+function originalImageFor(x){ return rawizeImage(x&&x.original_image); }
 function rawImageFor(x){
   const candidates=[x&&x.image,x&&x.original_image].filter(Boolean);
   for(const value of candidates){
-    const p=String(value).replace(/^\\.\\//,'');
-    if(/^assets\\/news\\//i.test(p) && !/\\.svg(?:\\?|$)/i.test(p)) return 'https://raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/'+p;
+    const u=rawizeImage(value);
+    if(u && u.includes('/assets/news/')) return u;
   }
   return '';
 }
@@ -46,7 +49,7 @@ function img(x,cls=''){
 '''
     s = s[:marker_a] + replacement + s[marker_b:]
 
-s = re.sub(r"\.onerror\s*=\s*function\(\)\{[^;]*;[^}]*\};?", "", s)
+s = re.sub(r"\\.onerror\\s*=\\s*function\\(\\)\\{[^;]*;[^}]*\\};?", "", s)
 s = re.sub(r'<script id="news-image-runtime-fix">.*?</script>', '', s, flags=re.S)
 
 hardening = '''<style id="news-image-hardening">
@@ -57,4 +60,4 @@ s = re.sub(r'<style id="news-image-hardening">.*?</style>', '', s, flags=re.S)
 s=s.replace('</head>',hardening+'</head>',1)
 
 p.write_text(s,encoding='utf-8')
-print('تم تثبيت نظام صور متعدد المسارات: Pages ثم الأصلية ثم raw.githubusercontent، بدون صورة عامة.')
+print('تم تثبيت الصور على raw.githubusercontent مباشرة مع بدائل لنفس الصورة، بدون صورة عامة.')
