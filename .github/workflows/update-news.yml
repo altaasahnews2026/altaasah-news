@@ -9,7 +9,7 @@ permissions:
   contents: write
 concurrency:
   group: altaasah-news-update
-  cancel-in-progress: true
+  cancel-in-progress: false
 jobs:
   update-news:
     if: github.event_name != 'push' || !contains(github.event.head_commit.message, 'تحديث الأخبار والصفحات والصور وRSS')
@@ -47,9 +47,12 @@ jobs:
           css='''<style id="news-bars-style">.breakingTicker{height:42px;background:#b4000b;color:#fff;display:flex;overflow:hidden}.breakingTicker>b,.ticker>b{min-width:92px;display:flex;align-items:center;justify-content:center;font-weight:900;flex:0 0 92px}.breakingTicker>b{background:#e21d2b}.breakingWindow,.tickerWindow{overflow:hidden;flex:1;direction:rtl;position:relative}.breakingTrack,.tickerTrack{height:100%;display:flex;align-items:center;width:max-content;white-space:nowrap;will-change:transform;direction:rtl}.breakingTrack{animation:breakingMove 34s linear infinite}.ticker{height:38px;background:#fff;display:flex;border-bottom:1px solid var(--line)}.ticker>b{background:var(--navy2);color:#fff}.tickerTrack{animation:tickerMove 65s linear infinite}.breakingSet,.tickerSet{display:flex;align-items:center;gap:40px;direction:rtl;padding-right:40px;padding-left:40px;flex-shrink:0}.breakingTrack a{color:#fff;font-size:11px;font-weight:900}.tickerTrack a{color:var(--ink);font-size:10px;font-weight:800}.breakingTrack:hover,.tickerTrack:hover{animation-play-state:paused}@keyframes breakingMove{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}@keyframes tickerMove{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}</style>'''
           s=re.sub(r'<style id="news-bars-style">.*?</style>','',s,flags=re.S)
           s=s.replace('</head>',css+'</head>',1)
-          js='''<script id="news-bars-script">(()=>{const esc=v=>String(v??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));const render=d=>{const a=(d?.items||[]).filter(x=>x?.title),l=a.slice(0,15),b=a.filter(x=>/عاجل|طارئ|تحذير عاجل|هجوم|انفجار|زلزال|حريق كبير|اشتباك|قتلى|ضحايا/.test(x.title)).slice(0,8),mk=(x,c,e)=>{const h=x.length?x.map(v=>`<a href="${esc(v.article_url||v.url||'#')}">${esc(v.title)}</a>`).join(''):e;return `<div class="${c}">${h}</div>`};for(const [id,x,c,e] of [['breakingTrack',b,'breakingSet','لا توجد أخبار عاجلة الآن'],['latestTrack',l,'tickerSet','لا توجد أخبار حالياً']]){const el=document.getElementById(id);if(el){const h=mk(x,c,e);el.innerHTML=h+h}}};const load=()=>fetch('./news.json?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('news.json');return r.json()}).then(render).catch(()=>{for(const id of ['breakingTrack','latestTrack']){const el=document.getElementById(id);if(el)el.textContent='تعذر تحميل الأخبار حالياً'}});document.readyState==='loading'?document.addEventListener('DOMContentLoaded',load):load()})();</script>'''
+          js='''<script id="news-bars-script">(()=>{const esc=v=>String(v??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));const render=d=>{const a=(d?.items||[]).filter(x=>x?.title),l=a.slice(0,15),b=a.filter(x=>/عاجل|طارئ|تحذير عاجل|هجوم|انفجار|زلزال|حريق كبير|اشتباك|قتلى|ضحايا/.test(x.title)).slice(0,8),mk=(x,c,e)=>{const h=x.length?x.map(v=>`<a href="${esc(v.article_url||v.url||'#')}">${esc(v.title)}</a>`).join(''):e;return `<div class="${c}">${h}</div>`};for(const [id,x,c,e] of [['breakingTrack',b,'breakingSet','لا توجد أخبار عاجلة الآن'],['latestTrack',l,'tickerSet','لا توجد أخبار حالياً']]){const el=document.getElementById(id);if(el){const h=mk(x,c,e);el.innerHTML=h+h}}};const load=()=>fetch('./news.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('news.json');return r.json()}).then(render).catch(()=>{});document.readyState==='loading'?document.addEventListener('DOMContentLoaded',load):load()})();</script>'''
           s=re.sub(r'<script id="news-bars-script">.*?</script>','',s,flags=re.S)
           s=s.replace('</body>',js+'</body>')
+          # إصلاح محمل الأخبار الرئيسي: لا تستخدم query string حتى لا يفشل GitHub Pages مع cache routing
+          s=s.replace("const DATA='./news.json?v='+Date.now();","const DATA='./news.json';")
+          s=s.replace("fetch(DATA).then(r=>{if(!r.ok)throw new Error('news.json');return r.json()})", "fetch(DATA,{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('news.json');return r.json()})")
           p.write_text(s,encoding='utf-8')
           PY
       - name: تثبيت روابط الصور
@@ -70,6 +73,7 @@ jobs:
           d=json.loads(Path('news.json').read_text(encoding='utf-8')); s=Path('index.html').read_text(encoding='utf-8')
           assert d.get('items'),'لا توجد أخبار'
           assert all(x.get('image') for x in d['items']),'خبر بلا صورة'
+          assert 'const DATA=\'./news.json\';' in s
           assert 'id="breakingTrack"' in s and 'id="latestTrack"' in s and 'id="news-bars-script"' in s
           print('نجح الفحص:',len(d['items']),'خبراً')
           PY
