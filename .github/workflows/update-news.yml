@@ -65,18 +65,34 @@ jobs:
               if str(x.get('image','')).startswith('./'): x['image']=base+str(x['image'])[2:]
           p.write_text(json.dumps(d,ensure_ascii=False,indent=2),encoding='utf-8')
           PY
-      - name: فحص نهائي صارم
+      - name: فحص نهائي صارم للصور والصفحات
         run: |
           python - <<'PY'
-          import json
+          import json, re
           from pathlib import Path
-          d=json.loads(Path('news.json').read_text(encoding='utf-8')); s=Path('index.html').read_text(encoding='utf-8')
-          assert d.get('items'),'لا توجد أخبار'
-          assert all(x.get('image') for x in d['items']),'خبر بلا صورة'
-          assert all(not str(x.get('image','')).lower().split('?')[0].endswith('.svg') for x in d['items']),'تم رفض صورة SVG غير حقيقية'
+          from PIL import Image
+          d=json.loads(Path('news.json').read_text(encoding='utf-8'))
+          s=Path('index.html').read_text(encoding='utf-8')
+          items=d.get('items',[])
+          assert items,'لا توجد أخبار'
+          assert all(x.get('image') for x in items),'خبر بلا صورة'
+          assert all('no-image-default' not in str(x.get('image','')) and 'emergency' not in str(x.get('image','')).lower() and 'fallback' not in str(x.get('image','')).lower() for x in items),'تم اكتشاف صورة عامة/احتياطية'
+          for x in items:
+              u=str(x['image']).split('?')[0]
+              assert '/assets/news/' in u, f'مسار صورة غير صحيح: {u}'
+              rel=u.split('/assets/news/',1)[1]
+              f=Path('assets/news')/rel
+              assert f.exists() and f.is_file(), f'ملف الصورة غير موجود: {f}'
+              with Image.open(f) as im:
+                  im.verify()
+              article=Path('news')/(Path(str(x['article_url'])).name)
+              assert article.exists(), f'صفحة الخبر مفقودة: {article}'
+              a=article.read_text(encoding='utf-8')
+              assert re.search(r'<img[^>]+class="hero"[^>]+src="https://',a), f'صورة hero مفقودة: {article}'
+          assert len(items)>=20, 'عدد الأخبار أقل من الحد المطلوب'
           assert 'const DATA=\'./news.json\';' in s
           assert 'id="breakingTrack"' in s and 'id="latestTrack"' in s and 'id="news-bars-script"' in s
-          print('نجح الفحص:',len(d['items']),'خبراً بصور حقيقية')
+          print('نجح الفحص الجذري:',len(items),'خبراً، وكل الصور والصفحات موجودة وصالحة.')
           PY
       - name: حفظ ونشر
         run: |
