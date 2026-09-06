@@ -32,7 +32,13 @@ def extract_template():
     m = re.search(r'href="data:image/jpeg;base64,([^\"]+)"', raw)
     if not m:
         raise RuntimeError('لم يتم العثور على صورة القالب داخل ninth-news-template.svg')
-    return Image.open(io.BytesIO(base64.b64decode(m.group(1)))).convert('RGB')
+    encoded = re.sub(r'\s+', '', m.group(1))
+    encoded += '=' * (-len(encoded) % 4)
+    try:
+        blob = base64.b64decode(encoded, validate=True)
+    except Exception:
+        blob = base64.b64decode(encoded + '===')
+    return Image.open(io.BytesIO(blob)).convert('RGB')
 
 def source_path(value):
     p = str(value or '')
