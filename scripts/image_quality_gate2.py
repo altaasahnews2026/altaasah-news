@@ -3,7 +3,6 @@ import json,hashlib,html,re,urllib.request,urllib.parse
 from io import BytesIO
 from concurrent.futures import ThreadPoolExecutor,as_completed
 from PIL import Image,ImageOps
-from difflib import SequenceMatcher
 D=Path('assets/news');H={'User-Agent':'Mozilla/5.0 Chrome/128 Safari/537.36'}
 def get(u):
  try:return urllib.request.urlopen(urllib.request.Request(u,headers=H),timeout=6).read()
@@ -14,8 +13,7 @@ def norm(t):
  t=re.sub(r'[إأآا]','ا',t);t=re.sub(r'ى','ي',t);t=re.sub(r'ة','ه',t);return re.sub(r'\s+',' ',re.sub(r'[^\u0600-\u06ff\w\s]',' ',t)).strip().lower()
 def good(raw):
  try:
-  with Image.open(BytesIO(raw)) as im:
-   im=ImageOps.exif_transpose(im);return im.width>=320 and im.height>=200
+  with Image.open(BytesIO(raw)) as im:im=ImageOps.exif_transpose(im);return im.width>=320 and im.height>=200
  except:return False
 def og(u):
  if not u:return ''
@@ -28,11 +26,11 @@ def local(v):
  p=str(v or '').strip();p=p[2:] if p.startswith('./') else p
  if not p.startswith('assets/news/'):return None
  q=Path(p);return q if q.is_file() else None
-d=json.loads(Path('news.json').read_text(encoding='utf-8'));seen=[];unique=[]
+d=json.loads(Path('news.json').read_text(encoding='utf-8'));unique=[];seen=set()
 for item in d.get('items',[]):
- t=str(item.get('title',''));n=norm(t)
- if len(re.findall(r'[\u0600-\u06ff]',t))<6 or any(SequenceMatcher(None,n,o).ratio()>=.78 for o in seen):continue
- seen.append(n);unique.append(item)
+ t=norm(str(item.get('title','')))
+ if len(re.findall(r'[\u0600-\u06ff]',str(item.get('title',''))))<6 or t in seen:continue
+ seen.add(t);unique.append(item)
  if len(unique)>=24:break
 resolved={}
 with ThreadPoolExecutor(max_workers=12) as ex:
