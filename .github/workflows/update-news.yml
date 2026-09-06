@@ -18,145 +18,70 @@ jobs:
       - name: تحميل ملفات الموقع
         uses: actions/checkout@v4
 
-      - name: التحقق من ملفات التحديث والإصلاح
+      - name: تثبيت مكتبات معالجة الصور
+        run: pip install pillow arabic-reshaper python-bidi
+
+      - name: التحقق من السكربتات
         run: |
-          test -f scripts/update_news.py
-          test -f scripts/fix_site.py
-          test -f scripts/generate_articles.py
           python -m py_compile scripts/update_news.py
           python -m py_compile scripts/fix_site.py
           python -m py_compile scripts/generate_articles.py
+          python -m py_compile scripts/apply_news_template.py
 
       - name: تحديث الأخبار والصور
         run: python scripts/update_news.py
+
+      - name: تطبيق قالب صور التاسعة نيوز
+        run: python scripts/apply_news_template.py
 
       - name: تثبيت مسارات الصور المحلية
         run: |
           python - <<'PY'
           import json
           from pathlib import Path
-          p = Path('news.json')
-          d = json.loads(p.read_text(encoding='utf-8'))
-          base = 'https://altaasahnews2026.github.io/altaasah-news/'
-          for item in d.get('items', []):
-              image = str(item.get('image') or '')
-              if image.startswith('./'):
-                  item['image'] = base + image[2:]
-          p.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding='utf-8')
+          p=Path('news.json')
+          d=json.loads(p.read_text(encoding='utf-8'))
+          base='https://altaasahnews2026.github.io/altaasah-news/'
+          for item in d.get('items',[]):
+              image=str(item.get('image') or '')
+              if image.startswith('./'): item['image']=base+image[2:]
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2),encoding='utf-8')
           PY
 
-      - name: إنشاء صفحات الأخبار المستقلة وSitemap وRSS
+      - name: إنشاء صفحات الأخبار وSitemap وRSS
         run: python scripts/generate_articles.py
 
-      - name: إصلاح الواجهة والصور والبحث وقسم كركوك
+      - name: إصلاح الواجهة
         run: python scripts/fix_site.py
 
-      - name: ربط بطاقات الأخبار بصفحات الموقع الداخلية
+      - name: ربط الأخبار بصفحاتها الداخلية
         run: |
           python - <<'PY'
           from pathlib import Path
-          p = Path('index.html')
-          s = p.read_text(encoding='utf-8')
-          s = s.replace("x.url||'#'", "x.article_url||x.url||'#'")
-          p.write_text(s, encoding='utf-8')
+          p=Path('index.html')
+          s=p.read_text(encoding='utf-8').replace("x.url||'#'","x.article_url||x.url||'#'")
+          p.write_text(s,encoding='utf-8')
           PY
 
-      - name: تحديث شريطي الأخبار العاجلة وآخر الأخبار
+      - name: تحديث شريطي عاجل وآخر الأخبار
         run: |
           python - <<'PY'
           from pathlib import Path
-          p = Path('index.html')
-          s = p.read_text(encoding='utf-8')
-          start = s.find('<div class="ticker">')
-          end = s.find('<main', start)
-          if start != -1 and end != -1:
-              bars = '''<div class="breakingTicker" id="breakingTicker" aria-label="الأخبار العاجلة">
-          <b>● عاجل</b><div class="breakingWindow"><div class="breakingTrack" id="breakingTrack"></div></div>
-          </div>
-          <div class="ticker" id="latestTicker" aria-label="آخر الأخبار">
-          <b>آخر الأخبار</b><div class="tickerWindow"><div class="tickerTrack" id="latestTrack"></div></div>
-          </div>
-          '''
-              s = s[:start] + bars + s[end:]
-          css = '''<style id="news-bars-style">
-          .breakingTicker{height:42px;background:#b4000b;color:#fff;display:flex;border-bottom:1px solid #8e0008;overflow:hidden}
-          .breakingTicker>b{min-width:92px;background:#e21d2b;color:#fff;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:900;z-index:2;box-shadow:3px 0 10px rgba(0,0,0,.16)}
-          .breakingWindow{overflow:hidden;flex:1;direction:ltr}
-          .breakingTrack{height:100%;display:flex;align-items:center;gap:44px;width:max-content;white-space:nowrap;animation:breakingMove 34s linear infinite;will-change:transform}
-          .breakingTrack:hover{animation-play-state:paused}
-          .breakingSet{display:flex;align-items:center;gap:44px;direction:rtl;padding-left:44px}
-          .breakingTrack a{color:#fff;font-size:11px;font-weight:900;direction:rtl}
-          .breakingTrack a:before{content:'⚡';margin-left:7px;font-size:12px}
-          .ticker{height:38px;background:#fff;border-bottom:1px solid var(--line);display:flex}
-          .ticker b{min-width:92px;background:var(--navy2);color:#fff;display:flex;align-items:center;justify-content:center;font-size:11px;z-index:2}
-          .tickerWindow{overflow:hidden;flex:1;direction:ltr}
-          .tickerTrack{height:100%;display:flex;align-items:center;gap:40px;width:max-content;animation:tickerMove 65s linear infinite;white-space:nowrap;will-change:transform}
-          .tickerTrack:hover{animation-play-state:paused}
-          .tickerSet{display:flex;align-items:center;gap:40px;direction:rtl;padding-left:40px}
-          .tickerTrack a{font-size:10px;font-weight:800;direction:rtl;color:var(--ink)}
-          .tickerTrack a:before{content:'•';color:var(--red);font-size:18px;vertical-align:-2px;margin-left:7px}
-          @keyframes breakingMove{from{transform:translateX(0)}to{transform:translateX(-50%)}}
-          @keyframes tickerMove{from{transform:translateX(0)}to{transform:translateX(-50%)}}
-          @media(max-width:700px){.breakingTicker>b,.ticker b{min-width:76px;font-size:10px}.breakingTrack,.breakingSet{gap:28px}.tickerTrack,.tickerSet{gap:24px}.breakingTrack a{font-size:10px}.tickerTrack a{font-size:9px}}
-          </style>'''
-          if '</head>' in s and 'id="news-bars-style"' not in s:
-              s = s.replace('</head>', css + '</head>', 1)
-          js = '''<script id="news-bars-script">
-          (function(){
-            function esc(v){return String(v||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
-            function buildBars(){
-              if(typeof DATA==='undefined' || !DATA || !Array.isArray(DATA.items)) return;
-              const items=DATA.items.filter(x=>x&&x.title);
-              const latest=items.slice(0,12);
-              const breaking=items.filter(x=>/\bعاجل\b|عاجلة|طارئ|تحذير عاجل|هجوم|انفجار|زلزال|حريق كبير|اشتباك|قتلى|ضحايا/i.test(String(x.title))).slice(0,6);
-              const urgent=breaking;
-              const make=(arr,cls)=>arr.length?'<div class="'+cls+'">'+arr.map(x=>'<a href="'+esc(x.article_url||x.url||'#')+'">'+esc(x.title)+'</a>').join('')+'</div>':'<div class="breakingSet"><span style="font-weight:900">لا توجد أخبار عاجلة الآن</span></div>';
-              const bt=document.getElementById('breakingTrack');
-              const lt=document.getElementById('latestTrack');
-              if(bt){const h=make(urgent,'breakingSet');bt.innerHTML=h+h;}
-              if(lt){const h=make(latest,'tickerSet');lt.innerHTML=h+h;}
-            }
-            if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',buildBars); else buildBars();
-          })();
-          </script>'''
-          if '</body>' in s and 'id="news-bars-script"' not in s:
-              s = s.replace('</body>', js + '</body>', 1)
-          p.write_text(s, encoding='utf-8')
+          p=Path('index.html'); s=p.read_text(encoding='utf-8')
+          start=s.find('<div class="ticker">'); end=s.find('<main',start)
+          if start!=-1 and end!=-1:
+              bars='''<div class="breakingTicker" id="breakingTicker" aria-label="الأخبار العاجلة"><b>● عاجل</b><div class="breakingWindow"><div class="breakingTrack" id="breakingTrack"></div></div></div><div class="ticker" id="latestTicker" aria-label="آخر الأخبار"><b>آخر الأخبار</b><div class="tickerWindow"><div class="tickerTrack" id="latestTrack"></div></div></div>'''
+              s=s[:start]+bars+s[end:]
+          css='''<style id="news-bars-style">.breakingTicker{height:42px;background:#b4000b;color:#fff;display:flex;border-bottom:1px solid #8e0008;overflow:hidden}.breakingTicker>b{min-width:92px;background:#e21d2b;color:#fff;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:900;z-index:2}.breakingWindow{overflow:hidden;flex:1;direction:ltr}.breakingTrack{height:100%;display:flex;align-items:center;gap:44px;width:max-content;white-space:nowrap;animation:breakingMove 34s linear infinite}.breakingSet{display:flex;align-items:center;gap:44px;direction:rtl;padding-left:44px}.breakingTrack a{color:#fff;font-size:11px;font-weight:900;direction:rtl}.breakingTrack a:before{content:'⚡';margin-left:7px}.ticker{height:38px;background:#fff;border-bottom:1px solid var(--line);display:flex}.ticker b{min-width:92px;background:var(--navy2);color:#fff;display:flex;align-items:center;justify-content:center;font-size:11px;z-index:2}.tickerWindow{overflow:hidden;flex:1;direction:ltr}.tickerTrack{height:100%;display:flex;align-items:center;gap:40px;width:max-content;animation:tickerMove 65s linear infinite;white-space:nowrap}.tickerSet{display:flex;align-items:center;gap:40px;direction:rtl;padding-left:40px}.tickerTrack a{font-size:10px;font-weight:800;direction:rtl;color:var(--ink)}.tickerTrack a:before{content:'•';color:var(--red);font-size:18px;vertical-align:-2px;margin-left:7px}@keyframes breakingMove{from{transform:translateX(0)}to{transform:translateX(-50%)}}@keyframes tickerMove{from{transform:translateX(0)}to{transform:translateX(-50%)}}@media(max-width:700px){.breakingTicker>b,.ticker b{min-width:76px;font-size:10px}}</style>'''
+          if '</head>' in s and 'id="news-bars-style"' not in s: s=s.replace('</head>',css+'</head>',1)
+          js='''<script id="news-bars-script">(function(){function esc(v){return String(v||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}function build(){if(typeof DATA==='undefined'||!DATA||!Array.isArray(DATA.items))return;const items=DATA.items.filter(x=>x&&x.title),latest=items.slice(0,12),breaking=items.filter(x=>/\\bعاجل\\b|عاجلة|طارئ|تحذير عاجل|هجوم|انفجار|زلزال|حريق كبير|اشتباك|قتلى|ضحايا/i.test(String(x.title))).slice(0,6);const make=(arr,cls,empty)=>arr.length?'<div class="'+cls+'">'+arr.map(x=>'<a href="'+esc(x.article_url||x.url||'#')+'">'+esc(x.title)+'</a>').join('')+'</div>':'<div class="breakingSet"><span>'+empty+'</span></div>';const b=make(breaking,'breakingSet','لا توجد أخبار عاجلة الآن'),l=make(latest,'tickerSet','لا توجد أخبار حالياً');document.getElementById('breakingTrack').innerHTML=b+b;document.getElementById('latestTrack').innerHTML=l+l}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',build);else build()})();</script>'''
+          if '</body>' in s and 'id="news-bars-script"' not in s: s=s.replace('</body>',js+'</body>',1)
+          p.write_text(s,encoding='utf-8')
           PY
 
-      - name: تحسين الفوتر والشعار
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          p = Path('index.html')
-          s = p.read_text(encoding='utf-8')
-          replacements = {
-              '.logo{width:220px;height:82px;object-fit:contain;display:block}': '.logo{width:270px;height:90px;object-fit:contain;display:block}',
-              '.footLogo{width:190px;height:82px;object-fit:contain}': '.footLogo{width:210px;height:72px;object-fit:contain;background:#fff;border-radius:10px;padding:5px}',
-              'footer{background:var(--navy);color:#fff;padding:28px 0 12px}': 'footer{background:var(--navy);color:#fff;padding:18px 0 8px}',
-              '.foot{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:22px}': '.foot{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:16px;align-items:start}',
-              '.foot h3{font-size:13px;margin:0 0 8px}': '.foot h3{font-size:15px;margin:0 0 6px}',
-              '.foot p,.foot a{display:block;color:#b9c7d5;font-size:9px;line-height:1.9}': '.foot p,.foot a{display:block;color:#d1dbe5;font-size:11px;line-height:1.7}',
-              '.social{display:flex;direction:ltr;gap:12px;margin-top:10px}': '.social{display:flex;direction:ltr;gap:16px;margin-top:8px}',
-              '.social a{font-size:18px;color:#fff}': '.social a{font-size:23px;color:#fff}',
-              '.copy{border-top:1px solid rgba(255,255,255,.12);margin-top:20px;padding-top:10px;display:flex;justify-content:space-between;color:#aebdcd;font-size:8px}': '.copy{border-top:1px solid rgba(255,255,255,.12);margin-top:12px;padding-top:7px;display:flex;justify-content:space-between;color:#c1ccd7;font-size:10px}',
-              '.headIn{height:96px;display:grid;grid-template-columns:170px 1fr 170px;align-items:center;gap:15px}': '.headIn{height:92px;display:grid;grid-template-columns:170px 1fr 170px;align-items:center;gap:15px}',
-              'animation:tickerMove 38s linear infinite': 'animation:tickerMove 65s linear infinite',
-          }
-          for a,b in replacements.items(): s = s.replace(a,b)
-          s = s.replace('./assets/logo.svg?v=4', './assets/logo.svg?v=6')
-          p.write_text(s, encoding='utf-8')
-          PY
-
-      - name: حفظ الأخبار والصفحات والتصميم
+      - name: حفظ التحديثات
         run: |
           git config user.name "Altaasah News Bot"
           git config user.email "actions@github.com"
-          git add news.json news/ sitemap.xml feed.xml assets/news/ index.html scripts/update_news.py scripts/fix_site.py scripts/generate_articles.py .github/workflows/update-news.yml
-          if git diff --cached --quiet; then
-            echo "لا توجد تحديثات جديدة."
-          else
-            git commit -m "تحديث الأخبار والصفحات والصور وRSS"
-            git pull --rebase origin main
-            git push origin HEAD:main
-          fi
+          git add news.json news/ sitemap.xml feed.xml assets/news/ index.html scripts/ .github/workflows/update-news.yml
+          if git diff --cached --quiet; then echo 'لا توجد تحديثات جديدة.'; else git commit -m 'تحديث الأخبار والصفحات والصور وRSS'; git pull --rebase origin main; git push origin HEAD:main; fi
