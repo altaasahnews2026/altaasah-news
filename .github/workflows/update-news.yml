@@ -1,4 +1,5 @@
 name: تحديث أخبار التاسعة نيوز
+# نشر جذري: كل تشغيل يبدأ من آخر main ثم يولد الموقع ويفحص المخرجات الفعلية قبل الحفظ.
 on:
   workflow_dispatch:
   schedule:
@@ -83,8 +84,7 @@ jobs:
               rel=u.split('/assets/news/',1)[1]
               f=Path('assets/news')/rel
               assert f.exists() and f.is_file(), f'ملف الصورة غير موجود: {f}'
-              with Image.open(f) as im:
-                  im.verify()
+              with Image.open(f) as im: im.verify()
               article=Path('news')/(Path(str(x['article_url'])).name)
               assert article.exists(), f'صفحة الخبر مفقودة: {article}'
               a=article.read_text(encoding='utf-8')
