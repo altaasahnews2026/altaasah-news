@@ -1,21 +1,14 @@
-import hashlib
-import html
-import json
-import os
-import re
-import urllib.parse
-import urllib.request
+import hashlib, html, json, os, re, urllib.parse, urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
-NEWS_IMAGE_DIR='assets/news'
-os.makedirs(NEWS_IMAGE_DIR,exist_ok=True)
-HEADERS={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/126 Safari/537.36','Accept':'text/html,application/xhtml+xml,image/avif,image/webp,*/*;q=0.8'}
+NEWS_IMAGE_DIR='assets/news'; os.makedirs(NEWS_IMAGE_DIR,exist_ok=True)
+HEADERS={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/126 Safari/537.36','Accept':'text/html,application/xhtml+xml,image/avif,image/webp,*/*;q=0.8'}
 NS={'media':'http://search.yahoo.com/mrss/'}
 
 def fetch(url,timeout=10):
     req=urllib.request.Request(url,headers=HEADERS)
-    with urllib.request.urlopen(req,timeout=timeout) as r:return r.read(),r.headers.get_content_type()
+    with urllib.request.urlopen(req,timeout=timeout) as r:return r.read(),r.headers.get_content_type(),r.geturl()
 
 def clean_title(t,src=''):
     t=re.sub(r'\s+',' ',str(t or '')).strip(); src=re.sub(r'\s+',' ',str(src or '')).strip()
@@ -46,14 +39,14 @@ def image_candidates(item):
         u=clean_url(e.attrib.get('url'))
         if u:out.append(u)
     desc=item.findtext('description') or ''
-    for u in re.findall(r'<img[^>]+(?:src|data-src)=["\']([^"\']+)',desc,re.I):
+    for u in re.findall(r'<img[^>]+(?:src|data-src|data-original)=["\']([^"\']+)',desc,re.I):
         u=clean_url(u)
         if u:out.append(u)
     return list(dict.fromkeys(out))
 
 def save_image(url):
     try:
-        raw,typ=fetch(url,8)
+        raw,typ,_=fetch(url,8)
         if len(raw)<3000 or not typ.startswith('image/') or 'svg' in typ:return ''
         if not(raw[:3]==b'\xff\xd8\xff' or raw.startswith(b'\x89PNG') or raw[:4]==b'RIFF' or raw[:6] in (b'GIF87a',b'GIF89a')):return ''
         ext={'image/jpeg':'.jpg','image/png':'.png','image/webp':'.webp','image/gif':'.gif'}.get(typ,'')
@@ -63,16 +56,36 @@ def save_image(url):
         return './assets/news/'+name
     except Exception:return ''
 
+def extract_meta(text,base):
+    vals=[]
+    pats=[r'<meta[^>]+(?:property|name)=["\']og:image(?::secure_url)?["\'][^>]+content=["\']([^"\']+)',r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\']og:image(?::secure_url)?["\']',r'<meta[^>]+(?:property|name)=["\']twitter:image[^"\']*["\'][^>]+content=["\']([^"\']+)',r'<link[^>]+rel=["\']image_src["\'][^>]+href=["\']([^"\']+)']
+    for p in pats: vals += re.findall(p,text,re.I)
+    return [urllib.parse.urljoin(base,html.unescape(u)) for u in vals]
+
 def page_image(url):
     try:
-        raw,_=fetch(url,8); text=raw.decode('utf-8','ignore')[:150000]
-        vals=[]
-        patterns=[r'<meta[^>]+(?:property|name)=["\']og:image["\'][^>]+content=["\']([^"\']+)',r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\']og:image["\']',r'<meta[^>]+(?:property|name)=["\']twitter:image[^"\']*["\'][^>]+content=["\']([^"\']+)']
-        for p in patterns: vals += re.findall(p,text,re.I)
-        for u in vals:
-            u=urllib.parse.urljoin(url,html.unescape(u))
-            saved=save_image(u)
-            if saved:return saved
+        raw,_,final=fetch(url,8); text=raw.decode('utf-8','ignore')[:500000]
+        pages=[(final,text)]
+        urls=extract_meta(text,final)
+        # Google News often redirects through an intermediate page; collect canonical/source article links.
+        links=[]
+        for p in [r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)',r'<a[^>]+href=["\'](https?://[^"\']+)["\']']:
+            links += re.findall(p,text,re.I)
+        for u in links:
+            u=clean_url(u)
+            if u and 'news.google.com' not in u and u not in [x[0] for x in pages]:
+                try:
+                    rr,_,ff=fetch(u,7); tt=rr.decode('utf-8','ignore')[:500000]; pages.append((ff,tt))
+                except Exception: pass
+            if len(pages)>=5: break
+        for base,txt in pages:
+            for u in extract_meta(txt,base):
+                saved=save_image(u)
+                if saved:return saved
+            # Fallback: large article images when og:image is absent.
+            for u in re.findall(r'<img[^>]+(?:src|data-src|data-original)=["\']([^"\']+)',txt,re.I):
+                u=urllib.parse.urljoin(base,html.unescape(u)); saved=save_image(u)
+                if saved:return saved
     except Exception:pass
     return ''
 
@@ -83,10 +96,10 @@ def placeholder(title):
 
 params=urllib.parse.urlencode({'q':'العراق when:1d','hl':'ar','gl':'IQ','ceid':'IQ:ar'})
 try:
-    raw,_=fetch('https://news.google.com/rss/search?'+params,12); root=ET.fromstring(raw)
+    raw,_,_=fetch('https://news.google.com/rss/search?'+params,12); root=ET.fromstring(raw)
 except Exception as e:
-    print('تعذر جلب الأخبار:',e);raise SystemExit(0)
-items=[];seen=set();used=set()
+    print('تعذر جلب الأخبار:',e); raise SystemExit(0)
+items=[]; seen=set(); used=set()
 for item in root.findall('./channel/item'):
     title=clean_title(item.findtext('title'),item.findtext('source')); link=clean_url(item.findtext('link'))
     if not title or not link or title in seen:continue
@@ -97,7 +110,8 @@ for item in root.findall('./channel/item'):
     if not local:local=page_image(link)
     if local and local not in used:used.add(local)
     if not local:local=placeholder(title)
-    items.append({'title':title,'url':link,'category':category(title),'published':item.findtext('pubDate') or '','image':local,'source_url':clean_url((item.find('source').attrib.get('url') if item.find('source') is not None else ''))})
+    src=item.find('source'); source_url=clean_url(src.attrib.get('url') if src is not None else '')
+    items.append({'title':title,'url':link,'category':category(title),'published':item.findtext('pubDate') or '','image':local,'source_url':source_url})
 items.sort(key=lambda x:x.get('published',''),reverse=True)
 with open('news.json','w',encoding='utf-8') as f:json.dump({'updated_at':datetime.now(timezone.utc).isoformat(),'items':items[:30]},f,ensure_ascii=False,indent=2)
-print('تم تحديث',len(items[:30]),'خبراً، مع محاولة جلب الصورة من المصدر عند غياب صورة RSS')
+print('تم تحديث',len(items[:30]),'خبراً مع جلب الصور من RSS وصفحات المصادر')
