@@ -48,12 +48,39 @@
   .foot{grid-template-columns:1fr!important}
   .hero img{min-height:190px}
 }
-</style></head>
+</style>
+<style id="news-bars-style">
+.breakingTicker{height:42px;background:#b4000b;color:#fff;display:flex;border-bottom:1px solid #8e0008;overflow:hidden}
+.breakingTicker>b{min-width:92px;background:#e21d2b;color:#fff;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:900;z-index:2;box-shadow:3px 0 10px rgba(0,0,0,.16)}
+.breakingWindow{overflow:hidden;flex:1;direction:ltr}
+.breakingTrack{height:100%;display:flex;align-items:center;gap:44px;width:max-content;white-space:nowrap;animation:breakingMove 42s linear infinite;will-change:transform}
+.breakingTrack:hover{animation-play-state:paused}
+.breakingSet{display:flex;align-items:center;gap:44px;direction:rtl;padding-left:44px}
+.breakingTrack a{color:#fff;font-size:11px;font-weight:900;direction:rtl}
+.breakingTrack a:before{content:'⚡';margin-left:7px;font-size:12px}
+.breakingTicker+ .ticker{border-top:0}
+.ticker{height:38px;background:#fff;border-bottom:1px solid var(--line);display:flex}
+.ticker b{min-width:92px;background:var(--navy2);color:#fff;display:flex;align-items:center;justify-content:center;font-size:11px;z-index:2}
+.tickerWindow{overflow:hidden;flex:1;direction:ltr}
+.tickerTrack{height:100%;display:flex;align-items:center;gap:40px;width:max-content;animation:tickerMove 75s linear infinite;white-space:nowrap;will-change:transform}
+.tickerTrack:hover{animation-play-state:paused}
+.tickerSet{display:flex;align-items:center;gap:40px;direction:rtl;padding-left:40px}
+.tickerTrack a{font-size:10px;font-weight:800;direction:rtl;color:var(--ink)}
+.tickerTrack a:before{content:'•';color:var(--red);font-size:18px;vertical-align:-2px;margin-left:7px}
+@keyframes breakingMove{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@media(max-width:700px){.breakingTicker>b,.ticker b{min-width:76px;font-size:10px}.breakingTrack,.breakingSet{gap:28px}.tickerTrack,.tickerSet{gap:24px}.breakingTrack a{font-size:10px}.tickerTrack a{font-size:9px}}
+</style>
+</head>
 <body>
 <div class="top"><div class="wrap"><span>التاسعة نيوز — خبر دقيق .. رؤية واضحة</span><span>تغطية مستمرة لأهم أخبار العراق والعالم</span></div></div>
 <header class="head"><div class="wrap headIn"><a class="live" href="#">● البث المباشر</a><a class="brand" href="./index.html"><img class="logo" src="./assets/logo.svg?v=6" alt="التاسعة نيوز — نعلم لتعلم"></a><label class="search" aria-label="البحث في الأخبار"><input id="searchInput" type="search" placeholder="ابحث في التاسعة نيوز..." autocomplete="off"><span>⌕</span></label></div></header>
 <nav class="nav"><div class="wrap navIn"><a class="active" href="./index.html">الرئيسية</a><a href="#latest">أخبار العراق</a><a href="#politics">سياسة</a><a href="#economy">اقتصاد</a><a href="#sports">رياضة</a><a href="#world">عربي ودولي</a><a href="#kirkuk">كركوك</a><a href="#variety">منوعات</a><a href="#education">تعلم</a><a href="#about">من نحن</a></div></nav>
-<div class="ticker"><b>عاجل ⚡</b><div class="tickerWindow"><div id="ticker" class="tickerTrack"><div class="tickerSet"><span>جاري تحميل آخر الأخبار...</span></div></div></div></div>
+<div class="breakingTicker" id="breakingTicker" aria-label="الأخبار العاجلة">
+<b>● عاجل</b><div class="breakingWindow"><div class="breakingTrack" id="breakingTrack"></div></div>
+</div>
+<div class="ticker" id="latestTicker" aria-label="آخر الأخبار">
+<b>آخر الأخبار</b><div class="tickerWindow"><div class="tickerTrack" id="latestTrack"></div></div>
+</div>
 <main><div class="wrap">
 <section class="hero"><article class="lead"><img id="heroImage" alt="الخبر الرئيسي"><div class="leadText"><span id="heroCat" class="tag">أخبار العراق</span><h1 id="heroTitle">جاري تحميل الأخبار...</h1><p>التاسعة نيوز — نعلم لتعلم</p></div></article><aside class="latestBox"><div class="boxTitle">آخر الأخبار</div><div id="sideNews"></div></aside></section>
 <section id="latest" class="section"><div class="sectionHead"><i></i><h2>أحدث الأخبار</h2><span class="line"></span></div><div id="newsCards" class="cards"></div></section>
@@ -89,16 +116,34 @@ function render(items){
   const hi=document.getElementById('heroImage');hi.src=imageFor(hero);hi.onerror=function(){this.onerror=null;this.src=pickFallback(hero)};
   document.getElementById('heroCat').textContent=hero.category||'أخبار العراق';
   document.getElementById('heroTitle').textContent=hero.title;
-  document.getElementById('sideNews').innerHTML=items.slice(1,7).map(x=>`<a class="latestItem" href="${esc(x.article_url||x.article_url||x.url||'#')}" target="_blank" rel="noopener"><small>${esc(x.category)} • ${esc(date(x.published))}</small><strong>${esc(x.title)}</strong></a>`).join('');
+  document.getElementById('sideNews').innerHTML=items.slice(1,7).map(x=>`<a class="latestItem" href="${esc(x.article_url||x.article_url||x.article_url||x.url||'#')}" target="_blank" rel="noopener"><small>${esc(x.category)} • ${esc(date(x.published))}</small><strong>${esc(x.title)}</strong></a>`).join('');
   document.getElementById('ticker').innerHTML=tickerMarkup(items);
-  document.getElementById('newsCards').innerHTML=items.slice(0,8).map(x=>`<article class="card"><a href="${esc(x.article_url||x.article_url||x.url||'#')}" target="_blank" rel="noopener"><div class="thumb">${img(x)}</div><div class="body"><h3>${esc(x.title)}</h3><div class="meta">${esc(x.category)} • ${esc(date(x.published))}</div></div></a></article>`).join('');
+  document.getElementById('newsCards').innerHTML=items.slice(0,8).map(x=>`<article class="card"><a href="${esc(x.article_url||x.article_url||x.article_url||x.url||'#')}" target="_blank" rel="noopener"><div class="thumb">${img(x)}</div><div class="body"><h3>${esc(x.title)}</h3><div class="meta">${esc(x.category)} • ${esc(date(x.published))}</div></div></a></article>`).join('');
   const kirkuk=items.filter(x=>x.category==='كركوك');
   const featured=(kirkuk.length?kirkuk:items.slice(0,3)).slice(0,3);
-  document.getElementById('featured').innerHTML=featured.map(x=>`<a class="feature" href="${esc(x.article_url||x.article_url||x.url||'#')}" target="_blank" rel="noopener">${img(x)}<div class="featureText"><span class="tag">${esc(x.category)}</span><h3>${esc(x.title)}</h3></div></a>`).join('');
+  document.getElementById('featured').innerHTML=featured.map(x=>`<a class="feature" href="${esc(x.article_url||x.article_url||x.article_url||x.url||'#')}" target="_blank" rel="noopener">${img(x)}<div class="featureText"><span class="tag">${esc(x.category)}</span><h3>${esc(x.title)}</h3></div></a>`).join('');
   const groups=['سياسة','اقتصاد','رياضة','كركوك','أمن','تعلم'];
-  document.getElementById('categoryGrid').innerHTML=groups.map(cat=>{const arr=items.filter(x=>x.category===cat).slice(0,3);const list=(arr.length?arr:items.slice(0,3)).map(x=>`<a class="catItem" href="${esc(x.article_url||x.article_url||x.url||'#')}" target="_blank" rel="noopener">${img(x)}<strong>${esc(x.title)}</strong></a>`).join('');return `<section id="${cat==='كركوك'?'kirkuk':cat==='سياسة'?'politics':cat==='اقتصاد'?'economy':cat==='رياضة'?'sports':cat==='أمن'?'security':'education'}" class="catBox"><div class="catTitle"><span>—</span>${cat}</div>${list}</section>`}).join('');
+  document.getElementById('categoryGrid').innerHTML=groups.map(cat=>{const arr=items.filter(x=>x.category===cat).slice(0,3);const list=(arr.length?arr:items.slice(0,3)).map(x=>`<a class="catItem" href="${esc(x.article_url||x.article_url||x.article_url||x.url||'#')}" target="_blank" rel="noopener">${img(x)}<strong>${esc(x.title)}</strong></a>`).join('');return `<section id="${cat==='كركوك'?'kirkuk':cat==='سياسة'?'politics':cat==='اقتصاد'?'economy':cat==='رياضة'?'sports':cat==='أمن'?'security':'education'}" class="catBox"><div class="catTitle"><span>—</span>${cat}</div>${list}</section>`}).join('');
 }
 function doSearch(){const q=(document.getElementById('searchInput')?.value||'').trim().toLowerCase();if(!q){render(ALL_ITEMS);return}render(ALL_ITEMS.filter(x=>`${x.title} ${x.category}`.toLowerCase().includes(q)));document.getElementById('latest')?.scrollIntoView({behavior:'smooth',block:'start'})}
 fetch(DATA).then(r=>{if(!r.ok)throw new Error('news.json');return r.json()}).then(d=>{ALL_ITEMS=Array.isArray(d.items)?d.items:[];render(ALL_ITEMS);const input=document.getElementById('searchInput');if(input){input.addEventListener('keydown',e=>{if(e.key==='Enter')doSearch()});input.addEventListener('input',()=>{if(!input.value)render(ALL_ITEMS)})}}).catch(()=>{document.getElementById('heroTitle').textContent='تعذر تحميل الأخبار مؤقتاً';document.getElementById('ticker').innerHTML='<div class="tickerSet"><span>تعذر تحميل الأخبار مؤقتاً</span></div>'});
+</script>
+
+<script id="news-bars-script">
+(function(){
+  function buildBars(){
+    if(typeof DATA==='undefined' || !DATA || !Array.isArray(DATA.items)) return;
+    const items=DATA.items.filter(x=>x && x.title);
+    const latest=items.slice(0,12);
+    const breaking=items.filter(x=>/عاجل|الآن|عاجلة|طارئ|تحذير|هجوم|انفجار|زلزال|حريق|اشتباك|وفاة|قتلى/i.test(String(x.title))).slice(0,6);
+    const urgent=breaking.length?breaking:items.slice(0,4);
+    const make=(arr,cls)=>'<div class="'+cls+'">'+arr.map(x=>'<a href="'+(x.article_url||x.url||'#')+'">'+String(x.title).replace(/</g,'&lt;').replace(/>/g,'&gt;')+'</a>').join('')+'</div>';
+    const bt=document.getElementById('breakingTrack');
+    const lt=document.getElementById('latestTrack');
+    if(bt){const h=make(urgent,'breakingSet');bt.innerHTML=h+h;}
+    if(lt){const h=make(latest,'tickerSet');lt.innerHTML=h+h;}
+  }
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',buildBars); else buildBars();
+})();
 </script>
 </body></html>
