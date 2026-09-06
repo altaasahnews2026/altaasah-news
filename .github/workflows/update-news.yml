@@ -27,7 +27,7 @@ jobs:
         run: pip install pillow arabic-reshaper python-bidi
       - name: فحص السكربتات
         run: python -m py_compile scripts/update_news.py scripts/fix_site.py scripts/generate_articles.py scripts/apply_news_template.py
-      - name: جلب الأخبار والصور
+      - name: جلب الأخبار والصور الحقيقية
         run: python scripts/update_news.py
       - name: تركيب صور الأخبار داخل القالب
         run: python scripts/apply_news_template.py
@@ -50,7 +50,6 @@ jobs:
           js='''<script id="news-bars-script">(()=>{const esc=v=>String(v??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));const render=d=>{const a=(d?.items||[]).filter(x=>x?.title),l=a.slice(0,15),b=a.filter(x=>/عاجل|طارئ|تحذير عاجل|هجوم|انفجار|زلزال|حريق كبير|اشتباك|قتلى|ضحايا/.test(x.title)).slice(0,8),mk=(x,c,e)=>{const h=x.length?x.map(v=>`<a href="${esc(v.article_url||v.url||'#')}">${esc(v.title)}</a>`).join(''):e;return `<div class="${c}">${h}</div>`};for(const [id,x,c,e] of [['breakingTrack',b,'breakingSet','لا توجد أخبار عاجلة الآن'],['latestTrack',l,'tickerSet','لا توجد أخبار حالياً']]){const el=document.getElementById(id);if(el){const h=mk(x,c,e);el.innerHTML=h+h}}};const load=()=>fetch('./news.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('news.json');return r.json()}).then(render).catch(()=>{});document.readyState==='loading'?document.addEventListener('DOMContentLoaded',load):load()})();</script>'''
           s=re.sub(r'<script id="news-bars-script">.*?</script>','',s,flags=re.S)
           s=s.replace('</body>',js+'</body>')
-          # إصلاح محمل الأخبار الرئيسي: لا تستخدم query string حتى لا يفشل GitHub Pages مع cache routing
           s=s.replace("const DATA='./news.json?v='+Date.now();","const DATA='./news.json';")
           s=s.replace("fetch(DATA).then(r=>{if(!r.ok)throw new Error('news.json');return r.json()})", "fetch(DATA,{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('news.json');return r.json()})")
           p.write_text(s,encoding='utf-8')
@@ -65,7 +64,7 @@ jobs:
               if str(x.get('image','')).startswith('./'): x['image']=base+str(x['image'])[2:]
           p.write_text(json.dumps(d,ensure_ascii=False,indent=2),encoding='utf-8')
           PY
-      - name: فحص نهائي
+      - name: فحص نهائي صارم
         run: |
           python - <<'PY'
           import json
@@ -73,9 +72,10 @@ jobs:
           d=json.loads(Path('news.json').read_text(encoding='utf-8')); s=Path('index.html').read_text(encoding='utf-8')
           assert d.get('items'),'لا توجد أخبار'
           assert all(x.get('image') for x in d['items']),'خبر بلا صورة'
+          assert all(not str(x.get('image','')).lower().split('?')[0].endswith('.svg') for x in d['items']),'تم رفض صورة SVG غير حقيقية'
           assert 'const DATA=\'./news.json\';' in s
           assert 'id="breakingTrack"' in s and 'id="latestTrack"' in s and 'id="news-bars-script"' in s
-          print('نجح الفحص:',len(d['items']),'خبراً')
+          print('نجح الفحص:',len(d['items']),'خبراً بصور حقيقية')
           PY
       - name: حفظ ونشر
         run: |
