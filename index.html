@@ -51,8 +51,8 @@
 </style>
 
 <style id="news-image-hardening">
-.card .thumb,.catItem,.feature,.lead{background:#dbe4ee;}
-.card .thumb img,.catItem img,.feature img,.lead img{display:block!important;visibility:visible!important;opacity:1!important;}
+.card .thumb,.catItem,.feature,.lead{background:#dbe4ee;overflow:hidden;}
+.card .thumb img,.catItem img,.feature img,.lead img{display:block!important;visibility:visible!important;opacity:1!important;width:100%!important;height:100%!important;object-fit:cover!important;}
 </style><style id="news-bars-style">.breakingTicker{height:42px;background:#b4000b;color:#fff;display:flex;overflow:hidden}.breakingTicker>b,.ticker>b{min-width:92px;display:flex;align-items:center;justify-content:center;font-weight:900;flex:0 0 92px}.breakingTicker>b{background:#e21d2b}.breakingWindow,.tickerWindow{overflow:hidden;flex:1;direction:rtl;position:relative}.breakingTrack,.tickerTrack{height:100%;display:flex;align-items:center;width:max-content;white-space:nowrap;will-change:transform;direction:rtl}.breakingTrack{animation:breakingMove 34s linear infinite}.ticker{height:38px;background:#fff;display:flex;border-bottom:1px solid var(--line)}.ticker>b{background:var(--navy2);color:#fff}.tickerTrack{animation:tickerMove 65s linear infinite}.breakingSet,.tickerSet{display:flex;align-items:center;gap:40px;direction:rtl;padding-right:40px;padding-left:40px;flex-shrink:0}.breakingTrack a{color:#fff;font-size:11px;font-weight:900}.tickerTrack a{color:var(--ink);font-size:10px;font-weight:800}.breakingTrack:hover,.tickerTrack:hover{animation-play-state:paused}@keyframes breakingMove{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}@keyframes tickerMove{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}</style></head>
 <body>
 <div class="top"><div class="wrap"><span>التاسعة نيوز — خبر دقيق .. رؤية واضحة</span><span>تغطية مستمرة لأهم أخبار العراق والعالم</span></div></div>
@@ -85,12 +85,22 @@ function originalImageFor(x){
   const u=clean(x&&x.original_image);
   return u && !/\.svg(?:\?|$)/i.test(u) ? u : '';
 }
+function rawImageFor(x){
+  const candidates=[x&&x.image,x&&x.original_image].filter(Boolean);
+  for(const value of candidates){
+    const p=String(value).replace(/^\.\//,'');
+    if(/^assets\/news\//i.test(p) && !/\.svg(?:\?|$)/i.test(p)) return 'https://raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/'+p;
+  }
+  return '';
+}
 function img(x,cls=''){
   const src=imageFor(x);
   const original=originalImageFor(x);
-  if(!src && !original) return `<div class="${cls}" role="img" aria-label="صورة الخبر غير متاحة"></div>`;
-  const first=src||original;
-  const fallback=(original && original!==first)?` onerror="this.onerror=null;this.src='${esc(original)}'"`:'';
+  const raw=rawImageFor(x);
+  const first=src||original||raw;
+  if(!first) return `<div class="${cls}" role="img" aria-label="صورة الخبر غير متاحة"></div>`;
+  const chain=[original,raw].filter(u=>u&&u!==first);
+  const fallback=chain.length?` onerror="this.dataset.f=(+this.dataset.f||0)+1;if(this.dataset.f<=${chain.length})this.src='${esc(chain[0])}';if(this.dataset.f>${chain.length})this.onerror=null"`:'';
   return `<img class="${cls}" src="${esc(first)}" alt="صورة الخبر" loading="eager" decoding="async"${fallback}>`;
 }
 function date(s){try{return new Date(s).toLocaleDateString('ar-IQ',{day:'2-digit',month:'2-digit',year:'numeric'})}catch{return ''}}
