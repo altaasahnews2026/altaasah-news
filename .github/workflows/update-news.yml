@@ -38,13 +38,10 @@ jobs:
           p = Path('news.json')
           d = json.loads(p.read_text(encoding='utf-8'))
           base = 'https://altaasahnews2026.github.io/altaasah-news/'
-          emergency = base + '6deaa228-fef4-472c-819d-400fa6c78630.jpg'
           for item in d.get('items', []):
               image = str(item.get('image') or '')
               if image.startswith('./'):
                   item['image'] = base + image[2:]
-              elif not image or image.lower().endswith('.svg'):
-                  item['image'] = emergency
           p.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding='utf-8')
           PY
 
@@ -64,7 +61,81 @@ jobs:
           p.write_text(s, encoding='utf-8')
           PY
 
-      - name: تحسين الفوتر والشعار والشريط الإخباري
+      - name: تحديث شريطي الأخبار العاجلة وآخر الأخبار
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          p = Path('index.html')
+          s = p.read_text(encoding='utf-8')
+
+          # إزالة الشريط القديم بالكامل، ثم بناء شريطين منفصلين:
+          # الأحمر = الأخبار العاجلة، والأبيض/الكحلي = آخر الأخبار.
+          start = s.find('<div class="ticker">')
+          end = s.find('<main', start)
+          if start != -1 and end != -1:
+              bars = '''<div class="breakingTicker" id="breakingTicker" aria-label="الأخبار العاجلة">
+          <b>● عاجل</b><div class="breakingWindow"><div class="breakingTrack" id="breakingTrack"></div></div>
+          </div>
+          <div class="ticker" id="latestTicker" aria-label="آخر الأخبار">
+          <b>آخر الأخبار</b><div class="tickerWindow"><div class="tickerTrack" id="latestTrack"></div></div>
+          </div>
+          '''
+              s = s[:start] + bars + s[end:]
+
+          # تصميم الشريطين دون تغيير بقية هوية الموقع.
+          css = '''
+          <style id="news-bars-style">
+          .breakingTicker{height:42px;background:#b4000b;color:#fff;display:flex;border-bottom:1px solid #8e0008;overflow:hidden}
+          .breakingTicker>b{min-width:92px;background:#e21d2b;color:#fff;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:900;z-index:2;box-shadow:3px 0 10px rgba(0,0,0,.16)}
+          .breakingWindow{overflow:hidden;flex:1;direction:ltr}
+          .breakingTrack{height:100%;display:flex;align-items:center;gap:44px;width:max-content;white-space:nowrap;animation:breakingMove 42s linear infinite;will-change:transform}
+          .breakingTrack:hover{animation-play-state:paused}
+          .breakingSet{display:flex;align-items:center;gap:44px;direction:rtl;padding-left:44px}
+          .breakingTrack a{color:#fff;font-size:11px;font-weight:900;direction:rtl}
+          .breakingTrack a:before{content:'⚡';margin-left:7px;font-size:12px}
+          .breakingTicker+ .ticker{border-top:0}
+          .ticker{height:38px;background:#fff;border-bottom:1px solid var(--line);display:flex}
+          .ticker b{min-width:92px;background:var(--navy2);color:#fff;display:flex;align-items:center;justify-content:center;font-size:11px;z-index:2}
+          .tickerWindow{overflow:hidden;flex:1;direction:ltr}
+          .tickerTrack{height:100%;display:flex;align-items:center;gap:40px;width:max-content;animation:tickerMove 75s linear infinite;white-space:nowrap;will-change:transform}
+          .tickerTrack:hover{animation-play-state:paused}
+          .tickerSet{display:flex;align-items:center;gap:40px;direction:rtl;padding-left:40px}
+          .tickerTrack a{font-size:10px;font-weight:800;direction:rtl;color:var(--ink)}
+          .tickerTrack a:before{content:'•';color:var(--red);font-size:18px;vertical-align:-2px;margin-left:7px}
+          @keyframes breakingMove{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+          @media(max-width:700px){.breakingTicker>b,.ticker b{min-width:76px;font-size:10px}.breakingTrack,.breakingSet{gap:28px}.tickerTrack,.tickerSet{gap:24px}.breakingTrack a{font-size:10px}.tickerTrack a{font-size:9px}}
+          </style>
+          '''
+          if '</head>' in s and 'id="news-bars-style"' not in s:
+              s = s.replace('</head>', css + '</head>', 1)
+
+          # المصدر لا يظهر في الشريط؛ الروابط تعرض عناوين الأخبار فقط.
+          js = '''
+          <script id="news-bars-script">
+          (function(){
+            function buildBars(){
+              if(typeof DATA==='undefined' || !DATA || !Array.isArray(DATA.items)) return;
+              const items=DATA.items.filter(x=>x && x.title);
+              const latest=items.slice(0,12);
+              const breaking=items.filter(x=>/عاجل|الآن|عاجلة|طارئ|تحذير|هجوم|انفجار|زلزال|حريق|اشتباك|وفاة|قتلى/i.test(String(x.title))).slice(0,6);
+              const urgent=breaking.length?breaking:items.slice(0,4);
+              const make=(arr,cls)=>'<div class="'+cls+'">'+arr.map(x=>'<a href="'+(x.article_url||x.url||'#')+'">'+String(x.title).replace(/</g,'&lt;').replace(/>/g,'&gt;')+'</a>').join('')+'</div>';
+              const bt=document.getElementById('breakingTrack');
+              const lt=document.getElementById('latestTrack');
+              if(bt){const h=make(urgent,'breakingSet');bt.innerHTML=h+h;}
+              if(lt){const h=make(latest,'tickerSet');lt.innerHTML=h+h;}
+            }
+            if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',buildBars); else buildBars();
+          })();
+          </script>
+          '''
+          if '</body>' in s:
+              s = s.replace('</body>', js + '</body>', 1)
+          p.write_text(s, encoding='utf-8')
+          PY
+
+      - name: تحسين الفوتر والشعار
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -92,7 +163,7 @@ jobs:
         run: |
           git config user.name "Altaasah News Bot"
           git config user.email "actions@github.com"
-          git add news.json news/ sitemap.xml feed.xml assets/news/ index.html scripts/update_news.py scripts/fix_site.py scripts/generate_articles.py
+          git add news.json news/ sitemap.xml feed.xml assets/news/ index.html scripts/update_news.py scripts/fix_site.py scripts/generate_articles.py .github/workflows/update-news.yml
           if git diff --cached --quiet; then
             echo "لا توجد تحديثات جديدة."
           else
