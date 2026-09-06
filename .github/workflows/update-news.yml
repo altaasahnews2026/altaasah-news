@@ -7,6 +7,9 @@ on:
     branches: [main]
 permissions:
   contents: write
+concurrency:
+  group: altaasah-news-update
+  cancel-in-progress: true
 jobs:
   update-news:
     if: github.event_name != 'push' || !contains(github.event.head_commit.message, 'تحديث الأخبار والصفحات والصور وRSS')
@@ -16,8 +19,10 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: مزامنة الفرع
-        run: git pull --rebase origin main
+      - name: مزامنة الفرع قبل التوليد
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
       - name: تثبيت المكتبات
         run: pip install pillow arabic-reshaper python-bidi
       - name: فحص السكربتات
@@ -35,7 +40,6 @@ jobs:
           from pathlib import Path
           import re
           p=Path('index.html'); s=p.read_text(encoding='utf-8')
-          s=s.replace("x.url||'#'","x.article_url||x.url||'#'")
           bars='''<div class="breakingTicker" id="breakingTicker"><b>● عاجل</b><div class="breakingWindow"><div class="breakingTrack" id="breakingTrack"></div></div></div><div class="ticker" id="latestTicker"><b>آخر الأخبار</b><div class="tickerWindow"><div class="tickerTrack" id="latestTrack"></div></div></div>'''
           if 'id="breakingTrack"' not in s or 'id="latestTrack"' not in s:
               start=s.find('<div class="ticker">'); end=s.find('<main',start)
@@ -43,7 +47,7 @@ jobs:
           css='''<style id="news-bars-style">.breakingTicker{height:42px;background:#b4000b;color:#fff;display:flex;overflow:hidden}.breakingTicker>b,.ticker>b{min-width:92px;display:flex;align-items:center;justify-content:center;font-weight:900;flex:0 0 92px}.breakingTicker>b{background:#e21d2b}.breakingWindow,.tickerWindow{overflow:hidden;flex:1;direction:rtl;position:relative}.breakingTrack,.tickerTrack{height:100%;display:flex;align-items:center;width:max-content;white-space:nowrap;will-change:transform;direction:rtl}.breakingTrack{animation:breakingMove 34s linear infinite}.ticker{height:38px;background:#fff;display:flex;border-bottom:1px solid var(--line)}.ticker>b{background:var(--navy2);color:#fff}.tickerTrack{animation:tickerMove 65s linear infinite}.breakingSet,.tickerSet{display:flex;align-items:center;gap:40px;direction:rtl;padding-right:40px;padding-left:40px;flex-shrink:0}.breakingTrack a{color:#fff;font-size:11px;font-weight:900}.tickerTrack a{color:var(--ink);font-size:10px;font-weight:800}.breakingTrack:hover,.tickerTrack:hover{animation-play-state:paused}@keyframes breakingMove{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}@keyframes tickerMove{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}</style>'''
           s=re.sub(r'<style id="news-bars-style">.*?</style>','',s,flags=re.S)
           s=s.replace('</head>',css+'</head>',1)
-          js='''<script id="news-bars-script">(()=>{const render=d=>{const a=(d?.items||[]).filter(x=>x?.title),l=a.slice(0,15),b=a.filter(x=>/عاجل|طارئ|تحذير عاجل|هجوم|انفجار|زلزال|حريق كبير|اشتباك|قتلى|ضحايا/.test(x.title)).slice(0,8),mk=(x,c,e)=>{const h=x.length?x.map(v=>`<a href="${v.article_url||v.url||'#'}">${String(v.title).replace(/[<>]/g,'')}</a>`).join(''):e;return `<div class="${c}">${h}</div>`};for(const [id,x,c,e] of [['breakingTrack',b,'breakingSet','لا توجد أخبار عاجلة الآن'],['latestTrack',l,'tickerSet','لا توجد أخبار حالياً']]){const el=document.getElementById(id);if(el){const h=mk(x,c,e);el.innerHTML=h+h}}};const load=()=>fetch('./news.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(render).catch(()=>{});document.readyState==='loading'?document.addEventListener('DOMContentLoaded',load):load()})();</script>'''
+          js='''<script id="news-bars-script">(()=>{const esc=v=>String(v??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));const render=d=>{const a=(d?.items||[]).filter(x=>x?.title),l=a.slice(0,15),b=a.filter(x=>/عاجل|طارئ|تحذير عاجل|هجوم|انفجار|زلزال|حريق كبير|اشتباك|قتلى|ضحايا/.test(x.title)).slice(0,8),mk=(x,c,e)=>{const h=x.length?x.map(v=>`<a href="${esc(v.article_url||v.url||'#')}">${esc(v.title)}</a>`).join(''):e;return `<div class="${c}">${h}</div>`};for(const [id,x,c,e] of [['breakingTrack',b,'breakingSet','لا توجد أخبار عاجلة الآن'],['latestTrack',l,'tickerSet','لا توجد أخبار حالياً']]){const el=document.getElementById(id);if(el){const h=mk(x,c,e);el.innerHTML=h+h}}};const load=()=>fetch('./news.json?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('news.json');return r.json()}).then(render).catch(()=>{for(const id of ['breakingTrack','latestTrack']){const el=document.getElementById(id);if(el)el.textContent='تعذر تحميل الأخبار حالياً'}});document.readyState==='loading'?document.addEventListener('DOMContentLoaded',load):load()})();</script>'''
           s=re.sub(r'<script id="news-bars-script">.*?</script>','',s,flags=re.S)
           s=s.replace('</body>',js+'</body>')
           p.write_text(s,encoding='utf-8')
@@ -76,5 +80,4 @@ jobs:
           git add news.json news/ sitemap.xml feed.xml assets/news/ index.html scripts/ .github/workflows/update-news.yml
           if git diff --cached --quiet; then echo 'لا توجد تغييرات'; exit 0; fi
           git commit -m 'تحديث الأخبار والصفحات والصور وRSS'
-          git pull --rebase origin main
           git push origin HEAD:main
