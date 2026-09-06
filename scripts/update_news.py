@@ -2,6 +2,8 @@ import hashlib,html,json,os,re,urllib.parse,urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor,as_completed
 from datetime import datetime,timezone
+from PIL import Image,ImageOps
+from io import BytesIO
 D='assets/news';os.makedirs(D,exist_ok=True);H={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/128 Safari/537.36'}
 def get(u,t=4):
  try:
@@ -17,11 +19,25 @@ def cat(t):
  if any(x in t for x in ['فلسطين','إيران','أمريكا','السعودية','سوريا','دولي']):return 'عربي ودولي'
  return 'محلي'
 def valid(raw,typ):return len(raw)>=1200 and typ.startswith('image/') and 'svg' not in typ and (raw.startswith(b'\xff\xd8\xff') or raw.startswith(b'\x89PNG') or raw[:4]==b'RIFF' or raw[:6] in (b'GIF87a',b'GIF89a'))
-def store(raw,typ,used):
+def visual_hash(raw):
+ try:
+  with Image.open(BytesIO(raw)) as im:
+   im=ImageOps.exif_transpose(im).convert('L').resize((16,16))
+   px=list(im.getdata());avg=sum(px)/len(px)
+   return sum((v>avg)<<i for i,v in enumerate(px))
+ except:return None
+def too_similar(vh,visuals):
+ if vh is None:return False
+ return any((vh^old).bit_count()<=10 for old in visuals)
+def store(raw,typ,used,visuals):
  if not valid(raw,typ):return ''
  h=hashlib.sha256(raw).hexdigest()
  if h in used:return ''
- ext={'image/jpeg':'.jpg','image/png':'.png','image/webp':'.webp','image/gif':'.gif'}.get(typ,'.jpg');open(os.path.join(D,h[:24]+ext),'wb').write(raw);used.add(h);return './assets/news/'+h[:24]+ext
+ vh=visual_hash(raw)
+ if too_similar(vh,visuals):return ''
+ ext={'image/jpeg':'.jpg','image/png':'.png','image/webp':'.webp','image/gif':'.gif'}.get(typ,'.jpg');open(os.path.join(D,h[:24]+ext),'wb').write(raw);used.add(h)
+ if vh is not None:visuals.append(vh)
+ return './assets/news/'+h[:24]+ext
 def grab(u):return u,*get(u,4)
 def page_image(u):
  raw,_=get(u,4)
@@ -54,7 +70,7 @@ for it in root.findall('./channel/item'):
  if sn:t=re.sub(r'\s*[-–—|]\s*'+re.escape(sn)+r'\s*$','',t,flags=re.I)
  if t and link and t not in seen:seen.add(t);rows.append((it,t,link,src))
  if len(rows)>=40:break
-used=set();imgs={};jobs=[]
+used=set();visuals=[];imgs={};jobs=[]
 for i,(it,t,link,src) in enumerate(rows):
  for m in it.findall('{http://search.yahoo.com/mrss/}content')+it.findall('{http://search.yahoo.com/mrss/}thumbnail'):
   u=clean(m.attrib.get('url'))
@@ -64,7 +80,7 @@ for i,(it,t,link,src) in enumerate(rows):
 with ThreadPoolExecutor(max_workers=16) as ex:
  fs=[ex.submit(grab,u) for _,u in jobs]
  for (idx,_),(uu,rr,typ) in zip(jobs,[f.result() for f in fs]):
-  p=store(rr,typ,used)
+  p=store(rr,typ,used,visuals)
   if p and idx not in imgs:imgs[idx]=p
 if len(imgs)<8:
  with ThreadPoolExecutor(max_workers=16) as ex:
@@ -74,7 +90,7 @@ if len(imgs)<8:
    try:u=f.result()
    except:u=''
    if not u:continue
-   try:_,rr,typ=grab(u);p=store(rr,typ,used)
+   try:_,rr,typ=grab(u);p=store(rr,typ,used,visuals)
    except:p=''
    if p:imgs[i]=p
    if len(imgs)>=24:break
@@ -99,16 +115,14 @@ if len(imgs)<8:
   for f in as_completed(fs):
    i=fs[f]
    if i in imgs:continue
-   try:u,rr,typ=f.result();p=store(rr,typ,used)
+   try:u,rr,typ=f.result();p=store(rr,typ,used,visuals)
    except:p=''
    if p:imgs[i]=p
    if len(imgs)>=24:break
-# الملاذ الأخير: Wikimedia Commons بصور مرتبطة بفئة الخبر، وليس صورة قالب أو صورة طوارئ
 if len(imgs)<8:
  qs={'محلي':'Iraq Baghdad','سياسة':'Iraq politics parliament','اقتصاد':'Iraq economy oil','أمن':'Iraq police army','رياضة':'Iraq football','عربي ودولي':'Iraq Palestine Iran'}
  with ThreadPoolExecutor(max_workers=6) as ex:
-  fs={ex.submit(wiki_images,q):c for c,q in qs.items()}
-  wp={}
+  fs={ex.submit(wiki_images,q):c for c,q in qs.items()};wp={}
   for f in as_completed(fs):
    try:wp[fs[f]]=f.result()
    except:wp[fs[f]]=[]
@@ -121,7 +135,7 @@ if len(imgs)<8:
   for f in as_completed(fs):
    i=fs[f]
    if i in imgs:continue
-   try:u,rr,typ=f.result();p=store(rr,typ,used)
+   try:u,rr,typ=f.result();p=store(rr,typ,used,visuals)
    except:p=''
    if p:imgs[i]=p
    if len(imgs)>=24:break
@@ -130,6 +144,6 @@ for i,(it,t,link,src) in enumerate(rows):
  if i not in imgs:continue
  items.append({'title':t,'url':link,'category':cat(t),'published':it.findtext('pubDate') or '','image':imgs[i],'source_url':clean(src.attrib.get('url') if src is not None else '')})
  if len(items)>=24:break
+if len(items)<20:raise SystemExit(f'تعذر توفير 20 صورة مختلفة بصريا، المتاح {len(items)}')
 with open('news.json','w',encoding='utf-8') as f:json.dump({'updated_at':datetime.now(timezone.utc).isoformat(),'items':items},f,ensure_ascii=False,indent=2)
-print('تم تحديث',len(items),'خبراً بنظام صور متعدد المصادر')
-if len(items)<8:raise SystemExit('تعذر توفير 8 صور حقيقية على الأقل')
+print('تم تحديث',len(items),'خبراً بصور حقيقية مختلفة بصريا')
