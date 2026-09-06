@@ -12,16 +12,10 @@ def clean(u):
  u=html.unescape(str(u or '').strip());return ('https:'+u[2:] if u.startswith('//') else u) if u.startswith(('http://','https://','//')) else ''
 def norm(t):
  t=re.sub(r'[إأآا]','ا',t);t=re.sub(r'ى','ي',t);t=re.sub(r'ة','ه',t);return re.sub(r'\s+',' ',re.sub(r'[^\u0600-\u06ff\w\s]',' ',t)).strip().lower()
-def ph(raw):
- try:
-  with Image.open(BytesIO(raw)) as im:
-   im=ImageOps.exif_transpose(im).convert('L');
-   if im.width<320 or im.height<200:return None
-   p=list(im.resize((16,16)).getdata());a=sum(p)/len(p);return sum((x>a)<<i for i,x in enumerate(p))
- except:return None
 def good(raw):
  try:
   with Image.open(BytesIO(raw)) as im:
+   im=ImageOps.exif_transpose(im)
    if im.width<320 or im.height<200:return False
    p=list(im.convert('L').resize((24,24)).getdata());return max(p)-min(p)>=28
  except:return False
@@ -49,7 +43,7 @@ with ThreadPoolExecutor(max_workers=12) as ex:
   i=fs[f]
   try:resolved[i]=f.result()
   except:resolved[i]=''
-visual=[];fixed=[]
+used=set();fixed=[]
 for i,item in enumerate(unique):
  candidates=[];u=resolved.get(i)
  if u:candidates.append(u)
@@ -62,16 +56,14 @@ for i,item in enumerate(unique):
   try:raw=get(u) if str(u).startswith('http') else Path(u).read_bytes()
   except:continue
   if not raw or not good(raw):continue
-  v=ph(raw)
-  if v is not None and any((v-x).bit_count()<=4 for x in visual):continue
+  h=hashlib.sha256(raw).hexdigest()
+  if h in used:continue
   try:
    with Image.open(BytesIO(raw)) as im:ext={"JPEG":".jpg","PNG":".png","WEBP":".webp"}.get(im.format,'.jpg')
   except:continue
-  name='source-'+hashlib.sha256(raw).hexdigest()[:24]+ext;path=D/name
+  name='source-'+h[:24]+ext;path=D/name
   if not path.exists():path.write_bytes(raw)
-  chosen='./assets/news/'+name
-  if v is not None:visual.append(v)
-  break
+  used.add(h);chosen='./assets/news/'+name;break
  if chosen:item['image']=chosen;item['original_image']=chosen;fixed.append(item)
-if len(fixed)<20:raise SystemExit(f'بوابة جودة الصور لم تجد 20 صورة صالحة وفريدة: {len(fixed)}')
+if len(fixed)<20:raise SystemExit(f'بوابة جودة الصور لم تجد 20 صورة صالحة: {len(fixed)}')
 d['items']=fixed[:24];Path('news.json').write_text(json.dumps(d,ensure_ascii=False,indent=2),encoding='utf-8');print('بوابة جودة الصور: OK',len(d['items']))
