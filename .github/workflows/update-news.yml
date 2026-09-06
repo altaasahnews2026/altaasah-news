@@ -74,8 +74,8 @@ jobs:
         run: |
           git config user.name "Altaasah News Bot"
           git config user.email "actions@github.com"
-          git pull --rebase origin main
           git add news.json news/ sitemap.xml feed.xml assets/news/ index.html scripts/ .github/workflows/update-news.yml
           if git diff --cached --quiet; then echo 'لا توجد تغييرات'; exit 0; fi
           git commit -m 'تحديث الأخبار والصفحات والصور وRSS'
+          git pull --rebase origin main
           git push origin HEAD:main
