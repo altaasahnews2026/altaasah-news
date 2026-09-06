@@ -15,9 +15,7 @@ def norm(t):
 def good(raw):
  try:
   with Image.open(BytesIO(raw)) as im:
-   im=ImageOps.exif_transpose(im)
-   if im.width<320 or im.height<200:return False
-   p=list(im.convert('L').resize((24,24)).getdata());return max(p)-min(p)>=28
+   im=ImageOps.exif_transpose(im);return im.width>=320 and im.height>=200
  except:return False
 def og(u):
  if not u:return ''
