@@ -9,11 +9,12 @@ permissions:
   contents: write
 concurrency:
   group: altaasah-news-update
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   update-news:
     if: github.event_name != 'push' || !contains(github.event.head_commit.message, 'تحديث الأخبار والصفحات والصور وRSS')
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: تحميل الملفات
         uses: actions/checkout@v4
