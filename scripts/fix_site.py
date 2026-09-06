@@ -25,28 +25,36 @@ function originalImageFor(x){
   const u=clean(x&&x.original_image);
   return u && !/\\.svg(?:\\?|$)/i.test(u) ? u : '';
 }
+function rawImageFor(x){
+  const candidates=[x&&x.image,x&&x.original_image].filter(Boolean);
+  for(const value of candidates){
+    const p=String(value).replace(/^\\.\\//,'');
+    if(/^assets\\/news\\//i.test(p) && !/\\.svg(?:\\?|$)/i.test(p)) return 'https://raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/'+p;
+  }
+  return '';
+}
 function img(x,cls=''){
   const src=imageFor(x);
   const original=originalImageFor(x);
-  if(!src && !original) return `<div class="${cls}" role="img" aria-label="صورة الخبر غير متاحة"></div>`;
-  const first=src||original;
-  const fallback=(original && original!==first)?` onerror="this.onerror=null;this.src='${esc(original)}'"`:'';
+  const raw=rawImageFor(x);
+  const first=src||original||raw;
+  if(!first) return `<div class="${cls}" role="img" aria-label="صورة الخبر غير متاحة"></div>`;
+  const chain=[original,raw].filter(u=>u&&u!==first);
+  const fallback=chain.length?` onerror="this.dataset.f=(+this.dataset.f||0)+1;if(this.dataset.f<=${chain.length})this.src='${esc(chain[0])}';if(this.dataset.f>${chain.length})this.onerror=null"`:'';
   return `<img class="${cls}" src="${esc(first)}" alt="صورة الخبر" loading="eager" decoding="async"${fallback}>`;
 }
 '''
     s = s[:marker_a] + replacement + s[marker_b:]
 
 s = re.sub(r"\.onerror\s*=\s*function\(\)\{[^;]*;[^}]*\};?", "", s)
-s = s.replace("this.onerror=null;this.src=pickFallback(hero);", "")
-s = s.replace("this.onerror=null;this.src=pickFallback(x);", "")
 s = re.sub(r'<script id="news-image-runtime-fix">.*?</script>', '', s, flags=re.S)
 
-if 'id="news-image-hardening"' not in s:
-    hardening = '''<style id="news-image-hardening">
-.card .thumb,.catItem,.feature,.lead{background:#dbe4ee;}
-.card .thumb img,.catItem img,.feature img,.lead img{display:block!important;visibility:visible!important;opacity:1!important;}
+hardening = '''<style id="news-image-hardening">
+.card .thumb,.catItem,.feature,.lead{background:#dbe4ee;overflow:hidden;}
+.card .thumb img,.catItem img,.feature img,.lead img{display:block!important;visibility:visible!important;opacity:1!important;width:100%!important;height:100%!important;object-fit:cover!important;}
 </style>'''
-    s=s.replace('</head>',hardening+'</head>',1)
+s = re.sub(r'<style id="news-image-hardening">.*?</style>', '', s, flags=re.S)
+s=s.replace('</head>',hardening+'</head>',1)
 
 p.write_text(s,encoding='utf-8')
-print('تم إصلاح عرض صور الأخبار جذرياً: القالب أولاً ثم الصورة الأصلية عند تعذر التحميل، بدون صور وهمية.')
+print('تم تثبيت نظام صور متعدد المسارات: Pages ثم الأصلية ثم raw.githubusercontent، بدون صورة عامة.')
