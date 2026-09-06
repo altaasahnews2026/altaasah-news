@@ -10,7 +10,7 @@ from datetime import datetime, timezone
 
 NEWS_IMAGE_DIR='assets/news'
 os.makedirs(NEWS_IMAGE_DIR,exist_ok=True)
-HEADERS={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/126 Safari/537.36'}
+HEADERS={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/126 Safari/537.36','Accept':'text/html,application/xhtml+xml,image/avif,image/webp,*/*;q=0.8'}
 NS={'media':'http://search.yahoo.com/mrss/'}
 
 def fetch(url,timeout=10):
@@ -18,8 +18,7 @@ def fetch(url,timeout=10):
     with urllib.request.urlopen(req,timeout=timeout) as r:return r.read(),r.headers.get_content_type()
 
 def clean_title(t,src=''):
-    t=re.sub(r'\s+',' ',str(t or '')).strip()
-    src=re.sub(r'\s+',' ',str(src or '')).strip()
+    t=re.sub(r'\s+',' ',str(t or '')).strip(); src=re.sub(r'\s+',' ',str(src or '')).strip()
     if src:t=re.sub(r'\s*[-–—|]\s*'+re.escape(src)+r'\s*$','',t,flags=re.I).strip()
     return t.rstrip('-–—| ')
 
@@ -55,40 +54,50 @@ def image_candidates(item):
 def save_image(url):
     try:
         raw,typ=fetch(url,8)
-        if len(raw)<8000 or not typ.startswith('image/') or 'svg' in typ:return ''
+        if len(raw)<3000 or not typ.startswith('image/') or 'svg' in typ:return ''
         if not(raw[:3]==b'\xff\xd8\xff' or raw.startswith(b'\x89PNG') or raw[:4]==b'RIFF' or raw[:6] in (b'GIF87a',b'GIF89a')):return ''
         ext={'image/jpeg':'.jpg','image/png':'.png','image/webp':'.webp','image/gif':'.gif'}.get(typ,'')
         if not ext:return ''
-        name=hashlib.sha256(raw).hexdigest()[:24]+ext
-        path=os.path.join(NEWS_IMAGE_DIR,name)
+        name=hashlib.sha256(raw).hexdigest()[:24]+ext; path=os.path.join(NEWS_IMAGE_DIR,name)
         if not os.path.exists(path):open(path,'wb').write(raw)
         return './assets/news/'+name
     except Exception:return ''
 
+def page_image(url):
+    try:
+        raw,_=fetch(url,8); text=raw.decode('utf-8','ignore')[:150000]
+        vals=[]
+        patterns=[r'<meta[^>]+(?:property|name)=["\']og:image["\'][^>]+content=["\']([^"\']+)',r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\']og:image["\']',r'<meta[^>]+(?:property|name)=["\']twitter:image[^"\']*["\'][^>]+content=["\']([^"\']+)']
+        for p in patterns: vals += re.findall(p,text,re.I)
+        for u in vals:
+            u=urllib.parse.urljoin(url,html.unescape(u))
+            saved=save_image(u)
+            if saved:return saved
+    except Exception:pass
+    return ''
+
 def placeholder(title):
-    name='no-image-'+hashlib.sha256(title.encode()).hexdigest()[:16]+'.svg'
-    p=os.path.join(NEWS_IMAGE_DIR,name)
+    name='no-image-'+hashlib.sha256(title.encode()).hexdigest()[:16]+'.svg'; p=os.path.join(NEWS_IMAGE_DIR,name)
     if not os.path.exists(p):open(p,'w',encoding='utf-8').write('<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700"><rect width="100%" height="100%" fill="#e9eef4"/><text x="50%" y="50%" text-anchor="middle" font-family="Arial" font-size="38" fill="#18324d">لا تتوفر صورة لهذا الخبر</text></svg>')
     return './assets/news/'+name
 
 params=urllib.parse.urlencode({'q':'العراق when:1d','hl':'ar','gl':'IQ','ceid':'IQ:ar'})
 try:
-    raw,_=fetch('https://news.google.com/rss/search?'+params,12)
-    root=ET.fromstring(raw)
+    raw,_=fetch('https://news.google.com/rss/search?'+params,12); root=ET.fromstring(raw)
 except Exception as e:
     print('تعذر جلب الأخبار:',e);raise SystemExit(0)
 items=[];seen=set();used=set()
 for item in root.findall('./channel/item'):
-    title=clean_title(item.findtext('title'),item.findtext('source'))
-    link=clean_url(item.findtext('link'))
+    title=clean_title(item.findtext('title'),item.findtext('source')); link=clean_url(item.findtext('link'))
     if not title or not link or title in seen:continue
-    seen.add(title)
-    local=''
+    seen.add(title); local=''
     for u in image_candidates(item):
         local=save_image(u)
         if local and local not in used:used.add(local);break
+    if not local:local=page_image(link)
+    if local and local not in used:used.add(local)
     if not local:local=placeholder(title)
     items.append({'title':title,'url':link,'category':category(title),'published':item.findtext('pubDate') or '','image':local,'source_url':clean_url((item.find('source').attrib.get('url') if item.find('source') is not None else ''))})
 items.sort(key=lambda x:x.get('published',''),reverse=True)
 with open('news.json','w',encoding='utf-8') as f:json.dump({'updated_at':datetime.now(timezone.utc).isoformat(),'items':items[:30]},f,ensure_ascii=False,indent=2)
-print('تم تحديث',len(items[:30]),'خبراً بسرعة')
+print('تم تحديث',len(items[:30]),'خبراً، مع محاولة جلب الصورة من المصدر عند غياب صورة RSS')
