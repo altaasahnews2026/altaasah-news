@@ -17,6 +17,11 @@ jobs:
     steps:
       - name: تحميل ملفات الموقع
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: مزامنة الفرع قبل التعديل
+        run: git pull --rebase origin main
 
       - name: تثبيت مكتبات معالجة الصور
         run: pip install pillow arabic-reshaper python-bidi
@@ -39,8 +44,7 @@ jobs:
           python - <<'PY'
           import json
           from pathlib import Path
-          p=Path('news.json')
-          d=json.loads(p.read_text(encoding='utf-8'))
+          p=Path('news.json'); d=json.loads(p.read_text(encoding='utf-8'))
           base='https://altaasahnews2026.github.io/altaasah-news/'
           for item in d.get('items',[]):
               image=str(item.get('image') or '')
@@ -58,8 +62,7 @@ jobs:
         run: |
           python - <<'PY'
           from pathlib import Path
-          p=Path('index.html')
-          s=p.read_text(encoding='utf-8').replace("x.url||'#'","x.article_url||x.url||'#'")
+          p=Path('index.html'); s=p.read_text(encoding='utf-8').replace("x.url||'#'","x.article_url||x.url||'#'")
           p.write_text(s,encoding='utf-8')
           PY
 
@@ -75,11 +78,9 @@ jobs:
               s=s[:start]+bars+s[end:]
           css='''<style id="news-bars-style">.breakingTicker{height:42px;background:#b4000b;color:#fff;display:flex;border-bottom:1px solid #8e0008;overflow:hidden}.breakingTicker>b{min-width:92px;background:#e21d2b;color:#fff;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:900;z-index:2}.breakingWindow{overflow:hidden;flex:1;direction:ltr}.breakingTrack{height:100%;display:flex;align-items:center;gap:44px;width:max-content;white-space:nowrap;animation:breakingMove 34s linear infinite;will-change:transform}.breakingSet{display:flex;align-items:center;gap:44px;direction:rtl;padding-left:44px}.breakingTrack a{color:#fff;font-size:11px;font-weight:900;direction:rtl}.breakingTrack a:before{content:'⚡';margin-left:7px}.ticker{height:38px;background:#fff;border-bottom:1px solid var(--line);display:flex}.ticker b{min-width:92px;background:var(--navy2);color:#fff;display:flex;align-items:center;justify-content:center;font-size:11px;z-index:2}.tickerWindow{overflow:hidden;flex:1;direction:ltr}.tickerTrack{height:100%;display:flex;align-items:center;gap:40px;width:max-content;animation:tickerMove 65s linear infinite;white-space:nowrap;will-change:transform}.tickerSet{display:flex;align-items:center;gap:40px;direction:rtl;padding-left:40px}.tickerTrack a{font-size:10px;font-weight:800;direction:rtl;color:var(--ink)}.tickerTrack a:before{content:'•';color:var(--red);font-size:18px;vertical-align:-2px;margin-left:7px}@keyframes breakingMove{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}@keyframes tickerMove{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}@media(max-width:700px){.breakingTicker>b,.ticker b{min-width:76px;font-size:10px}}</style>'''
           if '</head>' in s:
-              s=re.sub(r'<style id="news-bars-style">.*?</style>','',s,flags=re.S)
-              s=s.replace('</head>',css+'</head>',1)
-          js='''<script id="news-bars-script">(function(){function esc(v){return String(v==null?'':v).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}function renderBars(data){const items=(data&&Array.isArray(data.items)?data.items:[]).filter(x=>x&&x.title),latest=items.slice(0,12),breaking=items.filter(x=>/\\bعاجل\\b|عاجلة|طارئ|تحذير عاجل|هجوم|انفجار|زلزال|حريق كبير|اشتباك|قتلى|ضحايا/i.test(String(x.title))).slice(0,6);const make=(arr,cls,empty)=>arr.length?'<div class="'+cls+'">'+arr.map(x=>'<a href="'+esc(x.article_url||x.url||'#')+'">'+esc(x.title)+'</a>').join('')+'</div>':'<div class="'+cls+'"><span>'+empty+'</span></div>';const bt=document.getElementById('breakingTrack'),lt=document.getElementById('latestTrack');if(bt){const h=make(breaking,'breakingSet','لا توجد أخبار عاجلة الآن');bt.innerHTML=h+h}if(lt){const h=make(latest,'tickerSet','لا توجد أخبار حالياً');lt.innerHTML=h+h}}function load(){if(typeof window.DATA==='object'&&window.DATA)renderBars(window.DATA);else{const u=typeof window.DATA==='string'?window.DATA:'./news.json?v='+Date.now();fetch(u,{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject()).then(renderBars).catch(function(){})}}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',load);else load();window.addEventListener('newsdataready',function(e){renderBars(e.detail)})})();</script>'''
-          s=re.sub(r'<script id="news-bars-script">.*?</script>','',s,flags=re.S)
-          s=s.replace('</body>',js+'</body>',1)
+              s=re.sub(r'<style id="news-bars-style">.*?</style>','',s,flags=re.S); s=s.replace('</head>',css+'</head>',1)
+          js='''<script id="news-bars-script">(function(){function esc(v){return String(v==null?'':v).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}function renderBars(data){const items=(data&&Array.isArray(data.items)?data.items:[]).filter(x=>x&&x.title),latest=items.slice(0,12),breaking=items.filter(x=>/عاجل|عاجلة|طارئ|تحذير عاجل|هجوم|انفجار|زلزال|حريق كبير|اشتباك|قتلى|ضحايا/i.test(String(x.title))).slice(0,6);const make=(arr,cls,empty)=>arr.length?'<div class="'+cls+'">'+arr.map(x=>'<a href="'+esc(x.article_url||x.url||'#')+'">'+esc(x.title)+'</a>').join('')+'</div>':'<div class="'+cls+'"><span>'+empty+'</span></div>';const bt=document.getElementById('breakingTrack'),lt=document.getElementById('latestTrack');if(bt){const h=make(breaking,'breakingSet','لا توجد أخبار عاجلة الآن');bt.innerHTML=h+h}if(lt){const h=make(latest,'tickerSet','لا توجد أخبار حالياً');lt.innerHTML=h+h}}function load(){const d=window.DATA;if(d&&typeof d==='object')return renderBars(d);const u=typeof d==='string'?d:'./news.json?v='+Date.now();fetch(u,{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject()).then(renderBars).catch(function(){})}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',load);else load();window.addEventListener('newsdataready',function(e){if(e.detail)renderBars(e.detail)})})();</script>'''
+          s=re.sub(r'<script id="news-bars-script">.*?</script>','',s,flags=re.S); s=s.replace('</body>',js+'</body>',1)
           p.write_text(s,encoding='utf-8')
           PY
 
@@ -99,4 +100,8 @@ jobs:
           git config user.name "Altaasah News Bot"
           git config user.email "actions@github.com"
           git add news.json news/ sitemap.xml feed.xml assets/news/ index.html scripts/ .github/workflows/update-news.yml
-          if git diff --cached --quiet; then echo 'لا توجد تحديثات جديدة.'; else git commit -m 'تحديث الأخبار والصفحات والصور وRSS'; git pull --rebase origin main; git push origin HEAD:main; fi
+          git diff --cached --quiet && echo 'لا توجد تحديثات جديدة.' && exit 0
+          git pull --rebase origin main
+          git add news.json news/ sitemap.xml feed.xml assets/news/ index.html scripts/ .github/workflows/update-news.yml
+          git commit -m 'تحديث الأخبار والصفحات والصور وRSS'
+          git push origin HEAD:main
