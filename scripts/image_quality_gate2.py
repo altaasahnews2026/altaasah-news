@@ -25,22 +25,28 @@ def good(raw):
    p=list(im.convert('L').resize((24,24)).getdata());return max(p)-min(p)>=28
  except:return False
 def og(u):
+ if not u:return ''
  s=get(u).decode('utf-8','ignore')
  for p in [r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image|image_src)["\'][^>]+content=["\']([^"\']+)',r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\'](?:og:image|twitter:image|image_src)["\']']:
   m=re.search(p,s,re.I)
   if m:return clean(urllib.parse.urljoin(u,m.group(1)))
  return ''
 def web_results(q):
- u='https://www.bing.com/search?'+urllib.parse.urlencode({'q':'"'+q+'"','setlang':'ar'});s=get(u).decode('utf-8','ignore');out=[]
- for m in re.findall(r'<li class="b_algo"[^>]*>.*?<a href="([^"]+)"',s,re.I|re.S):
-  x=clean(html.unescape(m))
-  if x and x not in out:out.append(x)
- return out[:8]
+ out=[]
+ for u in ['https://www.bing.com/search?'+urllib.parse.urlencode({'q':'"'+q+'"','setlang':'ar'}),'https://www.google.com/search?'+urllib.parse.urlencode({'q':'"'+q+'"','hl':'ar'})]:
+  s=get(u).decode('utf-8','ignore')
+  pats=[r'<li class="b_algo"[^>]*>.*?<a href="([^"]+)"',r'href="/url\?q=(https?[^&"]+)']
+  for p in pats:
+   for m in re.findall(p,s,re.I|re.S):
+    x=clean(urllib.parse.unquote(m))
+    if x and x not in out and 'google.com/search' not in x and 'bing.com/search' not in x:out.append(x)
+ return out[:10]
 def local_original(v):
- p=str(v or '')
- if p.startswith('./'):p=p[2:]
- q=Path(p)
- return q if q.exists() else None
+ p=str(v or '').strip()
+ if not p:return None
+ p=p[2:] if p.startswith('./') else p
+ if not p.startswith('assets/news/'):return None
+ q=Path(p);return q if q.is_file() else None
 d=json.loads(Path('news.json').read_text(encoding='utf-8'));seen=[];visual=[];fixed=[]
 for item in d.get('items',[]):
  t=str(item.get('title',''));n=norm(t)
@@ -54,7 +60,8 @@ for item in d.get('items',[]):
  if op:candidates.append(str(op))
  chosen=''
  for u in candidates:
-  raw=get(u) if str(u).startswith('http') else Path(u).read_bytes()
+  try:raw=get(u) if str(u).startswith('http') else Path(u).read_bytes()
+  except:continue
   if not raw or not good(raw):continue
   v=ph(raw)
   if v is not None and any((v-x).bit_count()<=7 for x in visual):continue
