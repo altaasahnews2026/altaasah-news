@@ -17,14 +17,22 @@ def image_url(path):
     p = str(path or '').strip()
     if not p or p.lower().split('?')[0].endswith('.svg') or '6deaa228-fef4-472c-819d-400fa6c78630.jpg' in p:
         return ''
+    if p.startswith(RAW):
+        return p
+    if p.startswith(BASE):
+        return RAW + p[len(BASE):]
     if p.startswith(('http://','https://')):
         return p
-    return BASE + p.lstrip('./')
+    return RAW + p.lstrip('./')
 
 def raw_image_url(path):
     p = str(path or '').strip()
     if not p or p.lower().split('?')[0].endswith('.svg') or '6deaa228-fef4-472c-819d-400fa6c78630.jpg' in p:
         return ''
+    if p.startswith(RAW):
+        return p
+    if p.startswith(BASE):
+        return RAW + p[len(BASE):]
     if p.startswith(('http://','https://')):
         return ''
     return RAW + p.lstrip('./')
@@ -80,4 +88,4 @@ for u,pub,title,cat,image in urls[:30]:
     rss.append(f'<item><title>{esc(title)}</title><link>{esc(u)}</link><guid isPermaLink="true">{esc(u)}</guid><description>{esc(title)}</description><category>{esc(cat)}</category><pubDate>{esc(pub)}</pubDate>{enclosure}</item>')
 rss.append('</channel></rss>')
 Path('feed.xml').write_text('\n'.join(rss)+'\n',encoding='utf-8')
-print(f'تم إنشاء {len(urls)} صفحة خبر مع مسار صورة أساسي وبدائل raw للصورة نفسها')
+print(f'تم إنشاء {len(urls)} صفحة خبر بصور raw مباشرة مع بدائل احتياطية لنفس الصورة')
