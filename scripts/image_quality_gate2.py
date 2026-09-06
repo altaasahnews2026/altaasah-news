@@ -36,13 +36,12 @@ def local(v):
  p=str(v or '').strip();p=p[2:] if p.startswith('./') else p
  if not p.startswith('assets/news/'):return None
  q=Path(p);return q if q.is_file() else None
-d=json.loads(Path('news.json').read_text(encoding='utf-8'));rawitems=d.get('items',[]);seen=[];unique=[]
-for item in rawitems:
+d=json.loads(Path('news.json').read_text(encoding='utf-8'));seen=[];unique=[]
+for item in d.get('items',[]):
  t=str(item.get('title',''));n=norm(t)
  if len(re.findall(r'[\u0600-\u06ff]',t))<6 or any(SequenceMatcher(None,n,o).ratio()>=.78 for o in seen):continue
  seen.append(n);unique.append(item)
  if len(unique)>=24:break
-# Resolve the Google News article URLs concurrently. Prefer the article's own OG image; fall back to its downloaded source image.
 resolved={}
 with ThreadPoolExecutor(max_workers=12) as ex:
  fs={ex.submit(og,x.get('url','')):i for i,x in enumerate(unique)}
@@ -52,11 +51,10 @@ with ThreadPoolExecutor(max_workers=12) as ex:
   except:resolved[i]=''
 visual=[];fixed=[]
 for i,item in enumerate(unique):
- candidates=[]
- if resolved.get(i):candidates.append(resolved[i])
+ candidates=[];u=resolved.get(i)
+ if u:candidates.append(u)
  op=local(item.get('original_image'))
  if op:candidates.append(str(op))
- # The existing image is retained only as a last local candidate; never use the template itself as a source.
  oi=local(item.get('image'))
  if oi and 'news-template-' not in oi.name:candidates.append(str(oi))
  chosen=''
@@ -65,7 +63,7 @@ for i,item in enumerate(unique):
   except:continue
   if not raw or not good(raw):continue
   v=ph(raw)
-  if v is not None and any((v-x).bit_count()<=7 for x in visual):continue
+  if v is not None and any((v-x).bit_count()<=4 for x in visual):continue
   try:
    with Image.open(BytesIO(raw)) as im:ext={"JPEG":".jpg","PNG":".png","WEBP":".webp"}.get(im.format,'.jpg')
   except:continue
