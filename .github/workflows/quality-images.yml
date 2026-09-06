@@ -1,0 +1,52 @@
+name: تدقيق الصور والواجهة بعد التحديث
+on:
+  workflow_run:
+    workflows: ["تحديث أخبار التاسعة نيوز"]
+    types: [completed]
+permissions:
+  contents: write
+jobs:
+  quality:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: تثبيت المكتبات
+        run: pip install pillow arabic-reshaper python-bidi
+      - name: تدقيق الأخبار والصور
+        run: python scripts/image_quality_gate.py
+      - name: تركيب القالب من الصور الصحيحة
+        run: python scripts/apply_news_template.py
+      - name: إعادة بناء المقالات والواجهة
+        run: |
+          python scripts/generate_articles.py
+          python scripts/fix_site.py
+      - name: فحص الصور النهائية
+        run: |
+          python - <<'PY'
+          import json,re
+          from pathlib import Path
+          from PIL import Image
+          d=json.loads(Path('news.json').read_text(encoding='utf-8')); items=d.get('items',[])
+          assert len(items)>=20
+          assert len({x.get('title','') for x in items})==len(items)
+          for x in items:
+              u=str(x.get('image','')); assert u and 'emergency' not in u.lower() and 'fallback' not in u.lower()
+              p=Path(u.split('/assets/news/')[-1]) if '/assets/news/' in u else None
+              if p: assert (Path('assets/news')/p.name).exists()
+          s=Path('index.html').read_text(encoding='utf-8')
+          assert 'id="breakingTrack"' in s and 'id="latestTrack"' in s
+          assert 'التاسعة نيوز' in s
+          print('فحص ما بعد التحديث: OK',len(items),'خبراً')
+          PY
+      - name: حفظ النتيجة النهائية
+        run: |
+          git config user.name "Altaasah News Bot"
+          git config user.email "actions@github.com"
+          git add news.json index.html feed.xml sitemap.xml news scripts assets/news
+          git diff --cached --quiet || git commit -m "تدقيق نهائي للصور والواجهة"
+          git push origin main
