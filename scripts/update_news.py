@@ -65,6 +65,36 @@ def extract_meta(text,base):
     for p in pats:vals += re.findall(p,text,re.I)
     return [urllib.parse.urljoin(base,html.unescape(u)) for u in vals]
 
+def google_images(title,used):
+    try:
+        q=urllib.parse.quote(title+' العراق خبر')
+        url='https://www.google.com/search?tbm=isch&hl=ar&gl=iq&q='+q
+        raw,_,_=fetch(url,18); text=raw.decode('utf-8','ignore')[:1500000]
+        candidates=[]
+        # Google image result pages embed many direct image URLs in JSON-like HTML.
+        for u in re.findall(r'https?://[^"\\<> ]+?(?:jpg|jpeg|png|webp)(?:\?[^"\\<> ]*)?',text,re.I):
+            u=html.unescape(u).replace('\\u003d','=').replace('\\u0026','&').replace('\\/','/')
+            if any(x in u.lower() for x in ['gstatic.com','google.com','googleusercontent.com']):continue
+            candidates.append(u)
+        for u in dict.fromkeys(candidates):
+            saved=save_image(u,used)
+            if saved:return saved
+    except Exception:pass
+    return ''
+
+def gdelt_image(title,used):
+    try:
+        q=urllib.parse.quote('"'+title.replace('"','')+'"')
+        api='https://api.gdeltproject.org/api/v2/doc/doc?query='+q+'&mode=artlist&maxrecords=10&timespan=2d&sort=datedesc&format=json'
+        raw,_,_=fetch(api,15); data=json.loads(raw.decode('utf-8','ignore'))
+        for a in data.get('articles',[]):
+            u=clean_url(a.get('socialimage') or a.get('socialImage') or a.get('image'))
+            if u:
+                saved=save_image(u,used)
+                if saved:return saved
+    except Exception:pass
+    return ''
+
 def page_image(url,used):
     try:
         raw,_,final=fetch(url,12); text=raw.decode('utf-8','ignore')[:700000]; pages=[(final,text)]
@@ -92,19 +122,6 @@ def page_image(url,used):
     except Exception:pass
     return ''
 
-def gdelt_image(title,used):
-    try:
-        q=urllib.parse.quote('"'+title.replace('"','')+'"')
-        api='https://api.gdeltproject.org/api/v2/doc/doc?query='+q+'&mode=artlist&maxrecords=10&timespan=2d&sort=datedesc&format=json'
-        raw,_,_=fetch(api,15); data=json.loads(raw.decode('utf-8','ignore'))
-        for a in data.get('articles',[]):
-            u=clean_url(a.get('socialimage') or a.get('socialImage') or a.get('image'))
-            if u:
-                saved=save_image(u,used)
-                if saved:return saved
-    except Exception:pass
-    return ''
-
 params=urllib.parse.urlencode({'q':'العراق when:1d','hl':'ar','gl':'IQ','ceid':'IQ:ar'})
 raw,_,_=fetch('https://news.google.com/rss/search?'+params,20); root=ET.fromstring(raw)
 items=[]; seen=set(); used=set()
@@ -115,8 +132,9 @@ for item in root.findall('./channel/item'):
     for u in image_candidates(item):
         local=save_image(u,used)
         if local:break
-    if not local:local=gdelt_image(title,used)
     if not local:local=page_image(link,used)
+    if not local:local=google_images(title,used)
+    if not local:local=gdelt_image(title,used)
     if not local:
         print('تم استبعاد خبر بلا صورة حقيقية:',title); continue
     src=item.find('source'); source_url=clean_url(src.attrib.get('url') if src is not None else '')
