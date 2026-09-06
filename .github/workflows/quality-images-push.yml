@@ -1,0 +1,39 @@
+name: تدقيق الصور والواجهة بعد التحديث
+on:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  quality:
+    if: ${{ contains(github.event.head_commit.message, 'تحديث الأخبار والصفحات والصور وRSS') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, fetch-depth: 0}
+      - run: pip install pillow arabic-reshaper python-bidi
+      - run: python scripts/image_quality_gate.py
+      - run: python scripts/apply_news_template.py
+      - run: |
+          python scripts/generate_articles.py
+          python scripts/fix_site.py
+      - name: فحص نهائي
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          d=json.loads(Path('news.json').read_text(encoding='utf-8'));a=d.get('items',[])
+          assert len(a)>=20 and len({x.get('title','') for x in a})==len(a)
+          for x in a:
+              u=str(x.get('image',''));assert u and 'emergency' not in u.lower() and 'fallback' not in u.lower()
+          s=Path('index.html').read_text(encoding='utf-8');assert 'id="breakingTrack"' in s and 'id="latestTrack"' in s
+          print('OK',len(a))
+          PY
+      - name: حفظ
+        run: |
+          git config user.name "Altaasah News Bot"
+          git config user.email "actions@github.com"
+          git add news.json index.html feed.xml sitemap.xml news scripts assets/news
+          git diff --cached --quiet || git commit -m "تدقيق نهائي للصور والواجهة"
+          git push origin main
