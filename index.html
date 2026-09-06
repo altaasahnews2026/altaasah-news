@@ -104,6 +104,15 @@ function rawizeImage(u){
   if(/^assets\/news\//i.test(u.replace(/^\.\//,''))) return raw+u.replace(/^\.\//,'');
   return u;
 }
+function rawizeImage(u){
+  u=clean(u);
+  if(!u || /\.svg(?:\?|$)/i.test(u)) return '';
+  const base='https://altaasahnews2026.github.io/altaasah-news/';
+  const raw='https://raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/';
+  if(u.startsWith(base+'assets/news/')) return raw+u.slice((base).length);
+  if(/^assets\/news\//i.test(u.replace(/^\.\//,''))) return raw+u.replace(/^\.\//,'');
+  return u;
+}
 function imageFor(x){ return rawizeImage(x&&x.image); }
 function originalImageFor(x){ return rawizeImage(x&&x.original_image); }
 function rawImageFor(x){
