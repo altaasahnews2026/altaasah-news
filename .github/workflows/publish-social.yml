@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: altaasah-news-social
+  cancel-in-progress: true
+
 jobs:
   publish:
     if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
@@ -36,4 +40,5 @@ jobs:
           git add social_state.json
           if git diff --cached --quiet; then echo 'لا توجد حالة نشر جديدة.'; exit 0; fi
           git commit -m 'تحديث حالة نشر الأخبار على الشبكات الاجتماعية'
+          git pull --rebase origin main
           git push origin main
