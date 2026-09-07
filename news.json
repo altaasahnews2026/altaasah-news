@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T19:42:47.507937+00:00",
+  "updated_at": "2026-09-07T19:54:30.733864+00:00",
   "items": [
     {
       "title": "الحشد والجيش ينفذان عملية دهم وتفتيش في قاطع البشير جنوب غربي كركوك",
@@ -22,14 +22,29 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-07T19:35:00+00:00",
-      "image": "./assets/news/af04da8786cb9d33fc27b9a8.png",
-      "original_image": "./assets/news/af04da8786cb9d33fc27b9a8.png",
+      "image": "./assets/news/9fd4e9fd04b6297132565174.png",
+      "original_image": "./assets/news/9fd4e9fd04b6297132565174.png",
       "source_url": "https://www.alsumaria.tv/news/international/575340/%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D9%88%D8%B3%D8%A7%D8%B7%D8%A9-%D9%84%D8%B5%D9%8A%D8%A7%D8%BA%D8%A9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A8%D9%8A%D9%86-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D9%88%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f015d39c9ff7.html"
+    },
+    {
+      "title": "زيباري يحذر: عقوبات أميركية قد تطال الطيران والنفط والغاز والمصارف في العراق",
+      "url": "https://964media.com/714842/",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-07T19:15:40+00:00",
+      "image": "./assets/news/42279c47de67027f67df8384.jpg",
+      "original_image": "./assets/news/42279c47de67027f67df8384.jpg",
+      "source_url": "https://964media.com/714842/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/718a5d89f3dd.html"
     },
     {
       "title": "غرق طفلة داخل بحيرة الزوراء في بغداد",
@@ -45,6 +60,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b0a702028d19.html"
+    },
+    {
+      "title": "العراقي صار كويتياً عند أنصار الشاه وخامنئي.. غضب تفجره نساء طهران وجكسارات كربلاء",
+      "url": "https://964media.com/714730/",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-07T18:53:21+00:00",
+      "image": "./assets/news/574839f153ee4250ae070066.jpg",
+      "original_image": "./assets/news/574839f153ee4250ae070066.jpg",
+      "source_url": "https://964media.com/714730/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0ff1b10f1551.html"
     },
     {
       "title": "وزير الخارجية من القاهرة: الصراع بين طهران وواشنطن يلقي بظلاله على المنطقة",
@@ -75,6 +105,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/08299ee1d4b7.html"
+    },
+    {
+      "title": "العيداني يوزع رواتب لاعبي الميناء.. المقاولون في البصرة أسهموا بتأمينها",
+      "url": "https://964media.com/714838/",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-07T18:06:29+00:00",
+      "image": "./assets/news/ef9141c86ee2e3876bc67bf2.jpg",
+      "original_image": "./assets/news/ef9141c86ee2e3876bc67bf2.jpg",
+      "source_url": "https://964media.com/714838/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bc07d5816f80.html"
     },
     {
       "title": "صراع بين زوجة رونالدو وحبيبته السابقة",
@@ -167,6 +212,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b3def26b500b.html"
     },
     {
+      "title": "الانضباط تحرم مشجعاً من دخول الملاعب مدى الحياة لإنزاله العلم العراقي",
+      "url": "https://964media.com/714814/",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-07T16:54:21+00:00",
+      "image": "./assets/news/f539c628e59567dd84f7d63d.jpg",
+      "original_image": "./assets/news/f539c628e59567dd84f7d63d.jpg",
+      "source_url": "https://964media.com/714814/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/073f6bde21c2.html"
+    },
+    {
       "title": "متى يفتتح الجسر الثالث ضمن مشروع ربط جسر الطابقين بالجسر المعلّق؟",
       "url": "https://www.alsumaria.tv/news/localnews/575327/%D9%85%D8%AA%D9%89-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD-%D8%A7%D9%84%D8%AC%D8%B3%D8%B1-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D8%B6%D9%85%D9%86-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%B1%D8%A8%D8%B7-%D8%AC%D8%B3%D8%B1-%D8%A7%D9%84%D8%B7%D8%A7%D8%A8%D9%82%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AC%D8%B3%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%91%D9%82%D8%9F",
       "category": "محليات",
@@ -257,19 +317,34 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f9ad18bae1d7.html"
     },
     {
-      "title": "السوداني: دعم الدراما العراقية يعكس الصورة الحقيقية للبلاد",
-      "url": "https://www.alsumaria.tv/news/politics/575321/%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D9%85%D8%A7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D9%8A%D8%B9%D9%83%D8%B3-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D9%8A%D8%A9-%D9%84%D9%84%D8%A8%D9%84%D8%A7%D8%AF",
+      "title": "بغداد والمحافظات على موعد مع 10 مستشفيات جديدة.. افتتاحها خلال 6 أشهر",
+      "url": "https://964media.com/714488/",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-07T15:19:06+00:00",
-      "image": "./assets/news/8ff1d7e0fa29bea3e99209f4.jpg",
-      "original_image": "./assets/news/8ff1d7e0fa29bea3e99209f4.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/575321/%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D9%85%D8%A7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D9%8A%D8%B9%D9%83%D8%B3-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D9%8A%D8%A9-%D9%84%D9%84%D8%A8%D9%84%D8%A7%D8%AF",
+      "published": "2026-09-06T16:47:33+00:00",
+      "image": "./assets/news/8dbea7ba8efdebef3c1a6780.jpg",
+      "original_image": "./assets/news/8dbea7ba8efdebef3c1a6780.jpg",
+      "source_url": "https://964media.com/714488/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/16c7db2a22e6.html"
+    },
+    {
+      "title": "جامعة الدول العربية تقرر رفع جميع العقوبات على سوريا",
+      "url": "https://www.alsumaria.tv/news/international/575341/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D9%82%D8%B1%D8%B1-%D8%B1%D9%81%D8%B9-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-07T19:52:00+00:00",
+      "image": "./assets/news/d585b1945a6c21b2d36f9239.jpg",
+      "original_image": "./assets/news/d585b1945a6c21b2d36f9239.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575341/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D9%82%D8%B1%D8%B1-%D8%B1%D9%81%D8%B9-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/91d9bc4ae454.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7fa61c2ea537.html"
     },
     {
       "title": "روسيا تعلن تدمير 32 مسيرة جوية معادية فوق مناطقها",
@@ -315,6 +390,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a82c824a6f84.html"
+    },
+    {
+      "title": "رشق غرف الطلبة العراقيين بالحجارة.. إيرانيون يطوقون الأقسام الداخلية في سمنان",
+      "url": "https://964media.com/714795/",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-07T17:15:36+00:00",
+      "image": "./assets/news/37042354facd37d5fc7e6f3d.jpg",
+      "original_image": "./assets/news/37042354facd37d5fc7e6f3d.jpg",
+      "source_url": "https://964media.com/714795/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/15a7e33db404.html"
     }
   ]
 }
