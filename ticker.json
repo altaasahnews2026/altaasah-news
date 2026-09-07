@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T16:50:49.787888+00:00",
+  "updated_at": "2026-09-07T16:52:59.790624+00:00",
   "latest": [
     {
       "title": "درجات الحرارة في إيطاليا تسجل أعلى معدلاتها الصيفية",
@@ -30,155 +30,8 @@
       "breaking": false
     },
     {
-      "title": "كأنك تشارك بقصف داعش.. لقطات من ضربات الجيش شمال كركوك",
-      "url": "https://964media.com/695688/",
-      "category": "عراق",
-      "published": "",
-      "breaking": true
-    },
-    {
-      "title": "ممنوع زيارة الإمام الوحيد في كركوك! تصدع مقام زين العابدين يحير آلاف المريدين",
-      "url": "https://964media.com/697639/",
-      "category": "عراق",
-      "published": "",
-      "breaking": false
-    },
-    {
-      "title": "تحريف رقم عقار يقود موظفة في تسجيل كركوك إلى الحبس الشديد لمدة سنتين",
-      "url": "https://964media.com/697484/",
-      "category": "عراق",
-      "published": "",
-      "breaking": false
-    },
-    {
-      "title": "استنفار في الدبس.. مياه المشروع تبتلع شابين من مواليد 2005",
-      "url": "https://964media.com/696159/",
-      "category": "عراق",
-      "published": "",
-      "breaking": false
-    },
-    {
-      "title": "مكافحة الإرهاب ينعى الملازم أول حسن خضير بعد اشتباكات مع داعش في كركوك",
-      "url": "https://964media.com/695572/",
-      "category": "عراق",
-      "published": "",
-      "breaking": true
-    },
-    {
-      "title": "شرطة كركوك: القبض على حدثين متهمين بخطف وقتل طفلة في الثالثة من عمرها",
-      "url": "https://964media.com/698008/",
-      "category": "عراق",
-      "published": "",
-      "breaking": false
-    },
-    {
-      "title": "والد الطفلة “ناي” يروي لـ964 كيف غدر أبناء الجيران بابنته داخل مسبح كركوك",
-      "url": "https://964media.com/698149/",
-      "category": "عراق",
-      "published": "",
-      "breaking": false
-    },
-    {
-      "title": "صور: ضربات جوية وقوة محمولة جواً تدمر 6 مضافات إرهابية في كركوك",
-      "url": "https://964media.com/700384/",
-      "category": "عراق",
-      "published": "",
-      "breaking": false
-    },
-    {
-      "title": "كركوك تقلص ساعات الدوام لدوائرها حتى نهاية آب",
-      "url": "https://964media.com/699500/",
-      "category": "عراق",
-      "published": "",
-      "breaking": false
-    },
-    {
-      "title": "حريق ضخم يغطي سماء طريق أربيل – كركوك بالدخان ويشل حركة السير (فيديو+صور)",
-      "url": "https://964media.com/703335/",
-      "category": "عراق",
-      "published": "",
-      "breaking": false
-    },
-    {
-      "title": "تربية كركوك: الأشقاء الثلاثة الأوائل تفوقوا بجدارة ولا قرابة بمدير المركز",
-      "url": "https://964media.com/701644/",
-      "category": "عراق",
-      "published": "",
-      "breaking": false
-    },
-    {
-      "title": "شرطة كركوك تطيح بعصابة تسرق دور الذاهبين إلى الزيارة الأربعينية",
-      "url": "https://964media.com/704474/",
-      "category": "عراق",
-      "published": "",
-      "breaking": false
-    },
-    {
-      "title": "ثلاثة أشقاء من كركوك يتصدرون أوائل العراق في السادس الإعدادي",
-      "url": "https://964media.com/701060/",
-      "category": "عراق",
-      "published": "",
-      "breaking": false
-    },
-    {
-      "title": "الزيدي يبطّن قاع الوادي في داقوق حفاظاً على أساسات الجسر الجديد",
-      "url": "https://964media.com/700501/",
-      "category": "عراق",
-      "published": "",
-      "breaking": false
-    },
-    {
-      "title": "هزات أرضية تضرب كركوك منذ مساء أمس وآخرها بقوة 3.9 درجات صباح اليوم",
-      "url": "https://964media.com/703618/",
-      "category": "عراق",
-      "published": "",
-      "breaking": false
-    },
-    {
-      "title": "غضب بين محاضري كركوك: نعمل مجاناً منذ 6 سنوات ولن نقبل إلا باستثناء للتعيين",
-      "url": "https://964media.com/702024/",
-      "category": "عراق",
-      "published": "",
-      "breaking": false
-    },
-    {
-      "title": "متأخرة 3 سنوات.. حكام كركوك يطالبون بصرف مستحقات دوري كردستان",
-      "url": "https://964media.com/708886/",
-      "category": "عراق",
-      "published": "",
-      "breaking": false
-    },
-    {
-      "title": "هل رأيت “بانيو ودوش” متنقل؟ ابتكار شاب من الحويجة لمواجهة حر الصيف (فيديو)",
-      "url": "https://964media.com/704439/",
-      "category": "عراق",
-      "published": "",
-      "breaking": false
-    },
-    {
-      "title": "هزة أرضية بقوة 3.7 درجات تضرب شرق كركوك",
-      "url": "https://964media.com/703486/",
-      "category": "عراق",
-      "published": "",
-      "breaking": true
-    },
-    {
-      "title": "7 هزات أرضية خلال يوم واحد.. الرصد الزلزالي يوضح ما يحدث في كركوك",
-      "url": "https://964media.com/703726/",
-      "category": "عراق",
-      "published": "",
-      "breaking": true
-    },
-    {
-      "title": "النزاهة تطيح بمسؤولة في كركوك ابتزت مراجعين ومستثمرين بمبالغ مالية",
-      "url": "https://964media.com/704152/",
-      "category": "عراق",
-      "published": "",
-      "breaking": false
-    },
-    {
-      "title": "كركوك تلاحق الصفحات المضللة: إجراءات قانونية بحق مروجي التحريض والإساءة",
-      "url": "https://964media.com/705308/",
+      "title": "داقوق تواجه عصابة مجهولة.. مليار دينار اختفى من سوق الذهب والكاميرات عاجزة",
+      "url": "https://964media.com/705252/",
       "category": "عراق",
       "published": "",
       "breaking": false
@@ -191,8 +44,155 @@
       "breaking": false
     },
     {
-      "title": "فيديو: شاحنة مسرعة تصطدم بسيطرة في كركوك وتدمر كرفاناً للشرطة وسيارتين",
-      "url": "https://964media.com/702848/",
+      "title": "موظفو التعليم في كركوك 50 يوماً بلا رواتب: “ألسنا أولى من الرفحاوي؟”",
+      "url": "https://964media.com/705058/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "طائرات “سزنا كرفان” تدمر 8 مواقع لداعش في كركوك بالكامل",
+      "url": "https://964media.com/706410/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "رسالة من الصالحي للقائد العام.. ومطالب ببقاء سيطرة بغداد على كركوك وطوزخورماتو",
+      "url": "https://964media.com/705714/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "فيديو: احتجاج لكتّاب العرائض في كركوك رفضاً لإزالة مكاتبهم لصالح مستثمر",
+      "url": "https://964media.com/707322/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "محاضرو كركوك ينتفضون مجدداً بعلم عراقي طوله 20 متراً.. و “موطني موطني”",
+      "url": "https://964media.com/705068/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "تحريف رقم عقار يقود موظفة في تسجيل كركوك إلى الحبس الشديد لمدة سنتين",
+      "url": "https://964media.com/697484/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "يار الله في كركوك لتقييم جاهزية القطعات العسكرية – بيان",
+      "url": "https://964media.com/705738/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "ممنوع زيارة الإمام الوحيد في كركوك! تصدع مقام زين العابدين يحير آلاف المريدين",
+      "url": "https://964media.com/697639/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "النفط تفعل عقد حقل كركوك مع BP لإنتاج 420 ألف برميل يومياً",
+      "url": "https://964media.com/705813/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "الحويجة لم ترفض الموسيقى الحية.. اذهب إلى زمرد كافيه مع الكمان والعود والتشكيل",
+      "url": "https://964media.com/702836/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "رئيس النزاهة من كركوك: لا مظلة تحمي الفاسدين وسنسقط أوهام الإفلات من العقاب",
+      "url": "https://964media.com/705380/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "مكافحة الإرهاب ينعى الملازم أول حسن خضير بعد اشتباكات مع داعش في كركوك",
+      "url": "https://964media.com/695572/",
+      "category": "عراق",
+      "published": "",
+      "breaking": true
+    },
+    {
+      "title": "متأخرة 3 سنوات.. حكام كركوك يطالبون بصرف مستحقات دوري كردستان",
+      "url": "https://964media.com/708886/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "استنفار في الدبس.. مياه المشروع تبتلع شابين من مواليد 2005",
+      "url": "https://964media.com/696159/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "كركوك تلاحق الصفحات المضللة: إجراءات قانونية بحق مروجي التحريض والإساءة",
+      "url": "https://964media.com/705308/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "سواق التريلات يطلبون الاحترام الحكومي ويهددون بوقف العمل: سيطرة جيمن تعطلنا",
+      "url": "https://964media.com/706473/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "صحة كركوك تنفي تسجيل 106 إصابات بمرض الإيدز",
+      "url": "https://964media.com/713562/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "حريق ضخم يغطي سماء طريق أربيل – كركوك بالدخان ويشل حركة السير (فيديو+صور)",
+      "url": "https://964media.com/703335/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "إصابة ضابطين ومنتسب بانفجار عبوة ناسفة خلال تمشيط في كركوك",
+      "url": "https://964media.com/706727/",
+      "category": "عراق",
+      "published": "",
+      "breaking": true
+    },
+    {
+      "title": "محال بيع السلاح أغلقت و12 ألف قطعة سجلت في كركوك",
+      "url": "https://964media.com/707137/",
+      "category": "عراق",
+      "published": "",
+      "breaking": false
+    },
+    {
+      "title": "كأنك تشارك بقصف داعش.. لقطات من ضربات الجيش شمال كركوك",
+      "url": "https://964media.com/695688/",
+      "category": "عراق",
+      "published": "",
+      "breaking": true
+    },
+    {
+      "title": "شرطة كركوك: القبض على حدثين متهمين بخطف وقتل طفلة في الثالثة من عمرها",
+      "url": "https://964media.com/698008/",
       "category": "عراق",
       "published": "",
       "breaking": false
@@ -515,13 +515,6 @@
       "breaking": true
     },
     {
-      "title": "كأنك تشارك بقصف داعش.. لقطات من ضربات الجيش شمال كركوك",
-      "url": "https://964media.com/695688/",
-      "category": "عراق",
-      "published": "",
-      "breaking": true
-    },
-    {
       "title": "مكافحة الإرهاب ينعى الملازم أول حسن خضير بعد اشتباكات مع داعش في كركوك",
       "url": "https://964media.com/695572/",
       "category": "عراق",
@@ -529,15 +522,15 @@
       "breaking": true
     },
     {
-      "title": "هزة أرضية بقوة 3.7 درجات تضرب شرق كركوك",
-      "url": "https://964media.com/703486/",
+      "title": "إصابة ضابطين ومنتسب بانفجار عبوة ناسفة خلال تمشيط في كركوك",
+      "url": "https://964media.com/706727/",
       "category": "عراق",
       "published": "",
       "breaking": true
     },
     {
-      "title": "7 هزات أرضية خلال يوم واحد.. الرصد الزلزالي يوضح ما يحدث في كركوك",
-      "url": "https://964media.com/703726/",
+      "title": "كأنك تشارك بقصف داعش.. لقطات من ضربات الجيش شمال كركوك",
+      "url": "https://964media.com/695688/",
       "category": "عراق",
       "published": "",
       "breaking": true
