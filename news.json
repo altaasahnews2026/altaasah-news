@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T20:43:44.766975+00:00",
+  "updated_at": "2026-09-07T20:55:26.131090+00:00",
   "items": [
     {
       "title": "الحشد والجيش ينفذان عملية دهم وتفتيش في قاطع البشير جنوب غربي كركوك",
@@ -15,6 +15,21 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/850e87a3d8be.html"
+    },
+    {
+      "title": "دخول الجيش إلى أربيل “تصعيد إعلامي” أوقفه المالكي وحمودي",
+      "url": "https://964media.com/714858/",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-09-07T20:27:37+00:00",
+      "image": "./assets/news/e378237436b79921cc8cdd13.jpg",
+      "original_image": "./assets/news/e378237436b79921cc8cdd13.jpg",
+      "source_url": "https://964media.com/714858/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f227788aaaca.html"
     },
     {
       "title": "الكشف عن وساطة لصياغة اتفاق بين طهران وواشنطن",
@@ -212,21 +227,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b3def26b500b.html"
     },
     {
-      "title": "الانضباط تحرم مشجعاً من دخول الملاعب مدى الحياة لإنزاله العلم العراقي",
-      "url": "https://964media.com/714814/",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-07T16:54:21+00:00",
-      "image": "./assets/news/f539c628e59567dd84f7d63d.jpg",
-      "original_image": "./assets/news/f539c628e59567dd84f7d63d.jpg",
-      "source_url": "https://964media.com/714814/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/073f6bde21c2.html"
-    },
-    {
       "title": "متى يفتتح الجسر الثالث ضمن مشروع ربط جسر الطابقين بالجسر المعلّق؟",
       "url": "https://www.alsumaria.tv/news/localnews/575327/%D9%85%D8%AA%D9%89-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD-%D8%A7%D9%84%D8%AC%D8%B3%D8%B1-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D8%B6%D9%85%D9%86-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%B1%D8%A8%D8%B7-%D8%AC%D8%B3%D8%B1-%D8%A7%D9%84%D8%B7%D8%A7%D8%A8%D9%82%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AC%D8%B3%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%91%D9%82%D8%9F",
       "category": "محليات",
@@ -287,21 +287,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6744d7df8d9d.html"
     },
     {
-      "title": "مركب موجود في أطعمة شائعة يساعد على تخفيف الانتفاخ وعسر الهضم",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575323/%D9%85%D8%B1%D9%83%D8%A8-%D9%85%D9%88%D8%AC%D9%88%D8%AF-%D9%81%D9%8A-%D8%A3%D8%B7%D8%B9%D9%85%D8%A9-%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9-%D9%8A%D8%B3%D8%A7%D8%B9%D8%AF-%D8%B9%D9%84%D9%89-%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%81%D8%A7%D8%AE-%D9%88%D8%B9%D8%B3%D8%B1-%D8%A7%D9%84%D9%87%D8%B6%D9%85",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-07T15:46:00+00:00",
-      "image": "./assets/news/ed0a2033a1828047aa1185de.jpg",
-      "original_image": "./assets/news/ed0a2033a1828047aa1185de.jpg",
-      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575323/%D9%85%D8%B1%D9%83%D8%A8-%D9%85%D9%88%D8%AC%D9%88%D8%AF-%D9%81%D9%8A-%D8%A3%D8%B7%D8%B9%D9%85%D8%A9-%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9-%D9%8A%D8%B3%D8%A7%D8%B9%D8%AF-%D8%B9%D9%84%D9%89-%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%81%D8%A7%D8%AE-%D9%88%D8%B9%D8%B3%D8%B1-%D8%A7%D9%84%D9%87%D8%B6%D9%85",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/131360512b1b.html"
-    },
-    {
       "title": "بغداد والمحافظات على موعد مع 10 مستشفيات جديدة.. افتتاحها خلال 6 أشهر",
       "url": "https://964media.com/714488/",
       "category": "محليات",
@@ -315,6 +300,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/16c7db2a22e6.html"
+    },
+    {
+      "title": "الجيش الأمريكي يعلن تغيير مسار 94 سفينة ضمن حصار إيران",
+      "url": "https://www.alsumaria.tv/news/international/575343/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D9%85%D8%B3%D8%A7%D8%B1-94-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B6%D9%85%D9%86-%D8%AD%D8%B5%D8%A7%D8%B1-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "category": "أمن",
+      "region": "عربي ودولي",
+      "published": "2026-09-07T20:45:00+00:00",
+      "image": "./assets/news/892326a94d94eff2da584f78.jpg",
+      "original_image": "./assets/news/892326a94d94eff2da584f78.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575343/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D9%85%D8%B3%D8%A7%D8%B1-94-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B6%D9%85%D9%86-%D8%AD%D8%B5%D8%A7%D8%B1-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/eae5a1d71662.html"
     },
     {
       "title": "في سوريا.. قصف مدفعي وتوغل إسرائيلي في ريف القنيطرة",
