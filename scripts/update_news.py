@@ -1,149 +1,219 @@
-import hashlib,html,json,os,re,urllib.parse,urllib.request
+import hashlib, html, json, re, urllib.parse, urllib.request
 import xml.etree.ElementTree as ET
-from concurrent.futures import ThreadPoolExecutor,as_completed
-from datetime import datetime,timezone
-from PIL import Image,ImageOps
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime, timezone
 from io import BytesIO
-D='assets/news';os.makedirs(D,exist_ok=True);H={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/128 Safari/537.36'}
-def get(u,t=4):
- try:
-  r=urllib.request.urlopen(urllib.request.Request(u,headers=H),timeout=t);return r.read(),r.headers.get_content_type()
- except:return b'', ''
-def clean(u):
- u=html.unescape(str(u or '').strip());return ('https:'+u[2:] if u.startswith('//') else u) if u.startswith(('http://','https://','//')) else ''
-def cat(t):
- if any(x in t for x in ['رياضة','دوري','مباراة','منتخب','كرة','آسياد']):return 'رياضة'
- if any(x in t for x in ['اقتصاد','البنك المركزي','الأسعار','تجارة','استثمار','النفط','الذهب']):return 'اقتصاد'
- if any(x in t for x in ['حكومة','رئيس الوزراء','برلمان','وزير','سياسة']):return 'سياسة'
- if any(x in t for x in ['أمن','شرطة','جيش','هجوم','تفجير','حدود','إرهاب']):return 'أمن'
- if any(x in t for x in ['فلسطين','إيران','أمريكا','السعودية','سوريا','دولي']):return 'عربي ودولي'
- return 'محلي'
-def valid(raw,typ):return len(raw)>=1200 and typ.startswith('image/') and 'svg' not in typ and (raw.startswith(b'\xff\xd8\xff') or raw.startswith(b'\x89PNG') or raw[:4]==b'RIFF' or raw[:6] in (b'GIF87a',b'GIF89a'))
-def visual_hash(raw):
- try:
-  with Image.open(BytesIO(raw)) as im:
-   im=ImageOps.exif_transpose(im).convert('L').resize((16,16))
-   px=list(im.getdata());avg=sum(px)/len(px)
-   return sum((v>avg)<<i for i,v in enumerate(px))
- except:return None
-def too_similar(vh,visuals):
- if vh is None:return False
- return any((vh^old).bit_count()<=10 for old in visuals)
-def store(raw,typ,used,visuals):
- if not valid(raw,typ):return ''
- h=hashlib.sha256(raw).hexdigest()
- if h in used:return ''
- vh=visual_hash(raw)
- if too_similar(vh,visuals):return ''
- ext={'image/jpeg':'.jpg','image/png':'.png','image/webp':'.webp','image/gif':'.gif'}.get(typ,'.jpg');open(os.path.join(D,h[:24]+ext),'wb').write(raw);used.add(h)
- if vh is not None:visuals.append(vh)
- return './assets/news/'+h[:24]+ext
-def grab(u):return u,*get(u,4)
-def page_image(u):
- raw,_=get(u,4)
- if not raw:return ''
- s=raw.decode('utf-8','ignore')
- for pat in [r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image|image_src)["\'][^>]+content=["\']([^"\']+)',r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\'](?:og:image|twitter:image|image_src)["\']']:
-  m=re.search(pat,s,re.I)
-  if m:return clean(urllib.parse.urljoin(u,html.unescape(m.group(1))))
- return ''
-def search_engine(q,engine):
- if engine=='bing':u='https://www.bing.com/images/search?'+urllib.parse.urlencode({'q':q,'form':'HDRSC2','first':'1'});pats=[r'"murl":"(https?[^"\\]+)"',r'"turl":"(https?[^"\\]+)"']
- else:u='https://www.google.com/search?'+urllib.parse.urlencode({'q':q,'tbm':'isch','hl':'ar'});pats=[r'"(https?://[^" ]+\.(?:jpg|jpeg|png|webp)(?:\?[^" ]*)?)"']
- r,_=get(u,5);s=r.decode('utf-8','ignore');out=[]
- for pat in pats:
-  for m in re.findall(pat,s,re.I):
-   x=clean(m.replace('\\/','/'))
-   if x and x not in out:out.append(x)
- return out[:20]
-def wiki_images(q):
- u='https://commons.wikimedia.org/w/api.php?'+urllib.parse.urlencode({'action':'query','generator':'search','gsrsearch':q,'gsrnamespace':'6','gsrlimit':'20','prop':'imageinfo','iiprop':'url','iiurlwidth':'1200','format':'json'})
- raw,_=get(u,6)
- if not raw:return []
- try:d=json.loads(raw);return [clean(x.get('imageinfo',[{}])[0].get('thumburl') or x.get('imageinfo',[{}])[0].get('url')) for x in d.get('query',{}).get('pages',{}).values() if x.get('imageinfo')]
- except:return []
-raw,_=get('https://news.google.com/rss/search?'+urllib.parse.urlencode({'q':'العراق when:1d','hl':'ar','gl':'IQ','ceid':'IQ:ar'}),7)
-if not raw:raise SystemExit('تعذر الوصول إلى الأخبار')
-root=ET.fromstring(raw);rows=[];seen=set()
-for it in root.findall('./channel/item'):
- t=re.sub(r'\s+',' ',it.findtext('title') or '').strip();link=clean(it.findtext('link'));src=it.find('source');sn=(src.text or '').strip() if src is not None else ''
- if sn:t=re.sub(r'\s*[-–—|]\s*'+re.escape(sn)+r'\s*$','',t,flags=re.I)
- if t and link and t not in seen:seen.add(t);rows.append((it,t,link,src))
- if len(rows)>=40:break
-used=set();visuals=[];imgs={};jobs=[]
-for i,(it,t,link,src) in enumerate(rows):
- for m in it.findall('{http://search.yahoo.com/mrss/}content')+it.findall('{http://search.yahoo.com/mrss/}thumbnail'):
-  u=clean(m.attrib.get('url'))
-  if u:jobs.append((i,u))
- e=it.find('enclosure')
- if e is not None and clean(e.attrib.get('url')):jobs.append((i,clean(e.attrib.get('url'))))
-with ThreadPoolExecutor(max_workers=16) as ex:
- fs=[ex.submit(grab,u) for _,u in jobs]
- for (idx,_),(uu,rr,typ) in zip(jobs,[f.result() for f in fs]):
-  p=store(rr,typ,used,visuals)
-  if p and idx not in imgs:imgs[idx]=p
-if len(imgs)<8:
- with ThreadPoolExecutor(max_workers=16) as ex:
-  fs={ex.submit(page_image,link):i for i,(_,_,link,_) in enumerate(rows) if i not in imgs}
-  for f in as_completed(fs):
-   i=fs[f]
-   try:u=f.result()
-   except:u=''
-   if not u:continue
-   try:_,rr,typ=grab(u);p=store(rr,typ,used,visuals)
-   except:p=''
-   if p:imgs[i]=p
-   if len(imgs)>=24:break
-if len(imgs)<8:
- qs={'محلي':'Iraq Baghdad','سياسة':'Iraq parliament government','اقتصاد':'Iraq oil economy','أمن':'Iraq police army security','رياضة':'Iraq football sport','عربي ودولي':'Iraq Palestine Iran'}
- searches=[(e,c,q) for e in ['bing','google'] for c,q in qs.items()]
- pool={}
- with ThreadPoolExecutor(max_workers=12) as ex:
-  fs={ex.submit(search_engine,q,e):(e,c) for e,c,q in searches}
-  for f in as_completed(fs):
-   e,c=fs[f]
-   try:pool[(e,c)]=f.result()
-   except:pool[(e,c)]=[]
- candidates=[]
- for i,(_,t,_,_) in enumerate(rows):
-  if i in imgs:continue
-  c=cat(t)
-  for e in ['bing','google']:
-   candidates += [(i,u) for u in pool.get((e,c),[])]
- with ThreadPoolExecutor(max_workers=20) as ex:
-  fs={ex.submit(grab,u):i for i,u in candidates}
-  for f in as_completed(fs):
-   i=fs[f]
-   if i in imgs:continue
-   try:u,rr,typ=f.result();p=store(rr,typ,used,visuals)
-   except:p=''
-   if p:imgs[i]=p
-   if len(imgs)>=24:break
-if len(imgs)<8:
- qs={'محلي':'Iraq Baghdad','سياسة':'Iraq politics parliament','اقتصاد':'Iraq economy oil','أمن':'Iraq police army','رياضة':'Iraq football','عربي ودولي':'Iraq Palestine Iran'}
- with ThreadPoolExecutor(max_workers=6) as ex:
-  fs={ex.submit(wiki_images,q):c for c,q in qs.items()};wp={}
-  for f in as_completed(fs):
-   try:wp[fs[f]]=f.result()
-   except:wp[fs[f]]=[]
- candidates=[]
- for i,(_,t,_,_) in enumerate(rows):
-  if i in imgs:continue
-  for u in wp.get(cat(t),[]):candidates.append((i,u))
- with ThreadPoolExecutor(max_workers=20) as ex:
-  fs={ex.submit(grab,u):i for i,u in candidates}
-  for f in as_completed(fs):
-   i=fs[f]
-   if i in imgs:continue
-   try:u,rr,typ=f.result();p=store(rr,typ,used,visuals)
-   except:p=''
-   if p:imgs[i]=p
-   if len(imgs)>=24:break
-items=[]
-for i,(it,t,link,src) in enumerate(rows):
- if i not in imgs:continue
- items.append({'title':t,'url':link,'category':cat(t),'published':it.findtext('pubDate') or '','image':imgs[i],'source_url':clean(src.attrib.get('url') if src is not None else '')})
- if len(items)>=24:break
-if len(items)<20:raise SystemExit(f'تعذر توفير 20 صورة مختلفة بصريا، المتاح {len(items)}')
-with open('news.json','w',encoding='utf-8') as f:json.dump({'updated_at':datetime.now(timezone.utc).isoformat(),'items':items},f,ensure_ascii=False,indent=2)
-print('تم تحديث',len(items),'خبراً بصور حقيقية مختلفة بصريا')
+from pathlib import Path
+from PIL import Image
+
+NEWS_DIR = Path('assets/news')
+NEWS_DIR.mkdir(parents=True, exist_ok=True)
+UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/128 Safari/537.36'
+HEADERS = {'User-Agent': UA, 'Accept-Language': 'ar-IQ,ar;q=0.9,en;q=0.7'}
+GENERIC_WORDS = ('logo','icon','favicon','avatar','placeholder','default','sprite','banner','advert','ads','loading','no-image','no_image','profile')
+BLOCKED_HOSTS = {'news.google.com','google.com','www.google.com','bing.com','www.bing.com','commons.wikimedia.org'}
+TRUSTED_HOST_HINTS = ('alsumaria.tv','baghdadtoday.news','ipa.com.iq','shafaq.com','alrray.org','alhadath.net','aljazeera.net','aawsat.com','iraqinews.com','ina.iq')
+QUERIES = [
+    'العراق when:1d', 'العراق عاجل when:1d', 'العراق بغداد when:1d',
+    'العراق سياسة when:1d', 'العراق أمن when:1d', 'العراق اقتصاد when:1d',
+    'العراق رياضة when:1d', 'العراق محافظات when:1d', 'العراق حكومة when:1d',
+    'العراق برلمان when:1d', 'العراق نفط when:1d', 'العراق كردستان when:1d',
+    'العراق طلبة when:1d', 'العراق طقس when:1d', 'العراق صحة when:1d',
+    'site:alsumaria.tv العراق when:1d', 'site:baghdadtoday.news العراق when:1d',
+    'site:shafaq.com العراق when:1d', 'site:ipa.com.iq العراق when:1d',
+    'site:alrray.org العراق when:1d'
+]
+
+def clean_url(v):
+    v = html.unescape(str(v or '').strip())
+    if v.startswith('//'):
+        return 'https:' + v[2:]
+    if v.startswith(('http://','https://')):
+        return v
+    return ''
+
+def norm_title(v):
+    v = re.sub(r'\s+', ' ', str(v or '')).strip()
+    v = re.sub(r'\s*[-–—|]\s*[^|]+$', '', v)
+    return v.strip()
+
+def host(url):
+    try:
+        return urllib.parse.urlparse(url).netloc.lower().split(':')[0]
+    except Exception:
+        return ''
+
+def is_google_or_search(url):
+    h = host(url)
+    return h in BLOCKED_HOSTS or h.endswith('.google.com') or h.endswith('.bing.com')
+
+def get(url, timeout=10):
+    try:
+        req = urllib.request.Request(url, headers=HEADERS)
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return r.read(), r.headers.get_content_type(), r.geturl()
+    except Exception:
+        return b'', '', url
+
+def resolve_article(url):
+    raw, typ, final = get(url, 12)
+    if not raw or is_google_or_search(final):
+        return '', b'', '', final
+    return final, raw, typ, final
+
+def meta(html_text, names):
+    for name in names:
+        p1 = rf'<meta[^>]+(?:property|name)=["\']{re.escape(name)}["\'][^>]+content=["\']([^"\']+)'
+        p2 = rf'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\']{re.escape(name)}["\']'
+        for p in (p1,p2):
+            m = re.search(p, html_text, re.I)
+            if m:
+                return html.unescape(m.group(1)).strip()
+    return ''
+
+def canonical(html_text, base):
+    m = re.search(r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)', html_text, re.I)
+    return clean_url(urllib.parse.urljoin(base, html.unescape(m.group(1)))) if m else base
+
+def extract_image(html_text, base):
+    candidates = []
+    for key in ('og:image','og:image:url','twitter:image','twitter:image:src','image_src'):
+        u = meta(html_text, [key])
+        if u:
+            candidates.append(clean_url(urllib.parse.urljoin(base, u)))
+    for m in re.finditer(r'<img[^>]+(?:src|data-src|data-original)=["\']([^"\']+)', html_text, re.I):
+        u = clean_url(urllib.parse.urljoin(base, html.unescape(m.group(1))))
+        if u:
+            candidates.append(u)
+        if len(candidates) >= 12:
+            break
+    seen = set()
+    for u in candidates:
+        if not u or u in seen or u.lower().split('?')[0].endswith('.svg'):
+            continue
+        seen.add(u)
+        path = urllib.parse.urlparse(u).path.lower()
+        if any(w in path for w in GENERIC_WORDS):
+            continue
+        raw, typ, _ = get(u, 8)
+        if not raw or not typ.startswith('image/') or 'svg' in typ:
+            continue
+        try:
+            with Image.open(BytesIO(raw)) as im:
+                if im.width < 360 or im.height < 220 or im.width / max(1, im.height) > 4.5 or im.height / max(1, im.width) > 4.5:
+                    continue
+                im.verify()
+            return u, raw, typ
+        except Exception:
+            continue
+    return '', b'', ''
+
+def rss(query):
+    u = 'https://news.google.com/rss/search?' + urllib.parse.urlencode({'q':query,'hl':'ar','gl':'IQ','ceid':'IQ:ar'})
+    raw, typ, _ = get(u, 12)
+    if not raw:
+        return []
+    try:
+        root = ET.fromstring(raw)
+    except Exception:
+        return []
+    out = []
+    for it in root.findall('./channel/item'):
+        title = norm_title(it.findtext('title') or '')
+        link = clean_url(it.findtext('link'))
+        src = it.find('source')
+        source_name = (src.text or '').strip() if src is not None else ''
+        source_url = clean_url(src.attrib.get('url')) if src is not None else ''
+        pub = it.findtext('pubDate') or ''
+        if title and link:
+            out.append((title, link, source_name, source_url, pub))
+    return out
+
+def category(title):
+    t = title
+    if any(k in t for k in ('رياضة','كرة','منتخب','مباراة','دوري','اتحاد الكرة','بطولة')): return 'رياضة'
+    if any(k in t for k in ('دولار','ذهب','اقتصاد','مصرف','بنك','نفط','استثمار','أسعار','تجارة','بورصة','مالية')): return 'اقتصاد'
+    if any(k in t for k in ('حكومة','وزير','رئيس الوزراء','برلمان','نائب','حكيم','بارزاني','حزب','انتخابات','سياسة')): return 'سياسة'
+    if any(k in t for k in ('هجوم','انفجار','شرطة','جيش','أمن','إرهاب','مسيرة','مخدرات','سلاح','اعتقال','مقتل','قتلى','حريق')): return 'أمن'
+    if any(k in t for k in ('إيران','سوريا','فلسطين','غزة','لبنان','أمريكا','أميركا','تركيا','دولي','هرمز','اليمن')): return 'عربي ودولي'
+    if any(k in t for k in ('صحة','مستشفى','طلاب','طلبة','تربية','تعليم','طقس','أمطار','ولادة')): return 'محليات'
+    return 'محليات'
+
+def breaking(title):
+    return bool(re.search(r'(^|\s)(عاجل|طارئ|تحديث عاجل|تحذير عاجل)(\s|$)|انفجار|هجوم|هزة أرضية|زلزال|حريق كبير|اشتباك|قتلى|ضحايا', title, re.I))
+
+def store(raw, typ):
+    if not raw or not typ.startswith('image/') or 'svg' in typ:
+        return ''
+    h = hashlib.sha256(raw).hexdigest()
+    ext = {'image/jpeg':'.jpg','image/png':'.png','image/webp':'.webp','image/gif':'.gif'}.get(typ, '.jpg')
+    p = NEWS_DIR / (h[:24] + ext)
+    if not p.exists():
+        p.write_bytes(raw)
+    return './assets/news/' + p.name
+
+rows = []
+seen_titles = set(); seen_urls = set()
+with ThreadPoolExecutor(max_workers=10) as ex:
+    futures = [ex.submit(rss, q) for q in QUERIES]
+    for f in as_completed(futures):
+        try: got = f.result()
+        except Exception: got = []
+        for row in got:
+            title, link, source_name, source_url, pub = row
+            key = re.sub(r'[^\w\u0600-\u06ff]+','',title).lower()
+            if key in seen_titles or link in seen_urls:
+                continue
+            seen_titles.add(key); seen_urls.add(link); rows.append(row)
+
+rows = rows[:90]
+
+def enrich(row):
+    title, link, source_name, source_url, pub = row
+    final, html_bytes, _, final_url = resolve_article(link)
+    if not final or not html_bytes:
+        return None
+    h = host(final)
+    if not h or is_google_or_search(final):
+        return None
+    text = html_bytes.decode('utf-8','ignore')
+    image_url, raw, typ = extract_image(text, final)
+    if not raw:
+        return None
+    can = canonical(text, final)
+    if can and not is_google_or_search(can):
+        final = can
+    title_meta = meta(text, ['og:title','twitter:title'])
+    clean_title = norm_title(title_meta or title)
+    trusted = any(x in h for x in TRUSTED_HOST_HINTS)
+    iraqish = bool(re.search(r'العراق|بغداد|البصرة|نينوى|كركوك|أربيل|السليمانية|ديالى|الأنبار|ذي قار|النجف|كربلاء|ميسان|واسط|بابل|صلاح الدين|دهوك|المثنى|القادسية', clean_title))
+    if not trusted and not iraqish:
+        return None
+    return {
+        'title': clean_title, 'url': final, 'category': category(clean_title),
+        'published': pub, 'image': store(raw, typ), 'original_image': store(raw, typ),
+        'source_url': source_url or final, 'source_name': source_name, 'breaking': breaking(clean_title)
+    }
+
+items = []
+with ThreadPoolExecutor(max_workers=18) as ex:
+    futures = [ex.submit(enrich, r) for r in rows]
+    for f in as_completed(futures):
+        try: item = f.result()
+        except Exception: item = None
+        if not item or not item.get('image'):
+            continue
+        if any(x['url'] == item['url'] or x['title'] == item['title'] for x in items):
+            continue
+        items.append(item)
+        if len(items) >= 36:
+            break
+
+items.sort(key=lambda x: x.get('published',''), reverse=True)
+if len(items) < 20:
+    raise SystemExit(f'لم يتم العثور على 20 خبراً بصور أصلية من صفحات الناشرين. المتاح: {len(items)}')
+
+now = datetime.now(timezone.utc).isoformat()
+data = {'updated_at': now, 'items': items[:36]}
+Path('news.json').write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
+print('تم تحديث الأخبار:', len(data['items']), 'خبرًا بصور من صفحات الأخبار الأصلية فقط.')
