@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-09-07T13:46:17.915817+00:00",
+  "updated_at": "2026-09-07T13:58:50.711464+00:00",
   "latest": [
-    {
-      "title": "صحيفة: إدارة الدولة تجاهل حصر السلاح.. وسجال حول منصب الفياض",
-      "url": "https://www.alsumaria.tv/news/politics/575291/%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%AA%D8%AC%D8%A7%D9%87%D9%84-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D9%88%D8%B3%D8%AC%D8%A7%D9%84-%D8%AD%D9%88%D9%84-%D9%85%D9%86%D8%B5%D8%A8-%D8%A7%D9%84%D9%81%D9%8A%D8%A7%D8%B6",
-      "category": "عراق",
-      "published": "Mon, 07 Sep 2026 09:35:40 GMT",
-      "breaking": false
-    },
-    {
-      "title": "بارزاني والسيد الحكيم على طاولة واحدة.. ماذا دار بينهما؟",
-      "url": "https://www.alsumaria.tv/news/politics/575292/%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%AD%D9%83%D9%8A%D9%85-%D8%B9%D9%84%D9%89-%D8%B7%D8%A7%D9%88%D9%84%D8%A9-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AF%D8%A7%D8%B1-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7%D8%9F",
-      "category": "عراق",
-      "published": "Mon, 07 Sep 2026 09:38:14 GMT",
-      "breaking": false
-    },
     {
       "title": "إيران تتوعد كوريا الجنوبية بـعواقب وخيمة.. ماذا حدث؟",
       "url": "https://www.alsumaria.tv/news/international/575293/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AA%D9%88%D8%B9%D8%AF-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9-%D8%A8%D9%80%D8%B9%D9%88%D8%A7%D9%82%D8%A8-%D9%88%D8%AE%D9%8A%D9%85%D8%A9-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AD%D8%AF%D8%AB%D8%9F",
@@ -140,6 +126,20 @@
       "category": "عراق",
       "published": "Mon, 07 Sep 2026 13:30:36 GMT",
       "breaking": true
+    },
+    {
+      "title": "هل سنصل لمرحلة التحدث مع الحيوانات.. الذكاء الاصطناعي يقرب الطرفين",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/575311/%D9%87%D9%84-%D8%B3%D9%86%D8%B5%D9%84-%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D8%AB-%D9%85%D8%B9-%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%B7%D8%B1%D9%81%D9%8A%D9%86",
+      "category": "عراق",
+      "published": "Mon, 07 Sep 2026 13:46:56 GMT",
+      "breaking": false
+    },
+    {
+      "title": "نفس اسعار الصباح.. الدولار في التداولات المسائية",
+      "url": "https://www.alsumaria.tv/news/economy/575312/%D9%86%D9%81%D8%B3-%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A6%D9%8A%D8%A9",
+      "category": "عراق",
+      "published": "Mon, 07 Sep 2026 13:54:06 GMT",
+      "breaking": false
     },
     {
       "title": "البيضاء... «المفتاح المنسي» في خريطة الحرب اليمنية",
