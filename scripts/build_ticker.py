@@ -44,7 +44,10 @@ def parse(raw, category):
  return out
 
 def breaking(title):
- return bool(re.search(r'(^|\s)(عاجل|طارئ|تحذير عاجل|بشكل عاجل)(\s|$)|قتلى|ضحايا|انفجار|هجوم|غارة|زلزال|حريق كبير|اشتباك|إغلاق|تحذير',title,re.I))
+ t=re.sub(r'[\u200e\u200f\u202a-\u202e]','',str(title or ''))
+ urgent_words=('عاجل','طارئ','تحذير عاجل','بشكل عاجل','تغطية مباشرة','تحديث عاجل')
+ crisis_words=('قتلى','ضحايا','شهيد','شهداء','مقتل','إصابة خطيرة','انفجار','هجوم','غارة','زلزال','هزة','حريق كبير','اشتباك','إغلاق','تحذير','سقوط طائرة','اختطاف','قصف','استهداف','إطلاق نار','مسيّرة','مسيرة')
+ return any(w in t for w in urgent_words) or any(w in t for w in crisis_words)
 
 all_items=[]
 for category, urls in FEEDS.items():
