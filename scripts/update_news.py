@@ -12,10 +12,13 @@ HEADERS = {'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chro
 GENERIC_WORDS = ('logo','icon','favicon','avatar','placeholder','default','sprite','banner','advert','ads','loading','no-image','no_image','profile')
 RSS_FEEDS = ['https://www.alsumaria.tv/Rss/iraq-latest-news/ar','https://www.alsumaria.tv/Rss/News','https://www.alsumaria.tv/Rss/News/ar/1/سياسة','https://www.alsumaria.tv/Rss/News/ar/48/محليات','https://www.alsumaria.tv/Rss/News/ar/16/أمن','https://www.alsumaria.tv/Rss/News/ar/5/رياضة','https://www.alsumaria.tv/Rss/News/ar/49/دوليات']
 KIRKUK_PAGES = [('https://www.shafaq.com/ar/tags/كركوك','شفق نيوز'),('https://www.shafaq.com/ar/tags/محافظة-كركوك','شفق نيوز'),('https://964media.com/province/kirkuk/','شبكة 964'),('https://www.kirkuknow.com/ar','كركوك ناو')]
+IRAQ_PAGES = [('https://www.shafaq.com/ar/tags/بغداد','شفق نيوز'),('https://964media.com/province/baghdad/','شبكة 964'),('https://www.alsumaria.tv/news/localnews','السومرية نيوز')]
+IRAN_STUDENTS_PAGES = [('https://www.shafaq.com/ar/tags/الطلبة-العراقيين','شفق نيوز'),('https://www.shafaq.com/ar/tags/طلبة-عراقيين','شفق نيوز'),('https://www.alsumaria.tv/news/localnews','السومرية نيوز')]
 KIRKUK_WORDS = ('كركوك','التون كوبري','التونكوبري','آلتون كوبري','الدبس','داقوق','الحويجة','ليلان','الرشاد','الرياض','الزاب','قره تبه','جيمن','باي حسن','بابا كركر')
 REPORT_WORDS = ('تقرير','تقارير','تحقيق','تحقيقات','ملف','ملفات','قراءة','رصد','تغطية','استطلاع','تحليل','دراسة','خاص')
 IRAQ_WORDS = ('العراق','بغداد','نينوى','الموصل','البصرة','النجف','كربلاء','الأنبار','الانبار','صلاح الدين','ديالى','واسط','ميسان','ذي قار','المثنى','بابل','القادسية','الديوانية','دهوك','أربيل','اربيل','السليمانية','حلبجة','كركوك','الحشد','البرلمان العراقي','الحكومة العراقية','القوات العراقية')
 ARAB_INTL_WORDS = ('فلسطين','غزة','إسرائيل','اسرائيل','لبنان','سوريا','الأردن','الاردن','السعودية','الإمارات','الامارات','الكويت','قطر','البحرين','عُمان','عمان','اليمن','مصر','ليبيا','تونس','الجزائر','المغرب','السودان','إيران','ايران','تركيا','أمريكا','امريكا','أميركا','روسيا','أوكرانيا','الصين','أوروبا','بريطانيا','فرنسا','ألمانيا','دولي','دولية','مجلس الأمن','الأمم المتحدة')
+IRAN_STUDENT_WORDS = ('الطلبة العراقيين','طلبة عراقيين','الطلبة العراقيون','طلبة عراقيون','الطلاب العراقيين','طلاب عراقيين','جامعة سمنان','سمنان','الاعتداء على الطلبة العراقيين')
 MAX_AGE=timedelta(hours=30); NOW=datetime.now(timezone.utc)
 
 def get(url,timeout=12):
@@ -31,6 +34,7 @@ def host(url):
 def norm_title(v):return re.sub(r'\s+',' ',str(v or '')).strip()
 def is_kirkuk(t):return any(k in norm_title(t) for k in KIRKUK_WORDS)
 def is_report(t):return any(k in norm_title(t) for k in REPORT_WORDS)
+def is_iran_students(t):return any(k in norm_title(t) for k in IRAN_STUDENT_WORDS)
 
 def parse_date(v):
  if not v:return None
@@ -105,10 +109,11 @@ def category(t):
 
 def region(t):
  if is_kirkuk(t):return 'كركوك'
+ if is_iran_students(t):return 'عربي ودولي'
  if any(k in t for k in IRAQ_WORDS):return 'العراق'
  if any(k in t for k in ARAB_INTL_WORDS):return 'عربي ودولي'
  return 'العراق'
-def is_breaking(t):return bool(re.search(r'(^|\s)(عاجل|طارئ|تحديث عاجل|تحذير عاجل)(\s|$)|انفجار|هجوم|هزة أرضية|زلزال|حريق كبير|اشتباك|قتلى|ضحايا',t,re.I))
+def is_breaking(t):return bool(re.search(r'(^|\s)(عاجل|طارئ|تحديث عاجل|تحذير عاجل)(\s|$)|انفجار|هجوم|هجوم جديد|اعتداء|اشتباك|قتلى|ضحايا',t,re.I))
 
 def parse_feed(url,source='السومرية نيوز'):
  raw,_,final=get(url)
@@ -129,25 +134,28 @@ def page_rows(url,source):
   href=clean_url(m.group(1),final); title=html.unescape(norm_title(re.sub('<[^>]+>',' ',m.group(2))))
   if not title or len(title)<10 or href in seen:continue
   h=host(href)
-  if (h.endswith('shafaq.com') and '/ar/' in href) or h.endswith('964media.com') or h.endswith('kirkuknow.com'):
+  if (h.endswith('shafaq.com') and '/ar/' in href) or h.endswith('964media.com') or h.endswith('kirkuknow.com') or h.endswith('alsumaria.tv'):
    if any(x in href for x in ('/tags/','/province/','/category/')):continue
    seen.add(href);rows.append((title,href,'',source))
  return rows[:120]
 
-def kirkuk_rows():
+def collect_pages(pages, predicate=None):
  out=[];seen=set()
- with ThreadPoolExecutor(max_workers=len(KIRKUK_PAGES)) as ex:
-  fs=[ex.submit(page_rows,u,s) for u,s in KIRKUK_PAGES]
+ with ThreadPoolExecutor(max_workers=len(pages)) as ex:
+  fs=[ex.submit(page_rows,u,s) for u,s in pages]
   for f in as_completed(fs):
    try:got=f.result()
    except:got=[]
    for row in got:
-    if is_kirkuk(row[0]) and row[1] not in seen:seen.add(row[1]);out.append(row)
+    if (predicate is None or predicate(row[0])) and row[1] not in seen:
+     seen.add(row[1]);out.append(row)
  return out
 
-rows=[];seen=set()
-for row in kirkuk_rows():
- if row[1] not in seen:seen.add(row[1]);rows.append(row)
+rows=[]
+for row in collect_pages(KIRKUK_PAGES, is_kirkuk):rows.append(row)
+for row in collect_pages(IRAQ_PAGES, lambda t: any(k in t for k in IRAQ_WORDS) or 'بغداد' in t):rows.append(row)
+for row in collect_pages(IRAN_STUDENTS_PAGES, is_iran_students):rows.append(row)
+seen=set();rows=[r for r in rows if not (r[1] in seen or seen.add(r[1]))]
 with ThreadPoolExecutor(max_workers=len(RSS_FEEDS)) as ex:
  for f in as_completed([ex.submit(parse_feed,u) for u in RSS_FEEDS]):
   try:got=f.result()
@@ -176,4 +184,4 @@ with ThreadPoolExecutor(max_workers=18) as ex:
 rank={'كركوك':0,'العراق':1,'عربي ودولي':2}; items.sort(key=lambda x:x.get('published',''),reverse=True); items.sort(key=lambda x:rank.get(x.get('region'),1)); items=items[:48]
 if len(items)<20:raise SystemExit(f'الأخبار اليومية الحديثة غير كافية: {len(items)}')
 Path('news.json').write_text(json.dumps({'updated_at':datetime.now(timezone.utc).isoformat(),'items':items},ensure_ascii=False,indent=2),encoding='utf-8')
-print('تم تحديث الأخبار الحديثة فقط:',len(items),'— كركوك:',sum(x.get('region')=='كركوك' for x in items),'— تقارير كركوك:',sum(x.get('region')=='كركوك' and x.get('report') for x in items))
+print('تم تحديث الأخبار الحديثة فقط:',len(items),'— كركوك:',sum(x.get('region')=='كركوك' for x in items),'— طلبة إيران:',sum(is_iran_students(x.get('title','')) for x in items),'— بغداد:',sum('بغداد' in x.get('title','') for x in items))
