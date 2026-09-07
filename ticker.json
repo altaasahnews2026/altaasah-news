@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T22:52:26.973454+00:00",
+  "updated_at": "2026-09-07T23:06:51.649456+00:00",
   "latest": [
     {
       "title": "الجيش الإسرائيلي ينفذ تفجيرا كبيرا جنوبي لبنان",
@@ -177,146 +177,6 @@
       "breaking": false
     },
     {
-      "title": "معارك اليمن... فتح محاور جديدة يربك التحصينات الحوثية",
-      "url": "https://aawsat.com/node/5315735",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 17:38:11 +0100",
-      "breaking": false
-    },
-    {
-      "title": "العراق يطّلع على التجربة المصرية في معالجة المياه وإعادة استخدامها",
-      "url": "https://aawsat.com/node/5315684",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 15:45:35 +0100",
-      "breaking": false
-    },
-    {
-      "title": "البيضاء... «المفتاح المنسي» في خريطة الحرب اليمنية",
-      "url": "https://aawsat.com/node/5315647",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 14:35:14 +0100",
-      "breaking": false
-    },
-    {
-      "title": "الحوثيون ينكِّلون بسكان ريف تعز ويحتجزونهم دروعاً بشرية",
-      "url": "https://aawsat.com/node/5315587",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 11:34:26 +0100",
-      "breaking": false
-    },
-    {
-      "title": "الجيش اليمني يوسِّع المعارك... من الجوف شرقاً إلى الساحل غرباً",
-      "url": "https://aawsat.com/node/5315559",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 10:23:43 +0100",
-      "breaking": false
-    },
-    {
-      "title": "محافظ الحديدة لـ«الشرق الأوسط»: قواتنا تتقدم وعازمون على تحرير كامل الساحل الغربي",
-      "url": "https://aawsat.com/node/5315551",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 10:01:53 +0100",
-      "breaking": false
-    },
-    {
-      "title": "الجيش اليمني يطارد الحوثيين جنوب شرقي الحديدة",
-      "url": "https://aawsat.com/node/5315451",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 01:17:27 +0100",
-      "breaking": false
-    },
-    {
-      "title": "الجيش اليمني يطارد الحوثيين في جنوب شرقي الحديدة",
-      "url": "https://aawsat.com/node/5315274",
-      "category": "مشرق أوسط",
-      "published": "Sun, 06 Sep 2026 13:39:54 +0100",
-      "breaking": false
-    },
-    {
-      "title": "هجمات الحوثيين تفاقم مأساة النزوح غرب تعز والحديدة",
-      "url": "https://aawsat.com/node/5315268",
-      "category": "مشرق أوسط",
-      "published": "Sun, 06 Sep 2026 13:21:34 +0100",
-      "breaking": false
-    },
-    {
-      "title": "استنفار حوثي وتجنيد قسري في محافظة إب",
-      "url": "https://aawsat.com/node/5315256",
-      "category": "مشرق أوسط",
-      "published": "Sun, 06 Sep 2026 12:39:01 +0100",
-      "breaking": false
-    },
-    {
-      "title": "العليمي: استعادة مؤسسات الدولة اليمنية خيار لا رجعة عنه",
-      "url": "https://aawsat.com/node/5315117",
-      "category": "مشرق أوسط",
-      "published": "Sat, 05 Sep 2026 21:47:28 +0100",
-      "breaking": false
-    },
-    {
-      "title": "«الجامعة العربية» لإصدار قرار بشأن الاعتداءات الإيرانية",
-      "url": "https://aawsat.com/node/5315064",
-      "category": "مشرق أوسط",
-      "published": "Sat, 05 Sep 2026 17:31:46 +0100",
-      "breaking": false
-    },
-    {
-      "title": "تصعيد الحوثيين ينقلب عليهم في تعز والساحل الغربي",
-      "url": "https://aawsat.com/node/5314967",
-      "category": "مشرق أوسط",
-      "published": "Sat, 05 Sep 2026 12:13:58 +0100",
-      "breaking": false
-    },
-    {
-      "title": "جثث متراكمة وتجنيد في المدارس يعكسان نزيف الحوثيين",
-      "url": "https://aawsat.com/node/5314958",
-      "category": "مشرق أوسط",
-      "published": "Sat, 05 Sep 2026 11:38:02 +0100",
-      "breaking": false
-    },
-    {
-      "title": "«وفرة العقارات» لا تحد من أزمة السكن في مصر",
-      "url": "https://aawsat.com/node/5314662",
-      "category": "مشرق أوسط",
-      "published": "Fri, 04 Sep 2026 13:26:03 +0100",
-      "breaking": false
-    },
-    {
-      "title": "هجوم الحوثيين غرب اليمن يختبر صلابة القوات الحكومية",
-      "url": "https://aawsat.com/node/5314654",
-      "category": "مشرق أوسط",
-      "published": "Fri, 04 Sep 2026 12:56:08 +0100",
-      "breaking": true
-    },
-    {
-      "title": "الخسائر البشرية الحوثية تتضاعف مع اتساع رقعة المواجهات",
-      "url": "https://aawsat.com/node/5314649",
-      "category": "مشرق أوسط",
-      "published": "Fri, 04 Sep 2026 12:44:05 +0100",
-      "breaking": false
-    },
-    {
-      "title": "الحوثيون يُصعِّدون عسكرياً في تعز والساحل الغربي",
-      "url": "https://aawsat.com/node/5314507",
-      "category": "مشرق أوسط",
-      "published": "Fri, 04 Sep 2026 00:22:48 +0100",
-      "breaking": false
-    },
-    {
-      "title": "تصعيد حوثي واسع على جبهات تعز والساحل الغربي",
-      "url": "https://aawsat.com/node/5314290",
-      "category": "مشرق أوسط",
-      "published": "Thu, 03 Sep 2026 14:48:51 +0100",
-      "breaking": false
-    },
-    {
-      "title": "تغييرات حوثية تطول قيادات عسكرية وسط تصاعد الضربات الحكومية",
-      "url": "https://aawsat.com/node/5314284",
-      "category": "مشرق أوسط",
-      "published": "Thu, 03 Sep 2026 14:38:36 +0100",
-      "breaking": false
-    },
-    {
       "title": "السعودية وألمانيا تؤكدان أهمية بذل الجهود لضمان حرية الملاحة",
       "url": "https://aawsat.com/node/5315765",
       "category": "مشرق أوسط",
@@ -342,6 +202,146 @@
       "url": "https://aawsat.com/node/5315734",
       "category": "مشرق أوسط",
       "published": "Mon, 07 Sep 2026 17:35:39 +0100",
+      "breaking": false
+    },
+    {
+      "title": "«حوار الأمن والتاريخ»: التحالفات وأمن الطاقة والشراكات المتوازنة ركائز للاستقرار السعودي",
+      "url": "https://aawsat.com/node/5315730",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 17:21:08 +0100",
+      "breaking": false
+    },
+    {
+      "title": "تطوّرات الجهود الأمنية في السعودية... التقنية للاستباق والإنسان لاتخاذ القرار",
+      "url": "https://aawsat.com/node/5315691",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 16:12:13 +0100",
+      "breaking": false
+    },
+    {
+      "title": "السعودية وألمانيا تؤسسان حواراً استراتيجياً على مستوى وزيري الخارجية",
+      "url": "https://aawsat.com/node/5315508",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 08:27:18 +0100",
+      "breaking": false
+    },
+    {
+      "title": "بن فرحان يبحث خفض التصعيد بالمنطقة وأمن الممرات المائية مع ميليباند والزياني",
+      "url": "https://aawsat.com/node/5315507",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 08:26:00 +0100",
+      "breaking": false
+    },
+    {
+      "title": "سلطان عمان والرئيس الفرنسي يبحثان التطورات الإقليمية والدولية",
+      "url": "https://aawsat.com/node/5315381",
+      "category": "مشرق أوسط",
+      "published": "Sun, 06 Sep 2026 18:49:03 +0100",
+      "breaking": false
+    },
+    {
+      "title": "«التمييز» الكويتية تقضي بسجن نواب سابقين بينهم مسلم البراك",
+      "url": "https://aawsat.com/node/5315315",
+      "category": "مشرق أوسط",
+      "published": "Sun, 06 Sep 2026 15:36:29 +0100",
+      "breaking": false
+    },
+    {
+      "title": "انطلاق مؤتمر «حوار الأمن والتاريخ» في الرياض بثلاث رسائل",
+      "url": "https://aawsat.com/node/5315286",
+      "category": "مشرق أوسط",
+      "published": "Sun, 06 Sep 2026 14:26:04 +0100",
+      "breaking": false
+    },
+    {
+      "title": "الكويت تمنح «المسحوبة جنسياتهم» إقامة تصل إلى 10 سنوات",
+      "url": "https://aawsat.com/node/5315275",
+      "category": "مشرق أوسط",
+      "published": "Sun, 06 Sep 2026 13:41:45 +0100",
+      "breaking": false
+    },
+    {
+      "title": "أمين عام مجلس التعاون: التنسيق الأمني الخليجي متواصل منذ ما قبل التأسيس",
+      "url": "https://aawsat.com/node/5315259",
+      "category": "مشرق أوسط",
+      "published": "Sun, 06 Sep 2026 12:58:01 +0100",
+      "breaking": false
+    },
+    {
+      "title": "وزير الخارجية السعودي يبحث مع نظيريه الإيراني والباكستاني تطورات المنطقة",
+      "url": "https://aawsat.com/node/5315241",
+      "category": "مشرق أوسط",
+      "published": "Sun, 06 Sep 2026 11:27:54 +0100",
+      "breaking": false
+    },
+    {
+      "title": "السعودية و7 دول تدين تصريحات إسرائيلية بشأن تهجير الفلسطينيين من غزة",
+      "url": "https://aawsat.com/node/5315230",
+      "category": "مشرق أوسط",
+      "published": "Sun, 06 Sep 2026 10:56:01 +0100",
+      "breaking": false
+    },
+    {
+      "title": "سعودي يتعرض للطعن والسرقة وسط لندن",
+      "url": "https://aawsat.com/node/5314860",
+      "category": "مشرق أوسط",
+      "published": "Sat, 05 Sep 2026 00:59:53 +0100",
+      "breaking": false
+    },
+    {
+      "title": "الملك سلمان يأمر بترقية وتعيين 34 قاضياً بديوان المظالم",
+      "url": "https://aawsat.com/node/5314809",
+      "category": "مشرق أوسط",
+      "published": "Fri, 04 Sep 2026 20:36:46 +0100",
+      "breaking": false
+    },
+    {
+      "title": "الدوحة تفنّد مزاعم إيرانية: هجماتكم استهدفت أعياناً مدنية",
+      "url": "https://aawsat.com/node/5314792",
+      "category": "مشرق أوسط",
+      "published": "Fri, 04 Sep 2026 19:01:23 +0100",
+      "breaking": false
+    },
+    {
+      "title": "تعاون سعودي - ماليزي يحبط تهريب مخدرات",
+      "url": "https://aawsat.com/node/5314728",
+      "category": "مشرق أوسط",
+      "published": "Fri, 04 Sep 2026 16:17:39 +0100",
+      "breaking": false
+    },
+    {
+      "title": "السفارة السعودية: نتابع باهتمام حالة مواطن تعرض لطعن في مايفير",
+      "url": "https://aawsat.com/node/5314679",
+      "category": "مشرق أوسط",
+      "published": "Fri, 04 Sep 2026 14:15:45 +0100",
+      "breaking": false
+    },
+    {
+      "title": "الصين تصدر توجيهات بمقاضاة مرتكبي مخالفات الذكاء الاصطناعي",
+      "url": "https://aawsat.com/node/5315696",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 16:18:13 +0100",
+      "breaking": false
+    },
+    {
+      "title": "كوريا الشمالية وروسيا تدشنان أول جسر بين البلدين",
+      "url": "https://aawsat.com/node/5315594",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 11:56:44 +0100",
+      "breaking": false
+    },
+    {
+      "title": "ثوران بركاني يمدّد إغلاق 4 مطارات في إندونيسيا ويعطل آلاف الرحلات",
+      "url": "https://aawsat.com/node/5315521",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 09:11:18 +0100",
+      "breaking": true
+    },
+    {
+      "title": "زعيم كوريا الشمالية يتعهد بتحويل بحرية بلاده إلى قوة نووية",
+      "url": "https://aawsat.com/node/5315435",
+      "category": "مشرق أوسط",
+      "published": "Sun, 06 Sep 2026 23:48:56 +0100",
       "breaking": false
     },
     {
@@ -536,10 +536,10 @@
       "breaking": true
     },
     {
-      "title": "هجوم الحوثيين غرب اليمن يختبر صلابة القوات الحكومية",
-      "url": "https://aawsat.com/node/5314654",
+      "title": "ثوران بركاني يمدّد إغلاق 4 مطارات في إندونيسيا ويعطل آلاف الرحلات",
+      "url": "https://aawsat.com/node/5315521",
       "category": "مشرق أوسط",
-      "published": "Fri, 04 Sep 2026 12:56:08 +0100",
+      "published": "Mon, 07 Sep 2026 09:11:18 +0100",
       "breaking": true
     },
     {
