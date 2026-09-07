@@ -1,0 +1,39 @@
+name: نشر الأخبار على الشبكات الاجتماعية
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["تحديث الأخبار اليومية"]
+    types: [completed]
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Install requests
+        run: python -m pip install --upgrade pip && pip install requests
+      - name: Publish fresh news
+        env:
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
+          TIKTOK_ACCESS_TOKEN: ${{ secrets.TIKTOK_ACCESS_TOKEN }}
+          SOCIAL_PUBLIC_BASE_URL: https://altaasahnews2026.github.io/altaasah-news
+          TIKTOK_PRIVACY: PUBLIC_TO_EVERYONE
+        run: python scripts/publish_social.py
+      - name: Commit social publishing state
+        run: |
+          git config user.name 'التاسعة نيوز'
+          git config user.email 'actions@users.noreply.github.com'
+          git add social_state.json
+          if git diff --cached --quiet; then echo 'لا توجد حالة نشر جديدة.'; exit 0; fi
+          git commit -m 'تحديث حالة نشر الأخبار على الشبكات الاجتماعية'
+          git push origin main
