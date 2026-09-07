@@ -75,14 +75,31 @@ def post_instagram(item: dict, access_token: str, ig_user_id: str) -> str:
     return published_id
 
 
+def tiktok_creator_info(access_token: str) -> dict:
+    r = requests.post(
+        "https://open.tiktokapis.com/v2/post/publish/creator_info/query/",
+        headers={"Authorization": f"Bearer {access_token}", "Content-Type": "application/json; charset=UTF-8"},
+        timeout=45,
+    )
+    r.raise_for_status()
+    data = r.json()
+    if data.get("error", {}).get("code") not in (None, "ok"):
+        raise RuntimeError(f"TikTok creator info failed: {data}")
+    return data.get("data", {})
+
+
 def post_tiktok_photo(item: dict, access_token: str) -> str:
     image_url = public_image_url(item)
     title = " ".join(str(item.get("title") or "").split())
+    creator = tiktok_creator_info(access_token)
+    privacy_options = creator.get("privacy_level_options") or []
+    requested_privacy = os.getenv("TIKTOK_PRIVACY", "PUBLIC_TO_EVERYONE")
+    privacy = requested_privacy if requested_privacy in privacy_options else (privacy_options[0] if privacy_options else requested_privacy)
     payload = {
         "post_info": {
             "title": title[:2200],
             "description": caption(item)[:2200],
-            "privacy_level": os.getenv("TIKTOK_PRIVACY", "PUBLIC_TO_EVERYONE"),
+            "privacy_level": privacy,
             "disable_comment": False,
             "auto_add_music": False,
         },
