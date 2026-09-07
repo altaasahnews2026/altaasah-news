@@ -26,6 +26,9 @@ KIRKUK_PAGES = [
     ('https://www.kirkuknow.com/ar','كركوك ناو'),
 ]
 KIRKUK_WORDS = ('كركوك','كركوكَ','كركوك،','كركوك.','التون كوبري','التونكوبري','آلتون كوبري','الدبس','داقوق','الحويجة','ليلان','الرشاد','الرياض','الزاب','قره تبه','جيمن','باي حسن','بابا كركر')
+REPORT_WORDS = ('تقرير','تقارير','تحقيق','تحقيقات','ملف','ملفات','قراءة','رصد','تغطية','استطلاع','تحليل','دراسة','خاص')
+IRAQ_WORDS = ('العراق','بغداد','نينوى','الموصل','البصرة','النجف','كربلاء','الأنبار','الانبار','صلاح الدين','ديالى','واسط','ميسان','ذي قار','المثنى','بابل','القادسية','الديوانية','دهوك','أربيل','اربيل','السليمانية','حلبجة','كركوك','الحشد','البرلمان العراقي','الحكومة العراقية','القوات العراقية')
+ARAB_INTL_WORDS = ('فلسطين','غزة','إسرائيل','اسرائيل','لبنان','سوريا','الأردن','الاردن','السعودية','الإمارات','الامارات','الكويت','قطر','البحرين','عُمان','عمان','اليمن','مصر','ليبيا','تونس','الجزائر','المغرب','السودان','إيران','ايران','تركيا','أمريكا','امريكا','أميركا','روسيا','أوكرانيا','الصين','أوروبا','أوروبا','بريطانيا','فرنسا','ألمانيا','دولي','دولية','مجلس الأمن','الأمم المتحدة')
 
 def get(url, timeout=12):
     try:
@@ -46,6 +49,21 @@ def norm_title(v):return re.sub(r'\s+',' ',str(v or '')).strip()
 def is_kirkuk(title):
     t=norm_title(title)
     return any(k in t for k in KIRKUK_WORDS)
+
+def is_report(title):
+    t=norm_title(title)
+    return any(k in t for k in REPORT_WORDS)
+
+def region(title, kirkuk=False):
+    t=norm_title(title)
+    if kirkuk or is_kirkuk(t): return 'كركوك'
+    if any(k in t for k in ARAB_INTL_WORDS) and not any(k in t for k in IRAQ_WORDS): return 'عربي ودولي'
+    if any(k in t for k in IRAQ_WORDS): return 'العراق'
+    # الأخبار العراقية العامة تأتي قبل العربي والدولي، ما لم يظهر بوضوح أنها خارج العراق.
+    return 'العراق'
+
+def region_rank(item):
+    return {'كركوك':0,'العراق':1,'عربي ودولي':2}.get(item.get('region'),1)
 
 def meta(text,names):
     for name in names:
@@ -143,7 +161,7 @@ def shafaq_rows():
     return page_rows('https://www.shafaq.com/ar','شفق نيوز')
 
 rows=[];seen=set()
-# أخبار كركوك تُجمع أولاً من صفحات مخصصة للمحافظة ثم من الخلاصات العراقية العامة.
+# أولاً: كل ما يتعلق بكركوك، بما في ذلك الأخبار والتقارير والتحقيقات والملفات والتحليلات.
 for row in kirkuk_rows():
     key=(row[0],row[1])
     if key not in seen:seen.add(key);rows.append(row)
@@ -167,7 +185,8 @@ def enrich(row):
     text=raw.decode('utf-8','ignore'); image_raw,image_typ=extract_image(text,final)
     if not image_raw:return None
     final=canonical(text,final); title=norm_title(meta(text,['og:title','twitter:title']) or title)
-    return {'title':title,'url':final,'category':category(title),'published':pub,'image':store(image_raw,image_typ),'original_image':store(image_raw,image_typ),'source_url':final,'source_name':source,'breaking':is_breaking(title),'kirkuk':is_kirkuk(title)}
+    k=is_kirkuk(title); r=region(title,k); img=store(image_raw,image_typ)
+    return {'title':title,'url':final,'category':category(title),'region':r,'published':pub,'image':img,'original_image':img,'source_url':final,'source_name':source,'breaking':is_breaking(title),'kirkuk':k,'report':is_report(title)}
 
 items=[];seen_titles=set();seen_urls=set()
 with ThreadPoolExecutor(max_workers=18) as ex:
@@ -178,10 +197,13 @@ with ThreadPoolExecutor(max_workers=18) as ex:
         if not item or not item.get('image'):continue
         if item['url'] in seen_urls or item['title'] in seen_titles:continue
         seen_urls.add(item['url']);seen_titles.add(item['title']);items.append(item)
-items.sort(key=lambda x:(not x.get('kirkuk',False),x.get('published','')),reverse=False)
-# نحافظ على أولوية كركوك، مع إبقاء الأخبار العراقية والعربية والدولية ضمن الصفحة الرئيسية.
+# ترتيب الصفحة الرئيسية ثابت: كركوك ثم العراق ثم عربي ودولي، والأحدث أولاً داخل كل مجموعة.
+items.sort(key=lambda x: region_rank(x))
+items.sort(key=lambda x: str(x.get('published') or ''), reverse=True)
+# ثبات أولوية المجموعة بعد ترتيب التاريخ.
+items.sort(key=lambda x: region_rank(x))
 items=items[:48]
 if len(items)<20:raise SystemExit(f'لم يتم العثور على 20 خبراً بصور أصلية من صفحات الناشرين. المتاح: {len(items)}')
 Path('news.json').write_text(json.dumps({'updated_at':datetime.now(timezone.utc).isoformat(),'items':items},ensure_ascii=False,indent=2),encoding='utf-8')
-k=sum(1 for x in items if x.get('kirkuk'))
-print('تم تحديث الأخبار:',len(items),'خبراً — أخبار كركوك:',k,'— مع أولوية التجميع.')
+k=sum(1 for x in items if x.get('kirkuk')); reports=sum(1 for x in items if x.get('kirkuk') and x.get('report'))
+print('تم تحديث الأخبار:',len(items),'— كركوك:',k,'— تقارير كركوك:',reports,'— الترتيب: كركوك ثم العراق ثم عربي ودولي.')
