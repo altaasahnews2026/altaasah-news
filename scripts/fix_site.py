@@ -1,5 +1,5 @@
 from pathlib import Path
-import re
+import re, json, html
 
 p = Path('index.html')
 s = p.read_text(encoding='utf-8')
@@ -21,7 +21,7 @@ if marker_a >= 0 and marker_b >= 0:
   if(!u || /\\.svg(?:\\?|$)/i.test(u)) return '';
   const base='https://altaasahnews2026.github.io/altaasah-news/';
   const raw='https://raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/';
-  if(u.startsWith(base+'assets/news/')) return raw+u.slice((base).length);
+  if(u.startsWith(base+'assets/news/')) return raw+u.slice(base.length);
   if(/^assets\\/news\\//i.test(u.replace(/^\\.\\//,''))) return raw+u.replace(/^\\.\\//,'');
   return u;
 }
@@ -45,54 +45,50 @@ function img(x,cls=''){
 '''
     s = s[:marker_a] + replacement + s[marker_b:]
 
-# The upper-right red control is now the live broadcast button, not an urgent-news label.
+# The upper-right control is the live broadcast button.
 s = s.replace('<button class="live" id="live">● عاجل</button>', '<div class="search"><input id="q" placeholder="ابحث في الأخبار..."></div>')
-# The original first tools block has two search elements after the replacement; normalize it.
 s = re.sub(r'<div class="tools"><div class="search"><input id="q" placeholder="ابحث في الأخبار\.\.\.\"></div><div class="search"><input id="q" placeholder="ابحث في الأخبار\.\.\.\"></div></div>', '<div class="tools"><div class="search"><input id="q" placeholder="ابحث في الأخبار..."></div></div>', s)
 s = s.replace('<div class="tools"><span style="font-size:10px;color:#748196">أخبار العراق أولاً</span></div>', '<div class="tools"><a class="live" id="live" href="https://www.alsumaria.tv/live" target="_blank" rel="noopener">● البث المباشر</a></div>')
 
-# Continuous headline strips: the runtime refreshes ticker.json without reloading the page.
+# Rebuild the ticker markup and CSS so the page always contains visible headlines even before JS runs.
 s = re.sub(r'<style id="news-bars-style">.*?</style>', '', s, flags=re.S)
 style = '''<style id="news-bars-style">
-.breakingTicker{height:42px;background:#b4000b;color:#fff;display:flex;overflow:hidden}.breakingTicker>b,.ticker>b{min-width:104px;display:flex;align-items:center;justify-content:center;font-weight:900;flex:0 0 104px}.breakingTicker>b{background:#e21d2b}.breakingWindow,.tickerWindow{overflow:hidden;flex:1;direction:rtl;position:relative}.breakingTrack,.tickerTrack{height:100%;display:flex;align-items:center;width:max-content;white-space:nowrap;will-change:transform;direction:rtl}.breakingTrack{animation:breakingMove 38s linear infinite}.ticker{height:40px;background:#fff;display:flex;border-bottom:1px solid var(--line)}.ticker>b{background:#071b33;color:#fff}.tickerTrack{animation:tickerMove 72s linear infinite}.breakingSet,.tickerSet{display:flex;align-items:center;gap:38px;direction:rtl;padding-right:36px;padding-left:36px;flex-shrink:0}.breakingTrack a{color:#fff;font-size:11px;font-weight:900}.tickerTrack a{color:var(--ink);font-size:10px;font-weight:800}.tickerTrack a .tickerCat{color:var(--r);font-size:9px;margin-left:6px}.breakingTrack:hover,.tickerTrack:hover{animation-play-state:paused}.live{display:inline-flex;align-items:center;justify-content:center;border:0;background:var(--r);color:#fff;border-radius:6px;padding:10px 14px;font-weight:900;font-size:10px;cursor:pointer;white-space:nowrap}.live:hover{background:#b80f1c}@keyframes breakingMove{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}@keyframes tickerMove{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}
+.breakingTicker{height:42px;background:#b4000b;color:#fff;display:flex;overflow:hidden}.breakingTicker>b,.ticker>b{min-width:104px;display:flex;align-items:center;justify-content:center;font-weight:900;flex:0 0 104px}.breakingTicker>b{background:#e21d2b}.breakingWindow,.tickerWindow{overflow:hidden;flex:1;position:relative}.breakingTrack,.tickerTrack{height:100%;display:flex;align-items:center;width:max-content;white-space:nowrap;will-change:transform;direction:ltr}.breakingSet,.tickerSet{display:flex;align-items:center;gap:38px;direction:rtl;padding:0 36px;flex-shrink:0}.breakingTrack a{color:#fff;font-size:11px;font-weight:900;direction:rtl}.tickerTrack a{color:var(--ink);font-size:10px;font-weight:800;direction:rtl}.tickerCat{color:var(--r);font-size:9px;margin-left:6px}.breakingTrack,.tickerTrack{animation-timing-function:linear;animation-iteration-count:infinite}.breakingTrack{animation:breakingMove 42s linear infinite}.tickerTrack{animation:tickerMove 90s linear infinite}.breakingTrack:hover,.tickerTrack:hover{animation-play-state:paused}.live{display:inline-flex!important;align-items:center;justify-content:center;border:0;background:var(--r);color:#fff;border-radius:6px;padding:10px 14px;font-weight:900;font-size:10px;cursor:pointer;white-space:nowrap}@keyframes breakingMove{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}@keyframes tickerMove{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}
 </style>'''
 s=s.replace('</head>',style+'</head>',1)
 
-# Inject the live ticker controller once, after the existing page script.
-if 'id="live-news-ticker-runtime"' not in s:
-    runtime = r'''<script id="live-news-ticker-runtime">
+# Load current ticker data into the HTML itself. This removes the blank-strip failure mode.
+ticker_path=Path('ticker.json')
+if ticker_path.exists():
+    try:
+        td=json.loads(ticker_path.read_text(encoding='utf-8'))
+        def esc_t(v): return html.escape(str(v or ''), quote=True)
+        def make_item(x):
+            cat=x.get('category','عراق')
+            label='العراق' if cat=='عراق' else ('المشرق الأوسط' if cat in ('مشرق أوسط','المشرق الأوسط') else 'دولي')
+            return f'<a href="{esc_t(x.get("url","#"))}" target="_blank" rel="noopener"><span class="tickerCat">[{label}]</span>{esc_t(x.get("title",""))}</a>'
+        latest=[x for x in td.get('latest',[]) if x.get('title')][:36]
+        breaking=[x for x in td.get('breaking',[]) if x.get('title')][:36]
+        def double(items):
+            block=''.join(make_item(x) for x in items)
+            return f'<div class="tickerSet">{block}</div><div class="tickerSet">{block}</div>'
+        s=re.sub(r'(<div class="tickerWindow"><div class="tickerTrack" id="latestTrack">).*?(</div></div>)',r'\1'+double(latest)+r'\2',s,count=1,flags=re.S)
+        s=re.sub(r'(<div class="breakingWindow"><div class="breakingTrack" id="breakingTrack">).*?(</div></div>)',r'\1'+double(breaking)+r'\2',s,count=1,flags=re.S)
+    except Exception as exc:
+        print('ticker static build skipped:',exc)
+
+# Final runtime controller: refresh data without page reload and preserve continuous movement.
+runtime = r'''<script id="final-ticker-runtime">
 (function(){
   const escT=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
-  const link=x=>x.url||'#';
-  const label=x=>x.category==='عراق'?'العراق':x.category==='مشرق أوسط'?'المشرق الأوسط':'دولي';
-  const item=x=>`<a href="${escT(link(x))}" target="_blank" rel="noopener"><span class="tickerCat">[${escT(label(x))}]</span>${escT(x.title)}</a>`;
-  function put(id,items){
-    const el=document.getElementById(id); if(!el)return;
-    const safe=(items||[]).filter(x=>x&&x.title).slice(0,36);
-    const set=`<div class="tickerSet">${safe.map(item).join('')}</div>`;
-    el.innerHTML=set+set;
-    el.style.animationPlayState='running';
-  }
-  async function loadTicker(){
-    try{
-      const r=await fetch('./ticker.json?ts='+Date.now(),{cache:'no-store'});
-      if(!r.ok)throw new Error('ticker');
-      const d=await r.json();
-      put('latestTrack',d.latest||[]);
-      put('breakingTrack',d.breaking||[]);
-    }catch(e){
-      try{
-        const r=await fetch('./news.json?ts='+Date.now(),{cache:'no-store'}); if(!r.ok)return;
-        const d=await r.json(); const a=(d.items||[]).map(x=>({title:x.title,url:x.url,category:'عراق',breaking:x.breaking}));
-        put('latestTrack',a); put('breakingTrack',a.filter(x=>x.breaking));
-      }catch(_){ }
-    }
-  }
-  loadTicker();
-  setInterval(loadTicker,120000);
+  const make=x=>{const c=x.category==='عراق'?'العراق':(x.category==='مشرق أوسط'||x.category==='المشرق الأوسط'?'المشرق الأوسط':'دولي');return `<a href="${escT(x.url||'#')}" target="_blank" rel="noopener"><span class="tickerCat">[${c}]</span>${escT(x.title)}</a>`};
+  const put=(id,a)=>{const e=document.getElementById(id);if(!e)return;const v=(a||[]).filter(x=>x&&x.title).slice(0,36);if(!v.length)return;const block=v.map(make).join('');e.innerHTML=`<div class="tickerSet">${block}</div><div class="tickerSet">${block}</div>`;e.style.animation='none';void e.offsetWidth;e.style.animation=id==='breakingTrack'?'breakingMove 42s linear infinite':'tickerMove 90s linear infinite';};
+  async function load(){try{const r=await fetch('./ticker.json?ts='+Date.now(),{cache:'no-store'});if(!r.ok)throw 0;const d=await r.json();put('latestTrack',d.latest);put('breakingTrack',d.breaking);}catch(e){}}
+  load();setInterval(load,60000);
 })();
 </script>'''
-    s=s.replace('</body>',runtime+'</body>',1)
+s=re.sub(r'<script id="final-ticker-runtime">.*?</script>','',s,flags=re.S)
+s=s.replace('</body>',runtime+'</body>',1)
 
 p.write_text(s,encoding='utf-8')
-print('تم تثبيت البث المباشر أعلى اليمين وشريط الأخبار العراقي والعربي والدولي والشريط العاجل المتجدد.')
+print('تم تثبيت شريط آخر الأخبار والعاجل بمحتوى ثابت عند البناء وتحديث حي كل دقيقة.')
