@@ -19,6 +19,13 @@ RSS_FEEDS = [
     'https://www.alsumaria.tv/Rss/News/ar/5/رياضة',
     'https://www.alsumaria.tv/Rss/News/ar/49/دوليات',
 ]
+KIRKUK_PAGES = [
+    ('https://www.shafaq.com/ar/tags/كركوك','شفق نيوز'),
+    ('https://964media.com/province/kirkuk/','شبكة 964'),
+    ('https://964media.com/province/kirkuk/page/2/','شبكة 964'),
+    ('https://www.kirkuknow.com/ar','كركوك ناو'),
+]
+KIRKUK_WORDS = ('كركوك','كركوكَ','كركوك،','كركوك.','التون كوبري','التونكوبري','آلتون كوبري','الدبس','داقوق','الحويجة','ليلان','الرشاد','الرياض','الزاب','قره تبه','جيمن','باي حسن','بابا كركر')
 
 def get(url, timeout=12):
     try:
@@ -35,6 +42,10 @@ def host(url):
     except:return ''
 
 def norm_title(v):return re.sub(r'\s+',' ',str(v or '')).strip()
+
+def is_kirkuk(title):
+    t=norm_title(title)
+    return any(k in t for k in KIRKUK_WORDS)
 
 def meta(text,names):
     for name in names:
@@ -79,6 +90,7 @@ def store(raw,typ):
 
 def category(title):
     t=title
+    if is_kirkuk(t):return 'كركوك'
     if any(k in t for k in ('رياضة','كرة','منتخب','مباراة','دوري','اتحاد الكرة','بطولة')):return 'رياضة'
     if any(k in t for k in ('دولار','ذهب','اقتصاد','مصرف','بنك','نفط','استثمار','أسعار','تجارة','بورصة','مالية')):return 'اقتصاد'
     if any(k in t for k in ('حكومة','وزير','رئيس الوزراء','برلمان','نائب','حزب','انتخابات','سياسة')):return 'سياسة'
@@ -89,7 +101,7 @@ def category(title):
 
 def is_breaking(title):return bool(re.search(r'(^|\s)(عاجل|طارئ|تحديث عاجل|تحذير عاجل)(\s|$)|انفجار|هجوم|هزة أرضية|زلزال|حريق كبير|اشتباك|قتلى|ضحايا',title,re.I))
 
-def parse_feed(url):
+def parse_feed(url,source='السومرية نيوز'):
     raw,typ,final=get(url)
     if not raw:return []
     try:root=ET.fromstring(raw)
@@ -97,22 +109,44 @@ def parse_feed(url):
     rows=[]
     for item in root.findall('.//item'):
         title=norm_title(item.findtext('title') or ''); link=clean_url(item.findtext('link'),final); pub=item.findtext('pubDate') or item.findtext('{http://purl.org/dc/elements/1.1/}date') or ''
-        if title and link:rows.append((title,link,pub,'السومرية نيوز'))
+        if title and link:rows.append((title,link,pub,source))
     return rows
 
-def shafaq_rows():
-    raw,typ,final=get('https://www.shafaq.com/ar',12)
+def page_rows(url,source):
+    raw,typ,final=get(url,12)
     if not raw:return []
     text=raw.decode('utf-8','ignore'); rows=[]; seen=set()
     for m in re.finditer(r'<a[^>]+href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',text,re.I|re.S):
         href=clean_url(m.group(1),final); title=norm_title(re.sub('<[^>]+>',' ',m.group(2)))
-        if not title or len(title)<12 or href in seen:continue
-        if host(href).endswith('shafaq.com') and '/ar/' in href and not any(x in href for x in ('/ar/rss','/ar/contact','/ar/tags')):
-            seen.add(href);rows.append((title,href,'','شفق نيوز'))
-        if len(rows)>=50:break
-    return rows
+        title=html.unescape(title)
+        if not title or len(title)<10 or href in seen:continue
+        h=host(href)
+        if (h.endswith('shafaq.com') and '/ar/' in href) or h.endswith('964media.com') or h.endswith('kirkuknow.com'):
+            if any(x in href for x in ('/tags/','/province/','/category/','/ar$')):continue
+            seen.add(href);rows.append((title,href,'',source))
+    return rows[:100]
+
+def kirkuk_rows():
+    out=[];seen=set()
+    with ThreadPoolExecutor(max_workers=len(KIRKUK_PAGES)) as ex:
+        fs=[ex.submit(page_rows,u,s) for u,s in KIRKUK_PAGES]
+        for f in as_completed(fs):
+            try:got=f.result()
+            except Exception:got=[]
+            for row in got:
+                if not is_kirkuk(row[0]):continue
+                key=row[1]
+                if key not in seen:seen.add(key);out.append(row)
+    return out
+
+def shafaq_rows():
+    return page_rows('https://www.shafaq.com/ar','شفق نيوز')
 
 rows=[];seen=set()
+# أخبار كركوك تُجمع أولاً من صفحات مخصصة للمحافظة ثم من الخلاصات العراقية العامة.
+for row in kirkuk_rows():
+    key=(row[0],row[1])
+    if key not in seen:seen.add(key);rows.append(row)
 with ThreadPoolExecutor(max_workers=len(RSS_FEEDS)) as ex:
     fs=[ex.submit(parse_feed,u) for u in RSS_FEEDS]
     for f in as_completed(fs):
@@ -121,11 +155,11 @@ with ThreadPoolExecutor(max_workers=len(RSS_FEEDS)) as ex:
         for row in got:
             key=(row[0],row[1])
             if key not in seen:seen.add(key);rows.append(row)
-if len(rows)<20:
+if len(rows)<40:
     for row in shafaq_rows():
         key=(row[0],row[1])
         if key not in seen:seen.add(key);rows.append(row)
-rows=rows[:100]
+rows=rows[:180]
 
 def enrich(row):
     title,url,pub,source=row; raw,typ,final=get(url,12)
@@ -133,7 +167,7 @@ def enrich(row):
     text=raw.decode('utf-8','ignore'); image_raw,image_typ=extract_image(text,final)
     if not image_raw:return None
     final=canonical(text,final); title=norm_title(meta(text,['og:title','twitter:title']) or title)
-    return {'title':title,'url':final,'category':category(title),'published':pub,'image':store(image_raw,image_typ),'original_image':store(image_raw,image_typ),'source_url':final,'source_name':source,'breaking':is_breaking(title)}
+    return {'title':title,'url':final,'category':category(title),'published':pub,'image':store(image_raw,image_typ),'original_image':store(image_raw,image_typ),'source_url':final,'source_name':source,'breaking':is_breaking(title),'kirkuk':is_kirkuk(title)}
 
 items=[];seen_titles=set();seen_urls=set()
 with ThreadPoolExecutor(max_workers=18) as ex:
@@ -144,8 +178,10 @@ with ThreadPoolExecutor(max_workers=18) as ex:
         if not item or not item.get('image'):continue
         if item['url'] in seen_urls or item['title'] in seen_titles:continue
         seen_urls.add(item['url']);seen_titles.add(item['title']);items.append(item)
-        if len(items)>=36:break
-items.sort(key=lambda x:x.get('published',''),reverse=True)
+items.sort(key=lambda x:(not x.get('kirkuk',False),x.get('published','')),reverse=False)
+# نحافظ على أولوية كركوك، مع إبقاء الأخبار العراقية والعربية والدولية ضمن الصفحة الرئيسية.
+items=items[:48]
 if len(items)<20:raise SystemExit(f'لم يتم العثور على 20 خبراً بصور أصلية من صفحات الناشرين. المتاح: {len(items)}')
-Path('news.json').write_text(json.dumps({'updated_at':datetime.now(timezone.utc).isoformat(),'items':items[:36]},ensure_ascii=False,indent=2),encoding='utf-8')
-print('تم تحديث الأخبار:',len(items[:36]),'خبراً من خلاصات الناشرين وصفحاتهم الأصلية فقط.')
+Path('news.json').write_text(json.dumps({'updated_at':datetime.now(timezone.utc).isoformat(),'items':items},ensure_ascii=False,indent=2),encoding='utf-8')
+k=sum(1 for x in items if x.get('kirkuk'))
+print('تم تحديث الأخبار:',len(items),'خبراً — أخبار كركوك:',k,'— مع أولوية التجميع.')
