@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T18:25:33.224534+00:00",
+  "updated_at": "2026-09-07T18:44:26.375226+00:00",
   "latest": [
     {
       "title": "الجيش الإسرائيلي ينفذ تفجيرا كبيرا جنوبي لبنان",
@@ -21,13 +21,6 @@
       "category": "عراق",
       "published": "2026-09-07T18:22:00+00:00",
       "breaking": true
-    },
-    {
-      "title": "قرار ايراني يخص المعتدين على الطلبة العراقيين",
-      "url": "https://www.alsumaria.tv/news/international/575317/%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%AE%D8%B5-%D8%A7%D9%84%D9%85%D8%B9%D8%AA%D8%AF%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%8A%D9%86",
-      "category": "عراق",
-      "published": "2026-09-07T14:42:59+00:00",
-      "breaking": false
     },
     {
       "title": "السومرية نيوز تنشر نص مقترح النشيد الوطني الجديد",
@@ -139,6 +132,13 @@
       "url": "https://www.alsumaria.tv/Entertainment-News/575334/sports/%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A8%D9%8A%D9%86-%D8%B2%D9%88%D8%AC%D8%A9-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D9%88%D8%AD%D8%A8%D9%8A%D8%A8%D8%AA%D9%87-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%D8%A9",
       "category": "عراق",
       "published": "2026-09-07T17:44:49+00:00",
+      "breaking": false
+    },
+    {
+      "title": "جدول أعمال جلسة البرلمان يوم الخميس المقبل",
+      "url": "https://www.alsumaria.tv/news/politics/575337/%D8%AC%D8%AF%D9%88%D9%84-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%AC%D9%84%D8%B3%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
+      "category": "عراق",
+      "published": "2026-09-07T18:25:49+00:00",
       "breaking": false
     },
     {
@@ -317,6 +317,13 @@
       "breaking": false
     },
     {
+      "title": "فرنسا: خطط إرسال أنظمة دفاع جوي إلى أوكرانيا تمضي قدماً",
+      "url": "https://aawsat.com/node/5315755",
+      "category": "دولي",
+      "published": "Mon, 07 Sep 2026 19:43:38 +0100",
+      "breaking": false
+    },
+    {
       "title": "واشنطن تتحدث عن «تقدم جوهري» نحو محادثات ثلاثية جديدة بشأن أوكرانيا",
       "url": "https://aawsat.com/node/5315750",
       "category": "دولي",
@@ -447,13 +454,6 @@
       "url": "https://aawsat.com/node/5315450",
       "category": "دولي",
       "published": "Mon, 07 Sep 2026 00:51:41 +0100",
-      "breaking": false
-    },
-    {
-      "title": "ويتكوف: على روسيا وأوكرانيا تقديم «تنازلات» لإنهاء الحرب",
-      "url": "https://aawsat.com/node/5315383",
-      "category": "دولي",
-      "published": "Sun, 06 Sep 2026 18:56:48 +0100",
       "breaking": false
     },
     {
