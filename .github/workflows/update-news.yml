@@ -36,11 +36,13 @@ jobs:
           mkdir -p news assets/news
           printf '{"updated_at":"","items":[]}' > news.json
       - name: Validate scripts
-        run: python -m py_compile scripts/update_news.py scripts/prioritize_kirkuk.py scripts/apply_news_template.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py scripts/social_slogan.py
+        run: python -m py_compile scripts/update_news.py scripts/prioritize_kirkuk.py scripts/apply_news_template.py scripts/dedupe_news_images.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py scripts/social_slogan.py
       - name: Fetch Iraq and dedicated Kirkuk news sources
         run: python scripts/update_news.py
       - name: Prioritize Kirkuk and newest news
         run: python scripts/prioritize_kirkuk.py
+      - name: Remove duplicate or broken news images
+        run: python scripts/dedupe_news_images.py
       - name: Keep raw original news images without overlays
         run: python scripts/apply_news_template.py
       - name: Generate article pages and feeds
@@ -64,11 +66,14 @@ jobs:
           assert len(items) >= 20
           assert all(x.get('title') and x.get('url') and x.get('image') and x.get('original_image') for x in items)
           assert all('news.google.com' not in x['url'] and 'bing.com' not in x['url'] and 'google.com' not in x['url'] for x in items)
+          image_paths=[]
           for x in items:
               p=Path(x['image'].replace('./','')); o=Path(x['original_image'].replace('./',''))
               assert p.exists() and o.exists()
               assert p == o
+              image_paths.append(x['image'])
               with Image.open(p) as im: assert im.width>=360 and im.height>=220
+          assert len(image_paths) == len(set(image_paths)), 'توجد صور مكررة بين الأخبار'
           kirkuk=[x for x in items if x.get('kirkuk') or x.get('category')=='كركوك']
           assert len(kirkuk) >= 1, 'لا توجد أخبار كركوك'
           t=json.loads(Path('ticker.json').read_text(encoding='utf-8'))
@@ -82,7 +87,7 @@ jobs:
           assert page.count('social') >= 2 and 'نعلم لتعلم' in page
           script=Path('scripts/update_news.py').read_text(encoding='utf-8').lower()
           for bad in ('bing.com/images','google.com/search?','commons.wikimedia.org','search_engine(','wiki_images('): assert bad not in script, bad
-          print('STRICT OK:',len(items),'news / Kirkuk',len(kirkuk),' / raw images /',len(t['latest']),'ticker items')
+          print('STRICT OK:',len(items),'news / Kirkuk',len(kirkuk),' / unique raw images /',len(image_paths),'ticker items',len(t['latest']))
           PY
       - name: Commit and push
         run: |
@@ -90,5 +95,5 @@ jobs:
           git config user.email 'actions@users.noreply.github.com'
           git add -A
           if git diff --cached --quiet; then echo 'لا توجد تغييرات.'; exit 0; fi
-          git commit -m 'إضافة أولوية أخبار كركوك والتحديث المستمر'
+          git commit -m 'منع الصور المكررة والمكسورة في واجهة الأخبار'
           git push origin main
