@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T20:11:06.270905+00:00",
+  "updated_at": "2026-09-07T20:28:16.699206+00:00",
   "items": [
     {
       "title": "الحشد والجيش ينفذان عملية دهم وتفتيش في قاطع البشير جنوب غربي كركوك",
@@ -302,21 +302,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/131360512b1b.html"
     },
     {
-      "title": "هاتف اقتصادي جديد من سامسونغ",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575322/%D9%87%D8%A7%D8%AA%D9%81-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%85%D9%86-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%BA",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-07T15:31:02+00:00",
-      "image": "./assets/news/d699360caa9e54f4b2217fe7.webp",
-      "original_image": "./assets/news/d699360caa9e54f4b2217fe7.webp",
-      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575322/%D9%87%D8%A7%D8%AA%D9%81-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%85%D9%86-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%BA",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f9ad18bae1d7.html"
-    },
-    {
       "title": "بغداد والمحافظات على موعد مع 10 مستشفيات جديدة.. افتتاحها خلال 6 أشهر",
       "url": "https://964media.com/714488/",
       "category": "محليات",
@@ -330,6 +315,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/16c7db2a22e6.html"
+    },
+    {
+      "title": "في سوريا.. قصف مدفعي وتوغل إسرائيلي في ريف القنيطرة",
+      "url": "https://www.alsumaria.tv/news/international/575342/%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-07T20:20:00+00:00",
+      "image": "./assets/news/c13af614f7781b645e56e314.jpg",
+      "original_image": "./assets/news/c13af614f7781b645e56e314.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575342/%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e1f2d1049156.html"
     },
     {
       "title": "جامعة الدول العربية تقرر رفع جميع العقوبات على سوريا",
