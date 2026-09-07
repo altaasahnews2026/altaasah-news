@@ -55,6 +55,25 @@ jobs:
         run: python scripts/force_header_ticker.py
       - name: Add social icons and clear slogan
         run: python scripts/social_slogan.py
+      - name: Polish homepage social preview and image safety
+        run: |
+          python - <<'PY'
+          import json,re
+          from pathlib import Path
+          d=json.loads(Path('news.json').read_text(encoding='utf-8'))
+          items=d.get('items',[])
+          page=Path('index.html').read_text(encoding='utf-8')
+          if items:
+              image=str(items[0].get('image') or '').strip()
+              if image.startswith('./'):
+                  image='https://altaasahnews2026.github.io/altaasah-news/'+image[2:]
+              if image:
+                  page=re.sub(r'(<meta\s+property="og:image"\s+content=")[^"]*(")',r'\g<1>'+image+r'\2',page,count=1)
+          page=page.replace('loading="lazy"','loading="eager"')
+          page=re.sub(r'<img([^>]*?)onerror="[^"]*"([^>]*)>',r'<img\1\2>',page)
+          Path('index.html').write_text(page,encoding='utf-8')
+          print('تم تثبيت معاينة اجتماعية بصورة الخبر الأحدث وتنظيف معالجات الصور غير الآمنة')
+          PY
       - name: Final strict validation
         run: |
           python - <<'PY'
