@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-09-07T16:05:10.019105+00:00",
+  "updated_at": "2026-09-07T16:23:17.771197+00:00",
   "items": [
+    {
+      "title": "توقيف فنان سوري بعد تمجيده بالاسد",
+      "url": "https://www.alsumaria.tv/news/artculture/575325/%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%81%D9%86%D8%A7%D9%86-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%AA%D9%85%D8%AC%D9%8A%D8%AF%D9%87-%D8%A8%D8%A7%D9%84%D8%A7%D8%B3%D8%AF",
+      "category": "محليات",
+      "published": "Mon, 07 Sep 2026 16:00:24 GMT",
+      "image": "./assets/news/788ec40976134786e7544c78.jpg",
+      "original_image": "./assets/news/788ec40976134786e7544c78.jpg",
+      "source_url": "https://www.alsumaria.tv/news/artculture/575325/%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%81%D9%86%D8%A7%D9%86-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%AA%D9%85%D8%AC%D9%8A%D8%AF%D9%87-%D8%A8%D8%A7%D9%84%D8%A7%D8%B3%D8%AF",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/614da7bc5bca.html"
+    },
     {
       "title": "درجات الحرارة في إيطاليا تسجل أعلى معدلاتها الصيفية",
       "url": "https://www.alsumaria.tv/news/international/575324/%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D8%AA%D8%B3%D8%AC%D9%84-%D8%A3%D8%B9%D9%84%D9%89-%D9%85%D8%B9%D8%AF%D9%84%D8%A7%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%B5%D9%8A%D9%81%D9%8A%D8%A9",
@@ -18,8 +30,8 @@
       "url": "https://www.alsumaria.tv/news/miscellaneous/575323/%D9%85%D8%B1%D9%83%D8%A8-%D9%85%D9%88%D8%AC%D9%88%D8%AF-%D9%81%D9%8A-%D8%A3%D8%B7%D8%B9%D9%85%D8%A9-%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9-%D9%8A%D8%B3%D8%A7%D8%B9%D8%AF-%D8%B9%D9%84%D9%89-%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%81%D8%A7%D8%AE-%D9%88%D8%B9%D8%B3%D8%B1-%D8%A7%D9%84%D9%87%D8%B6%D9%85",
       "category": "محليات",
       "published": "Mon, 07 Sep 2026 15:46:00 GMT",
-      "image": "./assets/news/d2f23abf310de3742e41e340.jpg",
-      "original_image": "./assets/news/d2f23abf310de3742e41e340.jpg",
+      "image": "./assets/news/ed0a2033a1828047aa1185de.jpg",
+      "original_image": "./assets/news/ed0a2033a1828047aa1185de.jpg",
       "source_url": "https://www.alsumaria.tv/news/miscellaneous/575323/%D9%85%D8%B1%D9%83%D8%A8-%D9%85%D9%88%D8%AC%D9%88%D8%AF-%D9%81%D9%8A-%D8%A3%D8%B7%D8%B9%D9%85%D8%A9-%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9-%D9%8A%D8%B3%D8%A7%D8%B9%D8%AF-%D8%B9%D9%84%D9%89-%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%81%D8%A7%D8%AE-%D9%88%D8%B9%D8%B3%D8%B1-%D8%A7%D9%84%D9%87%D8%B6%D9%85",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -228,18 +240,6 @@
       "source_name": "السومرية نيوز",
       "breaking": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1d7800e5b621.html"
-    },
-    {
-      "title": "التربية تعيد العمل بنظام المحاولات لطلبة السادس الإعدادي (وثيقة)",
-      "url": "https://www.alsumaria.tv/news/localnews/575304/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A8%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3-%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%88%D8%AB%D9%8A%D9%82%D8%A9",
-      "category": "محليات",
-      "published": "Mon, 07 Sep 2026 12:01:22 GMT",
-      "image": "./assets/news/e4f83f9710737b807226957f.jpg",
-      "original_image": "./assets/news/e4f83f9710737b807226957f.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/575304/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A8%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3-%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%88%D8%AB%D9%8A%D9%82%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/84780a181a2d.html"
     }
   ]
 }
