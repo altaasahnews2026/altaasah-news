@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T19:28:59.246574+00:00",
+  "updated_at": "2026-09-07T19:42:47.507937+00:00",
   "items": [
     {
       "title": "الحشد والجيش ينفذان عملية دهم وتفتيش في قاطع البشير جنوب غربي كركوك",
@@ -17,13 +17,28 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/850e87a3d8be.html"
     },
     {
+      "title": "الكشف عن وساطة لصياغة اتفاق بين طهران وواشنطن",
+      "url": "https://www.alsumaria.tv/news/international/575340/%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D9%88%D8%B3%D8%A7%D8%B7%D8%A9-%D9%84%D8%B5%D9%8A%D8%A7%D8%BA%D8%A9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A8%D9%8A%D9%86-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D9%88%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-07T19:35:00+00:00",
+      "image": "./assets/news/af04da8786cb9d33fc27b9a8.png",
+      "original_image": "./assets/news/af04da8786cb9d33fc27b9a8.png",
+      "source_url": "https://www.alsumaria.tv/news/international/575340/%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D9%88%D8%B3%D8%A7%D8%B7%D8%A9-%D9%84%D8%B5%D9%8A%D8%A7%D8%BA%D8%A9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A8%D9%8A%D9%86-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D9%88%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f015d39c9ff7.html"
+    },
+    {
       "title": "غرق طفلة داخل بحيرة الزوراء في بغداد",
       "url": "https://www.alsumaria.tv/news/localnews/575339/%D8%BA%D8%B1%D9%82-%D8%B7%D9%81%D9%84%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A8%D8%AD%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D9%88%D8%B1%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-07T19:05:54+00:00",
-      "image": "./assets/news/5b2bba8fea961a18c98e172b.jpg",
-      "original_image": "./assets/news/5b2bba8fea961a18c98e172b.jpg",
+      "image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
+      "original_image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/575339/%D8%BA%D8%B1%D9%82-%D8%B7%D9%81%D9%84%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A8%D8%AD%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D9%88%D8%B1%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -37,8 +52,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-07T18:49:20+00:00",
-      "image": "./assets/news/15ea73ecd04f49860422548b.jpg",
-      "original_image": "./assets/news/15ea73ecd04f49860422548b.jpg",
+      "image": "./assets/news/01eb0e2d211fa4929b2a79c9.jpg",
+      "original_image": "./assets/news/01eb0e2d211fa4929b2a79c9.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/575338/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A8%D9%8A%D9%86-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D9%88%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%8A%D9%84%D9%82%D9%8A-%D8%A8%D8%B8%D9%84%D8%A7%D9%84%D9%87-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -255,21 +270,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/91d9bc4ae454.html"
-    },
-    {
-      "title": "رئيس الوزراء يصدر توجيها يخص الخريجين القدامى",
-      "url": "https://www.alsumaria.tv/news/politics/575320/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%B5%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7-%D9%8A%D8%AE%D8%B5-%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D8%AC%D9%8A%D9%86-%D8%A7%D9%84%D9%82%D8%AF%D8%A7%D9%85%D9%89",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-07T15:13:42+00:00",
-      "image": "./assets/news/fa912ac251c89e629ab0004b.jpg",
-      "original_image": "./assets/news/fa912ac251c89e629ab0004b.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/575320/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%B5%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7-%D9%8A%D8%AE%D8%B5-%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D8%AC%D9%8A%D9%86-%D8%A7%D9%84%D9%82%D8%AF%D8%A7%D9%85%D9%89",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e704d92d348c.html"
     },
     {
       "title": "روسيا تعلن تدمير 32 مسيرة جوية معادية فوق مناطقها",
