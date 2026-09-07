@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T21:43:20.180169+00:00",
+  "updated_at": "2026-09-07T21:55:07.467379+00:00",
   "items": [
     {
       "title": "الحشد والجيش ينفذان عملية دهم وتفتيش في قاطع البشير جنوب غربي كركوك",
@@ -21,7 +21,7 @@
       "url": "https://www.alsumaria.tv/news/politics/575345/%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82%D9%8A-%D9%8A%D9%82%D8%B1%D8%B1-%D8%A7%D9%84%D9%85%D8%B6%D9%8A-%D8%A8%D8%AA%D8%B3%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AA%D8%A8%D9%82%D9%8A%D9%86",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-07T21:00:00+00:00",
+      "published": "2026-09-07T20:55:00+00:00",
       "image": "./assets/news/4ff0f6bd16590b76c828512e.jpg",
       "original_image": "./assets/news/4ff0f6bd16590b76c828512e.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/575345/%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82%D9%8A-%D9%8A%D9%82%D8%B1%D8%B1-%D8%A7%D9%84%D9%85%D8%B6%D9%8A-%D8%A8%D8%AA%D8%B3%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AA%D8%A8%D9%82%D9%8A%D9%86",
@@ -29,7 +29,7 @@
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/51faef06fb80.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b767f5964552.html"
     },
     {
       "title": "دخول الجيش إلى أربيل “تصعيد إعلامي” أوقفه المالكي وحمودي",
@@ -257,21 +257,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/63a58c4a21da.html"
     },
     {
-      "title": "تحذير من مخاطر الذكاء الاصطناعي.. يصارع وجود البشرية",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575326/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%B5%D8%A7%D8%B1%D8%B9-%D9%88%D8%AC%D9%88%D8%AF-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-07T16:23:28+00:00",
-      "image": "./assets/news/b417043c3834f7140d874289.jpg",
-      "original_image": "./assets/news/b417043c3834f7140d874289.jpg",
-      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575326/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%B5%D8%A7%D8%B1%D8%B9-%D9%88%D8%AC%D9%88%D8%AF-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/42e2dbd26fcb.html"
-    },
-    {
       "title": "بغداد والمحافظات على موعد مع 10 مستشفيات جديدة.. افتتاحها خلال 6 أشهر",
       "url": "https://964media.com/714488/",
       "category": "محليات",
@@ -285,6 +270,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/16c7db2a22e6.html"
+    },
+    {
+      "title": "العثور على منصات إطلاق قذائف قرب خطوط الطاقة غربي ألمانيا",
+      "url": "https://www.alsumaria.tv/news/international/575346/%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%82%D8%B0%D8%A7%D8%A6%D9%81-%D9%82%D8%B1%D8%A8-%D8%AE%D8%B7%D9%88%D8%B7-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7",
+      "category": "محليات",
+      "region": "عربي ودولي",
+      "published": "2026-09-07T21:46:00+00:00",
+      "image": "./assets/news/6718fa6755be403931c324a7.jpg",
+      "original_image": "./assets/news/6718fa6755be403931c324a7.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575346/%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%82%D8%B0%D8%A7%D8%A6%D9%81-%D9%82%D8%B1%D8%A8-%D8%AE%D8%B7%D9%88%D8%B7-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ebe3d453b007.html"
     },
     {
       "title": "الدفاع اليمنية تعلن حسم قرار تحرير صنعاء من الحوثيين",
