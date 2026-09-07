@@ -1,104 +1,90 @@
-name: تحديث أخبار التاسعة نيوز
-# نشر جذري: كل تشغيل يبدأ من آخر main ثم يولد الموقع ويفحص المخرجات الفعلية قبل الحفظ.
+name: تحديث الأخبار اليومية
+
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '*/30 * * * *'
   push:
     branches: [main]
+  schedule:
+    - cron: '*/10 * * * *'
+
 permissions:
   contents: write
+
 concurrency:
   group: altaasah-news-update
   cancel-in-progress: true
+
 jobs:
-  update-news:
+  update:
     if: github.event_name != 'push' || !contains(github.event.head_commit.message, 'تحديث الأخبار والصفحات والصور وRSS')
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
-      - name: تحميل الملفات
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-      - name: مزامنة الفرع قبل التوليد
+          fetch-depth: 1
+
+      - name: Sync main
+        run: git pull --rebase origin main
+
+      - name: Install Python packages
+        run: python -m pip install --upgrade pip && pip install Pillow arabic-reshaper python-bidi
+
+      - name: Remove all old published news and archives
         run: |
-          git fetch origin main
-          git reset --hard origin/main
-      - name: تثبيت المكتبات
-        run: pip install pillow arabic-reshaper python-bidi
-      - name: فحص السكربتات
-        run: python -m py_compile scripts/update_news.py scripts/fix_site.py scripts/generate_articles.py scripts/apply_news_template.py
-      - name: جلب الأخبار والصور الحقيقية
+          rm -rf news
+          rm -rf assets/news
+          mkdir -p news assets/news
+          printf '{"updated_at":"","items":[]}' > news.json
+
+      - name: Validate scripts
+        run: python -m py_compile scripts/update_news.py scripts/apply_news_template.py scripts/generate_articles.py scripts/fix_site.py
+
+      - name: Fetch only current-day news from publisher pages
         run: python scripts/update_news.py
-      - name: تركيب صور الأخبار داخل القالب
+
+      - name: Build the official news image template
         run: python scripts/apply_news_template.py
-      - name: إنشاء الصفحات وRSS
+
+      - name: Generate article pages and feeds
         run: python scripts/generate_articles.py
-      - name: إصلاح الواجهة والشريطين
-        run: |
-          python scripts/fix_site.py
-          python - <<'PY'
-          from pathlib import Path
-          import re
-          p=Path('index.html'); s=p.read_text(encoding='utf-8')
-          bars='''<div class="breakingTicker" id="breakingTicker"><b>● عاجل</b><div class="breakingWindow"><div class="breakingTrack" id="breakingTrack"></div></div></div><div class="ticker" id="latestTicker"><b>آخر الأخبار</b><div class="tickerWindow"><div class="tickerTrack" id="latestTrack"></div></div></div>'''
-          if 'id="breakingTrack"' not in s or 'id="latestTrack"' not in s:
-              start=s.find('<div class="ticker">'); end=s.find('<main',start)
-              if start>=0 and end>=0:s=s[:start]+bars+s[end:]
-          css='''<style id="news-bars-style">.breakingTicker{height:42px;background:#b4000b;color:#fff;display:flex;overflow:hidden}.breakingTicker>b,.ticker>b{min-width:92px;display:flex;align-items:center;justify-content:center;font-weight:900;flex:0 0 92px}.breakingTicker>b{background:#e21d2b}.breakingWindow,.tickerWindow{overflow:hidden;flex:1;direction:rtl;position:relative}.breakingTrack,.tickerTrack{height:100%;display:flex;align-items:center;width:max-content;white-space:nowrap;will-change:transform;direction:rtl}.breakingTrack{animation:breakingMove 34s linear infinite}.ticker{height:38px;background:#fff;display:flex;border-bottom:1px solid var(--line)}.ticker>b{background:var(--navy2);color:#fff}.tickerTrack{animation:tickerMove 65s linear infinite}.breakingSet,.tickerSet{display:flex;align-items:center;gap:40px;direction:rtl;padding-right:40px;padding-left:40px;flex-shrink:0}.breakingTrack a{color:#fff;font-size:11px;font-weight:900}.tickerTrack a{color:var(--ink);font-size:10px;font-weight:800}.breakingTrack:hover,.tickerTrack:hover{animation-play-state:paused}@keyframes breakingMove{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}@keyframes tickerMove{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}</style>'''
-          s=re.sub(r'<style id="news-bars-style">.*?</style>','',s,flags=re.S)
-          s=s.replace('</head>',css+'</head>',1)
-          js='''<script id="news-bars-script">(()=>{const esc=v=>String(v??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));const render=d=>{const a=(d?.items||[]).filter(x=>x?.title),l=a.slice(0,15),b=a.filter(x=>/عاجل|طارئ|تحذير عاجل|هجوم|انفجار|زلزال|حريق كبير|اشتباك|قتلى|ضحايا/.test(x.title)).slice(0,8),mk=(x,c,e)=>{const h=x.length?x.map(v=>`<a href="${esc(v.article_url||v.url||'#')}">${esc(v.title)}</a>`).join(''):e;return `<div class="${c}">${h}</div>`};for(const [id,x,c,e] of [['breakingTrack',b,'breakingSet','لا توجد أخبار عاجلة الآن'],['latestTrack',l,'tickerSet','لا توجد أخبار حالياً']]){const el=document.getElementById(id);if(el){const h=mk(x,c,e);el.innerHTML=h+h}}};const load=()=>fetch('./news.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('news.json');return r.json()}).then(render).catch(()=>{});document.readyState==='loading'?document.addEventListener('DOMContentLoaded',load):load()})();</script>'''
-          s=re.sub(r'<script id="news-bars-script">.*?</script>','',s,flags=re.S)
-          s=s.replace('</body>',js+'</body>')
-          s=s.replace("const DATA='./news.json?v='+Date.now();","const DATA='./news.json';")
-          s=s.replace("fetch(DATA).then(r=>{if(!r.ok)throw new Error('news.json');return r.json()})", "fetch(DATA,{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('news.json');return r.json()})")
-          p.write_text(s,encoding='utf-8')
-          PY
-      - name: تثبيت روابط الصور
+
+      - name: Final strict validation
         run: |
           python - <<'PY'
           import json
           from pathlib import Path
-          p=Path('news.json'); d=json.loads(p.read_text(encoding='utf-8')); base='https://altaasahnews2026.github.io/altaasah-news/'
-          for x in d.get('items',[]):
-              if str(x.get('image','')).startswith('./'): x['image']=base+str(x['image'])[2:]
-          p.write_text(json.dumps(d,ensure_ascii=False,indent=2),encoding='utf-8')
-          PY
-      - name: فحص نهائي صارم للصور والصفحات
-        run: |
-          python - <<'PY'
-          import json, re
-          from pathlib import Path
           from PIL import Image
           d=json.loads(Path('news.json').read_text(encoding='utf-8'))
-          s=Path('index.html').read_text(encoding='utf-8')
           items=d.get('items',[])
-          assert items,'لا توجد أخبار'
-          assert all(x.get('image') for x in items),'خبر بلا صورة'
-          assert all('no-image-default' not in str(x.get('image','')) and 'emergency' not in str(x.get('image','')).lower() and 'fallback' not in str(x.get('image','')).lower() for x in items),'تم اكتشاف صورة عامة/احتياطية'
+          assert len(items) >= 20, f'عدد الأخبار أقل من 20: {len(items)}'
+          assert all(x.get('title') and x.get('url') and x.get('image') and x.get('original_image') for x in items)
+          assert all('news.google.com' not in x['url'] and 'bing.com' not in x['url'] and 'google.com' not in x['url'] for x in items)
           for x in items:
-              u=str(x['image']).split('?')[0]
-              assert '/assets/news/' in u, f'مسار صورة غير صحيح: {u}'
-              rel=u.split('/assets/news/',1)[1]
-              f=Path('assets/news')/rel
-              assert f.exists() and f.is_file(), f'ملف الصورة غير موجود: {f}'
-              with Image.open(f) as im: im.verify()
-              article=Path('news')/(Path(str(x['article_url'])).name)
-              assert article.exists(), f'صفحة الخبر مفقودة: {article}'
-              a=article.read_text(encoding='utf-8')
-              assert re.search(r'<img[^>]+class="hero"[^>]+src="https://',a), f'صورة hero مفقودة: {article}'
-          assert len(items)>=20, 'عدد الأخبار أقل من الحد المطلوب'
-          assert 'const DATA=\'./news.json\';' in s
-          assert 'id="breakingTrack"' in s and 'id="latestTrack"' in s and 'id="news-bars-script"' in s
-          print('نجح الفحص الجذري:',len(items),'خبراً، وكل الصور والصفحات موجودة وصالحة.')
+              p=Path(x['image'].replace('./',''))
+              o=Path(x['original_image'].replace('./',''))
+              assert p.exists() and o.exists(), (x['title'],p,o)
+              with Image.open(p) as im:
+                  assert im.size == (1254,1254), (x['title'],im.size)
+              with Image.open(o) as im:
+                  assert im.width >= 360 and im.height >= 220, (x['title'],im.size)
+              assert 'news-template-' in p.name
+              assert p.name != o.name
+          script=Path('scripts/update_news.py').read_text(encoding='utf-8').lower()
+          for bad in ('bing.com/images','google.com/search?','commons.wikimedia.org','search_engine(','wiki_images('):
+              assert bad not in script, bad
+          print('STRICT OK:', len(items), 'items')
           PY
-      - name: حفظ ونشر
+
+      - name: Commit and push
         run: |
-          git config user.name "Altaasah News Bot"
-          git config user.email "actions@github.com"
-          git add news.json news/ sitemap.xml feed.xml assets/news/ index.html scripts/ .github/workflows/update-news.yml
-          if git diff --cached --quiet; then echo 'لا توجد تغييرات'; exit 0; fi
+          git config user.name 'التاسعة نيوز'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'لا توجد تغييرات.'
+            exit 0
+          fi
           git commit -m 'تحديث الأخبار والصفحات والصور وRSS'
-          git push origin HEAD:main
+          git push origin main
