@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T22:27:25.363281+00:00",
+  "updated_at": "2026-09-07T22:41:13.300043+00:00",
   "latest": [
     {
       "title": "الجيش الإسرائيلي ينفذ تفجيرا كبيرا جنوبي لبنان",
@@ -324,31 +324,31 @@
       "breaking": false
     },
     {
-      "title": "السعودية وألمانيا تؤكدان أهمية بذل الجهود لضمان حرية الملاحة",
-      "url": "https://aawsat.com/node/5315765",
+      "title": "الصين تصدر توجيهات بمقاضاة مرتكبي مخالفات الذكاء الاصطناعي",
+      "url": "https://aawsat.com/node/5315696",
       "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 20:21:36 +0100",
+      "published": "Mon, 07 Sep 2026 16:18:13 +0100",
       "breaking": false
     },
     {
-      "title": "مباحثات سعودية في القاهرة تتناول العلاقات والمستجدات الإقليمية والدولية",
-      "url": "https://aawsat.com/node/5315744",
+      "title": "كوريا الشمالية وروسيا تدشنان أول جسر بين البلدين",
+      "url": "https://aawsat.com/node/5315594",
       "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 18:05:30 +0100",
+      "published": "Mon, 07 Sep 2026 11:56:44 +0100",
       "breaking": false
     },
     {
-      "title": "السعودية وبنغلاديش تبحثان أمن الملاحة وأوجه التعاون العسكري",
-      "url": "https://aawsat.com/node/5315743",
+      "title": "ثوران بركاني يمدّد إغلاق 4 مطارات في إندونيسيا ويعطل آلاف الرحلات",
+      "url": "https://aawsat.com/node/5315521",
       "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 18:04:28 +0100",
-      "breaking": false
+      "published": "Mon, 07 Sep 2026 09:11:18 +0100",
+      "breaking": true
     },
     {
-      "title": "أمير القصيم: الملك المؤسس لم يتردد في الاستفادة من التقنيات التي تخدم الدولة والمجتمع",
-      "url": "https://aawsat.com/node/5315734",
+      "title": "زعيم كوريا الشمالية يتعهد بتحويل بحرية بلاده إلى قوة نووية",
+      "url": "https://aawsat.com/node/5315435",
       "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 17:35:39 +0100",
+      "published": "Sun, 06 Sep 2026 23:48:56 +0100",
       "breaking": false
     },
     {
@@ -540,6 +540,13 @@
       "url": "https://aawsat.com/node/5314654",
       "category": "مشرق أوسط",
       "published": "Fri, 04 Sep 2026 12:56:08 +0100",
+      "breaking": true
+    },
+    {
+      "title": "ثوران بركاني يمدّد إغلاق 4 مطارات في إندونيسيا ويعطل آلاف الرحلات",
+      "url": "https://aawsat.com/node/5315521",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 09:11:18 +0100",
       "breaking": true
     },
     {
