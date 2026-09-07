@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-09-07T12:58:50.728245+00:00",
+  "updated_at": "2026-09-07T13:01:24.180755+00:00",
   "latest": [
-    {
-      "title": "من 6 أطفال في التسعينيات إلى 2.. لماذا تراجعت الرغبة العراقية بالإنجاب؟",
-      "url": "https://www.alsumaria.tv/news/localnews/575288/%D9%85%D9%86-6-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%B3%D8%B9%D9%8A%D9%86%D9%8A%D8%A7%D8%AA-%D8%A5%D9%84%D9%89-2-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9%D8%AA-%D8%A7%D9%84%D8%B1%D8%BA%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D8%A7%D8%A8%D8%9F",
-      "category": "عراق",
-      "published": "Mon, 07 Sep 2026 09:06:52 GMT",
-      "breaking": false
-    },
     {
       "title": "الاتحادية تحسم نزاع أراضي كزة فخرة وجليوخان في نينوى",
       "url": "https://www.alsumaria.tv/news/localnews/575289/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B3%D9%85-%D9%86%D8%B2%D8%A7%D8%B9-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D9%83%D8%B2%D8%A9-%D9%81%D8%AE%D8%B1%D8%A9-%D9%88%D8%AC%D9%84%D9%8A%D9%88%D8%AE%D8%A7%D9%86-%D9%81%D9%8A-%D9%86%D9%8A%D9%86%D9%88%D9%89",
@@ -140,6 +133,13 @@
       "category": "عراق",
       "published": "Mon, 07 Sep 2026 12:47:50 GMT",
       "breaking": false
+    },
+    {
+      "title": "عُمان: إجلاء 16 فردا من ناقلة سعودية بعد تعرضها لهجوم إيراني",
+      "url": "https://www.alsumaria.tv/news/international/575308/%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D8%A5%D8%AC%D9%84%D8%A7%D8%A1-16-%D9%81%D8%B1%D8%AF%D8%A7-%D9%85%D9%86-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B9%D8%B1%D8%B6%D9%87%D8%A7-%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A",
+      "category": "عراق",
+      "published": "Mon, 07 Sep 2026 12:57:28 GMT",
+      "breaking": true
     },
     {
       "title": "الحوثيون ينكِّلون بسكان ريف تعز ويحتجزونهم دروعاً بشرية",
@@ -479,6 +479,13 @@
     }
   ],
   "breaking": [
+    {
+      "title": "عُمان: إجلاء 16 فردا من ناقلة سعودية بعد تعرضها لهجوم إيراني",
+      "url": "https://www.alsumaria.tv/news/international/575308/%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D8%A5%D8%AC%D9%84%D8%A7%D8%A1-16-%D9%81%D8%B1%D8%AF%D8%A7-%D9%85%D9%86-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B9%D8%B1%D8%B6%D9%87%D8%A7-%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A",
+      "category": "عراق",
+      "published": "Mon, 07 Sep 2026 12:57:28 GMT",
+      "breaking": true
+    },
     {
       "title": "هجوم الحوثيين غرب اليمن يختبر صلابة القوات الحكومية",
       "url": "https://aawsat.com/node/5314654",
