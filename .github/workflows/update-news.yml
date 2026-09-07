@@ -23,41 +23,32 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
-
       - name: Sync main
         run: git pull --rebase origin main
-
       - name: Install Python packages
         run: python -m pip install --upgrade pip && pip install Pillow arabic-reshaper python-bidi
-
       - name: Remove all old published news and archives
         run: |
           rm -rf news
           rm -rf assets/news
           mkdir -p news assets/news
           printf '{"updated_at":"","items":[]}' > news.json
-
       - name: Validate scripts
-        run: python -m py_compile scripts/update_news.py scripts/apply_news_template.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py
-
+        run: python -m py_compile scripts/update_news.py scripts/apply_news_template.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py scripts/social_slogan.py
       - name: Fetch only current-day news from publisher pages
         run: python scripts/update_news.py
-
       - name: Build the official news image template
         run: python scripts/apply_news_template.py
-
       - name: Generate article pages and feeds
         run: python scripts/generate_articles.py
-
       - name: Build Iraq + Middle East + international ticker
         run: python scripts/build_ticker.py
-
       - name: Apply live broadcast and continuous ticker UI
         run: python scripts/fix_site.py
-
       - name: Force header and ticker update
         run: python scripts/force_header_ticker.py
-
+      - name: Add social icons and clear slogan
+        run: python scripts/social_slogan.py
       - name: Final strict validation
         run: |
           python - <<'PY'
@@ -66,36 +57,33 @@ jobs:
           from PIL import Image
           d=json.loads(Path('news.json').read_text(encoding='utf-8'))
           items=d.get('items',[])
-          assert len(items) >= 20, f'عدد الأخبار أقل من 20: {len(items)}'
+          assert len(items) >= 20
           assert all(x.get('title') and x.get('url') and x.get('image') and x.get('original_image') for x in items)
           assert all('news.google.com' not in x['url'] and 'bing.com' not in x['url'] and 'google.com' not in x['url'] for x in items)
           for x in items:
               p=Path(x['image'].replace('./','')); o=Path(x['original_image'].replace('./',''))
-              assert p.exists() and o.exists(), (x['title'],p,o)
-              with Image.open(p) as im: assert im.size==(1254,1254), (x['title'],im.size)
-              with Image.open(o) as im: assert im.width>=360 and im.height>=220, (x['title'],im.size)
+              assert p.exists() and o.exists()
+              with Image.open(p) as im: assert im.size==(1254,1254)
+              with Image.open(o) as im: assert im.width>=360 and im.height>=220
               assert 'news-template-' in p.name and p.name != o.name
           t=json.loads(Path('ticker.json').read_text(encoding='utf-8'))
-          assert len(t.get('latest',[])) >= 20, 'شريط آخر الأخبار غير كافٍ'
-          assert any(x.get('category')=='عراق' for x in t['latest']), 'لا توجد أخبار عراقية في الشريط'
-          assert any(x.get('category')=='مشرق أوسط' for x in t['latest']), 'لا توجد أخبار المشرق الأوسط في الشريط'
-          assert any(x.get('category')=='دولي' for x in t['latest']), 'لا توجد أخبار دولية في الشريط'
+          assert len(t.get('latest',[])) >= 20
+          assert any(x.get('category')=='عراق' for x in t['latest'])
+          assert any(x.get('category')=='مشرق أوسط' for x in t['latest'])
+          assert any(x.get('category')=='دولي' for x in t['latest'])
           page=Path('index.html').read_text(encoding='utf-8')
           assert 'البث المباشر' in page and '● عاجل</button>' not in page
           assert 'force-live-ticker-runtime' in page and 'ticker.json' in page
+          assert page.count('social') >= 2 and 'نعلم لتعلم' in page
           script=Path('scripts/update_news.py').read_text(encoding='utf-8').lower()
           for bad in ('bing.com/images','google.com/search?','commons.wikimedia.org','search_engine(','wiki_images('): assert bad not in script, bad
-          print('STRICT OK:',len(items),'news /',len(t['latest']),'ticker items /',len(t.get('breaking',[])),'breaking')
+          print('STRICT OK:',len(items),'news /',len(t['latest']),'ticker items')
           PY
-
       - name: Commit and push
         run: |
           git config user.name 'التاسعة نيوز'
           git config user.email 'actions@users.noreply.github.com'
           git add -A
-          if git diff --cached --quiet; then
-            echo 'لا توجد تغييرات.'
-            exit 0
-          fi
-          git commit -m 'تحديث الأخبار والصفحات والصور وRSS'
+          if git diff --cached --quiet; then echo 'لا توجد تغييرات.'; exit 0; fi
+          git commit -m 'إضافة أيقونات التواصل وتكبير الشعار'
           git push origin main
