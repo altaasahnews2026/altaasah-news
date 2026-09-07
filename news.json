@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T17:39:03.920246+00:00",
+  "updated_at": "2026-09-07T17:51:29.269220+00:00",
   "items": [
     {
       "title": "الحشد والجيش ينفذان عملية دهم وتفتيش في قاطع البشير جنوب غربي كركوك",
@@ -15,6 +15,21 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/850e87a3d8be.html"
+    },
+    {
+      "title": "صراع بين زوجة رونالدو وحبيبته السابقة",
+      "url": "https://www.alsumaria.tv/Entertainment-News/575334/sports/%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A8%D9%8A%D9%86-%D8%B2%D9%88%D8%AC%D8%A9-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D9%88%D8%AD%D8%A8%D9%8A%D8%A8%D8%AA%D9%87-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%D8%A9",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-07T17:44:49+00:00",
+      "image": "./assets/news/3bd2330350d9ab7a52612c38.jpg",
+      "original_image": "./assets/news/3bd2330350d9ab7a52612c38.jpg",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/575334/sports/%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A8%D9%8A%D9%86-%D8%B2%D9%88%D8%AC%D8%A9-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D9%88%D8%AD%D8%A8%D9%8A%D8%A8%D8%AA%D9%87-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e9a957ed578d.html"
     },
     {
       "title": "واقعة اختطاف طريفة وغريبة.. والأمن يوقف 4 أشخاص",
@@ -37,8 +52,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-07T17:15:44+00:00",
-      "image": "./assets/news/b040e39cd5bd88489ef14772.jpg",
-      "original_image": "./assets/news/b040e39cd5bd88489ef14772.jpg",
+      "image": "./assets/news/aeab91c550f84f99e00cefa8.jpg",
+      "original_image": "./assets/news/aeab91c550f84f99e00cefa8.jpg",
       "source_url": "https://www.alsumaria.tv/news/trends-alsumaria/575331/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%86%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B3%D9%85%D8%A7%D9%83-%D9%81%D9%8A-%D8%A7%D8%AD%D8%AF-%D8%A7%D9%87%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D9%88%D9%8A%D8%B2%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -52,8 +67,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-07T17:10:27+00:00",
-      "image": "./assets/news/ad58bfecb55f8eae05d3cf8d.jpg",
-      "original_image": "./assets/news/ad58bfecb55f8eae05d3cf8d.jpg",
+      "image": "./assets/news/e62e251d0018eee74ad2625c.jpg",
+      "original_image": "./assets/news/e62e251d0018eee74ad2625c.jpg",
       "source_url": "https://www.alsumaria.tv/news/artculture/575330/%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%88%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-%D8%B1%D8%A7%D8%BA%D8%A8-%D8%B9%D9%84%D8%A7%D9%85%D8%A9-%D9%8A%D9%83%D8%B4%D9%81-%D8%A7%D9%87%D9%85-%D8%B7%D9%82%D9%88%D8%B3%D9%87-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%AD%D9%81%D9%84%D8%A7%D8%AA",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -272,28 +287,13 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2b60af62621a.html"
     },
     {
-      "title": "تعرف على أعلى المدربين أجرا في العالم",
-      "url": "https://www.alsumaria.tv/Entertainment-News/575313/sports/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A8%D9%8A%D9%86-%D8%A3%D8%AC%D8%B1%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-07T14:00:38+00:00",
-      "image": "./assets/news/375527549dab0620f8aa2c13.png",
-      "original_image": "./assets/news/375527549dab0620f8aa2c13.png",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/575313/sports/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A8%D9%8A%D9%86-%D8%A3%D8%AC%D8%B1%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bee0ee87be70.html"
-    },
-    {
       "title": "الجيش الإسرائيلي ينفذ تفجيرا كبيرا جنوبي لبنان",
       "url": "https://www.alsumaria.tv/news/international/575332/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%86%D9%81%D8%B0-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7-%D9%83%D8%A8%D9%8A%D8%B1%D8%A7-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
       "category": "أمن",
       "region": "عربي ودولي",
       "published": "2026-09-07T17:22:09+00:00",
-      "image": "./assets/news/4cad50c90c214db22e5732b6.jpg",
-      "original_image": "./assets/news/4cad50c90c214db22e5732b6.jpg",
+      "image": "./assets/news/dcf94cc406aa604dad18ccb8.jpg",
+      "original_image": "./assets/news/dcf94cc406aa604dad18ccb8.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575332/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%86%D9%81%D8%B0-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7-%D9%83%D8%A8%D9%8A%D8%B1%D8%A7-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
