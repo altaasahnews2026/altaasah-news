@@ -39,7 +39,7 @@ jobs:
           printf '{"updated_at":"","items":[]}' > news.json
 
       - name: Validate scripts
-        run: python -m py_compile scripts/update_news.py scripts/apply_news_template.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py
+        run: python -m py_compile scripts/update_news.py scripts/apply_news_template.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py
 
       - name: Fetch only current-day news from publisher pages
         run: python scripts/update_news.py
@@ -56,10 +56,13 @@ jobs:
       - name: Apply live broadcast and continuous ticker UI
         run: python scripts/fix_site.py
 
+      - name: Force header and ticker update
+        run: python scripts/force_header_ticker.py
+
       - name: Final strict validation
         run: |
           python - <<'PY'
-          import json,re
+          import json
           from pathlib import Path
           from PIL import Image
           d=json.loads(Path('news.json').read_text(encoding='utf-8'))
@@ -80,7 +83,7 @@ jobs:
           assert any(x.get('category')=='دولي' for x in t['latest']), 'لا توجد أخبار دولية في الشريط'
           page=Path('index.html').read_text(encoding='utf-8')
           assert 'البث المباشر' in page and '● عاجل</button>' not in page
-          assert 'live-news-ticker-runtime' in page and 'ticker.json' in page
+          assert 'force-live-ticker-runtime' in page and 'ticker.json' in page
           script=Path('scripts/update_news.py').read_text(encoding='utf-8').lower()
           for bad in ('bing.com/images','google.com/search?','commons.wikimedia.org','search_engine(','wiki_images('): assert bad not in script, bad
           print('STRICT OK:',len(items),'news /',len(t['latest']),'ticker items /',len(t.get('breaking',[])),'breaking')
