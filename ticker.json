@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-09-07T13:58:50.711464+00:00",
+  "updated_at": "2026-09-07T14:19:12.527194+00:00",
   "latest": [
-    {
-      "title": "إيران تتوعد كوريا الجنوبية بـعواقب وخيمة.. ماذا حدث؟",
-      "url": "https://www.alsumaria.tv/news/international/575293/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AA%D9%88%D8%B9%D8%AF-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9-%D8%A8%D9%80%D8%B9%D9%88%D8%A7%D9%82%D8%A8-%D9%88%D8%AE%D9%8A%D9%85%D8%A9-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AD%D8%AF%D8%AB%D8%9F",
-      "category": "عراق",
-      "published": "Mon, 07 Sep 2026 09:54:10 GMT",
-      "breaking": false
-    },
     {
       "title": "التربية تعلن نتائج قبول الصف الأول في المدارس الحكومية ذات المعايير الدولية",
       "url": "https://www.alsumaria.tv/news/localnews/575294/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D9%82%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9-%D8%B0%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84",
@@ -139,6 +132,13 @@
       "url": "https://www.alsumaria.tv/news/economy/575312/%D9%86%D9%81%D8%B3-%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A6%D9%8A%D8%A9",
       "category": "عراق",
       "published": "Mon, 07 Sep 2026 13:54:06 GMT",
+      "breaking": false
+    },
+    {
+      "title": "تعرف على أعلى المدربين أجرا في العالم",
+      "url": "https://www.alsumaria.tv/Entertainment-News/575313/sports/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A8%D9%8A%D9%86-%D8%A3%D8%AC%D8%B1%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
+      "category": "عراق",
+      "published": "Mon, 07 Sep 2026 14:00:38 GMT",
       "breaking": false
     },
     {
@@ -282,6 +282,13 @@
       "breaking": false
     },
     {
+      "title": "السعودية وبنغلاديش تبحثان أمن الملاحة وأوجه التعاون العسكري",
+      "url": "https://aawsat.com/node/5315659",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 15:07:44 +0100",
+      "breaking": false
+    },
+    {
       "title": "السعودية وألمانيا تؤسسان حواراً استراتيجياً على مستوى وزيري الخارجية",
       "url": "https://aawsat.com/node/5315508",
       "category": "مشرق أوسط",
@@ -303,10 +310,10 @@
       "breaking": false
     },
     {
-      "title": "«التمييز» الكويتية تقضي بسجن نواب سابقين بينهم مسلم البراك",
-      "url": "https://aawsat.com/node/5315315",
-      "category": "مشرق أوسط",
-      "published": "Sun, 06 Sep 2026 15:36:29 +0100",
+      "title": "موسكو وكييف تسابقان ميدانياً جهود إطلاق المسار التفاوضي",
+      "url": "https://aawsat.com/node/5315661",
+      "category": "دولي",
+      "published": "Mon, 07 Sep 2026 15:11:33 +0100",
       "breaking": false
     },
     {
@@ -433,13 +440,6 @@
       "url": "https://aawsat.com/node/5315133",
       "category": "دولي",
       "published": "Sat, 05 Sep 2026 23:39:10 +0100",
-      "breaking": false
-    },
-    {
-      "title": "الكرملين: ويتكوف وكوشنر عرضا على بوتين «أفكاراً عدة» لإنهاء الحرب",
-      "url": "https://aawsat.com/node/5315131",
-      "category": "دولي",
-      "published": "Sat, 05 Sep 2026 23:31:04 +0100",
       "breaking": false
     },
     {
