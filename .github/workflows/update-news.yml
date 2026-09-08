@@ -110,7 +110,7 @@ jobs:
           assert 'البث المباشر' in page and '● عاجل</button>' not in page
           assert 'force-live-ticker-runtime' in page and 'ticker.json' in page
           assert 'raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/assets/news/' not in page
-          assert 'fetchNewsData' in page and 'raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/news.json' in page
+          assert 'fetchNewsData' in page and 'embedded-news-fallback' in page and '__NEWS_FALLBACK__' in page
           assert page.count('social') >= 2 and 'نعلم لتعلم' in page
           script=Path('scripts/update_news.py').read_text(encoding='utf-8').lower()
           for bad in ('bing.com/images','google.com/search?','commons.wikimedia.org','search_engine(','wiki_images('): assert bad not in script, bad
@@ -122,5 +122,5 @@ jobs:
           git config user.email 'actions@users.noreply.github.com'
           git add -A
           if git diff --cached --quiet; then echo 'لا توجد تغييرات.'; exit 0; fi
-          git commit -m 'إصلاح تحميل الأخبار تلقائيا مع مصادر احتياطية'
+          git commit -m 'إصلاح نهائي لتحميل الأخبار بدون اعتماد على مصدر خارجي'
           git push origin main
