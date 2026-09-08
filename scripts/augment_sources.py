@@ -12,11 +12,17 @@ SOURCES=[
  ('https://news.imn.iq/','قناة العراقية'),
  ('https://alsharqiya.com/news','قناة الشرقية'),
  ('https://alsharqiya.com/','قناة الشرقية'),
+ ('https://alfallujah.tv/','قناة الفلوجة'),
+ ('https://www.alarabiya.net/arab-and-world/iraq','العربية'),
+ ('https://www.alsumaria.tv/news','السومرية نيوز'),
+ ('https://www.alsumaria.tv/alsumarianews','السومرية نيوز'),
+ ('https://shafaq.com/ar','شفق نيوز'),
 ]
 GENERIC=('logo','icon','favicon','avatar','placeholder','default','sprite','banner','advert','ads','loading','no-image','profile')
 KIRKUK=('كركوك','التون كوبري','التونكوبري','آلتون كوبري','الدبس','داقوق','الحويجة','ليلان','الرشاد','الرياض','الزاب','قره تبه','جيمن','باي حسن','بابا كركر')
 IRAQ=('العراق','بغداد','نينوى','الموصل','البصرة','النجف','كربلاء','الأنبار','الانبار','صلاح الدين','ديالى','واسط','ميسان','ذي قار','المثنى','بابل','القادسية','الديوانية','دهوك','أربيل','اربيل','السليمانية','حلبجة','كركوك','الحشد','البرلمان العراقي','الحكومة العراقية','القوات العراقية')
 INTL=('فلسطين','غزة','إسرائيل','اسرائيل','لبنان','سوريا','الأردن','الاردن','السعودية','الإمارات','الامارات','الكويت','قطر','البحرين','عُمان','عمان','اليمن','مصر','ليبيا','تونس','الجزائر','المغرب','السودان','إيران','ايران','تركيا','أمريكا','امريكا','أميركا','روسيا','أوكرانيا','الصين','أوروبا','بريطانيا','فرنسا','ألمانيا','دولي','دولية')
+ALLOWED_HOSTS=('rudaw.net','www.rudaw.net','news.imn.iq','imn.iq','www.imn.iq','alsharqiya.com','www.alsharqiya.com','alfallujah.tv','www.alfallujah.tv','alarabiya.net','www.alarabiya.net','alsumaria.tv','www.alsumaria.tv','shafaq.com','www.shafaq.com')
 
 def get(url,timeout=12):
  try:
@@ -102,10 +108,10 @@ def rows(page,base):
   u=clean(m.group(1),base);t=title(m.group(2))
   if len(t)<12 or u in seen:continue
   h=host(u)
-  if h not in ('rudaw.net','www.rudaw.net','news.imn.iq','imn.iq','www.imn.iq','alsharqiya.com','www.alsharqiya.com'):continue
-  if any(z in u for z in ('/authors/','/categories/','/category/','/tag/','/search','/contact','/about')):continue
+  if h not in ALLOWED_HOSTS:continue
+  if any(z in u for z in ('/authors/','/categories/','/category/','/tag/','/search','/contact','/about','/login')):continue
   seen.add(u);out.append((t,u))
- return out[:100]
+ return out[:120]
 
 data=json.loads(Path('news.json').read_text(encoding='utf-8'))
 items=data.get('items',[]); urls={x.get('url') for x in items}; titles={x.get('title') for x in items}
@@ -130,6 +136,6 @@ for source_url,source_name in SOURCES:
 
 rank={'كركوك':0,'العراق':1,'عربي ودولي':2}
 items.sort(key=lambda x:x.get('published',''),reverse=True);items.sort(key=lambda x:rank.get(x.get('region'),1))
-data['items']=items[:48];data['updated_at']=datetime.now(timezone.utc).isoformat()
+data['items']=items[:60];data['updated_at']=datetime.now(timezone.utc).isoformat()
 Path('news.json').write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
 print('AUGMENT SOURCES: added',added,'items; total',len(data['items']))
