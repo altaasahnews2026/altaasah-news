@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T20:14:13.222772+00:00",
+  "updated_at": "2026-09-08T20:30:24.813913+00:00",
   "latest": [
     {
       "title": "إنذارات سعودية جديدة \"للتحذير من خطر\" بعد هجمات الحوثيين، والخارجية الأمريكية تحمّل إيران المسؤولية - شفق نيوز..",
@@ -140,14 +140,6 @@
       ]
     },
     {
-      "title": "لماذا نشعر بالنعاس بعد تناول الغداء؟",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575419/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%86%D8%B4%D8%B9%D8%B1-%D8%A8%D8%A7%D9%84%D9%86%D8%B9%D8%A7%D8%B3-%D8%A8%D8%B9%D8%AF-%D8%AA%D9%86%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1%D8%9F",
-      "category": "عراق",
-      "published": "2026-09-08T16:24:25+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "الحجز على أموال شقيق لونا الشبل وشخصيات بارزة من نظام الأسد بسوريا",
       "url": "https://www.alsumaria.tv/news/international/575422/%D8%A7%D9%84%D8%AD%D8%AC%D8%B2-%D8%B9%D9%84%D9%89-%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%B4%D9%82%D9%8A%D9%82-%D9%84%D9%88%D9%86%D8%A7-%D8%A7%D9%84%D8%B4%D8%A8%D9%84-%D9%88%D8%B4%D8%AE%D8%B5%D9%8A%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A9-%D9%85%D9%86-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%A8%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
       "category": "عراق",
@@ -176,6 +168,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cdx50yxwdnro",
       "category": "عراق",
       "published": "2026-09-08T19:20:55+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الاحتياطي النفطي الأمريكي يهبط إلى أدنى مستوى منذ 44 عاماً",
+      "url": "https://www.alsumaria.tv/news/economy/575439/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%87%D8%A8%D8%B7-%D8%A5%D9%84%D9%89-%D8%A3%D8%AF%D9%86%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%85%D9%86%D8%B0-44-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B",
+      "category": "عراق",
+      "published": "2026-09-08T20:15:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -236,18 +236,18 @@
       "watch_topics": []
     },
     {
-      "title": "الحشد والجيش ينفذان عملية دهم وتفتيش في قاطع البشير جنوب غربي كركوك",
-      "url": "https://964media.com/714732/",
-      "category": "عراق",
-      "published": "2026-09-07T14:24:45+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "الاطاحة باجنبي خبأ المخدرات داخل عجلة كبيرة في كركوك",
       "url": "https://www.alsumaria.tv/news/localnews/575424/%D8%A7%D9%84%D8%A7%D8%B7%D8%A7%D8%AD%D8%A9-%D8%A8%D8%A7%D8%AC%D9%86%D8%A8%D9%8A-%D8%AE%D8%A8%D8%A3-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AF%D8%A7%D8%AE%D9%84-%D8%B9%D8%AC%D9%84%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
       "category": "عراق",
       "published": "2026-09-08T17:17:12+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
+      "url": "https://altaasahnews2026.github.io/altaasah-news/editorial/kirkuk-council-25-2026-09-08",
+      "category": "عراق",
+      "published": "2026-09-08T13:11:00+03:00",
       "breaking": false,
       "watch_topics": []
     },
