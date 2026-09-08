@@ -28,7 +28,7 @@ jobs:
       - name: Sync main
         run: git pull --rebase origin main
       - name: Install Python packages
-        run: python -m pip install --upgrade pip && pip install Pillow arabic-reshaper python-bidi
+        run: python -m pip install --upgrade pip && pip install Pillow arabic-reshaper python-bidi requests
       - name: Remove all old published news and archives
         run: |
           rm -rf news
@@ -36,7 +36,7 @@ jobs:
           mkdir -p news assets/news assets/editorial
           printf '{"updated_at":"","items":[]}' > news.json
       - name: Validate scripts
-        run: python -m py_compile scripts/update_news.py scripts/augment_sources.py scripts/clean_news.py scripts/prioritize_kirkuk.py scripts/manual_news.py scripts/apply_news_template.py scripts/dedupe_news_images.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py scripts/social_slogan.py scripts/polish_ui.py scripts/final_image_fix.py scripts/hotfix_news_loader.py
+        run: python -m py_compile scripts/update_news.py scripts/augment_sources.py scripts/clean_news.py scripts/prioritize_kirkuk.py scripts/manual_news.py scripts/apply_news_template.py scripts/dedupe_news_images.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py scripts/social_slogan.py scripts/polish_ui.py scripts/final_image_fix.py scripts/hotfix_news_loader.py scripts/publish_social.py
       - name: Fetch Iraq and dedicated Kirkuk news sources
         run: python scripts/update_news.py
       - name: Fetch Rudaw, Iraqi Media Network and Al Sharqiya fresh news
@@ -86,6 +86,15 @@ jobs:
         run: python scripts/final_image_fix.py
       - name: Repair news loader with automatic fallbacks
         run: python scripts/hotfix_news_loader.py
+      - name: Publish fresh news to Instagram and TikTok
+        env:
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
+          TIKTOK_ACCESS_TOKEN: ${{ secrets.TIKTOK_ACCESS_TOKEN }}
+          SOCIAL_PUBLIC_BASE_URL: https://altaasahnews2026.github.io/altaasah-news
+          SOCIAL_MAX_POSTS_PER_RUN: 3
+          TIKTOK_PRIVACY: PUBLIC_TO_EVERYONE
+        run: python scripts/publish_social.py
       - name: Final strict validation
         run: |
           python - <<'PY'
@@ -130,5 +139,5 @@ jobs:
           git config user.email 'actions@users.noreply.github.com'
           git add -A
           if git diff --cached --quiet; then echo 'لا توجد تغييرات.'; exit 0; fi
-          git commit -m 'نشر خبر مجلس محافظة كركوك'
+          git commit -m 'تفعيل النشر الاجتماعي التلقائي'
           git push origin main
