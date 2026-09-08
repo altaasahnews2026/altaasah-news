@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-09-08T09:23:46.227467+00:00",
+  "updated_at": "2026-09-08T09:34:26.958796+00:00",
   "latest": [
-    {
-      "title": "الأمم المتحدة تدعو إسرائيل لوقف العنف ضد الفلسطينيين واللبنانيين",
-      "url": "https://www.alsumaria.tv/news/international/575347/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%84%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%B9%D9%86%D9%81-%D8%B6%D8%AF-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D9%8A%D9%86",
-      "category": "عراق",
-      "published": "2026-09-07T22:25:00+00:00",
-      "breaking": false
-    },
-    {
-      "title": "آباء فلسطينيون يخشون على حياة أطفالهم في المدارس مع تصاعد هجمات المستوطنين - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/clyl2pljnx6o",
-      "category": "عراق",
-      "published": "2026-09-08T04:34:18+00:00",
-      "breaking": false
-    },
-    {
-      "title": "مقتل 13 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cx2zvngjlnjo",
-      "category": "عراق",
-      "published": "2026-09-08T05:29:42+00:00",
-      "breaking": true
-    },
     {
       "title": "اول تعليق من الحوثيين على قصف السعودية",
       "url": "https://www.alsumaria.tv/news/international/575359/%D8%A7%D9%88%D9%84-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
@@ -51,17 +30,24 @@
       "breaking": false
     },
     {
-      "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة الحوثي - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
+      "title": "العراق يصدر الكبريت والمواد الإنشائية إلى سوريا والتبادل بـ”أعلى مستوياته”",
+      "url": "https://964media.com/714947/",
       "category": "عراق",
-      "published": "2026-09-08T08:35:00+00:00",
+      "published": "2026-09-08T09:14:51+00:00",
       "breaking": false
     },
     {
-      "title": "دخول الجيش إلى أربيل “تصعيد إعلامي” أوقفه المالكي وحمودي",
-      "url": "https://964media.com/714858/",
+      "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة الحوثي - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
       "category": "عراق",
-      "published": "2026-09-07T20:27:37+00:00",
+      "published": "2026-09-08T09:18:59+00:00",
+      "breaking": false
+    },
+    {
+      "title": "آباء فلسطينيون يخشون على حياة أطفالهم في المدارس مع تصاعد هجمات المستوطنين - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/clyl2pljnx6o",
+      "category": "عراق",
+      "published": "2026-09-08T04:34:18+00:00",
       "breaking": false
     },
     {
@@ -77,6 +63,13 @@
       "category": "عراق",
       "published": "2026-09-08T05:23:21+00:00",
       "breaking": false
+    },
+    {
+      "title": "مقتل 13 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cx2zvngjlnjo",
+      "category": "عراق",
+      "published": "2026-09-08T05:29:42+00:00",
+      "breaking": true
     },
     {
       "title": "اندلاع حريق ضخم في مصفاة نفط يتسبب بضياع 120 طنا من البترول",
@@ -195,6 +188,13 @@
       "url": "https://www.alsumaria.tv/news/economy/575366/%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%88%D8%B1%D8%AF-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%B9%D8%A7%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D9%82%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%84%D9%84%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF",
       "category": "عراق",
       "published": "2026-09-08T08:57:00+00:00",
+      "breaking": false
+    },
+    {
+      "title": "الحكومة البريطانية \"ستفرض قيوداً جديدة\" على التجارة مع المستوطنات اليهودية في الضفة الغربية المحتلة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
+      "category": "عراق",
+      "published": "2026-09-08T09:02:56+00:00",
       "breaking": false
     },
     {
@@ -508,17 +508,17 @@
   ],
   "breaking": [
     {
-      "title": "مقتل 13 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cx2zvngjlnjo",
-      "category": "عراق",
-      "published": "2026-09-08T05:29:42+00:00",
-      "breaking": true
-    },
-    {
       "title": "اول تعليق من الحوثيين على قصف السعودية",
       "url": "https://www.alsumaria.tv/news/international/575359/%D8%A7%D9%88%D9%84-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
       "category": "عراق",
       "published": "2026-09-08T08:05:10+00:00",
+      "breaking": true
+    },
+    {
+      "title": "مقتل 13 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cx2zvngjlnjo",
+      "category": "عراق",
+      "published": "2026-09-08T05:29:42+00:00",
       "breaking": true
     },
     {
