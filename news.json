@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T18:23:33.231700+00:00",
+  "updated_at": "2026-09-08T18:42:23.196543+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -51,8 +51,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-08T18:00:41+00:00",
-      "image": "./assets/news/196ffcb253b247d4066bc720.jpg",
-      "original_image": "./assets/news/196ffcb253b247d4066bc720.jpg",
+      "image": "./assets/news/893130a8197fbfa0c8eda532.jpg",
+      "original_image": "./assets/news/893130a8197fbfa0c8eda532.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575429/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%AA%D8%B9%D8%B7%D9%84-%D8%BA%D9%88%D8%A7%D8%B5%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -66,8 +66,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-08T17:44:16+00:00",
-      "image": "./assets/news/d8250af7a2508ca596b22246.jpg",
-      "original_image": "./assets/news/d8250af7a2508ca596b22246.jpg",
+      "image": "./assets/news/1ae654c1db2f82b259014eb7.jpg",
+      "original_image": "./assets/news/1ae654c1db2f82b259014eb7.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/575427/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AA%D8%B3%D9%84%D9%85-%D8%A8%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A-%D9%85%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -314,21 +314,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/da2a542f1fd4.html"
-    },
-    {
-      "title": "إيران تعلن اصطياد غواصة أميركية ذكية عند مدخل هرمز",
-      "url": "https://www.alsumaria.tv/news/international/575412/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B5%D8%B7%D9%8A%D8%A7%D8%AF-%D8%BA%D9%88%D8%A7%D8%B5%D8%A9-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%B0%D9%83%D9%8A%D8%A9-%D8%B9%D9%86%D8%AF-%D9%85%D8%AF%D8%AE%D9%84-%D9%87%D8%B1%D9%85%D8%B2",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-08T14:59:05+00:00",
-      "image": "./assets/news/893130a8197fbfa0c8eda532.jpg",
-      "original_image": "./assets/news/893130a8197fbfa0c8eda532.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/575412/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B5%D8%B7%D9%8A%D8%A7%D8%AF-%D8%BA%D9%88%D8%A7%D8%B5%D8%A9-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%B0%D9%83%D9%8A%D8%A9-%D8%B9%D9%86%D8%AF-%D9%85%D8%AF%D8%AE%D9%84-%D9%87%D8%B1%D9%85%D8%B2",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f820d7604595.html"
     },
     {
       "title": "واشنطن تفرض عقوبات جديدة على قطاع الطيران الإيراني",
