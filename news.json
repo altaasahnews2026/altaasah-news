@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:10:40.802591+00:00",
+  "updated_at": "2026-09-08T11:29:31.371749+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -31,19 +31,49 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/850e87a3d8be.html"
     },
     {
-      "title": "انباء عن اعتقال مالك قناة عراق الحدث",
-      "url": "https://www.alsumaria.tv/news/localnews/575388/%D8%A7%D9%86%D8%A8%D8%A7%D8%A1-%D8%B9%D9%86-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D8%A7%D9%84%D9%83-%D9%82%D9%86%D8%A7%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D8%AD%D8%AF%D8%AB",
+      "title": "خريطة ترامب تفجر أزمة دبلوماسية",
+      "url": "https://www.alsumaria.tv/news/international/575390/%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%AA%D9%81%D8%AC%D8%B1-%D8%A3%D8%B2%D9%85%D8%A9-%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%D8%A9",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-08T11:13:28+00:00",
+      "image": "./assets/news/bb135e7880bced84d5cd6fbc.jpg",
+      "original_image": "./assets/news/bb135e7880bced84d5cd6fbc.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575390/%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%AA%D9%81%D8%AC%D8%B1-%D8%A3%D8%B2%D9%85%D8%A9-%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/49deab90d0f9.html"
+    },
+    {
+      "title": "مكتب القائد العام: سنتعامل بحزم مع جميع حالات التحريض والخطاب الطائفي",
+      "url": "https://www.alsumaria.tv/news/security/575389/%D9%85%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%B3%D9%86%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D8%A8%D8%AD%D8%B2%D9%85-%D9%85%D8%B9-%D8%AC%D9%85%D9%8A%D8%B9-%D8%AD%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B6-%D9%88%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%81%D9%8A",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-08T11:05:50+00:00",
+      "image": "./assets/news/4e7b4abdbce774ebb245f21a.jpg",
+      "original_image": "./assets/news/4e7b4abdbce774ebb245f21a.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/575389/%D9%85%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%B3%D9%86%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D8%A8%D8%AD%D8%B2%D9%85-%D9%85%D8%B9-%D8%AC%D9%85%D9%8A%D8%B9-%D8%AD%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B6-%D9%88%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%81%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6a7fd2c8fe04.html"
+    },
+    {
+      "title": "السلطات الايرانية تحتجز مالك قناة عراق الحدث تمهيدا لتسليمه الى بغداد",
+      "url": "https://www.alsumaria.tv/news/localnews/575388/%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D8%AC%D8%B2-%D9%85%D8%A7%D9%84%D9%83-%D9%82%D9%86%D8%A7%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D8%AD%D8%AF%D8%AB-%D8%AA%D9%85%D9%87%D9%8A%D8%AF%D8%A7-%D9%84%D8%AA%D8%B3%D9%84%D9%8A%D9%85%D9%87-%D8%A7%D9%84%D9%89-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-08T10:59:42+00:00",
       "image": "./assets/news/6b7088a887b56571617a4ba4.jpg",
       "original_image": "./assets/news/6b7088a887b56571617a4ba4.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/575388/%D8%A7%D9%86%D8%A8%D8%A7%D8%A1-%D8%B9%D9%86-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D8%A7%D9%84%D9%83-%D9%82%D9%86%D8%A7%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D8%AD%D8%AF%D8%AB",
+      "source_url": "https://www.alsumaria.tv/news/localnews/575388/%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D8%AC%D8%B2-%D9%85%D8%A7%D9%84%D9%83-%D9%82%D9%86%D8%A7%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D8%AD%D8%AF%D8%AB-%D8%AA%D9%85%D9%87%D9%8A%D8%AF%D8%A7-%D9%84%D8%AA%D8%B3%D9%84%D9%8A%D9%85%D9%87-%D8%A7%D9%84%D9%89-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1f77cde31fb2.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/050be9e2f05d.html"
     },
     {
       "title": "وفاة مواطن داخل مركبته اثناء التزود بالوقود في الموصل (فيديو)",
@@ -121,43 +151,13 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e2c7012c4672.html"
     },
     {
-      "title": "وصمة اجتماعية... دراسة تكشف: أكثر من نصف الموظفين يستخدمون الذكاء الاصطناعي سرّا",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575382/%D9%88%D8%B5%D9%85%D8%A9-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%86%D8%B5%D9%81-%D8%A7%D9%84%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86-%D9%8A%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%88%D9%86-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-08T09:50:57+00:00",
-      "image": "./assets/news/e57d91491c3d9aedd874d646.png",
-      "original_image": "./assets/news/e57d91491c3d9aedd874d646.png",
-      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575382/%D9%88%D8%B5%D9%85%D8%A9-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%86%D8%B5%D9%81-%D8%A7%D9%84%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86-%D9%8A%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%88%D9%86-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": true,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0794266279b1.html"
-    },
-    {
-      "title": "في بغداد.. القبض على مبتز ساوم امرأة وغينية متهمة بالسرقة",
-      "url": "https://www.alsumaria.tv/news/security/575380/%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D8%AA%D8%B2-%D8%B3%D8%A7%D9%88%D9%85-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%BA%D9%8A%D9%86%D9%8A%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D8%A9-%D8%A8%D8%A7%D9%84%D8%B3%D8%B1%D9%82%D8%A9",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-08T09:32:22+00:00",
-      "image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
-      "original_image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/575380/%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D8%AA%D8%B2-%D8%B3%D8%A7%D9%88%D9%85-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%BA%D9%8A%D9%86%D9%8A%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D8%A9-%D8%A8%D8%A7%D9%84%D8%B3%D8%B1%D9%82%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a46d91c1dd83.html"
-    },
-    {
       "title": "رد دعوى ممثلي الأقليات ضد محافظ نينوى ورئيس مجلس محافظة نينوى",
       "url": "https://www.alsumaria.tv/news/politics/575386/%D8%B1%D8%AF-%D8%AF%D8%B9%D9%88%D9%89-%D9%85%D9%85%D8%AB%D9%84%D9%8A-%D8%A7%D9%84%D8%A3%D9%82%D9%84%D9%8A%D8%A7%D8%AA-%D8%B6%D8%AF-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D9%88%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D9%86%D9%8A%D9%86%D9%88%D9%89",
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-08T10:29:12+00:00",
-      "image": "./assets/news/8c319927d0e93ea1d63fd2a5.jpg",
-      "original_image": "./assets/news/8c319927d0e93ea1d63fd2a5.jpg",
+      "image": "./assets/news/4ce50d9aaf926b521510e8ac.jpg",
+      "original_image": "./assets/news/4ce50d9aaf926b521510e8ac.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/575386/%D8%B1%D8%AF-%D8%AF%D8%B9%D9%88%D9%89-%D9%85%D9%85%D8%AB%D9%84%D9%8A-%D8%A7%D9%84%D8%A3%D9%82%D9%84%D9%8A%D8%A7%D8%AA-%D8%B6%D8%AF-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D9%88%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D9%86%D9%8A%D9%86%D9%88%D9%89",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -331,6 +331,36 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/38886e6dfbc6.html"
     },
     {
+      "title": "وصمة اجتماعية... دراسة تكشف: أكثر من نصف الموظفين يستخدمون الذكاء الاصطناعي سرّا",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/575382/%D9%88%D8%B5%D9%85%D8%A9-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%86%D8%B5%D9%81-%D8%A7%D9%84%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86-%D9%8A%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%88%D9%86-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-08T09:50:57+00:00",
+      "image": "./assets/news/e57d91491c3d9aedd874d646.png",
+      "original_image": "./assets/news/e57d91491c3d9aedd874d646.png",
+      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575382/%D9%88%D8%B5%D9%85%D8%A9-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%86%D8%B5%D9%81-%D8%A7%D9%84%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86-%D9%8A%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%88%D9%86-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0794266279b1.html"
+    },
+    {
+      "title": "في بغداد.. القبض على مبتز ساوم امرأة وغينية متهمة بالسرقة",
+      "url": "https://www.alsumaria.tv/news/security/575380/%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D8%AA%D8%B2-%D8%B3%D8%A7%D9%88%D9%85-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%BA%D9%8A%D9%86%D9%8A%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D8%A9-%D8%A8%D8%A7%D9%84%D8%B3%D8%B1%D9%82%D8%A9",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-08T09:32:22+00:00",
+      "image": "./assets/news/5b2bba8fea961a18c98e172b.jpg",
+      "original_image": "./assets/news/5b2bba8fea961a18c98e172b.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/575380/%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D8%AA%D8%B2-%D8%B3%D8%A7%D9%88%D9%85-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%BA%D9%8A%D9%86%D9%8A%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D8%A9-%D8%A8%D8%A7%D9%84%D8%B3%D8%B1%D9%82%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a46d91c1dd83.html"
+    },
+    {
       "title": "بالصور.. الكوادر العاملة في حقل غرب القرنة /2 تهدد باعتصام مفتوح",
       "url": "https://www.alsumaria.tv/news/localnews/575379/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D9%83%D9%88%D8%A7%D8%AF%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D9%8A-%D8%AD%D9%82%D9%84-%D8%BA%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%B1%D9%86%D8%A9-2-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A8%D8%A7%D8%B9%D8%AA%D8%B5%D8%A7%D9%85-%D9%85%D9%81%D8%AA%D9%88%D8%AD",
       "category": "محليات",
@@ -419,21 +449,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6c38321d8c8e.html"
-    },
-    {
-      "title": "استعدادات للعمل بإنشاء منفذ فيشخابور الحدودي",
-      "url": "https://www.alsumaria.tv/news/localnews/575358/%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D9%84%D9%84%D8%B9%D9%85%D9%84-%D8%A8%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D9%86%D9%81%D8%B0-%D9%81%D9%8A%D8%B4%D8%AE%D8%A7%D8%A8%D9%88%D8%B1-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-08T07:50:36+00:00",
-      "image": "./assets/news/de5926c10f42f679140a379e.jpg",
-      "original_image": "./assets/news/de5926c10f42f679140a379e.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/575358/%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D9%84%D9%84%D8%B9%D9%85%D9%84-%D8%A8%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D9%86%D9%81%D8%B0-%D9%81%D9%8A%D8%B4%D8%AE%D8%A7%D8%A8%D9%88%D8%B1-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f36369bc2b25.html"
     },
     {
       "title": "قائمة بأسعار بيع وشراء الدولار في بورصات بغداد وأربيل والبصرة",
