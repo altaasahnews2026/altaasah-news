@@ -7,7 +7,7 @@ D=json.loads(P.read_text(encoding='utf-8'))
 items=D.get('items',[])
 
 JUNK=('إعلان','إعلانات','وظائف شاغرة','اضغط هنا','اشترك الآن','نشرة بريدية','رأي القارئ','حظك اليوم')
-SPORT=('رياضة','رياضي','كرة','منتخب','مباراة','دوري','اتحاد الكرة','بطولة','لاعب','لاعبة','هدف','أهداف','تصفيات','كأس','ملعب','فوز','خسارة','تعادل','مدرب','فيفا','أولمبي','أولمبياد','آسيا','الدوري العراقي','المحترفين','نادي','أندية','ملاعب')
+SPORT=('رياضة','رياضي','كرة','منتخب','مباراة','دوري','اتحاد الكرة','بطولة','لاعب','لاعبة','هدف','أهداف','تصفيات','كأس','ملعب','فوز','خسارة','تعادل','مدرب','فيفا','أولمبي','أولمبياد','آسيا','الدوري العراقي','المحترفين','نادي','أندية','ملاعب','كرة القدم','كرة السلة','كرة الطائرة','مصارعة','ملاكمة','تنس','فورمولا')
 POLITICS=('حكومة','حكومي','وزير','وزارة','رئيس الوزراء','برلمان','نائب','نواب','حزب','انتخابات','انتخابية','سياسة','سياسي','رئاسة','رئيس الجمهورية','مجلس الوزراء','جلسة البرلمان','قانون','تشريع','ائتلاف','تحالف','كتلة','سيادي','سيادة','موازنة','قرار حكومي')
 LOCAL=('محليات','محلي','بغداد','بلدية','بلديات','خدمات','كهرباء','ماء','مدارس','مدرسة','جامعة','جامعات','صحة','مستشفى','رواتب','تقاعد','طرق','مرور','طقس','دوائر','موظفين','موظفون','تظاهرة','احتجاج','تموين','تعليم','مواطنين','مواطنون')
 ECON=('دولار','ذهب','اقتصاد','مصرف','بنك','نفط','استثمار','أسعار','تجارة','بورصة','مالية')
@@ -36,19 +36,18 @@ def recategorize(x):
     elif has(t,ECON):x['category']='اقتصاد'
     elif has(t,SECURITY):x['category']='أمن'
     elif has(t,INTL):x['category']='عربي ودولي'
-    else:x['category']='محليات'
+    else:x['category']='سياسة'
     x['region']='العراق' if x.get('category') not in ('عربي ودولي','كركوك') else x['category']
 
 def score(x):
-    title=str(x.get('title') or '')
     r=x.get('region');c=x.get('category');s=0
     if x.get('breaking'):s+=80
     if r=='كركوك' or x.get('kirkuk'):s+=60
     elif r=='العراق':s+=35
     else:s+=10
     if c in ('سياسة','أمن','اقتصاد'):s+=12
-    if c=='رياضة':s+=7
-    if c=='محليات':s+=8
+    if c=='رياضة':s+=15
+    if c=='عربي ودولي':s+=12
     age=max(0,(datetime.now(timezone.utc)-dt(x.get('published'))).total_seconds()/3600)
     s-=min(age,30)*1.2
     return s
@@ -59,11 +58,13 @@ for x in items:
     if len(t)<18 or key in seen or any(w in t for w in JUNK):continue
     if not x.get('image') or not x.get('url') or not x.get('published'):continue
     recategorize(x)
+    # المحلية ملغاة نهائياً من الموقع؛ تبقى كركوك قسماً مستقلاً.
+    if x.get('category')=='محليات':continue
     seen.add(key);clean.append(x)
 
 clean.sort(key=lambda x:(score(x),dt(x.get('published'))),reverse=True)
-# Category quotas keep the front page visibly balanced instead of allowing breaking/international news to consume every slot.
-QUOTAS={'كركوك':8,'محليات':6,'سياسة':6,'رياضة':6,'اقتصاد':5,'أمن':5,'عربي ودولي':6}
+# لا توجد حصة للمحليات. نعطي الرياضة والعربي والدولي مساحة أكبر لضمان ظهورهما باستمرار.
+QUOTAS={'كركوك':8,'سياسة':8,'رياضة':12,'اقتصاد':6,'أمن':6,'عربي ودولي':14}
 chosen=[];chosen_keys=set()
 for cat,limit in QUOTAS.items():
     for x in clean:
@@ -73,12 +74,11 @@ for cat,limit in QUOTAS.items():
 for x in clean:
     if len(chosen)>=60:break
     k=norm(x.get('title'))
-    if k not in chosen_keys:chosen.append(x);chosen_keys.add(k)
+    if k not in chosen_keys and x.get('category')!='محليات':chosen.append(x);chosen_keys.add(k)
 clean=chosen[:60]
-# Editorial display order: breaking first, then Kirkuk, then Iraqi/local/political/sports, while retaining freshness.
-priority={'كركوك':5,'سياسة':4,'محليات':4,'رياضة':4,'أمن':3,'اقتصاد':3,'العراق':2,'عربي ودولي':1}
+priority={'كركوك':5,'سياسة':4,'رياضة':4,'أمن':3,'اقتصاد':3,'عربي ودولي':3,'العراق':2}
 clean.sort(key=lambda x:(bool(x.get('breaking')),priority.get(x.get('category'),0),dt(x.get('published'))),reverse=True)
 D['items']=clean
 D['updated_at']=datetime.now(timezone.utc).isoformat()
 P.write_text(json.dumps(D,ensure_ascii=False,indent=2),encoding='utf-8')
-print('CLEAN NEWS:',len(clean),'items; categories', {c:sum(1 for x in clean if x.get('category')==c) for c in QUOTAS})
+print('CLEAN NEWS:',len(clean),'items; categories', {c:sum(1 for x in clean if x.get('category')==c) for c in QUOTAS},'local_removed=True')
