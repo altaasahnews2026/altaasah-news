@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T05:48:01.591655+00:00",
+  "updated_at": "2026-09-08T05:59:06.355638+00:00",
   "latest": [
     {
       "title": "الجيش الإسرائيلي ينفذ تفجيرا كبيرا جنوبي لبنان",
@@ -90,13 +90,6 @@
       "url": "https://www.alsumaria.tv/Entertainment-News/575334/sports/%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A8%D9%8A%D9%86-%D8%B2%D9%88%D8%AC%D8%A9-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D9%88%D8%AD%D8%A8%D9%8A%D8%A8%D8%AA%D9%87-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%D8%A9",
       "category": "عراق",
       "published": "2026-09-07T17:44:49+00:00",
-      "breaking": false
-    },
-    {
-      "title": "العيداني يوزع رواتب لاعبي الميناء.. المقاولون في البصرة أسهموا بتأمينها",
-      "url": "https://964media.com/714838/",
-      "category": "عراق",
-      "published": "2026-09-07T18:06:29+00:00",
       "breaking": false
     },
     {
@@ -503,6 +496,13 @@
       "url": "https://aawsat.com/node/5315770",
       "category": "دولي",
       "published": "Mon, 07 Sep 2026 20:40:22 +0100",
+      "breaking": false
+    },
+    {
+      "title": "ترمب يقترح تغيير اسم ولاية نيو مكسيكو إلى «نيو أميركا»",
+      "url": "https://aawsat.com/node/5315458",
+      "category": "دولي",
+      "published": "Mon, 07 Sep 2026 04:29:16 +0100",
       "breaking": false
     }
   ],
