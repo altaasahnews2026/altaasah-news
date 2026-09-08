@@ -1,509 +1,627 @@
 {
-  "updated_at": "2026-09-08T12:19:11.681899+00:00",
+  "updated_at": "2026-09-08T12:25:16.861084+00:00",
   "latest": [
     {
-      "title": "سمحا ببناء دار تجاوز مقابل رشوة.. نزاهة كربلاء تضبط موظفين بالجرم المشهود",
-      "url": "https://964media.com/714913/",
+      "title": "مقتل 13 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cx2zvngjlnjo",
       "category": "عراق",
-      "published": "2026-09-08T07:21:43+00:00",
-      "breaking": false
-    },
-    {
-      "title": "قائمة بأسعار بيع وشراء الدولار في بورصات بغداد وأربيل والبصرة",
-      "url": "https://964media.com/714914/",
-      "category": "عراق",
-      "published": "2026-09-08T07:47:40+00:00",
-      "breaking": false
-    },
-    {
-      "title": "ترند صور الثمانينات يجتاح مواقع التواصل.. الذكاء الاصطناعي يعيد العراقيين إلى الماضي",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575365/%D8%AA%D8%B1%D9%86%D8%AF-%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D8%A7%D8%AA-%D9%8A%D8%AC%D8%AA%D8%A7%D8%AD-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%8A",
-      "category": "عراق",
-      "published": "2026-09-08T08:54:46+00:00",
-      "breaking": false
-    },
-    {
-      "title": "شاهد: دخانيات وصعق وبوكسات خلال تظاهرة الشهادات العليا في بغداد",
-      "url": "https://964media.com/714920/",
-      "category": "عراق",
-      "published": "2026-09-08T08:56:05+00:00",
-      "breaking": false
-    },
-    {
-      "title": "المحلي والمستورد.. الذهب يعاود الانخفاض أقل من المليون للمثقال الواحد",
-      "url": "https://www.alsumaria.tv/news/economy/575366/%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%88%D8%B1%D8%AF-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%B9%D8%A7%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D9%82%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%84%D9%84%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF",
-      "category": "عراق",
-      "published": "2026-09-08T08:57:00+00:00",
-      "breaking": false
-    },
-    {
-      "title": "بالصور.. الكوادر العاملة في حقل غرب القرنة /2 تهدد باعتصام مفتوح",
-      "url": "https://www.alsumaria.tv/news/localnews/575379/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D9%83%D9%88%D8%A7%D8%AF%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D9%8A-%D8%AD%D9%82%D9%84-%D8%BA%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%B1%D9%86%D8%A9-2-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A8%D8%A7%D8%B9%D8%AA%D8%B5%D8%A7%D9%85-%D9%85%D9%81%D8%AA%D9%88%D8%AD",
-      "category": "عراق",
-      "published": "2026-09-08T09:22:40+00:00",
-      "breaking": false
-    },
-    {
-      "title": "في بغداد.. القبض على مبتز ساوم امرأة وغينية متهمة بالسرقة",
-      "url": "https://www.alsumaria.tv/news/security/575380/%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D8%AA%D8%B2-%D8%B3%D8%A7%D9%88%D9%85-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%BA%D9%8A%D9%86%D9%8A%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D8%A9-%D8%A8%D8%A7%D9%84%D8%B3%D8%B1%D9%82%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-08T09:32:22+00:00",
-      "breaking": false
-    },
-    {
-      "title": "وصمة اجتماعية... دراسة تكشف: أكثر من نصف الموظفين يستخدمون الذكاء الاصطناعي سرّا",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575382/%D9%88%D8%B5%D9%85%D8%A9-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%86%D8%B5%D9%81-%D8%A7%D9%84%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86-%D9%8A%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%88%D9%86-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9",
-      "category": "عراق",
-      "published": "2026-09-08T09:50:57+00:00",
-      "breaking": false
-    },
-    {
-      "title": "واتساب يوقف الدعم عن ملايين الهواتف",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575383/%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%8A%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%B9%D9%86-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81",
-      "category": "عراق",
-      "published": "2026-09-08T09:52:37+00:00",
-      "breaking": false
-    },
-    {
-      "title": "صلاح الدين تختار مدراء لسامراء وبيجي و4 وحدات إدارية أخرى",
-      "url": "https://964media.com/714945/",
-      "category": "عراق",
-      "published": "2026-09-08T09:57:56+00:00",
-      "breaking": false
+      "published": "2026-09-08T05:29:42+00:00",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "بين التهدئة والتصعيد: أبرز محطات العلاقة بين السعودية والحوثيين - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c8x2x18geg9o",
       "category": "عراق",
       "published": "2026-09-08T08:19:11+00:00",
-      "breaking": false
-    },
-    {
-      "title": "لماذا يضع فلسطينيون العلم الأمريكي فوق منازلهم في الضفة؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c207ke7gv10o",
-      "category": "عراق",
-      "published": "2026-09-08T08:31:15+00:00",
-      "breaking": false
-    },
-    {
-      "title": "العراق يصدر الكبريت والمواد الإنشائية إلى سوريا والتبادل بـ”أعلى مستوياته”",
-      "url": "https://964media.com/714947/",
-      "category": "عراق",
-      "published": "2026-09-08T09:14:51+00:00",
-      "breaking": false
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
       "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة أنصار الله - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
       "category": "عراق",
       "published": "2026-09-08T10:34:14+00:00",
-      "breaking": false
-    },
-    {
-      "title": "مقتل 13 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cx2zvngjlnjo",
-      "category": "عراق",
-      "published": "2026-09-08T05:29:42+00:00",
-      "breaking": true
-    },
-    {
-      "title": "رغم ارتفاعه وتجاوزه الـ155 الفا.. أسعار الدولار تستقر لليوم التالي",
-      "url": "https://www.alsumaria.tv/news/economy/575364/%D8%B1%D8%BA%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9%D9%87-%D9%88%D8%AA%D8%AC%D8%A7%D9%88%D8%B2%D9%87-%D8%A7%D9%84%D9%80155-%D8%A7%D9%84%D9%81%D8%A7-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%AA%D8%B3%D8%AA%D9%82%D8%B1-%D9%84%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AA%D8%A7%D9%84%D9%8A",
-      "category": "عراق",
-      "published": "2026-09-08T08:41:52+00:00",
-      "breaking": false
-    },
-    {
-      "title": "مفاجأة في ترشيحات الكرة الذهبية.. ريال مدريد وبرشلونة خارج قائمة أفضل فريق",
-      "url": "https://www.alsumaria.tv/Entertainment-News/575392/sports/%D9%85%D9%81%D8%A7%D8%AC%D8%A3%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B1%D8%B4%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%88%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A3%D9%81%D8%B6%D9%84-%D9%81%D8%B1",
-      "category": "عراق",
-      "published": "2026-09-08T11:48:54+00:00",
-      "breaking": false
-    },
-    {
-      "title": "سيطرة إسبانية على قائمة المرشحين لجائزة كرويف لأفضل مدرب في 2026",
-      "url": "https://www.alsumaria.tv/Entertainment-News/575395/sports/%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%B4%D8%AD%D9%8A%D9%86-%D9%84%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D9%83%D8%B1%D9%88%D9%8A%D9%81-%D9%84%D8%A3%D9%81%D8%B6%D9%84-%D9%85%D8%AF%D8%B1%D8%A8-%D9%81%D9%8A-2026",
-      "category": "عراق",
-      "published": "2026-09-08T12:08:25+00:00",
-      "breaking": false
-    },
-    {
-      "title": "كتلة نيابية: سنقف ضد المحاولات المنحرفة لشمول الفاسدين بالعفو العام",
-      "url": "https://www.alsumaria.tv/news/politics/575385/%D9%83%D8%AA%D9%84%D8%A9-%D9%86%D9%8A%D8%A7%D8%A8%D9%8A%D8%A9-%D8%B3%D9%86%D9%82%D9%81-%D8%B6%D8%AF-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%AD%D8%B1%D9%81%D8%A9-%D9%84%D8%B4%D9%85%D9%88%D9%84-%D8%A7%D9%84%D9%81%D8%A7%D8%B3%D8%AF%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%B9%D9%81%D9%88-%D8%A7%D9%84%D8%B9%D8%A7%D9%85",
-      "category": "عراق",
-      "published": "2026-09-08T10:27:14+00:00",
-      "breaking": false
-    },
-    {
-      "title": "الحكومة البريطانية \"ستفرض قيوداً جديدة\" على التجارة مع المستوطنات اليهودية في الضفة الغربية المحتلة - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
-      "category": "عراق",
-      "published": "2026-09-08T10:28:23+00:00",
-      "breaking": false
-    },
-    {
-      "title": "رد دعوى ممثلي الأقليات ضد محافظ نينوى ورئيس مجلس محافظة نينوى",
-      "url": "https://www.alsumaria.tv/news/politics/575386/%D8%B1%D8%AF-%D8%AF%D8%B9%D9%88%D9%89-%D9%85%D9%85%D8%AB%D9%84%D9%8A-%D8%A7%D9%84%D8%A3%D9%82%D9%84%D9%8A%D8%A7%D8%AA-%D8%B6%D8%AF-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D9%88%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D9%86%D9%8A%D9%86%D9%88%D9%89",
-      "category": "عراق",
-      "published": "2026-09-08T10:29:12+00:00",
-      "breaking": false
-    },
-    {
-      "title": "وزير النفط يعلن تعافي عمليات التصدير في العراق",
-      "url": "https://www.alsumaria.tv/news/economy/575391/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%B9%D8%A7%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-      "category": "عراق",
-      "published": "2026-09-08T11:26:47+00:00",
-      "breaking": false
-    },
-    {
-      "title": "نائب يكشف ما يدور خلف الكواليس: فقرة دست بقانون العفو تخدم الفاسدين",
-      "url": "https://www.alsumaria.tv/news/politics/575394/%D9%86%D8%A7%D8%A6%D8%A8-%D9%8A%D9%83%D8%B4%D9%81-%D9%85%D8%A7-%D9%8A%D8%AF%D9%88%D8%B1-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D9%83%D9%88%D8%A7%D9%84%D9%8A%D8%B3-%D9%81%D9%82%D8%B1%D8%A9-%D8%AF%D8%B3%D8%AA-%D8%A8%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D9%81%D9%88-%D8%AA%D8%AE%D8%AF%D9%85-%D8%A7%D9%84%D9%81%D8%A7%D8%B3%D8%AF%D9%8A%D9%86",
-      "category": "عراق",
-      "published": "2026-09-08T12:09:11+00:00",
-      "breaking": false
-    },
-    {
-      "title": "قوة امنية تتدخل وتحرر حدثا قيده والده بالسلاسل في بغداد (صورة)",
-      "url": "https://www.alsumaria.tv/news/localnews/575384/%D9%82%D9%88%D8%A9-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D8%AF%D8%AE%D9%84-%D9%88%D8%AA%D8%AD%D8%B1%D8%B1-%D8%AD%D8%AF%D8%AB%D8%A7-%D9%82%D9%8A%D8%AF%D9%87-%D9%88%D8%A7%D9%84%D8%AF%D9%87-%D8%A8%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%B3%D9%84-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%B5%D9%88%D8%B1%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-08T10:04:52+00:00",
-      "breaking": false
-    },
-    {
-      "title": "آباء فلسطينيون يخشون على حياة أطفالهم في المدارس مع تصاعد هجمات المستوطنين - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/clyl2pljnx6o",
-      "category": "عراق",
-      "published": "2026-09-08T10:28:23+00:00",
-      "breaking": false
-    },
-    {
-      "title": "وفاة مواطن داخل مركبته اثناء التزود بالوقود في الموصل (فيديو)",
-      "url": "https://www.alsumaria.tv/news/trends-alsumaria/575387/%D9%88%D9%81%D8%A7%D8%A9-%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%D9%85%D8%B1%D9%83%D8%A8%D8%AA%D9%87-%D8%A7%D8%AB%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D8%B2%D9%88%D8%AF-%D8%A8%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-      "category": "عراق",
-      "published": "2026-09-08T10:56:14+00:00",
-      "breaking": false
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
       "title": "السلطات الايرانية تحتجز مالك قناة عراق الحدث تمهيدا لتسليمه الى بغداد",
       "url": "https://www.alsumaria.tv/news/localnews/575388/%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D8%AC%D8%B2-%D9%85%D8%A7%D9%84%D9%83-%D9%82%D9%86%D8%A7%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D8%AD%D8%AF%D8%AB-%D8%AA%D9%85%D9%87%D9%8A%D8%AF%D8%A7-%D9%84%D8%AA%D8%B3%D9%84%D9%8A%D9%85%D9%87-%D8%A7%D9%84%D9%89-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "category": "عراق",
       "published": "2026-09-08T10:59:42+00:00",
-      "breaking": false
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "خريطة ترامب تفجر أزمة دبلوماسية",
+      "url": "https://www.alsumaria.tv/news/international/575390/%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%AA%D9%81%D8%AC%D8%B1-%D8%A3%D8%B2%D9%85%D8%A9-%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-08T11:13:28+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "سمحا ببناء دار تجاوز مقابل رشوة.. نزاهة كربلاء تضبط موظفين بالجرم المشهود",
+      "url": "https://964media.com/714913/",
+      "category": "عراق",
+      "published": "2026-09-08T07:21:43+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "قائمة بأسعار بيع وشراء الدولار في بورصات بغداد وأربيل والبصرة",
+      "url": "https://964media.com/714914/",
+      "category": "عراق",
+      "published": "2026-09-08T07:47:40+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "ترند صور الثمانينات يجتاح مواقع التواصل.. الذكاء الاصطناعي يعيد العراقيين إلى الماضي",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/575365/%D8%AA%D8%B1%D9%86%D8%AF-%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D8%A7%D8%AA-%D9%8A%D8%AC%D8%AA%D8%A7%D8%AD-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%8A",
+      "category": "عراق",
+      "published": "2026-09-08T08:54:46+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "شاهد: دخانيات وصعق وبوكسات خلال تظاهرة الشهادات العليا في بغداد",
+      "url": "https://964media.com/714920/",
+      "category": "عراق",
+      "published": "2026-09-08T08:56:05+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "المحلي والمستورد.. الذهب يعاود الانخفاض أقل من المليون للمثقال الواحد",
+      "url": "https://www.alsumaria.tv/news/economy/575366/%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%88%D8%B1%D8%AF-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%B9%D8%A7%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D9%82%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%84%D9%84%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF",
+      "category": "عراق",
+      "published": "2026-09-08T08:57:00+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "بالصور.. الكوادر العاملة في حقل غرب القرنة /2 تهدد باعتصام مفتوح",
+      "url": "https://www.alsumaria.tv/news/localnews/575379/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D9%83%D9%88%D8%A7%D8%AF%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%84%D8%A9-%D9%81%D9%8A-%D8%AD%D9%82%D9%84-%D8%BA%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D8%B1%D9%86%D8%A9-2-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A8%D8%A7%D8%B9%D8%AA%D8%B5%D8%A7%D9%85-%D9%85%D9%81%D8%AA%D9%88%D8%AD",
+      "category": "عراق",
+      "published": "2026-09-08T09:22:40+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "في بغداد.. القبض على مبتز ساوم امرأة وغينية متهمة بالسرقة",
+      "url": "https://www.alsumaria.tv/news/security/575380/%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D8%AA%D8%B2-%D8%B3%D8%A7%D9%88%D9%85-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%BA%D9%8A%D9%86%D9%8A%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D8%A9-%D8%A8%D8%A7%D9%84%D8%B3%D8%B1%D9%82%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-08T09:32:22+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "وصمة اجتماعية... دراسة تكشف: أكثر من نصف الموظفين يستخدمون الذكاء الاصطناعي سرّا",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/575382/%D9%88%D8%B5%D9%85%D8%A9-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%86%D8%B5%D9%81-%D8%A7%D9%84%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86-%D9%8A%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%88%D9%86-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9",
+      "category": "عراق",
+      "published": "2026-09-08T09:50:57+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "واتساب يوقف الدعم عن ملايين الهواتف",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/575383/%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%8A%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%B9%D9%86-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81",
+      "category": "عراق",
+      "published": "2026-09-08T09:52:37+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "صلاح الدين تختار مدراء لسامراء وبيجي و4 وحدات إدارية أخرى",
+      "url": "https://964media.com/714945/",
+      "category": "عراق",
+      "published": "2026-09-08T09:57:56+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "قوة امنية تتدخل وتحرر حدثا قيده والده بالسلاسل في بغداد (صورة)",
+      "url": "https://www.alsumaria.tv/news/localnews/575384/%D9%82%D9%88%D8%A9-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D8%AF%D8%AE%D9%84-%D9%88%D8%AA%D8%AD%D8%B1%D8%B1-%D8%AD%D8%AF%D8%AB%D8%A7-%D9%82%D9%8A%D8%AF%D9%87-%D9%88%D8%A7%D9%84%D8%AF%D9%87-%D8%A8%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%B3%D9%84-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%B5%D9%88%D8%B1%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-08T10:04:52+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "لماذا يضع فلسطينيون العلم الأمريكي فوق منازلهم في الضفة؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c207ke7gv10o",
+      "category": "عراق",
+      "published": "2026-09-08T08:31:15+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "العراق يصدر الكبريت والمواد الإنشائية إلى سوريا والتبادل بـ”أعلى مستوياته”",
+      "url": "https://964media.com/714947/",
+      "category": "عراق",
+      "published": "2026-09-08T09:14:51+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "مفاجأة في ترشيحات الكرة الذهبية.. ريال مدريد وبرشلونة خارج قائمة أفضل فريق",
+      "url": "https://www.alsumaria.tv/Entertainment-News/575392/sports/%D9%85%D9%81%D8%A7%D8%AC%D8%A3%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B1%D8%B4%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%88%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A3%D9%81%D8%B6%D9%84-%D9%81%D8%B1",
+      "category": "عراق",
+      "published": "2026-09-08T11:48:54+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "سيطرة إسبانية على قائمة المرشحين لجائزة كرويف لأفضل مدرب في 2026",
+      "url": "https://www.alsumaria.tv/Entertainment-News/575395/sports/%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%B4%D8%AD%D9%8A%D9%86-%D9%84%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D9%83%D8%B1%D9%88%D9%8A%D9%81-%D9%84%D8%A3%D9%81%D8%B6%D9%84-%D9%85%D8%AF%D8%B1%D8%A8-%D9%81%D9%8A-2026",
+      "category": "عراق",
+      "published": "2026-09-08T12:08:25+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "كتلة نيابية: سنقف ضد المحاولات المنحرفة لشمول الفاسدين بالعفو العام",
+      "url": "https://www.alsumaria.tv/news/politics/575385/%D9%83%D8%AA%D9%84%D8%A9-%D9%86%D9%8A%D8%A7%D8%A8%D9%8A%D8%A9-%D8%B3%D9%86%D9%82%D9%81-%D8%B6%D8%AF-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%AD%D8%B1%D9%81%D8%A9-%D9%84%D8%B4%D9%85%D9%88%D9%84-%D8%A7%D9%84%D9%81%D8%A7%D8%B3%D8%AF%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%B9%D9%81%D9%88-%D8%A7%D9%84%D8%B9%D8%A7%D9%85",
+      "category": "عراق",
+      "published": "2026-09-08T10:27:14+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الحكومة البريطانية \"ستفرض قيوداً جديدة\" على التجارة مع المستوطنات اليهودية في الضفة الغربية المحتلة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
+      "category": "عراق",
+      "published": "2026-09-08T10:28:23+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "رد دعوى ممثلي الأقليات ضد محافظ نينوى ورئيس مجلس محافظة نينوى",
+      "url": "https://www.alsumaria.tv/news/politics/575386/%D8%B1%D8%AF-%D8%AF%D8%B9%D9%88%D9%89-%D9%85%D9%85%D8%AB%D9%84%D9%8A-%D8%A7%D9%84%D8%A3%D9%82%D9%84%D9%8A%D8%A7%D8%AA-%D8%B6%D8%AF-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D9%88%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D9%86%D9%8A%D9%86%D9%88%D9%89",
+      "category": "عراق",
+      "published": "2026-09-08T10:29:12+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "وزير النفط يعلن تعافي عمليات التصدير في العراق",
+      "url": "https://www.alsumaria.tv/news/economy/575391/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%B9%D8%A7%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+      "category": "عراق",
+      "published": "2026-09-08T11:26:47+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "نائب يكشف ما يدور خلف الكواليس: فقرة دست بقانون العفو تخدم الفاسدين",
+      "url": "https://www.alsumaria.tv/news/politics/575394/%D9%86%D8%A7%D8%A6%D8%A8-%D9%8A%D9%83%D8%B4%D9%81-%D9%85%D8%A7-%D9%8A%D8%AF%D9%88%D8%B1-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D9%83%D9%88%D8%A7%D9%84%D9%8A%D8%B3-%D9%81%D9%82%D8%B1%D8%A9-%D8%AF%D8%B3%D8%AA-%D8%A8%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D9%81%D9%88-%D8%AA%D8%AE%D8%AF%D9%85-%D8%A7%D9%84%D9%81%D8%A7%D8%B3%D8%AF%D9%8A%D9%86",
+      "category": "عراق",
+      "published": "2026-09-08T12:09:11+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "آباء فلسطينيون يخشون على حياة أطفالهم في المدارس مع تصاعد هجمات المستوطنين - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/clyl2pljnx6o",
+      "category": "عراق",
+      "published": "2026-09-08T10:28:23+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "وفاة مواطن داخل مركبته اثناء التزود بالوقود في الموصل (فيديو)",
+      "url": "https://www.alsumaria.tv/news/trends-alsumaria/575387/%D9%88%D9%81%D8%A7%D8%A9-%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%D9%85%D8%B1%D9%83%D8%A8%D8%AA%D9%87-%D8%A7%D8%AB%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D8%B2%D9%88%D8%AF-%D8%A8%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+      "category": "عراق",
+      "published": "2026-09-08T10:56:14+00:00",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "مكتب القائد العام: سنتعامل بحزم مع جميع حالات التحريض والخطاب الطائفي",
       "url": "https://www.alsumaria.tv/news/security/575389/%D9%85%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%B3%D9%86%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D8%A8%D8%AD%D8%B2%D9%85-%D9%85%D8%B9-%D8%AC%D9%85%D9%8A%D8%B9-%D8%AD%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B6-%D9%88%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%81%D9%8A",
       "category": "عراق",
       "published": "2026-09-08T11:05:50+00:00",
-      "breaking": false
-    },
-    {
-      "title": "انتقادات يمنية لبيان غروندبرغ بشأن التصعيد العسكري",
-      "url": "https://aawsat.com/node/5315989",
-      "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 13:14:35 +0100",
-      "breaking": false
-    },
-    {
-      "title": "العليمي يحمل الحوثيين مسؤولية التصعيد ويشيد بقدرات الجيش",
-      "url": "https://aawsat.com/node/5315977",
-      "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 12:41:01 +0100",
-      "breaking": false
-    },
-    {
-      "title": "قوات الحكومة اليمنية توسًع مكاسبها في الجوف بتحرير اليتمة",
-      "url": "https://aawsat.com/node/5315974",
-      "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 12:33:15 +0100",
-      "breaking": false
-    },
-    {
-      "title": "«الوزاري العربي» يدين الهجمات الإيرانية ويطالب طهران بإعادة فتح مضيق هرمز",
-      "url": "https://aawsat.com/node/5315937",
-      "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 10:58:06 +0100",
-      "breaking": false
-    },
-    {
-      "title": "إسرائيل تدمّر «مستشفى غندور»... الناجي من 45 عاماً من حروب الجنوب اللبناني",
-      "url": "https://aawsat.com/node/5315895",
-      "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 08:50:00 +0100",
-      "breaking": false
-    },
-    {
-      "title": "معارك اليمن... فتح محاور جديدة يربك التحصينات الحوثية",
-      "url": "https://aawsat.com/node/5315735",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 17:38:11 +0100",
-      "breaking": false
-    },
-    {
-      "title": "العراق يطّلع على التجربة المصرية في معالجة المياه وإعادة استخدامها",
-      "url": "https://aawsat.com/node/5315684",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 15:45:35 +0100",
-      "breaking": false
-    },
-    {
-      "title": "البيضاء... «المفتاح المنسي» في خريطة الحرب اليمنية",
-      "url": "https://aawsat.com/node/5315647",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 14:35:14 +0100",
-      "breaking": false
-    },
-    {
-      "title": "الحوثيون ينكِّلون بسكان ريف تعز ويحتجزونهم دروعاً بشرية",
-      "url": "https://aawsat.com/node/5315587",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 11:34:26 +0100",
-      "breaking": false
-    },
-    {
-      "title": "الجيش اليمني يوسِّع المعارك... من الجوف شرقاً إلى الساحل غرباً",
-      "url": "https://aawsat.com/node/5315559",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 10:23:43 +0100",
-      "breaking": false
-    },
-    {
-      "title": "محافظ الحديدة لـ«الشرق الأوسط»: قواتنا تتقدم وعازمون على تحرير كامل الساحل الغربي",
-      "url": "https://aawsat.com/node/5315551",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 10:01:53 +0100",
-      "breaking": false
-    },
-    {
-      "title": "الجيش اليمني يطارد الحوثيين جنوب شرقي الحديدة",
-      "url": "https://aawsat.com/node/5315451",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 01:17:27 +0100",
-      "breaking": false
-    },
-    {
-      "title": "الجيش اليمني يطارد الحوثيين في جنوب شرقي الحديدة",
-      "url": "https://aawsat.com/node/5315274",
-      "category": "مشرق أوسط",
-      "published": "Sun, 06 Sep 2026 13:39:54 +0100",
-      "breaking": false
-    },
-    {
-      "title": "هجمات الحوثيين تفاقم مأساة النزوح غرب تعز والحديدة",
-      "url": "https://aawsat.com/node/5315268",
-      "category": "مشرق أوسط",
-      "published": "Sun, 06 Sep 2026 13:21:34 +0100",
-      "breaking": false
-    },
-    {
-      "title": "استنفار حوثي وتجنيد قسري في محافظة إب",
-      "url": "https://aawsat.com/node/5315256",
-      "category": "مشرق أوسط",
-      "published": "Sun, 06 Sep 2026 12:39:01 +0100",
-      "breaking": false
-    },
-    {
-      "title": "العليمي: استعادة مؤسسات الدولة اليمنية خيار لا رجعة عنه",
-      "url": "https://aawsat.com/node/5315117",
-      "category": "مشرق أوسط",
-      "published": "Sat, 05 Sep 2026 21:47:28 +0100",
-      "breaking": false
-    },
-    {
-      "title": "«الجامعة العربية» لإصدار قرار بشأن الاعتداءات الإيرانية",
-      "url": "https://aawsat.com/node/5315064",
-      "category": "مشرق أوسط",
-      "published": "Sat, 05 Sep 2026 17:31:46 +0100",
-      "breaking": false
-    },
-    {
-      "title": "تصعيد الحوثيين ينقلب عليهم في تعز والساحل الغربي",
-      "url": "https://aawsat.com/node/5314967",
-      "category": "مشرق أوسط",
-      "published": "Sat, 05 Sep 2026 12:13:58 +0100",
-      "breaking": false
-    },
-    {
-      "title": "جثث متراكمة وتجنيد في المدارس يعكسان نزيف الحوثيين",
-      "url": "https://aawsat.com/node/5314958",
-      "category": "مشرق أوسط",
-      "published": "Sat, 05 Sep 2026 11:38:02 +0100",
-      "breaking": false
-    },
-    {
-      "title": "«وفرة العقارات» لا تحد من أزمة السكن في مصر",
-      "url": "https://aawsat.com/node/5314662",
-      "category": "مشرق أوسط",
-      "published": "Fri, 04 Sep 2026 13:26:03 +0100",
-      "breaking": false
-    },
-    {
-      "title": "فيصل بن فرحان: السعودية لن تتردد في الدفاع عن نفسها",
-      "url": "https://aawsat.com/node/5315923",
-      "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 10:18:10 +0100",
-      "breaking": false
-    },
-    {
-      "title": "السعودية تؤكد حق الرد على اعتداءات الحوثيين بعد إصابة 73 مدنياً",
-      "url": "https://aawsat.com/node/5315869",
-      "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 07:32:12 +0100",
-      "breaking": false
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "السعودية: استهداف منشآت ومرافق للطاقة جنوب المملكة وتوقّف مؤقت لبعض العمليات التشغيلية",
       "url": "https://aawsat.com/node/5315860",
       "category": "مشرق أوسط",
       "published": "Tue, 08 Sep 2026 07:00:59 +0100",
-      "breaking": true
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "ثوران بركاني يمدّد إغلاق 4 مطارات في إندونيسيا ويعطل آلاف الرحلات",
+      "url": "https://aawsat.com/node/5315521",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 09:11:18 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مقتل 16 جندياً باكستانياً في كمين لقافلة عسكرية بإقليم بلوشستان",
+      "url": "https://aawsat.com/node/5314711",
+      "category": "مشرق أوسط",
+      "published": "Fri, 04 Sep 2026 15:32:16 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "ارتفاع حصيلة ضحايا فيضانات نيبال إلى 1259 قتيلاً و5083 مفقوداً",
+      "url": "https://aawsat.com/node/5314389",
+      "category": "مشرق أوسط",
+      "published": "Thu, 03 Sep 2026 17:42:50 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "حصيلة قتلى فيضانات جبال الهيمالايا تتجاوز الألف",
+      "url": "https://aawsat.com/node/5313522",
+      "category": "مشرق أوسط",
+      "published": "Tue, 01 Sep 2026 16:42:12 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "«الوزاري العربي» يدين الهجمات الإيرانية ويطالب طهران بإعادة فتح مضيق هرمز",
+      "url": "https://aawsat.com/node/5315937",
+      "category": "مشرق أوسط",
+      "published": "Tue, 08 Sep 2026 10:58:06 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "«الجامعة العربية» لإصدار قرار بشأن الاعتداءات الإيرانية",
+      "url": "https://aawsat.com/node/5315064",
+      "category": "مشرق أوسط",
+      "published": "Sat, 05 Sep 2026 17:31:46 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "فيصل بن فرحان: السعودية لن تتردد في الدفاع عن نفسها",
+      "url": "https://aawsat.com/node/5315923",
+      "category": "مشرق أوسط",
+      "published": "Tue, 08 Sep 2026 10:18:10 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "السعودية تؤكد حق الرد على اعتداءات الحوثيين بعد إصابة 73 مدنياً",
+      "url": "https://aawsat.com/node/5315869",
+      "category": "مشرق أوسط",
+      "published": "Tue, 08 Sep 2026 07:32:12 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
       "title": "«تحالف دعم الشرعية»: اعتداءات «ميليشيا الحوثي» على السعودية تصعيد خطير سيواجه بكل حزم",
       "url": "https://aawsat.com/node/5315841",
       "category": "مشرق أوسط",
       "published": "Tue, 08 Sep 2026 05:30:16 +0100",
-      "breaking": false
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
-      "title": "بريطانيا تستعد لفرض عقوبات على المستوطنات الإسرائيلية في الضفة الغربية",
-      "url": "https://aawsat.com/node/5315874",
-      "category": "دولي",
-      "published": "Tue, 08 Sep 2026 07:54:49 +0100",
-      "breaking": false
+      "title": "السعودية وألمانيا تؤكدان أهمية بذل الجهود لضمان حرية الملاحة",
+      "url": "https://aawsat.com/node/5315765",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 20:21:36 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "السعودية وبنغلاديش تبحثان أمن الملاحة وأوجه التعاون العسكري",
+      "url": "https://aawsat.com/node/5315743",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 18:04:28 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "تطوّرات الجهود الأمنية في السعودية... التقنية للاستباق والإنسان لاتخاذ القرار",
+      "url": "https://aawsat.com/node/5315691",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 16:12:13 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "السعودية وألمانيا تؤسسان حواراً استراتيجياً على مستوى وزيري الخارجية",
+      "url": "https://aawsat.com/node/5315508",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 08:27:18 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "انطلاق مؤتمر «حوار الأمن والتاريخ» في الرياض بثلاث رسائل",
+      "url": "https://aawsat.com/node/5315286",
+      "category": "مشرق أوسط",
+      "published": "Sun, 06 Sep 2026 14:26:04 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "وزير الخارجية السعودي يبحث مع نظيريه الإيراني والباكستاني تطورات المنطقة",
+      "url": "https://aawsat.com/node/5315241",
+      "category": "مشرق أوسط",
+      "published": "Sun, 06 Sep 2026 11:27:54 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "السعودية و7 دول تدين تصريحات إسرائيلية بشأن تهجير الفلسطينيين من غزة",
+      "url": "https://aawsat.com/node/5315230",
+      "category": "مشرق أوسط",
+      "published": "Sun, 06 Sep 2026 10:56:01 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "انتقادات يمنية لبيان غروندبرغ بشأن التصعيد العسكري",
+      "url": "https://aawsat.com/node/5315989",
+      "category": "مشرق أوسط",
+      "published": "Tue, 08 Sep 2026 13:14:35 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "العليمي يحمل الحوثيين مسؤولية التصعيد ويشيد بقدرات الجيش",
+      "url": "https://aawsat.com/node/5315977",
+      "category": "مشرق أوسط",
+      "published": "Tue, 08 Sep 2026 12:41:01 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "قوات الحكومة اليمنية توسًع مكاسبها في الجوف بتحرير اليتمة",
+      "url": "https://aawsat.com/node/5315974",
+      "category": "مشرق أوسط",
+      "published": "Tue, 08 Sep 2026 12:33:15 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "إسرائيل تدمّر «مستشفى غندور»... الناجي من 45 عاماً من حروب الجنوب اللبناني",
+      "url": "https://aawsat.com/node/5315895",
+      "category": "مشرق أوسط",
+      "published": "Tue, 08 Sep 2026 08:50:00 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "معارك اليمن... فتح محاور جديدة يربك التحصينات الحوثية",
+      "url": "https://aawsat.com/node/5315735",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 17:38:11 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "العراق يطّلع على التجربة المصرية في معالجة المياه وإعادة استخدامها",
+      "url": "https://aawsat.com/node/5315684",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 15:45:35 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "البيضاء... «المفتاح المنسي» في خريطة الحرب اليمنية",
+      "url": "https://aawsat.com/node/5315647",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 14:35:14 +0100",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "روسيا تستأنف قصف كييف بعد وقف قصير لإطلاق النار",
       "url": "https://aawsat.com/node/5315865",
       "category": "دولي",
       "published": "Tue, 08 Sep 2026 07:15:11 +0100",
-      "breaking": true
-    },
-    {
-      "title": "اكتساح انتخابي لحزب «البديل»... ما سرّ صعود أقصى اليمين في شرق ألمانيا؟",
-      "url": "https://aawsat.com/node/5315839",
-      "category": "دولي",
-      "published": "Tue, 08 Sep 2026 05:10:10 +0100",
-      "breaking": false
-    },
-    {
-      "title": "المدعي العام الأوكراني يستقيل على خلفية اتهامات بالفساد",
-      "url": "https://aawsat.com/node/5315833",
-      "category": "دولي",
-      "published": "Tue, 08 Sep 2026 01:45:27 +0100",
-      "breaking": false
-    },
-    {
-      "title": "رياح اليمين المتطرف تهب على أوروبا من ألمانيا",
-      "url": "https://aawsat.com/node/5315825",
-      "category": "دولي",
-      "published": "Tue, 08 Sep 2026 00:31:53 +0100",
-      "breaking": false
-    },
-    {
-      "title": "السويد تعلن شراء منظومات «هيمارس» بقيمة 730 مليون دولار",
-      "url": "https://aawsat.com/node/5315777",
-      "category": "دولي",
-      "published": "Mon, 07 Sep 2026 21:01:44 +0100",
-      "breaking": false
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "حفظ شكوى في باريس ضد جنرال بتهمة تمجيد «جريمة حرب» بقضية مقتل صحافية لبنانية",
       "url": "https://aawsat.com/node/5315767",
       "category": "دولي",
       "published": "Mon, 07 Sep 2026 20:22:58 +0100",
-      "breaking": true
-    },
-    {
-      "title": "فرنسا: خطط إرسال أنظمة دفاع جوي إلى أوكرانيا تمضي قدماً",
-      "url": "https://aawsat.com/node/5315755",
-      "category": "دولي",
-      "published": "Mon, 07 Sep 2026 19:43:38 +0100",
-      "breaking": false
-    },
-    {
-      "title": "واشنطن تتحدث عن «تقدم جوهري» نحو محادثات ثلاثية جديدة بشأن أوكرانيا",
-      "url": "https://aawsat.com/node/5315750",
-      "category": "دولي",
-      "published": "Mon, 07 Sep 2026 18:47:16 +0100",
-      "breaking": false
-    },
-    {
-      "title": "فنلندا تستكمل بناء سياج حدودي مع روسيا",
-      "url": "https://aawsat.com/node/5315749",
-      "category": "دولي",
-      "published": "Mon, 07 Sep 2026 18:41:36 +0100",
-      "breaking": false
-    },
-    {
-      "title": "«فرونتكس»: ترحيل أكثر من 33 ألف مهاجر من الاتحاد الأوروبي خلال 6 أشهر",
-      "url": "https://aawsat.com/node/5315742",
-      "category": "دولي",
-      "published": "Mon, 07 Sep 2026 18:03:00 +0100",
-      "breaking": false
-    },
-    {
-      "title": "الملك تشارلز: هاري وميغان لن يضطلعا بأي مهمّة ملكية",
-      "url": "https://aawsat.com/node/5315737",
-      "category": "دولي",
-      "published": "Mon, 07 Sep 2026 17:44:04 +0100",
-      "breaking": false
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "روسيا تغلق جميع مراكز معهد غوته وتأمر بإغلاق القنصلية الألمانية في سانت بطرسبرغ",
       "url": "https://aawsat.com/node/5315728",
       "category": "دولي",
       "published": "Mon, 07 Sep 2026 17:17:29 +0100",
-      "breaking": true
+      "breaking": true,
+      "watch_topics": []
     },
     {
-      "title": "موسكو: إرسال صواريخ أميركية إلى النرويج يعرقل الحوار حول الاستقرار النووي",
-      "url": "https://aawsat.com/node/5315718",
+      "title": "5 قتلى إثر انحراف طائرة شحن تابعة لـ«أمازون» عن المدرج بمطار ميامي",
+      "url": "https://aawsat.com/node/5315434",
       "category": "دولي",
-      "published": "Mon, 07 Sep 2026 16:54:37 +0100",
-      "breaking": false
+      "published": "Sun, 06 Sep 2026 23:20:35 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
-      "title": "اليمين المتطرف يتلمّس طريقه للحكم محلياً في ألمانيا",
-      "url": "https://aawsat.com/node/5315698",
+      "title": "الجيش الأميركي يعلن إسقاط 300 مسيّرة لعصابات المخدرات عند الحدود مع المكسيك",
+      "url": "https://aawsat.com/node/5314869",
       "category": "دولي",
-      "published": "Mon, 07 Sep 2026 16:21:54 +0100",
-      "breaking": false
+      "published": "Sat, 05 Sep 2026 02:01:18 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
-      "title": "رياح اليمين المتطرف تعصف بالشراع الأوروبي",
-      "url": "https://aawsat.com/node/5315689",
+      "title": "واشنطن تتحدث عن «تقدم جوهري» نحو محادثات ثلاثية جديدة بشأن أوكرانيا",
+      "url": "https://aawsat.com/node/5315750",
       "category": "دولي",
-      "published": "Mon, 07 Sep 2026 16:06:56 +0100",
-      "breaking": false
+      "published": "Mon, 07 Sep 2026 18:47:16 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
     },
     {
-      "title": "الأمم المتحدة قلقة من استخدام مسيّرات فتاكة ذاتية التشغيل في أوكرانيا",
-      "url": "https://aawsat.com/node/5315682",
+      "title": "ترمب يروج لفكرة تغيير اسم ولاية نيو مكسيكو إلى نيو أميركا",
+      "url": "https://aawsat.com/node/5315773",
       "category": "دولي",
-      "published": "Mon, 07 Sep 2026 15:44:20 +0100",
-      "breaking": false
+      "published": "Mon, 07 Sep 2026 20:54:31 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
     },
     {
-      "title": "موسكو وكييف تسابقان ميدانياً جهود إطلاق المسار التفاوضي",
-      "url": "https://aawsat.com/node/5315661",
+      "title": "ترمب يقترح تغيير اسم ولاية نيو مكسيكو إلى «نيو أميركا»",
+      "url": "https://aawsat.com/node/5315458",
       "category": "دولي",
-      "published": "Mon, 07 Sep 2026 15:11:33 +0100",
-      "breaking": false
+      "published": "Mon, 07 Sep 2026 04:29:16 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
     },
     {
-      "title": "انهيار جليدي يودي بحياة 11 متسلقاً في شمال القوقاز الروسي",
-      "url": "https://aawsat.com/node/5315620",
+      "title": "تقرير: البيت الأبيض يدرس أسماء مرشحين لخلافة نائب وزير الحرب",
+      "url": "https://aawsat.com/node/5314893",
       "category": "دولي",
-      "published": "Mon, 07 Sep 2026 13:17:02 +0100",
-      "breaking": false
+      "published": "Sat, 05 Sep 2026 06:49:55 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
     },
     {
-      "title": "الكرملين: لا نستبعد استئناف المفاوضات مع أوكرانيا برعاية أميركية",
-      "url": "https://aawsat.com/node/5315613",
+      "title": "معركة الخرائط الانتخابية في أميركا تحتدم قبل أسابيع من اقتراع التجديد النصفي",
+      "url": "https://aawsat.com/node/5314719",
       "category": "دولي",
-      "published": "Mon, 07 Sep 2026 12:51:15 +0100",
-      "breaking": false
+      "published": "Fri, 04 Sep 2026 15:48:36 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "أميركا ترحل أكثر من 100 شخص إلى هايتي مع استمرار عنف العصابات",
+      "url": "https://aawsat.com/node/5314511",
+      "category": "دولي",
+      "published": "Fri, 04 Sep 2026 02:13:34 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "بريطانيا تستعد لفرض عقوبات على المستوطنات الإسرائيلية في الضفة الغربية",
+      "url": "https://aawsat.com/node/5315874",
+      "category": "دولي",
+      "published": "Tue, 08 Sep 2026 07:54:49 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "اكتساح انتخابي لحزب «البديل»... ما سرّ صعود أقصى اليمين في شرق ألمانيا؟",
+      "url": "https://aawsat.com/node/5315839",
+      "category": "دولي",
+      "published": "Tue, 08 Sep 2026 05:10:10 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "المدعي العام الأوكراني يستقيل على خلفية اتهامات بالفساد",
+      "url": "https://aawsat.com/node/5315833",
+      "category": "دولي",
+      "published": "Tue, 08 Sep 2026 01:45:27 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "رياح اليمين المتطرف تهب على أوروبا من ألمانيا",
+      "url": "https://aawsat.com/node/5315825",
+      "category": "دولي",
+      "published": "Tue, 08 Sep 2026 00:31:53 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "السويد تعلن شراء منظومات «هيمارس» بقيمة 730 مليون دولار",
+      "url": "https://aawsat.com/node/5315777",
+      "category": "دولي",
+      "published": "Mon, 07 Sep 2026 21:01:44 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "فرنسا: خطط إرسال أنظمة دفاع جوي إلى أوكرانيا تمضي قدماً",
+      "url": "https://aawsat.com/node/5315755",
+      "category": "دولي",
+      "published": "Mon, 07 Sep 2026 19:43:38 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "فنلندا تستكمل بناء سياج حدودي مع روسيا",
+      "url": "https://aawsat.com/node/5315749",
+      "category": "دولي",
+      "published": "Mon, 07 Sep 2026 18:41:36 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "«فرونتكس»: ترحيل أكثر من 33 ألف مهاجر من الاتحاد الأوروبي خلال 6 أشهر",
+      "url": "https://aawsat.com/node/5315742",
+      "category": "دولي",
+      "published": "Mon, 07 Sep 2026 18:03:00 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الملك تشارلز: هاري وميغان لن يضطلعا بأي مهمّة ملكية",
+      "url": "https://aawsat.com/node/5315737",
+      "category": "دولي",
+      "published": "Mon, 07 Sep 2026 17:44:04 +0100",
+      "breaking": false,
+      "watch_topics": []
     }
   ],
   "breaking": [
@@ -512,42 +630,90 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cx2zvngjlnjo",
       "category": "عراق",
       "published": "2026-09-08T05:29:42+00:00",
-      "breaking": true
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "السعودية: استهداف منشآت ومرافق للطاقة جنوب المملكة وتوقّف مؤقت لبعض العمليات التشغيلية",
       "url": "https://aawsat.com/node/5315860",
       "category": "مشرق أوسط",
       "published": "Tue, 08 Sep 2026 07:00:59 +0100",
-      "breaking": true
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "ثوران بركاني يمدّد إغلاق 4 مطارات في إندونيسيا ويعطل آلاف الرحلات",
+      "url": "https://aawsat.com/node/5315521",
+      "category": "مشرق أوسط",
+      "published": "Mon, 07 Sep 2026 09:11:18 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مقتل 16 جندياً باكستانياً في كمين لقافلة عسكرية بإقليم بلوشستان",
+      "url": "https://aawsat.com/node/5314711",
+      "category": "مشرق أوسط",
+      "published": "Fri, 04 Sep 2026 15:32:16 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "ارتفاع حصيلة ضحايا فيضانات نيبال إلى 1259 قتيلاً و5083 مفقوداً",
+      "url": "https://aawsat.com/node/5314389",
+      "category": "مشرق أوسط",
+      "published": "Thu, 03 Sep 2026 17:42:50 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "حصيلة قتلى فيضانات جبال الهيمالايا تتجاوز الألف",
+      "url": "https://aawsat.com/node/5313522",
+      "category": "مشرق أوسط",
+      "published": "Tue, 01 Sep 2026 16:42:12 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "روسيا تستأنف قصف كييف بعد وقف قصير لإطلاق النار",
       "url": "https://aawsat.com/node/5315865",
       "category": "دولي",
       "published": "Tue, 08 Sep 2026 07:15:11 +0100",
-      "breaking": true
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "حفظ شكوى في باريس ضد جنرال بتهمة تمجيد «جريمة حرب» بقضية مقتل صحافية لبنانية",
       "url": "https://aawsat.com/node/5315767",
       "category": "دولي",
       "published": "Mon, 07 Sep 2026 20:22:58 +0100",
-      "breaking": true
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "روسيا تغلق جميع مراكز معهد غوته وتأمر بإغلاق القنصلية الألمانية في سانت بطرسبرغ",
       "url": "https://aawsat.com/node/5315728",
       "category": "دولي",
       "published": "Mon, 07 Sep 2026 17:17:29 +0100",
-      "breaking": true
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "5 قتلى إثر انحراف طائرة شحن تابعة لـ«أمازون» عن المدرج بمطار ميامي",
       "url": "https://aawsat.com/node/5315434",
       "category": "دولي",
       "published": "Sun, 06 Sep 2026 23:20:35 +0100",
-      "breaking": true
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "الجيش الأميركي يعلن إسقاط 300 مسيّرة لعصابات المخدرات عند الحدود مع المكسيك",
+      "url": "https://aawsat.com/node/5314869",
+      "category": "دولي",
+      "published": "Sat, 05 Sep 2026 02:01:18 +0100",
+      "breaking": true,
+      "watch_topics": []
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T12:19:07.203943+00:00",
+  "updated_at": "2026-09-08T12:25:00.185324+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -29,6 +29,21 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/850e87a3d8be.html"
+    },
+    {
+      "title": "بغداد.. القبض على شخص رشّ التيزاب والثنر على منتسبين خلال تظاهرات الخريجين القدامى",
+      "url": "https://www.alsumaria.tv/news/security/575396/%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%B4%D8%AE%D8%B5-%D8%B1%D8%B4%D9%91-%D8%A7%D9%84%D8%AA%D9%8A%D8%B2%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%AB%D9%86%D8%B1-%D8%B9%D9%84%D9%89-%D9%85%D9%86%D8%AA%D8%B3%D8%A8%D9%8A%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D8%AC",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-08T12:18:51+00:00",
+      "image": "./assets/news/5b2bba8fea961a18c98e172b.jpg",
+      "original_image": "./assets/news/5b2bba8fea961a18c98e172b.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/575396/%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%B4%D8%AE%D8%B5-%D8%B1%D8%B4%D9%91-%D8%A7%D9%84%D8%AA%D9%8A%D8%B2%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%AB%D9%86%D8%B1-%D8%B9%D9%84%D9%89-%D9%85%D9%86%D8%AA%D8%B3%D8%A8%D9%8A%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D8%AC",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/698d317edb80.html"
     },
     {
       "title": "الدفاع المدني يسيطر على حريق داخل دار سكنية في الرمادي",
@@ -81,8 +96,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-08T11:05:50+00:00",
-      "image": "./assets/news/4e7b4abdbce774ebb245f21a.jpg",
-      "original_image": "./assets/news/4e7b4abdbce774ebb245f21a.jpg",
+      "image": "./assets/news/790ae83126491681d3ac08ec.jpg",
+      "original_image": "./assets/news/790ae83126491681d3ac08ec.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/575389/%D9%85%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%B3%D9%86%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D8%A8%D8%AD%D8%B2%D9%85-%D9%85%D8%B9-%D8%AC%D9%85%D9%8A%D8%B9-%D8%AD%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B6-%D9%88%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%81%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -134,21 +149,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/57b6ffc22f81.html"
-    },
-    {
-      "title": "قوة امنية تتدخل وتحرر حدثا قيده والده بالسلاسل في بغداد (صورة)",
-      "url": "https://www.alsumaria.tv/news/localnews/575384/%D9%82%D9%88%D8%A9-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D8%AF%D8%AE%D9%84-%D9%88%D8%AA%D8%AD%D8%B1%D8%B1-%D8%AD%D8%AF%D8%AB%D8%A7-%D9%82%D9%8A%D8%AF%D9%87-%D9%88%D8%A7%D9%84%D8%AF%D9%87-%D8%A8%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%B3%D9%84-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%B5%D9%88%D8%B1%D8%A9",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-08T10:04:52+00:00",
-      "image": "./assets/news/b40086993a0695897d6f71e8.jpg",
-      "original_image": "./assets/news/b40086993a0695897d6f71e8.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/575384/%D9%82%D9%88%D8%A9-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D8%AF%D8%AE%D9%84-%D9%88%D8%AA%D8%AD%D8%B1%D8%B1-%D8%AD%D8%AF%D8%AB%D8%A7-%D9%82%D9%8A%D8%AF%D9%87-%D9%88%D8%A7%D9%84%D8%AF%D9%87-%D8%A8%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%B3%D9%84-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%B5%D9%88%D8%B1%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0c1e79c8266e.html"
     },
     {
       "title": "نائب يكشف ما يدور خلف الكواليس: فقرة دست بقانون العفو تخدم الفاسدين",
@@ -231,8 +231,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-08T12:08:25+00:00",
-      "image": "./assets/news/5560c102963d6b81ce98a506.jpg",
-      "original_image": "./assets/news/5560c102963d6b81ce98a506.jpg",
+      "image": "./assets/news/5b249cf6bb2f00e968183207.jpg",
+      "original_image": "./assets/news/5b249cf6bb2f00e968183207.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/575395/sports/%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%B4%D8%AD%D9%8A%D9%86-%D9%84%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D9%83%D8%B1%D9%88%D9%8A%D9%81-%D9%84%D8%A3%D9%81%D8%B6%D9%84-%D9%85%D8%AF%D8%B1%D8%A8-%D9%81%D9%8A-2026",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -254,21 +254,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/23524912e8e4.html"
-    },
-    {
-      "title": "رغم ارتفاعه وتجاوزه الـ155 الفا.. أسعار الدولار تستقر لليوم التالي",
-      "url": "https://www.alsumaria.tv/news/economy/575364/%D8%B1%D8%BA%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9%D9%87-%D9%88%D8%AA%D8%AC%D8%A7%D9%88%D8%B2%D9%87-%D8%A7%D9%84%D9%80155-%D8%A7%D9%84%D9%81%D8%A7-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%AA%D8%B3%D8%AA%D9%82%D8%B1-%D9%84%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AA%D8%A7%D9%84%D9%8A",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-08T08:41:52+00:00",
-      "image": "./assets/news/a2adde54be615a692e58a512.jpg",
-      "original_image": "./assets/news/a2adde54be615a692e58a512.jpg",
-      "source_url": "https://www.alsumaria.tv/news/economy/575364/%D8%B1%D8%BA%D9%85-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9%D9%87-%D9%88%D8%AA%D8%AC%D8%A7%D9%88%D8%B2%D9%87-%D8%A7%D9%84%D9%80155-%D8%A7%D9%84%D9%81%D8%A7-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%AA%D8%B3%D8%AA%D9%82%D8%B1-%D9%84%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AA%D8%A7%D9%84%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f9e4b5c00435.html"
     },
     {
       "title": "مقتل 13 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار - شفق نيوز..",
@@ -344,6 +329,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/557ad641ce9e.html"
+    },
+    {
+      "title": "قوة امنية تتدخل وتحرر حدثا قيده والده بالسلاسل في بغداد (صورة)",
+      "url": "https://www.alsumaria.tv/news/localnews/575384/%D9%82%D9%88%D8%A9-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D8%AF%D8%AE%D9%84-%D9%88%D8%AA%D8%AD%D8%B1%D8%B1-%D8%AD%D8%AF%D8%AB%D8%A7-%D9%82%D9%8A%D8%AF%D9%87-%D9%88%D8%A7%D9%84%D8%AF%D9%87-%D8%A8%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%B3%D9%84-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%B5%D9%88%D8%B1%D8%A9",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-08T10:04:52+00:00",
+      "image": "./assets/news/b40086993a0695897d6f71e8.jpg",
+      "original_image": "./assets/news/b40086993a0695897d6f71e8.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/575384/%D9%82%D9%88%D8%A9-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D8%AF%D8%AE%D9%84-%D9%88%D8%AA%D8%AD%D8%B1%D8%B1-%D8%AD%D8%AF%D8%AB%D8%A7-%D9%82%D9%8A%D8%AF%D9%87-%D9%88%D8%A7%D9%84%D8%AF%D9%87-%D8%A8%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%B3%D9%84-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%B5%D9%88%D8%B1%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0c1e79c8266e.html"
     },
     {
       "title": "صلاح الدين تختار مدراء لسامراء وبيجي و4 وحدات إدارية أخرى",
@@ -456,8 +456,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-08T08:54:46+00:00",
-      "image": "./assets/news/8cc305382a87aa8f46ba7187.jpg",
-      "original_image": "./assets/news/8cc305382a87aa8f46ba7187.jpg",
+      "image": "./assets/news/9b4d75f6c7461dbf192d9a61.jpg",
+      "original_image": "./assets/news/9b4d75f6c7461dbf192d9a61.jpg",
       "source_url": "https://www.alsumaria.tv/news/miscellaneous/575365/%D8%AA%D8%B1%D9%86%D8%AF-%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D8%A7%D8%AA-%D9%8A%D8%AC%D8%AA%D8%A7%D8%AD-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
