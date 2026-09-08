@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T23:46:59.102712+00:00",
+  "updated_at": "2026-09-08T23:57:59.473264+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -14,6 +14,21 @@
       "source_name": "التاسعة نيوز",
       "summary": "يعقد مجلس محافظة كركوك جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات، بينها استضافة مديري شرطة المحافظة والبلدية لبحث الملفات المطروحة على جدول أعمال المجلس.",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a8a5fb2ea351.html"
+    },
+    {
+      "title": "إلغاء نحو 1100 رحلة جوية بسبب خلل فني في مطارات في بريطانيا - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ckg8e5lv099o",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-08T23:23:52+00:00",
+      "image": "./assets/news/ec2ddeceb15855498c410c6b.jpg",
+      "original_image": "./assets/news/ec2ddeceb15855498c410c6b.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/ckg8e5lv099o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8965bcee19cc.html"
     },
     {
       "title": "مجلس الوزراء يتخذ قرارات عدة بينها يخص تصدير النفط والايفادات الخارجية",
@@ -359,21 +374,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9fd64f725332.html"
-    },
-    {
-      "title": "كيف يستعد الرئيس الصيني للقاء دونالد ترامب؟ - مقال في الواشنطن بوست - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c74kz4kzgego",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-08T13:44:38+00:00",
-      "image": "./assets/news/9a773861a7aa0aab28970a9a.jpg",
-      "original_image": "./assets/news/9a773861a7aa0aab28970a9a.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c74kz4kzgego",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ce3e2fa5761f.html"
     }
   ]
 }

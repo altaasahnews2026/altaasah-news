@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T23:47:03.302520+00:00",
+  "updated_at": "2026-09-08T23:58:02.666887+00:00",
   "latest": [
     {
       "title": "إنذارات سعودية جديدة \"للتحذير من خطر\" بعد هجمات الحوثيين، والخارجية الأمريكية تحمّل إيران المسؤولية - شفق نيوز..",
@@ -50,16 +50,6 @@
       "published": "2026-09-08T17:52:54+00:00",
       "breaking": true,
       "watch_topics": []
-    },
-    {
-      "title": "كيف يستعد الرئيس الصيني للقاء دونالد ترامب؟ - مقال في الواشنطن بوست - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c74kz4kzgego",
-      "category": "عراق",
-      "published": "2026-09-08T13:44:38+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
     },
     {
       "title": "إيران تعلق على الحل الأمريكي المبتكر",
@@ -226,6 +216,14 @@
       "watch_topics": []
     },
     {
+      "title": "إلغاء نحو 1100 رحلة جوية بسبب خلل فني في مطارات في بريطانيا - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ckg8e5lv099o",
+      "category": "عراق",
+      "published": "2026-09-08T23:23:52+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
       "url": "https://altaasahnews2026.github.io/altaasah-news/editorial/kirkuk-council-25-2026-09-08",
       "category": "عراق",
@@ -328,6 +326,16 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "ولي العهد السعودي يستقبل الأمراء والعلماء وجمعاً من المواطنين",
+      "url": "https://aawsat.com/node/5316234",
+      "category": "مشرق أوسط",
+      "published": "Wed, 09 Sep 2026 00:50:05 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {
@@ -457,14 +465,6 @@
       "url": "https://aawsat.com/node/5315974",
       "category": "مشرق أوسط",
       "published": "Tue, 08 Sep 2026 12:33:15 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "إسرائيل تدمّر «مستشفى غندور»... الناجي من 45 عاماً من حروب الجنوب اللبناني",
-      "url": "https://aawsat.com/node/5315895",
-      "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 08:50:00 +0100",
       "breaking": false,
       "watch_topics": []
     },
