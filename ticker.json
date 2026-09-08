@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T05:59:06.355638+00:00",
+  "updated_at": "2026-09-08T06:24:27.828650+00:00",
   "latest": [
     {
       "title": "الجيش الإسرائيلي ينفذ تفجيرا كبيرا جنوبي لبنان",
@@ -177,6 +177,13 @@
       "breaking": false
     },
     {
+      "title": "تحالف دعم الشرعية باليمن: إصابة 73 في اعتداءات الحوثيين على السعودية",
+      "url": "https://www.alsumaria.tv/news/international/575350/%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9-%d8%a8%d8%a7%d9%84%d9%8a%d9%85%d9%86-%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-73-%d9%81%d9%8a-%d8%a7%d8%b9%d8%aa%d8%af%d8%a7%d8%a1%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Tue, 08 Sep 2026 06:22:53 GMT",
+      "breaking": false
+    },
+    {
       "title": "معارك اليمن... فتح محاور جديدة يربك التحصينات الحوثية",
       "url": "https://aawsat.com/node/5315735",
       "category": "مشرق أوسط",
@@ -317,6 +324,13 @@
       "breaking": false
     },
     {
+      "title": "السعودية: استهداف منشآت ومرافق للطاقة جنوب المملكة وتوقّف مؤقت لبعض العمليات التشغيلية",
+      "url": "https://aawsat.com/node/5315860",
+      "category": "مشرق أوسط",
+      "published": "Tue, 08 Sep 2026 07:00:59 +0100",
+      "breaking": true
+    },
+    {
       "title": "«تحالف دعم الشرعية»: اعتداءات «ميليشيا الحوثي» على السعودية تصعيد خطير سيواجه بكل حزم",
       "url": "https://aawsat.com/node/5315841",
       "category": "مشرق أوسط",
@@ -338,11 +352,11 @@
       "breaking": false
     },
     {
-      "title": "السعودية وبنغلاديش تبحثان أمن الملاحة وأوجه التعاون العسكري",
-      "url": "https://aawsat.com/node/5315743",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 18:04:28 +0100",
-      "breaking": false
+      "title": "روسيا تستأنف قصف كييف بعد وقف قصير لإطلاق النار",
+      "url": "https://aawsat.com/node/5315865",
+      "category": "دولي",
+      "published": "Tue, 08 Sep 2026 07:15:11 +0100",
+      "breaking": true
     },
     {
       "title": "اكتساح انتخابي لحزب «البديل»... ما سرّ صعود أقصى اليمين في شرق ألمانيا؟",
@@ -478,13 +492,6 @@
       "breaking": false
     },
     {
-      "title": "النمسا: حظر الحجاب لمن دون 14 عاماً يواجه أول اختبار مع عودة المدارس",
-      "url": "https://aawsat.com/node/5315604",
-      "category": "دولي",
-      "published": "Mon, 07 Sep 2026 12:22:18 +0100",
-      "breaking": false
-    },
-    {
       "title": "ترمب يروج لفكرة تغيير اسم ولاية نيو مكسيكو إلى نيو أميركا",
       "url": "https://aawsat.com/node/5315773",
       "category": "دولي",
@@ -496,13 +503,6 @@
       "url": "https://aawsat.com/node/5315770",
       "category": "دولي",
       "published": "Mon, 07 Sep 2026 20:40:22 +0100",
-      "breaking": false
-    },
-    {
-      "title": "ترمب يقترح تغيير اسم ولاية نيو مكسيكو إلى «نيو أميركا»",
-      "url": "https://aawsat.com/node/5315458",
-      "category": "دولي",
-      "published": "Mon, 07 Sep 2026 04:29:16 +0100",
       "breaking": false
     }
   ],
@@ -540,6 +540,20 @@
       "url": "https://aawsat.com/node/5314654",
       "category": "مشرق أوسط",
       "published": "Fri, 04 Sep 2026 12:56:08 +0100",
+      "breaking": true
+    },
+    {
+      "title": "السعودية: استهداف منشآت ومرافق للطاقة جنوب المملكة وتوقّف مؤقت لبعض العمليات التشغيلية",
+      "url": "https://aawsat.com/node/5315860",
+      "category": "مشرق أوسط",
+      "published": "Tue, 08 Sep 2026 07:00:59 +0100",
+      "breaking": true
+    },
+    {
+      "title": "روسيا تستأنف قصف كييف بعد وقف قصير لإطلاق النار",
+      "url": "https://aawsat.com/node/5315865",
+      "category": "دولي",
+      "published": "Tue, 08 Sep 2026 07:15:11 +0100",
       "breaking": true
     },
     {
