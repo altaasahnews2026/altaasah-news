@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
-"""Publish fresh التاسعة نيوز stories to Instagram and TikTok.
-
-Credentials are supplied only through GitHub Actions secrets/environment variables.
-No AI branding, watermark, overlay, or AI-generated label is added to published media.
-"""
+"""Publish fresh التاسعة نيوز stories to Instagram and TikTok."""
 from __future__ import annotations
 
 import hashlib
@@ -63,11 +59,7 @@ def post_instagram(item: dict, access_token: str, ig_user_id: str) -> str:
     if not creation_id:
         raise RuntimeError(f"Instagram media creation failed: {r.text[:500]}")
     time.sleep(2)
-    r2 = requests.post(
-        f"https://graph.facebook.com/v24.0/{ig_user_id}/media_publish",
-        data={"creation_id": creation_id, "access_token": access_token},
-        timeout=45,
-    )
+    r2 = requests.post(f"https://graph.facebook.com/v24.0/{ig_user_id}/media_publish", data={"creation_id": creation_id, "access_token": access_token}, timeout=45)
     r2.raise_for_status()
     published_id = r2.json().get("id")
     if not published_id:
@@ -76,11 +68,7 @@ def post_instagram(item: dict, access_token: str, ig_user_id: str) -> str:
 
 
 def tiktok_creator_info(access_token: str) -> dict:
-    r = requests.post(
-        "https://open.tiktokapis.com/v2/post/publish/creator_info/query/",
-        headers={"Authorization": f"Bearer {access_token}", "Content-Type": "application/json; charset=UTF-8"},
-        timeout=45,
-    )
+    r = requests.post("https://open.tiktokapis.com/v2/post/publish/creator_info/query/", headers={"Authorization": f"Bearer {access_token}", "Content-Type": "application/json; charset=UTF-8"}, timeout=45)
     r.raise_for_status()
     data = r.json()
     if data.get("error", {}).get("code") not in (None, "ok"):
@@ -96,27 +84,12 @@ def post_tiktok_photo(item: dict, access_token: str) -> str:
     requested_privacy = os.getenv("TIKTOK_PRIVACY", "PUBLIC_TO_EVERYONE")
     privacy = requested_privacy if requested_privacy in privacy_options else (privacy_options[0] if privacy_options else requested_privacy)
     payload = {
-        "post_info": {
-            "title": title[:2200],
-            "description": caption(item)[:2200],
-            "privacy_level": privacy,
-            "disable_comment": False,
-            "auto_add_music": False,
-        },
-        "source_info": {
-            "source": "PULL_FROM_URL",
-            "photo_images": [image_url],
-            "photo_cover_index": 0,
-        },
+        "post_info": {"title": title[:2200], "description": caption(item)[:2200], "privacy_level": privacy, "disable_comment": False, "auto_add_music": False},
+        "source_info": {"source": "PULL_FROM_URL", "photo_images": [image_url], "photo_cover_index": 0},
         "post_mode": "DIRECT_POST",
         "media_type": "PHOTO",
     }
-    r = requests.post(
-        "https://open.tiktokapis.com/v2/post/publish/content/init/",
-        headers={"Authorization": f"Bearer {access_token}", "Content-Type": "application/json; charset=UTF-8"},
-        json=payload,
-        timeout=45,
-    )
+    r = requests.post("https://open.tiktokapis.com/v2/post/publish/content/init/", headers={"Authorization": f"Bearer {access_token}", "Content-Type": "application/json; charset=UTF-8"}, json=payload, timeout=45)
     r.raise_for_status()
     data = r.json()
     if data.get("error", {}).get("code") not in (None, "ok"):
@@ -132,7 +105,6 @@ def main() -> int:
     items = news.get("items", [])
     state = load_json(STATE_FILE, {"posted": {}})
     posted = state.setdefault("posted", {})
-
     ig_token = os.getenv("INSTAGRAM_ACCESS_TOKEN", "").strip()
     ig_user = os.getenv("INSTAGRAM_USER_ID", "").strip()
     tt_token = os.getenv("TIKTOK_ACCESS_TOKEN", "").strip()
@@ -142,15 +114,17 @@ def main() -> int:
         save_json(STATE_FILE, state)
         return 0
 
-    fresh = []
+    candidates = []
     for item in items:
-        sid = story_id(item)
-        if not item.get("image") or sid in posted:
+        if not item.get("image"):
             continue
-        fresh.append((sid, item))
-    fresh = fresh[:MAX_POSTS_PER_RUN]
+        sid = story_id(item)
+        record = posted.get(sid, {})
+        if (ig_token and ig_user and not record.get("instagram")) or (tt_token and not record.get("tiktok")):
+            candidates.append((sid, item))
+    candidates = candidates[:MAX_POSTS_PER_RUN]
 
-    for sid, item in fresh:
+    for sid, item in candidates:
         record = posted.setdefault(sid, {"title": item.get("title", ""), "url": item.get("url", "")})
         if ig_token and ig_user and not record.get("instagram"):
             try:
@@ -167,7 +141,7 @@ def main() -> int:
         record["attempted_at"] = int(time.time())
         save_json(STATE_FILE, state)
 
-    print("SOCIAL DONE:", len(fresh), "stories checked")
+    print("SOCIAL DONE:", len(candidates), "stories checked")
     return 0
 
 
