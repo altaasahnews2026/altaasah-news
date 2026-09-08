@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T16:51:45.527110+00:00",
+  "updated_at": "2026-09-08T17:03:25.986472+00:00",
   "latest": [
     {
       "title": "واشنطن تفرض عقوبات جديدة على قطاع الطيران الإيراني",
@@ -80,18 +80,28 @@
       ]
     },
     {
-      "title": "الأمن والدفاع النيابية تكشف تفاصيل تعديل قانون خدمة وتقاعد قوى الأمن الداخلي",
-      "url": "https://www.alsumaria.tv/news/localnews/575405/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AE%D8%AF%D9%85%D8%A9-%D9%88%D8%AA%D9%82%D8%A7%D8%B9%D8%AF-%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7",
+      "title": "إيران تعلق على ضرب العراقيين.. معركة “نيكان” 3 ساعات في شارع قاسم سليماني",
+      "url": "https://964media.com/715099/",
       "category": "عراق",
-      "published": "2026-09-08T13:47:23+00:00",
+      "published": "2026-09-08T16:36:19+00:00",
       "breaking": false,
-      "watch_topics": []
+      "watch_topics": [
+        "إيران"
+      ]
     },
     {
       "title": "لماذا يضع فلسطينيون العلم الأمريكي فوق منازلهم في الضفة؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c207ke7gv10o",
       "category": "عراق",
       "published": "2026-09-08T08:31:15+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الأمن والدفاع النيابية تكشف تفاصيل تعديل قانون خدمة وتقاعد قوى الأمن الداخلي",
+      "url": "https://www.alsumaria.tv/news/localnews/575405/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AE%D8%AF%D9%85%D8%A9-%D9%88%D8%AA%D9%82%D8%A7%D8%B9%D8%AF-%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-08T13:47:23+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -136,18 +146,18 @@
       "watch_topics": []
     },
     {
-      "title": "دوري أبطال أوروبا يعود: من أبرز المرشحين ومن هم اللاعبون الذين يستحقون المتابعة؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cd79yx27p51o",
-      "category": "عراق",
-      "published": "2026-09-08T14:55:36+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "البنك المركزي: حقوق مودعي مصرف الطيف محفوظة وإجراءات الوصاية تهدف لحماية أموالهم",
       "url": "https://www.alsumaria.tv/news/localnews/575418/%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%AD%D9%82%D9%88%D9%82-%D9%85%D9%88%D8%AF%D8%B9%D9%8A-%D9%85%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%B7%D9%8A%D9%81-%D9%85%D8%AD%D9%81%D9%88%D8%B8%D8%A9-%D9%88%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B5%D8%A7%D9%8A%D8%A9-%D8%AA%D9%87%D8%AF%D9%81-%D9%84%D8%AD%D9%85%D8%A7%D9%8A",
       "category": "عراق",
       "published": "2026-09-08T15:54:10+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "دوري أبطال أوروبا يعود: من أبرز المرشحين ومن هم اللاعبون الذين يستحقون المتابعة؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cd79yx27p51o",
+      "category": "عراق",
+      "published": "2026-09-08T16:36:19+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -232,14 +242,6 @@
       "watch_topics": []
     },
     {
-      "title": "إطلاق منصة (ميّز التزييف) للتوعية بمخاطر الذكاء الاصطناعي",
-      "url": "https://www.alsumaria.tv/news/localnews/575410/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d9%86%d8%b5%d8%a9-%d9%85%d9%8a%d9%91%d8%b2-%d8%a7%d9%84%d8%aa%d8%b2%d9%8a%d9%8a%d9%81-%d9%84%d9%84%d8%aa%d9%88%d8%b9%d9%8a%d8%a9-%d8%a8%d9%85%d8%ae%d8%a7%d8%b7%d8%b1-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-      "category": "عراق",
-      "published": "Tue, 08 Sep 2026 14:42:26 GMT",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "السعودية: استهداف منشآت ومرافق للطاقة جنوب المملكة وتوقّف مؤقت لبعض العمليات التشغيلية",
       "url": "https://aawsat.com/node/5315860",
       "category": "مشرق أوسط",
@@ -310,6 +312,16 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "السعودية وروسيا تؤكدان أهمية دعم الحلول الدبلوماسية للتحديات الإقليمية والدولية",
+      "url": "https://aawsat.com/node/5316113",
+      "category": "مشرق أوسط",
+      "published": "Tue, 08 Sep 2026 17:54:05 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {
@@ -390,16 +402,6 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
-      ]
-    },
-    {
-      "title": "السعودية و7 دول تدين تصريحات إسرائيلية بشأن تهجير الفلسطينيين من غزة",
-      "url": "https://aawsat.com/node/5315230",
-      "category": "مشرق أوسط",
-      "published": "Sun, 06 Sep 2026 10:56:01 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
       ]
     },
     {
