@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T22:41:47.382919+00:00",
+  "updated_at": "2026-09-08T23:07:01.644624+00:00",
   "latest": [
     {
       "title": "إنذارات سعودية جديدة \"للتحذير من خطر\" بعد هجمات الحوثيين، والخارجية الأمريكية تحمّل إيران المسؤولية - شفق نيوز..",
@@ -202,6 +202,14 @@
       "watch_topics": []
     },
     {
+      "title": "وزارة الدفاع تؤكد انتحار آمر لواء شمالي بغداد",
+      "url": "https://www.alsumaria.tv/news/security/575434/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1-%D8%A2%D9%85%D8%B1-%D9%84%D9%88%D8%A7%D8%A1-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "category": "عراق",
+      "published": "2026-09-08T19:21:02+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "الحلبوسي من أنقرة: نأمل أن تكون المنطقة خالية من الإرهاب والمظاهر المسلحة",
       "url": "https://www.alsumaria.tv/news/politics/575438/%D8%A7%D9%84%D8%AD%D9%84%D8%A8%D9%88%D8%B3%D9%8A-%D9%85%D9%86-%D8%A3%D9%86%D9%82%D8%B1%D8%A9-%D9%86%D8%A3%D9%85%D9%84-%D8%A3%D9%86-%D8%AA%D9%83%D9%88%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%AE%D8%A7%D9%84%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D9%85%D8%B8%D8%A7%D9%87%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D9%84",
       "category": "عراق",
@@ -238,14 +246,6 @@
       "url": "https://www.alsumaria.tv/news/localnews/575442/%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d8%ac%d9%81-%d8%a7%d8%b9%d8%aa%d9%82%d8%a7%d9%84-%d8%b4%d8%ae%d8%b5-%d8%a7%d8%ab%d9%86%d8%a7%d8%a1-%d9%85%d8%ad%d8%a7%d9%88%d9%84%d8%aa%d9%87-%d8%a8%d9%8a%d8%b9-%d9%84%d8%ad%d9%88%d9%85-%d8%ae%d9%86%d8%b2%d9%8a%d8%b1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
       "category": "عراق",
       "published": "Tue, 08 Sep 2026 20:51:37 GMT",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الدفاع تؤكد انتحار آمر لواء شمالي بغداد",
-      "url": "https://www.alsumaria.tv/news/security/575434/%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9-%d8%aa%d8%a4%d9%83%d8%af-%d8%a7%d9%86%d8%aa%d8%ad%d8%a7%d8%b1-%d8%a2%d9%85%d8%b1-%d9%84%d9%88%d8%a7%d8%a1-%d8%b4%d9%85%d8%a7%d9%84%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-      "category": "عراق",
-      "published": "Tue, 08 Sep 2026 19:21:02 GMT",
       "breaking": false,
       "watch_topics": []
     },
@@ -469,6 +469,16 @@
       "watch_topics": []
     },
     {
+      "title": "روبيو: الولايات المتحدة ستواصل استهداف الناقلات الإيرانية",
+      "url": "https://aawsat.com/node/5316212",
+      "category": "دولي",
+      "published": "Tue, 08 Sep 2026 23:56:18 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "هجوم بمسيّرة روسية يلحق أضراراً بقناة تلفزيونية أوكرانية",
       "url": "https://aawsat.com/node/5316156",
       "category": "دولي",
@@ -569,6 +579,14 @@
       ]
     },
     {
+      "title": "اتصال «بناء» بين بوتين وترمب حول مسار محتمل للسلام",
+      "url": "https://aawsat.com/node/5316213",
+      "category": "دولي",
+      "published": "Wed, 09 Sep 2026 00:03:34 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "الاتحاد الأوروبي يدرس الرد بعد إقامة جنازة رسمية لملاديتش في صربيا",
       "url": "https://aawsat.com/node/5316136",
       "category": "دولي",
@@ -621,22 +639,6 @@
       "url": "https://aawsat.com/node/5315998",
       "category": "دولي",
       "published": "Tue, 08 Sep 2026 13:32:38 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "كندا و11 دولة أوروبية تعتزم فرض عقوبات على التجارة مع المستوطنات الإسرائيلية",
-      "url": "https://aawsat.com/node/5315874",
-      "category": "دولي",
-      "published": "Tue, 08 Sep 2026 07:54:49 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "اكتساح انتخابي لحزب «البديل»... ما سرّ صعود أقصى اليمين في شرق ألمانيا؟",
-      "url": "https://aawsat.com/node/5315839",
-      "category": "دولي",
-      "published": "Tue, 08 Sep 2026 05:10:10 +0100",
       "breaking": false,
       "watch_topics": []
     }
@@ -743,6 +745,16 @@
       "published": "Tue, 01 Sep 2026 16:42:12 +0100",
       "breaking": true,
       "watch_topics": []
+    },
+    {
+      "title": "روبيو: الولايات المتحدة ستواصل استهداف الناقلات الإيرانية",
+      "url": "https://aawsat.com/node/5316212",
+      "category": "دولي",
+      "published": "Tue, 08 Sep 2026 23:56:18 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
     },
     {
       "title": "هجوم بمسيّرة روسية يلحق أضراراً بقناة تلفزيونية أوكرانية",
