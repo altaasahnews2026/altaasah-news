@@ -22,7 +22,8 @@ def ensure_bilal_image():
     path = Path(BILAL_IMAGE.lstrip('./'))
     path.parent.mkdir(parents=True, exist_ok=True)
     if not path.exists() or path.stat().st_size < 1000:
-        path.write_bytes(base64.b64decode(BILAL_IMAGE_B64))
+        raw = BILAL_IMAGE_B64 + ('=' * (-len(BILAL_IMAGE_B64) % 4))
+        path.write_bytes(base64.b64decode(raw))
 
 
 def main():
