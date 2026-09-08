@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T19:16:16.917675+00:00",
+  "updated_at": "2026-09-08T19:31:20.667050+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -226,19 +226,34 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f473257e90ca.html"
     },
     {
-      "title": "ترامب: إيران لم تعد قادرة على امتلاك سلاح نووي",
-      "url": "https://www.alsumaria.tv/news/international/575413/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D9%85-%D8%AA%D8%B9%D8%AF-%D9%82%D8%A7%D8%AF%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%85%D8%AA%D9%84%D8%A7%D9%83-%D8%B3%D9%84%D8%A7%D8%AD-%D9%86%D9%88%D9%88%D9%8A",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-08T15:03:48+00:00",
-      "image": "./assets/news/911401e045d676207a7f132b.jpg",
-      "original_image": "./assets/news/911401e045d676207a7f132b.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/575413/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D9%85-%D8%AA%D8%B9%D8%AF-%D9%82%D8%A7%D8%AF%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%85%D8%AA%D9%84%D8%A7%D9%83-%D8%B3%D9%84%D8%A7%D8%AD-%D9%86%D9%88%D9%88%D9%8A",
+      "title": "إيران تعلق على الحل الأمريكي المبتكر",
+      "url": "https://www.alsumaria.tv/news/international/575433/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D9%83%D8%B1",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-08T19:20:00+00:00",
+      "image": "./assets/news/61226f6afa698ed00ede6fc4.jpg",
+      "original_image": "./assets/news/61226f6afa698ed00ede6fc4.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575433/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D9%83%D8%B1",
       "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4e460b2f6f0a.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9fd64f725332.html"
+    },
+    {
+      "title": "إنذارات سعودية جديدة \"للتحذير من خطر\" بعد هجمات الحوثيين، والخارجية الأمريكية تحمّل إيران المسؤولية - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-08T19:09:35+00:00",
+      "image": "./assets/news/6e5cf80bb7a41e9457be7958.jpg",
+      "original_image": "./assets/news/6e5cf80bb7a41e9457be7958.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/25d476bacdae.html"
     },
     {
       "title": "إسرائيل تغلق القنصلية البريطانية في القدس رداً على حظر لندن استيراد السلع من المستوطنات - شفق نيوز..",
@@ -254,21 +269,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/84d22e09aac7.html"
-    },
-    {
-      "title": "إنذارات سعودية جديدة \"للتحذير من خطر\"، وإصابة أكثر من 70 شخصاً في السعودية بهجمات للحوثيين - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-08T17:50:44+00:00",
-      "image": "./assets/news/6e5cf80bb7a41e9457be7958.jpg",
-      "original_image": "./assets/news/6e5cf80bb7a41e9457be7958.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8d4e6c277973.html"
     },
     {
       "title": "لبنان.. إنقاذ 21 شخصا أثناء محاولة تهريبهم بطريقة غير شرعية",
@@ -346,21 +346,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ce3e2fa5761f.html"
     },
     {
-      "title": "بين التهدئة والتصعيد: أبرز محطات العلاقة بين السعودية والحوثيين - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c8x2x18geg9o",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-08T08:19:11+00:00",
-      "image": "./assets/news/bf33e3c733634fe68e58c169.jpg",
-      "original_image": "./assets/news/bf33e3c733634fe68e58c169.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c8x2x18geg9o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/557ad641ce9e.html"
-    },
-    {
       "title": "لماذا نشعر بالنعاس بعد تناول الغداء؟",
       "url": "https://www.alsumaria.tv/news/miscellaneous/575419/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%86%D8%B4%D8%B9%D8%B1-%D8%A8%D8%A7%D9%84%D9%86%D8%B9%D8%A7%D8%B3-%D8%A8%D8%B9%D8%AF-%D8%AA%D9%86%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1%D8%9F",
       "category": "سياسة",
@@ -421,19 +406,19 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/13c630bd0cfb.html"
     },
     {
-      "title": "بريطانيا تفرض عقوبات على الذراع المالية لحزب الله اللبناني",
-      "url": "https://www.alsumaria.tv/news/international/575414/%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D9%81%D8%B1%D8%B6-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-08T15:10:05+00:00",
-      "image": "./assets/news/fcb8f3b60153d768ac70de1f.jpg",
-      "original_image": "./assets/news/fcb8f3b60153d768ac70de1f.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/575414/%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D9%81%D8%B1%D8%B6-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A",
-      "source_name": "السومرية نيوز",
+      "title": "بين التهدئة والتصعيد: أبرز محطات العلاقة بين السعودية والحوثيين - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c8x2x18geg9o",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-08T08:19:11+00:00",
+      "image": "./assets/news/bf33e3c733634fe68e58c169.jpg",
+      "original_image": "./assets/news/bf33e3c733634fe68e58c169.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c8x2x18geg9o",
+      "source_name": "شفق نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cacef35c91fc.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/557ad641ce9e.html"
     }
   ]
 }
