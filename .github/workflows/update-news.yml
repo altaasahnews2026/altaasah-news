@@ -36,11 +36,13 @@ jobs:
           mkdir -p news assets/news
           printf '{"updated_at":"","items":[]}' > news.json
       - name: Validate scripts
-        run: python -m py_compile scripts/update_news.py scripts/augment_sources.py scripts/prioritize_kirkuk.py scripts/apply_news_template.py scripts/dedupe_news_images.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py scripts/social_slogan.py scripts/final_image_fix.py scripts/hotfix_news_loader.py
+        run: python -m py_compile scripts/update_news.py scripts/augment_sources.py scripts/clean_news.py scripts/prioritize_kirkuk.py scripts/apply_news_template.py scripts/dedupe_news_images.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py scripts/social_slogan.py scripts/final_image_fix.py scripts/hotfix_news_loader.py
       - name: Fetch Iraq and dedicated Kirkuk news sources
         run: python scripts/update_news.py
       - name: Fetch Rudaw, Iraqi Media Network and Al Sharqiya fresh news
         run: python scripts/augment_sources.py
+      - name: Clean, deduplicate and editorially sort news
+        run: python scripts/clean_news.py
       - name: Prioritize Kirkuk and newest news
         run: python scripts/prioritize_kirkuk.py
       - name: Remove duplicate or broken news images
@@ -122,5 +124,5 @@ jobs:
           git config user.email 'actions@users.noreply.github.com'
           git add -A
           if git diff --cached --quiet; then echo 'لا توجد تغييرات.'; exit 0; fi
-          git commit -m 'إصلاح نهائي لتحميل الأخبار بدون اعتماد على مصدر خارجي'
+          git commit -m 'تنظيف وترتيب الأخبار والواجهة'
           git push origin main
