@@ -36,7 +36,7 @@ jobs:
           mkdir -p news assets/news
           printf '{"updated_at":"","items":[]}' > news.json
       - name: Validate scripts
-        run: python -m py_compile scripts/update_news.py scripts/augment_sources.py scripts/prioritize_kirkuk.py scripts/apply_news_template.py scripts/dedupe_news_images.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py scripts/social_slogan.py
+        run: python -m py_compile scripts/update_news.py scripts/augment_sources.py scripts/prioritize_kirkuk.py scripts/apply_news_template.py scripts/dedupe_news_images.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py scripts/social_slogan.py scripts/final_image_fix.py
       - name: Fetch Iraq and dedicated Kirkuk news sources
         run: python scripts/update_news.py
       - name: Fetch Rudaw, Iraqi Media Network and Al Sharqiya fresh news
@@ -76,6 +76,8 @@ jobs:
           Path('index.html').write_text(page,encoding='utf-8')
           print('تم تثبيت معاينة اجتماعية بصورة الخبر الأحدث وتنظيف معالجات الصور غير الآمنة')
           PY
+      - name: Final same-origin image fix
+        run: python scripts/final_image_fix.py
       - name: Final strict validation
         run: |
           python - <<'PY'
@@ -105,6 +107,7 @@ jobs:
           page=Path('index.html').read_text(encoding='utf-8')
           assert 'البث المباشر' in page and '● عاجل</button>' not in page
           assert 'force-live-ticker-runtime' in page and 'ticker.json' in page
+          assert 'raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/assets/news/' not in page
           assert page.count('social') >= 2 and 'نعلم لتعلم' in page
           script=Path('scripts/update_news.py').read_text(encoding='utf-8').lower()
           for bad in ('bing.com/images','google.com/search?','commons.wikimedia.org','search_engine(','wiki_images('): assert bad not in script, bad
@@ -116,5 +119,5 @@ jobs:
           git config user.email 'actions@users.noreply.github.com'
           git add -A
           if git diff --cached --quiet; then echo 'لا توجد تغييرات.'; exit 0; fi
-          git commit -m 'منع الصور المكررة والمكسورة في واجهة الأخبار'
+          git commit -m 'إصلاح نهائي لصور الأخبار وشريط آخر الأخبار'
           git push origin main
