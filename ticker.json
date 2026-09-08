@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T19:31:24.255680+00:00",
+  "updated_at": "2026-09-08T19:45:15.902930+00:00",
   "latest": [
     {
       "title": "إنذارات سعودية جديدة \"للتحذير من خطر\" بعد هجمات الحوثيين، والخارجية الأمريكية تحمّل إيران المسؤولية - شفق نيوز..",
@@ -13,10 +13,31 @@
       ]
     },
     {
+      "title": "واشنطن تعلن استهداف ناقلات نفط إيرانية قرب خارك وجاسك",
+      "url": "https://www.alsumaria.tv/news/international/575437/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA-%D9%86%D9%81%D8%B7-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%AE%D8%A7%D8%B1%D9%83-%D9%88%D8%AC%D8%A7%D8%B3%D9%83",
+      "category": "عراق",
+      "published": "2026-09-08T19:42:16+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
       "title": "دوي انفجارات عدة جنوبي إيران",
       "url": "https://www.alsumaria.tv/news/international/575431/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D8%AF%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "category": "عراق",
       "published": "2026-09-08T18:54:02+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "قصف أمريكي يستهدف ناقلة نفط إيرانية قرب خارك",
+      "url": "https://www.alsumaria.tv/news/international/575436/%D9%82%D8%B5%D9%81-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%AE%D8%A7%D8%B1%D9%83",
+      "category": "عراق",
+      "published": "2026-09-08T19:39:00+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران"
@@ -37,16 +58,6 @@
       "published": "2026-09-08T16:42:30+00:00",
       "breaking": true,
       "watch_topics": []
-    },
-    {
-      "title": "بين التهدئة والتصعيد: أبرز محطات العلاقة بين السعودية والحوثيين - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c8x2x18geg9o",
-      "category": "عراق",
-      "published": "2026-09-08T08:19:11+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
     },
     {
       "title": "كيف يستعد الرئيس الصيني للقاء دونالد ترامب؟ - مقال في الواشنطن بوست - شفق نيوز..",
@@ -129,30 +140,6 @@
       ]
     },
     {
-      "title": "البداية من الديوانية.. الزيدي: الحكومة ستعقد جلساتها القادمة في المحافظات",
-      "url": "https://www.alsumaria.tv/news/politics/575415/%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D9%8A%D9%88%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%B3%D8%AA%D8%B9%D9%82%D8%AF-%D8%AC%D9%84%D8%B3%D8%A7%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA",
-      "category": "عراق",
-      "published": "2026-09-08T15:29:00+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "وزير المالية: الانتقال إلى موازنة البرامج والأداء يمثل تحولاً مهماً في إدارة الموارد",
-      "url": "https://www.alsumaria.tv/news/localnews/575416/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D8%A5%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D9%85%D8%AC-%D9%88%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1-%D9%8A%D9%85%D8%AB%D9%84-%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D9%8B-%D9%85%D9%87%D9%85%D8%A7%D9%8B-%D9%81%D9%8A",
-      "category": "عراق",
-      "published": "2026-09-08T15:31:49+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "عطل في المراقبة الجوية يربك الرحلات بمطارات بريطانية",
-      "url": "https://www.alsumaria.tv/news/international/575417/%D8%B9%D8%B7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D9%8A%D8%B1%D8%A8%D9%83-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A8%D9%85%D8%B7%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-08T15:49:31+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "لماذا نشعر بالنعاس بعد تناول الغداء؟",
       "url": "https://www.alsumaria.tv/news/miscellaneous/575419/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%86%D8%B4%D8%B9%D8%B1-%D8%A8%D8%A7%D9%84%D9%86%D8%B9%D8%A7%D8%B3-%D8%A8%D8%B9%D8%AF-%D8%AA%D9%86%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D8%BA%D8%AF%D8%A7%D8%A1%D8%9F",
       "category": "عراق",
@@ -185,6 +172,14 @@
       "watch_topics": []
     },
     {
+      "title": "هل كانت سوريا قريبة من بناء مفاعل نووي في عهد الأسد؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cdx50yxwdnro",
+      "category": "عراق",
+      "published": "2026-09-08T19:20:55+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "البنك المركزي: حقوق مودعي مصرف الطيف محفوظة وإجراءات الوصاية تهدف لحماية أموالهم",
       "url": "https://www.alsumaria.tv/news/localnews/575418/%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%AD%D9%82%D9%88%D9%82-%D9%85%D9%88%D8%AF%D8%B9%D9%8A-%D9%85%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%B7%D9%8A%D9%81-%D9%85%D8%AD%D9%81%D9%88%D8%B8%D8%A9-%D9%88%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B5%D8%A7%D9%8A%D8%A9-%D8%AA%D9%87%D8%AF%D9%81-%D9%84%D8%AD%D9%85%D8%A7%D9%8A",
       "category": "عراق",
@@ -197,6 +192,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cd79yx27p51o",
       "category": "عراق",
       "published": "2026-09-08T16:36:19+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "هل يساعد إكليل الجبل على خسارة الوزن؟",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/575435/%D9%87%D9%84-%D9%8A%D8%B3%D8%A7%D8%B9%D8%AF-%D8%A5%D9%83%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%AC%D8%A8%D9%84-%D8%B9%D9%84%D9%89-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%88%D8%B2%D9%86%D8%9F",
+      "category": "عراق",
+      "published": "2026-09-08T19:34:28+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -466,6 +469,14 @@
       "watch_topics": []
     },
     {
+      "title": "هجوم بمسيّرة روسية يلحق أضراراً بقناة تلفزيونية أوكرانية",
+      "url": "https://aawsat.com/node/5316156",
+      "category": "دولي",
+      "published": "Tue, 08 Sep 2026 20:33:53 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "روسيا تستأنف قصف كييف بعد وقف قصير لإطلاق النار",
       "url": "https://aawsat.com/node/5315865",
       "category": "دولي",
@@ -478,14 +489,6 @@
       "url": "https://aawsat.com/node/5315767",
       "category": "دولي",
       "published": "Mon, 07 Sep 2026 20:22:58 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "روسيا تغلق جميع مراكز معهد غوته وتأمر بإغلاق القنصلية الألمانية في سانت بطرسبرغ",
-      "url": "https://aawsat.com/node/5315728",
-      "category": "دولي",
-      "published": "Mon, 07 Sep 2026 17:17:29 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -651,10 +654,31 @@
       ]
     },
     {
+      "title": "واشنطن تعلن استهداف ناقلات نفط إيرانية قرب خارك وجاسك",
+      "url": "https://www.alsumaria.tv/news/international/575437/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA-%D9%86%D9%81%D8%B7-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%AE%D8%A7%D8%B1%D9%83-%D9%88%D8%AC%D8%A7%D8%B3%D9%83",
+      "category": "عراق",
+      "published": "2026-09-08T19:42:16+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
       "title": "دوي انفجارات عدة جنوبي إيران",
       "url": "https://www.alsumaria.tv/news/international/575431/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D8%AF%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "category": "عراق",
       "published": "2026-09-08T18:54:02+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "قصف أمريكي يستهدف ناقلة نفط إيرانية قرب خارك",
+      "url": "https://www.alsumaria.tv/news/international/575436/%D9%82%D8%B5%D9%81-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%AE%D8%A7%D8%B1%D9%83",
+      "category": "عراق",
+      "published": "2026-09-08T19:39:00+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران"
@@ -719,6 +743,14 @@
       "watch_topics": []
     },
     {
+      "title": "هجوم بمسيّرة روسية يلحق أضراراً بقناة تلفزيونية أوكرانية",
+      "url": "https://aawsat.com/node/5316156",
+      "category": "دولي",
+      "published": "Tue, 08 Sep 2026 20:33:53 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "روسيا تستأنف قصف كييف بعد وقف قصير لإطلاق النار",
       "url": "https://aawsat.com/node/5315865",
       "category": "دولي",
@@ -731,14 +763,6 @@
       "url": "https://aawsat.com/node/5315767",
       "category": "دولي",
       "published": "Mon, 07 Sep 2026 20:22:58 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "روسيا تغلق جميع مراكز معهد غوته وتأمر بإغلاق القنصلية الألمانية في سانت بطرسبرغ",
-      "url": "https://aawsat.com/node/5315728",
-      "category": "دولي",
-      "published": "Mon, 07 Sep 2026 17:17:29 +0100",
       "breaking": true,
       "watch_topics": []
     },
