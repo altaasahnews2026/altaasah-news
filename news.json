@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-08T10:06:21.084111+00:00",
+  "updated_at": "2026-09-08T10:21:31.259571+00:00",
   "items": [
+    {
+      "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
+      "url": "https://altaasahnews2026.github.io/altaasah-news/editorial/kirkuk-council-25-2026-09-08",
+      "image": "./assets/editorial/kirkuk-council-25-2026-09-08.jpg",
+      "original_image": "./assets/editorial/kirkuk-council-25-2026-09-08.jpg",
+      "published": "2026-09-08T13:11:00+03:00",
+      "category": "كركوك",
+      "region": "كركوك",
+      "kirkuk": true,
+      "breaking": false,
+      "source_name": "التاسعة نيوز",
+      "summary": "يعقد مجلس محافظة كركوك جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات، بينها استضافة مديري شرطة المحافظة والبلدية لبحث الملفات المطروحة على جدول أعمال المجلس.",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a8a5fb2ea351.html"
+    },
     {
       "title": "الحشد والجيش ينفذان عملية دهم وتفتيش في قاطع البشير جنوب غربي كركوك",
       "url": "https://964media.com/714732/",
@@ -15,6 +29,36 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/850e87a3d8be.html"
+    },
+    {
+      "title": "قوة امنية تتدخل وتحرر حدثا قيده والده بالسلاسل في بغداد (صورة)",
+      "url": "https://www.alsumaria.tv/news/localnews/575384/%D9%82%D9%88%D8%A9-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D8%AF%D8%AE%D9%84-%D9%88%D8%AA%D8%AD%D8%B1%D8%B1-%D8%AD%D8%AF%D8%AB%D8%A7-%D9%82%D9%8A%D8%AF%D9%87-%D9%88%D8%A7%D9%84%D8%AF%D9%87-%D8%A8%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%B3%D9%84-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%B5%D9%88%D8%B1%D8%A9",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-08T10:04:52+00:00",
+      "image": "./assets/news/1b681d81df70005ae2b9cfc2.jpg",
+      "original_image": "./assets/news/1b681d81df70005ae2b9cfc2.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/575384/%D9%82%D9%88%D8%A9-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D8%AF%D8%AE%D9%84-%D9%88%D8%AA%D8%AD%D8%B1%D8%B1-%D8%AD%D8%AF%D8%AB%D8%A7-%D9%82%D9%8A%D8%AF%D9%87-%D9%88%D8%A7%D9%84%D8%AF%D9%87-%D8%A8%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%B3%D9%84-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%B5%D9%88%D8%B1%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0c1e79c8266e.html"
+    },
+    {
+      "title": "صلاح الدين تختار مدراء لسامراء وبيجي و4 وحدات إدارية أخرى",
+      "url": "https://964media.com/714945/",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-08T09:57:56+00:00",
+      "image": "./assets/news/7260199422e2e41bdee3a79d.jpg",
+      "original_image": "./assets/news/7260199422e2e41bdee3a79d.jpg",
+      "source_url": "https://964media.com/714945/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/14ba23d232ae.html"
     },
     {
       "title": "واتساب يوقف الدعم عن ملايين الهواتف",
@@ -37,8 +81,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-08T09:50:57+00:00",
-      "image": "./assets/news/a5018c430edebd959660d8bb.png",
-      "original_image": "./assets/news/a5018c430edebd959660d8bb.png",
+      "image": "./assets/news/e57d91491c3d9aedd874d646.png",
+      "original_image": "./assets/news/e57d91491c3d9aedd874d646.png",
       "source_url": "https://www.alsumaria.tv/news/miscellaneous/575382/%D9%88%D8%B5%D9%85%D8%A9-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%86%D8%B5%D9%81-%D8%A7%D9%84%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86-%D9%8A%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%88%D9%86-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -52,8 +96,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-08T09:32:22+00:00",
-      "image": "./assets/news/5b2bba8fea961a18c98e172b.jpg",
-      "original_image": "./assets/news/5b2bba8fea961a18c98e172b.jpg",
+      "image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
+      "original_image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/575380/%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D8%AA%D8%B2-%D8%B3%D8%A7%D9%88%D9%85-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%BA%D9%8A%D9%86%D9%8A%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D8%A9-%D8%A8%D8%A7%D9%84%D8%B3%D8%B1%D9%82%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -105,36 +149,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/dceed3854b41.html"
-    },
-    {
-      "title": "ترند صور الثمانينات يجتاح مواقع التواصل.. الذكاء الاصطناعي يعيد العراقيين إلى الماضي",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575365/%D8%AA%D8%B1%D9%86%D8%AF-%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D8%A7%D8%AA-%D9%8A%D8%AC%D8%AA%D8%A7%D8%AD-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%8A",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-08T08:54:46+00:00",
-      "image": "./assets/news/8cc305382a87aa8f46ba7187.jpg",
-      "original_image": "./assets/news/8cc305382a87aa8f46ba7187.jpg",
-      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575365/%D8%AA%D8%B1%D9%86%D8%AF-%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D8%A7%D8%AA-%D9%8A%D8%AC%D8%AA%D8%A7%D8%AD-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1ae2ce272237.html"
-    },
-    {
-      "title": "ساعتان فقط يوميًا.. هكذا ستتغير حياة المراهقين على السوشيال ميديا!",
-      "url": "https://www.alsumaria.tv/news/technology/575362/%D8%B3%D8%A7%D8%B9%D8%AA%D8%A7%D9%86-%D9%81%D9%82%D8%B7-%D9%8A%D9%88%D9%85%D9%8A%D9%8B%D8%A7-%D9%87%D9%83%D8%B0%D8%A7-%D8%B3%D8%AA%D8%AA%D8%BA%D9%8A%D8%B1-%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%87%D9%82%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D9%88%D8%B4%D9%8A%D8%A7%D9%84-%D9%85%D9%8A%D8%AF%D9%8A%D8%A7",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-08T08:19:25+00:00",
-      "image": "./assets/news/16ca43a01e8604f3a36dbbfc.jpg",
-      "original_image": "./assets/news/16ca43a01e8604f3a36dbbfc.jpg",
-      "source_url": "https://www.alsumaria.tv/news/technology/575362/%D8%B3%D8%A7%D8%B9%D8%AA%D8%A7%D9%86-%D9%81%D9%82%D8%B7-%D9%8A%D9%88%D9%85%D9%8A%D9%8B%D8%A7-%D9%87%D9%83%D8%B0%D8%A7-%D8%B3%D8%AA%D8%AA%D8%BA%D9%8A%D8%B1-%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%87%D9%82%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D9%88%D8%B4%D9%8A%D8%A7%D9%84-%D9%85%D9%8A%D8%AF%D9%8A%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a4111dc0a125.html"
     },
     {
       "title": "الحكومة البريطانية \"ستفرض قيوداً جديدة\" على التجارة مع المستوطنات اليهودية في الضفة الغربية المحتلة - شفق نيوز..",
@@ -212,11 +226,11 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0040653fffe2.html"
     },
     {
-      "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة الحوثي - شفق نيوز..",
+      "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة أنصار الله - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
       "category": "عربي ودولي",
       "region": "عربي ودولي",
-      "published": "2026-09-08T09:18:59+00:00",
+      "published": "2026-09-08T09:44:39+00:00",
       "image": "./assets/news/6e5cf80bb7a41e9457be7958.jpg",
       "original_image": "./assets/news/6e5cf80bb7a41e9457be7958.jpg",
       "source_url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
@@ -224,7 +238,7 @@
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c1aecc13e359.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2670da3b2d13.html"
     },
     {
       "title": "العراق يصدر الكبريت والمواد الإنشائية إلى سوريا والتبادل بـ”أعلى مستوياته”",
@@ -300,6 +314,36 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/38886e6dfbc6.html"
+    },
+    {
+      "title": "ترند صور الثمانينات يجتاح مواقع التواصل.. الذكاء الاصطناعي يعيد العراقيين إلى الماضي",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/575365/%D8%AA%D8%B1%D9%86%D8%AF-%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D8%A7%D8%AA-%D9%8A%D8%AC%D8%AA%D8%A7%D8%AD-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%8A",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-08T08:54:46+00:00",
+      "image": "./assets/news/8cc305382a87aa8f46ba7187.jpg",
+      "original_image": "./assets/news/8cc305382a87aa8f46ba7187.jpg",
+      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575365/%D8%AA%D8%B1%D9%86%D8%AF-%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D8%A7%D8%AA-%D9%8A%D8%AC%D8%AA%D8%A7%D8%AD-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1ae2ce272237.html"
+    },
+    {
+      "title": "ساعتان فقط يوميًا.. هكذا ستتغير حياة المراهقين على السوشيال ميديا!",
+      "url": "https://www.alsumaria.tv/news/technology/575362/%D8%B3%D8%A7%D8%B9%D8%AA%D8%A7%D9%86-%D9%81%D9%82%D8%B7-%D9%8A%D9%88%D9%85%D9%8A%D9%8B%D8%A7-%D9%87%D9%83%D8%B0%D8%A7-%D8%B3%D8%AA%D8%AA%D8%BA%D9%8A%D8%B1-%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%87%D9%82%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D9%88%D8%B4%D9%8A%D8%A7%D9%84-%D9%85%D9%8A%D8%AF%D9%8A%D8%A7",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-08T08:19:25+00:00",
+      "image": "./assets/news/16ca43a01e8604f3a36dbbfc.jpg",
+      "original_image": "./assets/news/16ca43a01e8604f3a36dbbfc.jpg",
+      "source_url": "https://www.alsumaria.tv/news/technology/575362/%D8%B3%D8%A7%D8%B9%D8%AA%D8%A7%D9%86-%D9%81%D9%82%D8%B7-%D9%8A%D9%88%D9%85%D9%8A%D9%8B%D8%A7-%D9%87%D9%83%D8%B0%D8%A7-%D8%B3%D8%AA%D8%AA%D8%BA%D9%8A%D8%B1-%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%87%D9%82%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D9%88%D8%B4%D9%8A%D8%A7%D9%84-%D9%85%D9%8A%D8%AF%D9%8A%D8%A7",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a4111dc0a125.html"
     },
     {
       "title": "مع البنزين.. ازمة كاز في بغداد (فيديو)",
@@ -392,21 +436,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/be827454eebc.html"
     },
     {
-      "title": "القبض على 15 اجنبيا في بغداد",
-      "url": "https://www.alsumaria.tv/news/security/575355/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-15-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-08T07:03:54+00:00",
-      "image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
-      "original_image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/575355/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-15-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e59d7a192fb3.html"
-    },
-    {
       "title": "النزاهة: ضبط موظفين اثنين متلبسين بتسلم الرشوة في بلدية كربلاء",
       "url": "https://www.alsumaria.tv/news/localnews/575354/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%B6%D8%A8%D8%B7-%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86-%D8%A7%D8%AB%D9%86%D9%8A%D9%86-%D9%85%D8%AA%D9%84%D8%A8%D8%B3%D9%8A%D9%86-%D8%A8%D8%AA%D8%B3%D9%84%D9%85-%D8%A7%D9%84%D8%B1%D8%B4%D9%88%D8%A9-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-%D9%83%D8%B1%D8%A8%D9%84%D8%A7%D8%A1",
       "category": "محليات",
@@ -420,21 +449,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9070d3524b38.html"
-    },
-    {
-      "title": "حرارة ثلاثينية مع استمرار انخفاضها.. هل دخل العراق مرحلة الخريف؟",
-      "url": "https://www.alsumaria.tv/news/localnews/575352/%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D9%86%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6%D9%87%D8%A7-%D9%87%D9%84-%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D9%81%D8%9F",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-08T06:32:13+00:00",
-      "image": "./assets/news/80b515fd47c830e9d7977508.jpg",
-      "original_image": "./assets/news/80b515fd47c830e9d7977508.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/575352/%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D9%86%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6%D9%87%D8%A7-%D9%87%D9%84-%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D9%81%D8%9F",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/300859171880.html"
     },
     {
       "title": "طقس العراق: الحرارة ثلاثينية في الشمال والغرب وتتجاوز 45 جنوباً",
