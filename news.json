@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T08:59:02.479591+00:00",
+  "updated_at": "2026-09-08T09:08:14.836483+00:00",
   "items": [
     {
       "title": "الحشد والجيش ينفذان عملية دهم وتفتيش في قاطع البشير جنوب غربي كركوك",
@@ -15,6 +15,21 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/850e87a3d8be.html"
+    },
+    {
+      "title": "المحلي والمستورد.. الذهب يعاود الانخفاض أقل من المليون للمثقال الواحد",
+      "url": "https://www.alsumaria.tv/news/economy/575366/%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%88%D8%B1%D8%AF-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%B9%D8%A7%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D9%82%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%84%D9%84%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-08T08:57:00+00:00",
+      "image": "./assets/news/4736434eb29dcf0b0a50d408.jpg",
+      "original_image": "./assets/news/4736434eb29dcf0b0a50d408.jpg",
+      "source_url": "https://www.alsumaria.tv/news/economy/575366/%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%88%D8%B1%D8%AF-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%B9%D8%A7%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D9%82%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%84%D9%84%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7ce1a7866364.html"
     },
     {
       "title": "ترند صور الثمانينات يجتاح مواقع التواصل.. الذكاء الاصطناعي يعيد العراقيين إلى الماضي",
@@ -77,6 +92,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a4111dc0a125.html"
     },
     {
+      "title": "الحكومة البريطانية \"ستفرض قيوداً جديدة\" على التجارة مع المستوطنات اليهودية في الضفة الغربية المحتلة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-08T08:15:17+00:00",
+      "image": "./assets/news/e5d3a24437db391fe1be5968.jpg",
+      "original_image": "./assets/news/e5d3a24437db391fe1be5968.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/536bee92f267.html"
+    },
+    {
       "title": "مع البنزين.. ازمة كاز في بغداد (فيديو)",
       "url": "https://www.alsumaria.tv/news/trends-alsumaria/575360/%D9%85%D8%B9-%D8%A7%D9%84%D8%A8%D9%86%D8%B2%D9%8A%D9%86-%D8%A7%D8%B2%D9%85%D8%A9-%D9%83%D8%A7%D8%B2-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
       "category": "محليات",
@@ -97,8 +127,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-08T07:50:36+00:00",
-      "image": "./assets/news/de5926c10f42f679140a379e.jpg",
-      "original_image": "./assets/news/de5926c10f42f679140a379e.jpg",
+      "image": "./assets/news/a662d4ad62185635e540b7a2.jpg",
+      "original_image": "./assets/news/a662d4ad62185635e540b7a2.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/575358/%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D9%84%D9%84%D8%B9%D9%85%D9%84-%D8%A8%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D9%86%D9%81%D8%B0-%D9%81%D9%8A%D8%B4%D8%AE%D8%A7%D8%A8%D9%88%D8%B1-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -287,6 +317,36 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f227788aaaca.html"
     },
     {
+      "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة الحوثي - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-08T08:35:00+00:00",
+      "image": "./assets/news/6e5cf80bb7a41e9457be7958.jpg",
+      "original_image": "./assets/news/6e5cf80bb7a41e9457be7958.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/79e5739584e5.html"
+    },
+    {
+      "title": "لماذا يضع فلسطينيون العلم الأمريكي فوق منازلهم في الضفة؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c207ke7gv10o",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-08T08:31:15+00:00",
+      "image": "./assets/news/5710bb0bc23529e98b788733.jpg",
+      "original_image": "./assets/news/5710bb0bc23529e98b788733.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c207ke7gv10o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8ed3e9bc17dd.html"
+    },
+    {
       "title": "شاهد.. النيران تتصاعد من احدى المصافي السعودية",
       "url": "https://www.alsumaria.tv/news/trends-alsumaria/575361/%D8%B4%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D9%86%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D9%85%D9%86-%D8%A7%D8%AD%D8%AF%D9%89-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
       "category": "محليات",
@@ -300,6 +360,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/654a981c5b83.html"
+    },
+    {
+      "title": "بين التهدئة والتصعيد: أبرز محطات العلاقة بين السعودية والحوثيين - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c8x2x18geg9o",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-08T08:19:11+00:00",
+      "image": "./assets/news/bf33e3c733634fe68e58c169.jpg",
+      "original_image": "./assets/news/bf33e3c733634fe68e58c169.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c8x2x18geg9o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/557ad641ce9e.html"
     },
     {
       "title": "اول تعليق من الحوثيين على قصف السعودية",
@@ -362,6 +437,36 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/78350636f0e5.html"
     },
     {
+      "title": "مقتل 13 شخصاً في غارات إسرائيلية على جنوب لبنان وتصعيد يهدد وقف إطلاق النار - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cx2zvngjlnjo",
+      "category": "أمن",
+      "region": "عربي ودولي",
+      "published": "2026-09-08T05:29:42+00:00",
+      "image": "./assets/news/c5b9b9f988408bb27984f2ea.jpg",
+      "original_image": "./assets/news/c5b9b9f988408bb27984f2ea.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cx2zvngjlnjo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0040653fffe2.html"
+    },
+    {
+      "title": "آباء فلسطينيون يخشون على حياة أطفالهم في المدارس مع تصاعد هجمات المستوطنين - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/clyl2pljnx6o",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-08T04:34:18+00:00",
+      "image": "./assets/news/a1c6ada554c2b346311318da.jpg",
+      "original_image": "./assets/news/a1c6ada554c2b346311318da.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/clyl2pljnx6o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3e8812136b58.html"
+    },
+    {
       "title": "الأمم المتحدة تدعو إسرائيل لوقف العنف ضد الفلسطينيين واللبنانيين",
       "url": "https://www.alsumaria.tv/news/international/575347/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%84%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%B9%D9%86%D9%81-%D8%B6%D8%AF-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D9%8A%D9%86",
       "category": "عربي ودولي",
@@ -375,21 +480,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fee41d055d40.html"
-    },
-    {
-      "title": "العثور على منصات إطلاق قذائف قرب خطوط الطاقة غربي ألمانيا",
-      "url": "https://www.alsumaria.tv/news/international/575346/%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%82%D8%B0%D8%A7%D8%A6%D9%81-%D9%82%D8%B1%D8%A8-%D8%AE%D8%B7%D9%88%D8%B7-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7",
-      "category": "محليات",
-      "region": "عربي ودولي",
-      "published": "2026-09-07T21:46:00+00:00",
-      "image": "./assets/news/6718fa6755be403931c324a7.jpg",
-      "original_image": "./assets/news/6718fa6755be403931c324a7.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/575346/%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%82%D8%B0%D8%A7%D8%A6%D9%81-%D9%82%D8%B1%D8%A8-%D8%AE%D8%B7%D9%88%D8%B7-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ebe3d453b007.html"
     }
   ]
 }
