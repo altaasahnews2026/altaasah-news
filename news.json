@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:44:10.471356+00:00",
+  "updated_at": "2026-09-08T11:56:43.020103+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -29,6 +29,21 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/850e87a3d8be.html"
+    },
+    {
+      "title": "اعتقال مدير قناة “عراق الحدث” بلال المالكي في مطار مشهد وتسليمه إلى بغداد",
+      "url": "https://964media.com/714980/",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-08T11:14:06+00:00",
+      "image": "./assets/news/a8311623b4316ec2f723317f.jpg",
+      "original_image": "./assets/news/a8311623b4316ec2f723317f.jpg",
+      "source_url": "https://964media.com/714980/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8fead095227c.html"
     },
     {
       "title": "خريطة ترامب تفجر أزمة دبلوماسية",
@@ -136,19 +151,19 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/14ba23d232ae.html"
     },
     {
-      "title": "واتساب يوقف الدعم عن ملايين الهواتف",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575383/%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%8A%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%B9%D9%86-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81",
-      "category": "محليات",
+      "title": "وزير النفط يعلن تعافي عمليات التصدير في العراق",
+      "url": "https://www.alsumaria.tv/news/economy/575391/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%B9%D8%A7%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+      "category": "سياسة",
       "region": "العراق",
-      "published": "2026-09-08T09:52:37+00:00",
-      "image": "./assets/news/6a476046d8116f54ee4647c8.webp",
-      "original_image": "./assets/news/6a476046d8116f54ee4647c8.webp",
-      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575383/%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%8A%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%B9%D9%86-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81",
+      "published": "2026-09-08T11:26:47+00:00",
+      "image": "./assets/news/2c52c6d5f9bd05766af3e996.jpg",
+      "original_image": "./assets/news/2c52c6d5f9bd05766af3e996.jpg",
+      "source_url": "https://www.alsumaria.tv/news/economy/575391/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%B9%D8%A7%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e2c7012c4672.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a80d082bdb03.html"
     },
     {
       "title": "رد دعوى ممثلي الأقليات ضد محافظ نينوى ورئيس مجلس محافظة نينوى",
@@ -156,8 +171,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-08T10:29:12+00:00",
-      "image": "./assets/news/4ce50d9aaf926b521510e8ac.jpg",
-      "original_image": "./assets/news/4ce50d9aaf926b521510e8ac.jpg",
+      "image": "./assets/news/8c319927d0e93ea1d63fd2a5.jpg",
+      "original_image": "./assets/news/8c319927d0e93ea1d63fd2a5.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/575386/%D8%B1%D8%AF-%D8%AF%D8%B9%D9%88%D9%89-%D9%85%D9%85%D8%AB%D9%84%D9%8A-%D8%A7%D9%84%D8%A3%D9%82%D9%84%D9%8A%D8%A7%D8%AA-%D8%B6%D8%AF-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D9%88%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D9%86%D9%8A%D9%86%D9%88%D9%89",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -194,6 +209,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3676b682dd5a.html"
+    },
+    {
+      "title": "مفاجأة في ترشيحات الكرة الذهبية.. ريال مدريد وبرشلونة خارج قائمة أفضل فريق",
+      "url": "https://www.alsumaria.tv/Entertainment-News/575392/sports/%D9%85%D9%81%D8%A7%D8%AC%D8%A3%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B1%D8%B4%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%88%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A3%D9%81%D8%B6%D9%84-%D9%81%D8%B1",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-08T11:48:54+00:00",
+      "image": "./assets/news/00609967da1e97b53441ba5e.jpg",
+      "original_image": "./assets/news/00609967da1e97b53441ba5e.jpg",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/575392/sports/%D9%85%D9%81%D8%A7%D8%AC%D8%A3%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B1%D8%B4%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%88%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A3%D9%81%D8%B6%D9%84-%D9%81%D8%B1",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/23524912e8e4.html"
     },
     {
       "title": "رغم ارتفاعه وتجاوزه الـ155 الفا.. أسعار الدولار تستقر لليوم التالي",
@@ -316,19 +346,19 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/557ad641ce9e.html"
     },
     {
-      "title": "اول تعليق من الحوثيين على قصف السعودية",
-      "url": "https://www.alsumaria.tv/news/international/575359/%D8%A7%D9%88%D9%84-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-08T08:05:10+00:00",
-      "image": "./assets/news/52df27a216b2df744abdf09b.jpg",
-      "original_image": "./assets/news/52df27a216b2df744abdf09b.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/575359/%D8%A7%D9%88%D9%84-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+      "title": "واتساب يوقف الدعم عن ملايين الهواتف",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/575383/%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%8A%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%B9%D9%86-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-08T09:52:37+00:00",
+      "image": "./assets/news/6a476046d8116f54ee4647c8.webp",
+      "original_image": "./assets/news/6a476046d8116f54ee4647c8.webp",
+      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575383/%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%8A%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%B9%D9%86-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81",
       "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/38886e6dfbc6.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e2c7012c4672.html"
     },
     {
       "title": "وصمة اجتماعية... دراسة تكشف: أكثر من نصف الموظفين يستخدمون الذكاء الاصطناعي سرّا",
@@ -434,21 +464,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a4111dc0a125.html"
-    },
-    {
-      "title": "مع البنزين.. ازمة كاز في بغداد (فيديو)",
-      "url": "https://www.alsumaria.tv/news/trends-alsumaria/575360/%D9%85%D8%B9-%D8%A7%D9%84%D8%A8%D9%86%D8%B2%D9%8A%D9%86-%D8%A7%D8%B2%D9%85%D8%A9-%D9%83%D8%A7%D8%B2-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-08T08:14:23+00:00",
-      "image": "./assets/news/3d3307a9c5147104a4108091.webp",
-      "original_image": "./assets/news/3d3307a9c5147104a4108091.webp",
-      "source_url": "https://www.alsumaria.tv/news/trends-alsumaria/575360/%D9%85%D8%B9-%D8%A7%D9%84%D8%A8%D9%86%D8%B2%D9%8A%D9%86-%D8%A7%D8%B2%D9%85%D8%A9-%D9%83%D8%A7%D8%B2-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6c38321d8c8e.html"
     },
     {
       "title": "قائمة بأسعار بيع وشراء الدولار في بورصات بغداد وأربيل والبصرة",
