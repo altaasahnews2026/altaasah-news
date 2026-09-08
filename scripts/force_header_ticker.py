@@ -27,7 +27,7 @@ runtime=r'''<script id="force-live-ticker-runtime">
  const label=x=>x.category==='عراق'?'العراق':(x.category==='مشرق أوسط'||x.category==='المشرق الأوسط'?'المشرق الأوسط':'دولي');
  const track=document.getElementById('latestTrack'); if(!track)return;
  let set=null,width=0,x=0,last=0,signature='';
- const speed=24; // px/sec: deliberately slow and easy to read
+ const speed=14; // px/sec: slow, calm and easy to read
  function render(items){
    const clean=(items||[]).filter(x=>x&&x.title).slice(0,48); if(!clean.length)return;
    const sig=clean.map(x=>(x.title||'')+'|'+(x.url||'')).join('||'); if(sig===signature&&set)return;
@@ -45,4 +45,4 @@ runtime=r'''<script id="force-live-ticker-runtime">
 s=s.replace('</body>',runtime+'</body>',1)
 assert 'breakingTicker' not in s and 'force-live-ticker-runtime' in s and 'ticker.json' in s
 p.write_text(s,encoding='utf-8')
-print('SINGLE SLOW LATEST-NEWS TICKER OK')
+print('SINGLE SLOW LATEST-NEWS TICKER OK: 14px/s')
