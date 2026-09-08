@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T21:18:18.158002+00:00",
+  "updated_at": "2026-09-08T21:43:43.884778+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -14,21 +14,6 @@
       "source_name": "التاسعة نيوز",
       "summary": "يعقد مجلس محافظة كركوك جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات، بينها استضافة مديري شرطة المحافظة والبلدية لبحث الملفات المطروحة على جدول أعمال المجلس.",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a8a5fb2ea351.html"
-    },
-    {
-      "title": "الاطاحة باجنبي خبأ المخدرات داخل عجلة كبيرة في كركوك",
-      "url": "https://www.alsumaria.tv/news/localnews/575424/%D8%A7%D9%84%D8%A7%D8%B7%D8%A7%D8%AD%D8%A9-%D8%A8%D8%A7%D8%AC%D9%86%D8%A8%D9%8A-%D8%AE%D8%A8%D8%A3-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AF%D8%A7%D8%AE%D9%84-%D8%B9%D8%AC%D9%84%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
-      "category": "كركوك",
-      "region": "كركوك",
-      "published": "2026-09-08T17:17:12+00:00",
-      "image": "./assets/news/e566489075bf566ccf0665a3.jpg",
-      "original_image": "./assets/news/e566489075bf566ccf0665a3.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/575424/%D8%A7%D9%84%D8%A7%D8%B7%D8%A7%D8%AD%D8%A9-%D8%A8%D8%A7%D8%AC%D9%86%D8%A8%D9%8A-%D8%AE%D8%A8%D8%A3-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AF%D8%A7%D8%AE%D9%84-%D8%B9%D8%AC%D9%84%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": true,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/da8569a9599e.html"
     },
     {
       "title": "مجلس الوزراء يتخذ قرارات عدة بينها يخص تصدير النفط والايفادات الخارجية",
@@ -76,6 +61,36 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5378fc97c4eb.html"
     },
     {
+      "title": "مسؤول أمريكي يكشف عن تعطل غواصة في الشرق الأوسط",
+      "url": "https://www.alsumaria.tv/news/international/575429/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%AA%D8%B9%D8%B7%D9%84-%D8%BA%D9%88%D8%A7%D8%B5%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-08T18:00:41+00:00",
+      "image": "./assets/news/893130a8197fbfa0c8eda532.jpg",
+      "original_image": "./assets/news/893130a8197fbfa0c8eda532.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575429/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%AA%D8%B9%D8%B7%D9%84-%D8%BA%D9%88%D8%A7%D8%B5%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e5439c89947b.html"
+    },
+    {
+      "title": "العراق يتسلم بلال المالكي من إيران",
+      "url": "https://www.alsumaria.tv/news/politics/575427/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AA%D8%B3%D9%84%D9%85-%D8%A8%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A-%D9%85%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-08T17:44:16+00:00",
+      "image": "./assets/news/1ae654c1db2f82b259014eb7.jpg",
+      "original_image": "./assets/news/1ae654c1db2f82b259014eb7.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/575427/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AA%D8%B3%D9%84%D9%85-%D8%A8%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A-%D9%85%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6d94e8aea47a.html"
+    },
+    {
       "title": "منظومة جديدة للبطاقة الوطنية في فرانكفورت.. خطوة لتسريع معاملات العراقيين بأوروبا",
       "url": "https://964media.com/715139/",
       "category": "سياسة",
@@ -89,21 +104,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cd53b430694d.html"
-    },
-    {
-      "title": "برلمان العراق يعترف: ندفع لإيران 20 دولاراً عن كل برميل لعبور هرمز",
-      "url": "https://964media.com/715120/",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-08T17:27:29+00:00",
-      "image": "./assets/news/2d2f21fd92c2a39373f82846.jpg",
-      "original_image": "./assets/news/2d2f21fd92c2a39373f82846.jpg",
-      "source_url": "https://964media.com/715120/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3bb47be0f71f.html"
     },
     {
       "title": "افتتاح منظومة إضافية لإصدار البطاقة الوطنية الموحدة في فرانكفورت",
@@ -181,6 +181,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/80f1f6d72614.html"
     },
     {
+      "title": "الاحتياطي النفطي الأمريكي يهبط إلى أدنى مستوى منذ 44 عاماً",
+      "url": "https://www.alsumaria.tv/news/economy/575439/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%87%D8%A8%D8%B7-%D8%A5%D9%84%D9%89-%D8%A3%D8%AF%D9%86%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%85%D9%86%D8%B0-44-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-08T20:15:00+00:00",
+      "image": "./assets/news/ef44d7cddd47f9aa1e4ffd20.jpg",
+      "original_image": "./assets/news/ef44d7cddd47f9aa1e4ffd20.jpg",
+      "source_url": "https://www.alsumaria.tv/news/economy/575439/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%87%D8%A8%D8%B7-%D8%A5%D9%84%D9%89-%D8%A3%D8%AF%D9%86%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%85%D9%86%D8%B0-44-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/51eecd00dfa5.html"
+    },
+    {
       "title": "واشنطن تعلن استهداف ناقلات نفط إيرانية قرب خارك وجاسك",
       "url": "https://www.alsumaria.tv/news/international/575437/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA-%D9%86%D9%81%D8%B7-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%AE%D8%A7%D8%B1%D9%83-%D9%88%D8%AC%D8%A7%D8%B3%D9%83",
       "category": "اقتصاد",
@@ -196,6 +211,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/37786b106860.html"
     },
     {
+      "title": "دوي انفجارات عدة جنوبي إيران",
+      "url": "https://www.alsumaria.tv/news/international/575431/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D8%AF%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-09-08T18:54:02+00:00",
+      "image": "./assets/news/699d17a0ea41fac159b1f78a.jpg",
+      "original_image": "./assets/news/699d17a0ea41fac159b1f78a.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575431/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D8%AF%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": true,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9edd6d1a7fdf.html"
+    },
+    {
       "title": "الأزهر يشن هجوما بعد تمزيق نسخة من المصحف في نيويورك: تطرف وإرهاب",
       "url": "https://www.alsumaria.tv/news/international/575428/%D8%A7%D9%84%D8%A3%D8%B2%D9%87%D8%B1-%D9%8A%D8%B4%D9%86-%D9%87%D8%AC%D9%88%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%AA%D9%85%D8%B2%D9%8A%D9%82-%D9%86%D8%B3%D8%AE%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%AA%D8%B7%D8%B1%D9%81-%D9%88%D8%A5%D8%B1%D9%87%D8%A7%D8%A8",
       "category": "أمن",
@@ -209,6 +239,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f473257e90ca.html"
+    },
+    {
+      "title": "القوات الأمريكية تهاجم سفينة تجارية قبالة ساحل جنوبي إيران",
+      "url": "https://www.alsumaria.tv/news/international/575444/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D9%87%D8%A7%D8%AC%D9%85-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%B3%D8%A7%D8%AD%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-08T21:19:11+00:00",
+      "image": "./assets/news/62dde0436e68afad9593c125.jpg",
+      "original_image": "./assets/news/62dde0436e68afad9593c125.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575444/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D9%87%D8%A7%D8%AC%D9%85-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%B3%D8%A7%D8%AD%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d544279bfbc5.html"
     },
     {
       "title": "إنذارات سعودية جديدة \"للتحذير من خطر\" بعد هجمات الحوثيين، والخارجية الأمريكية تحمّل إيران المسؤولية - شفق نيوز..",
@@ -284,36 +329,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f3b72a303068.html"
-    },
-    {
-      "title": "إطلاق صفارات الإنذار جنوبي السعودية",
-      "url": "https://www.alsumaria.tv/news/international/575423/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%B5%D9%81%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%86%D8%B0%D8%A7%D8%B1-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-08T17:05:20+00:00",
-      "image": "./assets/news/e7897ab83d8b9ef042137af2.jpg",
-      "original_image": "./assets/news/e7897ab83d8b9ef042137af2.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/575423/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%B5%D9%81%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%86%D8%B0%D8%A7%D8%B1-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8188bf9d93d4.html"
-    },
-    {
-      "title": "إيران تعلق على ضرب العراقيين.. معركة “نيكان” 3 ساعات في شارع قاسم سليماني",
-      "url": "https://964media.com/715099/",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-08T16:36:19+00:00",
-      "image": "./assets/news/568771f2b01535f7e364fd05.jpg",
-      "original_image": "./assets/news/568771f2b01535f7e364fd05.jpg",
-      "source_url": "https://964media.com/715099/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/da2a542f1fd4.html"
     },
     {
       "title": "كيف يستعد الرئيس الصيني للقاء دونالد ترامب؟ - مقال في الواشنطن بوست - شفق نيوز..",

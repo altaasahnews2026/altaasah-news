@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T21:18:23.815054+00:00",
+  "updated_at": "2026-09-08T21:43:48.854514+00:00",
   "latest": [
     {
       "title": "إنذارات سعودية جديدة \"للتحذير من خطر\" بعد هجمات الحوثيين، والخارجية الأمريكية تحمّل إيران المسؤولية - شفق نيوز..",
@@ -24,6 +24,16 @@
       ]
     },
     {
+      "title": "دوي انفجارات عدة جنوبي إيران",
+      "url": "https://www.alsumaria.tv/news/international/575431/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D8%AF%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "category": "عراق",
+      "published": "2026-09-08T18:54:02+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "طهران تتوعد باستهداف ناقلات نفط في الكويت والبحرين بعد هجمات أمريكية على ناقلات نفط إيرانية - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm2mk06lzkro",
       "category": "عراق",
@@ -38,16 +48,6 @@
       "url": "https://www.alsumaria.tv/news/international/575436/%D9%82%D8%B5%D9%81-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%AE%D8%A7%D8%B1%D9%83",
       "category": "عراق",
       "published": "2026-09-08T19:39:00+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "دوي انفجارات عدة جنوبي إيران",
-      "url": "https://www.alsumaria.tv/news/international/575431/%d8%af%d9%88%d9%8a-%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b9%d8%af%d8%a9-%d8%ac%d9%86%d9%88%d8%a8%d9%8a-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-      "category": "عراق",
-      "published": "Tue, 08 Sep 2026 18:54:02 GMT",
       "breaking": true,
       "watch_topics": [
         "إيران"
@@ -72,26 +72,6 @@
       ]
     },
     {
-      "title": "إيران تعلق على ضرب العراقيين.. معركة “نيكان” 3 ساعات في شارع قاسم سليماني",
-      "url": "https://964media.com/715099/",
-      "category": "عراق",
-      "published": "2026-09-08T16:36:19+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "إطلاق صفارات الإنذار جنوبي السعودية",
-      "url": "https://www.alsumaria.tv/news/international/575423/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%B5%D9%81%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%86%D8%B0%D8%A7%D8%B1-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-08T17:05:20+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "إيران تعلق على الحل الأمريكي المبتكر",
       "url": "https://www.alsumaria.tv/news/international/575433/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D9%83%D8%B1",
       "category": "عراق",
@@ -102,10 +82,20 @@
       ]
     },
     {
-      "title": "برلمان العراق يعترف: ندفع لإيران 20 دولاراً عن كل برميل لعبور هرمز",
-      "url": "https://964media.com/715120/",
+      "title": "القوات الأمريكية تهاجم سفينة تجارية قبالة ساحل جنوبي إيران",
+      "url": "https://www.alsumaria.tv/news/international/575444/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D9%87%D8%A7%D8%AC%D9%85-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%B3%D8%A7%D8%AD%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "category": "عراق",
-      "published": "2026-09-08T17:27:29+00:00",
+      "published": "2026-09-08T21:19:11+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "العراق يتسلم بلال المالكي من إيران",
+      "url": "https://www.alsumaria.tv/news/politics/575427/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AA%D8%B3%D9%84%D9%85-%D8%A8%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A-%D9%85%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "category": "عراق",
+      "published": "2026-09-08T17:44:16+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
@@ -119,16 +109,6 @@
       "breaking": false,
       "watch_topics": [
         "السعودية"
-      ]
-    },
-    {
-      "title": "العراق يتسلم \"بلال المالكي\" من إيران",
-      "url": "https://www.alsumaria.tv/news/politics/575427/%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%8a%d8%aa%d8%b3%d9%84%d9%85-quot%d8%a8%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%83%d9%8aquot-%d9%85%d9%86-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-      "category": "عراق",
-      "published": "Tue, 08 Sep 2026 17:44:16 GMT",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
       ]
     },
     {
@@ -152,6 +132,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
       "category": "عراق",
       "published": "2026-09-08T20:22:41+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الاحتياطي النفطي الأمريكي يهبط إلى أدنى مستوى منذ 44 عاماً",
+      "url": "https://www.alsumaria.tv/news/economy/575439/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%87%D8%A8%D8%B7-%D8%A5%D9%84%D9%89-%D8%A3%D8%AF%D9%86%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%85%D9%86%D8%B0-44-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B",
+      "category": "عراق",
+      "published": "2026-09-08T20:15:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -188,6 +176,14 @@
       "watch_topics": []
     },
     {
+      "title": "مسؤول أمريكي يكشف عن تعطل غواصة في الشرق الأوسط",
+      "url": "https://www.alsumaria.tv/news/international/575429/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%AA%D8%B9%D8%B7%D9%84-%D8%BA%D9%88%D8%A7%D8%B5%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "category": "عراق",
+      "published": "2026-09-08T18:00:41+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "المد البحري في البصرة طبيعي ولا مخاوف.. تغيرات المحيط لم تصل بعد",
       "url": "https://964media.com/715151/",
       "category": "عراق",
@@ -212,18 +208,18 @@
       "watch_topics": []
     },
     {
-      "title": "الاطاحة باجنبي خبأ المخدرات داخل عجلة كبيرة في كركوك",
-      "url": "https://www.alsumaria.tv/news/localnews/575424/%D8%A7%D9%84%D8%A7%D8%B7%D8%A7%D8%AD%D8%A9-%D8%A8%D8%A7%D8%AC%D9%86%D8%A8%D9%8A-%D8%AE%D8%A8%D8%A3-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AF%D8%A7%D8%AE%D9%84-%D8%B9%D8%AC%D9%84%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
-      "category": "عراق",
-      "published": "2026-09-08T17:17:12+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
       "url": "https://altaasahnews2026.github.io/altaasah-news/editorial/kirkuk-council-25-2026-09-08",
       "category": "عراق",
       "published": "2026-09-08T13:11:00+03:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "اعتراضات صاروخية في مدينة إربد شمالي الأردن",
+      "url": "https://www.alsumaria.tv/news/international/575445/%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6%d8%a7%d8%aa-%d8%b5%d8%a7%d8%b1%d9%88%d8%ae%d9%8a%d8%a9-%d9%81%d9%8a-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%a5%d8%b1%d8%a8%d8%af-%d8%b4%d9%85%d8%a7%d9%84%d9%8a-%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Tue, 08 Sep 2026 21:36:19 GMT",
       "breaking": false,
       "watch_topics": []
     },
@@ -244,10 +240,10 @@
       "watch_topics": []
     },
     {
-      "title": "الاحتياطي النفطي الأمريكي يهبط إلى أدنى مستوى منذ 44 عاماً",
-      "url": "https://www.alsumaria.tv/news/economy/575439/%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%8a%d8%a7%d8%b7%d9%8a-%d8%a7%d9%84%d9%86%d9%81%d8%b7%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%8a%d9%87%d8%a8%d8%b7-%d8%a5%d9%84%d9%89-%d8%a3%d8%af%d9%86%d9%89-%d9%85%d8%b3%d8%aa%d9%88%d9%89-%d9%85%d9%86%d8%b0?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "title": "الدفاع تؤكد انتحار آمر لواء شمالي بغداد",
+      "url": "https://www.alsumaria.tv/news/security/575434/%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9-%d8%aa%d8%a4%d9%83%d8%af-%d8%a7%d9%86%d8%aa%d8%ad%d8%a7%d8%b1-%d8%a2%d9%85%d8%b1-%d9%84%d9%88%d8%a7%d8%a1-%d8%b4%d9%85%d8%a7%d9%84%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
       "category": "عراق",
-      "published": "Tue, 08 Sep 2026 20:15:00 GMT",
+      "published": "Tue, 08 Sep 2026 19:21:02 GMT",
       "breaking": false,
       "watch_topics": []
     },
@@ -322,6 +318,16 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "«حوار الأمن والتاريخ» يختتم أعماله في الرياض بـ5 آلاف زائر",
+      "url": "https://aawsat.com/node/5316196",
+      "category": "مشرق أوسط",
+      "published": "Tue, 08 Sep 2026 22:19:54 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {
@@ -459,14 +465,6 @@
       "url": "https://aawsat.com/node/5315895",
       "category": "مشرق أوسط",
       "published": "Tue, 08 Sep 2026 08:50:00 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "معارك اليمن... فتح محاور جديدة يربك التحصينات الحوثية",
-      "url": "https://aawsat.com/node/5315735",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 17:38:11 +0100",
       "breaking": false,
       "watch_topics": []
     },
@@ -667,6 +665,16 @@
       ]
     },
     {
+      "title": "دوي انفجارات عدة جنوبي إيران",
+      "url": "https://www.alsumaria.tv/news/international/575431/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D8%AF%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "category": "عراق",
+      "published": "2026-09-08T18:54:02+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "طهران تتوعد باستهداف ناقلات نفط في الكويت والبحرين بعد هجمات أمريكية على ناقلات نفط إيرانية - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm2mk06lzkro",
       "category": "عراق",
@@ -681,16 +689,6 @@
       "url": "https://www.alsumaria.tv/news/international/575436/%D9%82%D8%B5%D9%81-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%AE%D8%A7%D8%B1%D9%83",
       "category": "عراق",
       "published": "2026-09-08T19:39:00+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "دوي انفجارات عدة جنوبي إيران",
-      "url": "https://www.alsumaria.tv/news/international/575431/%d8%af%d9%88%d9%8a-%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b9%d8%af%d8%a9-%d8%ac%d9%86%d9%88%d8%a8%d9%8a-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-      "category": "عراق",
-      "published": "Tue, 08 Sep 2026 18:54:02 GMT",
       "breaking": true,
       "watch_topics": [
         "إيران"
