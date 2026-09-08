@@ -36,7 +36,7 @@ jobs:
           mkdir -p news assets/news
           printf '{"updated_at":"","items":[]}' > news.json
       - name: Validate scripts
-        run: python -m py_compile scripts/update_news.py scripts/augment_sources.py scripts/clean_news.py scripts/prioritize_kirkuk.py scripts/apply_news_template.py scripts/dedupe_news_images.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py scripts/social_slogan.py scripts/final_image_fix.py scripts/hotfix_news_loader.py
+        run: python -m py_compile scripts/update_news.py scripts/augment_sources.py scripts/clean_news.py scripts/prioritize_kirkuk.py scripts/apply_news_template.py scripts/dedupe_news_images.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py scripts/social_slogan.py scripts/polish_ui.py scripts/final_image_fix.py scripts/hotfix_news_loader.py
       - name: Fetch Iraq and dedicated Kirkuk news sources
         run: python scripts/update_news.py
       - name: Fetch Rudaw, Iraqi Media Network and Al Sharqiya fresh news
@@ -59,6 +59,8 @@ jobs:
         run: python scripts/force_header_ticker.py
       - name: Add social icons and clear slogan
         run: python scripts/social_slogan.py
+      - name: Polish homepage layout and responsive interface
+        run: python scripts/polish_ui.py
       - name: Polish homepage social preview and image safety
         run: |
           python - <<'PY'
@@ -114,6 +116,7 @@ jobs:
           assert 'raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/assets/news/' not in page
           assert 'fetchNewsData' in page and 'embedded-news-fallback' in page and '__NEWS_FALLBACK__' in page
           assert page.count('social') >= 2 and 'نعلم لتعلم' in page
+          assert 'professional-news-ui' in page
           script=Path('scripts/update_news.py').read_text(encoding='utf-8').lower()
           for bad in ('bing.com/images','google.com/search?','commons.wikimedia.org','search_engine(','wiki_images('): assert bad not in script, bad
           print('STRICT OK:',len(items),'news / Kirkuk',len(kirkuk),' / unique raw images /',len(image_paths),'ticker items',len(t['latest']))
