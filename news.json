@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:56:43.020103+00:00",
+  "updated_at": "2026-09-08T12:10:40.793272+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -29,6 +29,21 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/850e87a3d8be.html"
+    },
+    {
+      "title": "الدفاع المدني يسيطر على حريق داخل دار سكنية في الرمادي",
+      "url": "https://www.alsumaria.tv/news/localnews/575393/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%8A%D8%B3%D9%8A%D8%B7%D8%B1-%D8%B9%D9%84%D9%89-%D8%AD%D8%B1%D9%8A%D9%82-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AF%D8%A7%D8%B1-%D8%B3%D9%83%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%85%D8%A7%D8%AF%D9%8A",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-08T12:04:50+00:00",
+      "image": "./assets/news/b0920f27841bc2d4d5e23e48.jpg",
+      "original_image": "./assets/news/b0920f27841bc2d4d5e23e48.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/575393/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%8A%D8%B3%D9%8A%D8%B7%D8%B1-%D8%B9%D9%84%D9%89-%D8%AD%D8%B1%D9%8A%D9%82-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AF%D8%A7%D8%B1-%D8%B3%D9%83%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%85%D8%A7%D8%AF%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cdbe36d5a5ad.html"
     },
     {
       "title": "اعتقال مدير قناة “عراق الحدث” بلال المالكي في مطار مشهد وتسليمه إلى بغداد",
@@ -136,28 +151,13 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0c1e79c8266e.html"
     },
     {
-      "title": "صلاح الدين تختار مدراء لسامراء وبيجي و4 وحدات إدارية أخرى",
-      "url": "https://964media.com/714945/",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-08T09:57:56+00:00",
-      "image": "./assets/news/7260199422e2e41bdee3a79d.jpg",
-      "original_image": "./assets/news/7260199422e2e41bdee3a79d.jpg",
-      "source_url": "https://964media.com/714945/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/14ba23d232ae.html"
-    },
-    {
       "title": "وزير النفط يعلن تعافي عمليات التصدير في العراق",
       "url": "https://www.alsumaria.tv/news/economy/575391/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%B9%D8%A7%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-08T11:26:47+00:00",
-      "image": "./assets/news/2c52c6d5f9bd05766af3e996.jpg",
-      "original_image": "./assets/news/2c52c6d5f9bd05766af3e996.jpg",
+      "image": "./assets/news/3e293bd707a95c11aeef836b.jpg",
+      "original_image": "./assets/news/3e293bd707a95c11aeef836b.jpg",
       "source_url": "https://www.alsumaria.tv/news/economy/575391/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%B9%D8%A7%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -216,8 +216,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-08T11:48:54+00:00",
-      "image": "./assets/news/00609967da1e97b53441ba5e.jpg",
-      "original_image": "./assets/news/00609967da1e97b53441ba5e.jpg",
+      "image": "./assets/news/0d1d2da9ec803b0b117ce26f.jpg",
+      "original_image": "./assets/news/0d1d2da9ec803b0b117ce26f.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/575392/sports/%D9%85%D9%81%D8%A7%D8%AC%D8%A3%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B1%D8%B4%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%88%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A3%D9%81%D8%B6%D9%84-%D9%81%D8%B1",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -346,6 +346,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/557ad641ce9e.html"
     },
     {
+      "title": "صلاح الدين تختار مدراء لسامراء وبيجي و4 وحدات إدارية أخرى",
+      "url": "https://964media.com/714945/",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-08T09:57:56+00:00",
+      "image": "./assets/news/7260199422e2e41bdee3a79d.jpg",
+      "original_image": "./assets/news/7260199422e2e41bdee3a79d.jpg",
+      "source_url": "https://964media.com/714945/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/14ba23d232ae.html"
+    },
+    {
       "title": "واتساب يوقف الدعم عن ملايين الهواتف",
       "url": "https://www.alsumaria.tv/news/miscellaneous/575383/%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%8A%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%B9%D9%86-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81",
       "category": "محليات",
@@ -451,21 +466,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1ae2ce272237.html"
     },
     {
-      "title": "ساعتان فقط يوميًا.. هكذا ستتغير حياة المراهقين على السوشيال ميديا!",
-      "url": "https://www.alsumaria.tv/news/technology/575362/%D8%B3%D8%A7%D8%B9%D8%AA%D8%A7%D9%86-%D9%81%D9%82%D8%B7-%D9%8A%D9%88%D9%85%D9%8A%D9%8B%D8%A7-%D9%87%D9%83%D8%B0%D8%A7-%D8%B3%D8%AA%D8%AA%D8%BA%D9%8A%D8%B1-%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%87%D9%82%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D9%88%D8%B4%D9%8A%D8%A7%D9%84-%D9%85%D9%8A%D8%AF%D9%8A%D8%A7",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-08T08:19:25+00:00",
-      "image": "./assets/news/16ca43a01e8604f3a36dbbfc.jpg",
-      "original_image": "./assets/news/16ca43a01e8604f3a36dbbfc.jpg",
-      "source_url": "https://www.alsumaria.tv/news/technology/575362/%D8%B3%D8%A7%D8%B9%D8%AA%D8%A7%D9%86-%D9%81%D9%82%D8%B7-%D9%8A%D9%88%D9%85%D9%8A%D9%8B%D8%A7-%D9%87%D9%83%D8%B0%D8%A7-%D8%B3%D8%AA%D8%AA%D8%BA%D9%8A%D8%B1-%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%87%D9%82%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D9%88%D8%B4%D9%8A%D8%A7%D9%84-%D9%85%D9%8A%D8%AF%D9%8A%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a4111dc0a125.html"
-    },
-    {
       "title": "قائمة بأسعار بيع وشراء الدولار في بورصات بغداد وأربيل والبصرة",
       "url": "https://964media.com/714914/",
       "category": "محليات",
@@ -494,21 +494,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/be827454eebc.html"
-    },
-    {
-      "title": "طقس العراق: الحرارة ثلاثينية في الشمال والغرب وتتجاوز 45 جنوباً",
-      "url": "https://964media.com/714898/",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-08T06:19:29+00:00",
-      "image": "./assets/news/bb08a9606dfcdedbb817fec0.jpg",
-      "original_image": "./assets/news/bb08a9606dfcdedbb817fec0.jpg",
-      "source_url": "https://964media.com/714898/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/69ce141bd437.html"
     }
   ]
 }
