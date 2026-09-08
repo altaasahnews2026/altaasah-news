@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T00:24:39.692810+00:00",
+  "updated_at": "2026-09-08T00:46:49.470439+00:00",
   "latest": [
     {
       "title": "الجيش الإسرائيلي ينفذ تفجيرا كبيرا جنوبي لبنان",
@@ -345,6 +345,13 @@
       "breaking": false
     },
     {
+      "title": "المدعي العام الأوكراني يستقيل على خلفية اتهامات بالفساد",
+      "url": "https://aawsat.com/node/5315833",
+      "category": "دولي",
+      "published": "Tue, 08 Sep 2026 01:45:27 +0100",
+      "breaking": false
+    },
+    {
       "title": "رياح اليمين المتطرف تهب على أوروبا من ألمانيا",
       "url": "https://aawsat.com/node/5315825",
       "category": "دولي",
@@ -475,13 +482,6 @@
       "url": "https://aawsat.com/node/5315553",
       "category": "دولي",
       "published": "Mon, 07 Sep 2026 10:06:54 +0100",
-      "breaking": false
-    },
-    {
-      "title": "ألمانيا تطلب إسقاط دعوى بحقها أمام «العدل الدولية» في قضية إبادة جماعية بغزة",
-      "url": "https://aawsat.com/node/5315541",
-      "category": "دولي",
-      "published": "Mon, 07 Sep 2026 09:50:46 +0100",
       "breaking": false
     },
     {
