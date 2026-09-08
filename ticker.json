@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T16:35:58.675430+00:00",
+  "updated_at": "2026-09-08T16:51:45.527110+00:00",
   "latest": [
     {
       "title": "واشنطن تفرض عقوبات جديدة على قطاع الطيران الإيراني",
@@ -32,6 +32,14 @@
       "watch_topics": []
     },
     {
+      "title": "أبو ظبي تعلق على تقارير تحذير بن زايد لنتنياهو قبل 7 أكتوبر",
+      "url": "https://www.alsumaria.tv/news/international/575420/%D8%A3%D8%A8%D9%88-%D8%B8%D8%A8%D9%8A-%D8%AA%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%84%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%82%D8%A8%D9%84-7-%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1",
+      "category": "عراق",
+      "published": "2026-09-08T16:42:30+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "بين التهدئة والتصعيد: أبرز محطات العلاقة بين السعودية والحوثيين - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c8x2x18geg9o",
       "category": "عراق",
@@ -52,16 +60,6 @@
       ]
     },
     {
-      "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة أنصار الله - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
-      "category": "عراق",
-      "published": "2026-09-08T14:24:35+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "إيران تعلن اصطياد غواصة أميركية ذكية عند مدخل هرمز",
       "url": "https://www.alsumaria.tv/news/international/575412/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B5%D8%B7%D9%8A%D8%A7%D8%AF-%D8%BA%D9%88%D8%A7%D8%B5%D8%A9-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%B0%D9%83%D9%8A%D8%A9-%D8%B9%D9%86%D8%AF-%D9%85%D8%AF%D8%AE%D9%84-%D9%87%D8%B1%D9%85%D8%B2",
       "category": "عراق",
@@ -72,18 +70,20 @@
       ]
     },
     {
-      "title": "حكم في سلوفينيا يسجن عراقياً 5 سنوات لانتمائه لـداعش",
-      "url": "https://www.alsumaria.tv/news/international/575400/%D8%AD%D9%83%D9%85-%D9%81%D9%8A-%D8%B3%D9%84%D9%88%D9%81%D9%8A%D9%86%D9%8A%D8%A7-%D9%8A%D8%B3%D8%AC%D9%86-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A7%D9%8B-5-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%84%D8%A7%D9%86%D8%AA%D9%85%D8%A7%D8%A6%D9%87-%D9%84%D9%80%D8%AF%D8%A7%D8%B9%D8%B4",
+      "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة أنصار الله - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
       "category": "عراق",
-      "published": "2026-09-08T12:56:46+00:00",
+      "published": "2026-09-08T16:27:54+00:00",
       "breaking": false,
-      "watch_topics": []
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
-      "title": "مصدر أمني: الإفراج عن النائب السابق كاظم الصيادي",
-      "url": "https://www.alsumaria.tv/news/security/575401/%D9%85%D8%B5%D8%AF%D8%B1-%D8%A3%D9%85%D9%86%D9%8A-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D8%A6%D8%A8-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82-%D9%83%D8%A7%D8%B8%D9%85-%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D8%AF%D9%8A",
+      "title": "الأمن والدفاع النيابية تكشف تفاصيل تعديل قانون خدمة وتقاعد قوى الأمن الداخلي",
+      "url": "https://www.alsumaria.tv/news/localnews/575405/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AE%D8%AF%D9%85%D8%A9-%D9%88%D8%AA%D9%82%D8%A7%D8%B9%D8%AF-%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7",
       "category": "عراق",
-      "published": "2026-09-08T13:23:49+00:00",
+      "published": "2026-09-08T13:47:23+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -107,15 +107,15 @@
       "title": "إسرائيل تغلق القنصلية البريطانية في القدس رداً على حظر لندن استيراد السلع من المستوطنات - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
       "category": "عراق",
-      "published": "2026-09-08T15:10:09+00:00",
+      "published": "2026-09-08T16:14:37+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "الدولار يواصل الارتفاع ويسجل سعراً جديداً في البورصة العراقية",
-      "url": "https://www.alsumaria.tv/news/economy/575402/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%88%D9%8A%D8%B3%D8%AC%D9%84-%D8%B3%D8%B9%D8%B1%D8%A7%D9%8B-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
+      "title": "الحجز على أموال شقيق لونا الشبل وشخصيات بارزة من نظام الأسد بسوريا",
+      "url": "https://www.alsumaria.tv/news/international/575422/%D8%A7%D9%84%D8%AD%D8%AC%D8%B2-%D8%B9%D9%84%D9%89-%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%B4%D9%82%D9%8A%D9%82-%D9%84%D9%88%D9%86%D8%A7-%D8%A7%D9%84%D8%B4%D8%A8%D9%84-%D9%88%D8%B4%D8%AE%D8%B5%D9%8A%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A9-%D9%85%D9%86-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%A8%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
       "category": "عراق",
-      "published": "2026-09-08T13:27:07+00:00",
+      "published": "2026-09-08T16:46:33+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -148,14 +148,6 @@
       "url": "https://www.alsumaria.tv/news/localnews/575418/%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%AD%D9%82%D9%88%D9%82-%D9%85%D9%88%D8%AF%D8%B9%D9%8A-%D9%85%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%B7%D9%8A%D9%81-%D9%85%D8%AD%D9%81%D9%88%D8%B8%D8%A9-%D9%88%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B5%D8%A7%D9%8A%D8%A9-%D8%AA%D9%87%D8%AF%D9%81-%D9%84%D8%AD%D9%85%D8%A7%D9%8A",
       "category": "عراق",
       "published": "2026-09-08T15:54:10+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الأمن والدفاع النيابية تكشف تفاصيل تعديل قانون خدمة وتقاعد قوى الأمن الداخلي",
-      "url": "https://www.alsumaria.tv/news/localnews/575405/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AE%D8%AF%D9%85%D8%A9-%D9%88%D8%AA%D9%82%D8%A7%D8%B9%D8%AF-%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7",
-      "category": "عراق",
-      "published": "2026-09-08T13:47:23+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -228,6 +220,14 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/editorial/kirkuk-council-25-2026-09-08",
       "category": "عراق",
       "published": "2026-09-08T13:11:00+03:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "مجلس الخدمة يرهن اطلاق استمارة التعيين بشرط",
+      "url": "https://www.alsumaria.tv/news/localnews/575421/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a9-%d9%8a%d8%b1%d9%87%d9%86-%d8%a7%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d8%b3%d8%aa%d9%85%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d8%b9%d9%8a%d9%8a%d9%86-%d8%a8%d8%b4%d8%b1%d8%b7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Tue, 08 Sep 2026 16:45:26 GMT",
       "breaking": false,
       "watch_topics": []
     },
@@ -393,6 +393,16 @@
       ]
     },
     {
+      "title": "السعودية و7 دول تدين تصريحات إسرائيلية بشأن تهجير الفلسطينيين من غزة",
+      "url": "https://aawsat.com/node/5315230",
+      "category": "مشرق أوسط",
+      "published": "Sun, 06 Sep 2026 10:56:01 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "محللون لـ«الشرق الأوسط»: تنسيق سعودي وتمكين للحكومة اليمنية لإعادة رسم ميزان القوى",
       "url": "https://aawsat.com/node/5316033",
       "category": "مشرق أوسط",
@@ -449,14 +459,6 @@
       "watch_topics": []
     },
     {
-      "title": "العراق يطّلع على التجربة المصرية في معالجة المياه وإعادة استخدامها",
-      "url": "https://aawsat.com/node/5315684",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 15:45:35 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "روسيا تستأنف قصف كييف بعد وقف قصير لإطلاق النار",
       "url": "https://aawsat.com/node/5315865",
       "category": "دولي",
@@ -507,6 +509,16 @@
       ]
     },
     {
+      "title": "ترمب يقترح «نيو أميركا» اسماً بديلاً لنيو مكسيكو",
+      "url": "https://aawsat.com/node/5316109",
+      "category": "دولي",
+      "published": "Tue, 08 Sep 2026 17:47:03 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "ترمب يروج لفكرة تغيير اسم ولاية نيو مكسيكو إلى نيو أميركا",
       "url": "https://aawsat.com/node/5315773",
       "category": "دولي",
@@ -541,16 +553,6 @@
       "url": "https://aawsat.com/node/5314719",
       "category": "دولي",
       "published": "Fri, 04 Sep 2026 15:48:36 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "أميركا ترحل أكثر من 100 شخص إلى هايتي مع استمرار عنف العصابات",
-      "url": "https://aawsat.com/node/5314511",
-      "category": "دولي",
-      "published": "Fri, 04 Sep 2026 02:13:34 +0100",
       "breaking": false,
       "watch_topics": [
         "أمريكا"
@@ -635,6 +637,14 @@
       "url": "https://www.alsumaria.tv/Entertainment-News/575403/sports/%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D8%B5%D8%AF%D8%B1-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D9%8B-%D8%B9%D8%A7%D8%AC%D9%84%D8%A7%D9%8B-%D9%82%D8%A8%D9%84-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A5%D9%86%D8%AA%D8%B1-%D9%81%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
       "category": "عراق",
       "published": "2026-09-08T13:31:15+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "أبو ظبي تعلق على تقارير تحذير بن زايد لنتنياهو قبل 7 أكتوبر",
+      "url": "https://www.alsumaria.tv/news/international/575420/%D8%A3%D8%A8%D9%88-%D8%B8%D8%A8%D9%8A-%D8%AA%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%84%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%82%D8%A8%D9%84-7-%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1",
+      "category": "عراق",
+      "published": "2026-09-08T16:42:30+00:00",
       "breaking": true,
       "watch_topics": []
     },

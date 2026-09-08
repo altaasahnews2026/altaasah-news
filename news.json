@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T16:35:54.790800+00:00",
+  "updated_at": "2026-09-08T16:51:38.911758+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -29,6 +29,21 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/850e87a3d8be.html"
+    },
+    {
+      "title": "أبو ظبي تعلق على تقارير تحذير بن زايد لنتنياهو قبل 7 أكتوبر",
+      "url": "https://www.alsumaria.tv/news/international/575420/%D8%A3%D8%A8%D9%88-%D8%B8%D8%A8%D9%8A-%D8%AA%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%84%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%82%D8%A8%D9%84-7-%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-08T16:42:30+00:00",
+      "image": "./assets/news/c2a7c49a8700203d692580c8.jpg",
+      "original_image": "./assets/news/c2a7c49a8700203d692580c8.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575420/%D8%A3%D8%A8%D9%88-%D8%B8%D8%A8%D9%8A-%D8%AA%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%84%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%82%D8%A8%D9%84-7-%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3a6ef2b1a731.html"
     },
     {
       "title": "لماذا نشعر بالنعاس بعد تناول الغداء؟",
@@ -136,28 +151,13 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d677533af654.html"
     },
     {
-      "title": "الأمن والدفاع النيابية تكشف تفاصيل تعديل قانون خدمة وتقاعد قوى الأمن الداخلي",
-      "url": "https://www.alsumaria.tv/news/localnews/575405/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AE%D8%AF%D9%85%D8%A9-%D9%88%D8%AA%D9%82%D8%A7%D8%B9%D8%AF-%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-08T13:47:23+00:00",
-      "image": "./assets/news/2819a9ec4c566d18178b289c.jpg",
-      "original_image": "./assets/news/2819a9ec4c566d18178b289c.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/575405/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AE%D8%AF%D9%85%D8%A9-%D9%88%D8%AA%D9%82%D8%A7%D8%B9%D8%AF-%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e4ada68ef73e.html"
-    },
-    {
       "title": "البنك المركزي: حقوق مودعي مصرف الطيف محفوظة وإجراءات الوصاية تهدف لحماية أموالهم",
       "url": "https://www.alsumaria.tv/news/localnews/575418/%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%AD%D9%82%D9%88%D9%82-%D9%85%D9%88%D8%AF%D8%B9%D9%8A-%D9%85%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%B7%D9%8A%D9%81-%D9%85%D8%AD%D9%81%D9%88%D8%B8%D8%A9-%D9%88%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B5%D8%A7%D9%8A%D8%A9-%D8%AA%D9%87%D8%AF%D9%81-%D9%84%D8%AD%D9%85%D8%A7%D9%8A",
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-08T15:54:10+00:00",
-      "image": "./assets/news/1697bb796b4404e20b1d31e9.jpg",
-      "original_image": "./assets/news/1697bb796b4404e20b1d31e9.jpg",
+      "image": "./assets/news/9423a0604cae8029e88d76e1.jpg",
+      "original_image": "./assets/news/9423a0604cae8029e88d76e1.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/575418/%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%AD%D9%82%D9%88%D9%82-%D9%85%D9%88%D8%AF%D8%B9%D9%8A-%D9%85%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%B7%D9%8A%D9%81-%D9%85%D8%AD%D9%81%D9%88%D8%B8%D8%A9-%D9%88%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B5%D8%A7%D9%8A%D8%A9-%D8%AA%D9%87%D8%AF%D9%81-%D9%84%D8%AD%D9%85%D8%A7%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -226,21 +226,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a04330ca3443.html"
     },
     {
-      "title": "الدولار يواصل الارتفاع ويسجل سعراً جديداً في البورصة العراقية",
-      "url": "https://www.alsumaria.tv/news/economy/575402/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%88%D9%8A%D8%B3%D8%AC%D9%84-%D8%B3%D8%B9%D8%B1%D8%A7%D9%8B-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-08T13:27:07+00:00",
-      "image": "./assets/news/a2adde54be615a692e58a512.jpg",
-      "original_image": "./assets/news/a2adde54be615a692e58a512.jpg",
-      "source_url": "https://www.alsumaria.tv/news/economy/575402/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%88%D9%8A%D8%B3%D8%AC%D9%84-%D8%B3%D8%B9%D8%B1%D8%A7%D9%8B-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/920c0a1a5750.html"
-    },
-    {
       "title": "ترامب: إيران لم تعد قادرة على امتلاك سلاح نووي",
       "url": "https://www.alsumaria.tv/news/international/575413/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D9%85-%D8%AA%D8%B9%D8%AF-%D9%82%D8%A7%D8%AF%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%85%D8%AA%D9%84%D8%A7%D9%83-%D8%B3%D9%84%D8%A7%D8%AD-%D9%86%D9%88%D9%88%D9%8A",
       "category": "أمن",
@@ -256,11 +241,41 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4e460b2f6f0a.html"
     },
     {
+      "title": "الحجز على أموال شقيق لونا الشبل وشخصيات بارزة من نظام الأسد بسوريا",
+      "url": "https://www.alsumaria.tv/news/international/575422/%D8%A7%D9%84%D8%AD%D8%AC%D8%B2-%D8%B9%D9%84%D9%89-%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%B4%D9%82%D9%8A%D9%82-%D9%84%D9%88%D9%86%D8%A7-%D8%A7%D9%84%D8%B4%D8%A8%D9%84-%D9%88%D8%B4%D8%AE%D8%B5%D9%8A%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A9-%D9%85%D9%86-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%A8%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-08T16:46:33+00:00",
+      "image": "./assets/news/317f347846bb7eefd687c62b.jpg",
+      "original_image": "./assets/news/317f347846bb7eefd687c62b.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575422/%D8%A7%D9%84%D8%AD%D8%AC%D8%B2-%D8%B9%D9%84%D9%89-%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%B4%D9%82%D9%8A%D9%82-%D9%84%D9%88%D9%86%D8%A7-%D8%A7%D9%84%D8%B4%D8%A8%D9%84-%D9%88%D8%B4%D8%AE%D8%B5%D9%8A%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A9-%D9%85%D9%86-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%A8%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/acdb9209bc08.html"
+    },
+    {
+      "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة أنصار الله - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-08T16:27:54+00:00",
+      "image": "./assets/news/6e5cf80bb7a41e9457be7958.jpg",
+      "original_image": "./assets/news/6e5cf80bb7a41e9457be7958.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/865965eb5689.html"
+    },
+    {
       "title": "إسرائيل تغلق القنصلية البريطانية في القدس رداً على حظر لندن استيراد السلع من المستوطنات - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
       "category": "عربي ودولي",
       "region": "عربي ودولي",
-      "published": "2026-09-08T15:10:09+00:00",
+      "published": "2026-09-08T16:14:37+00:00",
       "image": "./assets/news/d6a040f74f7435dd6845aad4.jpg",
       "original_image": "./assets/news/d6a040f74f7435dd6845aad4.jpg",
       "source_url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
@@ -268,7 +283,7 @@
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b5bd46e24b4f.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c2069de73f12.html"
     },
     {
       "title": "إيران تعلن اصطياد غواصة أميركية ذكية عند مدخل هرمز",
@@ -299,21 +314,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f657f1bb6053.html"
-    },
-    {
-      "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة أنصار الله - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-08T14:24:35+00:00",
-      "image": "./assets/news/6e5cf80bb7a41e9457be7958.jpg",
-      "original_image": "./assets/news/6e5cf80bb7a41e9457be7958.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/487709a06a4e.html"
     },
     {
       "title": "كيف يستعد الرئيس الصيني للقاء دونالد ترامب؟ - مقال في الواشنطن بوست - شفق نيوز..",
@@ -361,6 +361,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8ed3e9bc17dd.html"
     },
     {
+      "title": "الأمن والدفاع النيابية تكشف تفاصيل تعديل قانون خدمة وتقاعد قوى الأمن الداخلي",
+      "url": "https://www.alsumaria.tv/news/localnews/575405/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AE%D8%AF%D9%85%D8%A9-%D9%88%D8%AA%D9%82%D8%A7%D8%B9%D8%AF-%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-08T13:47:23+00:00",
+      "image": "./assets/news/2819a9ec4c566d18178b289c.jpg",
+      "original_image": "./assets/news/2819a9ec4c566d18178b289c.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/575405/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AE%D8%AF%D9%85%D8%A9-%D9%88%D8%AA%D9%82%D8%A7%D8%B9%D8%AF-%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e4ada68ef73e.html"
+    },
+    {
       "title": "بين التهدئة والتصعيد: أبرز محطات العلاقة بين السعودية والحوثيين - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c8x2x18geg9o",
       "category": "عربي ودولي",
@@ -374,36 +389,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/557ad641ce9e.html"
-    },
-    {
-      "title": "مصدر أمني: الإفراج عن النائب السابق كاظم الصيادي",
-      "url": "https://www.alsumaria.tv/news/security/575401/%D9%85%D8%B5%D8%AF%D8%B1-%D8%A3%D9%85%D9%86%D9%8A-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D8%A6%D8%A8-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82-%D9%83%D8%A7%D8%B8%D9%85-%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D8%AF%D9%8A",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-08T13:23:49+00:00",
-      "image": "./assets/news/a01be3fa4304ef99a472018f.jpg",
-      "original_image": "./assets/news/a01be3fa4304ef99a472018f.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/575401/%D9%85%D8%B5%D8%AF%D8%B1-%D8%A3%D9%85%D9%86%D9%8A-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D8%A6%D8%A8-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82-%D9%83%D8%A7%D8%B8%D9%85-%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D8%AF%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/aeecbcd0693c.html"
-    },
-    {
-      "title": "حكم في سلوفينيا يسجن عراقياً 5 سنوات لانتمائه لـداعش",
-      "url": "https://www.alsumaria.tv/news/international/575400/%D8%AD%D9%83%D9%85-%D9%81%D9%8A-%D8%B3%D9%84%D9%88%D9%81%D9%8A%D9%86%D9%8A%D8%A7-%D9%8A%D8%B3%D8%AC%D9%86-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A7%D9%8B-5-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%84%D8%A7%D9%86%D8%AA%D9%85%D8%A7%D8%A6%D9%87-%D9%84%D9%80%D8%AF%D8%A7%D8%B9%D8%B4",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-08T12:56:46+00:00",
-      "image": "./assets/news/8339846578821ffb8c3f4ce6.jpg",
-      "original_image": "./assets/news/8339846578821ffb8c3f4ce6.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/575400/%D8%AD%D9%83%D9%85-%D9%81%D9%8A-%D8%B3%D9%84%D9%88%D9%81%D9%8A%D9%86%D9%8A%D8%A7-%D9%8A%D8%B3%D8%AC%D9%86-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A7%D9%8B-5-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%84%D8%A7%D9%86%D8%AA%D9%85%D8%A7%D8%A6%D9%87-%D9%84%D9%80%D8%AF%D8%A7%D8%B9%D8%B4",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/87cfc748f395.html"
     }
   ]
 }
