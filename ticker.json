@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T23:22:27.268467+00:00",
+  "updated_at": "2026-09-08T23:35:20.594751+00:00",
   "latest": [
     {
       "title": "إنذارات سعودية جديدة \"للتحذير من خطر\" بعد هجمات الحوثيين، والخارجية الأمريكية تحمّل إيران المسؤولية - شفق نيوز..",
@@ -28,16 +28,6 @@
       "url": "https://www.alsumaria.tv/news/international/575431/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D8%AF%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "category": "عراق",
       "published": "2026-09-08T18:54:02+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "اعتراضات لصواريخ في شمال الأردن، وطهران تتوعد باستهداف ناقلات نفط بالكويت والبحرين بعد هجمات أمريكية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm2mk06lzkro",
-      "category": "عراق",
-      "published": "2026-09-08T22:17:08+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران"
@@ -96,6 +86,16 @@
       "url": "https://www.alsumaria.tv/news/international/575447/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D8%AE%D9%85%D8%B3-%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA-%D9%86%D9%81%D8%B7-%D8%AE%D8%A7%D9%85-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9",
       "category": "عراق",
       "published": "2026-09-08T22:22:00+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "الجيش الأمريكي يعلن تدمير 5 ناقلات نفط إيرانية، والحرس الثوري يعلن شن غارات على \"قاعدة أمريكية في الأردن\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm2mk06lzkro",
+      "category": "عراق",
+      "published": "2026-09-08T23:08:12+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
@@ -269,6 +269,14 @@
         "إيران",
         "أمريكا"
       ]
+    },
+    {
+      "title": "التحالف يتوعد الحوثيين غداة استهداف مدن سعودية",
+      "url": "https://aawsat.com/node/5316232",
+      "category": "مشرق أوسط",
+      "published": "Wed, 09 Sep 2026 00:22:37 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "ثوران بركاني يمدّد إغلاق 4 مطارات في إندونيسيا ويعطل آلاف الرحلات",
@@ -457,14 +465,6 @@
       "url": "https://aawsat.com/node/5315895",
       "category": "مشرق أوسط",
       "published": "Tue, 08 Sep 2026 08:50:00 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "معارك اليمن... فتح محاور جديدة يربك التحصينات الحوثية",
-      "url": "https://aawsat.com/node/5315735",
-      "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 17:38:11 +0100",
       "breaking": false,
       "watch_topics": []
     },
@@ -677,16 +677,6 @@
       ]
     },
     {
-      "title": "اعتراضات لصواريخ في شمال الأردن، وطهران تتوعد باستهداف ناقلات نفط بالكويت والبحرين بعد هجمات أمريكية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm2mk06lzkro",
-      "category": "عراق",
-      "published": "2026-09-08T22:17:08+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "قصف أمريكي يستهدف ناقلة نفط إيرانية قرب خارك",
       "url": "https://www.alsumaria.tv/news/international/575436/%D9%82%D8%B5%D9%81-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%AE%D8%A7%D8%B1%D9%83",
       "category": "عراق",
@@ -713,6 +703,14 @@
       "watch_topics": [
         "السعودية"
       ]
+    },
+    {
+      "title": "التحالف يتوعد الحوثيين غداة استهداف مدن سعودية",
+      "url": "https://aawsat.com/node/5316232",
+      "category": "مشرق أوسط",
+      "published": "Wed, 09 Sep 2026 00:22:37 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "ثوران بركاني يمدّد إغلاق 4 مطارات في إندونيسيا ويعطل آلاف الرحلات",
