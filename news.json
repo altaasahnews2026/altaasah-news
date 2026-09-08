@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T05:16:41.024175+00:00",
+  "updated_at": "2026-09-08T05:33:20.828680+00:00",
   "items": [
     {
       "title": "الحشد والجيش ينفذان عملية دهم وتفتيش في قاطع البشير جنوب غربي كركوك",
@@ -15,6 +15,21 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/850e87a3d8be.html"
+    },
+    {
+      "title": "خطر خفي للإفراط في شرب القهوة",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/575348/%D8%AE%D8%B7%D8%B1-%D8%AE%D9%81%D9%8A-%D9%84%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%B7-%D9%81%D9%8A-%D8%B4%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D9%87%D9%88%D8%A9",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-08T05:21:00+00:00",
+      "image": "./assets/news/191896684e8dfd8fb1955829.jpg",
+      "original_image": "./assets/news/191896684e8dfd8fb1955829.jpg",
+      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575348/%D8%AE%D8%B7%D8%B1-%D8%AE%D9%81%D9%8A-%D9%84%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%B7-%D9%81%D9%8A-%D8%B4%D8%B1%D8%A8-%D8%A7%D9%84%D9%82%D9%87%D9%88%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/27ed8d7d52f1.html"
     },
     {
       "title": "الإطار التنسيقي يقرر المضي بتسمية الوزراء المتبقين",
@@ -225,21 +240,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e2a860cecada.html"
-    },
-    {
-      "title": "سر زر الحذف.. كيف تستعيد صورك التي ظننت أنك مسحتها للأبد؟",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575328/%D8%B3%D8%B1-%D8%B2%D8%B1-%D8%A7%D9%84%D8%AD%D8%B0%D9%81-%D9%83%D9%8A%D9%81-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-%D8%B5%D9%88%D8%B1%D9%83-%D8%A7%D9%84%D8%AA%D9%8A-%D8%B8%D9%86%D9%86%D8%AA-%D8%A3%D9%86%D9%83-%D9%85%D8%B3%D8%AD%D8%AA%D9%87%D8%A7-%D9%84%D9%84%D8%A3%D8%A8%D8%AF%D8%9F",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-07T16:58:32+00:00",
-      "image": "./assets/news/9b11bdfee3911276b4ea7e84.webp",
-      "original_image": "./assets/news/9b11bdfee3911276b4ea7e84.webp",
-      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575328/%D8%B3%D8%B1-%D8%B2%D8%B1-%D8%A7%D9%84%D8%AD%D8%B0%D9%81-%D9%83%D9%8A%D9%81-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-%D8%B5%D9%88%D8%B1%D9%83-%D8%A7%D9%84%D8%AA%D9%8A-%D8%B8%D9%86%D9%86%D8%AA-%D8%A3%D9%86%D9%83-%D9%85%D8%B3%D8%AD%D8%AA%D9%87%D8%A7-%D9%84%D9%84%D8%A3%D8%A8%D8%AF%D8%9F",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b3def26b500b.html"
     },
     {
       "title": "الأمم المتحدة تدعو إسرائيل لوقف العنف ضد الفلسطينيين واللبنانيين",
