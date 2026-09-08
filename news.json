@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T08:54:14.538971+00:00",
+  "updated_at": "2026-09-08T08:59:02.479591+00:00",
   "items": [
     {
       "title": "الحشد والجيش ينفذان عملية دهم وتفتيش في قاطع البشير جنوب غربي كركوك",
@@ -15,6 +15,21 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/850e87a3d8be.html"
+    },
+    {
+      "title": "ترند صور الثمانينات يجتاح مواقع التواصل.. الذكاء الاصطناعي يعيد العراقيين إلى الماضي",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/575365/%D8%AA%D8%B1%D9%86%D8%AF-%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D8%A7%D8%AA-%D9%8A%D8%AC%D8%AA%D8%A7%D8%AD-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%8A",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-08T08:54:46+00:00",
+      "image": "./assets/news/8cc305382a87aa8f46ba7187.jpg",
+      "original_image": "./assets/news/8cc305382a87aa8f46ba7187.jpg",
+      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575365/%D8%AA%D8%B1%D9%86%D8%AF-%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D8%A7%D8%AA-%D9%8A%D8%AC%D8%AA%D8%A7%D8%AD-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1ae2ce272237.html"
     },
     {
       "title": "رغم ارتفاعه وتجاوزه الـ155 الفا.. أسعار الدولار تستقر لليوم التالي",
@@ -375,21 +390,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ebe3d453b007.html"
-    },
-    {
-      "title": "الدفاع اليمنية تعلن حسم قرار تحرير صنعاء من الحوثيين",
-      "url": "https://www.alsumaria.tv/news/international/575344/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%8A%D9%85%D9%86%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AD%D8%B3%D9%85-%D9%82%D8%B1%D8%A7%D8%B1-%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1-%D8%B5%D9%86%D8%B9%D8%A7%D8%A1-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-07T21:10:00+00:00",
-      "image": "./assets/news/c44c66f1d7a30e339d70998c.jpg",
-      "original_image": "./assets/news/c44c66f1d7a30e339d70998c.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/575344/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%8A%D9%85%D9%86%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AD%D8%B3%D9%85-%D9%82%D8%B1%D8%A7%D8%B1-%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1-%D8%B5%D9%86%D8%B9%D8%A7%D8%A1-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1f6828eb51b3.html"
     }
   ]
 }
