@@ -36,7 +36,7 @@ jobs:
           mkdir -p news assets/news
           printf '{"updated_at":"","items":[]}' > news.json
       - name: Validate scripts
-        run: python -m py_compile scripts/update_news.py scripts/augment_sources.py scripts/prioritize_kirkuk.py scripts/apply_news_template.py scripts/dedupe_news_images.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py scripts/social_slogan.py scripts/final_image_fix.py
+        run: python -m py_compile scripts/update_news.py scripts/augment_sources.py scripts/prioritize_kirkuk.py scripts/apply_news_template.py scripts/dedupe_news_images.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py scripts/social_slogan.py scripts/final_image_fix.py scripts/hotfix_news_loader.py
       - name: Fetch Iraq and dedicated Kirkuk news sources
         run: python scripts/update_news.py
       - name: Fetch Rudaw, Iraqi Media Network and Al Sharqiya fresh news
@@ -78,6 +78,8 @@ jobs:
           PY
       - name: Final same-origin image fix
         run: python scripts/final_image_fix.py
+      - name: Repair news loader with automatic fallbacks
+        run: python scripts/hotfix_news_loader.py
       - name: Final strict validation
         run: |
           python - <<'PY'
@@ -108,6 +110,7 @@ jobs:
           assert 'البث المباشر' in page and '● عاجل</button>' not in page
           assert 'force-live-ticker-runtime' in page and 'ticker.json' in page
           assert 'raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/assets/news/' not in page
+          assert 'fetchNewsData' in page and 'raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/news.json' in page
           assert page.count('social') >= 2 and 'نعلم لتعلم' in page
           script=Path('scripts/update_news.py').read_text(encoding='utf-8').lower()
           for bad in ('bing.com/images','google.com/search?','commons.wikimedia.org','search_engine(','wiki_images('): assert bad not in script, bad
@@ -119,5 +122,5 @@ jobs:
           git config user.email 'actions@users.noreply.github.com'
           git add -A
           if git diff --cached --quiet; then echo 'لا توجد تغييرات.'; exit 0; fi
-          git commit -m 'إصلاح نهائي لصور الأخبار وشريط آخر الأخبار'
+          git commit -m 'إصلاح تحميل الأخبار تلقائيا مع مصادر احتياطية'
           git push origin main
