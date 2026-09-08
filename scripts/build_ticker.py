@@ -24,6 +24,11 @@ FEEDS={
   'https://aawsat.com/feed/america',
  ]
 }
+WATCH={
+ 'إيران':('إيران','ايران','طهران','الحرس الثوري','النووي الإيراني','مضيق هرمز','هرمز'),
+ 'السعودية':('السعودية','الرياض','ولي العهد السعودي','المملكة العربية السعودية','أرامكو'),
+ 'أمريكا':('أمريكا','امريكا','أميركا','واشنطن','البيت الأبيض','البنتاغون','ترامب','الخارجية الأمريكية','وزارة الدفاع الأمريكية'),
+}
 
 def get(url):
  try:
@@ -49,6 +54,19 @@ def breaking(title):
  crisis_words=('قتلى','ضحايا','شهيد','شهداء','مقتل','إصابة خطيرة','انفجار','هجوم','غارة','زلزال','هزة','حريق كبير','اشتباك','إغلاق','تحذير','سقوط طائرة','اختطاف','قصف','استهداف','إطلاق نار','مسيّرة','مسيرة')
  return any(w in t for w in urgent_words) or any(w in t for w in crisis_words)
 
+def watch_topics(title):
+ t=str(title or '')
+ return [name for name,words in WATCH.items() if any(w in t for w in words)]
+
+def watch_score(item):
+ topics=watch_topics(item.get('title',''))
+ score=0
+ if item.get('breaking'):score+=100
+ if topics:score+=45*len(topics)
+ if 'إيران' in topics and any(w in item.get('title','') for w in WATCH['أمريكا']):score+=20
+ if 'إيران' in topics and 'السعودية' in topics:score+=20
+ return score
+
 all_items=[]
 for category, urls in FEEDS.items():
  for url in urls:
@@ -66,15 +84,25 @@ seen=set(); items=[]
 for x in all_items:
  key=re.sub(r'\W+','',x['title']).lower()
  if not key or key in seen:continue
- seen.add(key); x['breaking']=breaking(x['title']); items.append(x)
+ seen.add(key); x['breaking']=breaking(x['title']); x['watch_topics']=watch_topics(x['title']); items.append(x)
+
+# Put watched Iran/Saudi/US developments at the front while retaining all regional coverage.
+items.sort(key=lambda x:(watch_score(x), x.get('breaking',False)), reverse=True)
 
 # Keep a balanced rolling stream: Iraq + Middle East + international.
 result=[]
 for cat,limit in [('عراق',28),('مشرق أوسط',24),('دولي',24)]:
  result.extend([x for x in items if x['category']==cat][:limit])
 
+# Guarantee visible coverage for the three requested watch files whenever source feeds contain them.
+for topic in ('إيران','السعودية','أمريكا'):
+ for x in items:
+  if topic in x.get('watch_topics',[]) and x not in result:
+   result.insert(0,x)
+   break
+
 breaking_items=[x for x in result if x['breaking']]
 latest=result[:72]
 Path('ticker.json').write_text(json.dumps({'updated_at':datetime.now(timezone.utc).isoformat(),'latest':latest,'breaking':breaking_items[:30]},ensure_ascii=False,indent=2),encoding='utf-8')
-print('ticker:',len(latest),'latest /',len(breaking_items[:30]),'breaking')
+print('ticker:',len(latest),'latest /',len(breaking_items[:30]),'breaking / watched:', {k:sum(1 for x in latest if k in x.get('watch_topics',[])) for k in WATCH})
 if len(latest)<20:raise SystemExit('تعذر بناء شريط أخبار كافٍ')
