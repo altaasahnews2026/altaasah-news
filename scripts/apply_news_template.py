@@ -4,13 +4,15 @@ from PIL import Image
 ROOT=Path('.')
 NEWS=ROOT/'news.json'
 
+
 def valid_source(value):
     p=str(value or '').strip()
     p=p[2:] if p.startswith('./') else p
-    if not p.startswith('assets/news/'):
+    if not (p.startswith('assets/news/') or p.startswith('assets/editorial/')):
         return None
     q=ROOT/p
     return q if q.exists() and q.is_file() else None
+
 
 data=json.loads(NEWS.read_text(encoding='utf-8'))
 items=data.get('items',[])
