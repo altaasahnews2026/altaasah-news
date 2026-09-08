@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T13:36:49.307795+00:00",
+  "updated_at": "2026-09-08T13:38:33.483964+00:00",
   "latest": [
     {
       "title": "ريال مدريد يصدر بياناً عاجلاً قبل مواجهة إنتر في أبطال أوروبا",
@@ -108,14 +108,6 @@
       "watch_topics": []
     },
     {
-      "title": "المملكة المتحدة تحظر استيراد البضائع من المستوطنات الإسرائيلية في الضفة الغربية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
-      "category": "عراق",
-      "published": "2026-09-08T13:05:05+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "الدولار يواصل الارتفاع ويسجل سعراً جديداً في البورصة العراقية",
       "url": "https://www.alsumaria.tv/news/economy/575402/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%88%D9%8A%D8%B3%D8%AC%D9%84-%D8%B3%D8%B9%D8%B1%D8%A7%D9%8B-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
       "category": "عراق",
@@ -144,6 +136,14 @@
       "url": "https://www.alsumaria.tv/news/trends-alsumaria/575398/%D8%A8%D8%AF%D8%A7%D8%B1%D9%87-94-%D8%B3%D9%86%D8%AF%D8%A7%D9%8B-%D9%88%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D9%88%D8%B0%D9%87%D8%A8-%D8%B6%D8%A8%D8%B7-%D9%85%D8%AF%D9%8A%D8%B1-%D8%A3%D9%85%D9%84%D8%A7%D9%83-%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-%D8%AA%D9%83%D8%B1%D9%8A%D8%AA-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D9%84%D8%A7%D8%B9%D8%A8-%D8%A8%D8%A7",
       "category": "عراق",
       "published": "2026-09-08T12:32:46+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "بريطانيا تحظر سلع المستوطنات الإسرائيلية وتفرض عقوبات تستهدف توسعها - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
+      "category": "عراق",
+      "published": "2026-09-08T13:30:23+00:00",
       "breaking": false,
       "watch_topics": []
     },

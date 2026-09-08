@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T13:36:44.124782+00:00",
+  "updated_at": "2026-09-08T13:38:28.818844+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -36,8 +36,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-08T13:23:49+00:00",
-      "image": "./assets/news/a01be3fa4304ef99a472018f.jpg",
-      "original_image": "./assets/news/a01be3fa4304ef99a472018f.jpg",
+      "image": "./assets/news/3fd6134e159f33abedc358dd.jpg",
+      "original_image": "./assets/news/3fd6134e159f33abedc358dd.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/575401/%D9%85%D8%B5%D8%AF%D8%B1-%D8%A3%D9%85%D9%86%D9%8A-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D8%A6%D8%A8-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82-%D9%83%D8%A7%D8%B8%D9%85-%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D8%AF%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -166,13 +166,28 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a04330ca3443.html"
     },
     {
+      "title": "بريطانيا تحظر سلع المستوطنات الإسرائيلية وتفرض عقوبات تستهدف توسعها - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-08T13:30:23+00:00",
+      "image": "./assets/news/d6a040f74f7435dd6845aad4.jpg",
+      "original_image": "./assets/news/d6a040f74f7435dd6845aad4.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7e9f153766ce.html"
+    },
+    {
       "title": "بداره 94 سنداً وأموال وذهب.. ضبط مدير أملاك بلدية تكريت بتهمة التلاعب بالأراضي",
       "url": "https://www.alsumaria.tv/news/trends-alsumaria/575398/%D8%A8%D8%AF%D8%A7%D8%B1%D9%87-94-%D8%B3%D9%86%D8%AF%D8%A7%D9%8B-%D9%88%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D9%88%D8%B0%D9%87%D8%A8-%D8%B6%D8%A8%D8%B7-%D9%85%D8%AF%D9%8A%D8%B1-%D8%A3%D9%85%D9%84%D8%A7%D9%83-%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-%D8%AA%D9%83%D8%B1%D9%8A%D8%AA-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D9%84%D8%A7%D8%B9%D8%A8-%D8%A8%D8%A7",
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-08T12:32:46+00:00",
-      "image": "./assets/news/235a49766acd34af6b449edf.jpg",
-      "original_image": "./assets/news/235a49766acd34af6b449edf.jpg",
+      "image": "./assets/news/f3d670007bf764bc2d51b78b.jpg",
+      "original_image": "./assets/news/f3d670007bf764bc2d51b78b.jpg",
       "source_url": "https://www.alsumaria.tv/news/trends-alsumaria/575398/%D8%A8%D8%AF%D8%A7%D8%B1%D9%87-94-%D8%B3%D9%86%D8%AF%D8%A7%D9%8B-%D9%88%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D9%88%D8%B0%D9%87%D8%A8-%D8%B6%D8%A8%D8%B7-%D9%85%D8%AF%D9%8A%D8%B1-%D8%A3%D9%85%D9%84%D8%A7%D9%83-%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-%D8%AA%D9%83%D8%B1%D9%8A%D8%AA-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D9%84%D8%A7%D8%B9%D8%A8-%D8%A8%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -241,21 +256,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f40aaafb5fd3.html"
     },
     {
-      "title": "المملكة المتحدة تحظر استيراد البضائع من المستوطنات الإسرائيلية في الضفة الغربية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-08T13:05:05+00:00",
-      "image": "./assets/news/e5d3a24437db391fe1be5968.jpg",
-      "original_image": "./assets/news/e5d3a24437db391fe1be5968.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f3046d0f0f2f.html"
-    },
-    {
       "title": "كيف يستعد الرئيس الصيني للقاء دونالد ترامب؟ - مقال في الواشنطن بوست - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c74kz4kzgego",
       "category": "عربي ودولي",
@@ -276,8 +276,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-08T12:50:46+00:00",
-      "image": "./assets/news/4c155c82589f50df1977d7d4.jpg",
-      "original_image": "./assets/news/4c155c82589f50df1977d7d4.jpg",
+      "image": "./assets/news/b7524f3b13e8e48a7e6bd90c.jpg",
+      "original_image": "./assets/news/b7524f3b13e8e48a7e6bd90c.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575399/%D9%83%D9%86%D8%AF%D8%A7-%D9%8811-%D8%AF%D9%88%D9%84%D8%A9-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%84%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B7%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B6%D9%81%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
