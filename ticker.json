@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-08T07:20:47.062717+00:00",
+  "updated_at": "2026-09-08T07:37:17.576864+00:00",
   "latest": [
     {
-      "title": "روسيا تعلن تدمير 32 مسيرة أوكرانية فوق مناطقها",
-      "url": "https://www.alsumaria.tv/news/international/575336/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-32-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%81%D9%88%D9%82-%D9%85%D9%86%D8%A7%D8%B7%D9%82%D9%87%D8%A7",
+      "title": "كل طلاب العراق تركوا سمنان.. قرار سفارتنا في طهران",
+      "url": "https://964media.com/714866/",
       "category": "عراق",
-      "published": "2026-09-07T18:22:00+00:00",
-      "breaking": true
+      "published": "2026-09-07T19:40:26+00:00",
+      "breaking": false
     },
     {
       "title": "جامعة الدول العربية تقرر رفع جميع العقوبات على سوريا",
@@ -83,20 +83,6 @@
       "url": "https://www.alsumaria.tv/news/politics/575338/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A8%D9%8A%D9%86-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D9%88%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%8A%D9%84%D9%82%D9%8A-%D8%A8%D8%B8%D9%84%D8%A7%D9%84%D9%87-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%86",
       "category": "عراق",
       "published": "2026-09-07T18:49:20+00:00",
-      "breaking": false
-    },
-    {
-      "title": "العراقي صار كويتياً عند أنصار الشاه وخامنئي.. غضب تفجره نساء طهران وجكسارات كربلاء",
-      "url": "https://964media.com/714730/",
-      "category": "عراق",
-      "published": "2026-09-07T18:53:21+00:00",
-      "breaking": false
-    },
-    {
-      "title": "غرق رجل وزوجته وطفلة داخل بحيرة الزوراء في بغداد",
-      "url": "https://www.alsumaria.tv/news/localnews/575339/%D8%BA%D8%B1%D9%82-%D8%B1%D8%AC%D9%84-%D9%88%D8%B2%D9%88%D8%AC%D8%AA%D9%87-%D9%88%D8%B7%D9%81%D9%84%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A8%D8%AD%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D9%88%D8%B1%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "category": "عراق",
-      "published": "2026-09-07T19:05:54+00:00",
       "breaking": false
     },
     {
@@ -177,10 +163,24 @@
       "breaking": false
     },
     {
+      "title": "جامعة بغداد توجه رسالة للطلبة المقبلين على التقديم للقبول فيها",
+      "url": "https://www.alsumaria.tv/news/localnews/575356/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D9%88%D8%AC%D9%87-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D9%84%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%82%D8%AF%D9%8A%D9%85-%D9%84%D9%84%D9%82%D8%A8%D9%88%D9%84-%D9%81%D9%8A%D9%87%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-08T07:28:01+00:00",
+      "breaking": false
+    },
+    {
       "title": "الحشد والجيش ينفذان عملية دهم وتفتيش في قاطع البشير جنوب غربي كركوك",
       "url": "https://964media.com/714732/",
       "category": "عراق",
       "published": "2026-09-07T14:24:45+00:00",
+      "breaking": false
+    },
+    {
+      "title": "غرق رجل وزوجته وطفلة داخل \"بحيرة الزوراء\" في بغداد",
+      "url": "https://www.alsumaria.tv/news/localnews/575339/%d8%ba%d8%b1%d9%82-%d8%b1%d8%ac%d9%84-%d9%88%d8%b2%d9%88%d8%ac%d8%aa%d9%87-%d9%88%d8%b7%d9%81%d9%84%d8%a9-%d8%af%d8%a7%d8%ae%d9%84-quot%d8%a8%d8%ad%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%b2%d9%88%d8%b1%d8%a7%d8%a1quot?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Mon, 07 Sep 2026 19:05:54 GMT",
       "breaking": false
     },
     {
@@ -507,13 +507,6 @@
     }
   ],
   "breaking": [
-    {
-      "title": "روسيا تعلن تدمير 32 مسيرة أوكرانية فوق مناطقها",
-      "url": "https://www.alsumaria.tv/news/international/575336/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-32-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%81%D9%88%D9%82-%D9%85%D9%86%D8%A7%D8%B7%D9%82%D9%87%D8%A7",
-      "category": "عراق",
-      "published": "2026-09-07T18:22:00+00:00",
-      "breaking": true
-    },
     {
       "title": "في سوريا.. قصف مدفعي وتوغل إسرائيلي في ريف القنيطرة",
       "url": "https://www.alsumaria.tv/news/international/575342/%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
