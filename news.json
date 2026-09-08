@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T10:21:31.259571+00:00",
+  "updated_at": "2026-09-08T10:25:26.259477+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -36,8 +36,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-08T10:04:52+00:00",
-      "image": "./assets/news/1b681d81df70005ae2b9cfc2.jpg",
-      "original_image": "./assets/news/1b681d81df70005ae2b9cfc2.jpg",
+      "image": "./assets/news/b40086993a0695897d6f71e8.jpg",
+      "original_image": "./assets/news/b40086993a0695897d6f71e8.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/575384/%D9%82%D9%88%D8%A9-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D8%AF%D8%AE%D9%84-%D9%88%D8%AA%D8%AD%D8%B1%D8%B1-%D8%AD%D8%AF%D8%AB%D8%A7-%D9%82%D9%8A%D8%AF%D9%87-%D9%88%D8%A7%D9%84%D8%AF%D9%87-%D8%A8%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%B3%D9%84-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%B5%D9%88%D8%B1%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -96,8 +96,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-08T09:32:22+00:00",
-      "image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
-      "original_image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
+      "image": "./assets/news/5b2bba8fea961a18c98e172b.jpg",
+      "original_image": "./assets/news/5b2bba8fea961a18c98e172b.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/575380/%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D8%AA%D8%B2-%D8%B3%D8%A7%D9%88%D9%85-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%BA%D9%8A%D9%86%D9%8A%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D8%A9-%D8%A8%D8%A7%D9%84%D8%B3%D8%B1%D9%82%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -434,6 +434,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/be827454eebc.html"
+    },
+    {
+      "title": "القبض على 15 اجنبيا في بغداد",
+      "url": "https://www.alsumaria.tv/news/security/575355/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-15-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-08T07:03:54+00:00",
+      "image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
+      "original_image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/575355/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-15-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e59d7a192fb3.html"
     },
     {
       "title": "النزاهة: ضبط موظفين اثنين متلبسين بتسلم الرشوة في بلدية كربلاء",
