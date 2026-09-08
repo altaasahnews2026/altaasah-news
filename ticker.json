@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-09-08T07:00:06.711589+00:00",
+  "updated_at": "2026-09-08T07:20:47.062717+00:00",
   "latest": [
-    {
-      "title": "اليمن.. قتلى وجرحى بقصف استهدف إصلاحية بمحافظة الجوف",
-      "url": "https://www.alsumaria.tv/news/international/575335/%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A5%D8%B5%D9%84%D8%A7%D8%AD%D9%8A%D8%A9-%D8%A8%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D9%81",
-      "category": "عراق",
-      "published": "2026-09-07T17:55:46+00:00",
-      "breaking": true
-    },
     {
       "title": "روسيا تعلن تدمير 32 مسيرة أوكرانية فوق مناطقها",
       "url": "https://www.alsumaria.tv/news/international/575336/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-32-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%81%D9%88%D9%82-%D9%85%D9%86%D8%A7%D8%B7%D9%82%D9%87%D8%A7",
@@ -77,13 +70,6 @@
       "category": "عراق",
       "published": "2026-09-08T06:44:20+00:00",
       "breaking": true
-    },
-    {
-      "title": "صراع بين زوجة رونالدو وحبيبته السابقة",
-      "url": "https://www.alsumaria.tv/Entertainment-News/575334/sports/%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A8%D9%8A%D9%86-%D8%B2%D9%88%D8%AC%D8%A9-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D9%88%D8%AD%D8%A8%D9%8A%D8%A8%D8%AA%D9%87-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-07T17:44:49+00:00",
-      "breaking": false
     },
     {
       "title": "جدول أعمال جلسة البرلمان يوم الخميس المقبل",
@@ -174,6 +160,20 @@
       "url": "https://www.alsumaria.tv/news/localnews/575352/%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D9%86%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6%D9%87%D8%A7-%D9%87%D9%84-%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D9%81%D8%9F",
       "category": "عراق",
       "published": "2026-09-08T06:32:13+00:00",
+      "breaking": false
+    },
+    {
+      "title": "النزاهة: ضبط موظفين اثنين متلبسين بتسلم الرشوة في بلدية كربلاء",
+      "url": "https://www.alsumaria.tv/news/localnews/575354/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%B6%D8%A8%D8%B7-%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86-%D8%A7%D8%AB%D9%86%D9%8A%D9%86-%D9%85%D8%AA%D9%84%D8%A8%D8%B3%D9%8A%D9%86-%D8%A8%D8%AA%D8%B3%D9%84%D9%85-%D8%A7%D9%84%D8%B1%D8%B4%D9%88%D8%A9-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-%D9%83%D8%B1%D8%A8%D9%84%D8%A7%D8%A1",
+      "category": "عراق",
+      "published": "2026-09-08T07:00:16+00:00",
+      "breaking": false
+    },
+    {
+      "title": "القبض على 15 اجنبيا في بغداد",
+      "url": "https://www.alsumaria.tv/news/security/575355/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-15-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "category": "عراق",
+      "published": "2026-09-08T07:03:54+00:00",
       "breaking": false
     },
     {
@@ -507,13 +507,6 @@
     }
   ],
   "breaking": [
-    {
-      "title": "اليمن.. قتلى وجرحى بقصف استهدف إصلاحية بمحافظة الجوف",
-      "url": "https://www.alsumaria.tv/news/international/575335/%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A5%D8%B5%D9%84%D8%A7%D8%AD%D9%8A%D8%A9-%D8%A8%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D9%81",
-      "category": "عراق",
-      "published": "2026-09-07T17:55:46+00:00",
-      "breaking": true
-    },
     {
       "title": "روسيا تعلن تدمير 32 مسيرة أوكرانية فوق مناطقها",
       "url": "https://www.alsumaria.tv/news/international/575336/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-32-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%81%D9%88%D9%82-%D9%85%D9%86%D8%A7%D8%B7%D9%82%D9%87%D8%A7",
