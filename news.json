@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T17:37:24.439609+00:00",
+  "updated_at": "2026-09-08T17:49:58.428082+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -21,8 +21,8 @@
       "category": "كركوك",
       "region": "كركوك",
       "published": "2026-09-08T17:17:12+00:00",
-      "image": "./assets/news/e566489075bf566ccf0665a3.jpg",
-      "original_image": "./assets/news/e566489075bf566ccf0665a3.jpg",
+      "image": "./assets/news/3ab3f2059ab97a5a23457641.jpg",
+      "original_image": "./assets/news/3ab3f2059ab97a5a23457641.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/575424/%D8%A7%D9%84%D8%A7%D8%B7%D8%A7%D8%AD%D8%A9-%D8%A8%D8%A7%D8%AC%D9%86%D8%A8%D9%8A-%D8%AE%D8%A8%D8%A3-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AF%D8%A7%D8%AE%D9%84-%D8%B9%D8%AC%D9%84%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -211,21 +211,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b0a5c5d30f8f.html"
     },
     {
-      "title": "الحلبوسي ورئيس مجلس الأمة التركي يؤكدان أهميةَ مواصلة الحوار والتنسيق ودعم الاتفاقات والتفاهمات",
-      "url": "https://www.alsumaria.tv/news/politics/575406/%D8%A7%D9%84%D8%AD%D9%84%D8%A8%D9%88%D8%B3%D9%8A-%D9%88%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9%D9%8E-%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-08T14:01:32+00:00",
-      "image": "./assets/news/390c3d5b54b72308bb25e2a1.jpg",
-      "original_image": "./assets/news/390c3d5b54b72308bb25e2a1.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/575406/%D8%A7%D9%84%D8%AD%D9%84%D8%A8%D9%88%D8%B3%D9%8A-%D9%88%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9%D9%8E-%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5d02bcd928bd.html"
-    },
-    {
       "title": "ترامب: إيران لم تعد قادرة على امتلاك سلاح نووي",
       "url": "https://www.alsumaria.tv/news/international/575413/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D9%85-%D8%AA%D8%B9%D8%AF-%D9%82%D8%A7%D8%AF%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%85%D8%AA%D9%84%D8%A7%D9%83-%D8%B3%D9%84%D8%A7%D8%AD-%D9%86%D9%88%D9%88%D9%8A",
       "category": "أمن",
@@ -246,8 +231,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-08T17:25:00+00:00",
-      "image": "./assets/news/04370fcd7a68e1d281ff3d0f.jpg",
-      "original_image": "./assets/news/04370fcd7a68e1d281ff3d0f.jpg",
+      "image": "./assets/news/d8b8fbeda3191b9e7e5fd9ce.jpg",
+      "original_image": "./assets/news/d8b8fbeda3191b9e7e5fd9ce.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575426/%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%A5%D9%86%D9%82%D8%A7%D8%B0-21-%D8%B4%D8%AE%D8%B5%D8%A7-%D8%A3%D8%AB%D9%86%D8%A7%D8%A1-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8%D9%87%D9%85-%D8%A8%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%BA%D9%8A%D8%B1-%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -301,21 +286,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/acdb9209bc08.html"
     },
     {
-      "title": "إيران تعلق على ضرب العراقيين.. معركة “نيكان” 3 ساعات في شارع قاسم سليماني",
-      "url": "https://964media.com/715099/",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-08T16:36:19+00:00",
-      "image": "./assets/news/568771f2b01535f7e364fd05.jpg",
-      "original_image": "./assets/news/568771f2b01535f7e364fd05.jpg",
-      "source_url": "https://964media.com/715099/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/da2a542f1fd4.html"
-    },
-    {
       "title": "إصابة أكثر من سبعين شخصاً في السعودية بهجمات من جماعة أنصار الله - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
       "category": "عربي ودولي",
@@ -361,6 +331,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f657f1bb6053.html"
     },
     {
+      "title": "كيف يستعد الرئيس الصيني للقاء دونالد ترامب؟ - مقال في الواشنطن بوست - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c74kz4kzgego",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-08T13:44:38+00:00",
+      "image": "./assets/news/9a773861a7aa0aab28970a9a.jpg",
+      "original_image": "./assets/news/9a773861a7aa0aab28970a9a.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c74kz4kzgego",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ce3e2fa5761f.html"
+    },
+    {
       "title": "بريطانيا تفرض عقوبات على الذراع المالية لحزب الله اللبناني",
       "url": "https://www.alsumaria.tv/news/international/575414/%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D9%81%D8%B1%D8%B6-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A",
       "category": "سياسة",
@@ -389,21 +374,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d677533af654.html"
-    },
-    {
-      "title": "كيف يستعد الرئيس الصيني للقاء دونالد ترامب؟ - مقال في الواشنطن بوست - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c74kz4kzgego",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-08T13:44:38+00:00",
-      "image": "./assets/news/9a773861a7aa0aab28970a9a.jpg",
-      "original_image": "./assets/news/9a773861a7aa0aab28970a9a.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c74kz4kzgego",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ce3e2fa5761f.html"
     },
     {
       "title": "بين التهدئة والتصعيد: أبرز محطات العلاقة بين السعودية والحوثيين - شفق نيوز..",
