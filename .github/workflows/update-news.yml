@@ -33,10 +33,10 @@ jobs:
         run: |
           rm -rf news
           rm -rf assets/news
-          mkdir -p news assets/news
+          mkdir -p news assets/news assets/editorial
           printf '{"updated_at":"","items":[]}' > news.json
       - name: Validate scripts
-        run: python -m py_compile scripts/update_news.py scripts/augment_sources.py scripts/clean_news.py scripts/prioritize_kirkuk.py scripts/apply_news_template.py scripts/dedupe_news_images.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py scripts/social_slogan.py scripts/polish_ui.py scripts/final_image_fix.py scripts/hotfix_news_loader.py
+        run: python -m py_compile scripts/update_news.py scripts/augment_sources.py scripts/clean_news.py scripts/prioritize_kirkuk.py scripts/manual_news.py scripts/apply_news_template.py scripts/dedupe_news_images.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py scripts/social_slogan.py scripts/polish_ui.py scripts/final_image_fix.py scripts/hotfix_news_loader.py
       - name: Fetch Iraq and dedicated Kirkuk news sources
         run: python scripts/update_news.py
       - name: Fetch Rudaw, Iraqi Media Network and Al Sharqiya fresh news
@@ -45,6 +45,8 @@ jobs:
         run: python scripts/clean_news.py
       - name: Prioritize Kirkuk and newest news
         run: python scripts/prioritize_kirkuk.py
+      - name: Publish editorial Kirkuk update
+        run: python scripts/manual_news.py
       - name: Remove duplicate or broken news images
         run: python scripts/dedupe_news_images.py
       - name: Keep raw original news images without overlays
@@ -105,6 +107,7 @@ jobs:
           assert len(image_paths) == len(set(image_paths)), 'توجد صور مكررة بين الأخبار'
           kirkuk=[x for x in items if x.get('kirkuk') or x.get('category')=='كركوك']
           assert len(kirkuk) >= 1, 'لا توجد أخبار كركوك'
+          assert any(x.get('title')=='مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية' for x in items), 'الخبر التحريري غير منشور'
           t=json.loads(Path('ticker.json').read_text(encoding='utf-8'))
           assert len(t.get('latest',[])) >= 20
           assert any(x.get('category')=='عراق' for x in t['latest'])
@@ -127,5 +130,5 @@ jobs:
           git config user.email 'actions@users.noreply.github.com'
           git add -A
           if git diff --cached --quiet; then echo 'لا توجد تغييرات.'; exit 0; fi
-          git commit -m 'تنظيف وترتيب الأخبار والواجهة'
+          git commit -m 'نشر خبر مجلس محافظة كركوك'
           git push origin main
