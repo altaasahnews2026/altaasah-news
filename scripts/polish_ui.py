@@ -1,0 +1,13 @@
+from pathlib import Path
+import re
+p=Path('index.html')
+s=p.read_text(encoding='utf-8')
+css='''\n<style id="professional-news-ui">\n:root{--n:#061a31;--n2:#0b2947;--r:#d7192a;--bg:#f1f4f8;--ink:#10243a;--mut:#718096;--line:#dce3eb;--sh:0 10px 30px rgba(5,25,48,.09)}\nbody{background:linear-gradient(#f5f7fa 0,#eef2f6 100%);font-family:Tahom a,Arial,sans-serif}\n.wrap{width:min(1380px,calc(100% - 30px))}\n.header{box-shadow:0 2px 12px rgba(0,0,0,.04);position:relative;z-index:5}\n.head{min-height:104px}.brand img{filter:drop-shadow(0 3px 7px rgba(0,0,0,.08))}\n.nav{box-shadow:0 3px 10px rgba(0,0,0,.08);position:sticky;top:0;z-index:20}.nav a{transition:.18s}\n.ticker{position:relative;z-index:19;box-shadow:0 2px 9px rgba(0,0,0,.05)}\nmain{padding-top:24px}.hero{gap:18px}.lead,.latest,.card,.feature,.mini,.cat{border-radius:14px;box-shadow:var(--sh);border-color:#dfe5ec}.lead{height:470px}.leadText{right:28px;left:28px;bottom:25px}.lead h1{font-size:31px;text-shadow:0 2px 8px rgba(0,0,0,.28)}\n.boxTitle{height:56px;background:#fff}.side{padding:12px}.side strong{font-size:11px}.side:hover,.mini a:hover,.cat a:hover{background:#f7f9fb}\n.section{margin-top:30px}.headSec{margin-bottom:14px}.headSec h2{font-size:21px;font-weight:900}.headSec i{width:30px;height:4px;border-radius:3px}.grid{gap:16px}.card{transition:transform .2s,box-shadow .2s}.card:hover{transform:translateY(-4px);box-shadow:0 14px 32px rgba(5,25,48,.13)}.thumb{height:190px}.body{padding:13px 14px 15px}.body h3{font-size:13px;line-height:1.8}.meta{font-size:9px}\n.split{gap:16px}.feature{height:275px}.featureText{right:18px;left:18px;bottom:17px}.featureText h3{font-size:16px}.cats{gap:16px}.cat h3{font-size:16px;padding:14px}.cat a{padding:11px}.cat strong{font-size:10px}\n.footer{margin-top:25px}.footer .wrap{padding-top:5px}.topBtn{box-shadow:0 6px 18px rgba(0,0,0,.18)}\n@media(max-width:1050px){.lead{height:430px}.grid{gap:12px}}\n@media(max-width:700px){.wrap{width:calc(100% - 12px)}.nav{position:relative}.ticker{height:43px}.lead{height:335px;border-radius:11px}.lead h1{font-size:20px}.latest{border-radius:11px}.section{margin-top:22px}.headSec h2{font-size:17px}.grid{gap:8px}.thumb{height:135px}.body h3{font-size:10px}.card{border-radius:9px}.feature{height:205px}.cat{border-radius:9px}}\n</style>\n'''
+css=css.replace('Tahom a','Tahoma')
+if 'id="professional-news-ui"' not in s:
+    s=s.replace('</head>',css+'</head>',1)
+# Keep the homepage editorial labels concise and consistent.
+s=s.replace('أحدث الأخبار','آخر الأخبار')
+s=s.replace('آخر الأخبار العاجلة','آخر الأخبار')
+p.write_text(s,encoding='utf-8')
+print('UI POLISH: professional hierarchy, spacing, cards and responsive layout applied')
