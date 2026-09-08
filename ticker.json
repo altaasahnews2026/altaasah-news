@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T14:16:22.873799+00:00",
+  "updated_at": "2026-09-08T14:31:23.506559+00:00",
   "latest": [
     {
       "title": "ريال مدريد يصدر بياناً عاجلاً قبل مواجهة إنتر في أبطال أوروبا",
@@ -58,14 +58,6 @@
       "watch_topics": [
         "إيران"
       ]
-    },
-    {
-      "title": "صلاح الدين تختار مدراء لسامراء وبيجي و4 وحدات إدارية أخرى",
-      "url": "https://964media.com/714945/",
-      "category": "عراق",
-      "published": "2026-09-08T09:57:56+00:00",
-      "breaking": false,
-      "watch_topics": []
     },
     {
       "title": "وفاة مواطن داخل مركبته اثناء التزود بالوقود في الموصل (فيديو)",
@@ -135,7 +127,7 @@
       "title": "بريطانيا تحظر سلع المستوطنات الإسرائيلية وتفرض عقوبات تستهدف توسعها - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
       "category": "عراق",
-      "published": "2026-09-08T13:30:23+00:00",
+      "published": "2026-09-08T13:55:17+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -220,6 +212,14 @@
       "watch_topics": []
     },
     {
+      "title": "هيئة الإعلام تصدر سلسلة قرارات بحق قنوات وبرامج وإعلاميين",
+      "url": "https://www.alsumaria.tv/news/localnews/575407/%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85-%d8%aa%d8%b5%d8%af%d8%b1-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%82%d8%b1%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a8%d8%ad%d9%82-%d9%82%d9%86%d9%88%d8%a7%d8%aa-%d9%88%d8%a8%d8%b1%d8%a7%d9%85%d8%ac-%d9%88%d8%a5?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Tue, 08 Sep 2026 13:48:54 GMT",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "بغداد.. القبض على شخص رشّ التيزاب والثنر على منتسبين خلال تظاهرات الخريجين القدامى",
       "url": "https://www.alsumaria.tv/news/security/575396/%d8%a8%d8%ba%d8%af%d8%a7%d8%af-%d8%a7%d9%84%d9%82%d8%a8%d8%b6-%d8%b9%d9%84%d9%89-%d8%b4%d8%ae%d8%b5-%d8%b1%d8%b4%d9%91-%d8%a7%d9%84%d8%aa%d9%8a%d8%b2%d8%a7%d8%a8-%d9%88%d8%a7%d9%84%d8%ab%d9%86%d8%b1-%d8%b9%d9%84%d9%89-%d9%85%d9%86%d8%aa%d8%b3%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
       "category": "عراق",
@@ -276,26 +276,6 @@
       "published": "Tue, 01 Sep 2026 16:42:12 +0100",
       "breaking": true,
       "watch_topics": []
-    },
-    {
-      "title": "«الوزاري العربي» يدين الهجمات الإيرانية ويطالب طهران بإعادة فتح مضيق هرمز",
-      "url": "https://aawsat.com/node/5315937",
-      "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 10:58:06 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "«الجامعة العربية» لإصدار قرار بشأن الاعتداءات الإيرانية",
-      "url": "https://aawsat.com/node/5315064",
-      "category": "مشرق أوسط",
-      "published": "Sat, 05 Sep 2026 17:31:46 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
     },
     {
       "title": "السعودية تؤكد حق الرد على اعتداءات الحوثيين بعد إصابة 73 مدنياً",
@@ -388,66 +368,82 @@
       ]
     },
     {
-      "title": "محللون لـ«الشرق الأوسط»: تنسيق سعودي وتمكين للحكومة اليمنية لإعادة رسم ميزان القوى",
-      "url": "https://aawsat.com/node/5316033",
+      "title": "فيصل بن فرحان للحوثيين: فتحتم على أنفسكم باباً لا تحتملونه",
+      "url": "https://aawsat.com/node/5315923",
       "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 15:01:13 +0100",
+      "published": "Tue, 08 Sep 2026 10:18:10 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "الجيش اليمني ينتقل من الاحتواء إلى استعادة زمام المبادرة (تغطية حية)",
-      "url": "https://aawsat.com/node/5316024",
+      "title": "مباحثات سعودية في القاهرة تتناول العلاقات والمستجدات الإقليمية والدولية",
+      "url": "https://aawsat.com/node/5315744",
       "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 14:42:57 +0100",
+      "published": "Mon, 07 Sep 2026 18:05:30 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "انتقادات يمنية لبيان غروندبرغ بشأن التصعيد العسكري",
-      "url": "https://aawsat.com/node/5315989",
+      "title": "أمير القصيم: الملك المؤسس لم يتردد في الاستفادة من التقنيات التي تخدم الدولة والمجتمع",
+      "url": "https://aawsat.com/node/5315734",
       "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 13:14:35 +0100",
+      "published": "Mon, 07 Sep 2026 17:35:39 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "العليمي يحمل الحوثيين مسؤولية التصعيد ويشيد بقدرات الجيش",
-      "url": "https://aawsat.com/node/5315977",
+      "title": "«حوار الأمن والتاريخ»: التحالفات وأمن الطاقة والشراكات المتوازنة ركائز للاستقرار السعودي",
+      "url": "https://aawsat.com/node/5315730",
       "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 12:41:01 +0100",
+      "published": "Mon, 07 Sep 2026 17:21:08 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "قوات الحكومة اليمنية توسًع مكاسبها في الجوف بتحرير اليتمة",
-      "url": "https://aawsat.com/node/5315974",
+      "title": "بن فرحان يبحث خفض التصعيد بالمنطقة وأمن الممرات المائية مع ميليباند والزياني",
+      "url": "https://aawsat.com/node/5315507",
       "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 12:33:15 +0100",
+      "published": "Mon, 07 Sep 2026 08:26:00 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "إسرائيل تدمّر «مستشفى غندور»... الناجي من 45 عاماً من حروب الجنوب اللبناني",
-      "url": "https://aawsat.com/node/5315895",
+      "title": "سلطان عمان والرئيس الفرنسي يبحثان التطورات الإقليمية والدولية",
+      "url": "https://aawsat.com/node/5315381",
       "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 08:50:00 +0100",
+      "published": "Sun, 06 Sep 2026 18:49:03 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "معارك اليمن... فتح محاور جديدة يربك التحصينات الحوثية",
-      "url": "https://aawsat.com/node/5315735",
+      "title": "«التمييز» الكويتية تقضي بسجن نواب سابقين بينهم مسلم البراك",
+      "url": "https://aawsat.com/node/5315315",
       "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 17:38:11 +0100",
+      "published": "Sun, 06 Sep 2026 15:36:29 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "العراق يطّلع على التجربة المصرية في معالجة المياه وإعادة استخدامها",
-      "url": "https://aawsat.com/node/5315684",
+      "title": "الكويت تمنح «المسحوبة جنسياتهم» إقامة تصل إلى 10 سنوات",
+      "url": "https://aawsat.com/node/5315275",
       "category": "مشرق أوسط",
-      "published": "Mon, 07 Sep 2026 15:45:35 +0100",
+      "published": "Sun, 06 Sep 2026 13:41:45 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "أمين عام مجلس التعاون: التنسيق الأمني الخليجي متواصل منذ ما قبل التأسيس",
+      "url": "https://aawsat.com/node/5315259",
+      "category": "مشرق أوسط",
+      "published": "Sun, 06 Sep 2026 12:58:01 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "سعودي يتعرض للطعن والسرقة وسط لندن",
+      "url": "https://aawsat.com/node/5314860",
+      "category": "مشرق أوسط",
+      "published": "Sat, 05 Sep 2026 00:59:53 +0100",
       "breaking": false,
       "watch_topics": []
     },

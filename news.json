@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T14:16:18.314738+00:00",
+  "updated_at": "2026-09-08T14:31:16.775082+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -156,14 +156,29 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-08T14:01:32+00:00",
-      "image": "./assets/news/b7db6c8063056ce540ad7b36.jpg",
-      "original_image": "./assets/news/b7db6c8063056ce540ad7b36.jpg",
+      "image": "./assets/news/390c3d5b54b72308bb25e2a1.jpg",
+      "original_image": "./assets/news/390c3d5b54b72308bb25e2a1.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/575406/%D8%A7%D9%84%D8%AD%D9%84%D8%A8%D9%88%D8%B3%D9%8A-%D9%88%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9%D9%8E-%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82",
       "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5d02bcd928bd.html"
+    },
+    {
+      "title": "بريطانيا تحظر سلع المستوطنات الإسرائيلية وتفرض عقوبات تستهدف توسعها - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-08T13:55:17+00:00",
+      "image": "./assets/news/d6a040f74f7435dd6845aad4.jpg",
+      "original_image": "./assets/news/d6a040f74f7435dd6845aad4.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/383b83b71956.html"
     },
     {
       "title": "ريال مدريد يصدر بياناً عاجلاً قبل مواجهة إنتر في أبطال أوروبا",
@@ -179,21 +194,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a04330ca3443.html"
-    },
-    {
-      "title": "بريطانيا تحظر سلع المستوطنات الإسرائيلية وتفرض عقوبات تستهدف توسعها - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-08T13:30:23+00:00",
-      "image": "./assets/news/d6a040f74f7435dd6845aad4.jpg",
-      "original_image": "./assets/news/d6a040f74f7435dd6845aad4.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7e9f153766ce.html"
     },
     {
       "title": "بداره 94 سنداً وأموال وذهب.. ضبط مدير أملاك بلدية تكريت بتهمة التلاعب بالأراضي",
@@ -359,21 +359,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f2ea4da55b44.html"
-    },
-    {
-      "title": "صلاح الدين تختار مدراء لسامراء وبيجي و4 وحدات إدارية أخرى",
-      "url": "https://964media.com/714945/",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-08T09:57:56+00:00",
-      "image": "./assets/news/7260199422e2e41bdee3a79d.jpg",
-      "original_image": "./assets/news/7260199422e2e41bdee3a79d.jpg",
-      "source_url": "https://964media.com/714945/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/14ba23d232ae.html"
     }
   ]
 }
