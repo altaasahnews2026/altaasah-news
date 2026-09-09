@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T03:53:37.788659+00:00",
+  "updated_at": "2026-09-09T04:07:49.048430+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -166,6 +166,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/da7f2ce0b08b.html"
     },
     {
+      "title": "الجيش الأمريكي يعلن تدمير 5 ناقلات نفط إيرانية، والحرس الثوري يتحدث عن شن غارات على \"قاعدة أمريكية في الأردن\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm2mk06lzkro",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-09T03:52:30+00:00",
+      "image": "./assets/news/bd3b66e113e2c261043214b3.jpg",
+      "original_image": "./assets/news/bd3b66e113e2c261043214b3.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cm2mk06lzkro",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6c4b15dbcafb.html"
+    },
+    {
       "title": "مليون دولار زيادة على راتب القائد الأعلى أجراً في العالم - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c980l1q3j9jo",
       "category": "اقتصاد",
@@ -179,21 +194,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3477c99ed679.html"
-    },
-    {
-      "title": "الجيش الأمريكي يعلن تدمير 5 ناقلات نفط إيرانية، والحرس الثوري يتحدث عن شن غارات على \"قاعدة أمريكية في الأردن\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm2mk06lzkro",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-09T02:50:36+00:00",
-      "image": "./assets/news/bd3b66e113e2c261043214b3.jpg",
-      "original_image": "./assets/news/bd3b66e113e2c261043214b3.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cm2mk06lzkro",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/298f0289e5af.html"
     },
     {
       "title": "الجيش الأمريكي يعلن تدمير خمس ناقلات نفط خام إيرانية",
