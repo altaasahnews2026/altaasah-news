@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T00:49:19.722633+00:00",
+  "updated_at": "2026-09-09T01:02:22.543285+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -14,21 +14,6 @@
       "source_name": "التاسعة نيوز",
       "summary": "يعقد مجلس محافظة كركوك جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات، بينها استضافة مديري شرطة المحافظة والبلدية لبحث الملفات المطروحة على جدول أعمال المجلس.",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a8a5fb2ea351.html"
-    },
-    {
-      "title": "إلغاء نحو 1100 رحلة جوية بسبب خلل فني في مطارات في بريطانيا - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ckg8e5lv099o",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-08T23:23:52+00:00",
-      "image": "./assets/news/ec2ddeceb15855498c410c6b.jpg",
-      "original_image": "./assets/news/ec2ddeceb15855498c410c6b.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/ckg8e5lv099o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8965bcee19cc.html"
     },
     {
       "title": "مجلس الوزراء يتخذ قرارات عدة بينها يخص تصدير النفط والايفادات الخارجية",
@@ -179,21 +164,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d7b7556f4728.html"
-    },
-    {
-      "title": "الجيش الأمريكي يعلن تدمير 5 ناقلات نفط إيرانية، والحرس الثوري يعلن شن غارات على \"قاعدة أمريكية في الأردن\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm2mk06lzkro",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-09T00:03:31+00:00",
-      "image": "./assets/news/dc71397f3dc34ad9847f405c.jpg",
-      "original_image": "./assets/news/dc71397f3dc34ad9847f405c.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cm2mk06lzkro",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1adf91b792b9.html"
     },
     {
       "title": "الجيش الأمريكي يعلن تدمير خمس ناقلات نفط خام إيرانية",
