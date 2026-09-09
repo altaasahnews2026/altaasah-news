@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T15:01:20.041025+00:00",
+  "updated_at": "2026-09-09T15:20:57.921600+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -104,21 +104,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/056fa410dcd7.html"
-    },
-    {
-      "title": "الحلبوسي يلتقي أردوغان في أنقرة",
-      "url": "https://www.alsumaria.tv/news/security/575575/%D8%A7%D9%84%D8%AD%D9%84%D8%A8%D9%88%D8%B3%D9%8A-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%81%D9%8A-%D8%A3%D9%86%D9%82%D8%B1%D8%A9",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-09T12:59:13+00:00",
-      "image": "./assets/news/9b6704fff9a745e0392cbd4c.jpg",
-      "original_image": "./assets/news/9b6704fff9a745e0392cbd4c.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/575575/%D8%A7%D9%84%D8%AD%D9%84%D8%A8%D9%88%D8%B3%D9%8A-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%81%D9%8A-%D8%A3%D9%86%D9%82%D8%B1%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a67f4a0bcd09.html"
     },
     {
       "title": "العراق في المستوى الثاني لقرعة كأس الخليج للناشئين تحت 17 عاماً",
@@ -239,6 +224,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bdf551ce1738.html"
+    },
+    {
+      "title": "مصر.. تيك توك يحذف أكثر من 3.6 مليون فيديو ويحظر آلاف الحسابات",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/575597/%D9%85%D8%B5%D8%B1-%D8%AA%D9%8A%D9%83-%D8%AA%D9%88%D9%83-%D9%8A%D8%AD%D8%B0%D9%81-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-36-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%88%D9%8A%D8%AD%D8%B8%D8%B1-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-09T15:11:11+00:00",
+      "image": "./assets/news/71b6ceda8eaee63058ebb456.jpg",
+      "original_image": "./assets/news/71b6ceda8eaee63058ebb456.jpg",
+      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575597/%D9%85%D8%B5%D8%B1-%D8%AA%D9%8A%D9%83-%D8%AA%D9%88%D9%83-%D9%8A%D8%AD%D8%B0%D9%81-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-36-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%88%D9%8A%D8%AD%D8%B8%D8%B1-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/eefa10d50d0d.html"
     },
     {
       "title": "الوكالة الذرية ترفع بند عدم الامتثال عن سوريا",
