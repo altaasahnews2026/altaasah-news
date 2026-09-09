@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:38:51.466281+00:00",
+  "updated_at": "2026-09-09T11:52:26.272300+00:00",
   "latest": [
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتطالب طواقم ناقلات نفط في الكويت والبحرين بـ\"مغادرة سفنهم فوراً\" - شفق نيوز..",
@@ -46,20 +46,28 @@
       "watch_topics": []
     },
     {
-      "title": "الخارجية الإيرانية: الاعتداءات الأمريكية على سفننا تصعيد خطر يهدد السلم الدولي",
-      "url": "https://www.alsumaria.tv/news/international/575565/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%B3%D9%81%D9%86%D9%86%D8%A7-%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%AE%D8%B7%D8%B1-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D8%B3%D9%84%D9%85",
+      "title": "تعرض ناقلة نفط أسود عراقي لهجوم بطائرة مسيّرة قبالة سواحل البصرة",
+      "url": "https://964media.com/715351/",
       "category": "عراق",
-      "published": "2026-09-09T11:12:17+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
+      "published": "2026-09-09T11:26:53+00:00",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "الجيش الأمريكي يعلن تدمير خَمس ناقلات نفط إيرانية، والحرس الثوري يتحدث عن شن غارات على \"قاعدة أمريكية في الأردن\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm2mk06lzkro",
       "category": "عراق",
       "published": "2026-09-09T05:50:01+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "الخارجية الإيرانية: الاعتداءات الأمريكية على سفننا تصعيد خطر يهدد السلم الدولي",
+      "url": "https://www.alsumaria.tv/news/international/575565/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%B3%D9%81%D9%86%D9%86%D8%A7-%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%AE%D8%B7%D8%B1-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D8%B3%D9%84%D9%85",
+      "category": "عراق",
+      "published": "2026-09-09T11:12:17+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
@@ -224,14 +232,6 @@
       "url": "https://www.alsumaria.tv/news/security/575554/%d8%aa%d8%ad%d8%b1%d9%83%d8%a7%d8%aa-%d8%a3%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-5-%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d8%aa%d8%aa%d8%b5%d8%af%d8%b1-%d8%a3%d8%ac%d9%86%d8%af%d8%a9-quo?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
       "category": "عراق",
       "published": "Wed, 09 Sep 2026 09:11:01 GMT",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ارتفاع أسعار الذهب العراقي والأجنبي في بغداد",
-      "url": "https://www.alsumaria.tv/news/economy/575490/%d8%a7%d8%b1%d8%aa%d9%81%d8%a7%d8%b9-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a-%d9%88%d8%a7%d9%84%d8%a3%d8%ac%d9%86%d8%a8%d9%8a-%d9%81%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-      "category": "عراق",
-      "published": "Wed, 09 Sep 2026 08:31:43 GMT",
       "breaking": false,
       "watch_topics": []
     },
@@ -466,6 +466,14 @@
       ]
     },
     {
+      "title": "إصابات في انفجار بمحطة توليد طاقة كهرومائية بسويسرا",
+      "url": "https://aawsat.com/node/5316394",
+      "category": "دولي",
+      "published": "Wed, 09 Sep 2026 12:44:08 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "ميرتس: ألمانيا تجنبت بالصدفة كارثة في محاولة هجوم دبرتها روسيا على مطار",
       "url": "https://aawsat.com/node/5316390",
       "category": "دولي",
@@ -494,14 +502,6 @@
       "url": "https://aawsat.com/node/5315865",
       "category": "دولي",
       "published": "Tue, 08 Sep 2026 07:15:11 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "حفظ شكوى في باريس ضد جنرال بتهمة تمجيد «جريمة حرب» بقضية مقتل صحافية لبنانية",
-      "url": "https://aawsat.com/node/5315767",
-      "category": "دولي",
-      "published": "Mon, 07 Sep 2026 20:22:58 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -672,6 +672,14 @@
       "watch_topics": []
     },
     {
+      "title": "تعرض ناقلة نفط أسود عراقي لهجوم بطائرة مسيّرة قبالة سواحل البصرة",
+      "url": "https://964media.com/715351/",
+      "category": "عراق",
+      "published": "2026-09-09T11:26:53+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "السعودية: استهداف منشآت ومرافق للطاقة جنوب المملكة وتوقّف مؤقت لبعض العمليات التشغيلية",
       "url": "https://aawsat.com/node/5315860",
       "category": "مشرق أوسط",
@@ -732,6 +740,14 @@
       ]
     },
     {
+      "title": "إصابات في انفجار بمحطة توليد طاقة كهرومائية بسويسرا",
+      "url": "https://aawsat.com/node/5316394",
+      "category": "دولي",
+      "published": "Wed, 09 Sep 2026 12:44:08 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "ميرتس: ألمانيا تجنبت بالصدفة كارثة في محاولة هجوم دبرتها روسيا على مطار",
       "url": "https://aawsat.com/node/5316390",
       "category": "دولي",
@@ -760,14 +776,6 @@
       "url": "https://aawsat.com/node/5315865",
       "category": "دولي",
       "published": "Tue, 08 Sep 2026 07:15:11 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "حفظ شكوى في باريس ضد جنرال بتهمة تمجيد «جريمة حرب» بقضية مقتل صحافية لبنانية",
-      "url": "https://aawsat.com/node/5315767",
-      "category": "دولي",
-      "published": "Mon, 07 Sep 2026 20:22:58 +0100",
       "breaking": true,
       "watch_topics": []
     },
