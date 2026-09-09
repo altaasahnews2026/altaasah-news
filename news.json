@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T09:47:49.240525+00:00",
+  "updated_at": "2026-09-09T09:59:34.813225+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -66,8 +66,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-09T08:51:45+00:00",
-      "image": "./assets/news/80745a2afa8fd2c82db01fe6.jpg",
-      "original_image": "./assets/news/80745a2afa8fd2c82db01fe6.jpg",
+      "image": "./assets/news/ecfefacdd85842863a87d18c.jpg",
+      "original_image": "./assets/news/ecfefacdd85842863a87d18c.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/575529/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%88%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D9%82%D9%88%D9%84%D9%8A%D9%86-%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -81,8 +81,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-09T08:47:24+00:00",
-      "image": "./assets/news/7a3ef7cb62b2ad7f9738752b.jpg",
-      "original_image": "./assets/news/7a3ef7cb62b2ad7f9738752b.jpg",
+      "image": "./assets/news/35695f02e73e0176711ab06c.jpg",
+      "original_image": "./assets/news/35695f02e73e0176711ab06c.jpg",
       "source_url": "https://www.alsumaria.tv/news/technology/575516/%D8%AA%D8%B1%D9%8A%D9%86%D8%AF-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D8%A7%D8%AA-%D8%B3%D8%AD%D8%B1-%D8%A7%D9%84%D9%86%D9%88%D8%B3%D8%AA%D8%A7%D9%84%D8%AC%D9%8A%D8%A7-%D8%A3%D9%85-%D9%81%D8%AE-%D8%AA%D9%82%D9%86%D9%8A-%D9%84%D8%B3%D8%B1%D9%82%D8%A9-%D8%A8%D8%B5%D9%85%D8%A9-%D9%88%D8%AC%D9%87%D9%83%D8%9F",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -181,13 +181,28 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e10cf33dae59.html"
     },
     {
+      "title": "العراق يطالب بكسر السقف المسموح وإنتاج 6 ملايين برميل نفط يومياً",
+      "url": "https://964media.com/715294/",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-09T09:35:07+00:00",
+      "image": "./assets/news/c5520e2c02fb8902a19001d4.jpg",
+      "original_image": "./assets/news/c5520e2c02fb8902a19001d4.jpg",
+      "source_url": "https://964media.com/715294/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ccafe0aa1140.html"
+    },
+    {
       "title": "الدولار يتجاوز الـ156.. الاسعار مستمرة بالارتفاع",
       "url": "https://www.alsumaria.tv/news/economy/575475/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%A7%D9%84%D9%80156-%D8%A7%D9%84%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9",
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-09T08:02:09+00:00",
-      "image": "./assets/news/285527d2ce03151089df1d9a.jpg",
-      "original_image": "./assets/news/285527d2ce03151089df1d9a.jpg",
+      "image": "./assets/news/5eabae044976f1d3fa380e95.jpg",
+      "original_image": "./assets/news/5eabae044976f1d3fa380e95.jpg",
       "source_url": "https://www.alsumaria.tv/news/economy/575475/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%A7%D9%84%D9%80156-%D8%A7%D9%84%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -201,8 +216,8 @@
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-09T07:46:26+00:00",
-      "image": "./assets/news/af677e5a98c18c625e90ba4b.jpg",
-      "original_image": "./assets/news/af677e5a98c18c625e90ba4b.jpg",
+      "image": "./assets/news/14b86726251945cd68103059.jpg",
+      "original_image": "./assets/news/14b86726251945cd68103059.jpg",
       "source_url": "https://www.alsumaria.tv/news/economy/575471/%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D9%85%D8%B9-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -239,21 +254,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b5eee918591a.html"
-    },
-    {
-      "title": "الجيش الأمريكي يعلن تدمير خَمس ناقلات نفط إيرانية، والحرس الثوري يتحدث عن شن غارات على \"قاعدة أمريكية في الأردن\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm2mk06lzkro",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-09T05:50:01+00:00",
-      "image": "./assets/news/bd3b66e113e2c261043214b3.jpg",
-      "original_image": "./assets/news/bd3b66e113e2c261043214b3.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cm2mk06lzkro",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/368935013119.html"
     },
     {
       "title": "الحرس الثوري الإيراني يعلن استهداف 20 سفينة في مضيق هرمز",
@@ -299,6 +299,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e6890b85e7fd.html"
+    },
+    {
+      "title": "الجيش الأمريكي يعلن تدمير خَمس ناقلات نفط إيرانية، والحرس الثوري يتحدث عن شن غارات على \"قاعدة أمريكية في الأردن\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm2mk06lzkro",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-09T05:50:01+00:00",
+      "image": "./assets/news/bd3b66e113e2c261043214b3.jpg",
+      "original_image": "./assets/news/bd3b66e113e2c261043214b3.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cm2mk06lzkro",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/368935013119.html"
     }
   ]
 }
