@@ -1,11 +1,21 @@
 {
-  "updated_at": "2026-09-09T10:51:30.602739+00:00",
+  "updated_at": "2026-09-09T11:03:39.221695+00:00",
   "latest": [
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتطالب طواقم ناقلات نفط في الكويت والبحرين بـ\"مغادرة سفنهم فوراً\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cvgyp0j92z5o",
       "category": "عراق",
       "published": "2026-09-09T07:43:26+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "الدوحة تعلّق على استهداف الأردن: اعتداء إيراني يخرق القانون الدولي",
+      "url": "https://www.alsumaria.tv/news/international/575564/%D8%A7%D9%84%D8%AF%D9%88%D8%AD%D8%A9-%D8%AA%D8%B9%D9%84%D9%91%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%AE%D8%B1%D9%82-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
+      "category": "عراق",
+      "published": "2026-09-09T10:55:20+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران"
@@ -56,14 +66,6 @@
       ]
     },
     {
-      "title": "مليون دولار زيادة على راتب القائد الأعلى أجراً في العالم - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c980l1q3j9jo",
-      "category": "عراق",
-      "published": "2026-09-09T06:03:19+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "كارثة في النجف.. ضبط شخص يبيع لحوم الخنازير على أنها لحم مثروم (فيديو)",
       "url": "https://www.alsumaria.tv/news/trends-alsumaria/575515/%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%B6%D8%A8%D8%B7-%D8%B4%D8%AE%D8%B5-%D9%8A%D8%A8%D9%8A%D8%B9-%D9%84%D8%AD%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%86%D8%A7%D8%B2%D9%8A%D8%B1-%D8%B9%D9%84%D9%89-%D8%A3%D9%86%D9%87%D8%A7-%D9%84%D8%AD%D9%85-%D9%85%D8%AB%D8%B1%D9%88%D9%85-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
       "category": "عراق",
@@ -72,18 +74,26 @@
       "watch_topics": []
     },
     {
-      "title": "العلاقات البريطانية الإسرائيلية في أدنى مستوياتها منذ عقود - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/czdz0gl2e3vo",
+      "title": "تريند الثمانينات: سحر النوستالجيا أم فخ تقني لسرقة بصمة وجهك؟",
+      "url": "https://www.alsumaria.tv/news/technology/575516/%D8%AA%D8%B1%D9%8A%D9%86%D8%AF-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D8%A7%D8%AA-%D8%B3%D8%AD%D8%B1-%D8%A7%D9%84%D9%86%D9%88%D8%B3%D8%AA%D8%A7%D9%84%D8%AC%D9%8A%D8%A7-%D8%A3%D9%85-%D9%81%D8%AE-%D8%AA%D9%82%D9%86%D9%8A-%D9%84%D8%B3%D8%B1%D9%82%D8%A9-%D8%A8%D8%B5%D9%85%D8%A9-%D9%88%D8%AC%D9%87%D9%83%D8%9F",
       "category": "عراق",
-      "published": "2026-09-09T10:38:31+00:00",
+      "published": "2026-09-09T08:47:24+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "عالميا.. الذهب يرتفع مع تراجع الدولار",
-      "url": "https://www.alsumaria.tv/news/economy/575471/%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D9%85%D8%B9-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
+      "title": "اجتماع قضائي لمناقشة ملف المحكومين الأجانب المنقولين من سوريا إلى العراق",
+      "url": "https://www.alsumaria.tv/news/politics/575529/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%88%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D9%82%D9%88%D9%84%D9%8A%D9%86-%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1",
       "category": "عراق",
-      "published": "2026-09-09T07:46:26+00:00",
+      "published": "2026-09-09T08:51:45+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "مليون دولار زيادة على راتب القائد الأعلى أجراً في العالم - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c980l1q3j9jo",
+      "category": "عراق",
+      "published": "2026-09-09T06:03:19+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -128,22 +138,6 @@
       "watch_topics": []
     },
     {
-      "title": "تريند الثمانينات: سحر النوستالجيا أم فخ تقني لسرقة بصمة وجهك؟",
-      "url": "https://www.alsumaria.tv/news/technology/575516/%D8%AA%D8%B1%D9%8A%D9%86%D8%AF-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D8%A7%D8%AA-%D8%B3%D8%AD%D8%B1-%D8%A7%D9%84%D9%86%D9%88%D8%B3%D8%AA%D8%A7%D9%84%D8%AC%D9%8A%D8%A7-%D8%A3%D9%85-%D9%81%D8%AE-%D8%AA%D9%82%D9%86%D9%8A-%D9%84%D8%B3%D8%B1%D9%82%D8%A9-%D8%A8%D8%B5%D9%85%D8%A9-%D9%88%D8%AC%D9%87%D9%83%D8%9F",
-      "category": "عراق",
-      "published": "2026-09-09T08:47:24+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "اجتماع قضائي لمناقشة ملف المحكومين الأجانب المنقولين من سوريا إلى العراق",
-      "url": "https://www.alsumaria.tv/news/politics/575529/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%88%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D9%82%D9%88%D9%84%D9%8A%D9%86-%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1",
-      "category": "عراق",
-      "published": "2026-09-09T08:51:45+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "فيديو: خريجات الهندسة والعلوم يجبن شوارع البصرة بأعلام العراق لطلب التعيين",
       "url": "https://964media.com/715268/",
       "category": "عراق",
@@ -172,6 +166,14 @@
       "url": "https://www.alsumaria.tv/news/security/575563/%D9%82%D9%88%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%AF%D8%A7%D9%87%D9%85-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A8%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A-%D9%88%D9%85%D9%86%D8%B2%D9%84%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D8%AF%D8%A9",
       "category": "عراق",
       "published": "2026-09-09T10:35:26+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "لماذا قد يكون اتساخ يديك أمراً جيداً بالنسبة لك؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c624w5dwp99o",
+      "category": "عراق",
+      "published": "2026-09-09T10:42:44+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -404,6 +406,14 @@
       ]
     },
     {
+      "title": "الآلاف في غرب اليمن بلا مأوى جراء تصعيد الحوثيين",
+      "url": "https://aawsat.com/node/5316379",
+      "category": "مشرق أوسط",
+      "published": "Wed, 09 Sep 2026 12:01:47 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "تراجع انتشار الحوثيين في صنعاء مع اشتداد الجبهات",
       "url": "https://aawsat.com/node/5316376",
       "category": "مشرق أوسط",
@@ -440,14 +450,6 @@
       "url": "https://aawsat.com/node/5316024",
       "category": "مشرق أوسط",
       "published": "Tue, 08 Sep 2026 14:42:57 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "انتقادات يمنية لبيان غروندبرغ بشأن التصعيد العسكري",
-      "url": "https://aawsat.com/node/5315989",
-      "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 13:14:35 +0100",
       "breaking": false,
       "watch_topics": []
     },
@@ -630,6 +632,16 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cvgyp0j92z5o",
       "category": "عراق",
       "published": "2026-09-09T07:43:26+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "الدوحة تعلّق على استهداف الأردن: اعتداء إيراني يخرق القانون الدولي",
+      "url": "https://www.alsumaria.tv/news/international/575564/%D8%A7%D9%84%D8%AF%D9%88%D8%AD%D8%A9-%D8%AA%D8%B9%D9%84%D9%91%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%AE%D8%B1%D9%82-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
+      "category": "عراق",
+      "published": "2026-09-09T10:55:20+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران"
