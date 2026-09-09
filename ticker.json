@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T05:31:13.485727+00:00",
+  "updated_at": "2026-09-09T05:46:48.533668+00:00",
   "latest": [
     {
       "title": "إنذارات سعودية جديدة \"للتحذير من خطر\" بعد هجمات الحوثيين، والخارجية الأمريكية تحمّل إيران المسؤولية - شفق نيوز..",
@@ -42,14 +42,6 @@
       "watch_topics": [
         "إيران"
       ]
-    },
-    {
-      "title": "الأزهر يشن هجوما بعد تمزيق نسخة من المصحف في نيويورك: تطرف وإرهاب",
-      "url": "https://www.alsumaria.tv/news/international/575428/%D8%A7%D9%84%D8%A3%D8%B2%D9%87%D8%B1-%D9%8A%D8%B4%D9%86-%D9%87%D8%AC%D9%88%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%AA%D9%85%D8%B2%D9%8A%D9%82-%D9%86%D8%B3%D8%AE%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%AA%D8%B7%D8%B1%D9%81-%D9%88%D8%A5%D8%B1%D9%87%D8%A7%D8%A8",
-      "category": "عراق",
-      "published": "2026-09-08T17:52:54+00:00",
-      "breaking": true,
-      "watch_topics": []
     },
     {
       "title": "إيران تعلق على الحل الأمريكي المبتكر",
@@ -226,6 +218,14 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/editorial/kirkuk-council-25-2026-09-08",
       "category": "عراق",
       "published": "2026-09-08T13:11:00+03:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "رواتبهم بين الأعلى عالميا.. سنغافورة ترفع رواتب الوزراء",
+      "url": "https://www.alsumaria.tv/news/international/575451/%d8%b1%d9%88%d8%a7%d8%aa%d8%a8%d9%87%d9%85-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%a3%d8%b9%d9%84%d9%89-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a7-%d8%b3%d9%86%d8%ba%d8%a7%d9%81%d9%88%d8%b1%d8%a9-%d8%aa%d8%b1%d9%81%d8%b9-%d8%b1%d9%88%d8%a7%d8%aa%d8%a8-%d8%a7%d9%84?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Wed, 09 Sep 2026 05:40:00 GMT",
       "breaking": false,
       "watch_topics": []
     },
@@ -477,6 +477,14 @@
       ]
     },
     {
+      "title": "أوكرانيا: قتلى وجرحى جرَّاء استهداف مُسيَّرات روسية معبراً حدودياً مع مولدوفا",
+      "url": "https://aawsat.com/node/5316262",
+      "category": "دولي",
+      "published": "Wed, 09 Sep 2026 06:41:22 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "هجوم بمسيّرة روسية يلحق أضراراً بقناة تلفزيونية أوكرانية",
       "url": "https://aawsat.com/node/5316156",
       "category": "دولي",
@@ -629,14 +637,6 @@
       "published": "Tue, 08 Sep 2026 13:32:38 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "كندا و11 دولة أوروبية تعتزم فرض عقوبات على التجارة مع المستوطنات الإسرائيلية",
-      "url": "https://aawsat.com/node/5315874",
-      "category": "دولي",
-      "published": "Tue, 08 Sep 2026 07:54:49 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -681,14 +681,6 @@
       "watch_topics": [
         "إيران"
       ]
-    },
-    {
-      "title": "الأزهر يشن هجوما بعد تمزيق نسخة من المصحف في نيويورك: تطرف وإرهاب",
-      "url": "https://www.alsumaria.tv/news/international/575428/%D8%A7%D9%84%D8%A3%D8%B2%D9%87%D8%B1-%D9%8A%D8%B4%D9%86-%D9%87%D8%AC%D9%88%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%AA%D9%85%D8%B2%D9%8A%D9%82-%D9%86%D8%B3%D8%AE%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B5%D8%AD%D9%81-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%AA%D8%B7%D8%B1%D9%81-%D9%88%D8%A5%D8%B1%D9%87%D8%A7%D8%A8",
-      "category": "عراق",
-      "published": "2026-09-08T17:52:54+00:00",
-      "breaking": true,
-      "watch_topics": []
     },
     {
       "title": "السعودية: استهداف منشآت ومرافق للطاقة جنوب المملكة وتوقّف مؤقت لبعض العمليات التشغيلية",
@@ -749,6 +741,14 @@
       "watch_topics": [
         "إيران"
       ]
+    },
+    {
+      "title": "أوكرانيا: قتلى وجرحى جرَّاء استهداف مُسيَّرات روسية معبراً حدودياً مع مولدوفا",
+      "url": "https://aawsat.com/node/5316262",
+      "category": "دولي",
+      "published": "Wed, 09 Sep 2026 06:41:22 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "هجوم بمسيّرة روسية يلحق أضراراً بقناة تلفزيونية أوكرانية",
