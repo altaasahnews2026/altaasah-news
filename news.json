@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T06:42:20.254569+00:00",
+  "updated_at": "2026-09-09T06:59:19.569687+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -14,6 +14,21 @@
       "source_name": "التاسعة نيوز",
       "summary": "يعقد مجلس محافظة كركوك جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات، بينها استضافة مديري شرطة المحافظة والبلدية لبحث الملفات المطروحة على جدول أعمال المجلس.",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a8a5fb2ea351.html"
+    },
+    {
+      "title": "هل في بيتنا \"ابن مفضل\"؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cx2rxdjdgy7o",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-09T06:32:58+00:00",
+      "image": "./assets/news/72055dbde7a8babab0038298.jpg",
+      "original_image": "./assets/news/72055dbde7a8babab0038298.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cx2rxdjdgy7o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e6890b85e7fd.html"
     },
     {
       "title": "تفاصيل بشأن مسيرات هددت حياة ترامب",
@@ -241,6 +256,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f7300ed42c1f.html"
     },
     {
+      "title": "الحرس الثوري الإيراني يعلن استهداف 20 سفينة في مضيق هرمز",
+      "url": "https://www.alsumaria.tv/news/international/575456/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-20-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D9%81%D9%8A-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-09T06:55:59+00:00",
+      "image": "./assets/news/ce49a7a9efbc52bf0f91a5c6.jpg",
+      "original_image": "./assets/news/ce49a7a9efbc52bf0f91a5c6.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575456/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-20-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D9%81%D9%8A-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/95a14bf1b9c8.html"
+    },
+    {
       "title": "اعتراضات صاروخية في الأردن وسوريا",
       "url": "https://www.alsumaria.tv/news/international/575445/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
       "category": "عربي ودولي",
@@ -299,36 +329,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/168cebd07671.html"
-    },
-    {
-      "title": "هل كانت سوريا قريبة من بناء مفاعل نووي في عهد الأسد؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cdx50yxwdnro",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-08T19:20:55+00:00",
-      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cdx50yxwdnro",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/68243c0cba2e.html"
-    },
-    {
-      "title": "إيران تعلق على الحل الأمريكي المبتكر",
-      "url": "https://www.alsumaria.tv/news/international/575433/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D9%83%D8%B1",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-08T19:20:00+00:00",
-      "image": "./assets/news/c0ed3f8f37fc2dca842b1431.jpg",
-      "original_image": "./assets/news/c0ed3f8f37fc2dca842b1431.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/575433/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D9%83%D8%B1",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9fd64f725332.html"
     }
   ]
 }
