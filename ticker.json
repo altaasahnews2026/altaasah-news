@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-09-09T07:20:06.981436+00:00",
+  "updated_at": "2026-09-09T07:36:19.516847+00:00",
   "latest": [
-    {
-      "title": "إنذارات سعودية جديدة \"للتحذير من خطر\" بعد هجمات الحوثيين، والخارجية الأمريكية تحمّل إيران المسؤولية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
-      "category": "عراق",
-      "published": "2026-09-08T20:35:03+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
-    },
     {
       "title": "واشنطن تعلن استهداف ناقلات نفط إيرانية قرب خارك وجاسك",
       "url": "https://www.alsumaria.tv/news/international/575437/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA-%D9%86%D9%81%D8%B7-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%AE%D8%A7%D8%B1%D9%83-%D9%88%D8%AC%D8%A7%D8%B3%D9%83",
@@ -24,10 +13,31 @@
       ]
     },
     {
+      "title": "إنذارات سعودية جديدة \"للتحذير من خطر\" بعد هجمات الحوثيين، والخارجية الأمريكية تحمّل إيران المسؤولية - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
+      "category": "عراق",
+      "published": "2026-09-08T20:35:03+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
       "title": "الحرس الثوري الإيراني يعلن استهداف 20 سفينة في مضيق هرمز",
       "url": "https://www.alsumaria.tv/news/international/575456/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-20-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D9%81%D9%8A-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
       "category": "عراق",
       "published": "2026-09-09T06:55:59+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتطالب طواقم ناقلات نفط في الكويت والبحرين بـ \"مغادرة سفنهم فوراً\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cvgyp0j92z5o",
+      "category": "عراق",
+      "published": "2026-09-09T07:10:50+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران"
@@ -94,14 +104,6 @@
       ]
     },
     {
-      "title": "إسرائيل تغلق القنصلية البريطانية في القدس رداً على حظر لندن استيراد السلع من المستوطنات - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c89jezxywvlo",
-      "category": "عراق",
-      "published": "2026-09-08T20:22:41+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "اعتراضات صاروخية في الأردن وسوريا",
       "url": "https://www.alsumaria.tv/news/international/575445/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
       "category": "عراق",
@@ -130,14 +132,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c980l1q3j9jo",
       "category": "عراق",
       "published": "2026-09-09T06:03:19+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "هل يساعد إكليل الجبل على خسارة الوزن؟",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575435/%D9%87%D9%84-%D9%8A%D8%B3%D8%A7%D8%B9%D8%AF-%D8%A5%D9%83%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%AC%D8%A8%D9%84-%D8%B9%D9%84%D9%89-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%88%D8%B2%D9%86%D8%9F",
-      "category": "عراق",
-      "published": "2026-09-08T19:34:28+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -194,6 +188,14 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/editorial/kirkuk-council-25-2026-09-08",
       "category": "عراق",
       "published": "2026-09-08T13:11:00+03:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "النزاهة تتحرى جباية امانة بغداد: (41) ألف مكلفٍ امتنعوا تسديد الرسوم المترتبة بذمتهم",
+      "url": "https://www.alsumaria.tv/news/localnews/575458/%d8%a7%d9%84%d9%86%d8%b2%d8%a7%d9%87%d8%a9-%d8%aa%d8%aa%d8%ad%d8%b1%d9%89-%d8%ac%d8%a8%d8%a7%d9%8a%d8%a9-%d8%a7%d9%85%d8%a7%d9%86%d8%a9-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-41-%d8%a3%d9%84%d9%81-%d9%85%d9%83%d9%84%d9%81%d9%8d-%d8%a7%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Wed, 09 Sep 2026 07:23:53 GMT",
       "breaking": false,
       "watch_topics": []
     },
@@ -641,17 +643,6 @@
   ],
   "breaking": [
     {
-      "title": "إنذارات سعودية جديدة \"للتحذير من خطر\" بعد هجمات الحوثيين، والخارجية الأمريكية تحمّل إيران المسؤولية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
-      "category": "عراق",
-      "published": "2026-09-08T20:35:03+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
-    },
-    {
       "title": "واشنطن تعلن استهداف ناقلات نفط إيرانية قرب خارك وجاسك",
       "url": "https://www.alsumaria.tv/news/international/575437/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA-%D9%86%D9%81%D8%B7-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%AE%D8%A7%D8%B1%D9%83-%D9%88%D8%AC%D8%A7%D8%B3%D9%83",
       "category": "عراق",
@@ -663,10 +654,31 @@
       ]
     },
     {
+      "title": "إنذارات سعودية جديدة \"للتحذير من خطر\" بعد هجمات الحوثيين، والخارجية الأمريكية تحمّل إيران المسؤولية - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c2l8ep44xrpo",
+      "category": "عراق",
+      "published": "2026-09-08T20:35:03+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
       "title": "الحرس الثوري الإيراني يعلن استهداف 20 سفينة في مضيق هرمز",
       "url": "https://www.alsumaria.tv/news/international/575456/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-20-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D9%81%D9%8A-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
       "category": "عراق",
       "published": "2026-09-09T06:55:59+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتطالب طواقم ناقلات نفط في الكويت والبحرين بـ \"مغادرة سفنهم فوراً\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cvgyp0j92z5o",
+      "category": "عراق",
+      "published": "2026-09-09T07:10:50+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران"
