@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T16:45:51.189477+00:00",
+  "updated_at": "2026-09-09T16:57:47.834510+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -21,8 +21,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-09T16:40:43+00:00",
-      "image": "./assets/news/39bb6ad2ff972b3134c9bd4f.jpg",
-      "original_image": "./assets/news/39bb6ad2ff972b3134c9bd4f.jpg",
+      "image": "./assets/news/4313f955596537c6bb73f074.jpg",
+      "original_image": "./assets/news/4313f955596537c6bb73f074.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575609/%D8%AA%D9%88%D8%AA%D8%B1-%D9%81%D9%8A-%D8%AF%D9%88%D9%85%D8%A7-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D9%87%D8%A7%D9%84%D9%8D-%D9%8A%D9%82%D8%AA%D8%AD%D9%85%D9%88%D9%86-%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2-%D9%84%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%B4%D8%A7%D8%A8-%D9%88%D9%88%D8%A7%D9%84%D8%AF%D9%87",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -181,6 +181,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/113f4912a52d.html"
     },
     {
+      "title": "النقل تؤكد إصابة ناقلة النفط العراقي وتبدأ التحقق من مصدر الهجوم",
+      "url": "https://964media.com/715373/",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-09T12:03:45+00:00",
+      "image": "./assets/news/09105e938f6a525becd87b79.jpg",
+      "original_image": "./assets/news/09105e938f6a525becd87b79.jpg",
+      "source_url": "https://964media.com/715373/",
+      "source_name": "شبكة 964",
+      "breaking": true,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d49da7bfd499.html"
+    },
+    {
       "title": "الطاقة الأميركية ترفع توقعاتها لسعر برنت إلى 91 دولاراً في 2026",
       "url": "https://www.alsumaria.tv/news/economy/575606/%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%B1%D9%81%D8%B9-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA%D9%87%D8%A7-%D9%84%D8%B3%D8%B9%D8%B1-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A5%D9%84%D9%89-91-%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7%D9%8B-%D9%81%D9%8A-2026",
       "category": "اقتصاد",
@@ -246,8 +261,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-09T16:33:33+00:00",
-      "image": "./assets/news/19e34ba6a0372a9ebf66bfc8.jpg",
-      "original_image": "./assets/news/19e34ba6a0372a9ebf66bfc8.jpg",
+      "image": "./assets/news/c7e7ee6a193b5d52f328ef97.jpg",
+      "original_image": "./assets/news/c7e7ee6a193b5d52f328ef97.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575608/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%AC%D8%A7%D8%B3%D9%83-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -261,8 +276,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-09T15:50:07+00:00",
-      "image": "./assets/news/ec7cfd22ce425ed41d3b8e88.jpg",
-      "original_image": "./assets/news/ec7cfd22ce425ed41d3b8e88.jpg",
+      "image": "./assets/news/8b11a8eba156b3b628cafb9e.jpg",
+      "original_image": "./assets/news/8b11a8eba156b3b628cafb9e.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575601/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D9%81%D8%B1%D8%A7%D8%BA-%D8%A3%D9%85%D9%86%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8-%D9%82%D8%AF-%D8%AA%D8%B3%D8%AA%D8%BA%D9%84%D9%87-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%84%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -284,6 +299,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bdf551ce1738.html"
+    },
+    {
+      "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتكشف عن منطقة حظر بحري خارج مضيق هرمز - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cvgyp0j92z5o",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-09T16:46:25+00:00",
+      "image": "./assets/news/76e5424e9e212dbd782e26c4.jpg",
+      "original_image": "./assets/news/76e5424e9e212dbd782e26c4.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cvgyp0j92z5o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c088283e1a9d.html"
     },
     {
       "title": "المارينز فوق جزر إيران.. البنتاغون يدرس إنزالاً خاطفاً على هرمز",
@@ -314,21 +344,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/eefa10d50d0d.html"
-    },
-    {
-      "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتكشف عن منطقة حظر بحري خارج مضيق هرمز - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cvgyp0j92z5o",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-09T13:34:47+00:00",
-      "image": "./assets/news/cef119c454e31366fdfaa6bb.jpg",
-      "original_image": "./assets/news/cef119c454e31366fdfaa6bb.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cvgyp0j92z5o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/929d6edd6f80.html"
     },
     {
       "title": "بريطانيا يجب أن تبذل المزيد لإبقاء حلم الدولة الفلسطينية حياً – الإندبندنت - شفق نيوز..",

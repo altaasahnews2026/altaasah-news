@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-09T16:45:57.168608+00:00",
+  "updated_at": "2026-09-09T16:57:51.888159+00:00",
   "latest": [
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتكشف عن منطقة حظر بحري خارج مضيق هرمز - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cvgyp0j92z5o",
       "category": "عراق",
-      "published": "2026-09-09T13:34:47+00:00",
+      "published": "2026-09-09T16:46:25+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران"
@@ -53,6 +53,14 @@
       "url": "https://964media.com/715398/",
       "category": "عراق",
       "published": "2026-09-09T13:11:12+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "النقل تؤكد إصابة ناقلة النفط العراقي وتبدأ التحقق من مصدر الهجوم",
+      "url": "https://964media.com/715373/",
+      "category": "عراق",
+      "published": "2026-09-09T12:03:45+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -223,14 +231,6 @@
       "url": "https://www.alsumaria.tv/news/localnews/575595/%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85-%d8%aa%d9%82%d8%b1%d8%b1-%d8%aa%d9%85%d8%af%d9%8a%d8%af-%d9%85%d9%86%d8%b9-%d8%a7%d9%84%d8%b8%d9%87%d9%88%d8%b1-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a-%d9%84%d8%b9%d9%85%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
       "category": "عراق",
       "published": "Wed, 09 Sep 2026 14:56:34 GMT",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ما هي مهمة هيئة الغذاء والدواء التي شكلت بتوجيه من الزيدي؟",
-      "url": "https://www.alsumaria.tv/news/localnews/575594/%d9%85%d8%a7-%d9%87%d9%8a-%d9%85%d9%87%d9%85%d8%a9-%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%ba%d8%b0%d8%a7%d8%a1-%d9%88%d8%a7%d9%84%d8%af%d9%88%d8%a7%d8%a1-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b4%d9%83%d9%84%d8%aa-%d8%a8%d8%aa%d9%88%d8%ac%d9%8a%d9%87-%d9%85%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-      "category": "عراق",
-      "published": "Wed, 09 Sep 2026 14:54:16 GMT",
       "breaking": false,
       "watch_topics": []
     },
@@ -509,14 +509,6 @@
       "watch_topics": []
     },
     {
-      "title": "الجيش الأميركي يعلن إسقاط 300 مسيّرة لعصابات المخدرات عند الحدود مع المكسيك",
-      "url": "https://aawsat.com/node/5314869",
-      "category": "دولي",
-      "published": "Sat, 05 Sep 2026 02:01:18 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "موسكو ترغب في استئناف المحادثات مع كييف بوساطة واشنطن قريباً",
       "url": "https://aawsat.com/node/5316499",
       "category": "دولي",
@@ -631,6 +623,14 @@
       "published": "Wed, 09 Sep 2026 12:59:59 +0100",
       "breaking": false,
       "watch_topics": []
+    },
+    {
+      "title": "النرويج تودع «جد الأمة» الملك هارالد الخامس (صور)",
+      "url": "https://aawsat.com/node/5316389",
+      "category": "دولي",
+      "published": "Wed, 09 Sep 2026 12:25:52 +0100",
+      "breaking": false,
+      "watch_topics": []
     }
   ],
   "breaking": [
@@ -638,7 +638,7 @@
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتكشف عن منطقة حظر بحري خارج مضيق هرمز - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cvgyp0j92z5o",
       "category": "عراق",
-      "published": "2026-09-09T13:34:47+00:00",
+      "published": "2026-09-09T16:46:25+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران"
@@ -675,6 +675,14 @@
       "url": "https://964media.com/715398/",
       "category": "عراق",
       "published": "2026-09-09T13:11:12+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "النقل تؤكد إصابة ناقلة النفط العراقي وتبدأ التحقق من مصدر الهجوم",
+      "url": "https://964media.com/715373/",
+      "category": "عراق",
+      "published": "2026-09-09T12:03:45+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -775,14 +783,6 @@
       "url": "https://aawsat.com/node/5315434",
       "category": "دولي",
       "published": "Sun, 06 Sep 2026 23:20:35 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "الجيش الأميركي يعلن إسقاط 300 مسيّرة لعصابات المخدرات عند الحدود مع المكسيك",
-      "url": "https://aawsat.com/node/5314869",
-      "category": "دولي",
-      "published": "Sat, 05 Sep 2026 02:01:18 +0100",
       "breaking": true,
       "watch_topics": []
     }
