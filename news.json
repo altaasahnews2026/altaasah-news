@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T10:36:24.099367+00:00",
+  "updated_at": "2026-09-09T10:51:26.506627+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -14,6 +14,21 @@
       "source_name": "التاسعة نيوز",
       "summary": "يعقد مجلس محافظة كركوك جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات، بينها استضافة مديري شرطة المحافظة والبلدية لبحث الملفات المطروحة على جدول أعمال المجلس.",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a8a5fb2ea351.html"
+    },
+    {
+      "title": "قوة خاصة من النزاهة تداهم شركة بلال المالكي ومنزله في الكرادة",
+      "url": "https://www.alsumaria.tv/news/security/575563/%D9%82%D9%88%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%AF%D8%A7%D9%87%D9%85-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A8%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A-%D9%88%D9%85%D9%86%D8%B2%D9%84%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D8%AF%D8%A9",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-09T10:35:26+00:00",
+      "image": "./assets/news/bd0b5c1e388a2f234ecc7d15.jpg",
+      "original_image": "./assets/news/bd0b5c1e388a2f234ecc7d15.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/575563/%D9%82%D9%88%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%AF%D8%A7%D9%87%D9%85-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A8%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A-%D9%88%D9%85%D9%86%D8%B2%D9%84%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D8%AF%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bc6bf2481dc1.html"
     },
     {
       "title": "اعتراف مرعب يُكشف لأول مرة عن إبستين وترامب",
@@ -119,21 +134,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a0c4cc0d6f93.html"
-    },
-    {
-      "title": "كارثة في النجف.. ضبط شخص يبيع لحوم الخنازير على أنها لحم مثروم (فيديو)",
-      "url": "https://www.alsumaria.tv/news/trends-alsumaria/575515/%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%B6%D8%A8%D8%B7-%D8%B4%D8%AE%D8%B5-%D9%8A%D8%A8%D9%8A%D8%B9-%D9%84%D8%AD%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%86%D8%A7%D8%B2%D9%8A%D8%B1-%D8%B9%D9%84%D9%89-%D8%A3%D9%86%D9%87%D8%A7-%D9%84%D8%AD%D9%85-%D9%85%D8%AB%D8%B1%D9%88%D9%85-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-09T08:45:36+00:00",
-      "image": "./assets/news/463f77ceed58a387e632d943.png",
-      "original_image": "./assets/news/463f77ceed58a387e632d943.png",
-      "source_url": "https://www.alsumaria.tv/news/trends-alsumaria/575515/%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%B6%D8%A8%D8%B7-%D8%B4%D8%AE%D8%B5-%D9%8A%D8%A8%D9%8A%D8%B9-%D9%84%D8%AD%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%86%D8%A7%D8%B2%D9%8A%D8%B1-%D8%B9%D9%84%D9%89-%D8%A3%D9%86%D9%87%D8%A7-%D9%84%D8%AD%D9%85-%D9%85%D8%AB%D8%B1%D9%88%D9%85-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/dca83a6820ba.html"
     },
     {
       "title": "الأسطورة ميسي يقترب من الاستحواذ الكامل على نادٍ إسباني",
@@ -271,34 +271,34 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ef0910cfbf21.html"
     },
     {
-      "title": "إلغاء نحو 1100 رحلة جوية بسبب خلل فني في مطارات في بريطانيا - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ckg8e5lv099o",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-09T08:42:28+00:00",
-      "image": "./assets/news/ec2ddeceb15855498c410c6b.jpg",
-      "original_image": "./assets/news/ec2ddeceb15855498c410c6b.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/ckg8e5lv099o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9a397b22fec4.html"
-    },
-    {
-      "title": "لماذا قد يكون اتساخ يديك أمراً جيداً بالنسبة لك؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c624w5dwp99o",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-09T08:40:44+00:00",
+      "title": "العلاقات البريطانية الإسرائيلية في أدنى مستوياتها منذ عقود - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/czdz0gl2e3vo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-09T10:38:31+00:00",
       "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
       "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c624w5dwp99o",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/czdz0gl2e3vo",
       "source_name": "شفق نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/875f7286f4cd.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f1214cddab90.html"
+    },
+    {
+      "title": "كارثة في النجف.. ضبط شخص يبيع لحوم الخنازير على أنها لحم مثروم (فيديو)",
+      "url": "https://www.alsumaria.tv/news/trends-alsumaria/575515/%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%B6%D8%A8%D8%B7-%D8%B4%D8%AE%D8%B5-%D9%8A%D8%A8%D9%8A%D8%B9-%D9%84%D8%AD%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%86%D8%A7%D8%B2%D9%8A%D8%B1-%D8%B9%D9%84%D9%89-%D8%A3%D9%86%D9%87%D8%A7-%D9%84%D8%AD%D9%85-%D9%85%D8%AB%D8%B1%D9%88%D9%85-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-09T08:45:36+00:00",
+      "image": "./assets/news/463f77ceed58a387e632d943.png",
+      "original_image": "./assets/news/463f77ceed58a387e632d943.png",
+      "source_url": "https://www.alsumaria.tv/news/trends-alsumaria/575515/%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%B6%D8%A8%D8%B7-%D8%B4%D8%AE%D8%B5-%D9%8A%D8%A8%D9%8A%D8%B9-%D9%84%D8%AD%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%86%D8%A7%D8%B2%D9%8A%D8%B1-%D8%B9%D9%84%D9%89-%D8%A3%D9%86%D9%87%D8%A7-%D9%84%D8%AD%D9%85-%D9%85%D8%AB%D8%B1%D9%88%D9%85-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/dca83a6820ba.html"
     },
     {
       "title": "مليون دولار زيادة على راتب القائد الأعلى أجراً في العالم - شفق نيوز..",
