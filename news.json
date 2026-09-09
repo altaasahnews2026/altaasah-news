@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T06:22:32.478298+00:00",
+  "updated_at": "2026-09-09T06:42:20.254569+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -21,8 +21,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-09T05:49:00+00:00",
-      "image": "./assets/news/05c3bd9334771d137d695692.jpg",
-      "original_image": "./assets/news/05c3bd9334771d137d695692.jpg",
+      "image": "./assets/news/f3fd843d12663417fc323ad2.jpg",
+      "original_image": "./assets/news/f3fd843d12663417fc323ad2.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575452/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D9%87%D8%AF%D8%AF%D8%AA-%D8%AD%D9%8A%D8%A7%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -224,21 +224,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/37786b106860.html"
-    },
-    {
-      "title": "دوي انفجارات عدة جنوبي إيران",
-      "url": "https://www.alsumaria.tv/news/international/575431/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D8%AF%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-08T18:54:02+00:00",
-      "image": "./assets/news/699d17a0ea41fac159b1f78a.jpg",
-      "original_image": "./assets/news/699d17a0ea41fac159b1f78a.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/575431/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D8%AF%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
-      "source_name": "السومرية نيوز",
-      "breaking": true,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9edd6d1a7fdf.html"
     },
     {
       "title": "مصدر أمني: أجواء العراق خالية من أي طيران مدني",
