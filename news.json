@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T13:56:09.972754+00:00",
+  "updated_at": "2026-09-09T14:14:27.168193+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -51,8 +51,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-09T12:59:13+00:00",
-      "image": "./assets/news/9b6704fff9a745e0392cbd4c.jpg",
-      "original_image": "./assets/news/9b6704fff9a745e0392cbd4c.jpg",
+      "image": "./assets/news/5081147131fa9d21e706c213.jpg",
+      "original_image": "./assets/news/5081147131fa9d21e706c213.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/575575/%D8%A7%D9%84%D8%AD%D9%84%D8%A8%D9%88%D8%B3%D9%8A-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%81%D9%8A-%D8%A3%D9%86%D9%82%D8%B1%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -136,6 +136,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ff8660d8d8f1.html"
     },
     {
+      "title": "اول تعليق من وزارة النفط بشأن الناقلة المستهدفة: مستأجرة من قبل العراق",
+      "url": "https://www.alsumaria.tv/news/localnews/575580/%D8%A7%D9%88%D9%84-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D9%85%D9%86-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%A9-%D9%85%D8%B3%D8%AA%D8%A3%D8%AC%D8%B1%D8%A9-%D9%85%D9%86-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-09T13:56:19+00:00",
+      "image": "./assets/news/2b7c1a947baab78f5dce7473.jpg",
+      "original_image": "./assets/news/2b7c1a947baab78f5dce7473.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/575580/%D8%A7%D9%88%D9%84-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D9%85%D9%86-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%A9-%D9%85%D8%B3%D8%AA%D8%A3%D8%AC%D8%B1%D8%A9-%D9%85%D9%86-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b87dac7cbdec.html"
+    },
+    {
       "title": "أربع ضربات جوية تستهدف أوكار داعش في وادي الشاي بصلاح الدين",
       "url": "https://www.alsumaria.tv/news/security/575572/%D8%A3%D8%B1%D8%A8%D8%B9-%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%AC%D9%88%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A3%D9%88%D9%83%D8%A7%D8%B1-%D8%AF%D8%A7%D8%B9%D8%B4-%D9%81%D9%8A-%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B4%D8%A7%D9%8A-%D8%A8%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%8A%D9%86",
       "category": "رياضة",
@@ -166,22 +181,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d49da7bfd499.html"
     },
     {
-      "title": "طاقم السفينة بخير ولا تسرب من حمولتها في مياه العراق.. توضيح من النفط",
-      "url": "https://964media.com/715405/",
+      "title": "أمازون تتجه لجمع 5.8 مليار دولار من أول إصدار لسنداتها بالجنيه الإسترليني",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/575582/%D8%A3%D9%85%D8%A7%D8%B2%D9%88%D9%86-%D8%AA%D8%AA%D8%AC%D9%87-%D9%84%D8%AC%D9%85%D8%B9-58-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D9%86-%D8%A3%D9%88%D9%84-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D9%84%D8%B3%D9%86%D8%AF%D8%A7%D8%AA%D9%87%D8%A7-%D8%A8%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D9%87-%D8%A7%D9%84%D8%A5%D8%B3%D8%AA%D8%B1%D9%84%D9%8A",
       "category": "اقتصاد",
       "region": "العراق",
-      "published": "2026-09-09T13:36:14+00:00",
-      "image": "./assets/news/8b0449bb1d12ec7be9488704.jpg",
-      "original_image": "./assets/news/8b0449bb1d12ec7be9488704.jpg",
-      "source_url": "https://964media.com/715405/",
-      "source_name": "شبكة 964",
+      "published": "2026-09-09T14:05:24+00:00",
+      "image": "./assets/news/2167ade39273100775353389.jpg",
+      "original_image": "./assets/news/2167ade39273100775353389.jpg",
+      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575582/%D8%A3%D9%85%D8%A7%D8%B2%D9%88%D9%86-%D8%AA%D8%AA%D8%AC%D9%87-%D9%84%D8%AC%D9%85%D8%B9-58-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D9%86-%D8%A3%D9%88%D9%84-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D9%84%D8%B3%D9%86%D8%AF%D8%A7%D8%AA%D9%87%D8%A7-%D8%A8%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D9%87-%D8%A7%D9%84%D8%A5%D8%B3%D8%AA%D8%B1%D9%84%D9%8A",
+      "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/94c10bb22144.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5ab338416504.html"
     },
     {
-      "title": "شاهد: اللحظات الأولى لاستهداف ناقلة النفط في المياه العراقية",
+      "title": "اللحظات الأولى لاستهداف ناقلة النفط في المياه العراقية",
       "url": "https://964media.com/715398/",
       "category": "اقتصاد",
       "region": "العراق",
@@ -193,37 +208,22 @@
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/27670c3469e8.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5c05439d7d58.html"
     },
     {
-      "title": "استهداف ناقلة نفط أجنبية بطائرة مسيرة في المياه الإقليمية العراقية",
-      "url": "https://www.alsumaria.tv/news/security/575562/%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D8%A8%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
+      "title": "العراق يطالب بكسر السقف المسموح وإنتاج 6 ملايين برميل نفط يومياً",
+      "url": "https://964media.com/715294/",
       "category": "اقتصاد",
       "region": "العراق",
-      "published": "2026-09-09T10:28:16+00:00",
-      "image": "./assets/news/10bc09e446639e19f1594830.jpg",
-      "original_image": "./assets/news/10bc09e446639e19f1594830.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/575562/%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D8%A8%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
-      "source_name": "السومرية نيوز",
+      "published": "2026-09-09T09:35:07+00:00",
+      "image": "./assets/news/c5520e2c02fb8902a19001d4.jpg",
+      "original_image": "./assets/news/c5520e2c02fb8902a19001d4.jpg",
+      "source_url": "https://964media.com/715294/",
+      "source_name": "شبكة 964",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a28fa12b8afb.html"
-    },
-    {
-      "title": "سوريا.. إصابة 8 أشخاص بانفجار مستودع ذخيرة شمالي إدلب",
-      "url": "https://www.alsumaria.tv/news/international/575560/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-8-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B3%D8%AA%D9%88%D8%AF%D8%B9-%D8%B0%D8%AE%D9%8A%D8%B1%D8%A9-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-09T10:11:19+00:00",
-      "image": "./assets/news/987f4dc092e572eb83c91fd2.png",
-      "original_image": "./assets/news/987f4dc092e572eb83c91fd2.png",
-      "source_url": "https://www.alsumaria.tv/news/international/575560/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-8-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B3%D8%AA%D9%88%D8%AF%D8%B9-%D8%B0%D8%AE%D9%8A%D8%B1%D8%A9-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8",
-      "source_name": "السومرية نيوز",
-      "breaking": true,
-      "kirkuk": false,
-      "report": true,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ef0910cfbf21.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ccafe0aa1140.html"
     },
     {
       "title": "طائرات F16 العراقية تقصف أوكاراً لإرهابيين في وادي الشاي",
@@ -254,6 +254,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fe2d523f9980.html"
+    },
+    {
+      "title": "نتنياهو من سوريا: سنهزم النظام الإيراني",
+      "url": "https://www.alsumaria.tv/news/international/575583/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B3%D9%86%D9%87%D8%B2%D9%85-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-09T14:06:53+00:00",
+      "image": "./assets/news/ee70c31c9bd30c09854da405.jpg",
+      "original_image": "./assets/news/ee70c31c9bd30c09854da405.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575583/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B3%D9%86%D9%87%D8%B2%D9%85-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e6686997c6b2.html"
     },
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتكشف عن منطقة حظر بحري خارج مضيق هرمز - شفق نيوز..",
@@ -314,36 +329,6 @@
       "kirkuk": false,
       "report": true,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/79b1668a9c85.html"
-    },
-    {
-      "title": "قوة خاصة من النزاهة تداهم شركة بلال المالكي ومنزله في الكرادة",
-      "url": "https://www.alsumaria.tv/news/security/575563/%D9%82%D9%88%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%AF%D8%A7%D9%87%D9%85-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A8%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A-%D9%88%D9%85%D9%86%D8%B2%D9%84%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D8%AF%D8%A9",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-09T10:35:26+00:00",
-      "image": "./assets/news/bd0b5c1e388a2f234ecc7d15.jpg",
-      "original_image": "./assets/news/bd0b5c1e388a2f234ecc7d15.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/575563/%D9%82%D9%88%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%AF%D8%A7%D9%87%D9%85-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A8%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A-%D9%88%D9%85%D9%86%D8%B2%D9%84%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D8%AF%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": true,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bc6bf2481dc1.html"
-    },
-    {
-      "title": "اعتراف مرعب يُكشف لأول مرة عن إبستين وترامب",
-      "url": "https://www.alsumaria.tv/news/international/575561/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D9%81-%D9%85%D8%B1%D8%B9%D8%A8-%D9%8A%D9%8F%D9%83%D8%B4%D9%81-%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D8%B9%D9%86-%D8%A5%D8%A8%D8%B3%D8%AA%D9%8A%D9%86-%D9%88%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-09T10:27:04+00:00",
-      "image": "./assets/news/266c8b701fe29fef3fe520dc.webp",
-      "original_image": "./assets/news/266c8b701fe29fef3fe520dc.webp",
-      "source_url": "https://www.alsumaria.tv/news/international/575561/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D9%81-%D9%85%D8%B1%D8%B9%D8%A8-%D9%8A%D9%8F%D9%83%D8%B4%D9%81-%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D8%B9%D9%86-%D8%A5%D8%A8%D8%B3%D8%AA%D9%8A%D9%86-%D9%88%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d94c392f2e90.html"
     },
     {
       "title": "هل في بيتنا \"ابن مفضل\"؟ - شفق نيوز..",
