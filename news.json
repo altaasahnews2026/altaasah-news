@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T07:36:16.357837+00:00",
+  "updated_at": "2026-09-09T07:51:38.098862+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -14,6 +14,21 @@
       "source_name": "التاسعة نيوز",
       "summary": "يعقد مجلس محافظة كركوك جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات، بينها استضافة مديري شرطة المحافظة والبلدية لبحث الملفات المطروحة على جدول أعمال المجلس.",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a8a5fb2ea351.html"
+    },
+    {
+      "title": "إلغاء نحو 1100 رحلة جوية بسبب خلل فني في مطارات في بريطانيا - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ckg8e5lv099o",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-09T07:29:26+00:00",
+      "image": "./assets/news/ec2ddeceb15855498c410c6b.jpg",
+      "original_image": "./assets/news/ec2ddeceb15855498c410c6b.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/ckg8e5lv099o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d726cc48aea2.html"
     },
     {
       "title": "حرارة أربعينية في معظم المدن.. دهوك والسليمانية الأقل بـ 35",
@@ -76,21 +91,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3c0400e34015.html"
     },
     {
-      "title": "إلغاء نحو 1100 رحلة جوية بسبب خلل فني في مطارات في بريطانيا - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ckg8e5lv099o",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-08T23:23:52+00:00",
-      "image": "./assets/news/ec2ddeceb15855498c410c6b.jpg",
-      "original_image": "./assets/news/ec2ddeceb15855498c410c6b.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/ckg8e5lv099o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8965bcee19cc.html"
-    },
-    {
       "title": "مجلس الوزراء يتخذ قرارات عدة بينها يخص تصدير النفط والايفادات الخارجية",
       "url": "https://www.alsumaria.tv/news/politics/575440/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%AA%D8%AE%D8%B0-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D9%86%D9%87%D8%A7-%D9%8A%D8%AE%D8%B5-%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D9%84%D8%A7%D9%8A%D9%81%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9",
       "category": "سياسة",
@@ -121,19 +121,19 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c3cb00fac56a.html"
     },
     {
-      "title": "قصف أمريكي يستهدف ناقلة نفط إيرانية قرب خارك",
-      "url": "https://www.alsumaria.tv/news/international/575436/%D9%82%D8%B5%D9%81-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%AE%D8%A7%D8%B1%D9%83",
-      "category": "رياضة",
+      "title": "عالميا.. الذهب يرتفع مع تراجع الدولار",
+      "url": "https://www.alsumaria.tv/news/economy/575471/%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D9%85%D8%B9-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
+      "category": "اقتصاد",
       "region": "العراق",
-      "published": "2026-09-08T19:39:00+00:00",
-      "image": "./assets/news/076c586b95973b6af677a4d6.png",
-      "original_image": "./assets/news/076c586b95973b6af677a4d6.png",
-      "source_url": "https://www.alsumaria.tv/news/international/575436/%D9%82%D8%B5%D9%81-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%AE%D8%A7%D8%B1%D9%83",
+      "published": "2026-09-09T07:46:26+00:00",
+      "image": "./assets/news/af677e5a98c18c625e90ba4b.jpg",
+      "original_image": "./assets/news/af677e5a98c18c625e90ba4b.jpg",
+      "source_url": "https://www.alsumaria.tv/news/economy/575471/%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D9%85%D8%B9-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
       "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/27deb7601335.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3d1c4f27bf0b.html"
     },
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتطالب طواقم ناقلات نفط في الكويت والبحرين بـ \"مغادرة سفنهم فوراً\" - شفق نيوز..",
@@ -194,21 +194,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2fe735571707.html"
-    },
-    {
-      "title": "الاحتياطي النفطي الأمريكي يهبط إلى أدنى مستوى منذ 44 عاماً",
-      "url": "https://www.alsumaria.tv/news/economy/575439/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%87%D8%A8%D8%B7-%D8%A5%D9%84%D9%89-%D8%A3%D8%AF%D9%86%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%85%D9%86%D8%B0-44-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-08T20:15:00+00:00",
-      "image": "./assets/news/ef44d7cddd47f9aa1e4ffd20.jpg",
-      "original_image": "./assets/news/ef44d7cddd47f9aa1e4ffd20.jpg",
-      "source_url": "https://www.alsumaria.tv/news/economy/575439/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%87%D8%A8%D8%B7-%D8%A5%D9%84%D9%89-%D8%A3%D8%AF%D9%86%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%85%D9%86%D8%B0-44-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/51eecd00dfa5.html"
     },
     {
       "title": "مصدر أمني: أجواء العراق خالية من أي طيران مدني",
@@ -284,6 +269,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/73334812a7e5.html"
+    },
+    {
+      "title": "الاحتياطي النفطي الأمريكي يهبط إلى أدنى مستوى منذ 44 عاماً",
+      "url": "https://www.alsumaria.tv/news/economy/575439/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%87%D8%A8%D8%B7-%D8%A5%D9%84%D9%89-%D8%A3%D8%AF%D9%86%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%85%D9%86%D8%B0-44-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-08T20:15:00+00:00",
+      "image": "./assets/news/ef44d7cddd47f9aa1e4ffd20.jpg",
+      "original_image": "./assets/news/ef44d7cddd47f9aa1e4ffd20.jpg",
+      "source_url": "https://www.alsumaria.tv/news/economy/575439/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%87%D8%A8%D8%B7-%D8%A5%D9%84%D9%89-%D8%A3%D8%AF%D9%86%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%85%D9%86%D8%B0-44-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/51eecd00dfa5.html"
     },
     {
       "title": "واشنطن تعلن استهداف ناقلات نفط إيرانية قرب خارك وجاسك",
