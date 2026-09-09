@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T06:59:19.569687+00:00",
+  "updated_at": "2026-09-09T07:20:03.926445+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -14,6 +14,21 @@
       "source_name": "التاسعة نيوز",
       "summary": "يعقد مجلس محافظة كركوك جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات، بينها استضافة مديري شرطة المحافظة والبلدية لبحث الملفات المطروحة على جدول أعمال المجلس.",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a8a5fb2ea351.html"
+    },
+    {
+      "title": "حرارة أربعينية في معظم المدن.. دهوك والسليمانية الأقل بـ 35",
+      "url": "https://964media.com/715225/",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-09T06:48:50+00:00",
+      "image": "./assets/news/2557cb7c94335c5504f7632e.jpg",
+      "original_image": "./assets/news/2557cb7c94335c5504f7632e.jpg",
+      "source_url": "https://964media.com/715225/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/70199d4a308f.html"
     },
     {
       "title": "هل في بيتنا \"ابن مفضل\"؟ - شفق نيوز..",
@@ -104,36 +119,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c3cb00fac56a.html"
-    },
-    {
-      "title": "وزارة الدفاع تؤكد انتحار آمر لواء شمالي بغداد",
-      "url": "https://www.alsumaria.tv/news/security/575434/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1-%D8%A2%D9%85%D8%B1-%D9%84%D9%88%D8%A7%D8%A1-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-08T19:21:02+00:00",
-      "image": "./assets/news/2150689997de0f1b73e1245e.jpg",
-      "original_image": "./assets/news/2150689997de0f1b73e1245e.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/575434/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1-%D8%A2%D9%85%D8%B1-%D9%84%D9%88%D8%A7%D8%A1-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5adddc34ba97.html"
-    },
-    {
-      "title": "المد البحري في البصرة طبيعي ولا مخاوف.. تغيرات المحيط لم تصل بعد",
-      "url": "https://964media.com/715151/",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-08T18:15:17+00:00",
-      "image": "./assets/news/193f9fa0d7fcd04b98bb2f06.jpg",
-      "original_image": "./assets/news/193f9fa0d7fcd04b98bb2f06.jpg",
-      "source_url": "https://964media.com/715151/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5378fc97c4eb.html"
     },
     {
       "title": "قصف أمريكي يستهدف ناقلة نفط إيرانية قرب خارك",
