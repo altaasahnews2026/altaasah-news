@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T15:53:24.311336+00:00",
+  "updated_at": "2026-09-09T16:08:19.305235+00:00",
   "latest": [
     {
       "title": "عناصر حوثية في العراق شاركت مع الفصائل بقصف السعودية في تموز – تقرير أميركي",
@@ -22,14 +22,6 @@
       ]
     },
     {
-      "title": "اللحظات الأولى لاستهداف ناقلة النفط في المياه العراقية",
-      "url": "https://964media.com/715398/",
-      "category": "عراق",
-      "published": "2026-09-09T13:11:12+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "\"تحذير من محمد بن زايد قبل 7 أكتوبر\" يفجر أزمة في إسرائيل، ونتنياهو ينفي ويتجه إلى مقاضاة \"هآرتس\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cx2z9d4q5y8o",
       "category": "عراق",
@@ -46,22 +38,20 @@
       "watch_topics": []
     },
     {
+      "title": "اللحظات الأولى لاستهداف ناقلة النفط في المياه العراقية",
+      "url": "https://964media.com/715398/",
+      "category": "عراق",
+      "published": "2026-09-09T13:11:12+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "النقل تؤكد إصابة ناقلة النفط العراقي وتبدأ التحقق من مصدر الهجوم",
       "url": "https://964media.com/715373/",
       "category": "عراق",
       "published": "2026-09-09T12:03:45+00:00",
       "breaking": true,
       "watch_topics": []
-    },
-    {
-      "title": "نتنياهو من سوريا: سنهزم النظام الإيراني",
-      "url": "https://www.alsumaria.tv/news/international/575583/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B3%D9%86%D9%87%D8%B2%D9%85-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A",
-      "category": "عراق",
-      "published": "2026-09-09T14:06:53+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
     },
     {
       "title": "إيران تهاجم قرار مجلس المحافظين: برنامجنا النووي عولج سياسياً لا فنياً",
@@ -72,14 +62,6 @@
       "watch_topics": [
         "إيران"
       ]
-    },
-    {
-      "title": "طاقم السفينة بخير ولا تسرب من حمولتها في مياه العراق.. توضيح من النفط",
-      "url": "https://964media.com/715405/",
-      "category": "عراق",
-      "published": "2026-09-09T13:36:14+00:00",
-      "breaking": false,
-      "watch_topics": []
     },
     {
       "title": "بريطانيا يجب أن تبذل المزيد لإبقاء حلم الدولة الفلسطينية حياً – الإندبندنت - شفق نيوز..",
@@ -114,10 +96,10 @@
       "watch_topics": []
     },
     {
-      "title": "أمازون تتجه لجمع 5.8 مليار دولار من أول إصدار لسنداتها بالجنيه الإسترليني",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575582/%D8%A3%D9%85%D8%A7%D8%B2%D9%88%D9%86-%D8%AA%D8%AA%D8%AC%D9%87-%D9%84%D8%AC%D9%85%D8%B9-58-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D9%86-%D8%A3%D9%88%D9%84-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D9%84%D8%B3%D9%86%D8%AF%D8%A7%D8%AA%D9%87%D8%A7-%D8%A8%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D9%87-%D8%A7%D9%84%D8%A5%D8%B3%D8%AA%D8%B1%D9%84%D9%8A",
+      "title": "طاقم السفينة بخير ولا تسرب من حمولتها في مياه العراق.. توضيح من النفط",
+      "url": "https://964media.com/715405/",
       "category": "عراق",
-      "published": "2026-09-09T14:05:24+00:00",
+      "published": "2026-09-09T13:36:14+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -234,6 +216,22 @@
       "watch_topics": []
     },
     {
+      "title": "بتهمة المحتوى الهابط.. قوة امنية تقبض على \"أبو شنب\"",
+      "url": "https://www.alsumaria.tv/news/localnews/575604/%d8%a8%d8%aa%d9%87%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%88%d9%89-%d8%a7%d9%84%d9%87%d8%a7%d8%a8%d8%b7-%d9%82%d9%88%d8%a9-%d8%a7%d9%85%d9%86%d9%8a%d8%a9-%d8%aa%d9%82%d8%a8%d8%b6-%d8%b9%d9%84%d9%89-quot%d8%a3%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Wed, 09 Sep 2026 15:57:35 GMT",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "تزامنا مع اعتقال قصاب الخنازير.. اجراءات في النجف (صور)",
+      "url": "https://www.alsumaria.tv/news/localnews/575603/%d8%aa%d8%b2%d8%a7%d9%85%d9%86%d8%a7-%d9%85%d8%b9-%d8%a7%d8%b9%d8%aa%d9%82%d8%a7%d9%84-%d9%82%d8%b5%d8%a7%d8%a8-%d8%a7%d9%84%d8%ae%d9%86%d8%a7%d8%b2%d9%8a%d8%b1-%d8%a7%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d8%ac%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Wed, 09 Sep 2026 15:54:19 GMT",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "السعودية: استهداف منشآت ومرافق للطاقة جنوب المملكة وتوقّف مؤقت لبعض العمليات التشغيلية",
       "url": "https://aawsat.com/node/5315860",
       "category": "مشرق أوسط",
@@ -323,6 +321,16 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "السعودية ودول إسلامية ترحب بحظر بريطانيا استيراد سلع إسرائيلية",
+      "url": "https://aawsat.com/node/5316506",
+      "category": "مشرق أوسط",
+      "published": "Wed, 09 Sep 2026 17:02:13 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {
@@ -448,14 +456,6 @@
       "watch_topics": []
     },
     {
-      "title": "تراجع انتشار الحوثيين في صنعاء مع اشتداد الجبهات",
-      "url": "https://aawsat.com/node/5316376",
-      "category": "مشرق أوسط",
-      "published": "Wed, 09 Sep 2026 11:48:35 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "روبيو: الولايات المتحدة ستواصل استهداف الناقلات الإيرانية",
       "url": "https://aawsat.com/node/5316212",
       "category": "دولي",
@@ -518,6 +518,16 @@
       "url": "https://aawsat.com/node/5316499",
       "category": "دولي",
       "published": "Wed, 09 Sep 2026 16:40:19 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "ترمب يُحيي ذكرى «11 سبتمبر» من البنتاغون... وفانس يمثّله في نيويورك",
+      "url": "https://aawsat.com/node/5316509",
+      "category": "دولي",
+      "published": "Wed, 09 Sep 2026 17:06:25 +0100",
       "breaking": false,
       "watch_topics": [
         "أمريكا"
@@ -618,14 +628,6 @@
       "published": "Wed, 09 Sep 2026 12:25:52 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "إلغاء نحو 1500 رحلة... خلل فني يُربك مطارات بريطانيا",
-      "url": "https://aawsat.com/node/5316339",
-      "category": "دولي",
-      "published": "Wed, 09 Sep 2026 10:19:12 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -650,14 +652,6 @@
       ]
     },
     {
-      "title": "اللحظات الأولى لاستهداف ناقلة النفط في المياه العراقية",
-      "url": "https://964media.com/715398/",
-      "category": "عراق",
-      "published": "2026-09-09T13:11:12+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "\"تحذير من محمد بن زايد قبل 7 أكتوبر\" يفجر أزمة في إسرائيل، ونتنياهو ينفي ويتجه إلى مقاضاة \"هآرتس\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cx2z9d4q5y8o",
       "category": "عراق",
@@ -670,6 +664,14 @@
       "url": "https://964media.com/715394/",
       "category": "عراق",
       "published": "2026-09-09T12:50:36+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "اللحظات الأولى لاستهداف ناقلة النفط في المياه العراقية",
+      "url": "https://964media.com/715398/",
+      "category": "عراق",
+      "published": "2026-09-09T13:11:12+00:00",
       "breaking": true,
       "watch_topics": []
     },
