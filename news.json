@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T15:20:57.921600+00:00",
+  "updated_at": "2026-09-09T15:37:54.252216+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -14,6 +14,21 @@
       "source_name": "التاسعة نيوز",
       "summary": "يعقد مجلس محافظة كركوك جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات، بينها استضافة مديري شرطة المحافظة والبلدية لبحث الملفات المطروحة على جدول أعمال المجلس.",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a8a5fb2ea351.html"
+    },
+    {
+      "title": "فيديو: رئيس الجمهورية معجب بمزرعة العتبة الحسينية.. كل أنواع التمور في “فدك” كربلاء",
+      "url": "https://964media.com/715448/",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-09T15:14:03+00:00",
+      "image": "./assets/news/553c6266e5c074d19182e9fe.jpg",
+      "original_image": "./assets/news/553c6266e5c074d19182e9fe.jpg",
+      "source_url": "https://964media.com/715448/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bdaa7808431d.html"
     },
     {
       "title": "إيران تهاجم قرار مجلس المحافظين: برنامجنا النووي عولج سياسياً لا فنياً",
@@ -51,8 +66,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-09T14:25:47+00:00",
-      "image": "./assets/news/f515c3ec6f787ae64820127f.jpg",
-      "original_image": "./assets/news/f515c3ec6f787ae64820127f.jpg",
+      "image": "./assets/news/214db4cbbf270ac407b9ce4f.jpg",
+      "original_image": "./assets/news/214db4cbbf270ac407b9ce4f.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/575588/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%8A%D8%B1%D9%81%D8%B9-%D8%AC%D9%84%D8%B3%D8%AA%D9%87-%D9%84%D9%8A%D9%88%D9%85-%D8%BA%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -91,19 +106,19 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e0220475271d.html"
     },
     {
-      "title": "رفع الساقين.. راحة مؤقتة لا تغني عن الحركة",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575577/%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B3%D8%A7%D9%82%D9%8A%D9%86-%D8%B1%D8%A7%D8%AD%D8%A9-%D9%85%D8%A4%D9%82%D8%AA%D8%A9-%D9%84%D8%A7-%D8%AA%D8%BA%D9%86%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D9%83%D8%A9",
-      "category": "سياسة",
+      "title": "فولكس فاغن تواجه التقشف وتستهدف إلغاء 50 ألف وظيفة",
+      "url": "https://www.alsumaria.tv/news/international/575598/%D9%81%D9%88%D9%84%D9%83%D8%B3-%D9%81%D8%A7%D8%BA%D9%86-%D8%AA%D9%88%D8%A7%D8%AC%D9%87-%D8%A7%D9%84%D8%AA%D9%82%D8%B4%D9%81-%D9%88%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-50-%D8%A3%D9%84%D9%81-%D9%88%D8%B8%D9%8A%D9%81%D8%A9",
+      "category": "رياضة",
       "region": "العراق",
-      "published": "2026-09-09T13:07:33+00:00",
-      "image": "./assets/news/f8960412eb01c1729581b433.webp",
-      "original_image": "./assets/news/f8960412eb01c1729581b433.webp",
-      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575577/%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B3%D8%A7%D9%82%D9%8A%D9%86-%D8%B1%D8%A7%D8%AD%D8%A9-%D9%85%D8%A4%D9%82%D8%AA%D8%A9-%D9%84%D8%A7-%D8%AA%D8%BA%D9%86%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D9%83%D8%A9",
+      "published": "2026-09-09T15:22:50+00:00",
+      "image": "./assets/news/e3de848367af93a0ea7bc803.jpg",
+      "original_image": "./assets/news/e3de848367af93a0ea7bc803.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575598/%D9%81%D9%88%D9%84%D9%83%D8%B3-%D9%81%D8%A7%D8%BA%D9%86-%D8%AA%D9%88%D8%A7%D8%AC%D9%87-%D8%A7%D9%84%D8%AA%D9%82%D8%B4%D9%81-%D9%88%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-50-%D8%A3%D9%84%D9%81-%D9%88%D8%B8%D9%8A%D9%81%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/056fa410dcd7.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2731a7cf2790.html"
     },
     {
       "title": "العراق في المستوى الثاني لقرعة كأس الخليج للناشئين تحت 17 عاماً",
@@ -166,6 +181,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d49da7bfd499.html"
     },
     {
+      "title": "بقيمة 1.9 مليار دولار.. تعرف على أكبر تسوية طلاق",
+      "url": "https://www.alsumaria.tv/news/international/575599/%D8%A8%D9%82%D9%8A%D9%85%D8%A9-19-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A3%D9%83%D8%A8%D8%B1-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D8%B7%D9%84%D8%A7%D9%82",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-09T15:12:39+00:00",
+      "image": "./assets/news/fe5059d73ee7d909b13dc801.jpg",
+      "original_image": "./assets/news/fe5059d73ee7d909b13dc801.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575599/%D8%A8%D9%82%D9%8A%D9%85%D8%A9-19-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A3%D9%83%D8%A8%D8%B1-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D8%B7%D9%84%D8%A7%D9%82",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a3f2d485bea2.html"
+    },
+    {
       "title": "ارتفاع قياسي سريع.. النفط يتجاوز الـ100 دولار للبرميل الواحد",
       "url": "https://www.alsumaria.tv/news/economy/575587/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A-%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%A7%D9%84%D9%80100-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF",
       "category": "اقتصاد",
@@ -196,21 +226,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5ab338416504.html"
     },
     {
-      "title": "طاقم السفينة بخير ولا تسرب من حمولتها في مياه العراق.. توضيح من النفط",
-      "url": "https://964media.com/715405/",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-09T13:36:14+00:00",
-      "image": "./assets/news/8b0449bb1d12ec7be9488704.jpg",
-      "original_image": "./assets/news/8b0449bb1d12ec7be9488704.jpg",
-      "source_url": "https://964media.com/715405/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/94c10bb22144.html"
-    },
-    {
       "title": "طائرات F16 العراقية تقصف أوكاراً لإرهابيين في وادي الشاي",
       "url": "https://964media.com/715394/",
       "category": "أمن",
@@ -231,8 +246,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-09T15:11:11+00:00",
-      "image": "./assets/news/71b6ceda8eaee63058ebb456.jpg",
-      "original_image": "./assets/news/71b6ceda8eaee63058ebb456.jpg",
+      "image": "./assets/news/0ba84bf8d3def8e72d514ccd.jpg",
+      "original_image": "./assets/news/0ba84bf8d3def8e72d514ccd.jpg",
       "source_url": "https://www.alsumaria.tv/news/miscellaneous/575597/%D9%85%D8%B5%D8%B1-%D8%AA%D9%8A%D9%83-%D8%AA%D9%88%D9%83-%D9%8A%D8%AD%D8%B0%D9%81-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-36-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%88%D9%8A%D8%AD%D8%B8%D8%B1-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -329,6 +344,21 @@
       "kirkuk": false,
       "report": true,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/79b1668a9c85.html"
+    },
+    {
+      "title": "طاقم السفينة بخير ولا تسرب من حمولتها في مياه العراق.. توضيح من النفط",
+      "url": "https://964media.com/715405/",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-09T13:36:14+00:00",
+      "image": "./assets/news/8b0449bb1d12ec7be9488704.jpg",
+      "original_image": "./assets/news/8b0449bb1d12ec7be9488704.jpg",
+      "source_url": "https://964media.com/715405/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/94c10bb22144.html"
     },
     {
       "title": "اللحظات الأولى لاستهداف ناقلة النفط في المياه العراقية",
