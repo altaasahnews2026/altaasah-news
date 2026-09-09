@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T09:59:39.877069+00:00",
+  "updated_at": "2026-09-09T10:19:43.353827+00:00",
   "latest": [
     {
       "title": "الحرس الثوري الإيراني يعلن استهداف 20 سفينة في مضيق هرمز",
@@ -22,6 +22,14 @@
       ]
     },
     {
+      "title": "سوريا.. إصابة 8 أشخاص بانفجار مستودع ذخيرة شمالي إدلب",
+      "url": "https://www.alsumaria.tv/news/international/575560/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-8-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B3%D8%AA%D9%88%D8%AF%D8%B9-%D8%B0%D8%AE%D9%8A%D8%B1%D8%A9-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8",
+      "category": "عراق",
+      "published": "2026-09-09T10:11:19+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "رقابة أبوية أذكى وتحديد مواقع الأجهزة.. تحديثات جديدة لغوغل!",
       "url": "https://www.alsumaria.tv/news/miscellaneous/575555/%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A3%D8%A8%D9%88%D9%8A%D8%A9-%D8%A3%D8%B0%D9%83%D9%89-%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%BA%D9%88%D8%BA%D9%84",
       "category": "عراق",
@@ -40,28 +48,10 @@
       ]
     },
     {
-      "title": "العراق يستعد لبدء تشغيل الربط مع السعودية كهربائيا",
-      "url": "https://www.alsumaria.tv/news/localnews/575455/%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%8a%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a8%d8%af%d8%a1-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-%d8%a7%d9%84%d8%b1%d8%a8%d8%b7-%d9%85%d8%b9-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a6%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-      "category": "عراق",
-      "published": "Wed, 09 Sep 2026 06:30:25 GMT",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "هل في بيتنا \"ابن مفضل\"؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cx2rxdjdgy7o",
       "category": "عراق",
       "published": "2026-09-09T06:32:58+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "حرارة أربعينية في معظم المدن.. دهوك والسليمانية الأقل بـ 35",
-      "url": "https://964media.com/715225/",
-      "category": "عراق",
-      "published": "2026-09-09T06:48:50+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -234,6 +224,14 @@
       "watch_topics": []
     },
     {
+      "title": "النزاهة تتحرى جباية امانة بغداد: (41) ألف مكلفٍ امتنعوا تسديد الرسوم المترتبة بذمتهم",
+      "url": "https://www.alsumaria.tv/news/localnews/575458/%d8%a7%d9%84%d9%86%d8%b2%d8%a7%d9%87%d8%a9-%d8%aa%d8%aa%d8%ad%d8%b1%d9%89-%d8%ac%d8%a8%d8%a7%d9%8a%d8%a9-%d8%a7%d9%85%d8%a7%d9%86%d8%a9-%d8%a8%d8%ba%d8%af%d8%a7%d8%af-41-%d8%a3%d9%84%d9%81-%d9%85%d9%83%d9%84%d9%81%d9%8d-%d8%a7%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Wed, 09 Sep 2026 07:23:53 GMT",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "السعودية: استهداف منشآت ومرافق للطاقة جنوب المملكة وتوقّف مؤقت لبعض العمليات التشغيلية",
       "url": "https://aawsat.com/node/5315860",
       "category": "مشرق أوسط",
@@ -310,16 +308,6 @@
       "url": "https://aawsat.com/node/5315937",
       "category": "مشرق أوسط",
       "published": "Tue, 08 Sep 2026 10:58:06 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "«الجامعة العربية» لإصدار قرار بشأن الاعتداءات الإيرانية",
-      "url": "https://aawsat.com/node/5315064",
-      "category": "مشرق أوسط",
-      "published": "Sat, 05 Sep 2026 17:31:46 +0100",
       "breaking": false,
       "watch_topics": [
         "إيران"
@@ -416,6 +404,22 @@
       ]
     },
     {
+      "title": "القوات المسلحة اليمنية تخوض معارك ضارية غرب تعز وتتحرك في مأرب",
+      "url": "https://aawsat.com/node/5316361",
+      "category": "مشرق أوسط",
+      "published": "Wed, 09 Sep 2026 11:17:15 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "غروندبرغ يدين هجمات الحوثيين ويطالب بوقفها",
+      "url": "https://aawsat.com/node/5316358",
+      "category": "مشرق أوسط",
+      "published": "Wed, 09 Sep 2026 11:06:57 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "محللون لـ«الشرق الأوسط»: تنسيق سعودي وتمكين للحكومة اليمنية لإعادة رسم ميزان القوى",
       "url": "https://aawsat.com/node/5316033",
       "category": "مشرق أوسط",
@@ -444,14 +448,6 @@
       "url": "https://aawsat.com/node/5315977",
       "category": "مشرق أوسط",
       "published": "Tue, 08 Sep 2026 12:41:01 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "قوات الحكومة اليمنية توسًع مكاسبها في الجوف بتحرير اليتمة",
-      "url": "https://aawsat.com/node/5315974",
-      "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 12:33:15 +0100",
       "breaking": false,
       "watch_topics": []
     },
@@ -648,6 +644,14 @@
       "watch_topics": [
         "إيران"
       ]
+    },
+    {
+      "title": "سوريا.. إصابة 8 أشخاص بانفجار مستودع ذخيرة شمالي إدلب",
+      "url": "https://www.alsumaria.tv/news/international/575560/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-8-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B3%D8%AA%D9%88%D8%AF%D8%B9-%D8%B0%D8%AE%D9%8A%D8%B1%D8%A9-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8",
+      "category": "عراق",
+      "published": "2026-09-09T10:11:19+00:00",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "رقابة أبوية أذكى وتحديد مواقع الأجهزة.. تحديثات جديدة لغوغل!",
