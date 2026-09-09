@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T13:42:16.693469+00:00",
+  "updated_at": "2026-09-09T13:56:09.972754+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -166,6 +166,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d49da7bfd499.html"
     },
     {
+      "title": "طاقم السفينة بخير ولا تسرب من حمولتها في مياه العراق.. توضيح من النفط",
+      "url": "https://964media.com/715405/",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-09T13:36:14+00:00",
+      "image": "./assets/news/8b0449bb1d12ec7be9488704.jpg",
+      "original_image": "./assets/news/8b0449bb1d12ec7be9488704.jpg",
+      "source_url": "https://964media.com/715405/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/94c10bb22144.html"
+    },
+    {
       "title": "شاهد: اللحظات الأولى لاستهداف ناقلة النفط في المياه العراقية",
       "url": "https://964media.com/715398/",
       "category": "اقتصاد",
@@ -194,21 +209,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a28fa12b8afb.html"
-    },
-    {
-      "title": "العراق يطالب بكسر السقف المسموح وإنتاج 6 ملايين برميل نفط يومياً",
-      "url": "https://964media.com/715294/",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-09T09:35:07+00:00",
-      "image": "./assets/news/c5520e2c02fb8902a19001d4.jpg",
-      "original_image": "./assets/news/c5520e2c02fb8902a19001d4.jpg",
-      "source_url": "https://964media.com/715294/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ccafe0aa1140.html"
     },
     {
       "title": "سوريا.. إصابة 8 أشخاص بانفجار مستودع ذخيرة شمالي إدلب",
@@ -256,6 +256,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fe2d523f9980.html"
     },
     {
+      "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتكشف عن منطقة حظر بحري خارج مضيق هرمز - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cvgyp0j92z5o",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-09T13:34:47+00:00",
+      "image": "./assets/news/cef119c454e31366fdfaa6bb.jpg",
+      "original_image": "./assets/news/cef119c454e31366fdfaa6bb.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cvgyp0j92z5o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/929d6edd6f80.html"
+    },
+    {
       "title": "بريطانيا يجب أن تبذل المزيد لإبقاء حلم الدولة الفلسطينية حياً – الإندبندنت - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c23xp15yyz8o",
       "category": "عربي ودولي",
@@ -269,21 +284,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bfb9a4d799d5.html"
-    },
-    {
-      "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتكشف عن منطقة حظر بحري خارج مضيق هرمز - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cvgyp0j92z5o",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-09T12:40:59+00:00",
-      "image": "./assets/news/cef119c454e31366fdfaa6bb.jpg",
-      "original_image": "./assets/news/cef119c454e31366fdfaa6bb.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cvgyp0j92z5o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/661147c34257.html"
     },
     {
       "title": "\"تحذير من محمد بن زايد قبل 7 أكتوبر\" يفجر أزمة في إسرائيل، ونتنياهو ينفي ويتجه إلى مقاضاة \"هآرتس\" - شفق نيوز..",
