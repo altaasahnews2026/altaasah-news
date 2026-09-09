@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T05:46:43.865980+00:00",
+  "updated_at": "2026-09-09T05:58:36.991845+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -21,8 +21,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-09T05:21:00+00:00",
-      "image": "./assets/news/643b8903c4a7bac7470deaf9.jpg",
-      "original_image": "./assets/news/643b8903c4a7bac7470deaf9.jpg",
+      "image": "./assets/news/db44ef68efc77aa206a49058.jpg",
+      "original_image": "./assets/news/db44ef68efc77aa206a49058.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/575450/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D9%8F%D9%84%D9%82%D9%8A-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%B9%D8%A7%D9%85%D9%84-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D8%B3%D8%B1%D9%82-18-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%85%D9%86-%D9%85%D8%AD%D8%B7%D8%A9-%D9%88%D9%82%D9%88%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -119,21 +119,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e5439c89947b.html"
-    },
-    {
-      "title": "منظومة جديدة للبطاقة الوطنية في فرانكفورت.. خطوة لتسريع معاملات العراقيين بأوروبا",
-      "url": "https://964media.com/715139/",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-08T17:40:27+00:00",
-      "image": "./assets/news/f404e798dfc4df0fd669523e.jpg",
-      "original_image": "./assets/news/f404e798dfc4df0fd669523e.jpg",
-      "source_url": "https://964media.com/715139/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cd53b430694d.html"
     },
     {
       "title": "قصف أمريكي يستهدف ناقلة نفط إيرانية قرب خارك",
