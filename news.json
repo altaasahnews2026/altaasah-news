@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T13:24:14.047687+00:00",
+  "updated_at": "2026-09-09T13:42:16.693469+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -51,8 +51,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-09T12:59:13+00:00",
-      "image": "./assets/news/5081147131fa9d21e706c213.jpg",
-      "original_image": "./assets/news/5081147131fa9d21e706c213.jpg",
+      "image": "./assets/news/9b6704fff9a745e0392cbd4c.jpg",
+      "original_image": "./assets/news/9b6704fff9a745e0392cbd4c.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/575575/%D8%A7%D9%84%D8%AD%D9%84%D8%A8%D9%88%D8%B3%D9%8A-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%81%D9%8A-%D8%A3%D9%86%D9%82%D8%B1%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -166,6 +166,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d49da7bfd499.html"
     },
     {
+      "title": "شاهد: اللحظات الأولى لاستهداف ناقلة النفط في المياه العراقية",
+      "url": "https://964media.com/715398/",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-09T13:11:12+00:00",
+      "image": "./assets/news/7a13de9e6451ab75da00e197.jpg",
+      "original_image": "./assets/news/7a13de9e6451ab75da00e197.jpg",
+      "source_url": "https://964media.com/715398/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/27670c3469e8.html"
+    },
+    {
       "title": "استهداف ناقلة نفط أجنبية بطائرة مسيرة في المياه الإقليمية العراقية",
       "url": "https://www.alsumaria.tv/news/security/575562/%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D8%A8%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
       "category": "اقتصاد",
@@ -245,7 +260,7 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c23xp15yyz8o",
       "category": "عربي ودولي",
       "region": "عربي ودولي",
-      "published": "2026-09-09T12:58:00+00:00",
+      "published": "2026-09-09T13:19:37+00:00",
       "image": "./assets/news/6173ac5e12252ef24956f492.jpg",
       "original_image": "./assets/news/6173ac5e12252ef24956f492.jpg",
       "source_url": "https://shafaq.com/ar/bbc-arabic/c23xp15yyz8o",
@@ -253,7 +268,7 @@
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ed54f6b36ff5.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bfb9a4d799d5.html"
     },
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتكشف عن منطقة حظر بحري خارج مضيق هرمز - شفق نيوز..",
@@ -344,21 +359,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6a2e1b281b25.html"
-    },
-    {
-      "title": "فيديو: خريجات الهندسة والعلوم يجبن شوارع البصرة بأعلام العراق لطلب التعيين",
-      "url": "https://964media.com/715268/",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-09T09:18:42+00:00",
-      "image": "./assets/news/0d6f814028f771f9ef68103e.jpg",
-      "original_image": "./assets/news/0d6f814028f771f9ef68103e.jpg",
-      "source_url": "https://964media.com/715268/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/37330052dace.html"
     }
   ]
 }
