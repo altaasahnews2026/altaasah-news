@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T16:57:47.834510+00:00",
+  "updated_at": "2026-09-09T17:15:38.608961+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -14,6 +14,36 @@
       "source_name": "التاسعة نيوز",
       "summary": "يعقد مجلس محافظة كركوك جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات، بينها استضافة مديري شرطة المحافظة والبلدية لبحث الملفات المطروحة على جدول أعمال المجلس.",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a8a5fb2ea351.html"
+    },
+    {
+      "title": "تحرك برلماني لاحالة محافظ بغداد على التقاعد",
+      "url": "https://www.alsumaria.tv/news/politics/575610/%D8%AA%D8%AD%D8%B1%D9%83-%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D9%84%D8%A7%D8%AD%D8%A7%D9%84%D8%A9-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B9%D8%AF",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-09T17:03:50+00:00",
+      "image": "./assets/news/3fb1f858e2f2f95f4cefe37d.jpg",
+      "original_image": "./assets/news/3fb1f858e2f2f95f4cefe37d.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/575610/%D8%AA%D8%AD%D8%B1%D9%83-%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D9%84%D8%A7%D8%AD%D8%A7%D9%84%D8%A9-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B9%D8%AF",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/696ce39acf78.html"
+    },
+    {
+      "title": "ترامب يدرس تغيير الفريق التفاوضي للملف الأوكراني",
+      "url": "https://www.alsumaria.tv/news/international/575611/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AF%D8%B1%D8%B3-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%B6%D9%8A-%D9%84%D9%84%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-09T17:02:41+00:00",
+      "image": "./assets/news/911401e045d676207a7f132b.jpg",
+      "original_image": "./assets/news/911401e045d676207a7f132b.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575611/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AF%D8%B1%D8%B3-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%B6%D9%8A-%D9%84%D9%84%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/16e0207be16a.html"
     },
     {
       "title": "توتر في دوما السورية.. أهالٍ يقتحمون مركز احتجاز للإفراج عن شاب ووالده",
@@ -76,51 +106,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bdaa7808431d.html"
     },
     {
-      "title": "إيران تهاجم قرار مجلس المحافظين: برنامجنا النووي عولج سياسياً لا فنياً",
-      "url": "https://www.alsumaria.tv/news/international/575590/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%87%D8%A7%D8%AC%D9%85-%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D9%8A%D9%86-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC%D9%86%D8%A7-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D8%B9%D9%88%D9%84%D8%AC-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7%D9%8B-%D9%84%D8%A7-%D9%81%D9%86%D9%8A%D8%A7%D9%8B",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-09T14:35:02+00:00",
-      "image": "./assets/news/a6052e745093fffb3b372703.webp",
-      "original_image": "./assets/news/a6052e745093fffb3b372703.webp",
-      "source_url": "https://www.alsumaria.tv/news/international/575590/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%87%D8%A7%D8%AC%D9%85-%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D9%8A%D9%86-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC%D9%86%D8%A7-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D8%B9%D9%88%D9%84%D8%AC-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7%D9%8B-%D9%84%D8%A7-%D9%81%D9%86%D9%8A%D8%A7%D9%8B",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/488cea178b39.html"
-    },
-    {
-      "title": "عادات منزلية بسيطة لتلافي حرقة المعدة",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575589/%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA-%D9%85%D9%86%D8%B2%D9%84%D9%8A%D8%A9-%D8%A8%D8%B3%D9%8A%D8%B7%D8%A9-%D9%84%D8%AA%D9%84%D8%A7%D9%81%D9%8A-%D8%AD%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%AF%D8%A9",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-09T14:30:17+00:00",
-      "image": "./assets/news/56aae6ee9680a35991c40fcb.jpg",
-      "original_image": "./assets/news/56aae6ee9680a35991c40fcb.jpg",
-      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575589/%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA-%D9%85%D9%86%D8%B2%D9%84%D9%8A%D8%A9-%D8%A8%D8%B3%D9%8A%D8%B7%D8%A9-%D9%84%D8%AA%D9%84%D8%A7%D9%81%D9%8A-%D8%AD%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%AF%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a1f3987141ce.html"
-    },
-    {
-      "title": "لماذا قد يكون اتساخ يديك أمراً جيداً بالنسبة لك؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c624w5dwp99o",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-09T10:42:44+00:00",
-      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c624w5dwp99o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ff8660d8d8f1.html"
-    },
-    {
       "title": "تشكيلة برشلونة في مباراة اليوم",
       "url": "https://www.alsumaria.tv/Entertainment-News/575605/sports/%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%81%D9%8A-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
       "category": "رياضة",
@@ -179,21 +164,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/113f4912a52d.html"
-    },
-    {
-      "title": "النقل تؤكد إصابة ناقلة النفط العراقي وتبدأ التحقق من مصدر الهجوم",
-      "url": "https://964media.com/715373/",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-09T12:03:45+00:00",
-      "image": "./assets/news/09105e938f6a525becd87b79.jpg",
-      "original_image": "./assets/news/09105e938f6a525becd87b79.jpg",
-      "source_url": "https://964media.com/715373/",
-      "source_name": "شبكة 964",
-      "breaking": true,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d49da7bfd499.html"
     },
     {
       "title": "الطاقة الأميركية ترفع توقعاتها لسعر برنت إلى 91 دولاراً في 2026",
@@ -301,6 +271,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bdf551ce1738.html"
     },
     {
+      "title": "كيف ترى تركيا اتفاقية \"درع أخيل\" اليونانية-الإسرائيلية؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cwyz0xe1kggo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-09T16:48:18+00:00",
+      "image": "./assets/news/db6c927875e2af25ac91de80.jpg",
+      "original_image": "./assets/news/db6c927875e2af25ac91de80.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cwyz0xe1kggo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/614a799318e1.html"
+    },
+    {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتكشف عن منطقة حظر بحري خارج مضيق هرمز - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cvgyp0j92z5o",
       "category": "عربي ودولي",
@@ -374,6 +359,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/be9848e66df3.html"
+    },
+    {
+      "title": "العلاقات البريطانية الإسرائيلية في أدنى مستوياتها منذ عقود - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/czdz0gl2e3vo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-09T11:02:11+00:00",
+      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/czdz0gl2e3vo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5a623524e0a6.html"
     }
   ]
 }
