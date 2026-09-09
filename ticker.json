@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T05:15:07.603353+00:00",
+  "updated_at": "2026-09-09T05:31:13.485727+00:00",
   "latest": [
     {
       "title": "إنذارات سعودية جديدة \"للتحذير من خطر\" بعد هجمات الحوثيين، والخارجية الأمريكية تحمّل إيران المسؤولية - شفق نيوز..",
@@ -86,16 +86,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cm2mk06lzkro",
       "category": "عراق",
       "published": "2026-09-09T03:52:30+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "العراق يتسلم بلال المالكي من إيران",
-      "url": "https://www.alsumaria.tv/news/politics/575427/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AA%D8%B3%D9%84%D9%85-%D8%A8%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A-%D9%85%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
-      "category": "عراق",
-      "published": "2026-09-08T17:44:16+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
@@ -220,6 +210,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/ckg8e5lv099o",
       "category": "عراق",
       "published": "2026-09-08T23:23:52+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الاستخبارات تُلقي القبض على عامل أجنبي سرق 18 مليون دينار من محطة وقود بكربلاء",
+      "url": "https://www.alsumaria.tv/news/security/575450/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D9%8F%D9%84%D9%82%D9%8A-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%B9%D8%A7%D9%85%D9%84-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D8%B3%D8%B1%D9%82-18-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%85%D9%86-%D9%85%D8%AD%D8%B7%D8%A9-%D9%88%D9%82%D9%88%D8%AF",
+      "category": "عراق",
+      "published": "2026-09-09T05:21:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
