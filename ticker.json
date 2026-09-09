@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-09-09T16:08:19.305235+00:00",
+  "updated_at": "2026-09-09T16:28:06.700754+00:00",
   "latest": [
-    {
-      "title": "عناصر حوثية في العراق شاركت مع الفصائل بقصف السعودية في تموز – تقرير أميركي",
-      "url": "https://964media.com/715332/",
-      "category": "عراق",
-      "published": "2026-09-09T11:46:52+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتكشف عن منطقة حظر بحري خارج مضيق هرمز - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cvgyp0j92z5o",
@@ -20,6 +10,25 @@
       "watch_topics": [
         "إيران"
       ]
+    },
+    {
+      "title": "المارينز فوق جزر إيران.. البنتاغون يدرس إنزالاً خاطفاً على هرمز",
+      "url": "https://www.alsumaria.tv/news/international/575607/%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D9%8A%D9%86%D8%B2-%D9%81%D9%88%D9%82-%D8%AC%D8%B2%D8%B1-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%8A%D8%AF%D8%B1%D8%B3-%D8%A5%D9%86%D8%B2%D8%A7%D9%84%D8%A7%D9%8B-%D8%AE%D8%A7%D8%B7%D9%81%D8%A7%D9%8B-%D8%B9%D9%84%D9%89-%D9%87%D8%B1%D9%85%D8%B2",
+      "category": "عراق",
+      "published": "2026-09-09T16:20:47+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "اللحظات الأولى لاستهداف ناقلة النفط في المياه العراقية",
+      "url": "https://964media.com/715398/",
+      "category": "عراق",
+      "published": "2026-09-09T13:11:12+00:00",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "\"تحذير من محمد بن زايد قبل 7 أكتوبر\" يفجر أزمة في إسرائيل، ونتنياهو ينفي ويتجه إلى مقاضاة \"هآرتس\" - شفق نيوز..",
@@ -34,14 +43,6 @@
       "url": "https://964media.com/715394/",
       "category": "عراق",
       "published": "2026-09-09T12:50:36+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "اللحظات الأولى لاستهداف ناقلة النفط في المياه العراقية",
-      "url": "https://964media.com/715398/",
-      "category": "عراق",
-      "published": "2026-09-09T13:11:12+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -68,14 +69,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c23xp15yyz8o",
       "category": "عراق",
       "published": "2026-09-09T13:19:37+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الوكالة الذرية ترفع بند عدم الامتثال عن سوريا",
-      "url": "https://www.alsumaria.tv/news/international/575586/%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B0%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%81%D8%B9-%D8%A8%D9%86%D8%AF-%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AB%D8%A7%D9%84-%D8%B9%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-      "category": "عراق",
-      "published": "2026-09-09T14:14:09+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -120,10 +113,10 @@
       "watch_topics": []
     },
     {
-      "title": "رودري يعتذر لنادي فالنسيا",
-      "url": "https://www.alsumaria.tv/Entertainment-News/575585/sports/%D8%B1%D9%88%D8%AF%D8%B1%D9%8A-%D9%8A%D8%B9%D8%AA%D8%B0%D8%B1-%D9%84%D9%86%D8%A7%D8%AF%D9%8A-%D9%81%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D8%A7",
+      "title": "الطاقة الأميركية ترفع توقعاتها لسعر برنت إلى 91 دولاراً في 2026",
+      "url": "https://www.alsumaria.tv/news/economy/575606/%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%B1%D9%81%D8%B9-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA%D9%87%D8%A7-%D9%84%D8%B3%D8%B9%D8%B1-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A5%D9%84%D9%89-91-%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7%D9%8B-%D9%81%D9%8A-2026",
       "category": "عراق",
-      "published": "2026-09-09T14:19:53+00:00",
+      "published": "2026-09-09T15:59:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -152,18 +145,18 @@
       "watch_topics": []
     },
     {
-      "title": "لماذا قد يكون اتساخ يديك أمراً جيداً بالنسبة لك؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c624w5dwp99o",
+      "title": "تشكيلة برشلونة في مباراة اليوم",
+      "url": "https://www.alsumaria.tv/Entertainment-News/575605/sports/%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%81%D9%8A-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
       "category": "عراق",
-      "published": "2026-09-09T10:42:44+00:00",
+      "published": "2026-09-09T16:08:12+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "انهيار جزء من منزل فنان شهير",
-      "url": "https://www.alsumaria.tv/news/artculture/575584/%D8%A7%D9%86%D9%87%D9%8A%D8%A7%D8%B1-%D8%AC%D8%B2%D8%A1-%D9%85%D9%86-%D9%85%D9%86%D8%B2%D9%84-%D9%81%D9%86%D8%A7%D9%86-%D8%B4%D9%87%D9%8A%D8%B1",
+      "title": "لماذا قد يكون اتساخ يديك أمراً جيداً بالنسبة لك؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c624w5dwp99o",
       "category": "عراق",
-      "published": "2026-09-09T14:16:30+00:00",
+      "published": "2026-09-09T10:42:44+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -228,6 +221,14 @@
       "url": "https://www.alsumaria.tv/news/localnews/575603/%d8%aa%d8%b2%d8%a7%d9%85%d9%86%d8%a7-%d9%85%d8%b9-%d8%a7%d8%b9%d8%aa%d9%82%d8%a7%d9%84-%d9%82%d8%b5%d8%a7%d8%a8-%d8%a7%d9%84%d8%ae%d9%86%d8%a7%d8%b2%d9%8a%d8%b1-%d8%a7%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d9%86%d8%ac%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
       "category": "عراق",
       "published": "Wed, 09 Sep 2026 15:54:19 GMT",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "هيئة الاعلام تقرر تمديد منع الظهور الإعلامي لعماد باجلان 90 يوماً",
+      "url": "https://www.alsumaria.tv/news/localnews/575595/%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85-%d8%aa%d9%82%d8%b1%d8%b1-%d8%aa%d9%85%d8%af%d9%8a%d8%af-%d9%85%d9%86%d8%b9-%d8%a7%d9%84%d8%b8%d9%87%d9%88%d8%b1-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a-%d9%84%d8%b9%d9%85%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Wed, 09 Sep 2026 14:56:34 GMT",
       "breaking": false,
       "watch_topics": []
     },
@@ -632,16 +633,6 @@
   ],
   "breaking": [
     {
-      "title": "عناصر حوثية في العراق شاركت مع الفصائل بقصف السعودية في تموز – تقرير أميركي",
-      "url": "https://964media.com/715332/",
-      "category": "عراق",
-      "published": "2026-09-09T11:46:52+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتكشف عن منطقة حظر بحري خارج مضيق هرمز - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cvgyp0j92z5o",
       "category": "عراق",
@@ -650,6 +641,14 @@
       "watch_topics": [
         "إيران"
       ]
+    },
+    {
+      "title": "اللحظات الأولى لاستهداف ناقلة النفط في المياه العراقية",
+      "url": "https://964media.com/715398/",
+      "category": "عراق",
+      "published": "2026-09-09T13:11:12+00:00",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "\"تحذير من محمد بن زايد قبل 7 أكتوبر\" يفجر أزمة في إسرائيل، ونتنياهو ينفي ويتجه إلى مقاضاة \"هآرتس\" - شفق نيوز..",
@@ -664,14 +663,6 @@
       "url": "https://964media.com/715394/",
       "category": "عراق",
       "published": "2026-09-09T12:50:36+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "اللحظات الأولى لاستهداف ناقلة النفط في المياه العراقية",
-      "url": "https://964media.com/715398/",
-      "category": "عراق",
-      "published": "2026-09-09T13:11:12+00:00",
       "breaking": true,
       "watch_topics": []
     },
