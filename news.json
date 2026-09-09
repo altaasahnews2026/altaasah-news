@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:22:48.346879+00:00",
+  "updated_at": "2026-09-09T11:38:46.215109+00:00",
   "items": [
     {
       "title": "مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية",
@@ -21,14 +21,44 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-09T10:55:20+00:00",
-      "image": "./assets/news/ba5caeaabcf26ea2f547c04f.jpg",
-      "original_image": "./assets/news/ba5caeaabcf26ea2f547c04f.jpg",
+      "image": "./assets/news/641b2bb526adffb755ede69b.jpg",
+      "original_image": "./assets/news/641b2bb526adffb755ede69b.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575564/%D8%A7%D9%84%D8%AF%D9%88%D8%AD%D8%A9-%D8%AA%D8%B9%D9%84%D9%91%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%AE%D8%B1%D9%82-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": true,
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fda35fca8332.html"
+    },
+    {
+      "title": "مجلس النواب يعقد جلسته الـ17 من الفصل التشريعي الثاني",
+      "url": "https://www.alsumaria.tv/news/politics/575567/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%8A%D8%B9%D9%82%D8%AF-%D8%AC%D9%84%D8%B3%D8%AA%D9%87-%D8%A7%D9%84%D9%8017-%D9%85%D9%86-%D8%A7%D9%84%D9%81%D8%B5%D9%84-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-09T11:32:58+00:00",
+      "image": "./assets/news/8cfece36e2c449cefd3b694c.jpg",
+      "original_image": "./assets/news/8cfece36e2c449cefd3b694c.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/575567/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%8A%D8%B9%D9%82%D8%AF-%D8%AC%D9%84%D8%B3%D8%AA%D9%87-%D8%A7%D9%84%D9%8017-%D9%85%D9%86-%D8%A7%D9%84%D9%81%D8%B5%D9%84-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d7f0b2856123.html"
+    },
+    {
+      "title": "القاضي زيدان يبحث مع الجبوري أوضاع صلاح الدين وملف مكافحة الإدمان",
+      "url": "https://www.alsumaria.tv/news/politics/575566/%D8%A7%D9%84%D9%82%D8%A7%D8%B6%D9%8A-%D8%B2%D9%8A%D8%AF%D8%A7%D9%86-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%A7%D9%84%D8%AC%D8%A8%D9%88%D8%B1%D9%8A-%D8%A3%D9%88%D8%B6%D8%A7%D8%B9-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D9%88%D9%85%D9%84%D9%81-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%AF%D9%85%D8%A7%D9%86",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-09T11:26:25+00:00",
+      "image": "./assets/news/e74ce3c0036c0707f9860dc3.jpg",
+      "original_image": "./assets/news/e74ce3c0036c0707f9860dc3.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/575566/%D8%A7%D9%84%D9%82%D8%A7%D8%B6%D9%8A-%D8%B2%D9%8A%D8%AF%D8%A7%D9%86-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%A7%D9%84%D8%AC%D8%A8%D9%88%D8%B1%D9%8A-%D8%A3%D9%88%D8%B6%D8%A7%D8%B9-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D9%88%D9%85%D9%84%D9%81-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%AF%D9%85%D8%A7%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/75af3a868916.html"
     },
     {
       "title": "لماذا قد يكون اتساخ يديك أمراً جيداً بالنسبة لك؟ - شفق نيوز..",
@@ -106,36 +136,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0a28b82c71cf.html"
     },
     {
-      "title": "رقابة أبوية أذكى وتحديد مواقع الأجهزة.. تحديثات جديدة لغوغل!",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575555/%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A3%D8%A8%D9%88%D9%8A%D8%A9-%D8%A3%D8%B0%D9%83%D9%89-%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%BA%D9%88%D8%BA%D9%84",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-09T09:11:59+00:00",
-      "image": "./assets/news/12547bb9b6f5a3ba89e3ed0b.webp",
-      "original_image": "./assets/news/12547bb9b6f5a3ba89e3ed0b.webp",
-      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575555/%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A3%D8%A8%D9%88%D9%8A%D8%A9-%D8%A3%D8%B0%D9%83%D9%89-%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%BA%D9%88%D8%BA%D9%84",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/65b506a064da.html"
-    },
-    {
-      "title": "اجتماع قضائي لمناقشة ملف المحكومين الأجانب المنقولين من سوريا إلى العراق",
-      "url": "https://www.alsumaria.tv/news/politics/575529/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%88%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D9%82%D9%88%D9%84%D9%8A%D9%86-%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-09T08:51:45+00:00",
-      "image": "./assets/news/ecfefacdd85842863a87d18c.jpg",
-      "original_image": "./assets/news/ecfefacdd85842863a87d18c.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/575529/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%88%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D9%82%D9%88%D9%84%D9%8A%D9%86-%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": true,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8f90193c86ce.html"
-    },
-    {
       "title": "الأسطورة ميسي يقترب من الاستحواذ الكامل على نادٍ إسباني",
       "url": "https://www.alsumaria.tv/Entertainment-News/575556/sports/%D8%A7%D9%84%D8%A3%D8%B3%D8%B7%D9%88%D8%B1%D8%A9-%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D9%88%D8%A7%D8%B0-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84-%D8%B9%D9%84%D9%89-%D9%86%D8%A7%D8%AF%D9%8D-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A",
       "category": "رياضة",
@@ -196,19 +196,19 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a28fa12b8afb.html"
     },
     {
-      "title": "الدولار يتجاوز الـ156.. الاسعار مستمرة بالارتفاع",
-      "url": "https://www.alsumaria.tv/news/economy/575475/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%A7%D9%84%D9%80156-%D8%A7%D9%84%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9",
+      "title": "العراق يطالب بكسر السقف المسموح وإنتاج 6 ملايين برميل نفط يومياً",
+      "url": "https://964media.com/715294/",
       "category": "اقتصاد",
       "region": "العراق",
-      "published": "2026-09-09T08:02:09+00:00",
-      "image": "./assets/news/5eabae044976f1d3fa380e95.jpg",
-      "original_image": "./assets/news/5eabae044976f1d3fa380e95.jpg",
-      "source_url": "https://www.alsumaria.tv/news/economy/575475/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%A7%D9%84%D9%80156-%D8%A7%D9%84%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9",
-      "source_name": "السومرية نيوز",
+      "published": "2026-09-09T09:35:07+00:00",
+      "image": "./assets/news/c5520e2c02fb8902a19001d4.jpg",
+      "original_image": "./assets/news/c5520e2c02fb8902a19001d4.jpg",
+      "source_url": "https://964media.com/715294/",
+      "source_name": "شبكة 964",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/17cd75affea3.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ccafe0aa1140.html"
     },
     {
       "title": "إيران تعلن استهداف حظائر عسكرية أمريكية في الأردن، وتطالب طواقم ناقلات نفط في الكويت والبحرين بـ\"مغادرة سفنهم فوراً\" - شفق نيوز..",
@@ -286,6 +286,51 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fe2d523f9980.html"
     },
     {
+      "title": "فيديو: خريجات الهندسة والعلوم يجبن شوارع البصرة بأعلام العراق لطلب التعيين",
+      "url": "https://964media.com/715268/",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-09T09:18:42+00:00",
+      "image": "./assets/news/0d6f814028f771f9ef68103e.jpg",
+      "original_image": "./assets/news/0d6f814028f771f9ef68103e.jpg",
+      "source_url": "https://964media.com/715268/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/37330052dace.html"
+    },
+    {
+      "title": "رقابة أبوية أذكى وتحديد مواقع الأجهزة.. تحديثات جديدة لغوغل!",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/575555/%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A3%D8%A8%D9%88%D9%8A%D8%A9-%D8%A3%D8%B0%D9%83%D9%89-%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%BA%D9%88%D8%BA%D9%84",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-09T09:11:59+00:00",
+      "image": "./assets/news/12547bb9b6f5a3ba89e3ed0b.webp",
+      "original_image": "./assets/news/12547bb9b6f5a3ba89e3ed0b.webp",
+      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575555/%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A3%D8%A8%D9%88%D9%8A%D8%A9-%D8%A3%D8%B0%D9%83%D9%89-%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%BA%D9%88%D8%BA%D9%84",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/65b506a064da.html"
+    },
+    {
+      "title": "اجتماع قضائي لمناقشة ملف المحكومين الأجانب المنقولين من سوريا إلى العراق",
+      "url": "https://www.alsumaria.tv/news/politics/575529/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%88%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D9%82%D9%88%D9%84%D9%8A%D9%86-%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-09T08:51:45+00:00",
+      "image": "./assets/news/ecfefacdd85842863a87d18c.jpg",
+      "original_image": "./assets/news/ecfefacdd85842863a87d18c.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/575529/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%88%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D9%82%D9%88%D9%84%D9%8A%D9%86-%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8f90193c86ce.html"
+    },
+    {
       "title": "تريند الثمانينات: سحر النوستالجيا أم فخ تقني لسرقة بصمة وجهك؟",
       "url": "https://www.alsumaria.tv/news/technology/575516/%D8%AA%D8%B1%D9%8A%D9%86%D8%AF-%D8%A7%D9%84%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%86%D8%A7%D8%AA-%D8%B3%D8%AD%D8%B1-%D8%A7%D9%84%D9%86%D9%88%D8%B3%D8%AA%D8%A7%D9%84%D8%AC%D9%8A%D8%A7-%D8%A3%D9%85-%D9%81%D8%AE-%D8%AA%D9%82%D9%86%D9%8A-%D9%84%D8%B3%D8%B1%D9%82%D8%A9-%D8%A8%D8%B5%D9%85%D8%A9-%D9%88%D8%AC%D9%87%D9%83%D8%9F",
       "category": "سياسة",
@@ -314,21 +359,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/dca83a6820ba.html"
-    },
-    {
-      "title": "حرارة أربعينية في معظم المدن.. دهوك والسليمانية الأقل بـ 35",
-      "url": "https://964media.com/715225/",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-09T06:48:50+00:00",
-      "image": "./assets/news/2557cb7c94335c5504f7632e.jpg",
-      "original_image": "./assets/news/2557cb7c94335c5504f7632e.jpg",
-      "source_url": "https://964media.com/715225/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/70199d4a308f.html"
     }
   ]
 }
