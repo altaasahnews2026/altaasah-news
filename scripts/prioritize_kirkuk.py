@@ -18,16 +18,16 @@ def fresh_sort(x):
     return (0 if x.get('breaking') else 1, -dt(x).timestamp())
 
 
-# Editorial homepage order: local/Kirkuk first, then Iraqi politics and sports,
-# followed by security/economy and Arab/international coverage.
+# Editorial homepage order: fresh Iraqi/local news first; Kirkuk remains covered
+# in the site but is no longer forced into the lead position.
 section_plan = [
-    ('كركوك', 8),
     ('محليات', 8),
     ('سياسة', 8),
     ('رياضة', 6),
     ('اقتصاد', 5),
     ('أمن', 5),
     ('عربي ودولي', 8),
+    ('كركوك', 4),
 ]
 
 selected = []
