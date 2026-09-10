@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-10T23:30:47.639412+00:00",
+  "updated_at": "2026-09-10T23:43:19.017022+00:00",
   "items": [
     {
-      "title": "مصرع 26 طالباً وإصابة العشرات بحريق مدرستين في الكونغو",
-      "url": "https://www.alsumaria.tv/news/international/575701/%D9%85%D8%B5%D8%B1%D8%B9-26-%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%8B-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A8%D8%AD%D8%B1%D9%8A%D9%82-%D9%85%D8%AF%D8%B1%D8%B3%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D9%88",
-      "category": "أمن",
+      "title": "ترامب يتوقّع استمرار الحرب مع إيران إلى ما بعد الانتخابات النصفية، وتفجيرات إسرائيلية في مرتفعات علي الطاهر جنوبي لبنان - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
+      "category": "سياسة",
       "region": "العراق",
-      "published": "2026-09-10T22:26:00+00:00",
-      "image": "./assets/news/bb24d673e5819016a5131d7f.webp",
-      "original_image": "./assets/news/bb24d673e5819016a5131d7f.webp",
-      "source_url": "https://www.alsumaria.tv/news/international/575701/%D9%85%D8%B5%D8%B1%D8%B9-26-%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%8B-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A8%D8%AD%D8%B1%D9%8A%D9%82-%D9%85%D8%AF%D8%B1%D8%B3%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D9%88",
-      "source_name": "السومرية نيوز",
+      "published": "2026-09-10T23:16:15+00:00",
+      "image": "./assets/news/48d051fd05d91f2e6e9702e1.jpg",
+      "original_image": "./assets/news/48d051fd05d91f2e6e9702e1.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
+      "source_name": "شفق نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a5b5df4ce9e0.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/15b272d8959e.html"
     },
     {
       "title": "يوخنا: تراجع كبير بأعداد المسيحيين وظلم يطال تمثيلهم بكركوك وسهل نينوى",
@@ -45,6 +45,21 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/702df56849bb.html"
+    },
+    {
+      "title": "مصرع 26 طالباً وإصابة العشرات بحريق مدرستين في الكونغو",
+      "url": "https://www.alsumaria.tv/news/international/575701/%D9%85%D8%B5%D8%B1%D8%B9-26-%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%8B-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A8%D8%AD%D8%B1%D9%8A%D9%82-%D9%85%D8%AF%D8%B1%D8%B3%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D9%88",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-09-10T22:26:00+00:00",
+      "image": "./assets/news/bb24d673e5819016a5131d7f.webp",
+      "original_image": "./assets/news/bb24d673e5819016a5131d7f.webp",
+      "source_url": "https://www.alsumaria.tv/news/international/575701/%D9%85%D8%B5%D8%B1%D8%B9-26-%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%8B-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A8%D8%AD%D8%B1%D9%8A%D9%82-%D9%85%D8%AF%D8%B1%D8%B3%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D9%88",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a5b5df4ce9e0.html"
     },
     {
       "title": "الجزائر تقطع علاقاتها مع الإمارات، والخارجية الإماراتية تأمل أن يكون القرار مؤقتاً - شفق نيوز..",
@@ -90,21 +105,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/751d01d840ab.html"
-    },
-    {
-      "title": "ترامب يتوقّع استمرار الحرب مع إيران إلى ما بعد الانتخابات النصفية، وتفجيرات إسرائيلية في مرتفعات علي الطاهر جنوبي لبنان - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-10T20:38:53+00:00",
-      "image": "./assets/news/48d051fd05d91f2e6e9702e1.jpg",
-      "original_image": "./assets/news/48d051fd05d91f2e6e9702e1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/40891b6c3cb7.html"
     },
     {
       "title": "السعودية تعلن زوال الخطر عن خميس مشيط وأبها",
@@ -381,7 +381,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-10T23:30:47.844941+00:00",
+      "published": "2026-09-10T23:43:19.160331+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -391,7 +391,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7e1e50619912.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/192d9711f157.html"
     }
   ]
 }

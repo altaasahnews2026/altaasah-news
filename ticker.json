@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-10T23:30:51.754507+00:00",
+  "updated_at": "2026-09-10T23:43:22.581215+00:00",
   "latest": [
     {
       "title": "ترامب يتوقّع استمرار الحرب مع إيران إلى ما بعد الانتخابات النصفية، وتفجيرات إسرائيلية في مرتفعات علي الطاهر جنوبي لبنان - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
       "category": "عراق",
-      "published": "2026-09-10T20:38:53+00:00",
+      "published": "2026-09-10T23:16:15+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران",
@@ -92,7 +92,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-10T23:30:47.844941+00:00",
+      "published": "2026-09-10T23:43:19.160331+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -209,18 +209,18 @@
       "watch_topics": []
     },
     {
-      "title": "يوخنا: تراجع كبير بأعداد المسيحيين وظلم يطال تمثيلهم بكركوك وسهل نينوى",
-      "url": "https://www.alsumaria.tv/news/alsumariaspecial/575684/%D9%8A%D9%88%D8%AE%D9%86%D8%A7-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%83%D8%A8%D9%8A%D8%B1-%D8%A8%D8%A3%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%D9%8A%D9%8A%D9%86-%D9%88%D8%B8%D9%84%D9%85-%D9%8A%D8%B7%D8%A7%D9%84-%D8%AA%D9%85%D8%AB%D9%8A%D9%84%D9%87%D9%85-%D8%A8%D9%83%D8%B1%D9%83%D9%88%D9%83-%D9%88%D8%B3%D9%87%D9%84-%D9%86%D9%8A%D9%86%D9%88%D9%89",
-      "category": "عراق",
-      "published": "2026-09-10T18:42:00+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "مصرع 26 طالباً وإصابة العشرات بحريق مدرستين في الكونغو",
       "url": "https://www.alsumaria.tv/news/international/575701/%D9%85%D8%B5%D8%B1%D8%B9-26-%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%8B-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A8%D8%AD%D8%B1%D9%8A%D9%82-%D9%85%D8%AF%D8%B1%D8%B3%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D9%88",
       "category": "عراق",
       "published": "2026-09-10T22:26:00+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "يوخنا: تراجع كبير بأعداد المسيحيين وظلم يطال تمثيلهم بكركوك وسهل نينوى",
+      "url": "https://www.alsumaria.tv/news/alsumariaspecial/575684/%D9%8A%D9%88%D8%AE%D9%86%D8%A7-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%83%D8%A8%D9%8A%D8%B1-%D8%A8%D8%A3%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%D9%8A%D9%8A%D9%86-%D9%88%D8%B8%D9%84%D9%85-%D9%8A%D8%B7%D8%A7%D9%84-%D8%AA%D9%85%D8%AB%D9%8A%D9%84%D9%87%D9%85-%D8%A8%D9%83%D8%B1%D9%83%D9%88%D9%83-%D9%88%D8%B3%D9%87%D9%84-%D9%86%D9%8A%D9%86%D9%88%D9%89",
+      "category": "عراق",
+      "published": "2026-09-10T18:42:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -505,6 +505,16 @@
       ]
     },
     {
+      "title": "بيسنت: عقوبات تنتظر بنكاً «كبيراً» ضمن عملية الإقصاء الاقتصادي لإيران",
+      "url": "https://aawsat.com/node/5317010",
+      "category": "دولي",
+      "published": "Fri, 11 Sep 2026 00:34:07 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "أميركا تتذكر «11 سبتمبر»... غيّر وجهها والعالم",
       "url": "https://aawsat.com/node/5316993",
       "category": "دولي",
@@ -621,14 +631,6 @@
       "url": "https://aawsat.com/node/5316600",
       "category": "دولي",
       "published": "Wed, 09 Sep 2026 23:05:57 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ميرتس يهاجم سياسات «البديل» ويلغي اتصالاً بترمب",
-      "url": "https://aawsat.com/node/5316522",
-      "category": "دولي",
-      "published": "Wed, 09 Sep 2026 17:38:45 +0100",
       "breaking": false,
       "watch_topics": []
     }
