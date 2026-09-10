@@ -23,8 +23,8 @@ ITEM = {
 data = json.loads(NEWS.read_text(encoding='utf-8'))
 items = data.get('items', [])
 items = [x for x in items if x.get('title') != ITEM['title']]
-items.insert(0, ITEM)
+# إبقاء الخبر منشوراً ضمن الأخبار، لكن عدم وضعه في مقدمة الواجهة الرئيسية.
+items.append(ITEM)
 data['items'] = items
-data['updated_at'] = ITEM['published']
 NEWS.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
-print('تم نشر الخبر التحريري في مقدمة الأخبار')
+print('تم إبقاء الخبر ضمن الأخبار وإزالته من مقدمة الواجهة الرئيسية')
