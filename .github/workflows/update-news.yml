@@ -37,7 +37,7 @@ jobs:
           mkdir -p news assets/news assets/editorial
           printf '{"updated_at":"","items":[]}' > news.json
       - name: Validate scripts
-        run: python -m py_compile scripts/update_news.py scripts/augment_sources.py scripts/clean_news.py scripts/prioritize_kirkuk.py scripts/manual_news.py scripts/apply_news_template.py scripts/dedupe_news_images.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py scripts/social_slogan.py scripts/polish_ui.py scripts/final_image_fix.py scripts/hotfix_news_loader.py scripts/publish_social.py
+        run: python -m py_compile scripts/update_news.py scripts/augment_sources.py scripts/clean_news.py scripts/prioritize_kirkuk.py scripts/manual_news.py scripts/publish_editorial_video.py scripts/apply_news_template.py scripts/dedupe_news_images.py scripts/generate_articles.py scripts/fix_site.py scripts/build_ticker.py scripts/force_header_ticker.py scripts/social_slogan.py scripts/polish_ui.py scripts/final_image_fix.py scripts/hotfix_news_loader.py scripts/publish_social.py
       - name: Fetch Iraq and dedicated Kirkuk news sources
         run: python scripts/update_news.py
       - name: Fetch Rudaw, Iraqi Media Network and Al Sharqiya fresh news
@@ -50,6 +50,8 @@ jobs:
         run: python scripts/manual_news.py
       - name: Remove duplicate or broken news images
         run: python scripts/dedupe_news_images.py
+      - name: Publish user supplied video news summary
+        run: python scripts/publish_editorial_video.py
       - name: Keep raw original news images without overlays
         run: python scripts/apply_news_template.py
       - name: Generate article pages and feeds
@@ -100,7 +102,7 @@ jobs:
       - name: Final strict validation
         run: |
           python - <<'PY'
-          import json
+          import json,re
           from pathlib import Path
           from PIL import Image
           d=json.loads(Path('news.json').read_text(encoding='utf-8'))
@@ -114,8 +116,13 @@ jobs:
               assert p.exists() and o.exists()
               assert p == o
               image_paths.append(x['image'])
-              with Image.open(p) as im: assert im.width>=360 and im.height>=220
+              if p.suffix.lower()=='.svg':
+                  s=p.read_text(encoding='utf-8',errors='ignore')[:5000]
+                  assert re.search(r'<svg\b',s,re.I) and re.search(r'width=["\'](?:\d+)',s,re.I) and re.search(r'height=["\'](?:\d+)',s,re.I)
+              else:
+                  with Image.open(p) as im: assert im.width>=360 and im.height>=220
           assert len(image_paths) == len(set(image_paths)), 'توجد صور مكررة بين الأخبار'
+          assert any(x.get('title')=='النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك' for x in items), 'الخبر التحريري غير منشور'
           kirkuk=[x for x in items if x.get('kirkuk') or x.get('category')=='كركوك']
           assert len(kirkuk) >= 1, 'لا توجد أخبار كركوك'
           t=json.loads(Path('ticker.json').read_text(encoding='utf-8'))
@@ -132,7 +139,7 @@ jobs:
           assert 'professional-news-ui' in page
           script=Path('scripts/update_news.py').read_text(encoding='utf-8').lower()
           for bad in ('bing.com/images','google.com/search?','commons.wikimedia.org','search_engine(','wiki_images('): assert bad not in script, bad
-          print('STRICT OK:',len(items),'news / Kirkuk',len(kirkuk),' / unique raw images /',len(image_paths),'ticker items',len(t['latest']))
+          print('STRICT OK:',len(items),'news / Kirkuk',len(kirkuk),' / unique images /',len(image_paths),'ticker items',len(t['latest']))
           PY
       - name: Commit and push
         run: |
@@ -140,5 +147,5 @@ jobs:
           git config user.email 'actions@users.noreply.github.com'
           git add -A
           if git diff --cached --quiet; then echo 'لا توجد تغييرات.'; exit 0; fi
-          git commit -m 'تحديث الأخبار وإصلاح ترتيب الواجهة'
+          git commit -m 'نشر خبر النائب محمد النعيمي'
           git push origin main
