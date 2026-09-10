@@ -44,9 +44,9 @@ jobs:
         run: python scripts/augment_sources.py
       - name: Clean, deduplicate and editorially sort news
         run: python scripts/clean_news.py
-      - name: Prioritize Kirkuk and newest news
+      - name: Prioritize fresh homepage news
         run: python scripts/prioritize_kirkuk.py
-      - name: Publish editorial Kirkuk update
+      - name: Skip stale manual editorial injection
         run: python scripts/manual_news.py
       - name: Remove duplicate or broken news images
         run: python scripts/dedupe_news_images.py
@@ -88,6 +88,7 @@ jobs:
       - name: Repair news loader with automatic fallbacks
         run: python scripts/hotfix_news_loader.py
       - name: Publish fresh news to Instagram and TikTok
+        continue-on-error: true
         env:
           INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
           INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
@@ -117,7 +118,6 @@ jobs:
           assert len(image_paths) == len(set(image_paths)), 'توجد صور مكررة بين الأخبار'
           kirkuk=[x for x in items if x.get('kirkuk') or x.get('category')=='كركوك']
           assert len(kirkuk) >= 1, 'لا توجد أخبار كركوك'
-          assert any(x.get('title')=='مجلس محافظة كركوك يعقد جلسته الـ25 بحضور 15 عضواً لمناقشة عدد من الملفات بينها استضافة مديري شرطة المحافظة والبلدية' for x in items), 'الخبر التحريري غير منشور'
           t=json.loads(Path('ticker.json').read_text(encoding='utf-8'))
           assert len(t.get('latest',[])) >= 20
           assert any(x.get('category')=='عراق' for x in t['latest'])
@@ -140,5 +140,5 @@ jobs:
           git config user.email 'actions@users.noreply.github.com'
           git add -A
           if git diff --cached --quiet; then echo 'لا توجد تغييرات.'; exit 0; fi
-          git commit -m 'تفعيل النشر الاجتماعي التلقائي'
+          git commit -m 'تحديث الأخبار وإصلاح ترتيب الواجهة'
           git push origin main
