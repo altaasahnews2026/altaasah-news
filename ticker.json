@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T22:09:26.174185+00:00",
+  "updated_at": "2026-09-10T22:25:28.768551+00:00",
   "latest": [
     {
       "title": "ترامب يتوقّع استمرار الحرب مع إيران إلى ما بعد الانتخابات النصفية، وتفجيرات إسرائيلية في مرتفعات علي الطاهر جنوبي لبنان - شفق نيوز..",
@@ -92,7 +92,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-10T22:09:21.789878+00:00",
+      "published": "2026-09-10T22:25:23.563730+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -471,16 +471,6 @@
       ]
     },
     {
-      "title": "روبيو: الولايات المتحدة ستواصل استهداف الناقلات الإيرانية",
-      "url": "https://aawsat.com/node/5316212",
-      "category": "دولي",
-      "published": "Tue, 08 Sep 2026 23:56:18 +0100",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "قتلى وعشرات الجرحى بقصف روسي على مركز تجاري في أوكرانيا",
       "url": "https://aawsat.com/node/5316902",
       "category": "دولي",
@@ -509,6 +499,16 @@
       "url": "https://aawsat.com/node/5316499",
       "category": "دولي",
       "published": "Wed, 09 Sep 2026 16:40:19 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "أميركا تتذكر «11 سبتمبر»... غيّر وجهها والعالم",
+      "url": "https://aawsat.com/node/5316993",
+      "category": "دولي",
+      "published": "Thu, 10 Sep 2026 23:20:09 +0100",
       "breaking": false,
       "watch_topics": [
         "أمريكا"
@@ -689,16 +689,6 @@
       "url": "https://aawsat.com/node/5316817",
       "category": "دولي",
       "published": "Thu, 10 Sep 2026 13:51:10 +0100",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "روبيو: الولايات المتحدة ستواصل استهداف الناقلات الإيرانية",
-      "url": "https://aawsat.com/node/5316212",
-      "category": "دولي",
-      "published": "Tue, 08 Sep 2026 23:56:18 +0100",
       "breaking": true,
       "watch_topics": [
         "إيران"
