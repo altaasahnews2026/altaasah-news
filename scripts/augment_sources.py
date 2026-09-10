@@ -58,7 +58,7 @@ def image(t,base):
   x=meta(t,[n])
   if x:cand.append(clean(x,base))
  for m in re.finditer(r'<img[^>]+(?:src|data-src|data-original)=["\']([^"\']+)',t,re.I):
-  cand.append(clean(m.group(1),base)
+  cand.append(clean(m.group(1),base))
   if len(cand)>=20:break
  seen=set()
  for u in cand:
