@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T21:33:54.182122+00:00",
+  "updated_at": "2026-09-10T21:43:28.223509+00:00",
   "latest": [
     {
       "title": "ترامب يتوقّع استمرار الحرب مع إيران إلى ما بعد الانتخابات النصفية، وتفجيرات إسرائيلية في مرتفعات علي الطاهر جنوبي لبنان - شفق نيوز..",
@@ -13,8 +13,8 @@
       ]
     },
     {
-      "title": "هزة أرضية جنوبي لبنان تزامنا مع تفجيرات إسرائيلية في علي الطاهر",
-      "url": "https://www.alsumaria.tv/news/international/575691/%D9%87%D8%B2%D8%A9-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AA%D8%B2%D8%A7%D9%85%D9%86%D8%A7-%D9%85%D8%B9-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D8%B7%D8%A7%D9%87%D8%B1",
+      "title": "لبنان.. هزة أرضية تزامنا مع تفجيرات إسرائيلية في علي الطاهر",
+      "url": "https://www.alsumaria.tv/news/international/575691/%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%87%D8%B2%D8%A9-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A9-%D8%AA%D8%B2%D8%A7%D9%85%D9%86%D8%A7-%D9%85%D8%B9-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D8%B7%D8%A7%D9%87%D8%B1",
       "category": "عراق",
       "published": "2026-09-10T18:57:39+00:00",
       "breaking": true,
@@ -297,16 +297,6 @@
       "watch_topics": []
     },
     {
-      "title": "من «هرمز» إلى الصومال... توترات المنطقة تحاصر بحارة مصريين",
-      "url": "https://aawsat.com/node/5316468",
-      "category": "مشرق أوسط",
-      "published": "Wed, 09 Sep 2026 15:26:57 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "السعودية تدين دخول رئيس الوزراء الإسرائيلي الأراضي السورية",
       "url": "https://aawsat.com/node/5316821",
       "category": "مشرق أوسط",
@@ -397,66 +387,74 @@
       ]
     },
     {
-      "title": "القوات اليمنية تحدد منطقة محظورة على الحوثيين قرب المخا",
-      "url": "https://aawsat.com/node/5316929",
+      "title": "وزير الخارجية السعودي يحضر «قمة الفضاء» في باريس",
+      "url": "https://aawsat.com/node/5316898",
       "category": "مشرق أوسط",
-      "published": "Thu, 10 Sep 2026 18:32:31 +0100",
+      "published": "Thu, 10 Sep 2026 17:17:38 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "الحوثيون يوسعون جبايتهم الزراعية في صنعاء وريمة",
-      "url": "https://aawsat.com/node/5316775",
+      "title": "وزير الخارجية السعودي يبحث مع نظيريه القطري والعُماني تطورات المنطقة",
+      "url": "https://aawsat.com/node/5316744",
       "category": "مشرق أوسط",
-      "published": "Thu, 10 Sep 2026 11:47:45 +0100",
+      "published": "Thu, 10 Sep 2026 10:38:37 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "آلاف النازحين من تصعيد الحوثيين يواجهون التشرد والجوع",
-      "url": "https://aawsat.com/node/5316771",
+      "title": "«التحالف»: اعتداءات حوثية على 3 مدن سعودية",
+      "url": "https://aawsat.com/node/5316552",
       "category": "مشرق أوسط",
-      "published": "Thu, 10 Sep 2026 11:39:27 +0100",
+      "published": "Wed, 09 Sep 2026 19:26:32 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "قوات الحكومة اليمنية تعيد ترتيب انتشارها جنوب المخا",
-      "url": "https://aawsat.com/node/5316763",
+      "title": "تركيا تدين بشدة اعتداءات ميليشيا الحوثي على المملكة",
+      "url": "https://aawsat.com/node/5316233",
       "category": "مشرق أوسط",
-      "published": "Thu, 10 Sep 2026 11:29:09 +0100",
+      "published": "Wed, 09 Sep 2026 00:29:34 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "اليمن يُثبّت مكاسبه ضد الحوثيين ويُوسّع مسرح العمليات",
-      "url": "https://aawsat.com/node/5316636",
+      "title": "الجامعة العربية تحذّر من تداعيات التصعيد الحوثي على أمن المملكة واستقرار المنطقة",
+      "url": "https://aawsat.com/node/5316203",
       "category": "مشرق أوسط",
-      "published": "Thu, 10 Sep 2026 02:19:19 +0100",
+      "published": "Tue, 08 Sep 2026 22:48:11 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "تداعيات «11 سبتمبر» حاضرة بعد ربع قرن",
-      "url": "https://aawsat.com/node/5316633",
+      "title": "الإمارات: جهودنا في المنطقة تركز على خفض التصعيد وتعزيز الاستقرار",
+      "url": "https://aawsat.com/node/5316127",
       "category": "مشرق أوسط",
-      "published": "Thu, 10 Sep 2026 02:10:33 +0100",
+      "published": "Tue, 08 Sep 2026 18:44:39 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "العليمي للسفراء: الحوثيون اختاروا الحرب وعليهم تحمل نتائجها",
-      "url": "https://aawsat.com/node/5316524",
+      "title": "وزير الخارجية السعودي: الحوثيون فتحوا باباً لا يحتملونه",
+      "url": "https://aawsat.com/node/5315923",
       "category": "مشرق أوسط",
-      "published": "Wed, 09 Sep 2026 17:40:49 +0100",
+      "published": "Tue, 08 Sep 2026 10:18:10 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "الجيش اليمني يتقدم ميدانياً في الجوف ومأرب",
-      "url": "https://aawsat.com/node/5316519",
+      "title": "اليابان تطلب من «الأمم المتحدة» مراجعة خريطة العالم الجديدة بسبب جُزر متنازع عليها",
+      "url": "https://aawsat.com/node/5316892",
       "category": "مشرق أوسط",
-      "published": "Wed, 09 Sep 2026 17:33:15 +0100",
+      "published": "Thu, 10 Sep 2026 17:06:38 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "25 قتيلاً في حريق سفينة شحن أجنبية بالصين",
+      "url": "https://aawsat.com/node/5316753",
+      "category": "مشرق أوسط",
+      "published": "Thu, 10 Sep 2026 11:05:04 +0100",
       "breaking": false,
       "watch_topics": []
     },
@@ -635,8 +633,8 @@
   ],
   "breaking": [
     {
-      "title": "هزة أرضية جنوبي لبنان تزامنا مع تفجيرات إسرائيلية في علي الطاهر",
-      "url": "https://www.alsumaria.tv/news/international/575691/%D9%87%D8%B2%D8%A9-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AA%D8%B2%D8%A7%D9%85%D9%86%D8%A7-%D9%85%D8%B9-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D8%B7%D8%A7%D9%87%D8%B1",
+      "title": "لبنان.. هزة أرضية تزامنا مع تفجيرات إسرائيلية في علي الطاهر",
+      "url": "https://www.alsumaria.tv/news/international/575691/%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%87%D8%B2%D8%A9-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A9-%D8%AA%D8%B2%D8%A7%D9%85%D9%86%D8%A7-%D9%85%D8%B9-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D8%B7%D8%A7%D9%87%D8%B1",
       "category": "عراق",
       "published": "2026-09-10T18:57:39+00:00",
       "breaking": true,
