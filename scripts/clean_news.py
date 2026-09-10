@@ -1,6 +1,7 @@
 import json,re,unicodedata
 from datetime import datetime,timezone
 from pathlib import Path
+from difflib import SequenceMatcher
 
 P=Path('news.json')
 D=json.loads(P.read_text(encoding='utf-8'))
@@ -13,18 +14,19 @@ LOCAL=('محليات','محلي','بغداد','بلدية','بلديات','خد�
 ECON=('دولار','ذهب','اقتصاد','مصرف','بنك','نفط','استثمار','أسعار','تجارة','بورصة','مالية')
 SECURITY=('هجوم','انفجار','شرطة','جيش','أمن','إرهاب','مسيرة','مخدرات','سلاح','اعتقال','مقتل','قتلى','حريق')
 INTL=('إيران','سوريا','فلسطين','غزة','إسرائيل','اسرائيل','لبنان','أمريكا','أميركا','تركيا','دولي','دولية','اليمن','السعودية','الإمارات','الكويت','قطر','الأردن','مصر','روسيا','أوكرانيا','الصين')
-KIRKUK=('كركوك','التون كوبري','التونكوبري','آلتون كوبري','الدبس','داقوق','الحويجة','ليلان','الرشاد','الرياض','الزاب','قره تبه','جيمن','باي حسن','بابا كركر')
+KIRKUK=('كركوك','التون كوبري','التونكوبري','آلتون كوبري','الدبس','داقوق','الحويجة','ليلان','الرشاد','الرياض','الزاب','قره تبه','جيمن','باي حسن','بابا كركر','محمد سمعان','محمد سمعان آغا','سمعان آغا','محافظ كركوك')
+
 
 def norm(s):
     s=re.sub(r'\s+',' ',str(s or '').strip()).replace('ـ','')
-    return ''.join(c for c in unicodedata.normalize('NFKD',s) if not unicodedata.combining(c)).lower()
+    s=''.join(c for c in unicodedata.normalize('NFKD',s) if not unicodedata.combining(c)).lower()
+    return re.sub(r'[^\w\u0600-\u06ff ]',' ',s)
 
+def tokens(s):return set(norm(s).split())
 def dt(x):
     try:return datetime.fromisoformat(str(x).replace('Z','+00:00')).astimezone(timezone.utc)
     except:return datetime.min.replace(tzinfo=timezone.utc)
-
 def has(t,words):return any(w in t for w in words)
-
 def recategorize(x):
     t=str(x.get('title') or '')
     u=str(x.get('url') or x.get('source_url') or '').lower()
@@ -50,35 +52,60 @@ def score(x):
     if c=='عربي ودولي':s+=12
     age=max(0,(datetime.now(timezone.utc)-dt(x.get('published'))).total_seconds()/3600)
     s-=min(age,30)*1.2
+    if has(str(x.get('title') or ''),('محمد سمعان','سمعان آغا','محافظ كركوك')):s+=35
     return s
 
-clean=[];seen=set()
+clean=[]
 for x in items:
-    t=str(x.get('title') or '').strip();key=norm(t)
-    if len(t)<18 or key in seen or any(w in t for w in JUNK):continue
+    t=str(x.get('title') or '').strip()
+    if len(t)<18 or any(w in t for w in JUNK):continue
     if not x.get('image') or not x.get('url') or not x.get('published'):continue
     recategorize(x)
-    # المحلية ملغاة نهائياً من الموقع؛ تبقى كركوك قسماً مستقلاً.
     if x.get('category')=='محليات':continue
-    seen.add(key);clean.append(x)
+    clean.append(x)
 
-clean.sort(key=lambda x:(score(x),dt(x.get('published'))),reverse=True)
-# لا توجد حصة للمحليات. نعطي الرياضة والعربي والدولي مساحة أكبر لضمان ظهورهما باستمرار.
-QUOTAS={'كركوك':8,'سياسة':8,'رياضة':12,'اقتصاد':6,'أمن':6,'عربي ودولي':14}
+# إزالة التكرار الحقيقي والتكرار شبه المتطابق بين الوكالات، مع الاحتفاظ بالأحدث.
+clean.sort(key=dt,reverse=True)
+dedup=[];seen_exact=set()
+for x in clean:
+    t=str(x.get('title') or '')
+    k=norm(t)
+    if k in seen_exact:continue
+    tk=tokens(t)
+    duplicate=False
+    for y in dedup:
+        yk=norm(y.get('title'))
+        if k==yk:
+            duplicate=True;break
+        ytk=tokens(y.get('title'))
+        if not tk or not ytk:continue
+        overlap=len(tk & ytk)/max(1,min(len(tk),len(ytk)))
+        similarity=SequenceMatcher(None,k,yk).ratio()
+        same_subject=has(t,('كركوك','محمد سمعان','سمعان آغا')) and has(str(y.get('title') or ''),('كركوك','محمد سمعان','سمعان آغا'))
+        if similarity>=0.90 or overlap>=0.88 or (same_subject and similarity>=0.78 and overlap>=0.72):
+            duplicate=True;break
+    if duplicate:continue
+    seen_exact.add(k);dedup.append(x)
+
+clean=dedup
+QUOTAS={'كركوك':10,'سياسة':8,'رياضة':10,'اقتصاد':6,'أمن':6,'عربي ودولي':12}
 chosen=[];chosen_keys=set()
 for cat,limit in QUOTAS.items():
-    for x in clean:
-        if x.get('category')==cat and norm(x.get('title')) not in chosen_keys:
-            chosen.append(x);chosen_keys.add(norm(x.get('title')))
-            if sum(1 for y in chosen if y.get('category')==cat)>=limit:break
-for x in clean:
+    pool=[x for x in clean if x.get('category')==cat]
+    pool.sort(key=lambda x:(score(x),dt(x)),reverse=True)
+    for x in pool:
+        k=norm(x.get('title'))
+        if k in chosen_keys:continue
+        chosen.append(x);chosen_keys.add(k)
+        if sum(1 for y in chosen if y.get('category')==cat)>=limit:break
+for x in sorted(clean,key=lambda x:(score(x),dt(x)),reverse=True):
     if len(chosen)>=60:break
     k=norm(x.get('title'))
-    if k not in chosen_keys and x.get('category')!='محليات':chosen.append(x);chosen_keys.add(k)
-clean=chosen[:60]
+    if k not in chosen_keys:chosen.append(x);chosen_keys.add(k)
+
 priority={'كركوك':5,'سياسة':4,'رياضة':4,'أمن':3,'اقتصاد':3,'عربي ودولي':3,'العراق':2}
-clean.sort(key=lambda x:(bool(x.get('breaking')),priority.get(x.get('category'),0),dt(x.get('published'))),reverse=True)
-D['items']=clean
+chosen.sort(key=lambda x:(bool(x.get('breaking')),priority.get(x.get('category'),0),dt(x)),reverse=True)
+D['items']=chosen[:60]
 D['updated_at']=datetime.now(timezone.utc).isoformat()
 P.write_text(json.dumps(D,ensure_ascii=False,indent=2),encoding='utf-8')
-print('CLEAN NEWS:',len(clean),'items; categories', {c:sum(1 for x in clean if x.get('category')==c) for c in QUOTAS},'local_removed=True')
+print('CLEAN NEWS:',len(D['items']),'items; duplicates removed; Kirkuk',sum(x.get('category')=='كركوك' for x in D['items']),'Governor',sum(has(str(x.get('title') or ''),('محمد سمعان','سمعان آغا','محافظ كركوك')) for x in D['items']))
