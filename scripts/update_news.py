@@ -181,7 +181,8 @@ with ThreadPoolExecutor(max_workers=18) as ex:
   if not item or not item.get('image'):continue
   if item['url'] in seen_urls or item['title'] in seen_titles:continue
   seen_urls.add(item['url']);seen_titles.add(item['title']);items.append(item)
-rank={'كركوك':0,'العراق':1,'عربي ودولي':2}; items.sort(key=lambda x:x.get('published',''),reverse=True); items.sort(key=lambda x:rank.get(x.get('region'),1)); items=items[:48]
+# الأحدث أولاً، مع إبقاء أخبار كركوك داخل الموقع لكن ليس في مقدمة الواجهة
+rank={'العراق':0,'عربي ودولي':1,'كركوك':2}; items.sort(key=lambda x:x.get('published',''),reverse=True); items.sort(key=lambda x:rank.get(x.get('region'),1)); items=items[:48]
 if len(items)<20:raise SystemExit(f'الأخبار اليومية الحديثة غير كافية: {len(items)}')
 Path('news.json').write_text(json.dumps({'updated_at':datetime.now(timezone.utc).isoformat(),'items':items},ensure_ascii=False,indent=2),encoding='utf-8')
 print('تم تحديث الأخبار الحديثة فقط:',len(items),'— كركوك:',sum(x.get('region')=='كركوك' for x in items),'— طلبة إيران:',sum(is_iran_students(x.get('title','')) for x in items),'— بغداد:',sum('بغداد' in x.get('title','') for x in items))
