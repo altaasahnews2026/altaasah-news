@@ -7,22 +7,12 @@ from PIL import Image
 HEADERS={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/128 Safari/537.36','Accept-Language':'ar-IQ,ar;q=0.9,en;q=0.7'}
 MAX_AGE=timedelta(hours=30)
 NOW=datetime.now(timezone.utc)
-SOURCES=[
- ('https://rudaw.net/arabic/authors/r%C3%BBdaw','رووداو'),
- ('https://news.imn.iq/','قناة العراقية'),
- ('https://alsharqiya.com/news','قناة الشرقية'),
- ('https://alsharqiya.com/','قناة الشرقية'),
- ('https://alfallujah.tv/','قناة الفلوجة'),
- ('https://www.alarabiya.net/arab-and-world/iraq','العربية'),
- ('https://www.alsumaria.tv/news','السومرية نيوز'),
- ('https://www.alsumaria.tv/alsumarianews','السومرية نيوز'),
- ('https://shafaq.com/ar','شفق نيوز'),
-]
+SOURCES=[('https://rudaw.net/arabic/authors/r%C3%BBdaw','رووداو'),('https://news.imn.iq/','قناة العراقية'),('https://alsharqiya.com/news','قناة الشرقية'),('https://alsharqiya.com/','قناة الشرقية'),('https://alfallujah.tv/','قناة الفلوجة'),('https://www.alarabiya.net/arab-and-world/iraq','العربية'),('https://www.alsumaria.tv/news','السومرية نيوز'),('https://www.alsumaria.tv/alsumarianews','السومرية نيوز'),('https://shafaq.com/ar','شفق نيوز'),('https://ninanews.com/website/','وكالة نينا'),('https://www.sjc.iq/','مجلس القضاء الأعلى')]
 GENERIC=('logo','icon','favicon','avatar','placeholder','default','sprite','banner','advert','ads','loading','no-image','profile')
-KIRKUK=('كركوك','التون كوبري','التونكوبري','آلتون كوبري','الدبس','داقوق','الحويجة','ليلان','الرشاد','الرياض','الزاب','قره تبه','جيمن','باي حسن','بابا كركر')
+KIRKUK=('كركوك','التون كوبري','التونكوبري','آلتون كوبري','الدبس','داقوق','الحويجة','ليلان','الرشاد','الرياض','الزاب','قره تبه','جيمن','باي حسن','بابا كركر','محمد سمعان','محمد سمعان آغا','سمعان آغا','محافظ كركوك')
 IRAQ=('العراق','بغداد','نينوى','الموصل','البصرة','النجف','كربلاء','الأنبار','الانبار','صلاح الدين','ديالى','واسط','ميسان','ذي قار','المثنى','بابل','القادسية','الديوانية','دهوك','أربيل','اربيل','السليمانية','حلبجة','كركوك','الحشد','البرلمان العراقي','الحكومة العراقية','القوات العراقية')
 INTL=('فلسطين','غزة','إسرائيل','اسرائيل','لبنان','سوريا','الأردن','الاردن','السعودية','الإمارات','الامارات','الكويت','قطر','البحرين','عُمان','عمان','اليمن','مصر','ليبيا','تونس','الجزائر','المغرب','السودان','إيران','ايران','تركيا','أمريكا','امريكا','أميركا','روسيا','أوكرانيا','الصين','أوروبا','بريطانيا','فرنسا','ألمانيا','دولي','دولية')
-ALLOWED_HOSTS=('rudaw.net','www.rudaw.net','news.imn.iq','imn.iq','www.imn.iq','alsharqiya.com','www.alsharqiya.com','alfallujah.tv','www.alfallujah.tv','alarabiya.net','www.alarabiya.net','alsumaria.tv','www.alsumaria.tv','shafaq.com','www.shafaq.com')
+ALLOWED_HOSTS=('rudaw.net','www.rudaw.net','news.imn.iq','imn.iq','www.imn.iq','alsharqiya.com','www.alsharqiya.com','alfallujah.tv','www.alfallujah.tv','alarabiya.net','www.alarabiya.net','alsumaria.tv','www.alsumaria.tv','shafaq.com','www.shafaq.com','ninanews.com','www.ninanews.com','sjc.iq','www.sjc.iq')
 
 def get(url,timeout=12):
  try:
@@ -68,7 +58,7 @@ def image(t,base):
   x=meta(t,[n])
   if x:cand.append(clean(x,base))
  for m in re.finditer(r'<img[^>]+(?:src|data-src|data-original)=["\']([^"\']+)',t,re.I):
-  cand.append(clean(m.group(1),base))
+  cand.append(clean(m.group(1),base)
   if len(cand)>=20:break
  seen=set()
  for u in cand:
@@ -111,7 +101,7 @@ def rows(page,base):
   if h not in ALLOWED_HOSTS:continue
   if any(z in u for z in ('/authors/','/categories/','/category/','/tag/','/search','/contact','/about','/login')):continue
   seen.add(u);out.append((t,u))
- return out[:120]
+ return out[:160]
 
 data=json.loads(Path('news.json').read_text(encoding='utf-8'))
 items=data.get('items',[]); urls={x.get('url') for x in items}; titles={x.get('title') for x in items}
@@ -138,4 +128,4 @@ rank={'كركوك':0,'العراق':1,'عربي ودولي':2}
 items.sort(key=lambda x:x.get('published',''),reverse=True);items.sort(key=lambda x:rank.get(x.get('region'),1))
 data['items']=items[:60];data['updated_at']=datetime.now(timezone.utc).isoformat()
 Path('news.json').write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
-print('AUGMENT SOURCES: added',added,'items; total',len(data['items']))
+print('AUGMENT SOURCES: added',added,'items; Kirkuk',sum(x.get('region')=='كركوك' for x in data['items']),'Governor',sum(any(k in x.get('title','') for k in ('محمد سمعان','سمعان آغا','محافظ كركوك')) for x in data['items']),'total',len(data['items']))
