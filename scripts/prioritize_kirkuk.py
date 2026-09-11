@@ -13,35 +13,47 @@ def dt(x):
         return datetime.min.replace(tzinfo=timezone.utc)
 
 def fresh_sort(x):
-    # الأولوية للخبر العاجل، ثم الأحدث زمنياً، من دون تفضيل محافظة أو موضوع بعينه.
-    return (0 if x.get('breaking') else 1, -dt(x).timestamp())
+    # الخبر العاجل أولاً، ثم الأحدث. لا نرفع خبراً لمجرد المحافظة أو المنطقة.
+    return (bool(x.get('breaking')), dt(x))
 
-# توزيع متوازن حسب القسم الفعلي للخبر، مع إبقاء كركوك قسماً مستقلاً من دون رفعها إلى واجهة الموقع تلقائياً.
+# توزيع تحريري متوازن. كركوك تُعامل كموقع جغرافي مستقل وليس كتصنيف موضوعي.
 section_plan = [
-    ('محليات', 10),
+    ('محليات', 12),
+    ('كركوك', 10),
     ('سياسة', 8),
-    ('كركوك', 7),
-    ('رياضة', 6),
-    ('اقتصاد', 6),
-    ('أمن', 7),
-    ('عربي ودولي', 8),
+    ('رياضة', 7),
+    ('اقتصاد', 7),
+    ('أمن', 8),
+    ('عربي ودولي', 10),
 ]
 
 selected = []
 used = set()
-for category, quota in section_plan:
-    pool = [x for x in items if x.get('category') == category and id(x) not in used]
-    pool.sort(key=fresh_sort)
-    for x in pool[:quota]:
-        selected.append(x)
-        used.add(id(x))
 
-remaining = [x for x in items if id(x) not in used]
-remaining.sort(key=fresh_sort)
+def key(x):
+    return str(x.get('url') or x.get('title') or id(x))
+
+for section, quota in section_plan:
+    if section == 'كركوك':
+        pool = [x for x in items if x.get('governorate') == 'كركوك' or x.get('kirkuk')]
+    else:
+        pool = [x for x in items if x.get('category') == section and x.get('governorate') != 'كركوك']
+    pool.sort(key=fresh_sort, reverse=True)
+    for x in pool:
+        k = key(x)
+        if k in used:
+            continue
+        selected.append(x)
+        used.add(k)
+        if len([y for y in selected if (y.get('governorate') == 'كركوك' or y.get('kirkuk'))] if section == 'كركوك' else [y for y in selected if y.get('category') == section and y.get('governorate') != 'كركوك']) >= quota:
+            break
+
+remaining = [x for x in items if key(x) not in used]
+remaining.sort(key=fresh_sort, reverse=True)
 selected.extend(remaining)
 
-# الترتيب النهائي للصفحة الرئيسية: الأحدث أولاً، مع تقديم العاجل فقط عند وجوده.
-selected.sort(key=fresh_sort)
+# الصفحة الرئيسية تبدأ دائماً بالأهم زمنياً: عاجل ثم الأحدث، من دون فرض كركوك أو أي محافظة على الخبر الرئيسي.
+selected.sort(key=fresh_sort, reverse=True)
 d['items'] = selected[:60]
 p.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding='utf-8')
 
@@ -50,4 +62,5 @@ for x in d['items']:
     c = x.get('category', 'غير مصنف')
     counts[c] = counts.get(c, 0) + 1
 print('EDITORIAL SECTIONS:', counts,
-      '— Kirkuk:', sum(x.get('category') == 'كركوك' or x.get('kirkuk') for x in d['items']))
+      '— Kirkuk:', sum(1 for x in d['items'] if x.get('governorate') == 'كركوك' or x.get('kirkuk')),
+      '— Provinces:', sum(1 for x in d['items'] if x.get('governorate') and x.get('governorate') != 'كركوك'))
