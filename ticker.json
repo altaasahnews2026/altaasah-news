@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T04:01:36.062251+00:00",
+  "updated_at": "2026-09-11T04:22:50.581223+00:00",
   "latest": [
     {
       "title": "لبنان.. هزة أرضية تزامنا مع تفجيرات إسرائيلية في علي الطاهر",
@@ -14,6 +14,14 @@
       "url": "https://www.alsumaria.tv/news/international/575699/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B4%D8%AD%D9%86-%D9%81%D9%8A-%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%AA%D8%B4%D8%B1%D9%86%D9%88%D9%85%D9%88%D8%B1%D8%B3%D9%83",
       "category": "عراق",
       "published": "2026-09-10T21:08:00+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "أوكرانيا تعلن مقتل خمسة أشخاص وإصابة عشرات آخرين في غارة روسية استهدفت مركزاً تجارياً - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c3d7r0gpk5vo",
+      "category": "عراق",
+      "published": "2026-09-11T04:11:05+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -78,16 +86,6 @@
       ]
     },
     {
-      "title": "نصيحة من وزير الرياضة السابق للقادم: ادعم الألعاب الفردية بمقدار دعمك للقدم",
-      "url": "https://964media.com/715761/",
-      "category": "عراق",
-      "published": "2026-09-10T18:09:02+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "ترامب يعد بتوزيع المال على الأمريكيين اذا فاز حزبه! - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c36lkjlzn8po",
       "category": "عراق",
@@ -98,18 +96,20 @@
       ]
     },
     {
+      "title": "نصيحة من وزير الرياضة السابق للقادم: ادعم الألعاب الفردية بمقدار دعمك للقدم",
+      "url": "https://964media.com/715761/",
+      "category": "عراق",
+      "published": "2026-09-10T18:09:02+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-11T04:01:33.228316+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "آب يسجّل أعلى درجات الحرارة على الإطلاق بالتزامن مع تفاقم تغير المناخ وظاهرة النينيو - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c8xkrpj5wn0o",
-      "category": "عراق",
-      "published": "2026-09-10T15:45:04+00:00",
+      "published": "2026-09-11T04:22:45.445901+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -650,6 +650,14 @@
       "url": "https://www.alsumaria.tv/news/international/575699/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B4%D8%AD%D9%86-%D9%81%D9%8A-%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%AA%D8%B4%D8%B1%D9%86%D9%88%D9%85%D9%88%D8%B1%D8%B3%D9%83",
       "category": "عراق",
       "published": "2026-09-10T21:08:00+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "أوكرانيا تعلن مقتل خمسة أشخاص وإصابة عشرات آخرين في غارة روسية استهدفت مركزاً تجارياً - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c3d7r0gpk5vo",
+      "category": "عراق",
+      "published": "2026-09-11T04:11:05+00:00",
       "breaking": true,
       "watch_topics": []
     },

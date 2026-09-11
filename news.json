@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-11T04:01:33.022458+00:00",
+  "updated_at": "2026-09-11T04:22:45.219582+00:00",
   "items": [
     {
-      "title": "ترامب يعد بتوزيع المال على الأمريكيين اذا فاز حزبه! - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c36lkjlzn8po",
-      "category": "سياسة",
+      "title": "أوكرانيا تعلن مقتل خمسة أشخاص وإصابة عشرات آخرين في غارة روسية استهدفت مركزاً تجارياً - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c3d7r0gpk5vo",
+      "category": "رياضة",
       "region": "العراق",
-      "published": "2026-09-11T00:51:38+00:00",
-      "image": "./assets/news/f3f14e7bbf17996392aad861.jpg",
-      "original_image": "./assets/news/f3f14e7bbf17996392aad861.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c36lkjlzn8po",
+      "published": "2026-09-11T04:11:05+00:00",
+      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c3d7r0gpk5vo",
       "source_name": "شفق نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/eca9acd870df.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c805a279ef48.html"
     },
     {
       "title": "يوخنا: تراجع كبير بأعداد المسيحيين وظلم يطال تمثيلهم بكركوك وسهل نينوى",
@@ -45,6 +45,21 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/702df56849bb.html"
+    },
+    {
+      "title": "ترامب يعد بتوزيع المال على الأمريكيين اذا فاز حزبه! - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c36lkjlzn8po",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-11T00:51:38+00:00",
+      "image": "./assets/news/f3f14e7bbf17996392aad861.jpg",
+      "original_image": "./assets/news/f3f14e7bbf17996392aad861.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c36lkjlzn8po",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/eca9acd870df.html"
     },
     {
       "title": "بيسنت: سنفرض عقوبات على بنك \"كبير\" ضمن الضغوط الاقتصادية الأمريكية على طهران - شفق نيوز..",
@@ -377,26 +392,11 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8b2956abb88f.html"
     },
     {
-      "title": "آب يسجّل أعلى درجات الحرارة على الإطلاق بالتزامن مع تفاقم تغير المناخ وظاهرة النينيو - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c8xkrpj5wn0o",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-10T15:45:04+00:00",
-      "image": "./assets/news/c87c445f7435f1956ad84be1.jpg",
-      "original_image": "./assets/news/c87c445f7435f1956ad84be1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c8xkrpj5wn0o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8e3ed96faa79.html"
-    },
-    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-11T04:01:33.228316+00:00",
+      "published": "2026-09-11T04:22:45.445901+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -406,7 +406,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f12948d95908.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7178ef9cd592.html"
     }
   ]
 }
