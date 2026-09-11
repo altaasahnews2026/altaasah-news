@@ -7,7 +7,7 @@ from PIL import Image
 HEADERS={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/128 Safari/537.36','Accept-Language':'ar-IQ,ar;q=0.9,en;q=0.7'}
 MAX_AGE=timedelta(hours=30)
 NOW=datetime.now(timezone.utc)
-SOURCES=[('https://rudaw.net/arabic/authors/r%C3%BBdaw','رووداو'),('https://news.imn.iq/','قناة العراقية'),('https://alsharqiya.com/news','قناة الشرقية'),('https://alsharqiya.com/','قناة الشرقية'),('https://alfallujah.tv/','قناة الفلوجة'),('https://www.alarabiya.net/arab-and-world/iraq','العربية'),('https://www.alsumaria.tv/news','السومرية نيوز'),('https://www.alsumaria.tv/alsumarianews','السومرية نيوز'),('https://shafaq.com/ar','شفق نيوز'),('https://ninanews.com/website/','وكالة نينا'),('https://www.sjc.iq/','مجلس القضاء الأعلى')]
+SOURCES=[('https://rudaw.net/arabic/authors/r%C3%BBdaw','رووداو'),('https://news.imn.iq/','قناة العراقية'),('https://alsharqiya.com/news','قناة الشرقية'),('https://alsharqiya.com/','قناة الشرقية'),('https://alfallujah.tv/','قناة الفلوجة'),('https://www.alarabiya.net/arab-and-world/iraq','العربية'),('https://www.alsumaria.tv/news','السومرية نيوز'),('https://www.alsumaria.tv/alsumarianews','السومرية نيوز'),('https://shafaq.com/ar','شفق نيوز'),('https://ninanews.com/website/','وكالة نينا'),('https://www.sjc.iq/','مجلس القضاء الأعلى'),('https://kirkuknow.com/ar','كركوك ناو')]
 GENERIC=('logo','icon','favicon','avatar','placeholder','default','sprite','banner','advert','ads','loading','no-image','profile')
 GOVERNORATES={
  'بغداد':('بغداد','بغداد','أبو غريب','ابو غريب','المدائن','التاجي','المحمودية','الطارمية'),
@@ -31,7 +31,7 @@ GOVERNORATES={
 }
 IRAQ=('العراق','الحشد','البرلمان العراقي','الحكومة العراقية','القوات العراقية','مجلس الوزراء')
 INTL=('فلسطين','غزة','إسرائيل','اسرائيل','لبنان','سوريا','الأردن','الاردن','السعودية','الإمارات','الامارات','الكويت','قطر','البحرين','عُمان','عمان','اليمن','مصر','ليبيا','تونس','الجزائر','المغرب','السودان','إيران','ايران','تركيا','أمريكا','امريكا','أميركا','روسيا','أوكرانيا','الصين','أوروبا','بريطانيا','فرنسا','ألمانيا','دولي','دولية')
-ALLOWED_HOSTS=('rudaw.net','www.rudaw.net','news.imn.iq','imn.iq','www.imn.iq','alsharqiya.com','www.alsharqiya.com','alfallujah.tv','www.alfallujah.tv','alarabiya.net','www.alarabiya.net','alsumaria.tv','www.alsumaria.tv','shafaq.com','www.shafaq.com','ninanews.com','www.ninanews.com','sjc.iq','www.sjc.iq')
+ALLOWED_HOSTS=('rudaw.net','www.rudaw.net','news.imn.iq','imn.iq','www.imn.iq','alsharqiya.com','www.alsharqiya.com','alfallujah.tv','www.alfallujah.tv','alarabiya.net','www.alarabiya.net','alsumaria.tv','www.alsumaria.tv','shafaq.com','www.shafaq.com','ninanews.com','www.ninanews.com','sjc.iq','www.sjc.iq','kirkuknow.com','www.kirkuknow.com')
 
 def get(url,timeout=12):
  try:
@@ -148,7 +148,8 @@ for source_url,source_name in SOURCES:
   rawimg=image(at,article_final)
   if not rawimg:continue
   img=store(rawimg);g=governorate(t);r=region(t)
-  item={'title':t,'url':article_final,'category':category(t),'region':r,'governorate':g,'published':d.isoformat(),'image':img,'original_image':img,'source_url':article_final,'source_name':source_name,'breaking':False,'kirkuk':g=='كركوك','report':False}
+  item={'title':t,'url':article_final,'category':category(t),'region':r,'governorate':g,'published':d.isoformat(),'image':img,'original_image':img,'source_url':article_final,'source_name':source_name,'breaking':False,'kirkuk':g=='كركuk','report':False}
+  item['kirkuk'] = g == 'كركوك'
   items.append(item);urls.add(article_final);titles.add(t);added+=1
 
 # ترتيب موحد: الأحدث أولا. لا نعطي كركوك أو أي محافظة أولوية للخبر الرئيسي.
