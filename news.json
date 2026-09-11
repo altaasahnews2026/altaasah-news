@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-11T14:36:29.698717+00:00",
+  "updated_at": "2026-09-11T14:50:47.093352+00:00",
   "items": [
     {
-      "title": "الحوثيون يتقدمون نحو باب المندب، ما أهمية المناطق التي سيطروا عليها؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c3wj5050v5no",
+      "title": "اجتماع في عُمان بشأن مضيق هرمز بمشاركة العراق ودول الخليج",
+      "url": "https://www.alsumaria.tv/news/international/575748/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%81%D9%8A-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC",
       "category": "سياسة",
       "region": "العراق",
-      "published": "2026-09-11T14:05:31+00:00",
-      "image": "./assets/news/868b7b55d2dd5a3db16988e4.jpg",
-      "original_image": "./assets/news/868b7b55d2dd5a3db16988e4.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c3wj5050v5no",
-      "source_name": "شفق نيوز",
+      "published": "2026-09-11T14:42:19+00:00",
+      "image": "./assets/news/10116d762468f12e68816052.jpg",
+      "original_image": "./assets/news/10116d762468f12e68816052.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575748/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%81%D9%8A-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC",
+      "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6c7283183f00.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ed5cf54c8dc2.html"
     },
     {
       "title": "نصيحة من وزير الرياضة السابق للقادم: ادعم الألعاب الفردية بمقدار دعمك للقدم",
@@ -32,6 +32,36 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/702df56849bb.html"
     },
     {
+      "title": "الحوثيون يعززون السيطرة على باب المندب، وأنباء عن \"غارات سعودية\" على المخا - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-11T14:36:11+00:00",
+      "image": "./assets/news/59fb4c3998f6a8a086d8119c.jpg",
+      "original_image": "./assets/news/59fb4c3998f6a8a086d8119c.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8c80b299be5c.html"
+    },
+    {
+      "title": "الحوثيون يتقدمون نحو باب المندب، ما أهمية المناطق التي سيطروا عليها؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c3wj5050v5no",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-11T14:05:31+00:00",
+      "image": "./assets/news/868b7b55d2dd5a3db16988e4.jpg",
+      "original_image": "./assets/news/868b7b55d2dd5a3db16988e4.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c3wj5050v5no",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6c7283183f00.html"
+    },
+    {
       "title": "بزشكيان: لا أؤيد استمرار الحرب، وترامب يواجه ضغوطاً لإنهائها قبل نوفمبر - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cr50qjy0yjlo",
       "category": "سياسة",
@@ -45,21 +75,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/108496041dae.html"
-    },
-    {
-      "title": "الحوثيون يعززون السيطرة على باب المندب، وأنباء عن \"غارات سعودية\" على المخا - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-11T13:28:28+00:00",
-      "image": "./assets/news/59fb4c3998f6a8a086d8119c.jpg",
-      "original_image": "./assets/news/59fb4c3998f6a8a086d8119c.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/06a0a6d2a48c.html"
     },
     {
       "title": "\"يتشبّت بعضنا ببعض، مستعدين للموت\": اليمن على شفا الهاوية مع انهيار الهدنة - شفق نيوز..",
@@ -272,21 +287,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4c90e799336e.html"
     },
     {
-      "title": "أزمة كبرى في الأرجنتين بعد رحيل ميسي",
-      "url": "https://www.alsumaria.tv/Entertainment-News/575728/sports/%D8%A3%D8%B2%D9%85%D8%A9-%D9%83%D8%A8%D8%B1%D9%89-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%B1%D8%AD%D9%8A%D9%84-%D9%85%D9%8A%D8%B3%D9%8A",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-11T09:41:15+00:00",
-      "image": "./assets/news/d7a3fcaade08e1b29a5a2825.jpg",
-      "original_image": "./assets/news/d7a3fcaade08e1b29a5a2825.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/575728/sports/%D8%A3%D8%B2%D9%85%D8%A9-%D9%83%D8%A8%D8%B1%D9%89-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%B1%D8%AD%D9%8A%D9%84-%D9%85%D9%8A%D8%B3%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d7dabbd4ccbc.html"
-    },
-    {
       "title": "العثور على “رمانة يدوية” قرب منزل عضو مجلس ذي قار سالم عجمي",
       "url": "https://964media.com/715913/",
       "category": "سياسة",
@@ -306,7 +306,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-11T14:36:29.858462+00:00",
+      "published": "2026-09-11T14:50:47.344994+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -316,7 +316,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2431a62303da.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2478ae288da1.html"
     }
   ]
 }
