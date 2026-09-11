@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T21:00:55.095031+00:00",
+  "updated_at": "2026-09-11T21:09:49.130267+00:00",
   "latest": [
     {
       "title": "السعودية تعلن تعرضها لهجوم بالمسيرات من العراق: لن نرد هذه المرة استجابة للزيدي",
@@ -88,6 +88,16 @@
       ]
     },
     {
+      "title": "الحوثيون يحاصرون الملاحة السعودية في باب المندب، ومسيرات من العراق تهاجم النفط السعودي - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
+      "category": "عراق",
+      "published": "2026-09-11T20:36:32+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "نصيحة من وزير الرياضة السابق للقادم: ادعم الألعاب الفردية بمقدار دعمك للقدم",
       "url": "https://964media.com/715761/",
       "category": "عراق",
@@ -108,20 +118,10 @@
       ]
     },
     {
-      "title": "الحوثيون يحكمون قبضتهم على باب المندب، وابن سلمان يطلب تدخلاً من ترامب - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
-      "category": "عراق",
-      "published": "2026-09-11T20:29:39+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-11T21:00:52.081970+00:00",
+      "published": "2026-09-11T21:09:40.189938+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -267,17 +267,6 @@
       ]
     },
     {
-      "title": "قطر: نعمل مع شركائنا الإقليميين والصين لاستئناف المحادثات بين أميركا وإيران",
-      "url": "https://aawsat.com/node/5316068",
-      "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 16:14:47 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
-    },
-    {
       "title": "التحالف يتوعد الحوثيين غداة استهداف مدن سعودية",
       "url": "https://aawsat.com/node/5316232",
       "category": "مشرق أوسط",
@@ -309,6 +298,26 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "السعودية وقطر وتركيا تبحث خفض التصعيد الإقليمي",
+      "url": "https://aawsat.com/node/5317309",
+      "category": "مشرق أوسط",
+      "published": "Fri, 11 Sep 2026 22:09:36 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "السعودية ترحب بإطلاق «تحالف التعاون بين بلدان الجنوب»",
+      "url": "https://aawsat.com/node/5317307",
+      "category": "مشرق أوسط",
+      "published": "Fri, 11 Sep 2026 22:04:32 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {
@@ -452,14 +461,6 @@
       "url": "https://aawsat.com/node/5316763",
       "category": "مشرق أوسط",
       "published": "Thu, 10 Sep 2026 11:29:09 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "اليمن يُثبّت مكاسبه ضد الحوثيين ويُوسّع مسرح العمليات",
-      "url": "https://aawsat.com/node/5316636",
-      "category": "مشرق أوسط",
-      "published": "Thu, 10 Sep 2026 02:19:19 +0100",
       "breaking": false,
       "watch_topics": []
     },
