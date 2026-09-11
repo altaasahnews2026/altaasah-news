@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-11T00:50:25.384956+00:00",
+  "updated_at": "2026-09-11T01:03:04.954172+00:00",
   "items": [
     {
       "title": "ترامب يعد بتوزيع المال على الأمريكيين اذا فاز حزبه! - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c36lkjlzn8po",
       "category": "سياسة",
       "region": "العراق",
-      "published": "2026-09-11T00:14:28+00:00",
+      "published": "2026-09-11T00:51:38+00:00",
       "image": "./assets/news/f3f14e7bbf17996392aad861.jpg",
       "original_image": "./assets/news/f3f14e7bbf17996392aad861.jpg",
       "source_url": "https://shafaq.com/ar/bbc-arabic/c36lkjlzn8po",
@@ -14,7 +14,7 @@
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c2fc10e27efc.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/eca9acd870df.html"
     },
     {
       "title": "يوخنا: تراجع كبير بأعداد المسيحيين وظلم يطال تمثيلهم بكركوك وسهل نينوى",
@@ -396,7 +396,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-11T00:50:25.554029+00:00",
+      "published": "2026-09-11T01:03:05.163804+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -406,7 +406,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/189cfe3021b7.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/208c2c98e085.html"
     }
   ]
 }
