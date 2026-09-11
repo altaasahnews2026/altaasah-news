@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-11T09:57:53.949606+00:00",
+  "updated_at": "2026-09-11T10:17:37.966217+00:00",
   "items": [
     {
-      "title": "أزمة كبرى في الأرجنتين بعد رحيل ميسي",
-      "url": "https://www.alsumaria.tv/Entertainment-News/575728/sports/%D8%A3%D8%B2%D9%85%D8%A9-%D9%83%D8%A8%D8%B1%D9%89-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%B1%D8%AD%D9%8A%D9%84-%D9%85%D9%8A%D8%B3%D9%8A",
-      "category": "رياضة",
+      "title": "وزير الخزانة الأمريكي: عقوبات على بنك كبير يتعامل مع إيران الأسبوع المقبل - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
+      "category": "سياسة",
       "region": "العراق",
-      "published": "2026-09-11T09:41:15+00:00",
-      "image": "./assets/news/d7a3fcaade08e1b29a5a2825.jpg",
-      "original_image": "./assets/news/d7a3fcaade08e1b29a5a2825.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/575728/sports/%D8%A3%D8%B2%D9%85%D8%A9-%D9%83%D8%A8%D8%B1%D9%89-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%B1%D8%AD%D9%8A%D9%84-%D9%85%D9%8A%D8%B3%D9%8A",
-      "source_name": "السومرية نيوز",
+      "published": "2026-09-11T09:54:41+00:00",
+      "image": "./assets/news/3b46b7c58acdcd55b5cf5d8b.jpg",
+      "original_image": "./assets/news/3b46b7c58acdcd55b5cf5d8b.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
+      "source_name": "شفق نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d7dabbd4ccbc.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c21f39481ef3.html"
     },
     {
       "title": "نصيحة من وزير الرياضة السابق للقادم: ادعم الألعاب الفردية بمقدار دعمك للقدم",
@@ -30,6 +30,36 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/702df56849bb.html"
+    },
+    {
+      "title": "الحوثيون يسيطرون على مضيق باب المندب، وتقرير يفيد برفض ترامب طلب محمد بن سلمان استهدافهم - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c7v41qzn9j2o",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-11T09:51:06+00:00",
+      "image": "./assets/news/dc0ae76f837bc70d0a2ad0b7.jpg",
+      "original_image": "./assets/news/dc0ae76f837bc70d0a2ad0b7.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c7v41qzn9j2o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4bec2ccba4de.html"
+    },
+    {
+      "title": "أزمة كبرى في الأرجنتين بعد رحيل ميسي",
+      "url": "https://www.alsumaria.tv/Entertainment-News/575728/sports/%D8%A3%D8%B2%D9%85%D8%A9-%D9%83%D8%A8%D8%B1%D9%89-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%B1%D8%AD%D9%8A%D9%84-%D9%85%D9%8A%D8%B3%D9%8A",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-11T09:41:15+00:00",
+      "image": "./assets/news/05658fb6a025ecfe50fc0754.jpg",
+      "original_image": "./assets/news/05658fb6a025ecfe50fc0754.jpg",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/575728/sports/%D8%A3%D8%B2%D9%85%D8%A9-%D9%83%D8%A8%D8%B1%D9%89-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%B1%D8%AD%D9%8A%D9%84-%D9%85%D9%8A%D8%B3%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d7dabbd4ccbc.html"
     },
     {
       "title": "بعد ربع قرن على هجمات 11 سبتمبر، لماذا فشل مشروع أسامة بن لادن؟ - الغارديان - شفق نيوز..",
@@ -90,21 +120,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/32ac6c2b510f.html"
-    },
-    {
-      "title": "الحوثيون يسيطرون على مضيق باب المندب، وتقرير يفيد بأن ترامب رفض طلباً من بن سلمان باستهدافهم - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c7v41qzn9j2o",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-11T09:28:49+00:00",
-      "image": "./assets/news/dc0ae76f837bc70d0a2ad0b7.jpg",
-      "original_image": "./assets/news/dc0ae76f837bc70d0a2ad0b7.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c7v41qzn9j2o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/12a3d736f4f6.html"
     },
     {
       "title": "ماذا نعرف عن ميناء المخا والمدينة التي سيطر عليها الحوثيون؟ - شفق نيوز..",
@@ -317,36 +332,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fd3475f5642e.html"
     },
     {
-      "title": "وزير البحرية الأمريكي: إيران ألحقت أضرارا هائلة بقاعدتنا في البحرين",
-      "url": "https://www.alsumaria.tv/news/international/575708/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A3%D9%84%D8%AD%D9%82%D8%AA-%D8%A3%D8%B6%D8%B1%D8%A7%D8%B1%D8%A7-%D9%87%D8%A7%D8%A6%D9%84%D8%A9-%D8%A8%D9%82%D8%A7%D8%B9%D8%AF%D8%AA%D9%86%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-11T06:42:31+00:00",
-      "image": "./assets/news/5b29c44276b03e35da86b568.jpg",
-      "original_image": "./assets/news/5b29c44276b03e35da86b568.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/575708/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A3%D9%84%D8%AD%D9%82%D8%AA-%D8%A3%D8%B6%D8%B1%D8%A7%D8%B1%D8%A7-%D9%87%D8%A7%D8%A6%D9%84%D8%A9-%D8%A8%D9%82%D8%A7%D8%B9%D8%AF%D8%AA%D9%86%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2b580376cb01.html"
-    },
-    {
-      "title": "وزير الخزانة الأمريكي: عقوبات على بنك كبير يتعامل مع إيران الأسبوع المقبل - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-11T06:12:06+00:00",
-      "image": "./assets/news/3b46b7c58acdcd55b5cf5d8b.jpg",
-      "original_image": "./assets/news/3b46b7c58acdcd55b5cf5d8b.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/16cbbac4c0c9.html"
-    },
-    {
       "title": "طبخ مربى “العرموط” بدأ وموائد الخريف تحتفل بقطاف وفير على سفوح أربيل",
       "url": "https://964media.com/715409/",
       "category": "سياسة",
@@ -366,7 +351,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-11T09:57:54.163691+00:00",
+      "published": "2026-09-11T10:17:38.161741+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -376,7 +361,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5ee1b37a4882.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4e59e210a15d.html"
     }
   ]
 }
