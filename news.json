@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-09-11T21:56:40.070619+00:00",
+  "updated_at": "2026-09-11T22:04:45.040920+00:00",
   "items": [
-    {
-      "title": "مجلس التعاون الخليجي يدين هجوم المسيرات من العراق ويطالب بغداد بتحرك حازم",
-      "url": "https://964media.com/716037/",
-      "category": "أمن",
-      "region": "بغداد",
-      "published": "2026-09-11T20:43:43+00:00",
-      "image": "./assets/news/895002ea7d0f88bce0773ad3.jpg",
-      "original_image": "./assets/news/895002ea7d0f88bce0773ad3.jpg",
-      "source_url": "https://964media.com/716037/",
-      "source_name": "شبكة 964",
-      "breaking": true,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e596f23f3099.html"
-    },
     {
       "title": "السعودية تدين الاعتداء على انابيب نفطية بالمدينة والرياض بمسيرات من العراق",
       "url": "https://www.alsumaria.tv/news/international/575767/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%A7%D9%86%D8%A7%D8%A8%D9%8A%D8%A8-%D9%86%D9%81%D8%B7%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%88%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%A8%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84",
@@ -34,44 +18,12 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/14a2ec872cb7.html"
     },
     {
-      "title": "العراق يدين استهداف السعودية.. الزيدي يأمر بتحقيق عاجل وملاحقة المتورطين",
-      "url": "https://964media.com/716034/",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-11T20:20:43+00:00",
-      "image": "./assets/news/032b233b8dbf2fccd04d0e73.jpg",
-      "original_image": "./assets/news/032b233b8dbf2fccd04d0e73.jpg",
-      "source_url": "https://964media.com/716034/",
-      "source_name": "شبكة 964",
-      "breaking": true,
-      "kirkuk": false,
-      "report": true,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9837676df6fb.html"
-    },
-    {
-      "title": "السعودية تعلن تعرضها لهجوم بالمسيرات من العراق: لن نرد هذه المرة استجابة للزيدي",
-      "url": "https://964media.com/716027/",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-11T20:15:11+00:00",
-      "image": "./assets/news/d6363d4bb5b39f4fd232e6a2.jpg",
-      "original_image": "./assets/news/d6363d4bb5b39f4fd232e6a2.jpg",
-      "source_url": "https://964media.com/716027/",
-      "source_name": "شبكة 964",
-      "breaking": true,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/58961292f616.html"
-    },
-    {
       "title": "السعودية توقف \"احترازياً\" خط أنابيب شرق-غرب النفطي، وبغداد تثمن قرار الرياض بعدم الرد على الهجمات - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
       "category": "اقتصاد",
       "region": "بغداد",
       "governorate": "بغداد",
-      "published": "2026-09-11T20:36:32+00:00",
+      "published": "2026-09-11T21:50:02+00:00",
       "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
       "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
       "source_url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
@@ -79,7 +31,39 @@
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6195a7d46ce0.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e4191f52aa24.html"
+    },
+    {
+      "title": "استهداف السعودية انطلق من ميسان.. الزيدي يعفي قائد العمليات ويشكل مجلساً للتحقيق",
+      "url": "https://964media.com/716041/",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-11T21:49:02+00:00",
+      "image": "./assets/news/5c88f1342d9bea08d6413333.jpg",
+      "original_image": "./assets/news/5c88f1342d9bea08d6413333.jpg",
+      "source_url": "https://964media.com/716041/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "governorate": "ميسان",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5bba00d39027.html"
+    },
+    {
+      "title": "توجيه حكومي بتشكيل مجلس تحقيقي بحق قيادة عمليات ميسان واعفاء قائد عملياتها",
+      "url": "https://www.alsumaria.tv/news/localnews/575768/%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%A8%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D9%85%D8%AC%D9%84%D8%B3-%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D8%A8%D8%AD%D9%82-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D9%85%D9%8A%D8%B3%D8%A7%D9%86-%D9%88%D8%A7%D8%B9%D9%81%D8%A7%D8%A1-%D9%82%D8%A7%D8%A6%D8%AF-%D8%B9%D9%85%D9%84%D9%8A",
+      "category": "سياسة",
+      "region": "ميسان",
+      "published": "2026-09-11T21:46:23+00:00",
+      "image": "./assets/news/8366099990300e1a97cdf0fb.jpg",
+      "original_image": "./assets/news/8366099990300e1a97cdf0fb.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/575768/%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%A8%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D9%85%D8%AC%D9%84%D8%B3-%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D8%A8%D8%AD%D9%82-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D9%85%D9%8A%D8%B3%D8%A7%D9%86-%D9%88%D8%A7%D8%B9%D9%81%D8%A7%D8%A1-%D9%82%D8%A7%D8%A6%D8%AF-%D8%B9%D9%85%D9%84%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "governorate": "ميسان",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ad51945994ae.html"
     },
     {
       "title": "العراق يدين الهجمات على السعودية: لن تكون اراضينا منطلق لاستهداف الدول",
@@ -103,8 +87,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-11T20:14:03+00:00",
-      "image": "./assets/news/f315a8c0d05e343a78cef50e.jpg",
-      "original_image": "./assets/news/f315a8c0d05e343a78cef50e.jpg",
+      "image": "./assets/news/2ced0648fc6be0e6c8382efa.jpg",
+      "original_image": "./assets/news/2ced0648fc6be0e6c8382efa.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/575765/sports/%D9%8A%D9%88%D9%8A%D9%81%D8%A7-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2-%D8%A8%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D8%A8%D8%B7%D8%A7%D9%84",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -119,8 +103,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-11T19:44:30+00:00",
-      "image": "./assets/news/e040424687c590766c4269d4.jpg",
-      "original_image": "./assets/news/e040424687c590766c4269d4.jpg",
+      "image": "./assets/news/6499783fa3b2567147fa0302.jpg",
+      "original_image": "./assets/news/6499783fa3b2567147fa0302.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/575764/sports/%D9%87%D9%84-%D9%8A%D8%AE%D8%B7%D8%B7-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%84%D8%AA%D9%83%D8%B1%D9%8A%D9%85-%D9%85%D9%8A%D8%B3%D9%8A-%D8%A7%D9%84%D8%A7%D9%85%D9%88%D8%B1-%D9%84%D8%A7-%D8%AA%D8%B3%D8%B1",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -176,22 +160,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9befe9d05e7e.html"
-    },
-    {
-      "title": "صور: ضبط طائرات مسيرة ومتفجرات في موقع مهجور بالأنبار",
-      "url": "https://964media.com/716006/",
-      "category": "أمن",
-      "region": "الأنبار",
-      "published": "2026-09-11T18:27:01+00:00",
-      "image": "./assets/news/ba72966660abbb1919d6ceab.jpg",
-      "original_image": "./assets/news/ba72966660abbb1919d6ceab.jpg",
-      "source_url": "https://964media.com/716006/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "الأنبار",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9f772d7e5213.html"
     },
     {
       "title": "ضبط 47 طائرة مسيّرة و46 مقذوفاً في موقع مهجور بالانبار",
@@ -288,22 +256,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/60d68715ee37.html"
-    },
-    {
-      "title": "صور: حضارة العراق وألعاب نارية في افتتاح الدوري الممتاز بالناصرية",
-      "url": "https://964media.com/715972/",
-      "category": "رياضة",
-      "region": "صلاح الدين",
-      "published": "2026-09-11T17:20:22+00:00",
-      "image": "./assets/news/8aeccfe034f95fb3f036c859.jpg",
-      "original_image": "./assets/news/8aeccfe034f95fb3f036c859.jpg",
-      "source_url": "https://964media.com/715972/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "صلاح الدين",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/de6b1a4f6a12.html"
     },
     {
       "title": "الشيباني يدعو الى الالتزام بحدود المسؤولية واحترام الأطر القانونية",
@@ -486,7 +438,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-11T21:56:40.291378+00:00",
+      "published": "2026-09-11T22:04:45.201329+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -496,7 +448,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/82872d255af2.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b5e997c92e87.html"
     }
   ]
 }
