@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-11T13:34:15.651193+00:00",
+  "updated_at": "2026-09-11T13:49:18.061323+00:00",
   "items": [
     {
-      "title": "\"يتشبّت بعضنا ببعض، مستعدين للموت\": اليمن على شفا الهاوية مع انهيار الهدنة - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/crr42x29jzro",
+      "title": "الحوثيون يعززون نفوذهم في باب المندب، وواشنطن ترسل وفداً عسكرياً إلى السعودية - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
       "category": "عربي ودولي",
       "region": "عربي ودولي",
-      "published": "2026-09-11T13:10:16+00:00",
-      "image": "./assets/news/e7b60f8990de714d2b1e833c.jpg",
-      "original_image": "./assets/news/e7b60f8990de714d2b1e833c.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/crr42x29jzro",
+      "published": "2026-09-11T13:28:28+00:00",
+      "image": "./assets/news/59fb4c3998f6a8a086d8119c.jpg",
+      "original_image": "./assets/news/59fb4c3998f6a8a086d8119c.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
       "source_name": "شفق نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cf042d3a32fe.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fc7642520a34.html"
     },
     {
       "title": "نصيحة من وزير الرياضة السابق للقادم: ادعم الألعاب الفردية بمقدار دعمك للقدم",
@@ -30,6 +30,21 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/702df56849bb.html"
+    },
+    {
+      "title": "\"يتشبّت بعضنا ببعض، مستعدين للموت\": اليمن على شفا الهاوية مع انهيار الهدنة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/crr42x29jzro",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-11T13:10:16+00:00",
+      "image": "./assets/news/e7b60f8990de714d2b1e833c.jpg",
+      "original_image": "./assets/news/e7b60f8990de714d2b1e833c.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/crr42x29jzro",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cf042d3a32fe.html"
     },
     {
       "title": "الحوثيون يعلنون السيطرة على 6 مديريات في تعز والحديدة",
@@ -90,21 +105,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c283a8b40eb8.html"
-    },
-    {
-      "title": "الحوثيون يعززون نفوذهم قرب باب المندب، وواشنطن ترسل وفداً عسكرياً إلى السعودية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-11T12:45:35+00:00",
-      "image": "./assets/news/59fb4c3998f6a8a086d8119c.jpg",
-      "original_image": "./assets/news/59fb4c3998f6a8a086d8119c.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a4f0a7029c12.html"
     },
     {
       "title": "إثيوبيا تستقبل رسمياً عام 2019",
@@ -336,7 +336,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-11T13:34:15.899694+00:00",
+      "published": "2026-09-11T13:49:18.234038+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -346,7 +346,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a4890b5d1268.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/79dd52394171.html"
     }
   ]
 }
