@@ -2,7 +2,6 @@ from pathlib import Path
 import hashlib, html, json
 
 BASE = 'https://altaasahnews2026.github.io/altaasah-news/'
-RAW = 'https://raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/'
 NEWS_DIR = Path('news')
 NEWS_DIR.mkdir(exist_ok=True)
 
@@ -13,22 +12,15 @@ def slug(item):
     raw = f"{item.get('title','')}-{item.get('url','')}-{item.get('published','')}"
     return hashlib.sha256(raw.encode('utf-8')).hexdigest()[:12]
 
-def image_url(path):
+def same_origin_image_url(path):
     p = str(path or '').strip()
     if not p or '6deaa228-fef4-472c-819d-400fa6c78630.jpg' in p:
         return ''
-    if p.startswith(RAW): return p
-    if p.startswith(BASE): return RAW + p[len(BASE):]
-    if p.startswith(('http://','https://')): return p
-    return RAW + p.lstrip('./')
-
-def raw_image_url(path):
-    p = str(path or '').strip()
-    if not p or '6deaa228-fef4-472c-819d-400fa6c78630.jpg' in p: return ''
-    if p.startswith(RAW): return p
-    if p.startswith(BASE): return RAW + p[len(BASE):]
-    if p.startswith(('http://','https://')): return ''
-    return RAW + p.lstrip('./')
+    if p.startswith(BASE):
+        return p
+    if p.startswith(('http://','https://')):
+        return p
+    return BASE + p.lstrip('./')
 
 data = json.loads(Path('news.json').read_text(encoding='utf-8'))
 items = data.get('items', [])
@@ -40,14 +32,13 @@ for item in items:
     title = item.get('title', 'خبر من التاسعة نيوز')
     cat = item.get('category', 'أخبار العراق')
     published = str(item.get('published') or '')
-    image = image_url(item.get('image'))
-    original = image_url(item.get('original_image'))
-    raw_image = raw_image_url(item.get('image'))
-    raw_original = raw_image_url(item.get('original_image'))
-    primary = image or original or raw_image or raw_original
+    image = same_origin_image_url(item.get('image'))
+    original = same_origin_image_url(item.get('original_image'))
+    primary = image or original
     fallbacks = []
-    for u in (raw_image, raw_original, original):
-        if u and u != primary and u not in fallbacks: fallbacks.append(u)
+    for u in (original, image):
+        if u and u != primary and u not in fallbacks:
+            fallbacks.append(u)
     fallback_js = ''
     if fallbacks:
         chain = json.dumps(fallbacks, ensure_ascii=False).replace('"', '&quot;')
