@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T12:42:17.381622+00:00",
+  "updated_at": "2026-09-11T12:58:10.461625+00:00",
   "items": [
     {
       "title": "إثيوبيا تستقبل رسمياً عام 2019",
@@ -7,8 +7,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-11T12:38:33+00:00",
-      "image": "./assets/news/1b9afa78fd49f412add807ca.jpg",
-      "original_image": "./assets/news/1b9afa78fd49f412add807ca.jpg",
+      "image": "./assets/news/15df17f4ff1d16a3772cfb5d.jpg",
+      "original_image": "./assets/news/15df17f4ff1d16a3772cfb5d.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575740/%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7-%D8%AA%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7%D9%8B-%D8%B9%D8%A7%D9%85-2019",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -32,6 +32,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/702df56849bb.html"
     },
     {
+      "title": "\"يتشبّت بعضنا ببعض، مستعدين للموت\": اليمن على شفا الهاوية مع انهيار الهدنة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/crr42x29jzro",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-11T12:28:59+00:00",
+      "image": "./assets/news/e7b60f8990de714d2b1e833c.jpg",
+      "original_image": "./assets/news/e7b60f8990de714d2b1e833c.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/crr42x29jzro",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f65eb0c59698.html"
+    },
+    {
       "title": "التخطيط تكشف تفاصيل الإطار الاستثماري لموازنة 2027",
       "url": "https://www.alsumaria.tv/news/localnews/575739/%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A-%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-2027",
       "category": "سياسة",
@@ -45,6 +60,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fc00e119363d.html"
+    },
+    {
+      "title": "الحوثيون يسيطرون على مواقع استراتيجية في باب المندب، وتقرير يفيد برفض ترامب طلب بن سلمان استهدافهم - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c7v41qzn9j2o",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-11T12:23:24+00:00",
+      "image": "./assets/news/dc0ae76f837bc70d0a2ad0b7.jpg",
+      "original_image": "./assets/news/dc0ae76f837bc70d0a2ad0b7.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c7v41qzn9j2o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2a07d0b4af32.html"
     },
     {
       "title": "مستشفيان عراقيان ينضمان إلى تحالف “سانت جود” العالمي لعلاج أورام الأطفال",
@@ -82,8 +112,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-11T11:14:56+00:00",
-      "image": "./assets/news/a60959cab4aac8b4c1baab6e.jpg",
-      "original_image": "./assets/news/a60959cab4aac8b4c1baab6e.jpg",
+      "image": "./assets/news/c247c016b62217c1638df2f0.jpg",
+      "original_image": "./assets/news/c247c016b62217c1638df2f0.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575734/%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%86%D8%B3%D8%AD%D8%A8-%D9%85%D9%86-%D9%85%D8%B1%D8%AA%D9%81%D8%B9%D8%A7%D8%AA-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D8%B7%D8%A7%D9%87%D8%B1",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -112,29 +142,14 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-11T11:00:00+00:00",
-      "image": "./assets/news/69917c717c85e47a9d7a3d4e.jpg",
-      "original_image": "./assets/news/69917c717c85e47a9d7a3d4e.jpg",
+      "image": "./assets/news/5cb778866b7b0395fa1824ef.jpg",
+      "original_image": "./assets/news/5cb778866b7b0395fa1824ef.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/575733/sports/12-%D9%8A%D9%88%D9%85%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%88%D8%A7%D9%84%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%83%D9%84-%D9%85%D8%A7-%D8%AA%D8%B1%D9%8A%D8%AF-%D9%85%D8%B9%D8%B1%D9%81%D8%AA%D9%87-%D8%B9%D9%86-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
       "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/823e6094249b.html"
-    },
-    {
-      "title": "الحوثيون يسيطرون على مضيق باب المندب، وتقرير يفيد برفض ترامب طلب محمد بن سلمان استهدافهم - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c7v41qzn9j2o",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-11T10:53:46+00:00",
-      "image": "./assets/news/dc0ae76f837bc70d0a2ad0b7.jpg",
-      "original_image": "./assets/news/dc0ae76f837bc70d0a2ad0b7.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c7v41qzn9j2o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ea4d839a5d9e.html"
     },
     {
       "title": "بينهم ميسي.. ذا أتلتيك تصنف العشرة الأوائل في سباق الكرة الذهبية",
@@ -150,21 +165,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4c90e799336e.html"
-    },
-    {
-      "title": "وزير الخزانة الأمريكي: عقوبات على بنك كبير يتعامل مع إيران الأسبوع المقبل - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-11T09:54:41+00:00",
-      "image": "./assets/news/3b46b7c58acdcd55b5cf5d8b.jpg",
-      "original_image": "./assets/news/3b46b7c58acdcd55b5cf5d8b.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c21f39481ef3.html"
     },
     {
       "title": "أزمة كبرى في الأرجنتين بعد رحيل ميسي",
@@ -272,21 +272,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6c7667c5fcd8.html"
     },
     {
-      "title": "رسالة من الزيدي الى اوروبا",
-      "url": "https://www.alsumaria.tv/news/politics/575720/%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%A7%D9%84%D9%89-%D8%A7%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-11T09:04:17+00:00",
-      "image": "./assets/news/776925b25af855af2fbece4c.jpg",
-      "original_image": "./assets/news/776925b25af855af2fbece4c.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/575720/%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%A7%D9%84%D9%89-%D8%A7%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/57573dd96fb2.html"
-    },
-    {
       "title": "إسرائيل تعلن تدمير \"نفقين لحزب الله\" في جنوب لبنان باستخدام أكثر من ألف طن من المتفجرات - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cevwz7npy4wo",
       "category": "سياسة",
@@ -321,7 +306,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-11T12:42:17.593585+00:00",
+      "published": "2026-09-11T12:58:10.677446+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -331,7 +316,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4b6a0e2132d4.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6ab8fbb8b75a.html"
     }
   ]
 }

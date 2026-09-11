@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-11T12:42:21.082394+00:00",
+  "updated_at": "2026-09-11T12:58:14.938811+00:00",
   "latest": [
     {
-      "title": "الحوثيون يسيطرون على مضيق باب المندب، وتقرير يفيد برفض ترامب طلب محمد بن سلمان استهدافهم - شفق نيوز..",
+      "title": "الحوثيون يسيطرون على مواقع استراتيجية في باب المندب، وتقرير يفيد برفض ترامب طلب بن سلمان استهدافهم - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c7v41qzn9j2o",
       "category": "عراق",
-      "published": "2026-09-11T10:53:46+00:00",
+      "published": "2026-09-11T12:23:24+00:00",
       "breaking": true,
       "watch_topics": [
         "أمريكا"
@@ -18,16 +18,6 @@
       "published": "2026-09-11T09:33:17+00:00",
       "breaking": true,
       "watch_topics": []
-    },
-    {
-      "title": "وزير الخزانة الأمريكي: عقوبات على بنك كبير يتعامل مع إيران الأسبوع المقبل - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
-      "category": "عراق",
-      "published": "2026-09-11T09:54:41+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
     },
     {
       "title": "نصيحة من وزير الرياضة السابق للقادم: ادعم الألعاب الفردية بمقدار دعمك للقدم",
@@ -43,7 +33,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-11T12:42:17.593585+00:00",
+      "published": "2026-09-11T12:58:10.677446+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -60,14 +50,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cevwz7npy4wo",
       "category": "عراق",
       "published": "2026-09-11T08:25:36+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "رسالة من الزيدي الى اوروبا",
-      "url": "https://www.alsumaria.tv/news/politics/575720/%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%A7%D9%84%D9%89-%D8%A7%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
-      "category": "عراق",
-      "published": "2026-09-11T09:04:17+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -176,10 +158,34 @@
       "watch_topics": []
     },
     {
+      "title": "\"يتشبّت بعضنا ببعض، مستعدين للموت\": اليمن على شفا الهاوية مع انهيار الهدنة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/crr42x29jzro",
+      "category": "عراق",
+      "published": "2026-09-11T12:28:59+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "إثيوبيا تستقبل رسمياً عام 2019",
       "url": "https://www.alsumaria.tv/news/international/575740/%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7-%D8%AA%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7%D9%8B-%D8%B9%D8%A7%D9%85-2019",
       "category": "عراق",
       "published": "2026-09-11T12:38:33+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "خطط لعملية الطوفان.. القسام تعلن استشهاد قائد لواء خانيونس محمد اليازوري",
+      "url": "https://www.alsumaria.tv/news/international/575742/%d8%ae%d8%b7%d8%b7-%d9%84%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%b7%d9%88%d9%81%d8%a7%d9%86-%d8%a7%d9%84%d9%82%d8%b3%d8%a7%d9%85-%d8%aa%d8%b9%d9%84%d9%86-%d8%a7%d8%b3%d8%aa%d8%b4%d9%87%d8%a7%d8%af-%d9%82%d8%a7%d8%a6%d8%af-%d9%84%d9%88%d8%a7%d8%a1?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Fri, 11 Sep 2026 12:55:23 GMT",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "مناطق عراقية بلا كهرباء غداً",
+      "url": "https://www.alsumaria.tv/news/localnews/575741/%d9%85%d9%86%d8%a7%d8%b7%d9%82-%d8%b9%d8%b1%d8%a7%d9%82%d9%8a%d8%a9-%d8%a8%d9%84%d8%a7-%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1-%d8%ba%d8%af%d8%a7%d9%8b?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Fri, 11 Sep 2026 12:49:35 GMT",
       "breaking": false,
       "watch_topics": []
     },
@@ -220,14 +226,6 @@
       "url": "https://www.alsumaria.tv/news/security/575729/%d8%a7%d9%84%d9%82%d8%a8%d8%b6-%d8%b9%d9%84%d9%89-13-%d8%aa%d8%a7%d8%ac%d8%b1%d8%a7%d9%8b-%d9%88%d9%85%d8%b1%d9%88%d8%ac%d8%a7%d9%8b-%d9%84%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
       "category": "عراق",
       "published": "Fri, 11 Sep 2026 10:03:23 GMT",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "توضيح رسمي بشان اسعار المنتجات النفطية",
-      "url": "https://www.alsumaria.tv/news/localnews/575725/%d8%aa%d9%88%d8%b6%d9%8a%d8%ad-%d8%b1%d8%b3%d9%85%d9%8a-%d8%a8%d8%b4%d8%a7%d9%86-%d8%a7%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d9%81%d8%b7%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-      "category": "عراق",
-      "published": "Fri, 11 Sep 2026 09:31:39 GMT",
       "breaking": false,
       "watch_topics": []
     },
@@ -628,10 +626,10 @@
   ],
   "breaking": [
     {
-      "title": "الحوثيون يسيطرون على مضيق باب المندب، وتقرير يفيد برفض ترامب طلب محمد بن سلمان استهدافهم - شفق نيوز..",
+      "title": "الحوثيون يسيطرون على مواقع استراتيجية في باب المندب، وتقرير يفيد برفض ترامب طلب بن سلمان استهدافهم - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c7v41qzn9j2o",
       "category": "عراق",
-      "published": "2026-09-11T10:53:46+00:00",
+      "published": "2026-09-11T12:23:24+00:00",
       "breaking": true,
       "watch_topics": [
         "أمريكا"
