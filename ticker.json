@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-09-11T00:10:48.733557+00:00",
+  "updated_at": "2026-09-11T00:35:36.510157+00:00",
   "latest": [
-    {
-      "title": "ترامب يتوقّع استمرار الحرب مع إيران إلى ما بعد الانتخابات النصفية، وتفجيرات إسرائيلية في مرتفعات علي الطاهر جنوبي لبنان - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
-      "category": "عراق",
-      "published": "2026-09-10T23:16:15+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
-    },
     {
       "title": "لبنان.. هزة أرضية تزامنا مع تفجيرات إسرائيلية في علي الطاهر",
       "url": "https://www.alsumaria.tv/news/international/575691/%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%87%D8%B2%D8%A9-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A9-%D8%AA%D8%B2%D8%A7%D9%85%D9%86%D8%A7-%D9%85%D8%B9-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D8%B7%D8%A7%D9%87%D8%B1",
@@ -89,10 +78,20 @@
       ]
     },
     {
+      "title": "بيسنت: سنفرض عقوبات على بنك \"كبير\" ضمن الضغوط الاقتصادية الأمريكية على طهران - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
+      "category": "عراق",
+      "published": "2026-09-11T00:13:09+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-11T00:10:45.014223+00:00",
+      "published": "2026-09-11T00:35:32.591185+00:00",
       "breaking": false,
       "watch_topics": []
     },
