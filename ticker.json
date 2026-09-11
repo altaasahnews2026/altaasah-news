@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T03:20:45.461159+00:00",
+  "updated_at": "2026-09-11T03:37:05.596498+00:00",
   "latest": [
     {
       "title": "لبنان.. هزة أرضية تزامنا مع تفجيرات إسرائيلية في علي الطاهر",
@@ -101,7 +101,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-11T03:20:41.849231+00:00",
+      "published": "2026-09-11T03:37:00.885803+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -460,6 +460,16 @@
       "watch_topics": []
     },
     {
+      "title": "تقرير: طائرة «إيه-10» تفقد جناحاً في هجوم إيراني على قاعدة أميركية بالأردن",
+      "url": "https://aawsat.com/node/5316817",
+      "category": "دولي",
+      "published": "Thu, 10 Sep 2026 13:51:10 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "قتلى وعشرات الجرحى بقصف روسي على مركز تجاري في أوكرانيا",
       "url": "https://aawsat.com/node/5316902",
       "category": "دولي",
@@ -476,10 +486,78 @@
       "watch_topics": []
     },
     {
+      "title": "3 قتلى بضربة أميركية استهدفت سفينة في البحر الكاريبي",
+      "url": "https://aawsat.com/node/5316639",
+      "category": "دولي",
+      "published": "Thu, 10 Sep 2026 02:27:38 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "موسكو ترغب في استئناف المحادثات مع كييف بوساطة واشنطن قريباً",
       "url": "https://aawsat.com/node/5316499",
       "category": "دولي",
       "published": "Wed, 09 Sep 2026 16:40:19 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "ترمب غير نادم على حرب إيران رغم تأثيرها المحتمل على انتخابات التجديد النصفي",
+      "url": "https://aawsat.com/node/5317012",
+      "category": "دولي",
+      "published": "Fri, 11 Sep 2026 02:24:02 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "بيسنت: عقوبات تنتظر بنكاً «كبيراً» ضمن عملية الإقصاء الاقتصادي لإيران",
+      "url": "https://aawsat.com/node/5317010",
+      "category": "دولي",
+      "published": "Fri, 11 Sep 2026 00:34:07 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "أميركا تتذكر «11 سبتمبر»... غيّر وجهها والعالم",
+      "url": "https://aawsat.com/node/5316993",
+      "category": "دولي",
+      "published": "Thu, 10 Sep 2026 23:20:09 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "أميركا: محكمة ترفض استخدام خرائط الكونغرس المدعومة من ترمب لولاية ميزوري",
+      "url": "https://aawsat.com/node/5316913",
+      "category": "دولي",
+      "published": "Thu, 10 Sep 2026 17:50:45 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "ترمب يغادر واشنطن على طائرة مهداة من قطر بعد فتح زلاجة طوارئ",
+      "url": "https://aawsat.com/node/5316593",
+      "category": "دولي",
+      "published": "Wed, 09 Sep 2026 22:36:38 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "ترمب يُحيي ذكرى «11 سبتمبر» من البنتاغون... وفانس يمثّله في نيويورك",
+      "url": "https://aawsat.com/node/5316509",
+      "category": "دولي",
+      "published": "Wed, 09 Sep 2026 17:06:25 +0100",
       "breaking": false,
       "watch_topics": [
         "أمريكا"
@@ -556,70 +634,6 @@
       "published": "Thu, 10 Sep 2026 02:12:54 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "«وثائق»: المخابرات الإسبانية حذرت من خطط لاقتحام سبتة",
-      "url": "https://aawsat.com/node/5316600",
-      "category": "دولي",
-      "published": "Wed, 09 Sep 2026 23:05:57 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ميرتس يهاجم سياسات «البديل» ويلغي اتصالاً بترمب",
-      "url": "https://aawsat.com/node/5316522",
-      "category": "دولي",
-      "published": "Wed, 09 Sep 2026 17:38:45 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "برلين تطالب كييف بزيادة مشترياتها الدفاعية من شركات التسليح الألمانية",
-      "url": "https://aawsat.com/node/5316464",
-      "category": "دولي",
-      "published": "Wed, 09 Sep 2026 15:13:44 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "روسيا تأمل استئناف المحادثات مع أوكرانيا بوساطة أميركية «قريباً»",
-      "url": "https://aawsat.com/node/5316452",
-      "category": "دولي",
-      "published": "Wed, 09 Sep 2026 14:35:11 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ميرتس يتهم «البديل» بالسعي لـ«التطهير العرقي» عبر دعوته إلى «إعادة التهجير»",
-      "url": "https://aawsat.com/node/5316434",
-      "category": "دولي",
-      "published": "Wed, 09 Sep 2026 13:54:13 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بيرنهام: عقوبات إسرائيل تُظهر دور بريطانيا القيادي عالمياً",
-      "url": "https://aawsat.com/node/5316432",
-      "category": "دولي",
-      "published": "Wed, 09 Sep 2026 13:49:28 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "دراسة: 56 % من مواطني الاتحاد الأوروبي يرون مستقبل التكتل «في خطر»",
-      "url": "https://aawsat.com/node/5316423",
-      "category": "دولي",
-      "published": "Wed, 09 Sep 2026 13:35:52 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ما أبرز مسارات الهجرة غير الشرعية إلى أوروبا؟",
-      "url": "https://aawsat.com/node/5316403",
-      "category": "دولي",
-      "published": "Wed, 09 Sep 2026 12:59:59 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -664,6 +678,16 @@
       "watch_topics": []
     },
     {
+      "title": "تقرير: طائرة «إيه-10» تفقد جناحاً في هجوم إيراني على قاعدة أميركية بالأردن",
+      "url": "https://aawsat.com/node/5316817",
+      "category": "دولي",
+      "published": "Thu, 10 Sep 2026 13:51:10 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "قتلى وعشرات الجرحى بقصف روسي على مركز تجاري في أوكرانيا",
       "url": "https://aawsat.com/node/5316902",
       "category": "دولي",
@@ -676,6 +700,14 @@
       "url": "https://aawsat.com/node/5316556",
       "category": "دولي",
       "published": "Wed, 09 Sep 2026 19:48:16 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "3 قتلى بضربة أميركية استهدفت سفينة في البحر الكاريبي",
+      "url": "https://aawsat.com/node/5316639",
+      "category": "دولي",
+      "published": "Thu, 10 Sep 2026 02:27:38 +0100",
       "breaking": true,
       "watch_topics": []
     }
