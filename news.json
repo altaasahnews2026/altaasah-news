@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T09:45:48.289276+00:00",
+  "updated_at": "2026-09-11T09:57:53.949606+00:00",
   "items": [
     {
       "title": "أزمة كبرى في الأرجنتين بعد رحيل ميسي",
@@ -7,8 +7,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-11T09:41:15+00:00",
-      "image": "./assets/news/05658fb6a025ecfe50fc0754.jpg",
-      "original_image": "./assets/news/05658fb6a025ecfe50fc0754.jpg",
+      "image": "./assets/news/d7a3fcaade08e1b29a5a2825.jpg",
+      "original_image": "./assets/news/d7a3fcaade08e1b29a5a2825.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/575728/sports/%D8%A3%D8%B2%D9%85%D8%A9-%D9%83%D8%A8%D8%B1%D9%89-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%B1%D8%AD%D9%8A%D9%84-%D9%85%D9%8A%D8%B3%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -32,6 +32,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/702df56849bb.html"
     },
     {
+      "title": "بعد ربع قرن على هجمات 11 سبتمبر، لماذا فشل مشروع أسامة بن لادن؟ - الغارديان - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cyvz69vyv2vo",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-11T09:37:08+00:00",
+      "image": "./assets/news/ff8b734257795d95bd0ba8f5.jpg",
+      "original_image": "./assets/news/ff8b734257795d95bd0ba8f5.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cyvz69vyv2vo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7c4a98eaff6a.html"
+    },
+    {
       "title": "الرصاص يطال النزاهة في ذي قار.. اعتداء مسلح يستهدف منزل رئيس اللجنة",
       "url": "https://www.alsumaria.tv/news/localnews/575726/%D8%A7%D9%84%D8%B1%D8%B5%D8%A7%D8%B5-%D9%8A%D8%B7%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D9%81%D9%8A-%D8%B0%D9%8A-%D9%82%D8%A7%D8%B1-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D9%85%D8%B3%D9%84%D8%AD-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D9%86%D8%B2%D9%84-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%84%D8%AC%D9%86%D8%A9",
       "category": "رياضة",
@@ -47,19 +62,34 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cf25bf62dcbf.html"
     },
     {
-      "title": "ماذا نعرف عن ميناء المخا والمدينة التي سيطر عليها الحوثيون؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqlx7v0y2w6o",
+      "title": "استقالة وتحذير خطير.. هل خرج سباق الذكاء الاصطناعي عن السيطرة؟",
+      "url": "https://www.alsumaria.tv/news/technology/575727/%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%84%D8%A9-%D9%88%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%AE%D8%B7%D9%8A%D8%B1-%D9%87%D9%84-%D8%AE%D8%B1%D8%AC-%D8%B3%D8%A8%D8%A7%D9%82-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9%D8%9F",
       "category": "سياسة",
       "region": "العراق",
-      "published": "2026-09-11T09:28:49+00:00",
-      "image": "./assets/news/4490d5e59a70550e6f89788c.jpg",
-      "original_image": "./assets/news/4490d5e59a70550e6f89788c.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cqlx7v0y2w6o",
-      "source_name": "شفق نيوز",
+      "published": "2026-09-11T09:33:17+00:00",
+      "image": "./assets/news/1ef892f2d8a63b9f8487f21d.webp",
+      "original_image": "./assets/news/1ef892f2d8a63b9f8487f21d.webp",
+      "source_url": "https://www.alsumaria.tv/news/technology/575727/%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%84%D8%A9-%D9%88%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%AE%D8%B7%D9%8A%D8%B1-%D9%87%D9%84-%D8%AE%D8%B1%D8%AC-%D8%B3%D8%A8%D8%A7%D9%82-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9%D8%9F",
+      "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/67326f380910.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/21bdbe467651.html"
+    },
+    {
+      "title": "العثور على “رمانة يدوية” قرب منزل عضو مجلس ذي قار سالم عجمي",
+      "url": "https://964media.com/715913/",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-11T09:30:47+00:00",
+      "image": "./assets/news/7f758e6312421bf924ff2e58.jpg",
+      "original_image": "./assets/news/7f758e6312421bf924ff2e58.jpg",
+      "source_url": "https://964media.com/715913/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/32ac6c2b510f.html"
     },
     {
       "title": "الحوثيون يسيطرون على مضيق باب المندب، وتقرير يفيد بأن ترامب رفض طلباً من بن سلمان باستهدافهم - شفق نيوز..",
@@ -75,6 +105,21 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/12a3d736f4f6.html"
+    },
+    {
+      "title": "ماذا نعرف عن ميناء المخا والمدينة التي سيطر عليها الحوثيون؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqlx7v0y2w6o",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-11T09:28:49+00:00",
+      "image": "./assets/news/4490d5e59a70550e6f89788c.jpg",
+      "original_image": "./assets/news/4490d5e59a70550e6f89788c.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cqlx7v0y2w6o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/67326f380910.html"
     },
     {
       "title": "غزو من نوع جديد في قرية روسية",
@@ -321,7 +366,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-11T09:45:48.498423+00:00",
+      "published": "2026-09-11T09:57:54.163691+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -331,7 +376,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c0a8a511739a.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5ee1b37a4882.html"
     }
   ]
 }
