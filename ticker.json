@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T05:36:45.853940+00:00",
+  "updated_at": "2026-09-11T05:50:50.285305+00:00",
   "latest": [
     {
       "title": "لبنان.. هزة أرضية تزامنا مع تفجيرات إسرائيلية في علي الطاهر",
@@ -22,6 +22,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c3d7r0gpk5vo",
       "category": "عراق",
       "published": "2026-09-11T04:11:05+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تحذير دولي من متحور جديد لكورونا",
+      "url": "https://www.alsumaria.tv/news/international/575702/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%AF%D9%88%D9%84%D9%8A-%D9%85%D9%86-%D9%85%D8%AA%D8%AD%D9%88%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-11T05:35:41+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -94,16 +102,6 @@
       ]
     },
     {
-      "title": "نصيحة من وزير الرياضة السابق للقادم: ادعم الألعاب الفردية بمقدار دعمك للقدم",
-      "url": "https://964media.com/715761/",
-      "category": "عراق",
-      "published": "2026-09-10T18:09:02+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "بيسنت: سنفرض عقوبات على بنك \"كبير\" ضمن الضغوط الاقتصادية الأمريكية على طهران - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
       "category": "عراق",
@@ -114,18 +112,20 @@
       ]
     },
     {
+      "title": "نصيحة من وزير الرياضة السابق للقادم: ادعم الألعاب الفردية بمقدار دعمك للقدم",
+      "url": "https://964media.com/715761/",
+      "category": "عراق",
+      "published": "2026-09-10T18:09:02+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-11T05:36:42.145031+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "هيئة التنسيق بين المحافظات تتخذ قرارات بينها يخص المدن الاستثمارية",
-      "url": "https://www.alsumaria.tv/news/politics/575685/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D8%AA%D8%AA%D8%AE%D8%B0-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A8%D9%8A%D9%86%D9%87%D8%A7-%D9%8A%D8%AE%D8%B5-%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-10T17:06:46+00:00",
+      "published": "2026-09-11T05:50:45.631772+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -658,6 +658,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c3d7r0gpk5vo",
       "category": "عراق",
       "published": "2026-09-11T04:11:05+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تحذير دولي من متحور جديد لكورونا",
+      "url": "https://www.alsumaria.tv/news/international/575702/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%AF%D9%88%D9%84%D9%8A-%D9%85%D9%86-%D9%85%D8%AA%D8%AD%D9%88%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-11T05:35:41+00:00",
       "breaking": true,
       "watch_topics": []
     },
