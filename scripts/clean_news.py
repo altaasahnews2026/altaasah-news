@@ -43,10 +43,11 @@ def recategorize(x):
  else:x['category']='سياسة'
  x['region']='العراق';x['governorate']=''
 def score(x):
- s=80 if x.get('breaking') else 0;c=x.get('category');r=x.get('region')
- s+=60 if r=='كركوك' or x.get('kirkuk') else 35 if r and r!='عربي ودولي' else 10
- s+=15 if c=='رياضة' else 12 if c in ('سياسة','أمن','اقتصاد','عربي ودولي','المحافظات') else 0
- age=max(0,(datetime.now(timezone.utc)-dt(x.get('published'))).total_seconds()/3600);return s-min(age,30)*1.2
+ s=100 if x.get('breaking') else 0
+ c=x.get('category')
+ s+=12 if c=='سياسة' else 11 if c in ('أمن','اقتصاد') else 10 if c=='رياضة' else 8
+ age=max(0,(datetime.now(timezone.utc)-dt(x.get('published'))).total_seconds()/3600)
+ return s-min(age,30)*1.5
 clean=[]
 for x in items:
  t=str(x.get('title') or '').strip()
@@ -77,7 +78,7 @@ for x in sorted(clean,key=lambda x:(score(x),dt(x)),reverse=True):
  if len(chosen)>=100:break
  k=title_key(x.get('title'))
  if k not in keys:chosen.append(x);keys.add(k)
-priority={'كركوك':6,'المحافظات':5,'سياسة':4,'رياضة':4,'أمن':3,'اقتصاد':3,'عربي ودولي':3,'العراق':2}
-chosen.sort(key=lambda x:(bool(x.get('breaking')),priority.get(x.get('category'),0),dt(x)),reverse=True)
+# الترتيب النهائي مهني: عاجل أولاً، ثم الأحدث والأكثر أهمية؛ لا توجد أولوية للمحافظات.
+chosen.sort(key=lambda x:(bool(x.get('breaking')),score(x),dt(x)),reverse=True)
 D['items']=chosen[:100];D['updated_at']=datetime.now(timezone.utc).isoformat();P.write_text(json.dumps(D,ensure_ascii=False,indent=2),encoding='utf-8')
 print('CLEAN NEWS:',len(D['items']),'items; provinces',sum(x.get('category')=='المحافظات' for x in D['items']),'Kirkuk',sum(x.get('category')=='كركوك' for x in D['items']))
