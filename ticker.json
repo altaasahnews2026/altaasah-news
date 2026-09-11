@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-11T20:33:13.958089+00:00",
+  "updated_at": "2026-09-11T20:49:33.206164+00:00",
   "latest": [
     {
       "title": "العراق يدين الهجمات على السعودية: لن تكون اراضينا منطلق لاستهداف الدول",
-      "url": "https://www.alsumaria.tv/news/politics/575766/%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%8a%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d9%87%d8%ac%d9%85%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d9%84%d9%86-%d8%aa%d9%83%d9%88%d9%86-%d8%a7%d8%b1%d8%a7%d8%b6%d9%8a%d9%86%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "url": "https://www.alsumaria.tv/news/politics/575766/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%86-%D8%AA%D9%83%D9%88%D9%86-%D8%A7%D8%B1%D8%A7%D8%B6%D9%8A%D9%86%D8%A7-%D9%85%D9%86%D8%B7%D9%84%D9%82-%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84",
       "category": "عراق",
-      "published": "Fri, 11 Sep 2026 20:16:50 GMT",
+      "published": "2026-09-11T20:16:50+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"
@@ -26,16 +26,6 @@
       "published": "Fri, 11 Sep 2026 18:25:29 GMT",
       "breaking": true,
       "watch_topics": []
-    },
-    {
-      "title": "الحوثيون يحكمون قبضتهم على باب المندب، وابن سلمان يطلب تدخلاً من ترامب - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
-      "category": "عراق",
-      "published": "2026-09-11T14:36:11+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
     },
     {
       "title": "اجتماع في عُمان بشأن مضيق هرمز بمشاركة العراق ودول الخليج",
@@ -88,6 +78,16 @@
       ]
     },
     {
+      "title": "الحوثيون يحكمون قبضتهم على باب المندب، وابن سلمان يطلب تدخلاً من ترامب - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
+      "category": "عراق",
+      "published": "2026-09-11T20:29:39+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "السعودية تدين الاعتداء على انابيب نفطية بالمدينة والرياض بمسيرات من العراق",
       "url": "https://www.alsumaria.tv/news/international/575767/%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%aa%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d8%af%d8%a7%d8%a1-%d8%b9%d9%84%d9%89-%d8%a7%d9%86%d8%a7%d8%a8%d9%8a%d8%a8-%d9%86%d9%81%d8%b7%d9%8a%d8%a9-%d8%a8%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
       "category": "عراق",
@@ -101,7 +101,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-11T20:33:08.923771+00:00",
+      "published": "2026-09-11T20:49:28.416581+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -639,9 +639,9 @@
   "breaking": [
     {
       "title": "العراق يدين الهجمات على السعودية: لن تكون اراضينا منطلق لاستهداف الدول",
-      "url": "https://www.alsumaria.tv/news/politics/575766/%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%8a%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d9%87%d8%ac%d9%85%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d9%84%d9%86-%d8%aa%d9%83%d9%88%d9%86-%d8%a7%d8%b1%d8%a7%d8%b6%d9%8a%d9%86%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "url": "https://www.alsumaria.tv/news/politics/575766/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%86-%D8%AA%D9%83%D9%88%D9%86-%D8%A7%D8%B1%D8%A7%D8%B6%D9%8A%D9%86%D8%A7-%D9%85%D9%86%D8%B7%D9%84%D9%82-%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84",
       "category": "عراق",
-      "published": "Fri, 11 Sep 2026 20:16:50 GMT",
+      "published": "2026-09-11T20:16:50+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"
