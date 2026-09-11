@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T01:34:34.278840+00:00",
+  "updated_at": "2026-09-11T01:48:44.845637+00:00",
   "latest": [
     {
       "title": "لبنان.. هزة أرضية تزامنا مع تفجيرات إسرائيلية في علي الطاهر",
@@ -101,7 +101,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-11T01:34:31.180659+00:00",
+      "published": "2026-09-11T01:48:41.203005+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -240,16 +240,6 @@
       "published": "Thu, 10 Sep 2026 21:52:00 GMT",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "السعودية: استهداف منشآت ومرافق للطاقة جنوب المملكة وتوقّف مؤقت لبعض العمليات التشغيلية",
-      "url": "https://aawsat.com/node/5315860",
-      "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 07:00:59 +0100",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
-      ]
     },
     {
       "title": "السعودية تدين «بأشد العبارات» الهجمات الإيرانية على الأردن",
@@ -462,6 +452,14 @@
       "watch_topics": []
     },
     {
+      "title": "بصمات 11 سبتمبر حاضرة بعد ربع قرن",
+      "url": "https://aawsat.com/node/5316476",
+      "category": "مشرق أوسط",
+      "published": "Wed, 09 Sep 2026 15:45:35 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "تقرير: طائرة «إيه-10» تفقد جناحاً في هجوم إيراني على قاعدة أميركية بالأردن",
       "url": "https://aawsat.com/node/5316817",
       "category": "دولي",
@@ -654,16 +652,6 @@
       "published": "2026-09-10T21:08:00+00:00",
       "breaking": true,
       "watch_topics": []
-    },
-    {
-      "title": "السعودية: استهداف منشآت ومرافق للطاقة جنوب المملكة وتوقّف مؤقت لبعض العمليات التشغيلية",
-      "url": "https://aawsat.com/node/5315860",
-      "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 07:00:59 +0100",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
-      ]
     },
     {
       "title": "التحالف يتوعد الحوثيين غداة استهداف مدن سعودية",
