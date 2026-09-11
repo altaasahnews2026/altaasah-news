@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-11T19:37:13.493526+00:00",
+  "updated_at": "2026-09-11T19:48:44.118862+00:00",
   "items": [
     {
-      "title": "ياسر المالكي للمهتمين بالشأن السياسي والإعلامي والثقافي: لنكون على مستوى المسؤولية",
-      "url": "https://www.alsumaria.tv/news/politics/575763/%D9%8A%D8%A7%D8%B3%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A-%D9%84%D9%84%D9%85%D9%87%D8%AA%D9%85%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D9%88%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A-%D9%88%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A-%D9%84%D9%86%D9%83%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88",
+      "title": "\"فستان الانتقام\" الخاص بالأميرة ديانا في المزاد العلني - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cd94y4v5v1wo",
       "category": "سياسة",
       "region": "العراق",
-      "published": "2026-09-11T19:05:04+00:00",
-      "image": "./assets/news/84605b1a204856c2aab7b1b0.webp",
-      "original_image": "./assets/news/84605b1a204856c2aab7b1b0.webp",
-      "source_url": "https://www.alsumaria.tv/news/politics/575763/%D9%8A%D8%A7%D8%B3%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A-%D9%84%D9%84%D9%85%D9%87%D8%AA%D9%85%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D9%88%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A-%D9%88%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A-%D9%84%D9%86%D9%83%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88",
-      "source_name": "السومرية نيوز",
+      "published": "2026-09-11T19:29:53+00:00",
+      "image": "./assets/news/1a845a39d696eaad66c6e8a6.jpg",
+      "original_image": "./assets/news/1a845a39d696eaad66c6e8a6.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cd94y4v5v1wo",
+      "source_name": "شفق نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9befe9d05e7e.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/beeb6cf8994f.html"
     },
     {
       "title": "نصيحة من وزير الرياضة السابق للقادم: ادعم الألعاب الفردية بمقدار دعمك للقدم",
@@ -30,6 +30,36 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/702df56849bb.html"
+    },
+    {
+      "title": "بزشكيان: لا أؤيد استمرار الحرب، وترامب يواجه ضغوطاً لإنهائها قبل نوفمبر - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cr50qjy0yjlo",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-11T19:29:37+00:00",
+      "image": "./assets/news/fa652cd8db17aa7c3923dd69.jpg",
+      "original_image": "./assets/news/fa652cd8db17aa7c3923dd69.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cr50qjy0yjlo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d729511da848.html"
+    },
+    {
+      "title": "ياسر المالكي للمهتمين بالشأن السياسي والإعلامي والثقافي: لنكون على مستوى المسؤولية",
+      "url": "https://www.alsumaria.tv/news/politics/575763/%D9%8A%D8%A7%D8%B3%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A-%D9%84%D9%84%D9%85%D9%87%D8%AA%D9%85%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D9%88%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A-%D9%88%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A-%D9%84%D9%86%D9%83%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-11T19:05:04+00:00",
+      "image": "./assets/news/84605b1a204856c2aab7b1b0.webp",
+      "original_image": "./assets/news/84605b1a204856c2aab7b1b0.webp",
+      "source_url": "https://www.alsumaria.tv/news/politics/575763/%D9%8A%D8%A7%D8%B3%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A-%D9%84%D9%84%D9%85%D9%87%D8%AA%D9%85%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D9%88%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A-%D9%88%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A-%D9%84%D9%86%D9%83%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9befe9d05e7e.html"
     },
     {
       "title": "صور: ضبط طائرات مسيرة ومتفجرات في موقع مهجور بالأنبار",
@@ -52,8 +82,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-11T18:10:33+00:00",
-      "image": "./assets/news/ae7f55f03ed17e294e16ffcc.jpg",
-      "original_image": "./assets/news/ae7f55f03ed17e294e16ffcc.jpg",
+      "image": "./assets/news/5c44394dfc5357cf172d88fd.jpg",
+      "original_image": "./assets/news/5c44394dfc5357cf172d88fd.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/575761/%D9%84%D8%A8%D8%AD%D8%AB-%D8%B9%D8%AF%D8%A9-%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B2%D9%88%D8%B1-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%A7%D9%84%D8%A7%D8%AD%D8%AF-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -287,36 +317,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/864edc4c35e4.html"
     },
     {
-      "title": "بزشكيان: لا أؤيد استمرار الحرب، وترامب يواجه ضغوطاً لإنهائها قبل نوفمبر - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cr50qjy0yjlo",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-11T13:39:20+00:00",
-      "image": "./assets/news/fa652cd8db17aa7c3923dd69.jpg",
-      "original_image": "./assets/news/fa652cd8db17aa7c3923dd69.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cr50qjy0yjlo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/108496041dae.html"
-    },
-    {
-      "title": "\"يتشبّت بعضنا ببعض، مستعدين للموت\": اليمن على شفا الهاوية مع انهيار الهدنة - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/crr42x29jzro",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-11T13:10:16+00:00",
-      "image": "./assets/news/e7b60f8990de714d2b1e833c.jpg",
-      "original_image": "./assets/news/e7b60f8990de714d2b1e833c.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/crr42x29jzro",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cf042d3a32fe.html"
-    },
-    {
       "title": "الحوثيون يعلنون السيطرة على 6 مديريات في تعز والحديدة",
       "url": "https://www.alsumaria.tv/news/international/575744/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B9%D9%84%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-6-%D9%85%D8%AF%D9%8A%D8%B1%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AA%D8%B9%D8%B2-%D9%88%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D8%A9",
       "category": "سياسة",
@@ -351,7 +351,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-11T19:37:13.708476+00:00",
+      "published": "2026-09-11T19:48:44.302983+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -361,7 +361,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/901a54b37bf1.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6bed6d6ef1ae.html"
     }
   ]
 }
