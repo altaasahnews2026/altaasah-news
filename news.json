@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T07:21:13.235044+00:00",
+  "updated_at": "2026-09-11T07:36:04.180059+00:00",
   "items": [
     {
       "title": "فيفا يغير قواعد فسخ عقود اللاعبين",
@@ -7,8 +7,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-11T07:09:36+00:00",
-      "image": "./assets/news/d2d3715455ebf8dca6923dab.jpg",
-      "original_image": "./assets/news/d2d3715455ebf8dca6923dab.jpg",
+      "image": "./assets/news/32dda1af8d06117ca0eac64f.jpg",
+      "original_image": "./assets/news/32dda1af8d06117ca0eac64f.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/575710/sports/%D9%81%D9%8A%D9%81%D8%A7-%D9%8A%D8%BA%D9%8A%D8%B1-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D9%81%D8%B3%D8%AE-%D8%B9%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D9%84%D8%A7%D8%B9%D8%A8%D9%8A%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -32,6 +32,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/702df56849bb.html"
     },
     {
+      "title": "ترامب يعد بتوزيع المال على الأمريكيين إذا فاز حزبه! - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c36lkjlzn8po",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-11T07:01:22+00:00",
+      "image": "./assets/news/f3f14e7bbf17996392aad861.jpg",
+      "original_image": "./assets/news/f3f14e7bbf17996392aad861.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c36lkjlzn8po",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d608e362ab54.html"
+    },
+    {
       "title": "ماذا نعرف عن مدينة المخا ومينائها التي سيطر عليها الحوثيون؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cqlx7v0y2w6o",
       "category": "سياسة",
@@ -52,8 +67,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-11T06:48:56+00:00",
-      "image": "./assets/news/8e753cdab70ab9b96b1a8d5f.jpg",
-      "original_image": "./assets/news/8e753cdab70ab9b96b1a8d5f.jpg",
+      "image": "./assets/news/7b49910c29edd75908c50a8a.jpg",
+      "original_image": "./assets/news/7b49910c29edd75908c50a8a.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575709/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B1%D9%81%D8%B6-%D8%B7%D9%84%D8%A8%D8%A7-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A7-%D9%84%D8%B4%D9%86-%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -112,8 +127,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-11T06:08:19+00:00",
-      "image": "./assets/news/19f3dc1c118af69d7fe7695c.jpg",
-      "original_image": "./assets/news/19f3dc1c118af69d7fe7695c.jpg",
+      "image": "./assets/news/c718ceafcb76c4163b77155f.jpg",
+      "original_image": "./assets/news/c718ceafcb76c4163b77155f.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575705/%D8%B6%D8%B1%D8%A8%D8%A9-%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D9%88%D9%82%D8%B9-%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D9%84%D9%82%D8%A7%D8%AD%D8%A7%D8%AA-%D8%B9%D9%85%D8%B1%D9%87-115-%D8%B9%D8%A7%D9%85%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -165,21 +180,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/76ea0bd11dab.html"
-    },
-    {
-      "title": "ترامب يعد بتوزيع المال على الأمريكيين اذا فاز حزبه! - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c36lkjlzn8po",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-11T00:51:38+00:00",
-      "image": "./assets/news/f3f14e7bbf17996392aad861.jpg",
-      "original_image": "./assets/news/f3f14e7bbf17996392aad861.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c36lkjlzn8po",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/eca9acd870df.html"
     },
     {
       "title": "مصرع 26 طالباً وإصابة العشرات بحريق مدرستين في الكونغو",
@@ -321,7 +321,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-11T07:21:13.417147+00:00",
+      "published": "2026-09-11T07:36:04.384030+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -331,7 +331,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/731417a2ac87.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/79b2e62b24bf.html"
     }
   ]
 }

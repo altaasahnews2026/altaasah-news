@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T07:21:18.366317+00:00",
+  "updated_at": "2026-09-11T07:36:07.428812+00:00",
   "latest": [
     {
       "title": "ترامب: العملية في إيران طالت",
@@ -75,16 +75,6 @@
       ]
     },
     {
-      "title": "ترامب يعد بتوزيع المال على الأمريكيين اذا فاز حزبه! - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c36lkjlzn8po",
-      "category": "عراق",
-      "published": "2026-09-11T00:51:38+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
       "title": "وزير الخزانة الأمريكي: عقوبات على بنك كبير يتعامل مع إيران الأسبوع المقبل - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
       "category": "عراق",
@@ -115,6 +105,16 @@
       ]
     },
     {
+      "title": "ترامب يعد بتوزيع المال على الأمريكيين إذا فاز حزبه! - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c36lkjlzn8po",
+      "category": "عراق",
+      "published": "2026-09-11T07:01:22+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "نصيحة من وزير الرياضة السابق للقادم: ادعم الألعاب الفردية بمقدار دعمك للقدم",
       "url": "https://964media.com/715761/",
       "category": "عراق",
@@ -128,7 +128,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-11T07:21:13.417147+00:00",
+      "published": "2026-09-11T07:36:04.384030+00:00",
       "breaking": false,
       "watch_topics": []
     },
