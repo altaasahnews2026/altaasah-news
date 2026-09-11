@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T04:53:06.417840+00:00",
+  "updated_at": "2026-09-11T05:05:20.747041+00:00",
   "latest": [
     {
       "title": "لبنان.. هزة أرضية تزامنا مع تفجيرات إسرائيلية في علي الطاهر",
@@ -76,16 +76,6 @@
       ]
     },
     {
-      "title": "بيسنت: سنفرض عقوبات على بنك \"كبير\" ضمن الضغوط الاقتصادية الأمريكية على طهران - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
-      "category": "عراق",
-      "published": "2026-09-11T00:13:09+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "ترامب يعد بتوزيع المال على الأمريكيين اذا فاز حزبه! - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c36lkjlzn8po",
       "category": "عراق",
@@ -106,10 +96,20 @@
       ]
     },
     {
+      "title": "بيسنت: سنفرض عقوبات على بنك \"كبير\" ضمن الضغوط الاقتصادية الأمريكية على طهران - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
+      "category": "عراق",
+      "published": "2026-09-11T04:48:09+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-11T04:53:01.965333+00:00",
+      "published": "2026-09-11T05:05:15.261472+00:00",
       "breaking": false,
       "watch_topics": []
     },
