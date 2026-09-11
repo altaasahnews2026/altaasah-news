@@ -1,20 +1,35 @@
 {
-  "updated_at": "2026-09-11T15:36:48.170772+00:00",
+  "updated_at": "2026-09-11T15:54:40.395470+00:00",
   "items": [
     {
-      "title": "هدد بالانتحار خلال محاصرته.. اعتقال متهم حاول تفجير منزل عضو مجلس محافظة ذي قار",
-      "url": "https://964media.com/715952/",
+      "title": "الجيش الإسرائيلي يرفع التأهب على جميع الجبهات تحسباً لتصعيد مع إيران",
+      "url": "https://www.alsumaria.tv/news/international/575752/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AA%D8%A3%D9%87%D8%A8-%D8%B9%D9%84%D9%89-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D8%AC%D8%A8%D9%87%D8%A7%D8%AA-%D8%AA%D8%AD%D8%B3%D8%A8%D8%A7%D9%8B-%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "category": "أمن",
       "region": "العراق",
-      "published": "2026-09-11T15:16:46+00:00",
-      "image": "./assets/news/f9538989ad9e6115c2b58704.jpg",
-      "original_image": "./assets/news/f9538989ad9e6115c2b58704.jpg",
-      "source_url": "https://964media.com/715952/",
-      "source_name": "شبكة 964",
+      "published": "2026-09-11T15:46:00+00:00",
+      "image": "./assets/news/01b09617425df21da3a6f551.jpg",
+      "original_image": "./assets/news/01b09617425df21da3a6f551.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575752/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AA%D8%A3%D9%87%D8%A8-%D8%B9%D9%84%D9%89-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D8%AC%D8%A8%D9%87%D8%A7%D8%AA-%D8%AA%D8%AD%D8%B3%D8%A8%D8%A7%D9%8B-%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/abe77f100b9c.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/900c71472bc2.html"
+    },
+    {
+      "title": "باب المندب والساحل الغربي اليمني تحت سيطرة الحوثيين، وتنسيق عسكري بين الرياض وواشنطن - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
+      "category": "كركوك",
+      "region": "كركوك",
+      "published": "2026-09-11T14:36:11+00:00",
+      "image": "./assets/news/d04ccb1cd16242f6e662c26b.jpg",
+      "original_image": "./assets/news/d04ccb1cd16242f6e662c26b.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": true,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a4a74b5bf9e5.html"
     },
     {
       "title": "نصيحة من وزير الرياضة السابق للقادم: ادعم الألعاب الفردية بمقدار دعمك للقدم",
@@ -30,6 +45,21 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/702df56849bb.html"
+    },
+    {
+      "title": "هدد بالانتحار خلال محاصرته.. اعتقال متهم حاول تفجير منزل عضو مجلس محافظة ذي قار",
+      "url": "https://964media.com/715952/",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-09-11T15:16:46+00:00",
+      "image": "./assets/news/f9538989ad9e6115c2b58704.jpg",
+      "original_image": "./assets/news/f9538989ad9e6115c2b58704.jpg",
+      "source_url": "https://964media.com/715952/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/abe77f100b9c.html"
     },
     {
       "title": "التضخم الأميركي يتسارع إلى 3.4% ويعزز احتمالات رفع الفائدة",
@@ -52,8 +82,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-11T14:49:07+00:00",
-      "image": "./assets/news/911401e045d676207a7f132b.jpg",
-      "original_image": "./assets/news/911401e045d676207a7f132b.jpg",
+      "image": "./assets/news/ff5341b552e5bfc3a1871e52.jpg",
+      "original_image": "./assets/news/ff5341b552e5bfc3a1871e52.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575749/%D8%AA%D8%B1%D9%85%D8%A8-%D9%84%D9%86-%D9%86%D9%86%D8%B3%D9%89-11-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-%D9%88%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D9%86-%D8%AA%D8%AD%D8%B5%D9%84-%D8%A3%D8%A8%D8%AF%D8%A7%D9%8B-%D8%B9%D9%84%D9%89-%D8%B3%D9%84%D8%A7%D8%AD-%D9%86%D9%88%D9%88%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -75,21 +105,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ed5cf54c8dc2.html"
-    },
-    {
-      "title": "الحوثيون يعززون السيطرة على باب المندب، وأنباء عن \"غارات سعودية\" على المخا - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-11T14:36:11+00:00",
-      "image": "./assets/news/d04ccb1cd16242f6e662c26b.jpg",
-      "original_image": "./assets/news/d04ccb1cd16242f6e662c26b.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8c80b299be5c.html"
     },
     {
       "title": "الحوثيون يتقدمون نحو باب المندب، ما أهمية المناطق التي سيطروا عليها؟ - شفق نيوز..",
@@ -277,8 +292,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-11T11:14:56+00:00",
-      "image": "./assets/news/c247c016b62217c1638df2f0.jpg",
-      "original_image": "./assets/news/c247c016b62217c1638df2f0.jpg",
+      "image": "./assets/news/a60959cab4aac8b4c1baab6e.jpg",
+      "original_image": "./assets/news/a60959cab4aac8b4c1baab6e.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575734/%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%86%D8%B3%D8%AD%D8%A8-%D9%85%D9%86-%D9%85%D8%B1%D8%AA%D9%81%D8%B9%D8%A7%D8%AA-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D8%B7%D8%A7%D9%87%D8%B1",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -336,7 +351,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-11T15:36:48.374514+00:00",
+      "published": "2026-09-11T15:54:40.584555+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -346,7 +361,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c2978d4b5933.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0182154d4f62.html"
     }
   ]
 }
