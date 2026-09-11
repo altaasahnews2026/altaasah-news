@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T14:20:04.790791+00:00",
+  "updated_at": "2026-09-11T14:36:34.500722+00:00",
   "latest": [
     {
       "title": "الحوثيون يسيطرون على مواقع استراتيجية في باب المندب، وتقرير يفيد برفض ترامب طلب بن سلمان استهدافهم - شفق نيوز..",
@@ -53,7 +53,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-11T14:20:00.961452+00:00",
+      "published": "2026-09-11T14:36:29.858462+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -380,6 +380,14 @@
       ]
     },
     {
+      "title": "اليمن يكثف تحركه الدولي لحماية باب المندب",
+      "url": "https://aawsat.com/node/5317172",
+      "category": "مشرق أوسط",
+      "published": "Fri, 11 Sep 2026 15:25:53 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "الحوثيون يسيطرون على باب المندب والجزر اليمنية جنوب البحر الأحمر",
       "url": "https://aawsat.com/node/5317156",
       "category": "مشرق أوسط",
@@ -440,14 +448,6 @@
       "url": "https://aawsat.com/node/5316524",
       "category": "مشرق أوسط",
       "published": "Wed, 09 Sep 2026 17:40:49 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الجيش اليمني يتقدم ميدانياً في الجوف ومأرب",
-      "url": "https://aawsat.com/node/5316519",
-      "category": "مشرق أوسط",
-      "published": "Wed, 09 Sep 2026 17:33:15 +0100",
       "breaking": false,
       "watch_topics": []
     },
@@ -556,6 +556,14 @@
       ]
     },
     {
+      "title": "أوتاوا تتعهّد بتعزيز قدرات أوكرانيا الجوية خلال زيارة زيلينسكي إلى كندا",
+      "url": "https://aawsat.com/node/5317169",
+      "category": "دولي",
+      "published": "Fri, 11 Sep 2026 15:22:25 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "هل يمكن أن تشهد حرب أوكرانيا تباطؤاً هذا الشتاء؟",
       "url": "https://aawsat.com/node/5317149",
       "category": "دولي",
@@ -616,14 +624,6 @@
       "url": "https://aawsat.com/node/5316644",
       "category": "دولي",
       "published": "Thu, 10 Sep 2026 04:22:33 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "«يونيسف»: التغير المناخي يضر بتعليم الفتيات بدرجة أكبر من الفتيان",
-      "url": "https://aawsat.com/node/5316641",
-      "category": "دولي",
-      "published": "Thu, 10 Sep 2026 02:58:28 +0100",
       "breaking": false,
       "watch_topics": []
     }
