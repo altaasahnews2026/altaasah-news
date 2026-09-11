@@ -19,20 +19,35 @@ def is_governor(x):
     return any(k in t for k in ('محمد سمعان', 'سمعان آغا', 'محافظ كركوك'))
 
 
+def is_iraq_saudi(x):
+    t = str(x.get('title') or '')
+    keywords = ('السعودية', 'السعودي', 'الرياض', 'العراق يدين', 'أراضينا', 'مسيرات من العراق', 'السعودية والعراق')
+    return any(k in t for k in keywords)
+
+
+def is_kirkuk(x):
+    return x.get('category') == 'كركوك' or x.get('kirkuk')
+
+
 def fresh_sort(x):
     governor = is_governor(x)
-    kirkuk = x.get('category') == 'كركوك' or x.get('kirkuk')
-    return (0 if x.get('breaking') else 1, 2 if governor else (1 if kirkuk else 0), -dt(x).timestamp())
+    kirkuk = is_kirkuk(x)
+    iraq_saudi = is_iraq_saudi(x)
+    return (
+        0 if x.get('breaking') else 1,
+        0 if iraq_saudi else 1,
+        1 if governor else (0 if kirkuk else 2),
+        -dt(x).timestamp(),
+    )
 
-# Keep the lead free for general Iraq news, while guaranteeing a strong dedicated
-# Kirkuk block and giving the governor's latest items priority inside that block.
+# الصفحة الرئيسية: العراق أولاً، مع أولوية واضحة لكركوك والبيانات/التطورات العراقية-السعودية.
 section_plan = [
     ('محليات', 8),
     ('سياسة', 8),
-    ('كركوك', 8),
+    ('كركوك', 10),
     ('رياضة', 6),
     ('اقتصاد', 5),
-    ('أمن', 5),
+    ('أمن', 6),
     ('عربي ودولي', 8),
 ]
 
@@ -45,6 +60,13 @@ for category, quota in section_plan:
         selected.append(x)
         used.add(id(x))
 
+# Ensure the current Iraq-Saudi developments are represented whenever the feed provides them.
+iraq_saudi_pool = sorted([x for x in items if is_iraq_saudi(x)], key=fresh_sort)
+for x in iraq_saudi_pool[:6]:
+    if id(x) not in used:
+        selected.append(x)
+        used.add(id(x))
+
 remaining = [x for x in items if id(x) not in used]
 remaining.sort(key=fresh_sort)
 for x in remaining:
@@ -52,13 +74,15 @@ for x in remaining:
         break
     selected.append(x)
 
-# Final order: general Iraq stories can lead; Kirkuk is guaranteed substantial coverage.
-selected.sort(key=lambda x: (is_governor(x), x.get('category') == 'كركوك', dt(x)), reverse=True)
-# Move the first non-Kirkuk Iraqi story to the front so the site does not become a single-topic homepage.
-for i, x in enumerate(selected):
-    if x.get('category') not in ('كركوك',):
-        selected.insert(0, selected.pop(i))
-        break
+# Final order: current Iraq-Saudi developments first, then fresh Iraqi/Kirkuk coverage.
+selected.sort(key=lambda x: (is_iraq_saudi(x), is_governor(x), is_kirkuk(x), dt(x)), reverse=True)
+
+# Keep the lead from becoming single-topic: if no Iraq-Saudi item exists, lead with the freshest non-Kirkuk Iraqi story.
+if not any(is_iraq_saudi(x) for x in selected[:3]):
+    for i, x in enumerate(selected):
+        if x.get('category') not in ('كركوك',):
+            selected.insert(0, selected.pop(i))
+            break
 
 d['items'] = selected[:48]
 p.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding='utf-8')
@@ -67,4 +91,7 @@ counts = {}
 for x in d['items']:
     c = x.get('category', 'غير مصنف')
     counts[c] = counts.get(c, 0) + 1
-print('EDITORIAL SECTIONS:', counts, '— Kirkuk:', sum(x.get('category') == 'كركوك' for x in d['items']), '— Governor:', sum(is_governor(x) for x in d['items']))
+print('EDITORIAL SECTIONS:', counts,
+      '— Kirkuk:', sum(is_kirkuk(x) for x in d['items']),
+      '— Iraq-Saudi:', sum(is_iraq_saudi(x) for x in d['items']),
+      '— Governor:', sum(is_governor(x) for x in d['items']))
