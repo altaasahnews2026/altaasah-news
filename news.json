@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T22:59:23.940849+00:00",
+  "updated_at": "2026-09-11T23:19:33.232376+00:00",
   "items": [
     {
       "title": "مجلس التعاون الخليجي يدين هجوم المسيرات من العراق ويطالب بغداد بتحرك حازم",
@@ -66,13 +66,45 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/58961292f616.html"
     },
     {
+      "title": "بوتين يتهم الغرب بدعم النزعات الانفصالية في القوقاز ومحاولة تفكيك روسيا",
+      "url": "https://www.alsumaria.tv/news/international/575772/%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%8A%D8%AA%D9%87%D9%85-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8-%D8%A8%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%86%D8%B2%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%B5%D8%A7%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%88%D9%82%D8%A7%D8%B2-%D9%88%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%B1%D9%88%D8%B3%D9%8A",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-11T22:57:02+00:00",
+      "image": "./assets/news/13a6288753889f05f966b3c5.jpg",
+      "original_image": "./assets/news/13a6288753889f05f966b3c5.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575772/%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%8A%D8%AA%D9%87%D9%85-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8-%D8%A8%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%86%D8%B2%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%B5%D8%A7%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%88%D9%82%D8%A7%D8%B2-%D9%88%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%B1%D9%88%D8%B3%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/42b6ccb2d1b0.html"
+    },
+    {
+      "title": "بتوجيه من الزيدي.. اغلاق منفذ الشلامجة بشكل مؤقت",
+      "url": "https://www.alsumaria.tv/news/localnews/575771/%D8%A8%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%A7%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D8%B4%D9%84%D8%A7%D9%85%D8%AC%D8%A9-%D8%A8%D8%B4%D9%83%D9%84-%D9%85%D8%A4%D9%82%D8%AA",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-11T22:55:28+00:00",
+      "image": "./assets/news/fb63da7f88945a7c3587bba9.jpg",
+      "original_image": "./assets/news/fb63da7f88945a7c3587bba9.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/575771/%D8%A8%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%A7%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D8%B4%D9%84%D8%A7%D9%85%D8%AC%D8%A9-%D8%A8%D8%B4%D9%83%D9%84-%D9%85%D8%A4%D9%82%D8%AA",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/96fe0e01b951.html"
+    },
+    {
       "title": "العراق والسعودية يؤكدان أهمية استمرار التواصل والتنسيق والتشاور بين البلدين",
       "url": "https://www.alsumaria.tv/news/politics/575770/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D9%88%D8%A7%D9%84%D8%AA%D8%B4%D8%A7%D9%88%D8%B1-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84",
       "category": "رياضة",
       "region": "صلاح الدين",
       "published": "2026-09-11T22:24:37+00:00",
-      "image": "./assets/news/1f9beab02f084bf9dfa836c7.jpg",
-      "original_image": "./assets/news/1f9beab02f084bf9dfa836c7.jpg",
+      "image": "./assets/news/924867833bb22e5067144516.jpg",
+      "original_image": "./assets/news/924867833bb22e5067144516.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/575770/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D9%88%D8%A7%D9%84%D8%AA%D8%B4%D8%A7%D9%88%D8%B1-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -87,8 +119,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-11T22:05:24+00:00",
-      "image": "./assets/news/9e83e7a5cd20282779101c8d.jpg",
-      "original_image": "./assets/news/9e83e7a5cd20282779101c8d.jpg",
+      "image": "./assets/news/da1391333a9f0ddcd9772cd6.jpg",
+      "original_image": "./assets/news/da1391333a9f0ddcd9772cd6.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575769/%D8%A7%D8%AA%D9%87%D8%A7%D9%85-%D8%B5%D8%A7%D8%AF%D9%85-%D9%84%D9%86%D8%AC%D9%84-%D9%86%D8%AC%D9%85%D9%8A%D9%86-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D9%8A%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D9%85%D8%B9-%D9%82%D8%A7%D8%B5%D8%B1",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -167,8 +199,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-11T20:14:03+00:00",
-      "image": "./assets/news/f315a8c0d05e343a78cef50e.jpg",
-      "original_image": "./assets/news/f315a8c0d05e343a78cef50e.jpg",
+      "image": "./assets/news/2ced0648fc6be0e6c8382efa.jpg",
+      "original_image": "./assets/news/2ced0648fc6be0e6c8382efa.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/575765/sports/%D9%8A%D9%88%D9%8A%D9%81%D8%A7-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2-%D8%A8%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D8%A8%D8%B7%D8%A7%D9%84",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -434,38 +466,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/35ef66206309.html"
     },
     {
-      "title": "الجيش الإسرائيلي يرفع التأهب على جميع الجبهات تحسباً لتصعيد مع إيران",
-      "url": "https://www.alsumaria.tv/news/international/575752/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AA%D8%A3%D9%87%D8%A8-%D8%B9%D9%84%D9%89-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D8%AC%D8%A8%D9%87%D8%A7%D8%AA-%D8%AA%D8%AD%D8%B3%D8%A8%D8%A7%D9%8B-%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-11T15:46:00+00:00",
-      "image": "./assets/news/09e2c42fb8a3ed85abfa6aed.jpg",
-      "original_image": "./assets/news/09e2c42fb8a3ed85abfa6aed.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/575752/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AA%D8%A3%D9%87%D8%A8-%D8%B9%D9%84%D9%89-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D8%AC%D8%A8%D9%87%D8%A7%D8%AA-%D8%AA%D8%AD%D8%B3%D8%A8%D8%A7%D9%8B-%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/900c71472bc2.html"
-    },
-    {
-      "title": "العملاق يسقط في قبضة الشرطة بعد بثوث خادشة في بغداد",
-      "url": "https://www.alsumaria.tv/news/security/575751/%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D9%82-%D9%8A%D8%B3%D9%82%D8%B7-%D9%81%D9%8A-%D9%82%D8%A8%D8%B6%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%A8%D8%AB%D9%88%D8%AB-%D8%AE%D8%A7%D8%AF%D8%B4%D8%A9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "category": "أمن",
-      "region": "بغداد",
-      "published": "2026-09-11T15:02:44+00:00",
-      "image": "./assets/news/810cb49141f94c8c7003305d.webp",
-      "original_image": "./assets/news/810cb49141f94c8c7003305d.webp",
-      "source_url": "https://www.alsumaria.tv/news/security/575751/%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D9%82-%D9%8A%D8%B3%D9%82%D8%B7-%D9%81%D9%8A-%D9%82%D8%A8%D8%B6%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%A8%D8%AB%D9%88%D8%AB-%D8%AE%D8%A7%D8%AF%D8%B4%D8%A9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1485b8c084a4.html"
-    },
-    {
       "title": "العراق ينفي توقيف فرقة “كايروكي” المصرية: مجرد استفسار حول صورة صدام حسين",
       "url": "https://964media.com/715936/",
       "category": "عربي ودولي",
@@ -502,7 +502,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-11T22:59:24.143241+00:00",
+      "published": "2026-09-11T23:19:33.399744+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -512,7 +512,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8acd0c78400f.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ed6fbd688ab4.html"
     }
   ]
 }
