@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T17:49:51.052692+00:00",
+  "updated_at": "2026-09-11T18:02:13.905567+00:00",
   "items": [
     {
       "title": "قرار قضائي بحجب حساب باسم خشان على منصة اكس.. يثير الفتنة",
@@ -15,21 +15,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/60d68715ee37.html"
-    },
-    {
-      "title": "باب المندب والساحل الغربي اليمني تحت سيطرة الحوثيين، وتنسيق عسكري بين الرياض وواشنطن - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
-      "category": "كركوك",
-      "region": "كركوك",
-      "published": "2026-09-11T14:36:11+00:00",
-      "image": "./assets/news/32507d86050d521cc7ec2019.jpg",
-      "original_image": "./assets/news/32507d86050d521cc7ec2019.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": true,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a4a74b5bf9e5.html"
     },
     {
       "title": "نصيحة من وزير الرياضة السابق للقادم: ادعم الألعاب الفردية بمقدار دعمك للقدم",
@@ -227,6 +212,21 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ed5cf54c8dc2.html"
     },
     {
+      "title": "الحوثيون يحكمون قبضتهم على باب المندب، وابن سلمان يطلب تدخلاً من ترامب - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-11T14:36:11+00:00",
+      "image": "./assets/news/32507d86050d521cc7ec2019.jpg",
+      "original_image": "./assets/news/32507d86050d521cc7ec2019.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c83v4z056d7nt",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/864edc4c35e4.html"
+    },
+    {
       "title": "بزشكيان: لا أؤيد استمرار الحرب، وترامب يواجه ضغوطاً لإنهائها قبل نوفمبر - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cr50qjy0yjlo",
       "category": "سياسة",
@@ -332,26 +332,11 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fc00e119363d.html"
     },
     {
-      "title": "مستشفيان عراقيان ينضمان إلى تحالف “سانت جود” العالمي لعلاج أورام الأطفال",
-      "url": "https://www.alsumaria.tv/news/localnews/575738/%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D9%86-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A7%D9%86-%D9%8A%D9%86%D8%B6%D9%85%D8%A7%D9%86-%D8%A5%D9%84%D9%89-%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%B3%D8%A7%D9%86%D8%AA-%D8%AC%D9%88%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D8%B9%D9%84%D8%A7%D8%AC-%D8%A3%D9%88%D8%B1%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-11T12:20:08+00:00",
-      "image": "./assets/news/4b262608fabf7eae1e2291e7.jpg",
-      "original_image": "./assets/news/4b262608fabf7eae1e2291e7.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/575738/%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D9%86-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A7%D9%86-%D9%8A%D9%86%D8%B6%D9%85%D8%A7%D9%86-%D8%A5%D9%84%D9%89-%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%B3%D8%A7%D9%86%D8%AA-%D8%AC%D9%88%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D8%B9%D9%84%D8%A7%D8%AC-%D8%A3%D9%88%D8%B1%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a91a9e0296d8.html"
-    },
-    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-11T17:49:51.266145+00:00",
+      "published": "2026-09-11T18:02:14.120163+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -361,7 +346,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/404b87244a96.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7afdd86a33be.html"
     }
   ]
 }
