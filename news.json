@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-11T05:50:45.461041+00:00",
+  "updated_at": "2026-09-11T06:01:28.782234+00:00",
   "items": [
     {
-      "title": "تحذير دولي من متحور جديد لكورونا",
-      "url": "https://www.alsumaria.tv/news/international/575702/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%AF%D9%88%D9%84%D9%8A-%D9%85%D9%86-%D9%85%D8%AA%D8%AD%D9%88%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+      "title": "ترامب: العملية في إيران طالت",
+      "url": "https://www.alsumaria.tv/news/international/575703/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%B7%D8%A7%D9%84%D8%AA",
       "category": "عربي ودولي",
       "region": "عربي ودولي",
-      "published": "2026-09-11T05:35:41+00:00",
-      "image": "./assets/news/ff1cba5207917deeca77bf08.png",
-      "original_image": "./assets/news/ff1cba5207917deeca77bf08.png",
-      "source_url": "https://www.alsumaria.tv/news/international/575702/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%AF%D9%88%D9%84%D9%8A-%D9%85%D9%86-%D9%85%D8%AA%D8%AD%D9%88%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+      "published": "2026-09-11T05:55:13+00:00",
+      "image": "./assets/news/ff5341b552e5bfc3a1871e52.jpg",
+      "original_image": "./assets/news/ff5341b552e5bfc3a1871e52.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575703/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%B7%D8%A7%D9%84%D8%AA",
       "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/76ea0bd11dab.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c4f3f892417f.html"
     },
     {
       "title": "يوخنا: تراجع كبير بأعداد المسيحيين وظلم يطال تمثيلهم بكركوك وسهل نينوى",
@@ -22,8 +22,8 @@
       "category": "كركوك",
       "region": "كركوك",
       "published": "2026-09-10T18:42:00+00:00",
-      "image": "./assets/news/187901de323073a00d33ac62.png",
-      "original_image": "./assets/news/187901de323073a00d33ac62.png",
+      "image": "./assets/news/971a247fe922dcf657cd76fe.png",
+      "original_image": "./assets/news/971a247fe922dcf657cd76fe.png",
       "source_url": "https://www.alsumaria.tv/news/alsumariaspecial/575684/%D9%8A%D9%88%D8%AE%D9%86%D8%A7-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%83%D8%A8%D9%8A%D8%B1-%D8%A8%D8%A3%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%D9%8A%D9%8A%D9%86-%D9%88%D8%B8%D9%84%D9%85-%D9%8A%D8%B7%D8%A7%D9%84-%D8%AA%D9%85%D8%AB%D9%8A%D9%84%D9%87%D9%85-%D8%A8%D9%83%D8%B1%D9%83%D9%88%D9%83-%D9%88%D8%B3%D9%87%D9%84-%D9%86%D9%8A%D9%86%D9%88%D9%89",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -47,11 +47,26 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/702df56849bb.html"
     },
     {
+      "title": "الجزائر تقطع علاقاتها مع الإمارات، والخارجية الإماراتية تأمل أن يكون القرار مؤقتاً - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cvgyr59r494o",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-11T05:46:36+00:00",
+      "image": "./assets/news/bac26bd7e47cc84c97b79db0.jpg",
+      "original_image": "./assets/news/bac26bd7e47cc84c97b79db0.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cvgyr59r494o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/82ea36f30342.html"
+    },
+    {
       "title": "بيسنت: سنفرض عقوبات على بنك \"كبير\" ضمن الضغوط الاقتصادية الأمريكية على طهران - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
       "category": "اقتصاد",
       "region": "العراق",
-      "published": "2026-09-11T04:48:09+00:00",
+      "published": "2026-09-11T05:37:41+00:00",
       "image": "./assets/news/3b46b7c58acdcd55b5cf5d8b.jpg",
       "original_image": "./assets/news/3b46b7c58acdcd55b5cf5d8b.jpg",
       "source_url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
@@ -59,7 +74,22 @@
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/13b97270c81a.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/dcd6c7983dc0.html"
+    },
+    {
+      "title": "تحذير دولي من متحور جديد لكورونا",
+      "url": "https://www.alsumaria.tv/news/international/575702/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%AF%D9%88%D9%84%D9%8A-%D9%85%D9%86-%D9%85%D8%AA%D8%AD%D9%88%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-11T05:35:41+00:00",
+      "image": "./assets/news/ff1cba5207917deeca77bf08.png",
+      "original_image": "./assets/news/ff1cba5207917deeca77bf08.png",
+      "source_url": "https://www.alsumaria.tv/news/international/575702/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%AF%D9%88%D9%84%D9%8A-%D9%85%D9%86-%D9%85%D8%AA%D8%AD%D9%88%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/76ea0bd11dab.html"
     },
     {
       "title": "أوكرانيا تعلن مقتل خمسة أشخاص وإصابة عشرات آخرين في غارة روسية استهدفت مركزاً تجارياً - شفق نيوز..",
@@ -107,21 +137,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a5b5df4ce9e0.html"
     },
     {
-      "title": "الجزائر تقطع علاقاتها مع الإمارات، والخارجية الإماراتية تأمل أن يكون القرار مؤقتاً - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cvgyr59r494o",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-10T21:49:06+00:00",
-      "image": "./assets/news/bac26bd7e47cc84c97b79db0.jpg",
-      "original_image": "./assets/news/bac26bd7e47cc84c97b79db0.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cvgyr59r494o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3e5e6ebcb1d8.html"
-    },
-    {
       "title": "روسيا تعلن استهداف سفينة شحن في ميناء تشرنومورسك",
       "url": "https://www.alsumaria.tv/news/international/575699/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B4%D8%AD%D9%86-%D9%81%D9%8A-%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%AA%D8%B4%D8%B1%D9%86%D9%88%D9%85%D9%88%D8%B1%D8%B3%D9%83",
       "category": "عربي ودولي",
@@ -142,8 +157,8 @@
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-10T20:45:00+00:00",
-      "image": "./assets/news/e79c3d8f0306f29c6834424c.jpg",
-      "original_image": "./assets/news/e79c3d8f0306f29c6834424c.jpg",
+      "image": "./assets/news/22082131aa84874d3bbece78.jpg",
+      "original_image": "./assets/news/22082131aa84874d3bbece78.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575698/%D9%85%D8%AE%D8%B2%D9%88%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D9%86%D8%AE%D9%81%D8%B6-%D8%A8%D9%85%D9%82%D8%AF%D8%A7%D8%B1-400-%D8%A3%D9%84%D9%81-%D8%A8%D8%B1%D9%85%D9%8A%D9%84",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -172,8 +187,8 @@
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-10T20:01:00+00:00",
-      "image": "./assets/news/cdcdcd72f7acef37649241a5.jpg",
-      "original_image": "./assets/news/cdcdcd72f7acef37649241a5.jpg",
+      "image": "./assets/news/aaccadb488e5ff14af464d49.jpg",
+      "original_image": "./assets/news/aaccadb488e5ff14af464d49.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575695/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AF%D8%AE%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D9%84%D9%85-%D8%AA%D8%B9%D8%AF-%D9%82%D8%A7%D8%AF%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%AE%D9%81%D8%B6-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -337,8 +352,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-10T17:35:00+00:00",
-      "image": "./assets/news/0e986418abda52c08f6c690a.jpg",
-      "original_image": "./assets/news/0e986418abda52c08f6c690a.jpg",
+      "image": "./assets/news/4eb5783618ff37aec4c2a9ad.jpg",
+      "original_image": "./assets/news/4eb5783618ff37aec4c2a9ad.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575687/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%B2%D9%88%D8%B1%D9%82%D8%A7-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A7-%D9%81%D9%8A-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -377,26 +392,11 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ad4424ea2bce.html"
     },
     {
-      "title": "خطر صامت يهدد حياة الملايين.. ماذا تعرف عن التدخين السلبي",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575686/%D8%AE%D8%B7%D8%B1-%D8%B5%D8%A7%D9%85%D8%AA-%D9%8A%D9%87%D8%AF%D8%AF-%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D9%84%D8%A8%D9%8A",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-10T17:13:24+00:00",
-      "image": "./assets/news/3670eeaacd8d1a5eb27ade78.jpg",
-      "original_image": "./assets/news/3670eeaacd8d1a5eb27ade78.jpg",
-      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575686/%D8%AE%D8%B7%D8%B1-%D8%B5%D8%A7%D9%85%D8%AA-%D9%8A%D9%87%D8%AF%D8%AF-%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D9%84%D8%A8%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/36caea4c1832.html"
-    },
-    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-11T05:50:45.631772+00:00",
+      "published": "2026-09-11T06:01:29.000041+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -406,7 +406,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f1522cbd0198.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1a6a80f00e8e.html"
     }
   ]
 }
