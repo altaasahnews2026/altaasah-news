@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T00:35:36.510157+00:00",
+  "updated_at": "2026-09-11T00:50:28.878228+00:00",
   "latest": [
     {
       "title": "لبنان.. هزة أرضية تزامنا مع تفجيرات إسرائيلية في علي الطاهر",
@@ -68,16 +68,6 @@
       ]
     },
     {
-      "title": "نصيحة من وزير الرياضة السابق للقادم: ادعم الألعاب الفردية بمقدار دعمك للقدم",
-      "url": "https://964media.com/715761/",
-      "category": "عراق",
-      "published": "2026-09-10T18:09:02+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "بيسنت: سنفرض عقوبات على بنك \"كبير\" ضمن الضغوط الاقتصادية الأمريكية على طهران - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c207zr7953zo",
       "category": "عراق",
@@ -88,10 +78,30 @@
       ]
     },
     {
+      "title": "نصيحة من وزير الرياضة السابق للقادم: ادعم الألعاب الفردية بمقدار دعمك للقدم",
+      "url": "https://964media.com/715761/",
+      "category": "عراق",
+      "published": "2026-09-10T18:09:02+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "ترامب يعد بتوزيع المال على الأمريكيين اذا فاز حزبه! - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c36lkjlzn8po",
+      "category": "عراق",
+      "published": "2026-09-11T00:14:28+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-11T00:35:32.591185+00:00",
+      "published": "2026-09-11T00:50:25.554029+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -228,14 +238,6 @@
       "url": "https://www.alsumaria.tv/news/localnews/575700/%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%b5%d8%b1%d8%a9-%d8%a7%d8%b9%d8%aa%d9%82%d8%a7%d9%84-%d9%85%d8%aa%d9%87%d9%85%d9%8a%d9%86-%d8%a8%d8%b9%d8%af-%d8%a7%d9%86%d8%aa%d8%ad%d8%a7%d8%b1-%d8%b4%d8%a7%d8%a8-%d8%b6%d9%85%d9%86-quot?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
       "category": "عراق",
       "published": "Thu, 10 Sep 2026 21:52:00 GMT",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "السفير الفرنسي الجديد يقدم أوراق اعتماده في بغداد",
-      "url": "https://www.alsumaria.tv/news/localnews/575697/%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d8%b1-%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d9%8a%d9%82%d8%af%d9%85-%d8%a3%d9%88%d8%b1%d8%a7%d9%82-%d8%a7%d8%b9%d8%aa%d9%85%d8%a7%d8%af%d9%87-%d9%81%d9%8a-%d8%a8%d8%ba%d8%af%d8%a7%d8%af?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-      "category": "عراق",
-      "published": "Thu, 10 Sep 2026 20:20:00 GMT",
       "breaking": false,
       "watch_topics": []
     },
