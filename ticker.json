@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T18:50:44.520436+00:00",
+  "updated_at": "2026-09-11T19:06:01.249691+00:00",
   "latest": [
     {
       "title": "صور: ضبط طائرات مسيرة ومتفجرات في موقع مهجور بالأنبار",
@@ -89,7 +89,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-11T18:50:39.463484+00:00",
+      "published": "2026-09-11T19:05:56.367330+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -294,6 +294,16 @@
       "watch_topics": []
     },
     {
+      "title": "من «هرمز» إلى الصومال... توترات المنطقة تحاصر بحارة مصريين",
+      "url": "https://aawsat.com/node/5316468",
+      "category": "مشرق أوسط",
+      "published": "Wed, 09 Sep 2026 15:26:57 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "السعودية تدين دخول رئيس الوزراء الإسرائيلي الأراضي السورية",
       "url": "https://aawsat.com/node/5316821",
       "category": "مشرق أوسط",
@@ -374,82 +384,74 @@
       ]
     },
     {
-      "title": "المملكة تدعو مجلس الأمن لاتخاذ موقف حازم تجاه اعتداءات ميليشيا الحوثي",
-      "url": "https://aawsat.com/node/5317011",
+      "title": "مصر وليبيريا تتفقان على تنسيق الأولويات الأفريقية في «مجلس الأمن»",
+      "url": "https://aawsat.com/node/5317186",
       "category": "مشرق أوسط",
-      "published": "Fri, 11 Sep 2026 02:08:28 +0100",
+      "published": "Fri, 11 Sep 2026 16:06:39 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "وزير الخارجية السعودي يحضر «قمة الفضاء» في باريس",
-      "url": "https://aawsat.com/node/5316898",
+      "title": "جرحى الحوثيين يستنزفون قدرات المستشفيات في صنعاء",
+      "url": "https://aawsat.com/node/5317175",
       "category": "مشرق أوسط",
-      "published": "Thu, 10 Sep 2026 17:17:38 +0100",
+      "published": "Fri, 11 Sep 2026 15:37:04 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "وزير الخارجية السعودي يبحث مع نظيريه القطري والعُماني تطورات المنطقة",
-      "url": "https://aawsat.com/node/5316744",
+      "title": "اليمن يكثف تحركه الدولي لحماية باب المندب",
+      "url": "https://aawsat.com/node/5317172",
       "category": "مشرق أوسط",
-      "published": "Thu, 10 Sep 2026 10:38:37 +0100",
+      "published": "Fri, 11 Sep 2026 15:25:53 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "«التحالف»: اعتداءات حوثية على 3 مدن سعودية",
-      "url": "https://aawsat.com/node/5316552",
+      "title": "الحوثيون يسيطرون على باب المندب والجزر اليمنية جنوب البحر الأحمر",
+      "url": "https://aawsat.com/node/5317156",
       "category": "مشرق أوسط",
-      "published": "Wed, 09 Sep 2026 19:26:32 +0100",
+      "published": "Fri, 11 Sep 2026 14:47:17 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "تركيا تدين بشدة اعتداءات ميليشيا الحوثي على المملكة",
-      "url": "https://aawsat.com/node/5316233",
+      "title": "القوات اليمنية تحدد منطقة محظورة على الحوثيين قرب المخا",
+      "url": "https://aawsat.com/node/5316929",
       "category": "مشرق أوسط",
-      "published": "Wed, 09 Sep 2026 00:29:34 +0100",
+      "published": "Thu, 10 Sep 2026 18:32:31 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "الجامعة العربية تحذّر من تداعيات التصعيد الحوثي على أمن المملكة واستقرار المنطقة",
-      "url": "https://aawsat.com/node/5316203",
+      "title": "الحوثيون يوسعون جبايتهم الزراعية في صنعاء وريمة",
+      "url": "https://aawsat.com/node/5316775",
       "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 22:48:11 +0100",
+      "published": "Thu, 10 Sep 2026 11:47:45 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "الإمارات: جهودنا في المنطقة تركز على خفض التصعيد وتعزيز الاستقرار",
-      "url": "https://aawsat.com/node/5316127",
+      "title": "آلاف النازحين من تصعيد الحوثيين يواجهون التشرد والجوع",
+      "url": "https://aawsat.com/node/5316771",
       "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 18:44:39 +0100",
+      "published": "Thu, 10 Sep 2026 11:39:27 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "وزير الخارجية السعودي: الحوثيون فتحوا باباً لا يحتملونه",
-      "url": "https://aawsat.com/node/5315923",
+      "title": "قوات الحكومة اليمنية تعيد ترتيب انتشارها جنوب المخا",
+      "url": "https://aawsat.com/node/5316763",
       "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 10:18:10 +0100",
+      "published": "Thu, 10 Sep 2026 11:29:09 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "انتشال 30 جثة من عبّارة اجتاحها حريق في الفلبين",
-      "url": "https://aawsat.com/node/5317275",
+      "title": "اليمن يُثبّت مكاسبه ضد الحوثيين ويُوسّع مسرح العمليات",
+      "url": "https://aawsat.com/node/5316636",
       "category": "مشرق أوسط",
-      "published": "Fri, 11 Sep 2026 19:13:02 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "قادة «بريكس» يجتمعون في نيودلهي وسط حروب وتوترات تواجه التكتل المتوسع",
-      "url": "https://aawsat.com/node/5317235",
-      "category": "مشرق أوسط",
-      "published": "Fri, 11 Sep 2026 17:17:51 +0100",
+      "published": "Thu, 10 Sep 2026 02:19:19 +0100",
       "breaking": false,
       "watch_topics": []
     },
