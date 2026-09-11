@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-11T18:36:19.284354+00:00",
+  "updated_at": "2026-09-11T18:50:39.248200+00:00",
   "items": [
     {
-      "title": "لبحث عدة ملفات وتوقيع مذكرات تفاهم.. الزيدي يزور فرنسا الاحد المقبل",
-      "url": "https://www.alsumaria.tv/news/politics/575761/%D9%84%D8%A8%D8%AD%D8%AB-%D8%B9%D8%AF%D8%A9-%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B2%D9%88%D8%B1-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%A7%D9%84%D8%A7%D8%AD%D8%AF-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
-      "category": "سياسة",
+      "title": "صور: ضبط طائرات مسيرة ومتفجرات في موقع مهجور بالأنبار",
+      "url": "https://964media.com/716006/",
+      "category": "أمن",
       "region": "العراق",
-      "published": "2026-09-11T18:10:33+00:00",
-      "image": "./assets/news/ae7f55f03ed17e294e16ffcc.jpg",
-      "original_image": "./assets/news/ae7f55f03ed17e294e16ffcc.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/575761/%D9%84%D8%A8%D8%AD%D8%AB-%D8%B9%D8%AF%D8%A9-%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B2%D9%88%D8%B1-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%A7%D9%84%D8%A7%D8%AD%D8%AF-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
-      "source_name": "السومرية نيوز",
+      "published": "2026-09-11T18:27:01+00:00",
+      "image": "./assets/news/ba72966660abbb1919d6ceab.jpg",
+      "original_image": "./assets/news/ba72966660abbb1919d6ceab.jpg",
+      "source_url": "https://964media.com/716006/",
+      "source_name": "شبكة 964",
       "breaking": false,
       "kirkuk": false,
-      "report": true,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/44524491e6df.html"
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9f772d7e5213.html"
     },
     {
       "title": "نصيحة من وزير الرياضة السابق للقادم: ادعم الألعاب الفردية بمقدار دعمك للقدم",
@@ -30,6 +30,21 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/702df56849bb.html"
+    },
+    {
+      "title": "لبحث عدة ملفات وتوقيع مذكرات تفاهم.. الزيدي يزور فرنسا الاحد المقبل",
+      "url": "https://www.alsumaria.tv/news/politics/575761/%D9%84%D8%A8%D8%AD%D8%AB-%D8%B9%D8%AF%D8%A9-%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B2%D9%88%D8%B1-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%A7%D9%84%D8%A7%D8%AD%D8%AF-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-11T18:10:33+00:00",
+      "image": "./assets/news/ae7f55f03ed17e294e16ffcc.jpg",
+      "original_image": "./assets/news/ae7f55f03ed17e294e16ffcc.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/575761/%D9%84%D8%A8%D8%AD%D8%AB-%D8%B9%D8%AF%D8%A9-%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B2%D9%88%D8%B1-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%A7%D9%84%D8%A7%D8%AD%D8%AF-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/44524491e6df.html"
     },
     {
       "title": "تطوير علاج جيني لالتهاب الكبد الوبائي",
@@ -321,7 +336,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-11T18:36:19.486614+00:00",
+      "published": "2026-09-11T18:50:39.463484+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -331,7 +346,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/722e4684af18.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cc450175a983.html"
     }
   ]
 }
