@@ -9,8 +9,27 @@ MAX_AGE=timedelta(hours=30)
 NOW=datetime.now(timezone.utc)
 SOURCES=[('https://rudaw.net/arabic/authors/r%C3%BBdaw','رووداو'),('https://news.imn.iq/','قناة العراقية'),('https://alsharqiya.com/news','قناة الشرقية'),('https://alsharqiya.com/','قناة الشرقية'),('https://alfallujah.tv/','قناة الفلوجة'),('https://www.alarabiya.net/arab-and-world/iraq','العربية'),('https://www.alsumaria.tv/news','السومرية نيوز'),('https://www.alsumaria.tv/alsumarianews','السومرية نيوز'),('https://shafaq.com/ar','شفق نيوز'),('https://ninanews.com/website/','وكالة نينا'),('https://www.sjc.iq/','مجلس القضاء الأعلى')]
 GENERIC=('logo','icon','favicon','avatar','placeholder','default','sprite','banner','advert','ads','loading','no-image','profile')
-KIRKUK=('كركوك','التون كوبري','التونكوبري','آلتون كوبري','الدبس','داقوق','الحويجة','ليلان','الرشاد','الرياض','الزاب','قره تبه','جيمن','باي حسن','بابا كركر','محمد سمعان','محمد سمعان آغا','سمعان آغا','محافظ كركوك')
-IRAQ=('العراق','بغداد','نينوى','الموصل','البصرة','النجف','كربلاء','الأنبار','الانبار','صلاح الدين','ديالى','واسط','ميسان','ذي قار','المثنى','بابل','القادسية','الديوانية','دهوك','أربيل','اربيل','السليمانية','حلبجة','كركوك','الحشد','البرلمان العراقي','الحكومة العراقية','القوات العراقية')
+GOVERNORATES={
+ 'بغداد':('بغداد','بغداد','أبو غريب','ابو غريب','المدائن','التاجي','المحمودية','الطارمية'),
+ 'البصرة':('البصرة','البصره','الزبير','أبو الخصيب','ابي الخصيب','القرنة','الفاو','شط العرب'),
+ 'نينوى':('نينوى','الموصل','تلعفر','سنجار','الحمدانية','بعشيقة','تلكيف','الحضر'),
+ 'الأنبار':('الأنبار','الانبار','الرمادي','الفلوجة','حديثة','القائم','عانة','راوة','هيت','الرطبة'),
+ 'صلاح الدين':('صلاح الدين','تكريت','سامراء','بيجي','بلد','الدجيل','الشرقاط'),
+ 'ديالى':('ديالى','بعقوبة','خانقين','المقدادية','بلدروز','الخالص'),
+ 'واسط':('واسط','الكوت','النعمانية','الحي','الصويرة'),
+ 'ميسان':('ميسان','العمارة','المجر الكبير','قلعة صالح','الكحلاء'),
+ 'ذي قار':('ذي قار','الناصرية','الشطرة','الرفاعي','سوق الشيوخ','الجبايش'),
+ 'المثنى':('المثنى','السماوة','الرميثة','الخضر'),
+ 'بابل':('بابل','الحلة','المسيب','المحاويل','الهاشمية'),
+ 'كربلاء':('كربلاء','كربلاء المقدسة','عين التمر','الهندية'),
+ 'النجف':('النجف','النجف الأشرف','المناذرة','الكوفة','المشخاب'),
+ 'القادسية':('القادسية','الديوانية','الشامية','عفك','الحمزة'),
+ 'دهوك':('دهوك','زاخو','العمادية','سميل','آميدي'),
+ 'أربيل':('أربيل','اربيل','شقلاوة','كويسنجق','سوران','حرير'),
+ 'السليمانية':('السليمانية','السليمانيه','حلبجة','رانية','دوكان','كلار'),
+ 'كركوك':('كركوك','التون كوبري','التونكوبري','آلتون كوبري','الدبس','داقوق','الحويجة','ليلان','الرشاد','الرياض','الزاب','قره تبه','جيمن','باي حسن','بابا كركر','محمد سمعان','محمد سمعان آغا','سمعان آغا','محافظ كركوك')
+}
+IRAQ=('العراق','الحشد','البرلمان العراقي','الحكومة العراقية','القوات العراقية','مجلس الوزراء')
 INTL=('فلسطين','غزة','إسرائيل','اسرائيل','لبنان','سوريا','الأردن','الاردن','السعودية','الإمارات','الامارات','الكويت','قطر','البحرين','عُمان','عمان','اليمن','مصر','ليبيا','تونس','الجزائر','المغرب','السودان','إيران','ايران','تركيا','أمريكا','امريكا','أميركا','روسيا','أوكرانيا','الصين','أوروبا','بريطانيا','فرنسا','ألمانيا','دولي','دولية')
 ALLOWED_HOSTS=('rudaw.net','www.rudaw.net','news.imn.iq','imn.iq','www.imn.iq','alsharqiya.com','www.alsharqiya.com','alfallujah.tv','www.alfallujah.tv','alarabiya.net','www.alarabiya.net','alsumaria.tv','www.alsumaria.tv','shafaq.com','www.shafaq.com','ninanews.com','www.ninanews.com','sjc.iq','www.sjc.iq')
 
@@ -79,19 +98,27 @@ def store(raw):
  if not p.exists():p.write_bytes(raw)
  return './assets/news/'+p.name
 
+def governorate(t):
+ t=title(t)
+ for name,terms in GOVERNORATES.items():
+  if any(x in t for x in terms):return name
+ return ''
+
 def region(t):
- if any(x in t for x in KIRKUK):return 'كركوك'
- if any(x in t for x in IRAQ):return 'العراق'
+ g=governorate(t)
+ if g:return g
  if any(x in t for x in INTL):return 'عربي ودولي'
+ if any(x in t for x in IRAQ):return 'العراق'
  return 'العراق'
+
 def category(t):
- if region(t)=='كركوك':return 'كركوك'
- if any(x in t for x in ('رياضة','كرة','منتخب','مباراة','دوري','بطولة')):return 'رياضة'
+ if any(x in t for x in ('رياضة','كرة','منتخب','مباراة','دوري','بطولة','ألعاب')):return 'رياضة'
  if any(x in t for x in ('دولار','ذهب','اقتصاد','مصرف','بنك','نفط','استثمار','أسعار','تجارة','بورصة','مالية')):return 'اقتصاد'
  if any(x in t for x in ('حكومة','وزير','رئيس الوزراء','برلمان','نائب','حزب','انتخابات','سياسة')):return 'سياسة'
  if any(x in t for x in ('هجوم','انفجار','شرطة','جيش','أمن','إرهاب','مسيرة','مخدرات','سلاح','اعتقال','مقتل','قتلى','حريق')):return 'أمن'
  if any(x in t for x in INTL):return 'عربي ودولي'
  return 'محليات'
+
 def rows(page,base):
  out=[];seen=set()
  for m in re.finditer(r'<a[^>]+href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',page,re.I|re.S):
@@ -120,12 +147,13 @@ for source_url,source_name in SOURCES:
   if not t or t in titles:continue
   rawimg=image(at,article_final)
   if not rawimg:continue
-  img=store(rawimg);r=region(t)
-  item={'title':t,'url':article_final,'category':category(t),'region':r,'published':d.isoformat(),'image':img,'original_image':img,'source_url':article_final,'source_name':source_name,'breaking':False,'kirkuk':r=='كركوك','report':False}
+  img=store(rawimg);g=governorate(t);r=region(t)
+  item={'title':t,'url':article_final,'category':category(t),'region':r,'governorate':g,'published':d.isoformat(),'image':img,'original_image':img,'source_url':article_final,'source_name':source_name,'breaking':False,'kirkuk':g=='كركوك','report':False}
   items.append(item);urls.add(article_final);titles.add(t);added+=1
 
-rank={'كركوك':0,'العراق':1,'عربي ودولي':2}
-items.sort(key=lambda x:x.get('published',''),reverse=True);items.sort(key=lambda x:rank.get(x.get('region'),1))
-data['items']=items[:60];data['updated_at']=datetime.now(timezone.utc).isoformat()
+# ترتيب موحد: الأحدث أولا. لا نعطي كركوك أو أي محافظة أولوية للخبر الرئيسي.
+items.sort(key=lambda x:x.get('published',''),reverse=True)
+data['items']=items[:60]
+data['updated_at']=datetime.now(timezone.utc).isoformat()
 Path('news.json').write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
-print('AUGMENT SOURCES: added',added,'items; Kirkuk',sum(x.get('region')=='كركوك' for x in data['items']),'Governor',sum(any(k in x.get('title','') for k in ('محمد سمعان','سمعان آغا','محافظ كركوك')) for x in data['items']),'total',len(data['items']))
+print('AUGMENT SOURCES: added',added,'items; by governorate', {g:sum(x.get('governorate')==g for x in data['items']) for g in GOVERNORATES}, 'total',len(data['items']))
