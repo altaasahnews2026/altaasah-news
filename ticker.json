@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T01:20:16.671309+00:00",
+  "updated_at": "2026-09-11T01:34:34.278840+00:00",
   "latest": [
     {
       "title": "لبنان.. هزة أرضية تزامنا مع تفجيرات إسرائيلية في علي الطاهر",
@@ -101,7 +101,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-11T01:20:12.858065+00:00",
+      "published": "2026-09-11T01:34:31.180659+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -506,6 +506,16 @@
       ]
     },
     {
+      "title": "ترمب غير نادم على حرب إيران رغم تأثيرها المحتمل على انتخابات التجديد النصفي",
+      "url": "https://aawsat.com/node/5317012",
+      "category": "دولي",
+      "published": "Fri, 11 Sep 2026 02:24:02 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "بيسنت: عقوبات تنتظر بنكاً «كبيراً» ضمن عملية الإقصاء الاقتصادي لإيران",
       "url": "https://aawsat.com/node/5317010",
       "category": "دولي",
@@ -624,14 +634,6 @@
       "url": "https://aawsat.com/node/5316634",
       "category": "دولي",
       "published": "Thu, 10 Sep 2026 02:12:54 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "«وثائق»: المخابرات الإسبانية حذرت من خطط لاقتحام سبتة",
-      "url": "https://aawsat.com/node/5316600",
-      "category": "دولي",
-      "published": "Wed, 09 Sep 2026 23:05:57 +0100",
       "breaking": false,
       "watch_topics": []
     }
