@@ -1,0 +1,1 @@
+Force GitHub Pages rebuild after direct official logo fix.
