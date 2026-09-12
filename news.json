@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T17:08:58.046800+00:00",
+  "updated_at": "2026-09-12T17:22:57.438889+00:00",
   "items": [
     {
       "title": "طالباني يدين الهجوم على السعودية ويدعو إلى أقصى درجات ضبط النفس",
@@ -50,13 +50,61 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e6ad74f78a2c.html"
     },
     {
+      "title": "هل تفضفض للذكاء الاصطناعي؟.. تحذير من خبراء",
+      "url": "https://www.alsumaria.tv/infograph-details/575724/infographics/%D9%87%D9%84-%D8%AA%D9%81%D8%B6%D9%81%D8%B6-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A%D8%9F-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D8%AE%D8%A8%D8%B1%D8%A7%D8%A1",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-12T17:20:00+00:00",
+      "image": "./assets/news/0902a4db471d8027ef0f4f8c.jpg",
+      "original_image": "./assets/news/0902a4db471d8027ef0f4f8c.jpg",
+      "source_url": "https://www.alsumaria.tv/infograph-details/575724/infographics/%D9%87%D9%84-%D8%AA%D9%81%D8%B6%D9%81%D8%B6-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A%D8%9F-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D8%AE%D8%A8%D8%B1%D8%A7%D8%A1",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3fb113448612.html"
+    },
+    {
+      "title": "غارتان إسرائيليتان تستهدفان جنوبي لبنان",
+      "url": "https://www.alsumaria.tv/news/international/575826/%D8%BA%D8%A7%D8%B1%D8%AA%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%AA%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-12T17:12:42+00:00",
+      "image": "./assets/news/03a40c8494ab149fd453d7ac.webp",
+      "original_image": "./assets/news/03a40c8494ab149fd453d7ac.webp",
+      "source_url": "https://www.alsumaria.tv/news/international/575826/%D8%BA%D8%A7%D8%B1%D8%AA%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%AA%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2f1120ce040e.html"
+    },
+    {
+      "title": "160 ألف طفل يتعرضون للعنف الجنسي سنوياً.. البرلمان الفرنسي يتحرك بقانون شامل",
+      "url": "https://www.alsumaria.tv/news/international/575825/160-%D8%A3%D9%84%D9%81-%D8%B7%D9%81%D9%84-%D9%8A%D8%AA%D8%B9%D8%B1%D8%B6%D9%88%D9%86-%D9%84%D9%84%D8%B9%D9%86%D9%81-%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A-%D8%B3%D9%86%D9%88%D9%8A%D8%A7%D9%8B-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%8A%D8%AA%D8%AD%D8%B1%D9%83-%D8%A8%D9%82%D8%A7%D9%86%D9%88%D9%86",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-12T17:12:11+00:00",
+      "image": "./assets/news/db3dc2dbeeadb98f4446f4e4.png",
+      "original_image": "./assets/news/db3dc2dbeeadb98f4446f4e4.png",
+      "source_url": "https://www.alsumaria.tv/news/international/575825/160-%D8%A3%D9%84%D9%81-%D8%B7%D9%81%D9%84-%D9%8A%D8%AA%D8%B9%D8%B1%D8%B6%D9%88%D9%86-%D9%84%D9%84%D8%B9%D9%86%D9%81-%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A-%D8%B3%D9%86%D9%88%D9%8A%D8%A7%D9%8B-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%8A%D8%AA%D8%AD%D8%B1%D9%83-%D8%A8%D9%82%D8%A7%D9%86%D9%88%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6f9a19d7802e.html"
+    },
+    {
       "title": "وزير التعليم العالي يوجه بإجراءات لضمان رصانة التعليم في كليات الطب بالجامعات الأهلية",
       "url": "https://www.alsumaria.tv/news/localnews/575824/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D9%8A%D9%88%D8%AC%D9%87-%D8%A8%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D9%84%D8%B6%D9%85%D8%A7%D9%86-%D8%B1%D8%B5%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D9%83%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A8-%D8%A8%D8%A7",
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-12T17:05:39+00:00",
-      "image": "./assets/news/3686598e9ecfab8a0ed4ddca.jpg",
-      "original_image": "./assets/news/3686598e9ecfab8a0ed4ddca.jpg",
+      "image": "./assets/news/42e4374e135c5eafc01ae42d.jpg",
+      "original_image": "./assets/news/42e4374e135c5eafc01ae42d.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/575824/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D9%8A%D9%88%D8%AC%D9%87-%D8%A8%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D9%84%D8%B6%D9%85%D8%A7%D9%86-%D8%B1%D8%B5%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D9%83%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A8-%D8%A8%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -402,22 +450,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4c1b8c3ee1ed.html"
     },
     {
-      "title": "القائم بالأعمال الأمريكي لـ السومرية: طبيعة علاقتنا مع بغداد تغيرت.. معاً سنواصل الانجازات",
-      "url": "https://www.alsumaria.tv/news/international/575807/%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D9%85-%D8%A8%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%84%D9%80-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9-%D8%B9%D9%84%D8%A7%D9%82%D8%AA%D9%86%D8%A7-%D9%85%D8%B9-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D8%BA%D9%8A%D8%B1%D8%AA-%D9%85%D8%B9%D8%A7%D9%8B",
-      "category": "محليات",
-      "region": "بغداد",
-      "published": "2026-09-12T13:52:39+00:00",
-      "image": "./assets/news/28653bc59fc5c01a405a86fd.jpg",
-      "original_image": "./assets/news/28653bc59fc5c01a405a86fd.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/575807/%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D9%85-%D8%A8%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%84%D9%80-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9-%D8%B9%D9%84%D8%A7%D9%82%D8%AA%D9%86%D8%A7-%D9%85%D8%B9-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D8%BA%D9%8A%D8%B1%D8%AA-%D9%85%D8%B9%D8%A7%D9%8B",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/29f5242373f0.html"
-    },
-    {
       "title": "إثيوبيا تدخل عام 2019، ما حكاية السنة التي تبدأ في سبتمبر وتتألف من 13 شهراً؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cvgyv5qz2d8o",
       "category": "محليات",
@@ -448,22 +480,6 @@
       "report": true,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bd42e00a3ef4.html"
-    },
-    {
-      "title": "تحذير نووي ومواقف من غزة ولبنان وسوريا.. قادة بريكس يصدرون بياناً مشتركاً",
-      "url": "https://www.alsumaria.tv/news/international/575804/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%86%D9%88%D9%88%D9%8A-%D9%88%D9%85%D9%88%D8%A7%D9%82%D9%81-%D9%85%D9%86-%D8%BA%D8%B2%D8%A9-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%A7%D8%AF%D8%A9-%D8%A8%D8%B1%D9%8A%D9%83%D8%B3-%D9%8A%D8%B5%D8%AF%D8%B1%D9%88%D9%86-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D9%8B-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A7",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-12T12:18:33+00:00",
-      "image": "./assets/news/e75dc9e51caf0eb2752231ca.jpg",
-      "original_image": "./assets/news/e75dc9e51caf0eb2752231ca.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/575804/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%86%D9%88%D9%88%D9%8A-%D9%88%D9%85%D9%88%D8%A7%D9%82%D9%81-%D9%85%D9%86-%D8%BA%D8%B2%D8%A9-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%A7%D8%AF%D8%A9-%D8%A8%D8%B1%D9%8A%D9%83%D8%B3-%D9%8A%D8%B5%D8%AF%D8%B1%D9%88%D9%86-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D9%8B-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f72b8957cc94.html"
     },
     {
       "title": "الزيدي يكلف اللواء الركن علي عبد الحسين بقيادة عمليات ميسان",
@@ -550,7 +566,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T17:08:58.257735+00:00",
+      "published": "2026-09-12T17:22:57.606237+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -560,7 +576,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7c2c6a69261a.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bc66bf52ea8a.html"
     }
   ]
 }
