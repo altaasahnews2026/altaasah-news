@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T18:32:04.767374+00:00",
+  "updated_at": "2026-09-12T18:46:14.793792+00:00",
   "latest": [
     {
       "title": "المقاومة الإسلامية: استهداف السعودية “شرف لا ندعيه” ونستغرب تسرع بغداد",
@@ -139,20 +139,20 @@
       ]
     },
     {
-      "title": "بريكس تدعو إلى ضبط النفس مع تصاعد التوتر حول مضيق هرمز - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c62e0n5p35lo",
+      "title": "إيران تكشف تفاصيل التفاهم مع عُمان.. سبعة شروط لفتح مضيق هرمز",
+      "url": "https://www.alsumaria.tv/news/international/575828/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%85%D8%B9-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D8%B3%D8%A8%D8%B9%D8%A9-%D8%B4%D8%B1%D9%88%D8%B7-%D9%84%D9%81%D8%AA%D8%AD-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
       "category": "عراق",
-      "published": "2026-09-12T17:21:11+00:00",
+      "published": "2026-09-12T18:01:00+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
       ]
     },
     {
-      "title": "إيران تكشف تفاصيل التفاهم مع عُمان.. سبعة شروط لفتح مضيق هرمز",
-      "url": "https://www.alsumaria.tv/news/international/575828/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%85%D8%B9-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D8%B3%D8%A8%D8%B9%D8%A9-%D8%B4%D8%B1%D9%88%D8%B7-%D9%84%D9%81%D8%AA%D8%AD-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "title": "بريكس تدعو إلى ضبط النفس مع تصاعد التوتر حول مضيق هرمز - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c62e0n5p35lo",
       "category": "عراق",
-      "published": "2026-09-12T18:01:00+00:00",
+      "published": "2026-09-12T18:12:18+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
@@ -172,7 +172,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-12T18:31:59.315506+00:00",
+      "published": "2026-09-12T18:46:10.540731+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -257,6 +257,16 @@
       "watch_topics": []
     },
     {
+      "title": "«اتحاد إذاعات التعاون الإسلامي» يدين استهداف خط أنابيب «شرق-غرب» بالسعودية",
+      "url": "https://aawsat.com/node/5317396",
+      "category": "مشرق أوسط",
+      "published": "Sat, 12 Sep 2026 09:37:36 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "السعودية تدين استهداف خط «شرق - غرب»... والعراق يقيل مسؤولاً أمنياً",
       "url": "https://aawsat.com/node/5317285",
       "category": "مشرق أوسط",
@@ -316,6 +326,26 @@
       "published": "Mon, 07 Sep 2026 09:11:18 +0100",
       "breaking": true,
       "watch_topics": []
+    },
+    {
+      "title": "الزنداني: التصعيد الحوثي يتصل بأجندة إيرانية تستخدم اليمن لتهديد أمن المنطقة",
+      "url": "https://aawsat.com/node/5317561",
+      "category": "مشرق أوسط",
+      "published": "Sat, 12 Sep 2026 19:11:10 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "مصر تؤكد وقوفها بجانب السعودية في كل ما يهدد أمنها",
+      "url": "https://aawsat.com/node/5317442",
+      "category": "مشرق أوسط",
+      "published": "Sat, 12 Sep 2026 13:05:20 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
       "title": "ولي عهد أبوظبي والرئيس الإيراني يبحثان خفض التصعيد في المنطقة",
@@ -418,58 +448,34 @@
       ]
     },
     {
-      "title": "المملكة تدعو مجلس الأمن لاتخاذ موقف حازم تجاه اعتداءات ميليشيا الحوثي",
-      "url": "https://aawsat.com/node/5317011",
+      "title": "طمأنة رسمية للجالية المصرية بالكويت بعد إنهاء عمل 7 آلاف وافد",
+      "url": "https://aawsat.com/node/5317534",
       "category": "مشرق أوسط",
-      "published": "Fri, 11 Sep 2026 02:08:28 +0100",
+      "published": "Sat, 12 Sep 2026 17:22:34 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "وزير الخارجية السعودي يحضر «قمة الفضاء» في باريس",
-      "url": "https://aawsat.com/node/5316898",
+      "title": "القوات اليمنية تضرب تحشيدات الحوثيين في جبهات عدة",
+      "url": "https://aawsat.com/node/5317457",
       "category": "مشرق أوسط",
-      "published": "Thu, 10 Sep 2026 17:17:38 +0100",
+      "published": "Sat, 12 Sep 2026 13:49:21 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "وزير الخارجية السعودي يبحث مع نظيريه القطري والعُماني تطورات المنطقة",
-      "url": "https://aawsat.com/node/5316744",
+      "title": "اعتقالات وملاحقات ترافق التمدد الحوثي في غرب اليمن",
+      "url": "https://aawsat.com/node/5317448",
       "category": "مشرق أوسط",
-      "published": "Thu, 10 Sep 2026 10:38:37 +0100",
+      "published": "Sat, 12 Sep 2026 13:17:02 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "«التحالف»: اعتداءات حوثية على 3 مدن سعودية",
-      "url": "https://aawsat.com/node/5316552",
+      "title": "سقوط المخا يخلف مأساة إنسانية مفتوحة ويهدد الملاحة",
+      "url": "https://aawsat.com/node/5317437",
       "category": "مشرق أوسط",
-      "published": "Wed, 09 Sep 2026 19:26:32 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "تركيا تدين بشدة اعتداءات ميليشيا الحوثي على المملكة",
-      "url": "https://aawsat.com/node/5316233",
-      "category": "مشرق أوسط",
-      "published": "Wed, 09 Sep 2026 00:29:34 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الجامعة العربية تحذّر من تداعيات التصعيد الحوثي على أمن المملكة واستقرار المنطقة",
-      "url": "https://aawsat.com/node/5316203",
-      "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 22:48:11 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "قمة بريكس تعبر عن «قلقها العميق» في الشرق الأوسط وتدعو إلى «نهج متعدد الأطراف»",
-      "url": "https://aawsat.com/node/5317547",
-      "category": "مشرق أوسط",
-      "published": "Sat, 12 Sep 2026 18:15:29 +0100",
+      "published": "Sat, 12 Sep 2026 12:52:37 +0100",
       "breaking": false,
       "watch_topics": []
     },
@@ -741,6 +747,16 @@
       "published": "2026-09-12T17:20:00+00:00",
       "breaking": true,
       "watch_topics": []
+    },
+    {
+      "title": "«اتحاد إذاعات التعاون الإسلامي» يدين استهداف خط أنابيب «شرق-غرب» بالسعودية",
+      "url": "https://aawsat.com/node/5317396",
+      "category": "مشرق أوسط",
+      "published": "Sat, 12 Sep 2026 09:37:36 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
       "title": "السعودية تدين استهداف خط «شرق - غرب»... والعراق يقيل مسؤولاً أمنياً",

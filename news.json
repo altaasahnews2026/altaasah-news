@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T18:31:59.138241+00:00",
+  "updated_at": "2026-09-12T18:46:10.321290+00:00",
   "items": [
     {
       "title": "دوي انفجارين في جزيرة قشم جنوبي إيران",
@@ -66,6 +66,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e6ad74f78a2c.html"
     },
     {
+      "title": "بريكس تدعو إلى ضبط النفس مع تصاعد التوتر حول مضيق هرمز - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c62e0n5p35lo",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-12T18:12:18+00:00",
+      "image": "./assets/news/cd277d3ec335c7bb57a08a32.jpg",
+      "original_image": "./assets/news/cd277d3ec335c7bb57a08a32.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c62e0n5p35lo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/14a312b26ac6.html"
+    },
+    {
       "title": "إيران تكشف تفاصيل التفاهم مع عُمان.. سبعة شروط لفتح مضيق هرمز",
       "url": "https://www.alsumaria.tv/news/international/575828/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%85%D8%B9-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D8%B3%D8%A8%D8%B9%D8%A9-%D8%B4%D8%B1%D9%88%D8%B7-%D9%84%D9%81%D8%AA%D8%AD-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
       "category": "عربي ودولي",
@@ -96,22 +112,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7072a26457d4.html"
-    },
-    {
-      "title": "بريكس تدعو إلى ضبط النفس مع تصاعد التوتر حول مضيق هرمز - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c62e0n5p35lo",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-12T17:21:11+00:00",
-      "image": "./assets/news/cd277d3ec335c7bb57a08a32.jpg",
-      "original_image": "./assets/news/cd277d3ec335c7bb57a08a32.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c62e0n5p35lo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/eb77323bad87.html"
     },
     {
       "title": "هل تفضفض للذكاء الاصطناعي؟.. تحذير من خبراء",
@@ -311,8 +311,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-12T15:40:52+00:00",
-      "image": "./assets/news/84e7aac594c2ad12982a8c76.jpg",
-      "original_image": "./assets/news/84e7aac594c2ad12982a8c76.jpg",
+      "image": "./assets/news/5d5d02ba58b4cbe992f3c6ce.jpg",
+      "original_image": "./assets/news/5d5d02ba58b4cbe992f3c6ce.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/575817/%D8%AA%D9%85%D8%AF%D9%8A%D8%AF-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B4%D9%84%D8%A7%D9%85%D8%AC%D8%A9-%D8%B3%D8%A7%D8%B9%D8%A9-%D9%84%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D9%8A%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D8%B9%D8%A7%D9%84%D9%82%D9%88%D9%86-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8%D9%88%D9%86-%D8%A8%D8%AD%D9%84",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -550,7 +550,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T18:31:59.315506+00:00",
+      "published": "2026-09-12T18:46:10.540731+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -560,7 +560,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9b4b8466f91d.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d486d047ef03.html"
     }
   ]
 }
