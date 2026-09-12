@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T00:05:45.899778+00:00",
+  "updated_at": "2026-09-12T00:29:02.817576+00:00",
   "items": [
     {
       "title": "مجلس التعاون الخليجي يدين هجوم المسيرات من العراق ويطالب بغداد بتحرك حازم",
@@ -482,27 +482,11 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2509d430c306.html"
     },
     {
-      "title": "نصيحة من وزير الرياضة السابق للقادم: ادعم الألعاب الفردية بمقدار دعمك للقدم",
-      "url": "https://964media.com/715761/",
-      "category": "رياضة",
-      "region": "كركوك",
-      "published": "2026-09-10T18:09:02+00:00",
-      "image": "./assets/news/4c91e0e2fd4a07e03e3f2969.jpg",
-      "original_image": "./assets/news/4c91e0e2fd4a07e03e3f2969.jpg",
-      "source_url": "https://964media.com/715761/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": true,
-      "report": false,
-      "governorate": "كركوك",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/702df56849bb.html"
-    },
-    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T00:05:46.067794+00:00",
+      "published": "2026-09-12T00:29:03.030658+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -512,7 +496,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/574431d8903b.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ad0b799dae52.html"
     }
   ]
 }
