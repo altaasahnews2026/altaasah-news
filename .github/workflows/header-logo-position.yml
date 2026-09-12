@@ -1,5 +1,4 @@
 name: Professional Header Logo
-
 on:
   push:
     branches: [main]
@@ -7,42 +6,33 @@ on:
       - 'index.html'
       - '.github/workflows/header-logo-position.yml'
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   fix-header-logo:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Apply uploaded official logo and professional right layout
+      - name: Force official logo rendering
         run: |
           python - <<'PY'
           from pathlib import Path
           import re
-          p = Path('index.html')
-          s = p.read_text(encoding='utf-8')
-          logo = './assets/logo.jpg'
-          s = re.sub(r'src=["\'](?:https://altaasahnews2026\.github\.io/altaasah-news/)?(?:\./)?assets/logo\.svg(?:\?[^"\']*)?["\']', 'src="' + logo + '"', s, flags=re.I)
-          s = re.sub(r'src=["\'](?:https://altaasahnews2026\.github\.io/altaasah-news/)?(?:\./)?assets/logo\.jpg(?:\?[^"\']*)?["\']', 'src="' + logo + '"', s, flags=re.I)
-          css = '''<style id="professional-right-logo-header">
-          .head{display:flex!important;align-items:center!important;justify-content:space-between!important;gap:24px!important;direction:rtl!important;min-height:104px!important}
-          .brand{order:1!important;flex:0 0 auto!important;text-align:right!important;display:flex!important;flex-direction:column!important;align-items:flex-start!important}
-          .brand img{display:block!important;visibility:visible!important;opacity:1!important;width:220px!important;height:74px!important;object-fit:contain!important;filter:drop-shadow(0 3px 7px rgba(0,0,0,.10))!important}
-          .brand small{margin-top:-3px!important;margin-right:4px!important}
-          .tools:first-child{order:2!important;justify-self:auto!important}
-          .tools:last-child{order:3!important;justify-self:auto!important}
-          @media(max-width:1050px){.brand img{width:195px!important;height:68px!important}}
-          @media(max-width:700px){.head{display:grid!important;grid-template-columns:1fr!important;padding:8px 0!important;gap:5px!important}.brand{order:1!important;text-align:center!important;align-items:center!important;justify-self:center!important}.brand img{width:185px!important;height:58px!important}.tools:first-child,.tools:last-child{order:2!important;justify-self:stretch!important}.tools:last-child{display:none!important}}
-          </style>'''
-          s = re.sub(r'<style id="professional-right-logo-header">.*?</style>\s*', '', s, flags=re.S)
-          if '</head>' not in s:
-              raise SystemExit('index.html has no </head>')
-          s = s.replace('</head>', css + '</head>', 1)
-          p.write_text(s, encoding='utf-8')
+          p=Path('index.html')
+          s=p.read_text(encoding='utf-8')
+          logo='./assets/logo.jpg?v=20260913'
+          # Replace every logo image source with the uploaded official asset.
+          s=re.sub(r'(?:https://altaasahnews2026\.github\.io/altaasah-news/)?(?:\./)?assets/logo\.(?:svg|jpg)(?:\?[^\"\']*)?',logo,s,flags=re.I)
+          # If the brand container has no image, insert the official logo.
+          tag='<img class="official-site-logo" src="'+logo+'" alt="التاسعة نيوز" width="220" height="74">'
+          m=re.search(r'(<[^>]+class=[\"\'][^\"\']*brand[^\"\']*[\"\'][^>]*>)(.*?)(</[^>]+>)',s,flags=re.I|re.S)
+          if m and not re.search(r'<img\b',m.group(2),flags=re.I):
+              s=s[:m.start(2)]+tag+m.group(2)+s[m.end(2):]
+          css='''<style id="official-logo-fix">.brand{display:flex!important;align-items:flex-start!important;min-width:220px!important;min-height:74px!important}.brand img,.official-site-logo{display:block!important;visibility:visible!important;opacity:1!important;width:220px!important;height:74px!important;object-fit:contain!important}@media(max-width:700px){.brand{align-items:center!important;justify-self:center!important;min-width:185px!important;min-height:58px!important}.brand img,.official-site-logo{width:185px!important;height:58px!important}}</style>'''
+          s=re.sub(r'<style id="official-logo-fix">.*?</style>','',s,flags=re.S)
+          s=s.replace('</head>',css+'</head>',1)
+          p.write_text(s,encoding='utf-8')
           PY
       - name: Commit
         run: |
@@ -50,7 +40,5 @@ jobs:
           git config user.email "newsalt@gmail.com"
           git add index.html
           git diff --cached --quiet && exit 0
-          git commit -m "Apply uploaded official logo and right header"
+          git commit -m "Force official logo rendering"
           git push
-
-# Force rerun after replacing the old logo asset
