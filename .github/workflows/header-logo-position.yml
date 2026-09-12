@@ -1,0 +1,53 @@
+name: Professional Header Logo
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - '.github/workflows/header-logo-position.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix-header-logo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Apply professional right logo layout
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          p = Path('index.html')
+          s = p.read_text(encoding='utf-8')
+          css = '''<style id="professional-right-logo-header">
+          .head{display:flex!important;align-items:center!important;justify-content:space-between!important;gap:24px!important;direction:rtl!important;min-height:104px!important}
+          .brand{order:1!important;flex:0 0 auto!important;text-align:right!important;display:flex!important;flex-direction:column!important;align-items:flex-start!important}
+          .brand img{width:220px!important;height:74px!important;object-fit:contain!important;filter:drop-shadow(0 3px 7px rgba(0,0,0,.10))!important}
+          .brand small{margin-top:-3px!important;margin-right:4px!important}
+          .tools:first-child{order:2!important;justify-self:auto!important}
+          .tools:last-child{order:3!important;justify-self:auto!important}
+          @media(max-width:1050px){.brand img{width:195px!important;height:68px!important}}
+          @media(max-width:700px){.head{display:grid!important;grid-template-columns:1fr!important;padding:8px 0!important;gap:5px!important}.brand{order:1!important;text-align:center!important;align-items:center!important;justify-self:center!important}.brand img{width:185px!important;height:58px!important}.tools:first-child,.tools:last-child{order:2!important;justify-self:stretch!important}.tools:last-child{display:none!important}}
+          </style>'''
+          s = re.sub(r'<style id="professional-right-logo-header">.*?</style>\s*', '', s, flags=re.S)
+          if '</head>' in s:
+              s = s.replace('</head>', css + '</head>', 1)
+          else:
+              raise SystemExit('index.html has no </head>')
+          p.write_text(s, encoding='utf-8')
+          PY
+
+      - name: Commit header fix if changed
+        run: |
+          git config user.name "التاسعة نيوز"
+          git config user.email "newsalt@gmail.com"
+          git add index.html
+          git diff --cached --quiet && exit 0
+          git commit -m "Apply professional right-aligned logo header"
+          git push
