@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T14:26:59.561232+00:00",
+  "updated_at": "2026-09-12T14:43:32.515935+00:00",
   "items": [
     {
       "title": "رئيس الجمهورية: العراق يرفض استخدام أراضيه وأجوائه للاعتداء على السعودية",
@@ -71,8 +71,8 @@
       "category": "محليات",
       "region": "بابل",
       "published": "2026-09-12T14:17:08+00:00",
-      "image": "./assets/news/a2a155ebde662ea241b8ce96.jpg",
-      "original_image": "./assets/news/a2a155ebde662ea241b8ce96.jpg",
+      "image": "./assets/news/7593b262b8b10eef06e41530.jpg",
+      "original_image": "./assets/news/7593b262b8b10eef06e41530.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/575809/400-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%884-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%84%D8%AC%D9%86%D8%A9-%D8%AA%D8%B5%D9%84%D9%8A%D8%AD-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A8%D8%A7%D8%A8%D9%84",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -566,7 +566,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T14:26:59.774670+00:00",
+      "published": "2026-09-12T14:43:32.726673+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -576,7 +576,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/554bd1b4bb57.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/296e16a1c232.html"
     }
   ]
 }
