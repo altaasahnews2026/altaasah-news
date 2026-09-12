@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T15:57:12.201152+00:00",
+  "updated_at": "2026-09-12T16:14:03.261559+00:00",
   "items": [
     {
       "title": "طالباني يدين الهجوم على السعودية ويدعو إلى أقصى درجات ضبط النفس",
@@ -50,6 +50,38 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e6ad74f78a2c.html"
     },
     {
+      "title": "عادة سيئة ام جيدة.. ماذا يحدث لجسمك عند شرب الماء فور الاستيقاظ؟",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/575819/%D8%B9%D8%A7%D8%AF%D8%A9-%D8%B3%D9%8A%D8%A6%D8%A9-%D8%A7%D9%85-%D8%AC%D9%8A%D8%AF%D8%A9-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AD%D8%AF%D8%AB-%D9%84%D8%AC%D8%B3%D9%85%D9%83-%D8%B9%D9%86%D8%AF-%D8%B4%D8%B1%D8%A8-%D8%A7%D9%84%D9%85%D8%A7%D8%A1-%D9%81%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D9%82%D8%A7%D8%B8%D8%9F",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-12T15:58:18+00:00",
+      "image": "./assets/news/54adfbb06d495bd6033adf15.jpg",
+      "original_image": "./assets/news/54adfbb06d495bd6033adf15.jpg",
+      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575819/%D8%B9%D8%A7%D8%AF%D8%A9-%D8%B3%D9%8A%D8%A6%D8%A9-%D8%A7%D9%85-%D8%AC%D9%8A%D8%AF%D8%A9-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AD%D8%AF%D8%AB-%D9%84%D8%AC%D8%B3%D9%85%D9%83-%D8%B9%D9%86%D8%AF-%D8%B4%D8%B1%D8%A8-%D8%A7%D9%84%D9%85%D8%A7%D8%A1-%D9%81%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D9%82%D8%A7%D8%B8%D8%9F",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ef63b0f8cc00.html"
+    },
+    {
+      "title": "حركة ماك \"الانفصالية\": ماذا نعرف عنها، وعن منطقة القبائل في الجزائر؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c62kzpe4we5o",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-12T15:52:09+00:00",
+      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c62kzpe4we5o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/de611ba51dd2.html"
+    },
+    {
       "title": "إطلاق نار استعراضي بحفل زفاف.. شرطة الكرخ تلقي القبض على المتهم في الطارمية",
       "url": "https://www.alsumaria.tv/news/security/575818/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D8%A7%D8%B3%D8%AA%D8%B9%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A8%D8%AD%D9%81%D9%84-%D8%B2%D9%81%D8%A7%D9%81-%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D9%83%D8%B1%D8%AE-%D8%AA%D9%84%D9%82%D9%8A-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AA%D9%87%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%B7%D8%A7%D8%B1",
       "category": "أمن",
@@ -98,13 +130,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f811e3e5e3c3.html"
     },
     {
+      "title": "السعودية تطلب مساعدة أمريكية للقتال في اليمن، وترامب يقول إن الحوثيين طلبوا من بلاده \"عدم التدخل\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/czjzp3gvdwno",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-12T15:40:24+00:00",
+      "image": "./assets/news/0c34d7a979d13cdf88e403f0.jpg",
+      "original_image": "./assets/news/0c34d7a979d13cdf88e403f0.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/czjzp3gvdwno",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d85a212099f9.html"
+    },
+    {
       "title": "اليد التي لا تستطيع كسرها.. الحوثيون يردون على تصريحات ترامب",
       "url": "https://www.alsumaria.tv/news/international/575816/%D8%A7%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D8%AA%D9%8A-%D9%84%D8%A7-%D8%AA%D8%B3%D8%AA%D8%B7%D9%8A%D8%B9-%D9%83%D8%B3%D8%B1%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B1%D8%AF%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-12T15:37:12+00:00",
-      "image": "./assets/news/8f8a74c366c2842f656868e4.jpg",
-      "original_image": "./assets/news/8f8a74c366c2842f656868e4.jpg",
+      "image": "./assets/news/dd57f728a45a5972c9785625.jpg",
+      "original_image": "./assets/news/dd57f728a45a5972c9785625.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575816/%D8%A7%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D8%AA%D9%8A-%D9%84%D8%A7-%D8%AA%D8%B3%D8%AA%D8%B7%D9%8A%D8%B9-%D9%83%D8%B3%D8%B1%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B1%D8%AF%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -119,8 +167,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-12T15:21:16+00:00",
-      "image": "./assets/news/92b471973188be34d4faa23a.jpg",
-      "original_image": "./assets/news/92b471973188be34d4faa23a.jpg",
+      "image": "./assets/news/bd51a7e2394b92ecf7e1b23a.jpg",
+      "original_image": "./assets/news/bd51a7e2394b92ecf7e1b23a.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/575815/%D9%85%D8%AC%D8%AF%D8%AF%D8%A7%D9%8B-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A-%D9%85%D8%B9-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -135,8 +183,8 @@
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-12T15:08:56+00:00",
-      "image": "./assets/news/db42d017b1e3972c3efadd4e.jpg",
-      "original_image": "./assets/news/db42d017b1e3972c3efadd4e.jpg",
+      "image": "./assets/news/3997dd137389d6f60c2d2edc.jpg",
+      "original_image": "./assets/news/3997dd137389d6f60c2d2edc.jpg",
       "source_url": "https://www.alsumaria.tv/news/economy/575814/%D8%B9%D9%82%D8%AF-%D9%84%D9%8025-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B1%D9%81%D8%B9-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AD%D9%82%D9%84-%D8%B9%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A-%D9%88%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -322,22 +370,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bd42e00a3ef4.html"
     },
     {
-      "title": "السعودية تطلب مساعدة أمريكية للقتال في اليمن، وترامب يقول إن الحوثيين طلبوا من بلاده \"عدم التدخل\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/czjzp3gvdwno",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-12T12:50:10+00:00",
-      "image": "./assets/news/0c34d7a979d13cdf88e403f0.jpg",
-      "original_image": "./assets/news/0c34d7a979d13cdf88e403f0.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/czjzp3gvdwno",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5525e672cb59.html"
-    },
-    {
       "title": "الأنبار تعيد نظام الفردي والزوجي لتجهيز السيارات بالبنزين",
       "url": "https://964media.com/716210/",
       "category": "محليات",
@@ -450,22 +482,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/414f78791929.html"
     },
     {
-      "title": "العالم قد يكون أمام المزيد من رفع أسعار الفائدة للسيطرة على التضخم - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c39mrmymv7lo",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-12T10:52:06+00:00",
-      "image": "./assets/news/594b0b08ed6f8741ba75f843.jpg",
-      "original_image": "./assets/news/594b0b08ed6f8741ba75f843.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c39mrmymv7lo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/061dd1cca975.html"
-    },
-    {
       "title": "ديالى تريد عرش البرحي وتتحدى البصرة بـ 10 براهين وخطب حماسية",
       "url": "https://964media.com/715652/",
       "category": "محليات",
@@ -534,7 +550,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T15:57:12.433036+00:00",
+      "published": "2026-09-12T16:14:03.470902+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -544,7 +560,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/79b4567ddd23.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3d8227835502.html"
     }
   ]
 }
