@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T21:18:09.218182+00:00",
+  "updated_at": "2026-09-12T21:28:22.412307+00:00",
   "items": [
     {
       "title": "دوي انفجارين في جزيرة قشم جنوبي إيران",
@@ -48,6 +48,22 @@
       "report": false,
       "governorate": "ميسان",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e6ad74f78a2c.html"
+    },
+    {
+      "title": "طائرات F16 العراقية تدمر مضافة لداعش في ديالى",
+      "url": "https://964media.com/716465/",
+      "category": "محليات",
+      "region": "ديالى",
+      "published": "2026-09-12T21:00:01+00:00",
+      "image": "./assets/news/f192db4635c242ff744d92d0.jpg",
+      "original_image": "./assets/news/f192db4635c242ff744d92d0.jpg",
+      "source_url": "https://964media.com/716465/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "ديالى",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/815646b3db97.html"
     },
     {
       "title": "العراق يعلن مشاركته بالاجتماع المقرر عقده في سلطنة عُمان",
@@ -598,7 +614,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T21:18:09.435518+00:00",
+      "published": "2026-09-12T21:28:22.626733+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -608,7 +624,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b4c3853d21d5.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5bab31d0b7b1.html"
     }
   ]
 }
