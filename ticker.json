@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T19:11:14.647636+00:00",
+  "updated_at": "2026-09-12T19:24:06.720045+00:00",
   "latest": [
     {
       "title": "المقاومة الإسلامية: استهداف السعودية “شرف لا ندعيه” ونستغرب تسرع بغداد",
@@ -39,6 +39,16 @@
       "breaking": true,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "العراق يعلن رسمياً ضبط منصة إطلاق المسيرات المستخدمة في استهداف السعودية",
+      "url": "https://964media.com/716410/",
+      "category": "عراق",
+      "published": "2026-09-12T18:57:22+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {
@@ -99,16 +109,6 @@
       ]
     },
     {
-      "title": "ترامب: يمكنني تسوية النزاع بشأن جزر فوكلاند",
-      "url": "https://www.alsumaria.tv/news/international/575812/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%85%D9%83%D9%86%D9%86%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D8%B9-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AC%D8%B2%D8%B1-%D9%81%D9%88%D9%83%D9%84%D8%A7%D9%86%D8%AF",
-      "category": "عراق",
-      "published": "2026-09-12T14:53:36+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
       "title": "اليد التي لا تستطيع كسرها.. الحوثيون يردون على تصريحات ترامب",
       "url": "https://www.alsumaria.tv/news/international/575816/%D8%A7%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D8%AA%D9%8A-%D9%84%D8%A7-%D8%AA%D8%B3%D8%AA%D8%B7%D9%8A%D8%B9-%D9%83%D8%B3%D8%B1%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B1%D8%AF%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
       "category": "عراق",
@@ -162,7 +162,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-12T19:11:09.474907+00:00",
+      "published": "2026-09-12T19:24:04.022260+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -698,6 +698,16 @@
       "breaking": true,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "العراق يعلن رسمياً ضبط منصة إطلاق المسيرات المستخدمة في استهداف السعودية",
+      "url": "https://964media.com/716410/",
+      "category": "عراق",
+      "published": "2026-09-12T18:57:22+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {

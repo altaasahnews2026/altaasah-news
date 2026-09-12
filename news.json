@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T19:11:09.255496+00:00",
+  "updated_at": "2026-09-12T19:24:03.791911+00:00",
   "items": [
     {
       "title": "دوي انفجارين في جزيرة قشم جنوبي إيران",
@@ -7,8 +7,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-12T18:07:35+00:00",
-      "image": "./assets/news/a4a69a223d73bc2ab93f8b3e.jpg",
-      "original_image": "./assets/news/a4a69a223d73bc2ab93f8b3e.jpg",
+      "image": "./assets/news/699d17a0ea41fac159b1f78a.jpg",
+      "original_image": "./assets/news/699d17a0ea41fac159b1f78a.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575829/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D9%8A%D9%86-%D9%81%D9%8A-%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%82%D8%B4%D9%85-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -48,6 +48,38 @@
       "report": false,
       "governorate": "ميسان",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e6ad74f78a2c.html"
+    },
+    {
+      "title": "العزم والإعمار والتنمية يؤكدان أهمية الحوار بالتعامل مع الملفات المشتركة",
+      "url": "https://www.alsumaria.tv/news/localnews/575831/%D8%A7%D9%84%D8%B9%D8%B2%D9%85-%D9%88%D8%A7%D9%84%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-12T19:08:54+00:00",
+      "image": "./assets/news/08455c750acc0fd328651621.jpg",
+      "original_image": "./assets/news/08455c750acc0fd328651621.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/575831/%D8%A7%D9%84%D8%B9%D8%B2%D9%85-%D9%88%D8%A7%D9%84%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9ec6288f9898.html"
+    },
+    {
+      "title": "العراق يعلن رسمياً ضبط منصة إطلاق المسيرات المستخدمة في استهداف السعودية",
+      "url": "https://964media.com/716410/",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-12T18:57:22+00:00",
+      "image": "./assets/news/360a59564a4c5630f3e7b5bf.jpg",
+      "original_image": "./assets/news/360a59564a4c5630f3e7b5bf.jpg",
+      "source_url": "https://964media.com/716410/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6029f94f0cae.html"
     },
     {
       "title": "في ألمانيا.. عشرات الآلاف يتظاهرون ضد اليمين المتطرف",
@@ -418,22 +450,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a121c491ab73.html"
     },
     {
-      "title": "ترامب: يمكنني تسوية النزاع بشأن جزر فوكلاند",
-      "url": "https://www.alsumaria.tv/news/international/575812/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%85%D9%83%D9%86%D9%86%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D8%B9-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AC%D8%B2%D8%B1-%D9%81%D9%88%D9%83%D9%84%D8%A7%D9%86%D8%AF",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-12T14:53:36+00:00",
-      "image": "./assets/news/dfaeee59c1a89c5d9f0d80fc.jpg",
-      "original_image": "./assets/news/dfaeee59c1a89c5d9f0d80fc.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/575812/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%85%D9%83%D9%86%D9%86%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D8%B9-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AC%D8%B2%D8%B1-%D9%81%D9%88%D9%83%D9%84%D8%A7%D9%86%D8%AF",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0941aedc5501.html"
-    },
-    {
       "title": "ترامب يثير الجدل بتصريحاته في دبلن: \"أود أن أرى أيرلندا موحدة\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c624eg2qxp3o",
       "category": "محليات",
@@ -518,7 +534,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T19:11:09.474907+00:00",
+      "published": "2026-09-12T19:24:04.022260+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -528,7 +544,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/299b26e48afe.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2de096624957.html"
     }
   ]
 }
