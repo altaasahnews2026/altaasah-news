@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T13:45:15.721155+00:00",
+  "updated_at": "2026-09-12T13:55:32.353199+00:00",
   "items": [
     {
       "title": "رئيس الجمهورية: العراق يرفض استخدام أراضيه وأجوائه للاعتداء على السعودية",
@@ -82,28 +82,12 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2ee497eab06b.html"
     },
     {
-      "title": "مسيرات ميسان أشعلت أسعار البصرة.. تداعيات إغلاق الشلامجة مستمرة رغم إعادة فتحه",
-      "url": "https://964media.com/716160/",
-      "category": "اقتصاد",
-      "region": "البصرة",
-      "published": "2026-09-12T13:27:09+00:00",
-      "image": "./assets/news/082614c1a73d696fc1e4b1a3.jpg",
-      "original_image": "./assets/news/082614c1a73d696fc1e4b1a3.jpg",
-      "source_url": "https://964media.com/716160/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "البصرة",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/03a4bdbd73a6.html"
-    },
-    {
       "title": "استيلاء الحوثيين على جزيرة بريم يعزز سيطرتهم على ممر حيوي لشحن النفط – الغارديان - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cpwlvzrxvvqo",
       "category": "اقتصاد",
       "region": "العراق",
       "governorate": "",
-      "published": "2026-09-12T13:16:12+00:00",
+      "published": "2026-09-12T13:21:53+00:00",
       "image": "./assets/news/42343d9ac0302d636a09e43a.jpg",
       "original_image": "./assets/news/42343d9ac0302d636a09e43a.jpg",
       "source_url": "https://shafaq.com/ar/bbc-arabic/cpwlvzrxvvqo",
@@ -111,7 +95,7 @@
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/deebab8c52eb.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4273df88d2ae.html"
     },
     {
       "title": "إثيوبيا تدخل عام 2019، ما حكاية السنة التي تبدأ في سبتمبر وتتألف من 13 شهراً؟ - شفق نيوز..",
@@ -354,6 +338,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1d641a0fe47a.html"
     },
     {
+      "title": "إقليم كردستان يدعم تحقيقات بغداد لكشف المتورطين بمسيّرات ميسان",
+      "url": "https://964media.com/716173/",
+      "category": "محليات",
+      "region": "بغداد",
+      "published": "2026-09-12T10:39:10+00:00",
+      "image": "./assets/news/c6a339ebcb7f02e23a5c4b7f.jpg",
+      "original_image": "./assets/news/c6a339ebcb7f02e23a5c4b7f.jpg",
+      "source_url": "https://964media.com/716173/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b7e063ad7265.html"
+    },
+    {
       "title": "تصريح برلماني بشأن الكابينة الوزارية: محاولات لاستحداث مناصب لمصالح حزبية وشخصية",
       "url": "https://www.alsumaria.tv/news/politics/575797/%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D9%8A%D8%A9-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D8%AF%D8%A7%D8%AB-%D9%85%D9%86%D8%A7%D8%B5%D8%A8-%D9%84%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D8%AD%D8%B2%D8%A8",
       "category": "سياسة",
@@ -566,7 +566,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T13:45:15.939059+00:00",
+      "published": "2026-09-12T13:55:32.577661+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -576,7 +576,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e345e4ae265c.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0656edfc9475.html"
     }
   ]
 }
