@@ -18,20 +18,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Apply professional right logo layout and reliable logo source
+      - name: Apply uploaded official logo and professional right layout
         run: |
           python - <<'PY'
           from pathlib import Path
           import re
           p = Path('index.html')
           s = p.read_text(encoding='utf-8')
-
-          # Use the original official JPEG directly. The previous SVG wrapper
-          # could fail to render the nested JPEG on the published page.
           logo = './assets/logo.jpg'
           s = re.sub(r'src=["\'](?:https://altaasahnews2026\.github\.io/altaasah-news/)?(?:\./)?assets/logo\.svg(?:\?[^"\']*)?["\']', 'src="' + logo + '"', s, flags=re.I)
           s = re.sub(r'src=["\'](?:https://altaasahnews2026\.github\.io/altaasah-news/)?(?:\./)?assets/logo\.jpg(?:\?[^"\']*)?["\']', 'src="' + logo + '"', s, flags=re.I)
-
           css = '''<style id="professional-right-logo-header">
           .head{display:flex!important;align-items:center!important;justify-content:space-between!important;gap:24px!important;direction:rtl!important;min-height:104px!important}
           .brand{order:1!important;flex:0 0 auto!important;text-align:right!important;display:flex!important;flex-direction:column!important;align-items:flex-start!important}
@@ -46,15 +42,15 @@ jobs:
           if '</head>' not in s:
               raise SystemExit('index.html has no </head>')
           s = s.replace('</head>', css + '</head>', 1)
-
           p.write_text(s, encoding='utf-8')
           PY
-
-      - name: Commit header fix if changed
+      - name: Commit
         run: |
           git config user.name "التاسعة نيوز"
           git config user.email "newsalt@gmail.com"
           git add index.html
           git diff --cached --quiet && exit 0
-          git commit -m "Fix official logo loading in header"
+          git commit -m "Apply uploaded official logo and right header"
           git push
+
+# Force rerun after replacing the old logo asset
