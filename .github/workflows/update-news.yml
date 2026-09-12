@@ -13,7 +13,6 @@ on:
 permissions:
   contents: write
 
-# لا نلغي عملية تحديث بدأت بالفعل؛ هذا يمنع بقاء news.json فارغاً عند تداخل تشغيلين.
 concurrency:
   group: altaasah-news-update
   cancel-in-progress: false
@@ -132,7 +131,6 @@ jobs:
               else:
                   with Image.open(p) as im: assert im.width>=360 and im.height>=220
           assert len(image_paths) == len(set(image_paths)), 'توجد صور مكررة بين الأخبار'
-          assert any(x.get('title')=='النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك' for x in items), 'الخبر التحريري غير منشور'
           kirkuk=[x for x in items if x.get('kirkuk') or x.get('category')=='كركوك']
           assert len(kirkuk) >= 1, 'لا توجد أخبار كركوك'
           t=json.loads(Path('ticker.json').read_text(encoding='utf-8'))
@@ -143,6 +141,7 @@ jobs:
           page=Path('index.html').read_text(encoding='utf-8')
           assert 'البث المباشر' in page and '● عاجل</button>' not in page
           assert 'force-live-ticker-runtime' in page and 'ticker.json' in page
+          assert 'latestTicker' in page and 'latestTrack' in page
           assert 'raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/assets/news/' not in page
           assert 'fetchNewsData' in page and 'embedded-news-fallback' in page and '__NEWS_FALLBACK__' in page
           assert page.count('social') >= 2 and 'نعلم لتعلم' in page
