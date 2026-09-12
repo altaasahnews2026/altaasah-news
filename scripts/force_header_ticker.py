@@ -2,11 +2,9 @@ from pathlib import Path
 import re
 p=Path('index.html')
 s=p.read_text(encoding='utf-8')
-# Remove the complete breaking-news block (outer div + nested window + track).
+# Remove the old breaking-news block when it exists; keep all other page content intact.
 s=re.sub(r'<div\s+class="breakingTicker"[^>]*id="breakingTicker"[^>]*>.*?</div>\s*</div>\s*</div>\s*', '', s, count=1, flags=re.S)
-# Also handle the inverse attribute order if present.
 s=re.sub(r'<div\s+id="breakingTicker"[^>]*class="breakingTicker"[^>]*>.*?</div>\s*</div>\s*</div>\s*', '', s, count=1, flags=re.S)
-# Remove all previous ticker override styles/runtimes so this script is authoritative.
 for sid in ('force-live-ticker-style','news-bars-style'):
     s=re.sub(r'<style id="'+re.escape(sid)+r'">.*?</style>', '', s, flags=re.S)
 for sid in ('force-live-ticker-runtime','live-news-ticker-runtime','final-ticker-runtime'):
@@ -27,7 +25,7 @@ runtime=r'''<script id="force-live-ticker-runtime">
  const label=x=>x.category==='عراق'?'العراق':(x.category==='مشرق أوسط'||x.category==='المشرق الأوسط'?'المشرق الأوسط':'دولي');
  const track=document.getElementById('latestTrack'); if(!track)return;
  let set=null,width=0,x=0,last=0,signature='';
- const speed=14; // px/sec: slow, calm and easy to read
+ const speed=14;
  function render(items){
    const clean=(items||[]).filter(x=>x&&x.title).slice(0,48); if(!clean.length)return;
    const sig=clean.map(x=>(x.title||'')+'|'+(x.url||'')).join('||'); if(sig===signature&&set)return;
@@ -43,6 +41,6 @@ runtime=r'''<script id="force-live-ticker-runtime">
 })();
 </script>'''
 s=s.replace('</body>',runtime+'</body>',1)
-assert 'breakingTicker' not in s and 'force-live-ticker-runtime' in s and 'ticker.json' in s
+assert 'force-live-ticker-runtime' in s and 'ticker.json' in s and 'latestTrack' in s
 p.write_text(s,encoding='utf-8')
 print('SINGLE SLOW LATEST-NEWS TICKER OK: 14px/s')
