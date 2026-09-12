@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T17:46:13.432529+00:00",
+  "updated_at": "2026-09-12T17:56:34.350779+00:00",
   "items": [
     {
       "title": "طالباني يدين الهجوم على السعودية ويدعو إلى أقصى درجات ضبط النفس",
@@ -466,22 +466,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4bf37742498c.html"
     },
     {
-      "title": "العراق يعثر على مواقع إطلاق المسيرات في ميسان",
-      "url": "https://964media.com/716257/",
-      "category": "محليات",
-      "region": "ميسان",
-      "published": "2026-09-12T14:03:05+00:00",
-      "image": "./assets/news/88ed0033db3d05115e923ad8.jpg",
-      "original_image": "./assets/news/88ed0033db3d05115e923ad8.jpg",
-      "source_url": "https://964media.com/716257/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "ميسان",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6e1390ab13d5.html"
-    },
-    {
       "title": "إثيوبيا تدخل عام 2019، ما حكاية السنة التي تبدأ في سبتمبر وتتألف من 13 شهراً؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cvgyv5qz2d8o",
       "category": "محليات",
@@ -566,7 +550,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T17:46:13.646206+00:00",
+      "published": "2026-09-12T17:56:34.557584+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -576,7 +560,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6d0be1c0be9d.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/83efa437726d.html"
     }
   ]
 }
