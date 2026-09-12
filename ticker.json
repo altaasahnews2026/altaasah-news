@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T13:32:32.860259+00:00",
+  "updated_at": "2026-09-12T13:45:20.364200+00:00",
   "latest": [
     {
       "title": "ترامب عن استهداف خط أنابيب النفط السعودي: إيران مسؤولة عن الهجوم",
@@ -79,6 +79,14 @@
       "watch_topics": []
     },
     {
+      "title": "مسيرات ميسان أشعلت أسعار البصرة.. تداعيات إغلاق الشلامجة مستمرة رغم إعادة فتحه",
+      "url": "https://964media.com/716160/",
+      "category": "عراق",
+      "published": "2026-09-12T13:27:09+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "صباح اليوم.. انفجار خزان في الموصل (فيديو)",
       "url": "https://www.alsumaria.tv/news/trends-alsumaria/575790/%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AE%D8%B2%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
       "category": "عراق",
@@ -131,7 +139,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-12T13:32:29.119015+00:00",
+      "published": "2026-09-12T13:45:15.939059+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -220,14 +228,6 @@
       "url": "https://www.alsumaria.tv/news/politics/575797/%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D9%8A%D8%A9-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D8%AF%D8%A7%D8%AB-%D9%85%D9%86%D8%A7%D8%B5%D8%A8-%D9%84%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D8%AD%D8%B2%D8%A8",
       "category": "عراق",
       "published": "2026-09-12T10:36:13+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "إقليم كردستان يدعم تحقيقات بغداد لكشف المتورطين بمسيّرات ميسان",
-      "url": "https://964media.com/716173/",
-      "category": "عراق",
-      "published": "2026-09-12T10:39:10+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -455,7 +455,7 @@
       "watch_topics": []
     },
     {
-      "title": "سقوط المخا يخلف مأساة إنسانية مفتوحة ويهدد البحر",
+      "title": "سقوط المخا يخلف مأساة إنسانية مفتوحة ويهدد الملاحة",
       "url": "https://aawsat.com/node/5317437",
       "category": "مشرق أوسط",
       "published": "Sat, 12 Sep 2026 12:52:37 +0100",
@@ -596,6 +596,14 @@
       ]
     },
     {
+      "title": "زيلينسكي مستعد للقاء بوتين خلال قمة «العشرين»... ويدعو ترمب لفرض عقوبات «صارمة» ضده",
+      "url": "https://aawsat.com/node/5317466",
+      "category": "دولي",
+      "published": "Sat, 12 Sep 2026 14:37:36 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "ترمب يتمنى رؤية آيرلندا موحّدة مع جارتها الشمالية",
       "url": "https://aawsat.com/node/5317411",
       "category": "دولي",
@@ -640,14 +648,6 @@
       "url": "https://aawsat.com/node/5317291",
       "category": "دولي",
       "published": "Fri, 11 Sep 2026 20:12:47 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "روسيا تتوعد ليتوانيا إن استضافت أسلحة نووية لأعضاء في «الناتو»",
-      "url": "https://aawsat.com/node/5317234",
-      "category": "دولي",
-      "published": "Fri, 11 Sep 2026 17:15:54 +0100",
       "breaking": false,
       "watch_topics": []
     }
@@ -727,6 +727,14 @@
       "url": "https://www.alsumaria.tv/news/international/575804/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%86%D9%88%D9%88%D9%8A-%D9%88%D9%85%D9%88%D8%A7%D9%82%D9%81-%D9%85%D9%86-%D8%BA%D8%B2%D8%A9-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%A7%D8%AF%D8%A9-%D8%A8%D8%B1%D9%8A%D9%83%D8%B3-%D9%8A%D8%B5%D8%AF%D8%B1%D9%88%D9%86-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D9%8B-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A7",
       "category": "عراق",
       "published": "2026-09-12T12:18:33+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مسيرات ميسان أشعلت أسعار البصرة.. تداعيات إغلاق الشلامجة مستمرة رغم إعادة فتحه",
+      "url": "https://964media.com/716160/",
+      "category": "عراق",
+      "published": "2026-09-12T13:27:09+00:00",
       "breaking": true,
       "watch_topics": []
     },
