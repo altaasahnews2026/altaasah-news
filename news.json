@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T08:38:08.073502+00:00",
+  "updated_at": "2026-09-12T08:52:24.208731+00:00",
   "items": [
+    {
+      "title": "رئيس البرلمان يدين الهجوم على السعودية ويشدد على ضرورة حصر السلاح",
+      "url": "https://www.alsumaria.tv/news/politics/575789/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%8A%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D8%B4%D8%AF%D8%AF-%D8%B9%D9%84%D9%89-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-09-12T08:46:32+00:00",
+      "image": "./assets/news/b08c76f21ce841da11036d0b.jpg",
+      "original_image": "./assets/news/b08c76f21ce841da11036d0b.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/575789/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%8A%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D8%B4%D8%AF%D8%AF-%D8%B9%D9%84%D9%89-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD",
+      "source_name": "السومرية نيوز",
+      "breaking": true,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2ee497eab06b.html"
+    },
     {
       "title": "السعودية توقف خط النفط بين الشرق والغرب بعد هجوم بمسيّرات قادمة من العراق",
       "url": "https://964media.com/716049/",
@@ -16,6 +32,38 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/40714322b475.html"
+    },
+    {
+      "title": "العراق ينفذ عملية امنية في عمق البحر بمياه الخليج العربي",
+      "url": "https://www.alsumaria.tv/news/security/575788/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%86%D9%81%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B9%D9%85%D9%82-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A8%D9%85%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-09-12T08:39:48+00:00",
+      "image": "./assets/news/47fbfff5c6307ddb51b869eb.jpg",
+      "original_image": "./assets/news/47fbfff5c6307ddb51b869eb.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/575788/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%86%D9%81%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B9%D9%85%D9%82-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A8%D9%85%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d2e43a749e31.html"
+    },
+    {
+      "title": "الذهب يواصل الانخفاض.. اقل من المليون للمثقال الواحد",
+      "url": "https://www.alsumaria.tv/news/economy/575787/%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A7%D9%82%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%84%D9%84%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-12T08:36:14+00:00",
+      "image": "./assets/news/ea093b1dfbbd708d9308483b.jpg",
+      "original_image": "./assets/news/ea093b1dfbbd708d9308483b.jpg",
+      "source_url": "https://www.alsumaria.tv/news/economy/575787/%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A7%D9%82%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%84%D9%84%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a077579a0a9c.html"
     },
     {
       "title": "بيان من الإليزيه بشان الزيدي",
@@ -55,8 +103,8 @@
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-12T08:08:52+00:00",
-      "image": "./assets/news/476732f0b847260f8f280958.jpg",
-      "original_image": "./assets/news/476732f0b847260f8f280958.jpg",
+      "image": "./assets/news/eb396bef2c8ce0800dab65d9.jpg",
+      "original_image": "./assets/news/eb396bef2c8ce0800dab65d9.jpg",
       "source_url": "https://www.alsumaria.tv/news/economy/575785/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D9%80157-%D8%A7%D9%84%D9%81%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -135,8 +183,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-12T07:47:50+00:00",
-      "image": "./assets/news/f04be6f98f08767d500cb80a.jpg",
-      "original_image": "./assets/news/f04be6f98f08767d500cb80a.jpg",
+      "image": "./assets/news/fa2e04bf60059703eba4f9af.jpg",
+      "original_image": "./assets/news/fa2e04bf60059703eba4f9af.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/575782/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%B5%D8%AF%D8%B1-%D9%84%D8%A7-%D9%8A%D8%B3%D8%AA%D9%81%D8%B2%D9%86%D9%83%D9%85-%D8%A7%D9%84%D9%82%D9%88%D9%85-%D9%88%D9%84%D8%A7-%D8%AA%D9%83%D9%88%D9%86%D9%88%D8%A7-%D8%B9%D9%88%D9%86%D8%A7%D9%8B-%D9%84%D9%84%D9%81%D8%A7%D8%B3%D8%AF%D9%8A%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -167,8 +215,8 @@
       "category": "محليات",
       "region": "الأنبار",
       "published": "2026-09-12T07:36:55+00:00",
-      "image": "./assets/news/7593b262b8b10eef06e41530.jpg",
-      "original_image": "./assets/news/7593b262b8b10eef06e41530.jpg",
+      "image": "./assets/news/a2a155ebde662ea241b8ce96.jpg",
+      "original_image": "./assets/news/a2a155ebde662ea241b8ce96.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/575781/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%A7%D9%84%D8%AD%D8%A8%D8%B3-%D8%A7%D9%84%D8%B4%D8%AF%D9%8A%D8%AF-%D9%84%D9%85%D9%8F%D8%AF%D8%A7%D9%86%D9%8A%D9%86-%D8%A7%D9%86%D8%AA%D8%AD%D9%84%D8%A7-%D8%B5%D9%81%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B3%D8%A7%D8%A8-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%87%D9%8A%D8%A6%D8%A9-%D9%88%D8%A7%D8%A8%D8%AA%D8%B2%D9%91%D8%A7-%D9%85",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -434,38 +482,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/96fe0e01b951.html"
     },
     {
-      "title": "العراق والسعودية يؤكدان أهمية استمرار التواصل والتنسيق والتشاور بين البلدين",
-      "url": "https://www.alsumaria.tv/news/politics/575770/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D9%88%D8%A7%D9%84%D8%AA%D8%B4%D8%A7%D9%88%D8%B1-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84",
-      "category": "رياضة",
-      "region": "صلاح الدين",
-      "published": "2026-09-11T22:24:37+00:00",
-      "image": "./assets/news/924867833bb22e5067144516.jpg",
-      "original_image": "./assets/news/924867833bb22e5067144516.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/575770/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D9%88%D8%A7%D9%84%D8%AA%D8%B4%D8%A7%D9%88%D8%B1-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "صلاح الدين",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/32bfb7d99e89.html"
-    },
-    {
-      "title": "اتهام صادم لنجل نجمين أمريكيين.. فيديوهات جنسية مع قاصر",
-      "url": "https://www.alsumaria.tv/news/international/575769/%D8%A7%D8%AA%D9%87%D8%A7%D9%85-%D8%B5%D8%A7%D8%AF%D9%85-%D9%84%D9%86%D8%AC%D9%84-%D9%86%D8%AC%D9%85%D9%8A%D9%86-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D9%8A%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D9%85%D8%B9-%D9%82%D8%A7%D8%B5%D8%B1",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-11T22:05:24+00:00",
-      "image": "./assets/news/da1391333a9f0ddcd9772cd6.jpg",
-      "original_image": "./assets/news/da1391333a9f0ddcd9772cd6.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/575769/%D8%A7%D8%AA%D9%87%D8%A7%D9%85-%D8%B5%D8%A7%D8%AF%D9%85-%D9%84%D9%86%D8%AC%D9%84-%D9%86%D8%AC%D9%85%D9%8A%D9%86-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D9%8A%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D9%85%D8%B9-%D9%82%D8%A7%D8%B5%D8%B1",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f4dee9330f04.html"
-    },
-    {
       "title": "استهداف السعودية انطلق من ميسان.. الزيدي يعفي قائد العمليات ويشكل مجلساً للتحقيق",
       "url": "https://964media.com/716041/",
       "category": "عربي ودولي",
@@ -480,22 +496,6 @@
       "report": true,
       "governorate": "ميسان",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5bba00d39027.html"
-    },
-    {
-      "title": "توجيه حكومي بتشكيل مجلس تحقيقي بحق قيادة عمليات ميسان واعفاء قائد عملياتها",
-      "url": "https://www.alsumaria.tv/news/localnews/575768/%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%A8%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D9%85%D8%AC%D9%84%D8%B3-%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D8%A8%D8%AD%D9%82-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D9%85%D9%8A%D8%B3%D8%A7%D9%86-%D9%88%D8%A7%D8%B9%D9%81%D8%A7%D8%A1-%D9%82%D8%A7%D8%A6%D8%AF-%D8%B9%D9%85%D9%84%D9%8A",
-      "category": "سياسة",
-      "region": "ميسان",
-      "published": "2026-09-11T21:46:23+00:00",
-      "image": "./assets/news/3ada80d928aac6a24e22c6d9.jpg",
-      "original_image": "./assets/news/3ada80d928aac6a24e22c6d9.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/575768/%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%A8%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D9%85%D8%AC%D9%84%D8%B3-%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D8%A8%D8%AD%D9%82-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D9%85%D9%8A%D8%B3%D8%A7%D9%86-%D9%88%D8%A7%D8%B9%D9%81%D8%A7%D8%A1-%D9%82%D8%A7%D8%A6%D8%AF-%D8%B9%D9%85%D9%84%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": true,
-      "governorate": "ميسان",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ad51945994ae.html"
     },
     {
       "title": "\"فستان الانتقام\" الخاص بالأميرة ديانا في المزاد العلني - شفق نيوز..",
@@ -566,7 +566,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T08:38:08.294002+00:00",
+      "published": "2026-09-12T08:52:24.405808+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -576,7 +576,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/225fa374bbcc.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5fe68c606a6a.html"
     }
   ]
 }

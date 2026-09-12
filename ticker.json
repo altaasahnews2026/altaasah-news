@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T08:38:12.251410+00:00",
+  "updated_at": "2026-09-12T08:52:29.459775+00:00",
   "latest": [
     {
       "title": "استهداف السعودية انطلق من ميسان.. الزيدي يعفي قائد العمليات ويشكل مجلساً للتحقيق",
@@ -16,6 +16,16 @@
       "url": "https://964media.com/716049/",
       "category": "عراق",
       "published": "2026-09-12T05:50:15+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "رئيس البرلمان يدين الهجوم على السعودية ويشدد على ضرورة حصر السلاح",
+      "url": "https://www.alsumaria.tv/news/politics/575789/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%8A%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D8%B4%D8%AF%D8%AF-%D8%B9%D9%84%D9%89-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD",
+      "category": "عراق",
+      "published": "2026-09-12T08:46:32+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"
@@ -75,16 +85,6 @@
       ]
     },
     {
-      "title": "العراق والسعودية يؤكدان أهمية استمرار التواصل والتنسيق والتشاور بين البلدين",
-      "url": "https://www.alsumaria.tv/news/politics/575770/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D9%88%D8%A7%D9%84%D8%AA%D8%B4%D8%A7%D9%88%D8%B1-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84",
-      "category": "عراق",
-      "published": "2026-09-11T22:24:37+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "السعودية تطلب مساعدة أمريكية لقتال الحوثيين، وتوقف \"احترازياً\" خط أنابيب شرق-غرب النفطي - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/czjzp3gvdwno",
       "category": "عراق",
@@ -108,7 +108,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-12T08:38:08.294002+00:00",
+      "published": "2026-09-12T08:52:24.405808+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -133,22 +133,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cd94y4v5v1wo",
       "category": "عراق",
       "published": "2026-09-11T19:29:53+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "توجيه حكومي بتشكيل مجلس تحقيقي بحق قيادة عمليات ميسان واعفاء قائد عملياتها",
-      "url": "https://www.alsumaria.tv/news/localnews/575768/%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%A8%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D9%85%D8%AC%D9%84%D8%B3-%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D8%A8%D8%AD%D9%82-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D9%85%D9%8A%D8%B3%D8%A7%D9%86-%D9%88%D8%A7%D8%B9%D9%81%D8%A7%D8%A1-%D9%82%D8%A7%D8%A6%D8%AF-%D8%B9%D9%85%D9%84%D9%8A",
-      "category": "عراق",
-      "published": "2026-09-11T21:46:23+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "اتهام صادم لنجل نجمين أمريكيين.. فيديوهات جنسية مع قاصر",
-      "url": "https://www.alsumaria.tv/news/international/575769/%D8%A7%D8%AA%D9%87%D8%A7%D9%85-%D8%B5%D8%A7%D8%AF%D9%85-%D9%84%D9%86%D8%AC%D9%84-%D9%86%D8%AC%D9%85%D9%8A%D9%86-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D9%8A%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D9%85%D8%B9-%D9%82%D8%A7%D8%B5%D8%B1",
-      "category": "عراق",
-      "published": "2026-09-11T22:05:24+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -237,6 +221,22 @@
       "url": "https://964media.com/716067/",
       "category": "عراق",
       "published": "2026-09-12T07:22:03+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "النزاهة: الحبس الشديد لمُدانين انتحلا صفة الانتساب إلى الهيئة وابتزّا مسؤولين بالأنبار",
+      "url": "https://www.alsumaria.tv/news/localnews/575781/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%A7%D9%84%D8%AD%D8%A8%D8%B3-%D8%A7%D9%84%D8%B4%D8%AF%D9%8A%D8%AF-%D9%84%D9%85%D9%8F%D8%AF%D8%A7%D9%86%D9%8A%D9%86-%D8%A7%D9%86%D8%AA%D8%AD%D9%84%D8%A7-%D8%B5%D9%81%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B3%D8%A7%D8%A8-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%87%D9%8A%D8%A6%D8%A9-%D9%88%D8%A7%D8%A8%D8%AA%D8%B2%D9%91%D8%A7-%D9%85",
+      "category": "عراق",
+      "published": "2026-09-12T07:36:55+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الحبس الشديد لمدانين ابتزا مسؤولين في الأنبار باسم هيئة النزاهة",
+      "url": "https://964media.com/716091/",
+      "category": "عراق",
+      "published": "2026-09-12T07:37:33+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -495,6 +495,16 @@
       "watch_topics": []
     },
     {
+      "title": "غرينلاند وساعة الحقيقة: هل تستقل أوروبا استراتيجياً عن واشنطن؟",
+      "url": "https://aawsat.com/node/5317401",
+      "category": "دولي",
+      "published": "Sat, 12 Sep 2026 09:51:21 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "الأميركيون يستعيدون ذكرى «11 سبتمبر» وترمب يُصوّب على الإرهاب وإيران",
       "url": "https://aawsat.com/node/5317255",
       "category": "دولي",
@@ -565,6 +575,14 @@
       ]
     },
     {
+      "title": "جدل في بريطانيا بعد تلقّي حزب نايجل فاراج تبرعات قياسية",
+      "url": "https://aawsat.com/node/5317400",
+      "category": "دولي",
+      "published": "Sat, 12 Sep 2026 09:47:04 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "بوتين: نشر قوات أوروبية في أوكرانيا «يعني حرباً ضد روسيا»",
       "url": "https://aawsat.com/node/5317306",
       "category": "دولي",
@@ -619,22 +637,6 @@
       "published": "Fri, 11 Sep 2026 14:23:50 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "الأوروبيون يسعون لحجز مكان في سوق المنافسة الفضائية الاستراتيجية",
-      "url": "https://aawsat.com/node/5316957",
-      "category": "دولي",
-      "published": "Thu, 10 Sep 2026 20:39:41 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "«البديل لألمانيا»... وليد إنكار النخب الغربية وعجزها",
-      "url": "https://aawsat.com/node/5316928",
-      "category": "دولي",
-      "published": "Thu, 10 Sep 2026 18:27:39 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -653,6 +655,16 @@
       "url": "https://964media.com/716049/",
       "category": "عراق",
       "published": "2026-09-12T05:50:15+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "رئيس البرلمان يدين الهجوم على السعودية ويشدد على ضرورة حصر السلاح",
+      "url": "https://www.alsumaria.tv/news/politics/575789/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%8A%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D8%B4%D8%AF%D8%AF-%D8%B9%D9%84%D9%89-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD",
+      "category": "عراق",
+      "published": "2026-09-12T08:46:32+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"
