@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T06:05:49.930897+00:00",
+  "updated_at": "2026-09-12T06:27:56.654992+00:00",
   "items": [
+    {
+      "title": "السعودية توقف خط النفط بين الشرق والغرب بعد هجوم بمسيّرات قادمة من العراق",
+      "url": "https://964media.com/716049/",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-12T05:50:15+00:00",
+      "image": "./assets/news/033a89c08579b5a4f1f334e5.jpg",
+      "original_image": "./assets/news/033a89c08579b5a4f1f334e5.jpg",
+      "source_url": "https://964media.com/716049/",
+      "source_name": "شبكة 964",
+      "breaking": true,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/40714322b475.html"
+    },
     {
       "title": "مجلس التعاون الخليجي يدين هجوم المسيرات من العراق ويطالب بغداد بتحرك حازم",
       "url": "https://964media.com/716037/",
@@ -66,13 +82,45 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/58961292f616.html"
     },
     {
+      "title": "أسعار الفنادق في دلهي تشتعل مع انعقاد قمة بريكس",
+      "url": "https://www.alsumaria.tv/news/international/575776/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D9%86%D8%A7%D8%AF%D9%82-%D9%81%D9%8A-%D8%AF%D9%84%D9%87%D9%8A-%D8%AA%D8%B4%D8%AA%D8%B9%D9%84-%D9%85%D8%B9-%D8%A7%D9%86%D8%B9%D9%82%D8%A7%D8%AF-%D9%82%D9%85%D8%A9-%D8%A8%D8%B1%D9%8A%D9%83%D8%B3",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-12T06:21:36+00:00",
+      "image": "./assets/news/58ea73b0e4cd17981c07b0b0.jpg",
+      "original_image": "./assets/news/58ea73b0e4cd17981c07b0b0.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575776/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D9%86%D8%A7%D8%AF%D9%82-%D9%81%D9%8A-%D8%AF%D9%84%D9%87%D9%8A-%D8%AA%D8%B4%D8%AA%D8%B9%D9%84-%D9%85%D8%B9-%D8%A7%D9%86%D8%B9%D9%82%D8%A7%D8%AF-%D9%82%D9%85%D8%A9-%D8%A8%D8%B1%D9%8A%D9%83%D8%B3",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4e0b6c1ef1c0.html"
+    },
+    {
+      "title": "واشنطن تحدد مواعيد مرور الناقلات عبر مضيق هرمز",
+      "url": "https://www.alsumaria.tv/news/international/575775/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AD%D8%AF%D8%AF-%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D9%85%D8%B1%D9%88%D8%B1-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-12T06:14:45+00:00",
+      "image": "./assets/news/523de647f659cb37e80b6357.jpg",
+      "original_image": "./assets/news/523de647f659cb37e80b6357.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575775/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AD%D8%AF%D8%AF-%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D9%85%D8%B1%D9%88%D8%B1-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e2828e058b66.html"
+    },
+    {
       "title": "زلزال بقوة 6.2 درجة يضرب جزيرة جاوة في إندونيسيا",
       "url": "https://www.alsumaria.tv/news/international/575774/%D8%B2%D9%84%D8%B2%D8%A7%D9%84-%D8%A8%D9%82%D9%88%D8%A9-62-%D8%AF%D8%B1%D8%AC%D8%A9-%D9%8A%D8%B6%D8%B1%D8%A8-%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D8%AC%D8%A7%D9%88%D8%A9-%D9%81%D9%8A-%D8%A5%D9%86%D8%AF%D9%88%D9%86%D9%8A%D8%B3%D9%8A%D8%A7",
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-12T05:42:52+00:00",
-      "image": "./assets/news/445520ca1a16b53732e09f3d.jpg",
-      "original_image": "./assets/news/445520ca1a16b53732e09f3d.jpg",
+      "image": "./assets/news/4682dd477577748fdff2b303.jpg",
+      "original_image": "./assets/news/4682dd477577748fdff2b303.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575774/%D8%B2%D9%84%D8%B2%D8%A7%D9%84-%D8%A8%D9%82%D9%88%D8%A9-62-%D8%AF%D8%B1%D8%AC%D8%A9-%D9%8A%D8%B6%D8%B1%D8%A8-%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D8%AC%D8%A7%D9%88%D8%A9-%D9%81%D9%8A-%D8%A5%D9%86%D8%AF%D9%88%D9%86%D9%8A%D8%B3%D9%8A%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -87,8 +135,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-12T05:24:57+00:00",
-      "image": "./assets/news/410ea76532dc21747f1b2130.jpg",
-      "original_image": "./assets/news/410ea76532dc21747f1b2130.jpg",
+      "image": "./assets/news/49743ff1bd384186c27926ec.jpg",
+      "original_image": "./assets/news/49743ff1bd384186c27926ec.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575773/%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D8%A5%D9%8A%D8%A8%D9%88%D9%84%D8%A7-%D9%8A%D8%B5%D9%84-%D8%A5%D9%84%D9%89-%D8%B3%D8%A7%D8%A8%D8%B9-%D8%A5%D9%82%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D9%88",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -418,38 +466,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d9090890dd27.html"
     },
     {
-      "title": "قرار قضائي بحجب حساب باسم خشان على منصة اكس.. يثير الفتنة",
-      "url": "https://www.alsumaria.tv/news/politics/575757/%D9%82%D8%B1%D8%A7%D8%B1-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D8%A8%D8%AD%D8%AC%D8%A8-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A8%D8%A7%D8%B3%D9%85-%D8%AE%D8%B4%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%83%D8%B3-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D8%AA%D9%86%D8%A9",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-11T17:30:22+00:00",
-      "image": "./assets/news/7d360d456446f38af66bcd13.jpg",
-      "original_image": "./assets/news/7d360d456446f38af66bcd13.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/575757/%D9%82%D8%B1%D8%A7%D8%B1-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D8%A8%D8%AD%D8%AC%D8%A8-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A8%D8%A7%D8%B3%D9%85-%D8%AE%D8%B4%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%83%D8%B3-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D8%AA%D9%86%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/60d68715ee37.html"
-    },
-    {
-      "title": "الشيباني يدعو الى الالتزام بحدود المسؤولية واحترام الأطر القانونية",
-      "url": "https://www.alsumaria.tv/news/politics/575756/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85-%D8%A8%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B7%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-11T17:12:02+00:00",
-      "image": "./assets/news/810a24e53834fa13d002d9a1.webp",
-      "original_image": "./assets/news/810a24e53834fa13d002d9a1.webp",
-      "source_url": "https://www.alsumaria.tv/news/politics/575756/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85-%D8%A8%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B7%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cb4d2b83d000.html"
-    },
-    {
       "title": "جواسيس واستراتيجيات وفرص ضائعة: ما الدروس المستفادة حتى اليوم من هجمات 11 سبتمبر؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cx2zr3zp85ro",
       "category": "محليات",
@@ -502,7 +518,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T06:05:50.142305+00:00",
+      "published": "2026-09-12T06:27:56.847073+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -512,7 +528,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/39030b05e9c9.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/564fbca18b94.html"
     }
   ]
 }
