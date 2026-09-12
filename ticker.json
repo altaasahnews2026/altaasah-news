@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T12:15:50.093020+00:00",
+  "updated_at": "2026-09-12T12:35:46.881522+00:00",
   "latest": [
     {
       "title": "ترامب عن استهداف خط أنابيب النفط السعودي: إيران مسؤولة عن الهجوم",
@@ -63,18 +63,18 @@
       ]
     },
     {
-      "title": "إدانات واسعة لاستهداف الخط السعودي شرق – غرب بمسيّرات قادمة من العراق",
-      "url": "https://www.alsumaria.tv/news/international/575784/%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%AE%D8%B7-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%B4%D8%B1%D9%82-%E2%80%93-%D8%BA%D8%B1%D8%A8-%D8%A8%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA-%D9%82%D8%A7%D8%AF%D9%85%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-      "category": "عراق",
-      "published": "2026-09-12T08:05:30+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "الإمارات تدين استهداف خط الأنابيب السعودي بمسيّرات انطلقت من العراق",
       "url": "https://964media.com/716186/",
       "category": "عراق",
       "published": "2026-09-12T11:17:21+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تحذير نووي ومواقف من غزة ولبنان وسوريا.. قادة بريكس يصدرون بياناً مشتركاً",
+      "url": "https://www.alsumaria.tv/news/international/575804/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%86%D9%88%D9%88%D9%8A-%D9%88%D9%85%D9%88%D8%A7%D9%82%D9%81-%D9%85%D9%86-%D8%BA%D8%B2%D8%A9-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%A7%D8%AF%D8%A9-%D8%A8%D8%B1%D9%8A%D9%83%D8%B3-%D9%8A%D8%B5%D8%AF%D8%B1%D9%88%D9%86-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D9%8B-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-12T12:18:33+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -90,7 +90,7 @@
       "title": "السعودية تطلب مساعدة أمريكية للقتال في اليمن، وترامب يقول إن الحوثيين طلبوا من بلاده \"عدم التدخل\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/czjzp3gvdwno",
       "category": "عراق",
-      "published": "2026-09-12T11:43:01+00:00",
+      "published": "2026-09-12T12:17:40+00:00",
       "breaking": false,
       "watch_topics": [
         "السعودية",
@@ -108,10 +108,20 @@
       ]
     },
     {
+      "title": "رئيس الجمهورية: العراق يرفض استخدام أراضيه وأجوائه للاعتداء على السعودية",
+      "url": "https://964media.com/716218/",
+      "category": "عراق",
+      "published": "2026-09-12T12:08:09+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-12T12:15:45.805092+00:00",
+      "published": "2026-09-12T12:35:41.547800+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -120,14 +130,6 @@
       "url": "https://964media.com/715936/",
       "category": "عراق",
       "published": "2026-09-11T13:08:12+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "تفاصيل مكالمة سعودية غاضبة مع مسؤول عراقي: سنضرب الجهات التي هاجمت خط الانابيب",
-      "url": "https://www.alsumaria.tv/news/politics/575783/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%85%D9%83%D8%A7%D9%84%D9%85%D8%A9-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%BA%D8%A7%D8%B6%D8%A8%D8%A9-%D9%85%D8%B9-%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%B3%D9%86%D8%B6%D8%B1%D8%A8-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%8A-%D9%87%D8%A7%D8%AC%D9%85%D8%AA-%D8%AE%D8%B7-%D8%A7",
-      "category": "عراق",
-      "published": "2026-09-12T07:58:30+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -425,6 +427,14 @@
       ]
     },
     {
+      "title": "اعتقالات وملاحقات ترافق التمدد الحوثي في غرب اليمن",
+      "url": "https://aawsat.com/node/5317448",
+      "category": "مشرق أوسط",
+      "published": "Sat, 12 Sep 2026 13:17:02 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "سقوط المخا يخلف مأساة إنسانية مفتوحة ويهدد البحر",
       "url": "https://aawsat.com/node/5317437",
       "category": "مشرق أوسط",
@@ -453,14 +463,6 @@
       "url": "https://aawsat.com/node/5317172",
       "category": "مشرق أوسط",
       "published": "Fri, 11 Sep 2026 15:25:53 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الحوثيون يسيطرون على باب المندب والجزر اليمنية جنوب البحر الأحمر",
-      "url": "https://aawsat.com/node/5317156",
-      "category": "مشرق أوسط",
-      "published": "Fri, 11 Sep 2026 14:47:17 +0100",
       "breaking": false,
       "watch_topics": []
     },
@@ -709,18 +711,18 @@
       ]
     },
     {
-      "title": "إدانات واسعة لاستهداف الخط السعودي شرق – غرب بمسيّرات قادمة من العراق",
-      "url": "https://www.alsumaria.tv/news/international/575784/%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%AE%D8%B7-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%B4%D8%B1%D9%82-%E2%80%93-%D8%BA%D8%B1%D8%A8-%D8%A8%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA-%D9%82%D8%A7%D8%AF%D9%85%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-      "category": "عراق",
-      "published": "2026-09-12T08:05:30+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "الإمارات تدين استهداف خط الأنابيب السعودي بمسيّرات انطلقت من العراق",
       "url": "https://964media.com/716186/",
       "category": "عراق",
       "published": "2026-09-12T11:17:21+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تحذير نووي ومواقف من غزة ولبنان وسوريا.. قادة بريكس يصدرون بياناً مشتركاً",
+      "url": "https://www.alsumaria.tv/news/international/575804/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%86%D9%88%D9%88%D9%8A-%D9%88%D9%85%D9%88%D8%A7%D9%82%D9%81-%D9%85%D9%86-%D8%BA%D8%B2%D8%A9-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%A7%D8%AF%D8%A9-%D8%A8%D8%B1%D9%8A%D9%83%D8%B3-%D9%8A%D8%B5%D8%AF%D8%B1%D9%88%D9%86-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D9%8B-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-12T12:18:33+00:00",
       "breaking": true,
       "watch_topics": []
     },
