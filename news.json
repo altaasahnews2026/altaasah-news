@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T10:28:59.730736+00:00",
+  "updated_at": "2026-09-12T10:42:27.637070+00:00",
   "items": [
     {
       "title": "الزيدي يعزل قائد شرطة ميسان وينقل مديري الأجهزة الأمنية للإمرة بعد هجوم السعودية",
@@ -55,8 +55,8 @@
       "category": "أمن",
       "region": "نينوى",
       "published": "2026-09-12T08:57:48+00:00",
-      "image": "./assets/news/f4f4e543a3ea972f9af3d4ad.jpg",
-      "original_image": "./assets/news/f4f4e543a3ea972f9af3d4ad.jpg",
+      "image": "./assets/news/d72f54ad63aeb38f3c2d794b.jpg",
+      "original_image": "./assets/news/d72f54ad63aeb38f3c2d794b.jpg",
       "source_url": "https://www.alsumaria.tv/news/trends-alsumaria/575790/%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AE%D8%B2%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -82,12 +82,28 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2ee497eab06b.html"
     },
     {
+      "title": "تصريح برلماني بشأن الكابينة الوزارية: محاولات لاستحداث مناصب لمصالح حزبية وشخصية",
+      "url": "https://www.alsumaria.tv/news/politics/575797/%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D9%8A%D8%A9-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D8%AF%D8%A7%D8%AB-%D9%85%D9%86%D8%A7%D8%B5%D8%A8-%D9%84%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D8%AD%D8%B2%D8%A8",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-12T10:36:13+00:00",
+      "image": "./assets/news/3fdb56a97ea0f26d46357718.jpg",
+      "original_image": "./assets/news/3fdb56a97ea0f26d46357718.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/575797/%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D9%8A%D8%A9-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D8%AF%D8%A7%D8%AB-%D9%85%D9%86%D8%A7%D8%B5%D8%A8-%D9%84%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D8%AD%D8%B2%D8%A8",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c1d1d7610c33.html"
+    },
+    {
       "title": "السعودية تطلب مساعدة أمريكية للقتال في اليمن، وترامب يقول إن الحوثيين طلبوا من بلاده \"عدم التدخل\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/czjzp3gvdwno",
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "governorate": "",
-      "published": "2026-09-12T10:10:03+00:00",
+      "published": "2026-09-12T10:24:36+00:00",
       "image": "./assets/news/0c34d7a979d13cdf88e403f0.jpg",
       "original_image": "./assets/news/0c34d7a979d13cdf88e403f0.jpg",
       "source_url": "https://shafaq.com/ar/bbc-arabic/czjzp3gvdwno",
@@ -95,7 +111,7 @@
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/63c406e5bef0.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bf96a5ddd7f6.html"
     },
     {
       "title": "ديالى تريد عرش البرحي وتتحدى البصرة بـ 10 براهين وخطب حماسية",
@@ -167,8 +183,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-12T09:47:46+00:00",
-      "image": "./assets/news/b1fe7c9776a0e4f7c8508a01.jpg",
-      "original_image": "./assets/news/b1fe7c9776a0e4f7c8508a01.jpg",
+      "image": "./assets/news/2d8b2dd97e7b317ac7f017e9.jpg",
+      "original_image": "./assets/news/2d8b2dd97e7b317ac7f017e9.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/575793/%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-2027-%D8%B3%D8%AA%D8%AA%D8%B6%D9%85%D9%86-%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -290,22 +306,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/50cfc961ac95.html"
     },
     {
-      "title": "دبلوماسي سعودي سابق: الرياض شخصت “انفلات” الفصائل العراقية ولن تسمح بتماديها",
-      "url": "https://964media.com/716087/",
-      "category": "محليات",
-      "region": "كركوك",
-      "published": "2026-09-12T08:17:44+00:00",
-      "image": "./assets/news/c1b4100b3ee88fddbbfdd47e.jpg",
-      "original_image": "./assets/news/c1b4100b3ee88fddbbfdd47e.jpg",
-      "source_url": "https://964media.com/716087/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": true,
-      "report": false,
-      "governorate": "كركوك",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/698b8e333c9c.html"
-    },
-    {
       "title": "ارتفاع جديد.. الدولار يقترب من الـ157 الفا",
       "url": "https://www.alsumaria.tv/news/economy/575785/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D9%80157-%D8%A7%D9%84%D9%81%D8%A7",
       "category": "اقتصاد",
@@ -391,8 +391,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-12T07:10:49+00:00",
-      "image": "./assets/news/d8bd4744575138cff9759643.jpg",
-      "original_image": "./assets/news/d8bd4744575138cff9759643.jpg",
+      "image": "./assets/news/6024fdb2a7cbe5207f781acb.jpg",
+      "original_image": "./assets/news/6024fdb2a7cbe5207f781acb.jpg",
       "source_url": "https://www.alsumaria.tv/news/miscellaneous/575780/%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%AE%D9%81%D9%8A%D8%A9-%D9%84%D9%88%D8%B5%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%85%D9%88%D8%B4-%D8%B9%D9%84%D9%89-%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D9%8A%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -432,22 +432,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c268b643d741.html"
-    },
-    {
-      "title": "بالفيديو.. عراقيون عالقون في منفذي الشيب والشلامجة",
-      "url": "https://www.alsumaria.tv/news/trends-alsumaria/575777/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%88%D9%86-%D8%B9%D8%A7%D9%84%D9%82%D9%88%D9%86-%D9%81%D9%8A-%D9%85%D9%86%D9%81%D8%B0%D9%8A-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8-%D9%88%D8%A7%D9%84%D8%B4%D9%84%D8%A7%D9%85%D8%AC%D8%A9",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-12T06:30:10+00:00",
-      "image": "./assets/news/6f9241fa2532ee983938d884.webp",
-      "original_image": "./assets/news/6f9241fa2532ee983938d884.webp",
-      "source_url": "https://www.alsumaria.tv/news/trends-alsumaria/575777/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%88%D9%86-%D8%B9%D8%A7%D9%84%D9%82%D9%88%D9%86-%D9%81%D9%8A-%D9%85%D9%86%D9%81%D8%B0%D9%8A-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8-%D9%88%D8%A7%D9%84%D8%B4%D9%84%D8%A7%D9%85%D8%AC%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7270d5528812.html"
     },
     {
       "title": "العالم قد يكون أمام المزيد من رفع أسعار الفائدة للسيطرة على التضخم - شفق نيوز..",
@@ -534,7 +518,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T10:28:59.941292+00:00",
+      "published": "2026-09-12T10:42:27.847766+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -544,7 +528,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0f0182ee2e88.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/60c5184ab973.html"
     }
   ]
 }
