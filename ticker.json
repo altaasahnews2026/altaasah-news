@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T11:46:06.898238+00:00",
+  "updated_at": "2026-09-12T11:56:57.460525+00:00",
   "latest": [
     {
       "title": "ترامب عن استهداف خط أنابيب النفط السعودي: إيران مسؤولة عن الهجوم",
@@ -80,7 +80,7 @@
       "title": "السعودية تطلب مساعدة أمريكية للقتال في اليمن، وترامب يقول إن الحوثيين طلبوا من بلاده \"عدم التدخل\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/czjzp3gvdwno",
       "category": "عراق",
-      "published": "2026-09-12T10:24:36+00:00",
+      "published": "2026-09-12T11:43:01+00:00",
       "breaking": false,
       "watch_topics": [
         "السعودية",
@@ -111,7 +111,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-12T11:46:02.380157+00:00",
+      "published": "2026-09-12T11:56:53.834125+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -415,6 +415,14 @@
       ]
     },
     {
+      "title": "سقوط المخا يخلف مأساة إنسانية مفتوحة ويهدد البحر",
+      "url": "https://aawsat.com/node/5317437",
+      "category": "مشرق أوسط",
+      "published": "Sat, 12 Sep 2026 12:52:37 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "مصر وليبيريا تتفقان على تنسيق الأولويات الأفريقية في «مجلس الأمن»",
       "url": "https://aawsat.com/node/5317186",
       "category": "مشرق أوسط",
@@ -451,14 +459,6 @@
       "url": "https://aawsat.com/node/5316929",
       "category": "مشرق أوسط",
       "published": "Thu, 10 Sep 2026 18:32:31 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الحوثيون يوسعون جبايتهم الزراعية في صنعاء وريمة",
-      "url": "https://aawsat.com/node/5316775",
-      "category": "مشرق أوسط",
-      "published": "Thu, 10 Sep 2026 11:47:45 +0100",
       "breaking": false,
       "watch_topics": []
     },
