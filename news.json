@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T18:46:10.321290+00:00",
+  "updated_at": "2026-09-12T18:56:18.366699+00:00",
   "items": [
     {
       "title": "دوي انفجارين في جزيرة قشم جنوبي إيران",
@@ -16,22 +16,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/814227a0ccc7.html"
-    },
-    {
-      "title": "طالباني يدين الهجوم على السعودية ويدعو إلى أقصى درجات ضبط النفس",
-      "url": "https://www.alsumaria.tv/news/politics/575811/%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%A3%D9%82%D8%B5%D9%89-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%B6%D8%A8%D8%B7-%D8%A7%D9%84%D9%86%D9%81%D8%B3",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-12T14:44:15+00:00",
-      "image": "./assets/news/cf29ce67c55a6e251a199b7d.jpg",
-      "original_image": "./assets/news/cf29ce67c55a6e251a199b7d.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/575811/%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%A3%D9%82%D8%B5%D9%89-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%B6%D8%A8%D8%B7-%D8%A7%D9%84%D9%86%D9%81%D8%B3",
-      "source_name": "السومرية نيوز",
-      "breaking": true,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ca155e3fb3d4.html"
     },
     {
       "title": "رئيس الجمهورية: العراق يرفض استخدام أراضيه وأجوائه للاعتداء على السعودية",
@@ -64,6 +48,22 @@
       "report": false,
       "governorate": "ميسان",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e6ad74f78a2c.html"
+    },
+    {
+      "title": "في ألمانيا.. عشرات الآلاف يتظاهرون ضد اليمين المتطرف",
+      "url": "https://www.alsumaria.tv/news/international/575830/%D9%81%D9%8A-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A2%D9%84%D8%A7%D9%81-%D9%8A%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D9%88%D9%86-%D8%B6%D8%AF-%D8%A7%D9%84%D9%8A%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%AA%D8%B7%D8%B1%D9%81",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-12T18:40:56+00:00",
+      "image": "./assets/news/70870116b206b32f4b8691a9.webp",
+      "original_image": "./assets/news/70870116b206b32f4b8691a9.webp",
+      "source_url": "https://www.alsumaria.tv/news/international/575830/%D9%81%D9%8A-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A2%D9%84%D8%A7%D9%81-%D9%8A%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D9%88%D9%86-%D8%B6%D8%AF-%D8%A7%D9%84%D9%8A%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%AA%D8%B7%D8%B1%D9%81",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ecf91d7a2442.html"
     },
     {
       "title": "بريكس تدعو إلى ضبط النفس مع تصاعد التوتر حول مضيق هرمز - شفق نيوز..",
@@ -418,22 +418,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a121c491ab73.html"
     },
     {
-      "title": "الجنوب يستغيث لفتح استيراد الأوكسجين.. نفد مخزون المشافي بعد توقف معمل بغداد",
-      "url": "https://964media.com/716264/",
-      "category": "محليات",
-      "region": "بغداد",
-      "published": "2026-09-12T14:54:47+00:00",
-      "image": "./assets/news/98dfa9a2df07de579bb067ca.jpg",
-      "original_image": "./assets/news/98dfa9a2df07de579bb067ca.jpg",
-      "source_url": "https://964media.com/716264/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/dbf1f0b2a897.html"
-    },
-    {
       "title": "ترامب: يمكنني تسوية النزاع بشأن جزر فوكلاند",
       "url": "https://www.alsumaria.tv/news/international/575812/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%85%D9%83%D9%86%D9%86%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D8%B9-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AC%D8%B2%D8%B1-%D9%81%D9%88%D9%83%D9%84%D8%A7%D9%86%D8%AF",
       "category": "محليات",
@@ -550,7 +534,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T18:46:10.540731+00:00",
+      "published": "2026-09-12T18:56:18.573038+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -560,7 +544,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d486d047ef03.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/66619830ea3b.html"
     }
   ]
 }
