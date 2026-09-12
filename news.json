@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T13:02:02.652785+00:00",
+  "updated_at": "2026-09-12T13:18:45.892344+00:00",
   "items": [
     {
       "title": "رئيس الجمهورية: العراق يرفض استخدام أراضيه وأجوائه للاعتداء على السعودية",
@@ -80,6 +80,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2ee497eab06b.html"
+    },
+    {
+      "title": "إثيوبيا تدخل عام 2019، ما حكاية السنة التي تبدأ في سبتمبر وتتألف من 13 شهراً؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cvgyv5qz2d8o",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-12T13:04:39+00:00",
+      "image": "./assets/news/8642de5907d93b722bd23149.jpg",
+      "original_image": "./assets/news/8642de5907d93b722bd23149.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cvgyv5qz2d8o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e4ac6873bf8d.html"
     },
     {
       "title": "السعودية تطلب مساعدة أمريكية للقتال في اليمن، وترامب يقول إن الحوثيين طلبوا من بلاده \"عدم التدخل\" - شفق نيوز..",
@@ -240,22 +256,6 @@
       "report": false,
       "governorate": "ميسان",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/414f78791929.html"
-    },
-    {
-      "title": "جواسيس واستراتيجيات وفرص ضائعة: ما الدروس المستفادة حتى اليوم من هجمات 11 سبتمبر؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cx2zr3zp85ro",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-12T11:19:54+00:00",
-      "image": "./assets/news/3b044836a54d94dc7f56b6ae.jpg",
-      "original_image": "./assets/news/3b044836a54d94dc7f56b6ae.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cx2zr3zp85ro",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/884868e78e69.html"
     },
     {
       "title": "الإمارات تدين استهداف خط الأنابيب السعودي بمسيّرات انطلقت من العراق",
@@ -566,7 +566,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T13:02:02.869531+00:00",
+      "published": "2026-09-12T13:18:46.106730+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -576,7 +576,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b77a4468c902.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/898e11582e8b.html"
     }
   ]
 }
