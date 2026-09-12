@@ -13,9 +13,10 @@ on:
 permissions:
   contents: write
 
+# لا نلغي عملية تحديث بدأت بالفعل؛ هذا يمنع بقاء news.json فارغاً عند تداخل تشغيلين.
 concurrency:
   group: altaasah-news-update
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -110,12 +111,21 @@ jobs:
           assert len(items) >= 20
           assert all(x.get('title') and x.get('url') and x.get('image') and x.get('original_image') for x in items)
           assert all('news.google.com' not in x['url'] and 'bing.com' not in x['url'] and 'google.com' not in x['url'] for x in items)
-          image_paths=[]
+          titles=[]; urls=[]; image_paths=[]
+          from urllib.parse import urlsplit, urlunsplit
+          def canon_url(u):
+              p=urlsplit(str(u).strip()); return urlunsplit((p.scheme.lower(),p.netloc.lower(),p.path.rstrip('/'),'', ''))
+          def norm_title(s):
+              s=re.sub(r'\s+',' ',str(s or '').strip()).replace('ـ','')
+              s=re.sub(r'^(عاجل|بالصور|بالفيديو|خاص|متابعة)\s*[:：-]?\s*','',s)
+              return re.sub(r'[^\w\u0600-\u06ff ]',' ',s).lower().strip()
           for x in items:
+              k=norm_title(x['title']); u=canon_url(x['url'])
+              assert k not in titles, 'توجد عناوين مكررة'
+              assert u not in urls, 'توجد روابط أخبار مكررة'
+              titles.append(k); urls.append(u)
               p=Path(x['image'].replace('./','')); o=Path(x['original_image'].replace('./',''))
-              assert p.exists() and o.exists()
-              assert p == o
-              image_paths.append(x['image'])
+              assert p.exists() and o.exists(); assert p == o; image_paths.append(x['image'])
               if p.suffix.lower()=='.svg':
                   s=p.read_text(encoding='utf-8',errors='ignore')[:5000]
                   assert re.search(r'<svg\b',s,re.I) and re.search(r'width=["\'](?:\d+)',s,re.I) and re.search(r'height=["\'](?:\d+)',s,re.I)
@@ -147,5 +157,5 @@ jobs:
           git config user.email 'actions@users.noreply.github.com'
           git add -A
           if git diff --cached --quiet; then echo 'لا توجد تغييرات.'; exit 0; fi
-          git commit -m 'نشر خبر النائب محمد النعيمي'
+          git commit -m 'منع تكرار الأخبار وتحسين استقرار التحديث'
           git push origin main
