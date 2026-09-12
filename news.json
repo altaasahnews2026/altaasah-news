@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T08:52:24.208731+00:00",
+  "updated_at": "2026-09-12T09:02:57.258115+00:00",
   "items": [
     {
       "title": "رئيس البرلمان يدين الهجوم على السعودية ويشدد على ضرورة حصر السلاح",
@@ -7,8 +7,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-12T08:46:32+00:00",
-      "image": "./assets/news/b08c76f21ce841da11036d0b.jpg",
-      "original_image": "./assets/news/b08c76f21ce841da11036d0b.jpg",
+      "image": "./assets/news/073ed8fb48c692a4271424b0.jpg",
+      "original_image": "./assets/news/073ed8fb48c692a4271424b0.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/575789/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%8A%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D8%B4%D8%AF%D8%AF-%D8%B9%D9%84%D9%89-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -39,8 +39,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-12T08:39:48+00:00",
-      "image": "./assets/news/47fbfff5c6307ddb51b869eb.jpg",
-      "original_image": "./assets/news/47fbfff5c6307ddb51b869eb.jpg",
+      "image": "./assets/news/381b32fdc0028a37f1deb53b.jpg",
+      "original_image": "./assets/news/381b32fdc0028a37f1deb53b.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/575788/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%86%D9%81%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B9%D9%85%D9%82-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A8%D9%85%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -50,13 +50,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d2e43a749e31.html"
     },
     {
+      "title": "لماذا قد يؤثر شخير شريكك على صحتك؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cdr76mrpdxvo",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-12T08:37:59+00:00",
+      "image": "./assets/news/b7eb5fef97edd2a68b64933c.jpg",
+      "original_image": "./assets/news/b7eb5fef97edd2a68b64933c.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cdr76mrpdxvo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e445d5fdb29c.html"
+    },
+    {
       "title": "الذهب يواصل الانخفاض.. اقل من المليون للمثقال الواحد",
       "url": "https://www.alsumaria.tv/news/economy/575787/%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A7%D9%82%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%84%D9%84%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF",
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-12T08:36:14+00:00",
-      "image": "./assets/news/ea093b1dfbbd708d9308483b.jpg",
-      "original_image": "./assets/news/ea093b1dfbbd708d9308483b.jpg",
+      "image": "./assets/news/5c2043e248db888c036009a5.jpg",
+      "original_image": "./assets/news/5c2043e248db888c036009a5.jpg",
       "source_url": "https://www.alsumaria.tv/news/economy/575787/%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A7%D9%82%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%84%D9%84%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -71,8 +87,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-12T08:26:38+00:00",
-      "image": "./assets/news/f76d27dbbc9dfa5321a246aa.jpg",
-      "original_image": "./assets/news/f76d27dbbc9dfa5321a246aa.jpg",
+      "image": "./assets/news/117983a3bca177228d4fc436.jpg",
+      "original_image": "./assets/news/117983a3bca177228d4fc436.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575786/%D8%A8%D9%8A%D8%A7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D9%84%D9%8A%D8%B2%D9%8A%D9%87-%D8%A8%D8%B4%D8%A7%D9%86-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -144,22 +160,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/31ba1ad4c592.html"
-    },
-    {
-      "title": "لماذا قد يؤثر شخير شريكك على صحتك؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cdr76mrpdxvo",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-12T07:57:40+00:00",
-      "image": "./assets/news/b7eb5fef97edd2a68b64933c.jpg",
-      "original_image": "./assets/news/b7eb5fef97edd2a68b64933c.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cdr76mrpdxvo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/985004ff222d.html"
     },
     {
       "title": "الصدر عقب الأحداث الأخيرة: نترك الحكم لله بيننا وبينهم بالحق.. حافظوا على العراق",
@@ -482,22 +482,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/96fe0e01b951.html"
     },
     {
-      "title": "استهداف السعودية انطلق من ميسان.. الزيدي يعفي قائد العمليات ويشكل مجلساً للتحقيق",
-      "url": "https://964media.com/716041/",
-      "category": "عربي ودولي",
-      "region": "ميسان",
-      "published": "2026-09-11T21:49:02+00:00",
-      "image": "./assets/news/5c88f1342d9bea08d6413333.jpg",
-      "original_image": "./assets/news/5c88f1342d9bea08d6413333.jpg",
-      "source_url": "https://964media.com/716041/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": true,
-      "governorate": "ميسان",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5bba00d39027.html"
-    },
-    {
       "title": "\"فستان الانتقام\" الخاص بالأميرة ديانا في المزاد العلني - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cd94y4v5v1wo",
       "category": "محليات",
@@ -566,7 +550,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T08:52:24.405808+00:00",
+      "published": "2026-09-12T09:02:57.476702+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -576,7 +560,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5fe68c606a6a.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4dab6d37dcf6.html"
     }
   ]
 }
