@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T13:18:45.892344+00:00",
+  "updated_at": "2026-09-12T13:32:28.978562+00:00",
   "items": [
     {
       "title": "رئيس الجمهورية: العراق يرفض استخدام أراضيه وأجوائه للاعتداء على السعودية",
@@ -82,6 +82,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2ee497eab06b.html"
     },
     {
+      "title": "استيلاء الحوثيين على جزيرة بريم يعزز سيطرتهم على ممر حيوي لشحن النفط – الغارديان - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cpwlvzrxvvqo",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-12T13:16:12+00:00",
+      "image": "./assets/news/42343d9ac0302d636a09e43a.jpg",
+      "original_image": "./assets/news/42343d9ac0302d636a09e43a.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cpwlvzrxvvqo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/deebab8c52eb.html"
+    },
+    {
       "title": "إثيوبيا تدخل عام 2019، ما حكاية السنة التي تبدأ في سبتمبر وتتألف من 13 شهراً؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cvgyv5qz2d8o",
       "category": "محليات",
@@ -98,6 +114,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e4ac6873bf8d.html"
     },
     {
+      "title": "العراق يوافق على طلب إيران للتحقيق بشأن منصات إطلاق المسيرات قرب الحدود",
+      "url": "https://964media.com/716242/",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-12T13:01:25+00:00",
+      "image": "./assets/news/4b2f8525b906ce0c9d257c57.jpg",
+      "original_image": "./assets/news/4b2f8525b906ce0c9d257c57.jpg",
+      "source_url": "https://964media.com/716242/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bd42e00a3ef4.html"
+    },
+    {
       "title": "السعودية تطلب مساعدة أمريكية للقتال في اليمن، وترامب يقول إن الحوثيين طلبوا من بلاده \"عدم التدخل\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/czjzp3gvdwno",
       "category": "عربي ودولي",
@@ -112,22 +144,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5525e672cb59.html"
-    },
-    {
-      "title": "الزيدي يوافق على طلب ايراني للتحقيق المشترك بشأن منصات المسيرات قرب الحدود",
-      "url": "https://www.alsumaria.tv/news/security/575805/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%89-%D8%B7%D9%84%D8%A8-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-12T12:48:25+00:00",
-      "image": "./assets/news/3ada80d928aac6a24e22c6d9.jpg",
-      "original_image": "./assets/news/3ada80d928aac6a24e22c6d9.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/575805/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%89-%D8%B7%D9%84%D8%A8-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": true,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0295f4ce1718.html"
     },
     {
       "title": "الأنبار تعيد نظام الفردي والزوجي لتجهيز السيارات بالبنزين",
@@ -183,8 +199,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-12T12:00:33+00:00",
-      "image": "./assets/news/7a0f5fa6882ddded851b67b5.jpg",
-      "original_image": "./assets/news/7a0f5fa6882ddded851b67b5.jpg",
+      "image": "./assets/news/64631fcd56f51c3823ebaf42.jpg",
+      "original_image": "./assets/news/64631fcd56f51c3823ebaf42.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/575802/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AD%D9%88%D9%84-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -530,22 +546,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/50cfc961ac95.html"
     },
     {
-      "title": "بزشكيان: لا أؤيد استمرار الحرب، وترامب يواجه ضغوطاً لإنهائها قبل نوفمبر - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cr50qjy0yjlo",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-11T19:29:37+00:00",
-      "image": "./assets/news/fa652cd8db17aa7c3923dd69.jpg",
-      "original_image": "./assets/news/fa652cd8db17aa7c3923dd69.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cr50qjy0yjlo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d729511da848.html"
-    },
-    {
       "title": "العراق ينفي توقيف فرقة “كايروكي” المصرية: مجرد استفسار حول صورة صدام حسين",
       "url": "https://964media.com/715936/",
       "category": "عربي ودولي",
@@ -566,7 +566,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T13:18:46.106730+00:00",
+      "published": "2026-09-12T13:32:29.119015+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -576,7 +576,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/898e11582e8b.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/45b1e22c1842.html"
     }
   ]
 }
