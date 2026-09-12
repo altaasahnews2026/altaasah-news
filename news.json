@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T21:38:15.643276+00:00",
+  "updated_at": "2026-09-12T21:48:10.575501+00:00",
   "items": [
     {
       "title": "دوي انفجارين في جزيرة قشم جنوبي إيران",
@@ -71,8 +71,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-12T20:53:22+00:00",
-      "image": "./assets/news/d70e2cf2fae23fd36ef45384.jpg",
-      "original_image": "./assets/news/d70e2cf2fae23fd36ef45384.jpg",
+      "image": "./assets/news/2554599186adff43675e279c.jpg",
+      "original_image": "./assets/news/2554599186adff43675e279c.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/575836/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B9%D9%84%D9%86-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%D9%87-%D8%A8%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D9%82%D8%B1%D8%B1-%D8%B9%D9%82%D8%AF%D9%87-%D9%81%D9%8A-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%8F%D9%85%D8%A7%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -80,6 +80,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1419a7c68cf7.html"
+    },
+    {
+      "title": "درونات العراق على المدينة المنورة.. بغداد تناقش طهران التحقيق المشترك",
+      "url": "https://964media.com/716458/",
+      "category": "محليات",
+      "region": "بغداد",
+      "published": "2026-09-12T20:49:27+00:00",
+      "image": "./assets/news/90d33be7240669adef35aad7.jpg",
+      "original_image": "./assets/news/90d33be7240669adef35aad7.jpg",
+      "source_url": "https://964media.com/716458/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2bbc61ad6e55.html"
     },
     {
       "title": "قصف جوي يستهدف وكراً لـداعش في ديالى",
@@ -178,36 +194,36 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e3f7075fb4b7.html"
     },
     {
-      "title": "في كركوك.. كاميرا حرارية تتعرض لإطلاق نار",
-      "url": "https://www.alsumaria.tv/news/security/575833/%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7-%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B9%D8%B1%D8%B6-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1",
+      "title": "كاميرا حرارية تتعرض لإطلاق نار في قاطع عمليات نينوى",
+      "url": "https://www.alsumaria.tv/news/security/575833/%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7-%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B9%D8%B1%D8%B6-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-%D9%82%D8%A7%D8%B7%D8%B9-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D9%86%D9%8A%D9%86%D9%88%D9%89",
       "category": "محليات",
-      "region": "كركوك",
+      "region": "نينوى",
       "published": "2026-09-12T19:31:10+00:00",
-      "image": "./assets/news/3ab3f2059ab97a5a23457641.jpg",
-      "original_image": "./assets/news/3ab3f2059ab97a5a23457641.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/575833/%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7-%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B9%D8%B1%D8%B6-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1",
+      "image": "./assets/news/91f2e4a4d092433d679866f5.jpg",
+      "original_image": "./assets/news/91f2e4a4d092433d679866f5.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/575833/%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7-%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B9%D8%B1%D8%B6-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-%D9%82%D8%A7%D8%B7%D8%B9-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D9%86%D9%8A%D9%86%D9%88%D9%89",
       "source_name": "السومرية نيوز",
       "breaking": false,
-      "kirkuk": true,
+      "kirkuk": false,
       "report": false,
-      "governorate": "كركوك",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/57673f0f41cd.html"
+      "governorate": "نينوى",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/44a320e0a145.html"
     },
     {
-      "title": "الجيش الأمريكي يكشف عن حصيلة السفن التي أعيد توجيهها ضمن حصار إيران",
-      "url": "https://www.alsumaria.tv/news/international/575832/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D9%86-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A3%D8%B9%D9%8A%D8%AF-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D9%87%D8%A7-%D8%B6%D9%85%D9%86-%D8%AD%D8%B5%D8%A7%D8%B1-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "title": "الجيش الأمريكي يكشف حصيلة السفن التي أعيد توجيهها ضمن حصار إيران",
+      "url": "https://www.alsumaria.tv/news/international/575832/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D9%86-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A3%D8%B9%D9%8A%D8%AF-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D9%87%D8%A7-%D8%B6%D9%85%D9%86-%D8%AD%D8%B5%D8%A7%D8%B1-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-12T19:29:00+00:00",
       "image": "./assets/news/892326a94d94eff2da584f78.jpg",
       "original_image": "./assets/news/892326a94d94eff2da584f78.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/575832/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D9%86-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A3%D8%B9%D9%8A%D8%AF-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D9%87%D8%A7-%D8%B6%D9%85%D9%86-%D8%AD%D8%B5%D8%A7%D8%B1-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "source_url": "https://www.alsumaria.tv/news/international/575832/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D9%86-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A3%D8%B9%D9%8A%D8%AF-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D9%87%D8%A7-%D8%B6%D9%85%D9%86-%D8%AD%D8%B5%D8%A7%D8%B1-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
       "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9b679cff3631.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9ea7e512e16c.html"
     },
     {
       "title": "داعش يهاجم موقعاً للجيش العراقي قرب الحويجة",
@@ -226,20 +242,20 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/eab96d52d92f.html"
     },
     {
-      "title": "العزم والإعمار والتنمية يؤكدان أهمية الحوار بالتعامل مع الملفات المشتركة",
-      "url": "https://www.alsumaria.tv/news/localnews/575831/%D8%A7%D9%84%D8%B9%D8%B2%D9%85-%D9%88%D8%A7%D9%84%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1",
+      "title": "العزم والإعمار يؤكدان أهمية الحوار بالتعامل مع الملفات المشتركة",
+      "url": "https://www.alsumaria.tv/news/localnews/575831/%D8%A7%D9%84%D8%B9%D8%B2%D9%85-%D9%88%D8%A7%D9%84%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9",
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-12T19:08:54+00:00",
       "image": "./assets/news/08455c750acc0fd328651621.jpg",
       "original_image": "./assets/news/08455c750acc0fd328651621.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/575831/%D8%A7%D9%84%D8%B9%D8%B2%D9%85-%D9%88%D8%A7%D9%84%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1",
+      "source_url": "https://www.alsumaria.tv/news/localnews/575831/%D8%A7%D9%84%D8%B9%D8%B2%D9%85-%D9%88%D8%A7%D9%84%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": true,
       "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9ec6288f9898.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cddb49f03460.html"
     },
     {
       "title": "العراق يعلن رسمياً ضبط منصة إطلاق المسيرات المستخدمة في استهداف السعودية",
@@ -598,7 +614,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T21:38:15.860393+00:00",
+      "published": "2026-09-12T21:48:10.732676+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -608,7 +624,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d906ddfd854d.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/51a32750b529.html"
     }
   ]
 }
