@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T09:35:29.129849+00:00",
+  "updated_at": "2026-09-12T09:47:18.637698+00:00",
   "items": [
     {
       "title": "الكويت تقف مع السعودية وتطالب العراق بوقف استخدام أراضيه للاعتداءات",
@@ -23,8 +23,8 @@
       "category": "أمن",
       "region": "نينوى",
       "published": "2026-09-12T08:57:48+00:00",
-      "image": "./assets/news/f4f4e543a3ea972f9af3d4ad.jpg",
-      "original_image": "./assets/news/f4f4e543a3ea972f9af3d4ad.jpg",
+      "image": "./assets/news/d72f54ad63aeb38f3c2d794b.jpg",
+      "original_image": "./assets/news/d72f54ad63aeb38f3c2d794b.jpg",
       "source_url": "https://www.alsumaria.tv/news/trends-alsumaria/575790/%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AE%D8%B2%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -50,6 +50,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2ee497eab06b.html"
     },
     {
+      "title": "المقاومة الإسلامية: استهداف السعودية “شرف لا ندعيه” ونستغرب تسرع بغداد",
+      "url": "https://964media.com/716136/",
+      "category": "عربي ودولي",
+      "region": "بغداد",
+      "published": "2026-09-12T09:24:24+00:00",
+      "image": "./assets/news/2fa4b11e06c1ae2aa9aee717.jpg",
+      "original_image": "./assets/news/2fa4b11e06c1ae2aa9aee717.jpg",
+      "source_url": "https://964media.com/716136/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/12a504167a4e.html"
+    },
+    {
       "title": "السعودية تطلب مساعدة أمريكية لقتال الحوثيين، وتوقف \"احترازياً\" خط أنابيب شرق-غرب النفطي - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/czjzp3gvdwno",
       "category": "اقتصاد",
@@ -66,13 +82,45 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a7a2dd2942c2.html"
     },
     {
+      "title": "المقاومة الإسلامية في العراق تصدر بيانا بشان استهداف السعودية",
+      "url": "https://www.alsumaria.tv/news/politics/575792/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7-%D8%A8%D8%B4%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-12T09:05:47+00:00",
+      "image": "./assets/news/39ecdfada487e0b6edac6aa7.webp",
+      "original_image": "./assets/news/39ecdfada487e0b6edac6aa7.webp",
+      "source_url": "https://www.alsumaria.tv/news/politics/575792/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7-%D8%A8%D8%B4%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fbf3bb779242.html"
+    },
+    {
+      "title": "الدولار يواصل الارتفاع ويصل إلى 157 ألف دينار في بغداد",
+      "url": "https://964media.com/716088/",
+      "category": "اقتصاد",
+      "region": "بغداد",
+      "published": "2026-09-12T09:04:54+00:00",
+      "image": "./assets/news/ed8de31c6f2b94aa73595e83.jpg",
+      "original_image": "./assets/news/ed8de31c6f2b94aa73595e83.jpg",
+      "source_url": "https://964media.com/716088/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1e0c95a4ea37.html"
+    },
+    {
       "title": "التربية تصدر قرارا يخص مواقع المؤسسات الأهلية",
       "url": "https://www.alsumaria.tv/news/localnews/575791/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7-%D9%8A%D8%AE%D8%B5-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A%D8%A9",
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-12T09:04:17+00:00",
-      "image": "./assets/news/352ca3e95c205e326e9f109e.jpg",
-      "original_image": "./assets/news/352ca3e95c205e326e9f109e.jpg",
+      "image": "./assets/news/e6747b1656bda166f18198b9.jpg",
+      "original_image": "./assets/news/e6747b1656bda166f18198b9.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/575791/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7-%D9%8A%D8%AE%D8%B5-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -338,22 +386,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c268b643d741.html"
     },
     {
-      "title": "مطار البصرة ينفي إغلاقه ويحذر من إرباك المسافرين بالشائعات",
-      "url": "https://964media.com/716051/",
-      "category": "محليات",
-      "region": "البصرة",
-      "published": "2026-09-12T06:32:42+00:00",
-      "image": "./assets/news/2725c3519084d612c2955a81.jpg",
-      "original_image": "./assets/news/2725c3519084d612c2955a81.jpg",
-      "source_url": "https://964media.com/716051/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "البصرة",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e4e327ecf293.html"
-    },
-    {
       "title": "بالفيديو.. عراقيون عالقون في منفذي الشيب والشلامجة",
       "url": "https://www.alsumaria.tv/news/trends-alsumaria/575777/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%88%D9%86-%D8%B9%D8%A7%D9%84%D9%82%D9%88%D9%86-%D9%81%D9%8A-%D9%85%D9%86%D9%81%D8%B0%D9%8A-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8-%D9%88%D8%A7%D9%84%D8%B4%D9%84%D8%A7%D9%85%D8%AC%D8%A9",
       "category": "محليات",
@@ -402,22 +434,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e2828e058b66.html"
     },
     {
-      "title": "فيديو: عوائل عالقة في الشلامجة بعد قرار إغلاق مفاجئ مرتبط بمسيّرات ميسان",
-      "url": "https://964media.com/716050/",
-      "category": "محليات",
-      "region": "ميسان",
-      "published": "2026-09-12T06:03:08+00:00",
-      "image": "./assets/news/13f73c3541f841315076f1af.jpg",
-      "original_image": "./assets/news/13f73c3541f841315076f1af.jpg",
-      "source_url": "https://964media.com/716050/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "ميسان",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c78a3b4f8241.html"
-    },
-    {
       "title": "زلزال بقوة 6.2 درجة يضرب جزيرة جاوة في إندونيسيا",
       "url": "https://www.alsumaria.tv/news/international/575774/%D8%B2%D9%84%D8%B2%D8%A7%D9%84-%D8%A8%D9%82%D9%88%D8%A9-62-%D8%AF%D8%B1%D8%AC%D8%A9-%D9%8A%D8%B6%D8%B1%D8%A8-%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D8%AC%D8%A7%D9%88%D8%A9-%D9%81%D9%8A-%D8%A5%D9%86%D8%AF%D9%88%D9%86%D9%8A%D8%B3%D9%8A%D8%A7",
       "category": "محليات",
@@ -448,22 +464,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bbf659f6d4a3.html"
-    },
-    {
-      "title": "انفراجات كبرى وأيام حظ متساوية.. ماذا تخفي خريطة الفلك لجميع الأبراج هذا الأسبوع؟",
-      "url": "https://www.alsumaria.tv/news/horoscopenews/575654/%D8%A7%D9%86%D9%81%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA-%D9%83%D8%A8%D8%B1%D9%89-%D9%88%D8%A3%D9%8A%D8%A7%D9%85-%D8%AD%D8%B8-%D9%85%D8%AA%D8%B3%D8%A7%D9%88%D9%8A%D8%A9-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%AE%D9%81%D9%8A-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D9%83-%D9%84%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D8%A3%D8%A8%D8%B1%D8%A7%D8%AC-%D9%87%D8%B0%D8%A7",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-12T05:00:00+00:00",
-      "image": "./assets/news/a18cdb7ba66c38d8f89d60b8.jpg",
-      "original_image": "./assets/news/a18cdb7ba66c38d8f89d60b8.jpg",
-      "source_url": "https://www.alsumaria.tv/news/horoscopenews/575654/%D8%A7%D9%86%D9%81%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA-%D9%83%D8%A8%D8%B1%D9%89-%D9%88%D8%A3%D9%8A%D8%A7%D9%85-%D8%AD%D8%B8-%D9%85%D8%AA%D8%B3%D8%A7%D9%88%D9%8A%D8%A9-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%AE%D9%81%D9%8A-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D9%83-%D9%84%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D8%A3%D8%A8%D8%B1%D8%A7%D8%AC-%D9%87%D8%B0%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0df362fa873b.html"
     },
     {
       "title": "العالم قد يكون أمام المزيد من رفع أسعار الفائدة للسيطرة على التضخم - شفق نيوز..",
@@ -550,7 +550,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T09:35:29.314175+00:00",
+      "published": "2026-09-12T09:47:18.848136+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -560,7 +560,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8cf61853b42f.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c9961c72e86f.html"
     }
   ]
 }
