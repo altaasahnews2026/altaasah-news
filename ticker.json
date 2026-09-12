@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T17:35:12.271193+00:00",
+  "updated_at": "2026-09-12T17:46:16.965767+00:00",
   "latest": [
     {
       "title": "المقاومة الإسلامية: استهداف السعودية “شرف لا ندعيه” ونستغرب تسرع بغداد",
@@ -100,16 +100,6 @@
       ]
     },
     {
-      "title": "العراق يوافق على طلب إيران للتحقيق بشأن منصات إطلاق المسيرات قرب الحدود",
-      "url": "https://964media.com/716242/",
-      "category": "عراق",
-      "published": "2026-09-12T13:01:25+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "ترامب يثير الجدل بتصريحاته في دبلن: \"أود أن أرى أيرلندا موحدة\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c624eg2qxp3o",
       "category": "عراق",
@@ -173,7 +163,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-12T17:35:08.860928+00:00",
+      "published": "2026-09-12T17:46:13.646206+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -254,6 +244,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cpwlvzrxvvqo",
       "category": "عراق",
       "published": "2026-09-12T15:40:24+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "حركة ماك \"الانفصالية\": ماذا نعرف عنها، وعن منطقة القبائل في الجزائر؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c62kzpe4we5o",
+      "category": "عراق",
+      "published": "2026-09-12T15:52:09+00:00",
       "breaking": false,
       "watch_topics": []
     },
