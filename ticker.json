@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T07:42:26.253906+00:00",
+  "updated_at": "2026-09-12T07:54:17.953322+00:00",
   "latest": [
     {
       "title": "العراق يدين الهجمات على السعودية: لن تكون اراضينا منطلق لاستهداف الدول",
@@ -16,16 +16,6 @@
       "url": "https://964media.com/716041/",
       "category": "عراق",
       "published": "2026-09-11T21:49:02+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "السعودية تعلن تعرضها لهجوم بالمسيرات من العراق: لن نرد هذه المرة استجابة للزيدي",
-      "url": "https://964media.com/716027/",
-      "category": "عراق",
-      "published": "2026-09-11T20:15:11+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"
@@ -138,7 +128,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-12T07:42:20.413929+00:00",
+      "published": "2026-09-12T07:54:12.253088+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -155,14 +145,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cx2zr3zp85ro",
       "category": "عراق",
       "published": "2026-09-11T16:32:11+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ياسر المالكي للمهتمين بالشأن السياسي والإعلامي والثقافي: لنكون على مستوى المسؤولية",
-      "url": "https://www.alsumaria.tv/news/politics/575763/%D9%8A%D8%A7%D8%B3%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A-%D9%84%D9%84%D9%85%D9%87%D8%AA%D9%85%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D9%88%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A-%D9%88%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A-%D9%84%D9%86%D9%83%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88",
-      "category": "عراق",
-      "published": "2026-09-11T19:05:04+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -243,6 +225,22 @@
       "url": "https://www.alsumaria.tv/news/international/575773/%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D8%A5%D9%8A%D8%A8%D9%88%D9%84%D8%A7-%D9%8A%D8%B5%D9%84-%D8%A5%D9%84%D9%89-%D8%B3%D8%A7%D8%A8%D8%B9-%D8%A5%D9%82%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D9%88",
       "category": "عراق",
       "published": "2026-09-12T05:24:57+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "أسعار الفنادق في دلهي تشتعل مع انعقاد قمة بريكس",
+      "url": "https://www.alsumaria.tv/news/international/575776/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D9%86%D8%A7%D8%AF%D9%82-%D9%81%D9%8A-%D8%AF%D9%84%D9%87%D9%8A-%D8%AA%D8%B4%D8%AA%D8%B9%D9%84-%D9%85%D8%B9-%D8%A7%D9%86%D8%B9%D9%82%D8%A7%D8%AF-%D9%82%D9%85%D8%A9-%D8%A8%D8%B1%D9%8A%D9%83%D8%B3",
+      "category": "عراق",
+      "published": "2026-09-12T06:21:36+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "بالفيديو.. عراقيون عالقون في منفذي الشيب والشلامجة",
+      "url": "https://www.alsumaria.tv/news/trends-alsumaria/575777/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%88%D9%86-%D8%B9%D8%A7%D9%84%D9%82%D9%88%D9%86-%D9%81%D9%8A-%D9%85%D9%86%D9%81%D8%B0%D9%8A-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8-%D9%88%D8%A7%D9%84%D8%B4%D9%84%D8%A7%D9%85%D8%AC%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-12T06:30:10+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -657,16 +655,6 @@
       "url": "https://964media.com/716041/",
       "category": "عراق",
       "published": "2026-09-11T21:49:02+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "السعودية تعلن تعرضها لهجوم بالمسيرات من العراق: لن نرد هذه المرة استجابة للزيدي",
-      "url": "https://964media.com/716027/",
-      "category": "عراق",
-      "published": "2026-09-11T20:15:11+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"
