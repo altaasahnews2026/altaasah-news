@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T12:50:40.616284+00:00",
+  "updated_at": "2026-09-12T13:02:06.957399+00:00",
   "latest": [
     {
       "title": "ترامب عن استهداف خط أنابيب النفط السعودي: إيران مسؤولة عن الهجوم",
@@ -90,7 +90,7 @@
       "title": "السعودية تطلب مساعدة أمريكية للقتال في اليمن، وترامب يقول إن الحوثيين طلبوا من بلاده \"عدم التدخل\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/czjzp3gvdwno",
       "category": "عراق",
-      "published": "2026-09-12T12:17:40+00:00",
+      "published": "2026-09-12T12:50:10+00:00",
       "breaking": false,
       "watch_topics": [
         "السعودية",
@@ -108,6 +108,16 @@
       ]
     },
     {
+      "title": "الزيدي يوافق على طلب ايراني للتحقيق المشترك بشأن منصات المسيرات قرب الحدود",
+      "url": "https://www.alsumaria.tv/news/security/575805/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%89-%D8%B7%D9%84%D8%A8-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84",
+      "category": "عراق",
+      "published": "2026-09-12T12:48:25+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "رئيس الجمهورية: العراق يرفض استخدام أراضيه وأجوائه للاعتداء على السعودية",
       "url": "https://964media.com/716218/",
       "category": "عراق",
@@ -118,20 +128,10 @@
       ]
     },
     {
-      "title": "الزيدي يوافق على طلب ايراني للتحقيق المشترك بشأن \"منصات المسيرات\" قرب الحدود",
-      "url": "https://www.alsumaria.tv/news/security/575805/%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d9%8a%d9%88%d8%a7%d9%81%d9%82-%d8%b9%d9%84%d9%89-%d8%b7%d9%84%d8%a8-%d8%a7%d9%8a%d8%b1%d8%a7%d9%86%d9%8a-%d9%84%d9%84%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83-%d8%a8%d8%b4%d8%a3%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-      "category": "عراق",
-      "published": "Sat, 12 Sep 2026 12:48:25 GMT",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-12T12:50:32.624356+00:00",
+      "published": "2026-09-12T13:02:02.869531+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -140,14 +140,6 @@
       "url": "https://964media.com/715936/",
       "category": "عراق",
       "published": "2026-09-11T13:08:12+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ارتفاع جديد.. الدولار يقترب من الـ157 الفا",
-      "url": "https://www.alsumaria.tv/news/economy/575785/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D9%80157-%D8%A7%D9%84%D9%81%D8%A7",
-      "category": "عراق",
-      "published": "2026-09-12T08:08:52+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -244,6 +236,14 @@
       "url": "https://964media.com/716079/",
       "category": "عراق",
       "published": "2026-09-12T10:44:07+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "العالم قد يكون أمام المزيد من رفع أسعار الفائدة للسيطرة على التضخم - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c39mrmymv7lo",
+      "category": "عراق",
+      "published": "2026-09-12T10:52:06+00:00",
       "breaking": false,
       "watch_topics": []
     },
