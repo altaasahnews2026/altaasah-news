@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-09-12T15:22:00.092703+00:00",
+  "updated_at": "2026-09-12T15:34:15.425585+00:00",
   "latest": [
-    {
-      "title": "ترامب عن استهداف خط أنابيب النفط السعودي: إيران مسؤولة عن الهجوم",
-      "url": "https://www.alsumaria.tv/news/international/575794/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B9%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%AE%D8%B7-%D8%A3%D9%86%D8%A7%D8%A8%D9%8A%D8%A8-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D8%A9-%D8%B9%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85",
-      "category": "عراق",
-      "published": "2026-09-12T09:49:16+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
-    },
     {
       "title": "المقاومة الإسلامية: استهداف السعودية “شرف لا ندعيه” ونستغرب تسرع بغداد",
       "url": "https://964media.com/716136/",
@@ -33,6 +22,16 @@
       ]
     },
     {
+      "title": "مجدداً.. إغلاق منفذ الشيب الحدودي مع ايران",
+      "url": "https://www.alsumaria.tv/news/localnews/575815/%D9%85%D8%AC%D8%AF%D8%AF%D8%A7%D9%8B-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A-%D9%85%D8%B9-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86",
+      "category": "عراق",
+      "published": "2026-09-12T15:21:16+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "الزيدي يعزل قائد شرطة ميسان وينقل مديري الأجهزة الأمنية للإمرة بعد هجوم السعودية",
       "url": "https://964media.com/716149/",
       "category": "عراق",
@@ -50,16 +49,6 @@
       "breaking": true,
       "watch_topics": [
         "السعودية"
-      ]
-    },
-    {
-      "title": "مجدداً.. إغلاق منفذ الشيب الحدودي مع ايران",
-      "url": "https://www.alsumaria.tv/news/localnews/575815/%d9%85%d8%ac%d8%af%d8%af%d8%a7%d9%8b-%d8%a5%d8%ba%d9%84%d8%a7%d9%82-%d9%85%d9%86%d9%81%d8%b0-%d8%a7%d9%84%d8%b4%d9%8a%d8%a8-%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af%d9%8a-%d9%85%d8%b9-%d8%a7%d9%8a%d8%b1%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-      "category": "عراق",
-      "published": "Sat, 12 Sep 2026 15:21:16 GMT",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
       ]
     },
     {
@@ -156,7 +145,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-12T15:21:53.725460+00:00",
+      "published": "2026-09-12T15:34:12.741479+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -253,6 +242,14 @@
       "url": "https://964media.com/716219/",
       "category": "عراق",
       "published": "2026-09-12T12:09:39+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الأنبار تعيد نظام الفردي والزوجي لتجهيز السيارات بالبنزين",
+      "url": "https://964media.com/716210/",
+      "category": "عراق",
+      "published": "2026-09-12T12:33:16+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -663,17 +660,6 @@
   ],
   "breaking": [
     {
-      "title": "ترامب عن استهداف خط أنابيب النفط السعودي: إيران مسؤولة عن الهجوم",
-      "url": "https://www.alsumaria.tv/news/international/575794/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B9%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%AE%D8%B7-%D8%A3%D9%86%D8%A7%D8%A8%D9%8A%D8%A8-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D8%A9-%D8%B9%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85",
-      "category": "عراق",
-      "published": "2026-09-12T09:49:16+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
-    },
-    {
       "title": "المقاومة الإسلامية: استهداف السعودية “شرف لا ندعيه” ونستغرب تسرع بغداد",
       "url": "https://964media.com/716136/",
       "category": "عراق",
@@ -694,6 +680,16 @@
       ]
     },
     {
+      "title": "مجدداً.. إغلاق منفذ الشيب الحدودي مع ايران",
+      "url": "https://www.alsumaria.tv/news/localnews/575815/%D9%85%D8%AC%D8%AF%D8%AF%D8%A7%D9%8B-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A-%D9%85%D8%B9-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86",
+      "category": "عراق",
+      "published": "2026-09-12T15:21:16+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "الزيدي يعزل قائد شرطة ميسان وينقل مديري الأجهزة الأمنية للإمرة بعد هجوم السعودية",
       "url": "https://964media.com/716149/",
       "category": "عراق",
@@ -711,16 +707,6 @@
       "breaking": true,
       "watch_topics": [
         "السعودية"
-      ]
-    },
-    {
-      "title": "مجدداً.. إغلاق منفذ الشيب الحدودي مع ايران",
-      "url": "https://www.alsumaria.tv/news/localnews/575815/%d9%85%d8%ac%d8%af%d8%af%d8%a7%d9%8b-%d8%a5%d8%ba%d9%84%d8%a7%d9%82-%d9%85%d9%86%d9%81%d8%b0-%d8%a7%d9%84%d8%b4%d9%8a%d8%a8-%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af%d9%8a-%d9%85%d8%b9-%d8%a7%d9%8a%d8%b1%d8%a7%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-      "category": "عراق",
-      "published": "Sat, 12 Sep 2026 15:21:16 GMT",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
       ]
     },
     {
