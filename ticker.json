@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T20:48:23.930207+00:00",
+  "updated_at": "2026-09-12T21:00:31.548643+00:00",
   "latest": [
     {
       "title": "المقاومة الإسلامية: استهداف السعودية “شرف لا ندعيه” ونستغرب تسرع بغداد",
@@ -9,16 +9,6 @@
       "breaking": true,
       "watch_topics": [
         "السعودية"
-      ]
-    },
-    {
-      "title": "تمديد إغلاق الشلامجة ساعة لمغادرة إيرانيين.. وسوريون عالقون يطالبون بحل",
-      "url": "https://www.alsumaria.tv/news/localnews/575817/%D8%AA%D9%85%D8%AF%D9%8A%D8%AF-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B4%D9%84%D8%A7%D9%85%D8%AC%D8%A9-%D8%B3%D8%A7%D8%B9%D8%A9-%D9%84%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D9%8A%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D8%B9%D8%A7%D9%84%D9%82%D9%88%D9%86-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8%D9%88%D9%86-%D8%A8%D8%AD%D9%84",
-      "category": "عراق",
-      "published": "2026-09-12T15:40:52+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
       ]
     },
     {
@@ -168,7 +158,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-12T20:48:20.246699+00:00",
+      "published": "2026-09-12T21:00:24.766537+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -249,6 +239,14 @@
       "url": "https://www.alsumaria.tv/news/international/575825/160-%D8%A3%D9%84%D9%81-%D8%B7%D9%81%D9%84-%D9%8A%D8%AA%D8%B9%D8%B1%D8%B6%D9%88%D9%86-%D9%84%D9%84%D8%B9%D9%86%D9%81-%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A-%D8%B3%D9%86%D9%88%D9%8A%D8%A7%D9%8B-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%8A%D8%AA%D8%AD%D8%B1%D9%83-%D8%A8%D9%82%D8%A7%D9%86%D9%88%D9%86",
       "category": "عراق",
       "published": "2026-09-12T17:12:11+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "غارات إسرائيلية تستهدف جنوبي لبنان",
+      "url": "https://www.alsumaria.tv/news/international/575826/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+      "category": "عراق",
+      "published": "2026-09-12T17:12:42+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -593,6 +591,14 @@
       ]
     },
     {
+      "title": "كييف تستعد لاستئناف المحادثات الثلاثية في أكتوبر",
+      "url": "https://aawsat.com/node/5317589",
+      "category": "دولي",
+      "published": "Sat, 12 Sep 2026 21:57:37 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "عشرات الآلاف يتظاهرون ضد اليمين المتطرف في ألمانيا",
       "url": "https://aawsat.com/node/5317579",
       "category": "دولي",
@@ -647,14 +653,6 @@
       "published": "Sat, 12 Sep 2026 09:47:04 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "بوتين: نشر قوات أوروبية في أوكرانيا «يعني حرباً ضد روسيا»",
-      "url": "https://aawsat.com/node/5317306",
-      "category": "دولي",
-      "published": "Fri, 11 Sep 2026 21:50:23 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -666,16 +664,6 @@
       "breaking": true,
       "watch_topics": [
         "السعودية"
-      ]
-    },
-    {
-      "title": "تمديد إغلاق الشلامجة ساعة لمغادرة إيرانيين.. وسوريون عالقون يطالبون بحل",
-      "url": "https://www.alsumaria.tv/news/localnews/575817/%D8%AA%D9%85%D8%AF%D9%8A%D8%AF-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B4%D9%84%D8%A7%D9%85%D8%AC%D8%A9-%D8%B3%D8%A7%D8%B9%D8%A9-%D9%84%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D9%8A%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D8%B9%D8%A7%D9%84%D9%82%D9%88%D9%86-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8%D9%88%D9%86-%D8%A8%D8%AD%D9%84",
-      "category": "عراق",
-      "published": "2026-09-12T15:40:52+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
       ]
     },
     {
