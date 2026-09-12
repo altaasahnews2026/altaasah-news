@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T03:57:24.498258+00:00",
+  "updated_at": "2026-09-12T04:13:14.922864+00:00",
   "latest": [
     {
       "title": "العراق يدين الهجمات على السعودية: لن تكون اراضينا منطلق لاستهداف الدول",
@@ -99,7 +99,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-12T03:57:19.499296+00:00",
+      "published": "2026-09-12T04:13:09.893113+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -261,6 +261,14 @@
       ]
     },
     {
+      "title": "إدانات واسعة لاستهداف خط «شرق - غرب» بمسيّرات قادمة من العراق",
+      "url": "https://aawsat.com/node/5317354",
+      "category": "مشرق أوسط",
+      "published": "Sat, 12 Sep 2026 05:02:27 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "التحالف يتوعد الحوثيين غداة استهداف مدن سعودية",
       "url": "https://aawsat.com/node/5316232",
       "category": "مشرق أوسط",
@@ -387,16 +395,6 @@
       "url": "https://aawsat.com/node/5316189",
       "category": "مشرق أوسط",
       "published": "Tue, 08 Sep 2026 21:47:54 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "السعودية وروسيا تؤكدان أهمية دعم الحلول الدبلوماسية للتحديات الإقليمية والدولية",
-      "url": "https://aawsat.com/node/5316113",
-      "category": "مشرق أوسط",
-      "published": "Tue, 08 Sep 2026 17:54:05 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
@@ -707,6 +705,14 @@
       "watch_topics": [
         "السعودية"
       ]
+    },
+    {
+      "title": "إدانات واسعة لاستهداف خط «شرق - غرب» بمسيّرات قادمة من العراق",
+      "url": "https://aawsat.com/node/5317354",
+      "category": "مشرق أوسط",
+      "published": "Sat, 12 Sep 2026 05:02:27 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "التحالف يتوعد الحوثيين غداة استهداف مدن سعودية",
