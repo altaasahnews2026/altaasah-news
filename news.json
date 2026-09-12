@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T10:54:20.247629+00:00",
+  "updated_at": "2026-09-12T11:06:34.238593+00:00",
   "items": [
     {
       "title": "الزيدي يعزل قائد شرطة ميسان وينقل مديري الأجهزة الأمنية للإمرة بعد هجوم السعودية",
@@ -55,8 +55,8 @@
       "category": "أمن",
       "region": "نينوى",
       "published": "2026-09-12T08:57:48+00:00",
-      "image": "./assets/news/f4f4e543a3ea972f9af3d4ad.jpg",
-      "original_image": "./assets/news/f4f4e543a3ea972f9af3d4ad.jpg",
+      "image": "./assets/news/d72f54ad63aeb38f3c2d794b.jpg",
+      "original_image": "./assets/news/d72f54ad63aeb38f3c2d794b.jpg",
       "source_url": "https://www.alsumaria.tv/news/trends-alsumaria/575790/%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AE%D8%B2%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -82,6 +82,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2ee497eab06b.html"
     },
     {
+      "title": "فيديو: شباب بابل يتجمعون أسبوعياً على الكورنيش لسحب الأقران من المقاهي للرياضة",
+      "url": "https://964media.com/716079/",
+      "category": "رياضة",
+      "region": "بابل",
+      "published": "2026-09-12T10:44:07+00:00",
+      "image": "./assets/news/47192aba1b9f850cf074098b.jpg",
+      "original_image": "./assets/news/47192aba1b9f850cf074098b.jpg",
+      "source_url": "https://964media.com/716079/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بابل",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1d641a0fe47a.html"
+    },
+    {
       "title": "إقليم كردستان يدعم تحقيقات بغداد لكشف المتورطين بمسيّرات ميسان",
       "url": "https://964media.com/716173/",
       "category": "محليات",
@@ -103,8 +119,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-12T10:36:13+00:00",
-      "image": "./assets/news/d85a6e9bde0d1107c9edaed7.jpg",
-      "original_image": "./assets/news/d85a6e9bde0d1107c9edaed7.jpg",
+      "image": "./assets/news/3fdb56a97ea0f26d46357718.jpg",
+      "original_image": "./assets/news/3fdb56a97ea0f26d46357718.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/575797/%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D9%8A%D8%A9-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D8%AF%D8%A7%D8%AB-%D9%85%D9%86%D8%A7%D8%B5%D8%A8-%D9%84%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D8%AD%D8%B2%D8%A8",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -534,7 +550,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T10:54:20.463407+00:00",
+      "published": "2026-09-12T11:06:34.456198+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -544,7 +560,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/24fc54ed519c.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/955e860b5ab6.html"
     }
   ]
 }
