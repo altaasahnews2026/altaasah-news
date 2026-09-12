@@ -1,14 +1,30 @@
 {
-  "updated_at": "2026-09-12T09:20:55.103090+00:00",
+  "updated_at": "2026-09-12T09:32:41.556621+00:00",
   "items": [
+    {
+      "title": "الكويت تقف مع السعودية وتطالب العراق بوقف استخدام أراضيه للاعتداءات",
+      "url": "https://964media.com/716126/",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-12T09:15:10+00:00",
+      "image": "./assets/news/5330f1fd7ac7a8dfdc736baa.jpg",
+      "original_image": "./assets/news/5330f1fd7ac7a8dfdc736baa.jpg",
+      "source_url": "https://964media.com/716126/",
+      "source_name": "شبكة 964",
+      "breaking": true,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7659d3ecaa36.html"
+    },
     {
       "title": "صباح اليوم.. انفجار خزان في الموصل (فيديو)",
       "url": "https://www.alsumaria.tv/news/trends-alsumaria/575790/%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AE%D8%B2%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
       "category": "أمن",
       "region": "نينوى",
       "published": "2026-09-12T08:57:48+00:00",
-      "image": "./assets/news/f4f4e543a3ea972f9af3d4ad.jpg",
-      "original_image": "./assets/news/f4f4e543a3ea972f9af3d4ad.jpg",
+      "image": "./assets/news/d72f54ad63aeb38f3c2d794b.jpg",
+      "original_image": "./assets/news/d72f54ad63aeb38f3c2d794b.jpg",
       "source_url": "https://www.alsumaria.tv/news/trends-alsumaria/575790/%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AE%D8%B2%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -23,8 +39,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-12T08:46:32+00:00",
-      "image": "./assets/news/b08c76f21ce841da11036d0b.jpg",
-      "original_image": "./assets/news/b08c76f21ce841da11036d0b.jpg",
+      "image": "./assets/news/073ed8fb48c692a4271424b0.jpg",
+      "original_image": "./assets/news/073ed8fb48c692a4271424b0.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/575789/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%8A%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D8%B4%D8%AF%D8%AF-%D8%B9%D9%84%D9%89-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -32,22 +48,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2ee497eab06b.html"
-    },
-    {
-      "title": "السعودية توقف خط النفط بين الشرق والغرب بعد هجوم بمسيّرات قادمة من العراق",
-      "url": "https://964media.com/716049/",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-12T05:50:15+00:00",
-      "image": "./assets/news/033a89c08579b5a4f1f334e5.jpg",
-      "original_image": "./assets/news/033a89c08579b5a4f1f334e5.jpg",
-      "source_url": "https://964media.com/716049/",
-      "source_name": "شبكة 964",
-      "breaking": true,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/40714322b475.html"
     },
     {
       "title": "السعودية تطلب مساعدة أمريكية لقتال الحوثيين، وتوقف \"احترازياً\" خط أنابيب شرق-غرب النفطي - شفق نيوز..",
@@ -71,8 +71,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-12T09:04:17+00:00",
-      "image": "./assets/news/352ca3e95c205e326e9f109e.jpg",
-      "original_image": "./assets/news/352ca3e95c205e326e9f109e.jpg",
+      "image": "./assets/news/e6747b1656bda166f18198b9.jpg",
+      "original_image": "./assets/news/e6747b1656bda166f18198b9.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/575791/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7-%D9%8A%D8%AE%D8%B5-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -119,8 +119,8 @@
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-12T08:36:14+00:00",
-      "image": "./assets/news/ea093b1dfbbd708d9308483b.jpg",
-      "original_image": "./assets/news/ea093b1dfbbd708d9308483b.jpg",
+      "image": "./assets/news/5c2043e248db888c036009a5.jpg",
+      "original_image": "./assets/news/5c2043e248db888c036009a5.jpg",
       "source_url": "https://www.alsumaria.tv/news/economy/575787/%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A7%D9%82%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%84%D9%84%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -550,7 +550,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T09:20:55.310629+00:00",
+      "published": "2026-09-12T09:32:41.774916+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -560,7 +560,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a7cd89bd1a1f.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0d2bae49d391.html"
     }
   ]
 }
