@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T14:11:19.691635+00:00",
+  "updated_at": "2026-09-12T14:26:59.561232+00:00",
   "items": [
     {
       "title": "رئيس الجمهورية: العراق يرفض استخدام أراضيه وأجوائه للاعتداء على السعودية",
@@ -66,20 +66,52 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f9f6eea59692.html"
     },
     {
-      "title": "رئيس البرلمان يدين الهجوم على السعودية ويشدد على ضرورة حصر السلاح",
-      "url": "https://www.alsumaria.tv/news/politics/575789/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%8A%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D8%B4%D8%AF%D8%AF-%D8%B9%D9%84%D9%89-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-12T08:46:32+00:00",
-      "image": "./assets/news/073ed8fb48c692a4271424b0.jpg",
-      "original_image": "./assets/news/073ed8fb48c692a4271424b0.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/575789/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%8A%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D8%B4%D8%AF%D8%AF-%D8%B9%D9%84%D9%89-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD",
+      "title": "400 مليون دينار و4 متهمين.. النزاهة تضبط لجنة تصليح آليات في بابل",
+      "url": "https://www.alsumaria.tv/news/localnews/575809/400-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%884-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%84%D8%AC%D9%86%D8%A9-%D8%AA%D8%B5%D9%84%D9%8A%D8%AD-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A8%D8%A7%D8%A8%D9%84",
+      "category": "محليات",
+      "region": "بابل",
+      "published": "2026-09-12T14:17:08+00:00",
+      "image": "./assets/news/a2a155ebde662ea241b8ce96.jpg",
+      "original_image": "./assets/news/a2a155ebde662ea241b8ce96.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/575809/400-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%884-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%84%D8%AC%D9%86%D8%A9-%D8%AA%D8%B5%D9%84%D9%8A%D8%AD-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A8%D8%A7%D8%A8%D9%84",
       "source_name": "السومرية نيوز",
-      "breaking": true,
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بابل",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f12784ef373e.html"
+    },
+    {
+      "title": "استخدام مواد كيميائية.. إيران تتهم واشنطن بارتكاب جريمة حرب في لامرد",
+      "url": "https://www.alsumaria.tv/news/international/575810/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D9%85%D9%88%D8%A7%D8%AF-%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AA%D9%87%D9%85-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A8%D8%A7%D8%B1%D8%AA%D9%83%D8%A7%D8%A8-%D8%AC%D8%B1%D9%8A%D9%85%D8%A9-%D8%AD%D8%B1%D8%A8-%D9%81%D9%8A-%D9%84%D8%A7%D9%85%D8%B1%D8%AF",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-12T14:15:26+00:00",
+      "image": "./assets/news/f678f30ee71993cc78cc0474.webp",
+      "original_image": "./assets/news/f678f30ee71993cc78cc0474.webp",
+      "source_url": "https://www.alsumaria.tv/news/international/575810/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D9%85%D9%88%D8%A7%D8%AF-%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AA%D9%87%D9%85-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A8%D8%A7%D8%B1%D8%AA%D9%83%D8%A7%D8%A8-%D8%AC%D8%B1%D9%8A%D9%85%D8%A9-%D8%AD%D8%B1%D8%A8-%D9%81%D9%8A-%D9%84%D8%A7%D9%85%D8%B1%D8%AF",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
       "kirkuk": false,
       "report": false,
       "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2ee497eab06b.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4bf37742498c.html"
+    },
+    {
+      "title": "العراق يعثر على مواقع إطلاق المسيرات في ميسان",
+      "url": "https://964media.com/716257/",
+      "category": "محليات",
+      "region": "ميسان",
+      "published": "2026-09-12T14:03:05+00:00",
+      "image": "./assets/news/88ed0033db3d05115e923ad8.jpg",
+      "original_image": "./assets/news/88ed0033db3d05115e923ad8.jpg",
+      "source_url": "https://964media.com/716257/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "ميسان",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6e1390ab13d5.html"
     },
     {
       "title": "البحرين ترفض اجتماعاً مع إيران بشأن مضيق هرمز",
@@ -87,8 +119,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-12T14:01:13+00:00",
-      "image": "./assets/news/aa0ecc1a2e717fb91890aa3a.jpg",
-      "original_image": "./assets/news/aa0ecc1a2e717fb91890aa3a.jpg",
+      "image": "./assets/news/a7f4b16a499bfd83e9f7792d.jpg",
+      "original_image": "./assets/news/a7f4b16a499bfd83e9f7792d.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/575808/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%B1%D9%81%D8%B6-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7%D9%8B-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -370,22 +402,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1d641a0fe47a.html"
     },
     {
-      "title": "إقليم كردستان يدعم تحقيقات بغداد لكشف المتورطين بمسيّرات ميسان",
-      "url": "https://964media.com/716173/",
-      "category": "محليات",
-      "region": "بغداد",
-      "published": "2026-09-12T10:39:10+00:00",
-      "image": "./assets/news/c6a339ebcb7f02e23a5c4b7f.jpg",
-      "original_image": "./assets/news/c6a339ebcb7f02e23a5c4b7f.jpg",
-      "source_url": "https://964media.com/716173/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": true,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b7e063ad7265.html"
-    },
-    {
       "title": "تصريح برلماني بشأن الكابينة الوزارية: محاولات لاستحداث مناصب لمصالح حزبية وشخصية",
       "url": "https://www.alsumaria.tv/news/politics/575797/%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D9%8A%D8%A9-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D8%AF%D8%A7%D8%AB-%D9%85%D9%86%D8%A7%D8%B5%D8%A8-%D9%84%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D8%AD%D8%B2%D8%A8",
       "category": "سياسة",
@@ -530,22 +546,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c81d8a3e8999.html"
     },
     {
-      "title": "العراق ينفذ عملية امنية في عمق البحر بمياه الخليج العربي",
-      "url": "https://www.alsumaria.tv/news/security/575788/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%86%D9%81%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B9%D9%85%D9%82-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A8%D9%85%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-12T08:39:48+00:00",
-      "image": "./assets/news/381b32fdc0028a37f1deb53b.jpg",
-      "original_image": "./assets/news/381b32fdc0028a37f1deb53b.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/575788/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%86%D9%81%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B9%D9%85%D9%82-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A8%D9%85%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d2e43a749e31.html"
-    },
-    {
       "title": "العراق ينفي توقيف فرقة “كايروكي” المصرية: مجرد استفسار حول صورة صدام حسين",
       "url": "https://964media.com/715936/",
       "category": "عربي ودولي",
@@ -566,7 +566,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T14:11:20.256615+00:00",
+      "published": "2026-09-12T14:26:59.774670+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -576,7 +576,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d717d1ac2d2a.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/554bd1b4bb57.html"
     }
   ]
 }
