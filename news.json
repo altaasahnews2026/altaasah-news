@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T06:59:22.888798+00:00",
+  "updated_at": "2026-09-12T07:15:09.240772+00:00",
   "items": [
     {
       "title": "السعودية توقف خط النفط بين الشرق والغرب بعد هجوم بمسيّرات قادمة من العراق",
@@ -82,13 +82,45 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/58961292f616.html"
     },
     {
+      "title": "مخاطر خفية لوصلات الرموش على صحة العين",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/575780/%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%AE%D9%81%D9%8A%D8%A9-%D9%84%D9%88%D8%B5%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%85%D9%88%D8%B4-%D8%B9%D9%84%D9%89-%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D9%8A%D9%86",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-12T07:10:49+00:00",
+      "image": "./assets/news/d8bd4744575138cff9759643.jpg",
+      "original_image": "./assets/news/d8bd4744575138cff9759643.jpg",
+      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575780/%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%AE%D9%81%D9%8A%D8%A9-%D9%84%D9%88%D8%B5%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%85%D9%88%D8%B4-%D8%B9%D9%84%D9%89-%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D9%8A%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/24de98c3337e.html"
+    },
+    {
+      "title": "بيان رسمي بشأن اغلاق عدد من المنافذ الحدودية",
+      "url": "https://www.alsumaria.tv/news/localnews/575779/%D8%A8%D9%8A%D8%A7%D9%86-%D8%B1%D8%B3%D9%85%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D8%BA%D9%84%D8%A7%D9%82-%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A%D8%A9",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-12T06:57:42+00:00",
+      "image": "./assets/news/37c0b2ffcf8a62362ace9ab7.jpg",
+      "original_image": "./assets/news/37c0b2ffcf8a62362ace9ab7.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/575779/%D8%A8%D9%8A%D8%A7%D9%86-%D8%B1%D8%B3%D9%85%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D8%BA%D9%84%D8%A7%D9%82-%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bd05463cfc39.html"
+    },
+    {
       "title": "أمطار غدا في مناطق عراقية",
       "url": "https://www.alsumaria.tv/news/localnews/575778/%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%BA%D8%AF%D8%A7-%D9%81%D9%8A-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-12T06:47:45+00:00",
-      "image": "./assets/news/ea60dbb5849bf0f126c347bf.jpg",
-      "original_image": "./assets/news/ea60dbb5849bf0f126c347bf.jpg",
+      "image": "./assets/news/15da7f4f2d5b9ba9df69dfcb.jpg",
+      "original_image": "./assets/news/15da7f4f2d5b9ba9df69dfcb.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/575778/%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D8%BA%D8%AF%D8%A7-%D9%81%D9%8A-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -482,38 +514,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b5cd83a06ac6.html"
     },
     {
-      "title": "لبحث عدة ملفات وتوقيع مذكرات تفاهم.. الزيدي يزور فرنسا الاحد المقبل",
-      "url": "https://www.alsumaria.tv/news/politics/575761/%D9%84%D8%A8%D8%AD%D8%AB-%D8%B9%D8%AF%D8%A9-%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B2%D9%88%D8%B1-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%A7%D9%84%D8%A7%D8%AD%D8%AF-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-11T18:10:33+00:00",
-      "image": "./assets/news/ae7f55f03ed17e294e16ffcc.jpg",
-      "original_image": "./assets/news/ae7f55f03ed17e294e16ffcc.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/575761/%D9%84%D8%A8%D8%AD%D8%AB-%D8%B9%D8%AF%D8%A9-%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B2%D9%88%D8%B1-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%A7%D9%84%D8%A7%D8%AD%D8%AF-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": true,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/44524491e6df.html"
-    },
-    {
-      "title": "تطوير علاج جيني لالتهاب الكبد الوبائي",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/575760/%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%B9%D9%84%D8%A7%D8%AC-%D8%AC%D9%8A%D9%86%D9%8A-%D9%84%D8%A7%D9%84%D8%AA%D9%87%D8%A7%D8%A8-%D8%A7%D9%84%D9%83%D8%A8%D8%AF-%D8%A7%D9%84%D9%88%D8%A8%D8%A7%D8%A6%D9%8A",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-11T18:04:39+00:00",
-      "image": "./assets/news/ba3732e6086757ffb5e8dc26.jpg",
-      "original_image": "./assets/news/ba3732e6086757ffb5e8dc26.jpg",
-      "source_url": "https://www.alsumaria.tv/news/miscellaneous/575760/%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%B9%D9%84%D8%A7%D8%AC-%D8%AC%D9%8A%D9%86%D9%8A-%D9%84%D8%A7%D9%84%D8%AA%D9%87%D8%A7%D8%A8-%D8%A7%D9%84%D9%83%D8%A8%D8%AF-%D8%A7%D9%84%D9%88%D8%A8%D8%A7%D8%A6%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3f7e40783763.html"
-    },
-    {
       "title": "جواسيس واستراتيجيات وفرص ضائعة: ما الدروس المستفادة حتى اليوم من هجمات 11 سبتمبر؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cx2zr3zp85ro",
       "category": "محليات",
@@ -550,7 +550,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T06:59:23.097386+00:00",
+      "published": "2026-09-12T07:15:09.462710+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -560,7 +560,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7613c374419a.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4fd97380a17f.html"
     }
   ]
 }
