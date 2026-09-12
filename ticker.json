@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T23:53:25.286917+00:00",
+  "updated_at": "2026-09-12T00:05:52.456509+00:00",
   "latest": [
     {
       "title": "العراق يدين الهجمات على السعودية: لن تكون اراضينا منطلق لاستهداف الدول",
@@ -119,7 +119,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-11T23:53:19.633543+00:00",
+      "published": "2026-09-12T00:05:46.067794+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -463,16 +463,6 @@
       "watch_topics": []
     },
     {
-      "title": "تقرير: طائرة «إيه-10» تفقد جناحاً في هجوم إيراني على قاعدة أميركية بالأردن",
-      "url": "https://aawsat.com/node/5316817",
-      "category": "دولي",
-      "published": "Thu, 10 Sep 2026 13:51:10 +0100",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "قتيلان في هجوم بمسيرة روسية على محطة وقود في كييف",
       "url": "https://aawsat.com/node/5317272",
       "category": "دولي",
@@ -637,6 +627,14 @@
       "published": "Thu, 10 Sep 2026 18:27:39 +0100",
       "breaking": false,
       "watch_topics": []
+    },
+    {
+      "title": "زيلينسكي: كندا ستقدم حزمة كبيرة من أنظمة الدفاع الجوي لأوكرانيا",
+      "url": "https://aawsat.com/node/5316907",
+      "category": "دولي",
+      "published": "Thu, 10 Sep 2026 17:42:59 +0100",
+      "breaking": false,
+      "watch_topics": []
     }
   ],
   "breaking": [
@@ -745,16 +743,6 @@
       "published": "Mon, 07 Sep 2026 09:11:18 +0100",
       "breaking": true,
       "watch_topics": []
-    },
-    {
-      "title": "تقرير: طائرة «إيه-10» تفقد جناحاً في هجوم إيراني على قاعدة أميركية بالأردن",
-      "url": "https://aawsat.com/node/5316817",
-      "category": "دولي",
-      "published": "Thu, 10 Sep 2026 13:51:10 +0100",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
-      ]
     },
     {
       "title": "قتيلان في هجوم بمسيرة روسية على محطة وقود في كييف",
