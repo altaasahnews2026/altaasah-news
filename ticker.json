@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T05:53:51.703931+00:00",
+  "updated_at": "2026-09-12T06:05:53.178604+00:00",
   "latest": [
     {
       "title": "العراق يدين الهجمات على السعودية: لن تكون اراضينا منطلق لاستهداف الدول",
@@ -107,7 +107,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-12T05:53:44.307698+00:00",
+      "published": "2026-09-12T06:05:50.142305+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -457,6 +457,17 @@
       "watch_topics": []
     },
     {
+      "title": "واشنطن تحدد مواعيد لمرور الناقلات عبر «هرمز»",
+      "url": "https://aawsat.com/node/5317372",
+      "category": "دولي",
+      "published": "Sat, 12 Sep 2026 06:54:57 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
       "title": "قتيلان في هجوم بمسيرة روسية على محطة وقود في كييف",
       "url": "https://aawsat.com/node/5317272",
       "category": "دولي",
@@ -619,14 +630,6 @@
       "url": "https://aawsat.com/node/5316928",
       "category": "دولي",
       "published": "Thu, 10 Sep 2026 18:27:39 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "زيلينسكي: كندا ستقدم حزمة كبيرة من أنظمة الدفاع الجوي لأوكرانيا",
-      "url": "https://aawsat.com/node/5316907",
-      "category": "دولي",
-      "published": "Thu, 10 Sep 2026 17:42:59 +0100",
       "breaking": false,
       "watch_topics": []
     }
