@@ -90,5 +90,33 @@ runtime = r'''<script id="final-ticker-runtime">
 s=re.sub(r'<script id="final-ticker-runtime">.*?</script>','',s,flags=re.S)
 s=s.replace('</body>',runtime+'</body>',1)
 
+# Hide external source names and source logos from the public UI while keeping source data internally for fetching, verification and deduplication.
+source_ui = r'''<style id="source-brand-removal">.source-name,.source-logo,.news-source,.article-source,[class*="sourceName"],[class*="source-name"],[class*="sourceLogo"],[class*="source-logo"]{display:none!important;visibility:hidden!important}</style>
+<script id="source-brand-removal-runtime">
+(function(){
+  const names=['رووداو','روداو','الشرقية','الفلوجة','العربية','السومرية نيوز','السومرية','شفق نيوز','شفق','قناة العراقية','وكالة نينا','مجلس القضاء الأعلى','كركوك ناو'];
+  const domains=['rudaw.net','alsharqiya.com','alfallujah.tv','alarabiya.net','alsumaria.tv','shafaq.com','ninanews.com','sjc.iq','kirkuknow.com','news.imn.iq'];
+  const norm=v=>String(v||'').replace(/\s+/g,' ').trim();
+  function clean(root){
+    (root.querySelectorAll?root.querySelectorAll('*'):[]).forEach(el=>{
+      const cls=String(el.className||'').toLowerCase();
+      const attr=[el.getAttribute&&el.getAttribute('alt'),el.getAttribute&&el.getAttribute('title'),el.getAttribute&&el.getAttribute('aria-label'),el.getAttribute&&el.getAttribute('href'),el.getAttribute&&el.getAttribute('src')].filter(Boolean).join(' ').toLowerCase();
+      if(/source|publisher|origin|المصدر|مصدر الخبر/.test(cls+attr)){
+        if(el.tagName==='IMG'||el.tagName==='A'||el.children.length===0) el.style.setProperty('display','none','important');
+      }
+      if(el.tagName==='IMG' && domains.some(d=>attr.includes(d))) el.style.setProperty('display','none','important');
+      if(el.children.length===0){
+        const t=norm(el.textContent);
+        if(names.some(n=>t===n || t===('المصدر: '+n) || t===('المصدر '+n))) el.style.setProperty('display','none','important');
+      }
+    });
+  }
+  function run(){clean(document);}
+  run();
+  new MutationObserver(run).observe(document.documentElement,{subtree:true,childList:true});
+})();
+</script>'''
+s=s.replace('</head>',source_ui+'</head>',1)
+
 p.write_text(s,encoding='utf-8')
-print('تم تثبيت شريط آخر الأخبار والعاجل بمحتوى ثابت عند البناء وتحديث حي كل دقيقة.')
+print('تم تثبيت الصور والشريط وإخفاء أسماء وشعارات مصادر الأخبار من الواجهة العامة.')
