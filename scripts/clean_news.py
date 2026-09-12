@@ -12,6 +12,7 @@ SECURITY=('هجوم','انفجار','شرطة','جيش','أمن','إرهاب','�
 INTL=('إيران','سوريا','فلسطين','غزة','إسرائيل','اسرائيل','لبنان','أمريكا','أميركا','تركيا','دولي','دولية','اليمن','السعودية','الإمارات','الكويت','قطر','الأردن','مصر','روسيا','أوكرانيا','الصين','البحرين','عمان','المغرب','الجزائر','تونس','السودان','ليبيا')
 GOV={'بغداد':('بغداد','الكرخ','الرصافة','أبو غريب','ابو غريب','المدائن','التاجي','المحمودية','الطارمية'),'البصرة':('البصرة','الزبير','أبو الخصيب','ابو الخصيب','الفاو','القرنة','شط العرب','سفوان'),'نينوى':('نينوى','الموصل','تلعفر','سنجار','الحمدانية','بعشيقة','الحضر','القيارة','زمار','ربيعة'),'الأنبار':('الأنبار','الانبار','الرمادي','الفلوجة','حديثة','هيت','القائم','الرطبة','عانة','راوة'),'صلاح الدين':('صلاح الدين','تكريت','سامراء','بيجي','بلد','الدور','الشرقاط','طوزخورماتو','طوز خورماتو'),'ديالى':('ديالى','بعقوبة','المقدادية','الخالص','خانقين','بلدروز','مندلي','جلولاء','قرة تبة'),'واسط':('واسط','الكوت','الحي','الصويرة','النعمانية','بدرة','العزيزية'),'ميسان':('ميسان','العمارة','المجر الكبير','قلعة صالح','الكحلاء','علي الغربي'),'ذي قار':('ذي قار','الناصرية','سوق الشيوخ','الشطرة','الرفاعي','الجبايش'),'المثنى':('المثنى','السماوة','الرميثة','الخضر','الوركاء'),'بابل':('بابل','الحلة','المسيب','المحاويل','الهاشمية','القاسم','الإسكندرية'),'كربلاء':('كربلاء','كربلاء المقدسة','الهندية','عين التمر'),'النجف':('النجف','النجف الأشرف','الكوفة','المناذرة','المشخاب'),'القادسية':('القادسية','الديوانية','الدغارة','الشامية','عفك','الحمزة'),'دهوك':('دهوك','زاخو','العمادية','سميل','عقرة'),'أربيل':('أربيل','اربيل','شقلاوة','سوران','كويسنجق','رواندوز','حرير'),'السليمانية':('السليمانية','حلبجة','رانية','دوكان','كلار','شاربازير'),'كركوك':('كركوك','التون كوبري','التونكوبري','آلتون كوبري','الدبس','داقوق','الحويجة','ليلان','الرشاد','الرياض','الزاب','قره تبه','جيمن','باي حسن','بابا كركر','محمد سمعان','سمعان آغا','محافظ كركوك')}
 NOISE=('شفق نيوز','السومرية نيوز','شبكة 964','وكالة شفق','عاجل','بالصور','بالفيديو','خاص','متابعة')
+STOP={'العراق','العراقي','العراقية','السعودية','السعوديه','كركوك','اليوم','بعد','قبل','على','في','من','عن','مع','الى','إلى','هذا','هذه','وقال','تعلن','يعلن','بيان','بيانات','مصدر','مصادر','تصريح','تصريحات'}
 def norm(s):
  s=re.sub(r'\s+',' ',str(s or '').strip()).replace('ـ','');s=''.join(c for c in unicodedata.normalize('NFKD',s) if not unicodedata.combining(c)).lower();return re.sub(r'[^\w\u0600-\u06ff ]',' ',s)
 def dt(x):
@@ -22,8 +23,7 @@ def title_key(s):
  for w in NOISE:t=t.replace(norm(w),' ')
  return re.sub(r'\s+',' ',t).strip()
 def subject_tokens(s):
- stop={'العراق','العراقي','السعودية','السعوديه','كركوك','اليوم','بعد','قبل','على','في','من','عن','مع','الى','إلى','هذا','هذه','وقال','تعلن','يعلن','بيان','بيانات'}
- return {w for w in title_key(s).split() if len(w)>=3 and w not in stop}
+ return {w for w in title_key(s).split() if len(w)>=3 and w not in STOP}
 def governorate(t):
  t=norm(t)
  for g,words in GOV.items():
@@ -43,18 +43,23 @@ def recategorize(x):
  x['category']=classify(t,u);x['governorate']=g;x['kirkuk']=g=='كركوك';x['region']=g or ('عربي ودولي' if x['category']=='عربي ودولي' else 'العراق')
 def duplicate(a,b):
  ka,kb=title_key(a.get('title')),title_key(b.get('title'))
- if ka==kb or str(a.get('url'))==str(b.get('url')):return True
+ if ka==kb or (a.get('url') and str(a.get('url'))==str(b.get('url'))):return True
  ta,tb=subject_tokens(a.get('title')),subject_tokens(b.get('title'))
  if not ta or not tb:return False
- overlap=len(ta&tb)/max(1,min(len(ta),len(tb)));sim=SequenceMatcher(None,ka,kb).ratio()
- return sim>=0.82 or overlap>=0.84 or (len(ta&tb)>=3 and sim>=0.68 and overlap>=0.65)
+ inter=len(ta&tb);overlap=inter/max(1,min(len(ta),len(tb)));jaccard=inter/max(1,len(ta|tb));sim=SequenceMatcher(None,ka,kb).ratio()
+ # catch copied headlines and minor rewrites without merging merely related stories
+ if sim>=0.82:return True
+ if overlap>=0.84 and inter>=3:return True
+ if inter>=4 and jaccard>=0.58 and overlap>=0.68 and abs(len(ta)-len(tb))<=4:return True
+ return False
 clean=[]
 for x in items:
  t=str(x.get('title') or '').strip()
  if len(t)<18 or any(w in t for w in JUNK):continue
  if not x.get('image') or not x.get('url') or not x.get('published'):continue
  recategorize(x);clean.append(x)
-clean.sort(key=dt,reverse=True);dedup=[]
+clean.sort(key=dt,reverse=True)
+dedup=[]
 for x in clean:
  if not any(duplicate(x,y) for y in dedup):dedup.append(x)
 clean=dedup
