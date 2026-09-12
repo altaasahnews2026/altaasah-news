@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T16:14:07.224388+00:00",
+  "updated_at": "2026-09-12T16:30:35.276371+00:00",
   "latest": [
     {
       "title": "المقاومة الإسلامية: استهداف السعودية “شرف لا ندعيه” ونستغرب تسرع بغداد",
@@ -173,7 +173,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-12T16:14:03.470902+00:00",
+      "published": "2026-09-12T16:30:31.131576+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -198,14 +198,6 @@
       "url": "https://964media.com/715652/",
       "category": "عراق",
       "published": "2026-09-12T10:03:08+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "تكليف اللواء الركن علي الماجدي قائدا لعمليات ميسان",
-      "url": "https://www.alsumaria.tv/news/security/575799/%D8%AA%D9%83%D9%84%D9%8A%D9%81-%D8%A7%D9%84%D9%84%D9%88%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D9%83%D9%86-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D9%85%D8%A7%D8%AC%D8%AF%D9%8A-%D9%82%D8%A7%D8%A6%D8%AF%D8%A7-%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D9%85%D9%8A%D8%B3%D8%A7%D9%86",
-      "category": "عراق",
-      "published": "2026-09-12T11:37:26+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -254,6 +246,14 @@
       "url": "https://www.alsumaria.tv/news/international/575807/%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D9%85-%D8%A8%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%84%D9%80-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9-%D8%B9%D9%84%D8%A7%D9%82%D8%AA%D9%86%D8%A7-%D9%85%D8%B9-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D8%BA%D9%8A%D8%B1%D8%AA-%D9%85%D8%B9%D8%A7%D9%8B",
       "category": "عراق",
       "published": "2026-09-12T13:52:39+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "العراق يعثر على مواقع إطلاق المسيرات في ميسان",
+      "url": "https://964media.com/716257/",
+      "category": "عراق",
+      "published": "2026-09-12T14:03:05+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -449,6 +449,14 @@
       ]
     },
     {
+      "title": "طمأنة رسمية للجالية المصرية بالكويت بعد إنهاء عمل 7 آلاف وافد",
+      "url": "https://aawsat.com/node/5317534",
+      "category": "مشرق أوسط",
+      "published": "Sat, 12 Sep 2026 17:22:34 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "القوات اليمنية تضرب تحشيدات الحوثيين في جبهات عدة",
       "url": "https://aawsat.com/node/5317457",
       "category": "مشرق أوسط",
@@ -469,14 +477,6 @@
       "url": "https://aawsat.com/node/5317437",
       "category": "مشرق أوسط",
       "published": "Sat, 12 Sep 2026 12:52:37 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "مصر وليبيريا تتفقان على تنسيق الأولويات الأفريقية في «مجلس الأمن»",
-      "url": "https://aawsat.com/node/5317186",
-      "category": "مشرق أوسط",
-      "published": "Fri, 11 Sep 2026 16:06:39 +0100",
       "breaking": false,
       "watch_topics": []
     },
