@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T15:34:12.529975+00:00",
+  "updated_at": "2026-09-12T15:46:36.496448+00:00",
   "items": [
     {
       "title": "طالباني يدين الهجوم على السعودية ويدعو إلى أقصى درجات ضبط النفس",
@@ -7,8 +7,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-12T14:44:15+00:00",
-      "image": "./assets/news/cf29ce67c55a6e251a199b7d.jpg",
-      "original_image": "./assets/news/cf29ce67c55a6e251a199b7d.jpg",
+      "image": "./assets/news/499a24605e3f7bf582c8146d.jpg",
+      "original_image": "./assets/news/499a24605e3f7bf582c8146d.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/575811/%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%A3%D9%82%D8%B5%D9%89-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%B6%D8%A8%D8%B7-%D8%A7%D9%84%D9%86%D9%81%D8%B3",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -50,13 +50,45 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e6ad74f78a2c.html"
     },
     {
+      "title": "تمديد إغلاق الشلامجة ساعة لمغادرة إيرانيين.. وسوريون عالقون يطالبون بحل",
+      "url": "https://www.alsumaria.tv/news/localnews/575817/%D8%AA%D9%85%D8%AF%D9%8A%D8%AF-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B4%D9%84%D8%A7%D9%85%D8%AC%D8%A9-%D8%B3%D8%A7%D8%B9%D8%A9-%D9%84%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D9%8A%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D8%B9%D8%A7%D9%84%D9%82%D9%88%D9%86-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8%D9%88%D9%86-%D8%A8%D8%AD%D9%84",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-12T15:40:52+00:00",
+      "image": "./assets/news/84e7aac594c2ad12982a8c76.jpg",
+      "original_image": "./assets/news/84e7aac594c2ad12982a8c76.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/575817/%D8%AA%D9%85%D8%AF%D9%8A%D8%AF-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B4%D9%84%D8%A7%D9%85%D8%AC%D8%A9-%D8%B3%D8%A7%D8%B9%D8%A9-%D9%84%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D9%8A%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D8%B9%D8%A7%D9%84%D9%82%D9%88%D9%86-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8%D9%88%D9%86-%D8%A8%D8%AD%D9%84",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9c01f6d5d6c2.html"
+    },
+    {
+      "title": "اليد التي لا تستطيع كسرها.. الحوثيون يردون على تصريحات ترامب",
+      "url": "https://www.alsumaria.tv/news/international/575816/%D8%A7%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D8%AA%D9%8A-%D9%84%D8%A7-%D8%AA%D8%B3%D8%AA%D8%B7%D9%8A%D8%B9-%D9%83%D8%B3%D8%B1%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B1%D8%AF%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-12T15:37:12+00:00",
+      "image": "./assets/news/8f8a74c366c2842f656868e4.jpg",
+      "original_image": "./assets/news/8f8a74c366c2842f656868e4.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/575816/%D8%A7%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D8%AA%D9%8A-%D9%84%D8%A7-%D8%AA%D8%B3%D8%AA%D8%B7%D9%8A%D8%B9-%D9%83%D8%B3%D8%B1%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B1%D8%AF%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fe8c6b0b5180.html"
+    },
+    {
       "title": "مجدداً.. إغلاق منفذ الشيب الحدودي مع ايران",
       "url": "https://www.alsumaria.tv/news/localnews/575815/%D9%85%D8%AC%D8%AF%D8%AF%D8%A7%D9%8B-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A-%D9%85%D8%B9-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86",
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-12T15:21:16+00:00",
-      "image": "./assets/news/bd51a7e2394b92ecf7e1b23a.jpg",
-      "original_image": "./assets/news/bd51a7e2394b92ecf7e1b23a.jpg",
+      "image": "./assets/news/92b471973188be34d4faa23a.jpg",
+      "original_image": "./assets/news/92b471973188be34d4faa23a.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/575815/%D9%85%D8%AC%D8%AF%D8%AF%D8%A7%D9%8B-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A-%D9%85%D8%B9-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -466,22 +498,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/daf0d4025a32.html"
     },
     {
-      "title": "بعد الخروقات الأمنية الأخيرة.. قرارات جديدة بشأن قيادة شرطة محافظة ميسان",
-      "url": "https://www.alsumaria.tv/news/politics/575796/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%AE%D8%B1%D9%88%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B4%D8%B1%D8%B7%D8%A9-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D9%85%D9%8A%D8%B3%D8%A7%D9%86",
-      "category": "أمن",
-      "region": "ميسان",
-      "published": "2026-09-12T10:02:31+00:00",
-      "image": "./assets/news/6b8c6bd009954fb1691e639b.jpg",
-      "original_image": "./assets/news/6b8c6bd009954fb1691e639b.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/575796/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%AE%D8%B1%D9%88%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B4%D8%B1%D8%B7%D8%A9-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D9%85%D9%8A%D8%B3%D8%A7%D9%86",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "ميسان",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a3289253c397.html"
-    },
-    {
       "title": "لماذا قد يؤثر شخير شريكك على صحتك؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cdr76mrpdxvo",
       "category": "محليات",
@@ -496,22 +512,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/af530b341459.html"
-    },
-    {
-      "title": "هيئة الاعلام الأمني: السماح للعالقين في منفذي الشيب والشلامجة بالدخول والخروج",
-      "url": "https://www.alsumaria.tv/news/localnews/575795/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A-%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D8%AD-%D9%84%D9%84%D8%B9%D8%A7%D9%84%D9%82%D9%8A%D9%86-%D9%81%D9%8A-%D9%85%D9%86%D9%81%D8%B0%D9%8A-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8-%D9%88%D8%A7%D9%84%D8%B4%D9%84%D8%A7%D9%85%D8%AC%D8%A9-%D8%A8%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D9%88",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-12T09:56:31+00:00",
-      "image": "./assets/news/8bf187890c3136ef74586b95.jpg",
-      "original_image": "./assets/news/8bf187890c3136ef74586b95.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/575795/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A-%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D8%AD-%D9%84%D9%84%D8%B9%D8%A7%D9%84%D9%82%D9%8A%D9%86-%D9%81%D9%8A-%D9%85%D9%86%D9%81%D8%B0%D9%8A-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8-%D9%88%D8%A7%D9%84%D8%B4%D9%84%D8%A7%D9%85%D8%AC%D8%A9-%D8%A8%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D9%88",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/911e4dcf7dae.html"
     },
     {
       "title": "المقاومة الإسلامية: استهداف السعودية “شرف لا ندعيه” ونستغرب تسرع بغداد",
@@ -550,7 +550,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-12T15:34:12.741479+00:00",
+      "published": "2026-09-12T15:46:36.701009+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -560,7 +560,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d27f086a4236.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/27c7944778bb.html"
     }
   ]
 }
