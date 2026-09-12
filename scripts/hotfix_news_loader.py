@@ -37,5 +37,11 @@ s = s.replace(
     1,
 )
 
+# Final logo hardening: run after the generated page is assembled so no later
+# template step can leave the official logo missing or pointing at a stale URL.
+logo_fix = '''<script id="official-logo-runtime">(function(){function fixLogo(){var src='assets/logo.jpg?rev=20260913-6';var brand=document.querySelector('.brand');if(brand){var img=brand.querySelector('img');if(!img){img=document.createElement('img');brand.insertBefore(img,brand.firstChild);}img.className='official-site-logo';img.alt='التاسعة نيوز';img.width=245;img.height=78;img.src=src;img.style.display='block';img.style.visibility='visible';img.style.opacity='1';img.style.objectFit='contain';img.onerror=function(){this.onerror=null;this.src='assets/logo.jpg?rev=20260913-6';};}var foot=document.querySelector('.footlogo');if(foot){foot.src=src;foot.alt='التاسعة نيوز';foot.style.display='block';foot.style.visibility='visible';foot.style.opacity='1';}}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fixLogo);else fixLogo();setTimeout(fixLogo,100);setTimeout(fixLogo,1000);})();</script>'''
+s = re.sub(r'<script id="official-logo-runtime">.*?</script>', '', s, flags=re.S)
+s = s.replace('</body>', logo_fix + '</body>', 1)
+
 p.write_text(s, encoding='utf-8')
-print('تم إصلاح مصدر الأخبار: تحميل same-origin مع نسخة أخبار مدمجة داخل الصفحة وإعادة المحاولة تلقائياً')
+print('تم إصلاح مصدر الأخبار وتثبيت الشعار الرسمي داخل الصفحة')
