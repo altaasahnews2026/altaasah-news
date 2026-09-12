@@ -6,21 +6,21 @@ p = Path('index.html')
 s = p.read_text(encoding='utf-8')
 
 # Root-cause fix: use absolute same-origin GitHub Pages URLs everywhere.
-# Relative paths can resolve incorrectly when the same markup is reused from /news/*.html.
-s = re.sub(
-    r'(?<!https:)(?<!http:)(?:\.\/)?assets/news/',
-    BASE + 'assets/news/',
-    s,
-)
-s = re.sub(
-    r'https://raw\.githubusercontent\.com/altaasahnews2026/altaasah-news/main/assets/news/',
-    BASE + 'assets/news/',
-    s,
-)
+s = re.sub(r'(?<!https:)(?<!http:)(?:\\./)?assets/news/', BASE + 'assets/news/', s)
+s = re.sub(r'https://raw\\.githubusercontent\\.com/altaasahnews2026/altaasah-news/main/assets/news/', BASE + 'assets/news/', s)
 
 # Keep images visible and make the browser revalidate fresh assets after each feed refresh.
 s = s.replace('loading="lazy"', 'loading="eager"')
 s = s.replace('decoding="async"', 'decoding="async" referrerpolicy="no-referrer"')
 
+# Official Al-Taasah News logo watermark on every news-image container.
+wm_css = '''<style id="news-logo-watermark"><style id="news-logo-watermark">'''
+wm_css = '''<style id="news-logo-watermark">.news-watermark{position:absolute;z-index:6;left:10px;top:10px;width:88px;height:50px;object-fit:contain;pointer-events:none;filter:drop-shadow(0 1px 3px rgba(0,0,0,.45));background:rgba(255,255,255,.82);border-radius:4px;padding:3px}.thumb,.feature,.lead,.cat,.side{position:relative}@media(max-width:700px){.news-watermark{width:72px;height:41px;left:7px;top:7px}}</style>'''
+s = re.sub(r'<style id="news-logo-watermark">.*?</style>\\s*', '', s, flags=re.S)
+s = s.replace('</head>', wm_css + '</head>', 1)
+water = '<img class="news-watermark" src="assets/logo.svg" alt="التاسعة نيوز" aria-hidden="true">'
+for marker in ['<div class="thumb">','<div class="feature">','<div class="lead">','<div class="cat">','<div class="side">']:
+    s = s.replace(marker, marker + water)
+
 p.write_text(s, encoding='utf-8')
-print('FINAL IMAGE FIX: absolute same-origin image URLs enforced')
+print('FINAL IMAGE FIX: official Al-Taasah News logo watermark enforced')
