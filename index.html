@@ -3,20 +3,21 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="التاسعة نيوز - منصة إخبارية عراقية حديثة">
 <title>التاسعة نيوز</title>
-<style id="interface-hotfix">
-/* واجهة الصفحة الرئيسية - طبقة ثابتة بعد جميع القوالب */
-.header{position:relative;z-index:30;background:#fff}
-.head{min-height:96px!important}
-.brand{position:relative!important;z-index:31!important}
-.brand img{width:225px!important;height:72px!important;object-fit:contain!important}
-.news-watermark{position:absolute!important;right:14px!important;left:auto!important;top:auto!important;bottom:14px!important;width:82px!important;height:auto!important;max-width:82px!important;max-height:50px!important;object-fit:contain!important;display:block!important;visibility:visible!important;opacity:.96!important;z-index:25!important;pointer-events:none!important;background:rgba(255,255,255,.90)!important;border-radius:5px!important;padding:3px!important}
-.lead>.news-watermark{right:18px!important;bottom:18px!important;width:108px!important;max-width:108px!important;max-height:64px!important}
-.thumb>img:not(.news-watermark){width:100%!important;height:100%!important;object-fit:cover!important;display:block!important}
-.lead>img:not(.news-watermark){width:100%!important;height:100%!important;object-fit:cover!important;display:block!important}
-.side>img:not(.news-watermark){width:88px!important;height:67px!important;object-fit:cover!important;display:block!important}
-@media(max-width:700px){.brand img{width:185px!important;height:58px!important}.news-watermark{right:8px!important;bottom:8px!important;width:68px!important;max-width:68px!important;max-height:42px!important}.lead>.news-watermark{right:10px!important;bottom:10px!important;width:88px!important;max-width:88px!important}}
-</style></head>
+<style>
+*{box-sizing:border-box}html,body{margin:0;padding:0}body{font-family:Tahoma,Arial,sans-serif;background:#f4f6f8;color:#17202a}.wrap{width:min(1180px,calc(100% - 28px));margin:auto}.top{background:#101820;color:#fff;border-bottom:3px solid #d6a84f}.top .wrap{min-height:86px;display:flex;align-items:center;justify-content:space-between;gap:20px}.logo{font-size:30px;font-weight:900;letter-spacing:-1px}.logo small{display:block;font-size:12px;color:#d6a84f;margin-top:4px}.date{font-size:13px;color:#d8dde2}.nav{background:#fff;box-shadow:0 2px 12px #0000000d}.nav .wrap{display:flex;gap:6px;overflow:auto}.nav a{color:#26313a;text-decoration:none;padding:15px 16px;font-weight:700;white-space:nowrap}.nav a:first-child{color:#b4872c;border-bottom:3px solid #d6a84f}.ticker{margin:16px 0;background:#101820;color:#fff;border-radius:8px;display:flex;align-items:center;overflow:hidden;min-height:44px}.ticker b{background:#d6a84f;color:#101820;padding:13px 18px;white-space:nowrap}.tickerTrack{padding:0 18px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.hero{display:grid;grid-template-columns:2fr 1fr;gap:18px;margin:18px 0}.lead,.sidecard,.card{background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 4px 18px #0000000b}.lead{min-height:370px;position:relative}.lead .photo{height:300px;background:linear-gradient(135deg,#253746,#617181)}.lead .body{padding:18px}.tag{display:inline-block;color:#a57922;font-size:12px;font-weight:800;margin-bottom:8px}.lead h1{font-size:25px;line-height:1.45;margin:0}.side{display:grid;gap:18px}.sidecard{display:grid;grid-template-columns:125px 1fr;min-height:176px}.sidecard .photo{background:linear-gradient(135deg,#344b5d,#8b98a3)}.sidecard .body{padding:13px}.sidecard h2{font-size:17px;line-height:1.55;margin:0}.section{margin:28px 0}.sectionhead{display:flex;align-items:center;justify-content:space-between;border-right:5px solid #d6a84f;padding:8px 12px;margin-bottom:14px;background:#fff}.sectionhead h2{margin:0;font-size:21px}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.card .photo{height:175px;background:linear-gradient(135deg,#dfe5e9,#8d9aa4)}.card .body{padding:14px}.card h3{font-size:17px;line-height:1.6;margin:5px 0}.empty{padding:55px 20px;text-align:center;background:#fff;border-radius:10px;color:#77818a}.footer{margin-top:40px;background:#101820;color:#dbe1e6;padding:30px 0}.footer .wrap{display:flex;justify-content:space-between;gap:20px}.footer strong{color:#fff}.footer small{color:#aeb8c0}@media(max-width:800px){.hero{grid-template-columns:1fr}.grid{grid-template-columns:repeat(2,1fr)}.date{display:none}}@media(max-width:520px){.wrap{width:min(100% - 18px,1180px)}.top .wrap{min-height:72px}.logo{font-size:24px}.nav a{padding:12px 11px}.hero{gap:12px}.lead{min-height:0}.lead .photo{height:230px}.lead h1{font-size:21px}.sidecard{grid-template-columns:105px 1fr}.sidecard .body{padding:10px}.sidecard h2{font-size:15px}.grid{grid-template-columns:1fr}.card .photo{height:200px}.footer .wrap{display:block}}
+</style>
+</head>
 <body>
-<script id="homepage-app-js" src="./assets/app.js?v=20260913-4" defer></script></body>
-</html>
+<header class="top"><div class="wrap"><div class="logo">التاسعة نيوز<small>نعلم لتعلم</small></div><div class="date" id="today"></div></div></header>
+<nav class="nav"><div class="wrap"><a href="#home">الرئيسية</a><a href="#iraq">العراق</a><a href="#kirkuk">كركوك</a><a href="#politics">سياسة</a><a href="#security">أمن</a><a href="#economy">اقتصاد</a><a href="#sports">رياضة</a><a href="#world">عربي ودولي</a></div></nav>
+<main class="wrap" id="home">
+<div class="ticker"><b>آخر الأخبار</b><div class="tickerTrack" id="tickerTrack">التاسعة نيوز — نعلم لتعلم</div></div>
+<section class="hero"><article class="lead"><div class="photo"></div><div class="body"><span class="tag">الرئيسية</span><h1 id="leadTitle">مرحباً بكم في التاسعة نيوز</h1></div></article><div class="side"><article class="sidecard"><div class="photo"></div><div class="body"><span class="tag">العراق</span><h2>آخر المستجدات والأخبار العراقية أولاً بأول</h2></div></article><article class="sidecard"><div class="photo"></div><div class="body"><span class="tag">متابعة</span><h2>تغطية مستمرة لأبرز الأحداث المحلية والدولية</h2></div></article></div></section>
+<section class="section" id="iraq"><div class="sectionhead"><h2>أحدث الأخبار</h2><span>الآن</span></div><div class="grid" id="newsGrid"><div class="empty">لا توجد أخبار منشورة حالياً</div></div></section>
+<section class="section" id="kirkuk"><div class="sectionhead"><h2>كركوك والمحافظات</h2></div><div class="grid"><div class="empty">قسم مخصص لأخبار المحافظات</div></div></section>
+</main>
+<footer class="footer"><div class="wrap"><div><strong>التاسعة نيوز</strong><br><small>نعلم لتعلم</small></div><small>منصة إخبارية عراقية مستقلة</small></div></footer>
+<script>document.getElementById('today').textContent=new Intl.DateTimeFormat('ar-IQ',{dateStyle:'full'}).format(new Date());</script>
+</body></html>
