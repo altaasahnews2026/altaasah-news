@@ -4,7 +4,19 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>التاسعة نيوز</title>
-</head>
+<style id="interface-hotfix">
+/* واجهة الصفحة الرئيسية - طبقة ثابتة بعد جميع القوالب */
+.header{position:relative;z-index:30;background:#fff}
+.head{min-height:96px!important}
+.brand{position:relative!important;z-index:31!important}
+.brand img{width:225px!important;height:72px!important;object-fit:contain!important}
+.news-watermark{position:absolute!important;right:14px!important;left:auto!important;top:auto!important;bottom:14px!important;width:82px!important;height:auto!important;max-width:82px!important;max-height:50px!important;object-fit:contain!important;display:block!important;visibility:visible!important;opacity:.96!important;z-index:25!important;pointer-events:none!important;background:rgba(255,255,255,.90)!important;border-radius:5px!important;padding:3px!important}
+.lead>.news-watermark{right:18px!important;bottom:18px!important;width:108px!important;max-width:108px!important;max-height:64px!important}
+.thumb>img:not(.news-watermark){width:100%!important;height:100%!important;object-fit:cover!important;display:block!important}
+.lead>img:not(.news-watermark){width:100%!important;height:100%!important;object-fit:cover!important;display:block!important}
+.side>img:not(.news-watermark){width:88px!important;height:67px!important;object-fit:cover!important;display:block!important}
+@media(max-width:700px){.brand img{width:185px!important;height:58px!important}.news-watermark{right:8px!important;bottom:8px!important;width:68px!important;max-width:68px!important;max-height:42px!important}.lead>.news-watermark{right:10px!important;bottom:10px!important;width:88px!important;max-width:88px!important}}
+</style></head>
 <body>
-</body>
+<script id="homepage-app-js" src="./assets/app.js?v=20260913-4" defer></script></body>
 </html>
