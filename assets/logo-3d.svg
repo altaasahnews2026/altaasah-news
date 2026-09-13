@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-labelledby="t d"><title id="t">التاسعة نيوز</title><desc id="d">شعار التاسعة نيوز باللونين الأزرق والأسود مع المركز الأحمر</desc><defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b2e57"/><stop offset=".48" stop-color="#0b67c9"/><stop offset="1" stop-color="#29a0ff"/></linearGradient><linearGradient id="k" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#303030"/><stop offset="1" stop-color="#050505"/></linearGradient><linearGradient id="r" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ff3333"/><stop offset="1" stop-color="#c90000"/></linearGradient><filter id="s" x="-20%" y="-20%" width="150%" height="160%"><feDropShadow dx="3" dy="6" stdDeviation="4" flood-opacity=".28"/></filter></defs><g filter="url(#s)"><path d="M177 15c-70 3-131 49-155 113-30 80 12 132 78 154 37 12 70 5 101-17l-36-39c-28 14-56 11-76-10-31-32-17-82 18-110 25-20 54-27 83-18l-46 46c-21 22-22 53-1 74 19 19 50 18 71-1l73-73c32-32 34-83 8-111-27-29-69-30-118-8z" fill="url(#k)"/><path d="M269 28c-50-12-93 6-121 35l-39 40c31-18 63-21 91-7 38 19 55 61 40 99-7 18-20 33-36 47L82 282h90l116-116c38-38 55-82 41-117-10-11-25-18-60-21z" fill="url(#b)"/><circle cx="151" cy="129" r="48" fill="#fff"/><circle cx="151" cy="129" r="39" fill="url(#r)"/><circle cx="138" cy="116" r="9" fill="#fff" opacity=".32"/><g transform="skewX(-9)"><text x="310" y="145" font-family="Arial,sans-serif" font-size="112" font-style="italic" font-weight="900" letter-spacing="-7" fill="url(#k)">NEW</text><text x="620" y="145" font-family="Arial,sans-serif" font-size="112" font-style="italic" font-weight="900" letter-spacing="-7" fill="url(#r)">S</text></g><path d="M315 168h600l-31 22H290z" fill="url(#b)"/><path d="M345 194h520" stroke="#0a2d58" stroke-width="3" opacity=".65"/><text x="365" y="239" font-family="Tahoma,Arial,sans-serif" font-size="50" font-weight="900" fill="#061d3d">التاسعة نيوز</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+<title id="title">9 NEWS التاسعة نيوز</title>
+<desc id="desc">شعار التاسعة نيوز الأصلي بصياغة واضحة للاستخدام في واجهة الموقع</desc>
+<defs>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071f45"/><stop offset=".52" stop-color="#0a70d8"/><stop offset="1" stop-color="#2699ef"/></linearGradient>
+ <linearGradient id="black" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#292929"/><stop offset="1" stop-color="#050505"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ff2d32"/><stop offset="1" stop-color="#d7080e"/></linearGradient>
+ <filter id="shadow" x="-10%" y="-15%" width="125%" height="140%"><feDropShadow dx="2" dy="4" stdDeviation="3" flood-color="#001a38" flood-opacity=".28"/></filter>
+</defs>
+<g filter="url(#shadow)">
+ <path d="M180 15C111 18 48 62 23 126c-28 73 8 132 77 157 39 14 78 7 111-17l-35-43c-26 16-56 14-78-8-29-29-21-76 12-107 25-24 56-32 89-22l-46 46c-22 22-23 56-2 77 21 21 55 20 78-2l70-70c35-35 37-86 7-114-27-26-68-29-126-8z" fill="url(#black)"/>
+ <path d="M282 30c-51-14-96 5-126 36l-40 42c31-18 64-20 93-5 37 20 52 60 38 96-7 18-21 34-38 49L88 282h91l116-115c37-37 53-81 39-116-10-12-25-18-52-21z" fill="url(#blue)"/>
+ <circle cx="154" cy="128" r="50" fill="#fff"/>
+ <circle cx="154" cy="128" r="40" fill="url(#red)"/>
+ <circle cx="141" cy="115" r="8" fill="#fff" opacity=".28"/>
+ <g transform="skewX(-8)">
+  <text x="410" y="145" text-anchor="middle" font-family="Arial,sans-serif" font-size="108" font-style="italic" font-weight="900" letter-spacing="-7" fill="url(#black)">NEW</text>
+  <text x="682" y="145" text-anchor="middle" font-family="Arial,sans-serif" font-size="108" font-style="italic" font-weight="900" letter-spacing="-7" fill="url(#red)">S</text>
+ </g>
+ <path d="M318 169h610l-34 22H291z" fill="url(#blue)"/>
+ <text x="618" y="239" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Tahoma,Arial,sans-serif" font-size="48" font-weight="900" fill="#092b58">التاسعة نيوز</text>
+</g>
+</svg>
