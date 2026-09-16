@@ -1,19 +1,14 @@
 (function(){'use strict';
-const ROOT=new URL('./',location.href);
-const ASSET=p=>new URL(p,ROOT).href;
-const DATA=ASSET('news.json');
-const LOGO=ASSET('assets/logo.jpg');
-const PLACEHOLDER=ASSET('assets/news-placeholder.svg');
-const app=document.getElementById('app');
+const ROOT=new URL('./',location.href),ASSET=p=>new URL(p,ROOT).href,DATA=ASSET('news.json'),PLACEHOLDER=ASSET('assets/news-placeholder.svg'),app=document.getElementById('app');
 if(!app)return;
 const esc=s=>String(s??'').replace(/[&<>\"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[m]));
-const imageUrl=u=>{u=String(u||'').trim();if(!u)return PLACEHOLDER;if(/^https?:\/\//i.test(u))return u;if(u.startsWith('assets/'))return ASSET(u);if(u.startsWith('./'))return ASSET(u.slice(2));return ASSET(u.replace(/^\/+/,''));};
+const imageUrl=u=>{u=String(u||'').trim();if(!u)return PLACEHOLDER;if(/^https?:\/\//i.test(u))return u;if(u.startsWith('assets/'))return ASSET(u);return ASSET(u.replace(/^\.\//,'').replace(/^\/+/,''));};
 const dateOf=x=>x?.published||x?.published_at||x?.date||x?.updated_at||'';
 const timeOf=x=>{const v=String(dateOf(x)||'');return v?v.replace('T',' ').replace(/\+.*/,'').replace(/\.\d+$/,'').slice(0,16):'الآن'};
 function category(x){const c=String(x.category||'').toLowerCase(),t=x.title||'';if(c.includes('رياض')||/كرة|دوري|منتخب|بطولة|ميسي|برشلونة|الشرطة/.test(t))return'رياضة';if(c.includes('اقتص')||/نفط|دولار|ذهب|أسعار|مالية|مصرف|اقتصاد/.test(t))return'اقتصاد';if(c.includes('عالم')||/أميركا|أمريكا|فرنسا|ألمانيا|السعودية|إيران|العالم|دولي/.test(t))return'العالم';if(/كركوك|بغداد|البصرة|أربيل|دهوك|ذي قار|ديالى|ميسان|واسط|الأنبار|نينوى|صلاح الدين|كربلاء|النجف|السليمانية/.test(t))return'محافظاتنا';return'العراق';}
 function normalize(items){const seen=new Set();return(Array.isArray(items)?items:[]).filter(x=>x&&x.title).map(x=>({...x,image:imageUrl(x.image||x.original_image)})).filter(x=>{const k=String(x.url||x.article_url||x.title);if(seen.has(k))return false;seen.add(k);return true}).sort((a,b)=>(Date.parse(dateOf(b))||0)-(Date.parse(dateOf(a))||0));}
 function safeUrl(x){const u=x.url||x.article_url||'#';return /^https?:\/\//i.test(u)?esc(u):'#';}
-function mediaFix(){document.querySelectorAll('#app img').forEach(i=>{i.addEventListener('error',function(){if(this.src!==PLACEHOLDER)this.src=PLACEHOLDER},{once:true});i.loading='eager';i.decoding='async';});}
+function mediaFix(){document.querySelectorAll('#app img').forEach(i=>{i.addEventListener('error',function(){if(this.src!==PLACEHOLDER)this.src=PLACEHOLDER},{once:true});i.loading='lazy';i.decoding='async';});}
 function card(x){return `<a class="card" href="${safeUrl(x)}" target="_blank" rel="noopener"><div class="thumb"><img src="${esc(x.image)}" alt="${esc(x.title)}"></div><div class="body"><h3>${esc(x.title)}</h3><div class="meta"><span>${esc(category(x))}</span><span>${esc(timeOf(x))}</span></div></div></a>`;}
 function side(x){return `<a class="side" href="${safeUrl(x)}" target="_blank" rel="noopener"><img src="${esc(x.image)}" alt="${esc(x.title)}"><div><small>${esc(category(x))} · ${esc(timeOf(x))}</small><strong>${esc(x.title)}</strong></div></a>`;}
 function section(title,items){if(!items.length)return'';return `<section class="section sectionBand"><div class="sectionHead"><h2>${title}</h2><span class="rule"></span></div><div class="grid">${items.slice(0,4).map(card).join('')}</div></section>`;}
@@ -21,5 +16,4 @@ function render(items){items=normalize(items);if(!items.length){app.innerHTML='<
 function updateTicker(items){const box=document.getElementById('tickerText');if(box)box.innerHTML=items.slice(0,12).map(x=>`<span>${esc(x.title)}</span>`).join(' <b> • </b> ');}
 function wireSearch(all){const s=document.getElementById('searchInput');if(!s||s.dataset.bound)return;s.dataset.bound='1';s.addEventListener('input',()=>{const q=s.value.trim().toLowerCase();render(q?all.filter(x=>(x.title||'').toLowerCase().includes(q)||(category(x)||'').toLowerCase().includes(q)):all);});}
 async function load(){try{const r=await fetch(DATA,{cache:'no-store'});if(!r.ok)throw Error(r.status);const d=await r.json();if(!Array.isArray(d.items)||!d.items.length)throw Error('empty');render(d.items);}catch(e){app.innerHTML='<div class="empty">تعذر تحميل الأخبار حالياً. يرجى تحديث الصفحة.</div>';console.error('News load error',e);}}
-load();
-})();
+load();})();
