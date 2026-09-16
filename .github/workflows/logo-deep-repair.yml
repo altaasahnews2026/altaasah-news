@@ -17,32 +17,22 @@ jobs:
       - name: Force local verified image assets and safe fallbacks
         shell: bash
         run: |
-          cat > assets/news-placeholder.svg <<'SVG'
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675">
-            <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03152a"/><stop offset="1" stop-color="#0b4f86"/></linearGradient></defs>
-            <rect width="1200" height="675" fill="url(#g)"/>
-            <rect x="54" y="54" width="1092" height="567" rx="28" fill="none" stroke="#ffffff" stroke-opacity=".2" stroke-width="3"/>
-            <circle cx="600" cy="260" r="82" fill="#e51d2a" fill-opacity=".92"/>
-            <path d="M560 300l28-72 35 39 30-25 49 58H560z" fill="#fff" fill-opacity=".92"/>
-            <circle cx="615" cy="250" r="11" fill="#03152a"/>
-            <text x="600" y="430" text-anchor="middle" fill="#fff" font-family="Tahoma,Arial,sans-serif" font-size="48" font-weight="700">صورة الخبر</text>
-            <text x="600" y="490" text-anchor="middle" fill="#b9cee1" font-family="Tahoma,Arial,sans-serif" font-size="28">التاسعة نيوز</text>
-          </svg>
-          PYTHON_REPAIR='''from pathlib import Path
-          files = [Path("index.html"), Path("assets/app.js")]
+          python - <<'PY'
+          from pathlib import Path
+          import base64
+          placeholder = 'PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDY3NSI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+PHN0b3Agc3RvcC1jb2xvcj0iIzAzMTUyYSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzBiNGY4NiIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgZmlsbD0idXJsKCNnKSIvPjxyZWN0IHg9IjU0IiB5PSI1NCIgd2lkdGg9IjEwOTIiIGhlaWdodD0iNTY3IiByeD0iMjgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9Ii4yIiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSI2MDAiIGN5PSIyNjAiIHI9IjgyIiBmaWxsPSIjZTUxZDJhIiBmaWxsLW9wYWNpdHk9Ii45MiIvPjxwYXRoIGQ9Ik01NjAgMzAwbDI4LTcyIDM1IDM5IDMwLTI1IDQ5IDU4SDU2MHoiIGZpbGw9IiNmZmYiIGZpbGwtb3BhY2l0eT0iLjkyIi8+PGNpcmNsZSBjeD0iNjE1IiBjeT0iMjUwIiByPSIxMSIgZmlsbD0iIzAzMTUyYSIvPjx0ZXh0IHg9IjYwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZmIiBmb250LWZhbWlseT0iVGFob21hLEFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iNDgiIGZvbnQtd2VpZ2h0PSI3MDAiPti12YjYsdipINin2YTYrtio2LE8L3RleHQ+PHRleHQgeD0iNjAwIiB5PSI0OTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNiOWNlZTEiIGZvbnQtZmFtaWx5PSJUYWhvbWEsQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyOCI+2KfZhNiq2KfYs9i52Kkg2YbZitmI2LI8L3RleHQ+PC9zdmc+'
+          Path('assets/news-placeholder.svg').write_bytes(base64.b64decode(placeholder))
+          files = [Path('index.html'), Path('assets/app.js')]
           for p in files:
-              s = p.read_text(encoding="utf-8")
-              s = s.replace("https://raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/assets/logo.jpg?v=20260916-16", "assets/logo.jpg?v=20260916-21")
-              s = s.replace("assets/logo-final.svg?v=20260916-18", "assets/logo.jpg?v=20260916-21")
-              s = s.replace("assets/logo-final.svg", "assets/logo.jpg?v=20260916-21")
-              if p.name == "app.js":
+              s = p.read_text(encoding='utf-8')
+              s = s.replace('https://raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/assets/logo.jpg?v=20260916-16', 'assets/logo.jpg?v=20260916-21')
+              s = s.replace('assets/logo-final.svg?v=20260916-18', 'assets/logo.jpg?v=20260916-21')
+              s = s.replace('assets/logo-final.svg', 'assets/logo.jpg?v=20260916-21')
+              if p.name == 'app.js':
                   s = s.replace("const LOGO=BASE+'assets/logo.jpg?v=20260916-20';", "const LOGO=BASE+'assets/logo.jpg?v=20260916-21';\nconst PLACEHOLDER=BASE+'assets/news-placeholder.svg?v=20260916-21';")
-                  s = s.replace("if(!u)return LOGO;", "if(!u)return PLACEHOLDER;")
+                  s = s.replace('if(!u)return LOGO;', 'if(!u)return PLACEHOLDER;')
                   s = s.replace("this.src='${LOGO}'", "this.src='${PLACEHOLDER}'")
-              p.write_text(s, encoding="utf-8")
-          '''
-          python - <<PY
-          exec(PYTHON_REPAIR)
+              p.write_text(s, encoding='utf-8')
           PY
       - name: Validate image assets and JavaScript
         run: |
