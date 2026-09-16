@@ -1,4 +1,4 @@
-name: Deep logo and image repair
+name: Permanent media repair and deploy
 on:
   push:
     branches: [main]
@@ -14,44 +14,90 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
-      - name: Force local verified image assets and safe fallbacks
+      - name: Install verified logo and repair all media references
         shell: bash
+        env:
+          LOGO_B64: "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBAUEBAYFBQUGBgYHCQ4JCQgICRINDQoOFRIWFhUSFBQX"
         run: |
+          set -e
+          mkdir -p assets/news
+          printf '%s' "$LOGO_B64" | base64 -d > assets/logo-guaranteed.jpg
           python - <<'PY'
           from pathlib import Path
-          import base64
-          placeholder = 'PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDY3NSI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+PHN0b3Agc3RvcC1jb2xvcj0iIzAzMTUyYSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzBiNGY4NiIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjY3NSIgZmlsbD0idXJsKCNnKSIvPjxyZWN0IHg9IjU0IiB5PSI1NCIgd2lkdGg9IjEwOTIiIGhlaWdodD0iNTY3IiByeD0iMjgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9Ii4yIiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSI2MDAiIGN5PSIyNjAiIHI9IjgyIiBmaWxsPSIjZTUxZDJhIiBmaWxsLW9wYWNpdHk9Ii45MiIvPjxwYXRoIGQ9Ik01NjAgMzAwbDI4LTcyIDM1IDM5IDMwLTI1IDQ5IDU4SDU2MHoiIGZpbGw9IiNmZmYiIGZpbGwtb3BhY2l0eT0iLjkyIi8+PGNpcmNsZSBjeD0iNjE1IiBjeT0iMjUwIiByPSIxMSIgZmlsbD0iIzAzMTUyYSIvPjx0ZXh0IHg9IjYwMCIgeT0iNDMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZmIiBmb250LWZhbWlseT0iVGFob21hLEFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iNDgiIGZvbnQtd2VpZ2h0PSI3MDAiPti12YjYsdipINin2YTYrtio2LE8L3RleHQ+PHRleHQgeD0iNjAwIiB5PSI0OTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNiOWNlZTEiIGZvbnQtZmFtaWx5PSJUYWhvbWEsQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyOCI+2KfZhNiq2KfYs9i52Kkg2YbZitmI2LI8L3RleHQ+PC9zdmc+'
-          Path('assets/news-placeholder.svg').write_bytes(base64.b64decode(placeholder))
-          files = [Path('index.html'), Path('assets/app.js')]
-          for p in files:
-              s = p.read_text(encoding='utf-8')
-              s = s.replace('https://raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/assets/logo.jpg?v=20260916-16', 'assets/logo.jpg?v=20260916-21')
-              s = s.replace('assets/logo-final.svg?v=20260916-18', 'assets/logo.jpg?v=20260916-21')
-              s = s.replace('assets/logo-final.svg', 'assets/logo.jpg?v=20260916-21')
-              if p.name == 'app.js':
-                  s = s.replace("const LOGO=BASE+'assets/logo.jpg?v=20260916-20';", "const LOGO=BASE+'assets/logo.jpg?v=20260916-21';\nconst PLACEHOLDER=BASE+'assets/news-placeholder.svg?v=20260916-21';")
-                  s = s.replace('if(!u)return LOGO;', 'if(!u)return PLACEHOLDER;')
-                  s = s.replace("this.src='${LOGO}'", "this.src='${PLACEHOLDER}'")
-              p.write_text(s, encoding='utf-8')
+          import json, re, subprocess, hashlib, urllib.parse
+          logo = 'assets/logo-guaranteed.jpg?v=20260916-23'
+          for path in [Path('index.html'), Path('assets/app.js')]:
+              s = path.read_text(encoding='utf-8')
+              s = re.sub(r'(?:https://raw\.githubusercontent\.com/altaasahnews2026/altaasah-news/main/)?assets/logo(?:-final\.svg|\.jpg)(?:\?v=[^"\\\']*)?', logo, s)
+              s = re.sub(r"const LOGO=BASE\+'[^']+';", "const LOGO=BASE+'"+logo+"';", s)
+              path.write_text(s, encoding='utf-8')
+          p = Path('news.json')
+          data = json.loads(p.read_text(encoding='utf-8'))
+          ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/153 Safari/537.36'
+          def fetch(url, out):
+              try:
+                  subprocess.run(['curl','-L','--fail','--silent','--show-error','--max-time','20','-A',ua,'-o',str(out),url], check=True)
+                  return out.exists() and out.stat().st_size > 500
+              except Exception:
+                  return False
+          def ext_for(url):
+              path = urllib.parse.urlparse(url).path.lower()
+              for ext in ('.jpg','.jpeg','.png','.webp','.gif','.jfif'):
+                  if path.endswith(ext): return ext
+              return '.jpg'
+          for i, item in enumerate(data.get('items', [])):
+              src = str(item.get('image') or item.get('original_image') or '').strip()
+              chosen = src
+              if not chosen:
+                  article = str(item.get('url') or item.get('article_url') or '').strip()
+                  if article:
+                      try:
+                          html = subprocess.check_output(['curl','-L','--fail','--silent','--show-error','--max-time','20','-A',ua,article], text=True, stderr=subprocess.DEVNULL)
+                          m = re.search(r'<meta[^>]+property=["\\\']og:image["\\\'][^>]+content=["\\\']([^"\\\']+)', html, re.I)
+                          if not m:
+                              m = re.search(r'<meta[^>]+content=["\\\']([^"\\\']+)["\\\'][^>]+property=["\\\']og:image["\\\']', html, re.I)
+                          if m: chosen = urllib.parse.urljoin(article, m.group(1))
+                      except Exception: pass
+              if chosen:
+                  name = hashlib.sha1(chosen.encode()).hexdigest()[:16] + ext_for(chosen)
+                  out = Path('assets/news') / name
+                  if fetch(chosen, out):
+                      item['image'] = 'assets/news/' + name
+                      item['original_image'] = 'assets/news/' + name
+                      continue
+              item['image'] = 'assets/news-placeholder.svg'
+              item['original_image'] = 'assets/news-placeholder.svg'
+          p.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          js = Path('assets/app.js')
+          s = js.read_text(encoding='utf-8')
+          s = re.sub(r"const PLACEHOLDER=BASE\+'[^']+';", "const PLACEHOLDER=BASE+'assets/news-placeholder.svg?v=20260916-23';", s)
+          s = re.sub(r"const LOGO=BASE\+'[^']+';", "const LOGO=BASE+'"+logo+"';", s, count=1)
+          js.write_text(s, encoding='utf-8')
           PY
-      - name: Validate image assets and JavaScript
+      - name: Validate before deployment
         run: |
-          test -s assets/logo.jpg
+          set -e
+          test -s assets/logo-guaranteed.jpg
           test -s assets/news-placeholder.svg
-          grep -q "assets/logo.jpg" index.html
-          grep -q "assets/logo.jpg" assets/app.js
-          grep -q "assets/news-placeholder.svg" assets/app.js
           node --check assets/app.js
-      - name: Commit permanent repair
+          grep -q "logo-guaranteed.jpg" index.html
+          grep -q "logo-guaranteed.jpg" assets/app.js
+          python - <<'PY'
+          import json
+          d=json.load(open('news.json',encoding='utf-8'))
+          assert d.get('items')
+          print('Validated', len(d['items']), 'news items')
+          PY
+      - name: Commit permanent media repair
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet; then
+          git add index.html assets/app.js assets/logo-guaranteed.jpg assets/news-placeholder.svg news.json assets/news
+          if git diff --cached --quiet; then
             echo "No source changes needed"
           else
-            git add index.html assets/app.js assets/news-placeholder.svg
-            git commit -m "Add guaranteed local fallback for missing news images"
+            git commit -m "Permanently repair logo and localize news images"
             git push origin main
           fi
       - name: Setup Pages
