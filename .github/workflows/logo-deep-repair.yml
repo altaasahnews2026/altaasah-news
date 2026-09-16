@@ -1,0 +1,57 @@
+name: Deep logo repair
+on:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Repair every logo reference
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          files = [Path('index.html'), Path('assets/app.js')]
+          old = 'https://raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/assets/logo.jpg?v=20260916-16'
+          new = 'assets/logo-final.svg?v=20260916-18'
+          for p in files:
+              s = p.read_text(encoding='utf-8')
+              s = s.replace(old, new)
+              s = s.replace("this.src='${LOGO}'><img", "this.src='${LOGO}'\"><img")
+              p.write_text(s, encoding='utf-8')
+          PY
+      - name: Validate logo paths
+        run: |
+          test -s assets/logo-final.svg
+          grep -q "assets/logo-final.svg" index.html
+          grep -q "assets/logo-final.svg" assets/app.js
+          node --check assets/app.js
+      - name: Commit permanent repair
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No source changes needed"
+          else
+            git add index.html assets/app.js
+            git commit -m "Fix logo rendering paths permanently"
+            git push origin main
+          fi
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
