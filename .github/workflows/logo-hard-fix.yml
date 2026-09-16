@@ -1,0 +1,48 @@
+name: Logo hard fix and media deploy
+on:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v6
+      - name: Force self-contained logo
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          for p in [Path('index.html'), Path('assets/app.js')]:
+              s=p.read_text(encoding='utf-8')
+              s=s.replace('assets/logo-guaranteed.jpg?v=20260916-24','assets/logo-visible.svg?v=20260916-30')
+              s=s.replace('mix-blend-mode:screen','')
+              p.write_text(s,encoding='utf-8')
+          PY
+      - name: Validate assets
+        run: |
+          test -s assets/logo-visible.svg
+          test -s assets/news/1cf79a613a771c56.webp
+          node --check assets/app.js
+          grep -q 'assets/logo-visible.svg' index.html
+          grep -q 'assets/logo-visible.svg' assets/app.js
+      - name: Commit hard fix
+        run: |
+          git config user.name 'التاسعة نيوز'
+          git config user.email 'newsaltast@gmail.com'
+          git add index.html assets/app.js
+          git diff --cached --quiet && exit 0
+          git commit -m 'Hard fix logo visibility and local media rendering'
+          git push origin HEAD:main
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+      - name: Deploy Pages
+        uses: actions/deploy-pages@v4
