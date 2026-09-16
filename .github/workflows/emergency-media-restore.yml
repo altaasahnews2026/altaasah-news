@@ -1,0 +1,74 @@
+name: Emergency media restore
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Restore real local news images
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json, os
+          p='news.json'
+          d=json.load(open(p,encoding='utf-8'))
+          restore={
+            'إصابة 4 عسكريين بينهم ضابط بانفجار عبوة استهدفت همر شمال غربي كركوك':'assets/news/1cf79a613a771c56.webp',
+            'صرف الدولار يتجاوز 157 ألف دينار في الأسواق العراقية':'assets/news/48fff775b0f422d9.webp',
+            'إقليم كوردستان: تقليص ضخ دانة غاز يفقد منظومة الكهرباء 1000 ميغاواط':'assets/news/03e08562845d51ca.webp',
+            'اليوم.. 5 مواجهات في الجولة الثانية من الدوري العراقي الممتاز':'assets/news/7b71b183dcd23807.webp',
+            'بينها اللحوم.. العراق يمنع استيراد 33 مادة غذائية':'assets/news/ecbff6bc601bf113.jpg',
+            'وزير العدل يكشف تفاصيل جديدة عن تعديل قانون رعاية القاصرين':'assets/news/60ccd5d8fd590ff0.jfif',
+            'تحرك لإطلاق مبادرة المليون قطعة أرض':'assets/news/b82828640184a100.jpeg',
+            'ارتفاع جديد بأسعار الذهب في أسواق بغداد':'assets/news/9cdf963330dcf2ec.jpg'
+          }
+          for x in d.get('items',[]):
+            if x.get('title') in restore and os.path.isfile(restore[x['title']]):
+              x['image']=restore[x['title']]
+              x['original_image']=restore[x['title']]
+          json.dump(d,open(p,'w',encoding='utf-8'),ensure_ascii=False,indent=2)
+          PY
+      - name: Make logo visible on dark header
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('index.html')
+          s=p.read_text(encoding='utf-8')
+          s=s.replace('.identity{text-align:right;grid-column:1;justify-self:start}', '.identity{text-align:right;grid-column:1;justify-self:start;mix-blend-mode:screen}')
+          p.write_text(s,encoding='utf-8')
+          PY
+      - name: Validate restored media
+        run: |
+          test -s assets/logo-guaranteed.jpg
+          test -s assets/news-placeholder.svg
+          for f in assets/news/1cf79a613a771c56.webp assets/news/48fff775b0f422d9.webp assets/news/03e08562845d51ca.webp assets/news/7b71b183dcd23807.webp assets/news/ecbff6bc601bf113.jpg assets/news/60ccd5d8fd590ff0.jfif assets/news/b82828640184a100.jpeg assets/news/9cdf963330dcf2ec.jpg; do test -s "$f"; done
+          node --check assets/app.js
+      - name: Commit restoration
+        shell: bash
+        run: |
+          git config user.name 'التاسعة نيوز'
+          git config user.email 'newsaltast@gmail.com'
+          git add news.json index.html
+          git diff --cached --quiet && exit 0
+          git commit -m 'Restore working news images and logo visibility'
+          git push origin HEAD:main
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
