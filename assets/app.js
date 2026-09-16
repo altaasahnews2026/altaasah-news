@@ -2,10 +2,17 @@
 const ROOT=new URL('../',location.href);
 const ASSET=p=>new URL(p,ROOT).href;
 const DATA=ASSET('news.json');
-const LOGO=ASSET('assets/logo.jpg')+'?v=20260916-40';
-const PLACEHOLDER=ASSET('assets/news-placeholder.svg')+'?v=20260916-40';
+const LOGO=ASSET('assets/logo-visible.svg')+'?v=20260916-41';
+const PLACEHOLDER=ASSET('assets/news-placeholder.svg')+'?v=20260916-41';
 const app=document.getElementById('app');
 if(!app)return;
+/* Official logo lock: keep the supplied logo fixed and centered in the header. */
+(function lockOfficialLogo(){
+  const css=document.createElement('style');
+  css.textContent='.brandRow{grid-template-columns:1fr 1fr 1fr!important;min-height:142px!important}.identity{grid-column:2!important;justify-self:center!important;text-align:center!important}.identity img{content:url("'+LOGO+'");display:block!important;width:360px!important;max-width:100%!important;height:auto!important;margin:0 auto!important;filter:none!important;mix-blend-mode:normal!important}.footBrand img{content:url("'+LOGO+'");filter:none!important;mix-blend-mode:normal!important}@media(max-width:850px){.brandRow{grid-template-columns:1fr!important;min-height:145px!important}.identity{grid-column:auto!important;justify-self:center!important}.identity img{width:330px!important}}@media(max-width:520px){.identity img{width:290px!important}}';
+  document.head.appendChild(css);
+  document.querySelectorAll('.identity img,.footBrand img').forEach(img=>{img.src=LOGO;img.removeAttribute('srcset');img.style.mixBlendMode='normal';});
+})();
 const esc=s=>String(s??'').replace(/[&<>\"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[m]));
 const imageUrl=u=>{u=String(u||'').trim();if(!u)return PLACEHOLDER;if(/^https?:\/\//i.test(u))return u;if(u.startsWith('assets/'))return ASSET(u);if(u.startsWith('./'))return ASSET(u.slice(2));return ASSET(u.replace(/^\/+/,''));};
 const dateOf=x=>x?.published||x?.published_at||x?.date||x?.updated_at||'';
