@@ -1,4 +1,4 @@
-name: Deep logo repair
+name: Deep logo and image repair
 on:
   push:
     branches: [main]
@@ -14,25 +14,24 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
-      - name: Repair every logo reference
+      - name: Force local verified image assets
         shell: bash
         run: |
           python - <<'PY'
           from pathlib import Path
           files = [Path('index.html'), Path('assets/app.js')]
-          old = 'https://raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/assets/logo.jpg?v=20260916-16'
-          new = 'assets/logo-final.svg?v=20260916-18'
           for p in files:
               s = p.read_text(encoding='utf-8')
-              s = s.replace(old, new)
-              s = s.replace("this.src='${LOGO}'><img", "this.src='${LOGO}'\"><img")
+              s = s.replace('https://raw.githubusercontent.com/altaasahnews2026/altaasah-news/main/assets/logo.jpg?v=20260916-16', 'assets/logo.jpg?v=20260916-20')
+              s = s.replace('assets/logo-final.svg?v=20260916-18', 'assets/logo.jpg?v=20260916-20')
+              s = s.replace('assets/logo-final.svg', 'assets/logo.jpg?v=20260916-20')
               p.write_text(s, encoding='utf-8')
           PY
-      - name: Validate logo paths
+      - name: Validate image assets and JavaScript
         run: |
-          test -s assets/logo-final.svg
-          grep -q "assets/logo-final.svg" index.html
-          grep -q "assets/logo-final.svg" assets/app.js
+          test -s assets/logo.jpg
+          grep -q "assets/logo.jpg" index.html
+          grep -q "assets/logo.jpg" assets/app.js
           node --check assets/app.js
       - name: Commit permanent repair
         shell: bash
@@ -43,7 +42,7 @@ jobs:
             echo "No source changes needed"
           else
             git add index.html assets/app.js
-            git commit -m "Fix logo rendering paths permanently"
+            git commit -m "Use verified local logo asset for all image fallbacks"
             git push origin main
           fi
       - name: Setup Pages
