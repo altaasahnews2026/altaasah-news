@@ -16,16 +16,14 @@ jobs:
         uses: actions/checkout@v6
       - name: Install verified logo and repair all media references
         shell: bash
-        env:
-          LOGO_B64: "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBAUEBAYFBQUGBgYHCQ4JCQgICRINDQoOFRIWFhUSFBQX"
         run: |
           set -e
           mkdir -p assets/news
-          printf '%s' "$LOGO_B64" | base64 -d > assets/logo-guaranteed.jpg
+          cp assets/logo.jpg assets/logo-guaranteed.jpg
           python - <<'PY'
           from pathlib import Path
           import json, re, subprocess, hashlib, urllib.parse
-          logo = 'assets/logo-guaranteed.jpg?v=20260916-23'
+          logo = 'assets/logo-guaranteed.jpg?v=20260916-24'
           for path in [Path('index.html'), Path('assets/app.js')]:
               s = path.read_text(encoding='utf-8')
               s = re.sub(r'(?:https://raw\.githubusercontent\.com/altaasahnews2026/altaasah-news/main/)?assets/logo(?:-final\.svg|\.jpg)(?:\?v=[^"\\\']*)?', logo, s)
@@ -70,7 +68,7 @@ jobs:
           p.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
           js = Path('assets/app.js')
           s = js.read_text(encoding='utf-8')
-          s = re.sub(r"const PLACEHOLDER=BASE\+'[^']+';", "const PLACEHOLDER=BASE+'assets/news-placeholder.svg?v=20260916-23';", s)
+          s = re.sub(r"const PLACEHOLDER=BASE\+'[^']+';", "const PLACEHOLDER=BASE+'assets/news-placeholder.svg?v=20260916-24';", s)
           s = re.sub(r"const LOGO=BASE\+'[^']+';", "const LOGO=BASE+'"+logo+"';", s, count=1)
           js.write_text(s, encoding='utf-8')
           PY
