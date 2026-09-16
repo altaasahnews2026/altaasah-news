@@ -2,8 +2,8 @@
 const BASE='https://altaasahnews2026.github.io/altaasah-news/';
 const DATA=BASE+'news.json';
 const FEED=BASE+'feed.xml';
-const LOGO=BASE+'assets/logo.jpg?v=20260916-21';
-const PLACEHOLDER=BASE+'assets/news-placeholder.svg?v=20260916-21';
+const LOGO=BASE+'assets/logo-guaranteed.jpg?v=20260916-24';
+const PLACEHOLDER=BASE+'assets/news-placeholder.svg?v=20260916-24';
 const app=document.getElementById('app');if(!app)return;
 const esc=s=>String(s==null?'':s).replace(/[&<>\"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[m]));
 function img(u){u=String(u||'').trim();if(!u)return PLACEHOLDER;if(/^https:\/\/altaasahnews2026\.github\.io\/altaasah-news\/https:\/\//i.test(u))u=u.replace(BASE,'');if(/^https:\/\/raw\.githubusercontent\.com\/altaasahnews2026\/altaasah-news\/main\//i.test(u))u=BASE+u.replace(/^https:\/\/raw\.githubusercontent\.com\/altaasahnews2026\/altaasah-news\/main\//i,'');if(/^\.?\/?assets\//i.test(u))u=BASE+u.replace(/^\.?\//,'');return u;}
