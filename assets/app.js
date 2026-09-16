@@ -2,13 +2,13 @@
 const ROOT=new URL('./',location.href);
 const ASSET=p=>new URL(p,ROOT).href;
 const DATA=ASSET('news.json');
-const LOGO=ASSET('assets/logo.jpg')+'?v=20260916-42';
-const PLACEHOLDER=ASSET('assets/news-placeholder.svg')+'?v=20260916-42';
+const LOGO=ASSET('assets/logo-visible.svg')+'?v=20260916-45';
+const PLACEHOLDER=ASSET('assets/news-placeholder.svg')+'?v=20260916-45';
 const app=document.getElementById('app');
 if(!app)return;
 (function lockOfficialLogo(){
   const css=document.createElement('style');
-  css.textContent='.identity img,.footBrand img{filter:none!important;mix-blend-mode:normal!important;background:#fff!important;opacity:1!important}';
+  css.textContent='.identity img,.footBrand img{filter:none!important;mix-blend-mode:normal!important;background:#fff!important;opacity:1!important}.identity img{width:470px!important;max-width:100%!important}.footBrand img{width:280px!important;max-width:100%!important}.news-watermark{position:absolute!important;left:14px!important;bottom:14px!important;width:120px!important;height:auto!important;object-fit:contain!important;opacity:.95!important;z-index:5!important;filter:none!important;mix-blend-mode:normal!important}';
   document.head.appendChild(css);
   document.querySelectorAll('.identity img,.footBrand img').forEach(img=>{img.src=LOGO;img.removeAttribute('srcset');img.style.mixBlendMode='normal';img.style.opacity='1';});
 })();
