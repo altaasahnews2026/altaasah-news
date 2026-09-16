@@ -2,7 +2,7 @@
 const BASE='https://altaasahnews2026.github.io/altaasah-news/';
 const DATA=BASE+'news.json';
 const FEED=BASE+'feed.xml';
-const LOGO=BASE+'assets/logo-guaranteed.jpg?v=20260916-24';
+const LOGO=BASE+'assets/logo-visible.svg?v=20260916-30';
 const PLACEHOLDER=BASE+'assets/news-placeholder.svg?v=20260916-24';
 const app=document.getElementById('app');if(!app)return;
 const esc=s=>String(s==null?'':s).replace(/[&<>\"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[m]));
