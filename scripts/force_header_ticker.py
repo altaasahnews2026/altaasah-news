@@ -24,7 +24,7 @@ style='''<style id="force-live-ticker-style">
 </style>'''
 s=s.replace('</head>',style+'</head>',1)
 
-ticker_html='''<div class="ticker" id="latestTicker" aria-label="آخر الأخبار">
+ticker_html='''<div class="ticker" id="latestTicker" aria-label="آخر الأخبار - البث المباشر">
   <b>آخر الأخبار</b>
   <div class="tickerWindow"><div class="tickerTrack" id="latestTrack"></div></div>
 </div>'''
