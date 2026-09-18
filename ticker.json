@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T22:42:29.328403+00:00",
+  "updated_at": "2026-09-18T22:50:18.206807+00:00",
   "latest": [
     {
       "title": "شهباز شريف: نقف كتفاً إلى كتف مع السعودية دفاعاً عن سيادتها وأمن الحرمين",
@@ -91,7 +91,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-18T22:42:23.459473+00:00",
+      "published": "2026-09-18T22:50:11.547485+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -500,6 +500,16 @@
       ]
     },
     {
+      "title": "البيت الأبيض: ترمب سيلتقي رئيسة فنزويلا المؤقتة الأسبوع المقبل",
+      "url": "https://aawsat.com/node/5319984",
+      "category": "دولي",
+      "published": "Fri, 18 Sep 2026 23:48:24 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "ترمب يعلن منع 3 وسائل إعلام أميركية من دخول البيت الأبيض",
       "url": "https://aawsat.com/node/5319956",
       "category": "دولي",
@@ -618,14 +628,6 @@
       "url": "https://aawsat.com/node/5319852",
       "category": "دولي",
       "published": "Fri, 18 Sep 2026 15:44:49 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "إسبانيا تنقل مئات المهاجرين من شواطئ سبتة مع تصاعد الخطاب ضد الحكومة",
-      "url": "https://aawsat.com/node/5319840",
-      "category": "دولي",
-      "published": "Fri, 18 Sep 2026 15:11:43 +0100",
       "breaking": false,
       "watch_topics": []
     }
