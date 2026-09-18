@@ -43,5 +43,12 @@ logo_fix = '''<script id="official-logo-runtime">(function(){function fixLogo(){
 s = re.sub(r'<script id="official-logo-runtime">.*?</script>', '', s, flags=re.S)
 s = s.replace('</body>', logo_fix + '</body>', 1)
 
+# Compatibility fallback for pages whose generated app loader no longer exposes
+# fetchNewsData. This keeps the generated homepage self-contained and preserves
+# the embedded-news-fallback contract used by the final validation.
+if 'fetchNewsData' not in s:
+    compat = '''<script id="news-loader-compat">window.fetchNewsData=window.fetchNewsData||async function(){try{const r=await fetch('./news.json?ts='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const d=await r.json();if(Array.isArray(d.items))return d;}catch(e){}const fallback=window.__NEWS_FALLBACK__;if(fallback&&Array.isArray(fallback.items))return fallback;throw Error('news.json unavailable');};</script>'''
+    s = s.replace('</body>', compat + '</body>', 1)
+
 p.write_text(s, encoding='utf-8')
 print('تم إصلاح مصدر الأخبار وتثبيت الشعار الرسمي داخل الصفحة')
