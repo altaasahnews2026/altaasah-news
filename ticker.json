@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T21:18:55.690214+00:00",
+  "updated_at": "2026-09-18T21:31:37.597135+00:00",
   "latest": [
     {
       "title": "السعودية ومصر تبحثان التطورات والعلاقات",
@@ -91,7 +91,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-18T21:18:52.885398+00:00",
+      "published": "2026-09-18T21:31:32.106915+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -549,6 +549,14 @@
       ]
     },
     {
+      "title": "زيلينسكي: أوكرانيا تعمل على سد عجز «فلكي» في الموازنة",
+      "url": "https://aawsat.com/node/5319970",
+      "category": "دولي",
+      "published": "Fri, 18 Sep 2026 22:23:57 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "سياح في جزيرة كريت يتابعون عن قرب تدريبات عسكرية تقودها اليونان ومصر",
       "url": "https://aawsat.com/node/5319932",
       "category": "دولي",
@@ -617,14 +625,6 @@
       "url": "https://aawsat.com/node/5319840",
       "category": "دولي",
       "published": "Fri, 18 Sep 2026 15:11:43 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ماكرون: الهجمات الروسية متعددة الوسيلة لن تبقى «من دون رد»",
-      "url": "https://aawsat.com/node/5319834",
-      "category": "دولي",
-      "published": "Fri, 18 Sep 2026 14:45:39 +0100",
       "breaking": false,
       "watch_topics": []
     }
