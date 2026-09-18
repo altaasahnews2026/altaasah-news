@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T23:06:33.019405+00:00",
+  "updated_at": "2026-09-18T23:20:29.035104+00:00",
   "latest": [
     {
       "title": "شهباز شريف: نقف كتفاً إلى كتف مع السعودية دفاعاً عن سيادتها وأمن الحرمين",
@@ -91,7 +91,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-18T23:06:27.473478+00:00",
+      "published": "2026-09-18T23:20:23.839459+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -482,6 +482,14 @@
       ]
     },
     {
+      "title": "روسيا تندّد بهجوم أوكراني مع بدء الانتخابات التشريعية",
+      "url": "https://aawsat.com/node/5319995",
+      "category": "دولي",
+      "published": "Sat, 19 Sep 2026 00:13:33 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "وكالة الطاقة الذرية: مسيّرة تصطدم ببرج تبريد في محطة نووية روسية",
       "url": "https://aawsat.com/node/5319896",
       "category": "دولي",
@@ -620,14 +628,6 @@
       "url": "https://aawsat.com/node/5319871",
       "category": "دولي",
       "published": "Fri, 18 Sep 2026 16:13:35 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الروس يدلون بأصواتهم في «انتخابات حاسمة وظروف استثنائية»",
-      "url": "https://aawsat.com/node/5319852",
-      "category": "دولي",
-      "published": "Fri, 18 Sep 2026 15:44:49 +0100",
       "breaking": false,
       "watch_topics": []
     }
@@ -780,6 +780,14 @@
       "url": "https://aawsat.com/node/5319661",
       "category": "مشرق أوسط",
       "published": "Fri, 18 Sep 2026 00:52:18 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "روسيا تندّد بهجوم أوكراني مع بدء الانتخابات التشريعية",
+      "url": "https://aawsat.com/node/5319995",
+      "category": "دولي",
+      "published": "Sat, 19 Sep 2026 00:13:33 +0100",
       "breaking": true,
       "watch_topics": []
     },
