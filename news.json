@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T20:48:57.985944+00:00",
+  "updated_at": "2026-09-18T20:55:53.690228+00:00",
   "items": [
     {
       "title": "استهداف برج لنقل الطاقة الكهربائية في الانبار",
@@ -7,8 +7,8 @@
       "category": "محليات",
       "region": "الأنبار",
       "published": "2026-09-18T20:17:33+00:00",
-      "image": "./assets/news/008595e24fe6e6fceb2fcb5a.jpg",
-      "original_image": "./assets/news/008595e24fe6e6fceb2fcb5a.jpg",
+      "image": "./assets/news/ec7d9f7a390f8d2dba78779c.jpg",
+      "original_image": "./assets/news/ec7d9f7a390f8d2dba78779c.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/576406/%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A8%D8%B1%D8%AC-%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D9%86%D8%A8%D8%A7%D8%B1",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -470,7 +470,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-18T20:48:58.160374+00:00",
+      "published": "2026-09-18T20:55:53.945595+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -480,7 +480,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/939aa2355385.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7a72576ce493.html"
     }
   ]
 }
