@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-18T22:19:32.364457+00:00",
+  "updated_at": "2026-09-18T22:32:15.411632+00:00",
   "latest": [
     {
-      "title": "السعودية ومصر تبحثان التطورات والعلاقات",
-      "url": "https://aawsat.com/node/5318813",
+      "title": "شهباز شريف: نقف كتفاً إلى كتف مع السعودية دفاعاً عن سيادتها وأمن الحرمين",
+      "url": "https://aawsat.com/node/5318881",
       "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 00:06:02 +0100",
+      "published": "Wed, 16 Sep 2026 09:05:17 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
@@ -91,7 +91,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-18T22:19:27.367554+00:00",
+      "published": "2026-09-18T22:32:12.200645+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -286,6 +286,17 @@
       ]
     },
     {
+      "title": "سيول تؤكد لواشنطن عزمها المساهمة في استعادة حرية الملاحة بمضيق هرمز",
+      "url": "https://aawsat.com/node/5319979",
+      "category": "مشرق أوسط",
+      "published": "Fri, 18 Sep 2026 23:25:47 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
       "title": "قتيل وإصابات إثر قصف إسرائيلي استهدف دراجة نارية في غزة",
       "url": "https://aawsat.com/node/5319934",
       "category": "مشرق أوسط",
@@ -454,16 +465,6 @@
       "url": "https://aawsat.com/node/5318899",
       "category": "مشرق أوسط",
       "published": "Wed, 16 Sep 2026 09:45:40 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "شهباز شريف: نقف كتفاً إلى كتف مع السعودية دفاعاً عن سيادتها وأمن الحرمين",
-      "url": "https://aawsat.com/node/5318881",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 09:05:17 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
