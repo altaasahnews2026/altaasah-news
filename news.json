@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T11:50:07.392490+00:00",
+  "updated_at": "2026-09-19T11:56:55.809643+00:00",
   "items": [
     {
       "title": "انفجارات قرب مطار الرياض تعطل حركة الطيران.. ماذا يحدث؟",
@@ -18,6 +18,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/82eecf7bf4cb.html"
     },
     {
+      "title": "هجوم جوي يستهدف الرياض للمرة الأولى منذ بدء التصعيد مع الحوثيين",
+      "url": "https://964media.com/718181/",
+      "category": "رياضة",
+      "region": "كركوك",
+      "published": "2026-09-19T11:34:51+00:00",
+      "image": "./assets/news/e296a9909f4532cdd6a63828.jpg",
+      "original_image": "./assets/news/e296a9909f4532cdd6a63828.jpg",
+      "source_url": "https://964media.com/718181/",
+      "source_name": "شبكة 964",
+      "breaking": true,
+      "kirkuk": true,
+      "report": false,
+      "governorate": "كركوك",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/801009d9ece3.html"
+    },
+    {
       "title": "اعتقال مدان بالإعدام بعد اشتباك ومحاصرة مكانه في كربلاء",
       "url": "https://964media.com/718165/",
       "category": "أمن",
@@ -34,6 +50,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5c10776d9b90.html"
     },
     {
+      "title": "ماذا ينتظر الحمل والأسد والميزان اليوم؟",
+      "url": "https://www.alsumaria.tv/news/horoscopenews/576444/%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D9%86%D8%AA%D8%B8%D8%B1-%D8%A7%D9%84%D8%AD%D9%85%D9%84-%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D8%9F",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-19T11:46:35+00:00",
+      "image": "./assets/news/26556a42dba81b4a8a3aa863.jpg",
+      "original_image": "./assets/news/26556a42dba81b4a8a3aa863.jpg",
+      "source_url": "https://www.alsumaria.tv/news/horoscopenews/576444/%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D9%86%D8%AA%D8%B8%D8%B1-%D8%A7%D9%84%D8%AD%D9%85%D9%84-%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D8%9F",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a6a1ae08416b.html"
+    },
+    {
       "title": "في حفل القاهرة.. لماذا اعتذر كاظم الساهر للسيدات؟",
       "url": "https://www.alsumaria.tv/news/trends-alsumaria/576443/%D9%81%D9%8A-%D8%AD%D9%81%D9%84-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%A7%D8%B9%D8%AA%D8%B0%D8%B1-%D9%83%D8%A7%D8%B8%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D9%87%D8%B1-%D9%84%D9%84%D8%B3%D9%8A%D8%AF%D8%A7%D8%AA%D8%9F",
       "category": "محليات",
@@ -48,6 +80,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/511f7e22eb03.html"
+    },
+    {
+      "title": "تصاعد الدخان قرب مطار الرياض واضطراب في حركة الطيران، والأمم المتحدة توثق أكثر من 100 ضحية بين المدنيين في اليمن - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
+      "category": "عربي ودولي",
+      "region": "كركوك",
+      "governorate": "كركوك",
+      "published": "2026-09-19T11:29:09+00:00",
+      "image": "./assets/news/24d1c3403289be6731acb5c0.jpg",
+      "original_image": "./assets/news/24d1c3403289be6731acb5c0.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": true,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/334f95e28e5c.html"
     },
     {
       "title": "واشنطن: العراق سيشارك في مواجهة أي تهديد لداعش",
@@ -87,8 +135,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-19T11:13:59+00:00",
-      "image": "./assets/news/e79d315cf3fac6c8c5ea9094.jpg",
-      "original_image": "./assets/news/e79d315cf3fac6c8c5ea9094.jpg",
+      "image": "./assets/news/b84f04cd2a5bb7c7b435ed53.jpg",
+      "original_image": "./assets/news/b84f04cd2a5bb7c7b435ed53.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576439/%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%8A%D9%83%D8%B4%D9%81-%D9%88%D9%82%D8%A7%D8%A6%D8%B9-%D8%BA%D8%B1%D9%8A%D8%A8%D8%A9-%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-%D8%AA%D8%AD%D9%84%D9%82-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -306,22 +354,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5876cc1025de.html"
     },
     {
-      "title": "الدفاع المدني السعودي يعلن زوال الخطر عن الرياض، والأمم المتحدة توثق أكثر من 100 ضحية بين المدنيين في اليمن - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
-      "category": "عربي ودولي",
-      "region": "كركوك",
-      "governorate": "كركوك",
-      "published": "2026-09-19T09:27:26+00:00",
-      "image": "./assets/news/24d1c3403289be6731acb5c0.jpg",
-      "original_image": "./assets/news/24d1c3403289be6731acb5c0.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": true,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/48464a0032c3.html"
-    },
-    {
       "title": "إحباط عملية قرصنة مسلحة ضد ناقلة نفط في مياه البصرة",
       "url": "https://www.alsumaria.tv/news/security/576429/%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%82%D8%B1%D8%B5%D9%86%D8%A9-%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D8%B6%D8%AF-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D9%81%D9%8A-%D9%85%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9",
       "category": "اقتصاد",
@@ -434,22 +466,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/55b37ac407d1.html"
     },
     {
-      "title": "واشنطن تايمز: حصر السلاح مفتاح تحول بغداد إلى مركز إقليمي للطاقة والاقتصاد",
-      "url": "https://www.alsumaria.tv/news/security/576424/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D9%85%D9%81%D8%AA%D8%A7%D8%AD-%D8%AA%D8%AD%D9%88%D9%84-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A5%D9%84%D9%89-%D9%85%D8%B1%D9%83%D8%B2-%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D9%82%D8%AA",
-      "category": "اقتصاد",
-      "region": "بغداد",
-      "published": "2026-09-19T08:26:33+00:00",
-      "image": "./assets/news/eeb180bb57bde5486eeb84b1.jpg",
-      "original_image": "./assets/news/eeb180bb57bde5486eeb84b1.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/576424/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D9%85%D9%81%D8%AA%D8%A7%D8%AD-%D8%AA%D8%AD%D9%88%D9%84-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A5%D9%84%D9%89-%D9%85%D8%B1%D9%83%D8%B2-%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D9%82%D8%AA",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5c306fc9e464.html"
-    },
-    {
       "title": "مقتل 31 شخصاً في انفجار مسجد داخل منشأة للشرطة في باكستان، وإصابة أكثر من مئة - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c60rejdr40p9o",
       "category": "أمن",
@@ -550,7 +566,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-19T11:50:07.578296+00:00",
+      "published": "2026-09-19T11:56:56.035510+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -560,7 +576,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9d67326502ea.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/859ed101ed30.html"
     }
   ]
 }
