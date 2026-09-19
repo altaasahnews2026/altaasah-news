@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T21:21:52.207667+00:00",
+  "updated_at": "2026-09-19T21:31:52.640504+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -19,16 +19,6 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
-      ]
-    },
-    {
-      "title": "الحوثيون يعلنون قصف أهداف في الرياض وينبع",
-      "url": "https://www.alsumaria.tv/news/international/576464/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B9%D9%84%D9%86%D9%88%D9%86-%D9%82%D8%B5%D9%81-%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%88%D9%8A%D9%86%D8%A8%D8%B9",
-      "category": "عراق",
-      "published": "2026-09-19T17:09:11+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
       ]
     },
     {
@@ -77,6 +67,16 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "الحوثيون يعلنون مهاجمة أهداف في الرياض وينبع",
+      "url": "https://www.alsumaria.tv/news/international/576464/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B9%D9%84%D9%86%D9%88%D9%86-%D9%85%D9%87%D8%A7%D8%AC%D9%85%D8%A9-%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%88%D9%8A%D9%86%D8%A8%D8%B9",
+      "category": "عراق",
+      "published": "2026-09-19T17:09:11+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {
@@ -143,7 +143,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T21:21:46.918167+00:00",
+      "published": "2026-09-19T21:31:50.294533+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -658,16 +658,6 @@
     }
   ],
   "breaking": [
-    {
-      "title": "الحوثيون يعلنون قصف أهداف في الرياض وينبع",
-      "url": "https://www.alsumaria.tv/news/international/576464/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B9%D9%84%D9%86%D9%88%D9%86-%D9%82%D8%B5%D9%81-%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%88%D9%8A%D9%86%D8%A8%D8%B9",
-      "category": "عراق",
-      "published": "2026-09-19T17:09:11+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
     {
       "title": "مقتل 31 شخصاً في انفجار مسجد داخل منشأة للشرطة في باكستان، وإصابة أكثر من مئة - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c60rejdr40p9o",
