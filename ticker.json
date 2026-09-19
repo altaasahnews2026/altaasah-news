@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T16:35:04.702061+00:00",
+  "updated_at": "2026-09-19T16:45:47.430854+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -137,7 +137,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T16:34:58.206817+00:00",
+      "published": "2026-09-19T16:45:43.485661+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -521,6 +521,16 @@
       "watch_topics": []
     },
     {
+      "title": "ترمب يعلن «سيطرة دائمة» لواشنطن على أمن غرينلاند",
+      "url": "https://aawsat.com/node/5320202",
+      "category": "دولي",
+      "published": "Sat, 19 Sep 2026 17:41:51 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "واشنطن توافق على صفقة محتملة لبيع دفاعات جوية لأوكرانيا بنحو 2.7 مليار دولار",
       "url": "https://aawsat.com/node/5320185",
       "category": "دولي",
@@ -633,14 +643,6 @@
       "url": "https://aawsat.com/node/5320168",
       "category": "دولي",
       "published": "Sat, 19 Sep 2026 15:56:29 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "مدفيديف: العقوبات الأميركية تستدعي «ردعاً عسكرياً» من روسيا",
-      "url": "https://aawsat.com/node/5320137",
-      "category": "دولي",
-      "published": "Sat, 19 Sep 2026 14:41:31 +0100",
       "breaking": false,
       "watch_topics": []
     }
