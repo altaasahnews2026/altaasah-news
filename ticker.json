@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-09-19T09:56:23.418764+00:00",
+  "updated_at": "2026-09-19T10:06:07.589113+00:00",
   "latest": [
+    {
+      "title": "شهباز شريف: نقف كتفاً إلى كتف مع السعودية دفاعاً عن سيادتها وأمن الحرمين",
+      "url": "https://aawsat.com/node/5318881",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 09:05:17 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
+      "url": "https://aawsat.com/node/5320075",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 10:15:12 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
     {
       "title": "قاليباف يقول إن عصر استهداف المقاتلات الأمريكية بدأ، وسماع دوي انفجارات في الرياض بعد \"تهديدات جوية\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm3eqww5qx8zo",
@@ -112,7 +132,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T09:56:19.841121+00:00",
+      "published": "2026-09-19T10:06:02.181038+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -245,6 +265,26 @@
       "watch_topics": []
     },
     {
+      "title": "السعودية تدين استهداف مسجد في باكستان",
+      "url": "https://aawsat.com/node/5319832",
+      "category": "مشرق أوسط",
+      "published": "Fri, 18 Sep 2026 14:40:04 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "السعودية تشدّد على حق الدفاع عن أمنها وتدين محاولة استهداف الحوثي لـ«مكة»",
+      "url": "https://aawsat.com/node/5319023",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 13:57:23 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "سيول تؤكد لواشنطن عزمها المساهمة في استعادة حرية الملاحة بمضيق هرمز",
       "url": "https://aawsat.com/node/5319979",
       "category": "مشرق أوسط",
@@ -296,6 +336,46 @@
       "watch_topics": []
     },
     {
+      "title": "تركيا تندد بمحاولة الحوثيين الهجوم على مكة وتطالب بوضع حد لهجماتهم",
+      "url": "https://aawsat.com/node/5319437",
+      "category": "مشرق أوسط",
+      "published": "Thu, 17 Sep 2026 13:14:48 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "إدانات واسعة لاستهداف الحوثيين مكة المكرمة",
+      "url": "https://aawsat.com/node/5319275",
+      "category": "مشرق أوسط",
+      "published": "Thu, 17 Sep 2026 02:16:37 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "إدانات عربية وإسلامية ودولية لاستهداف الحوثي العاصمة المقدسة",
+      "url": "https://aawsat.com/node/5319216",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 20:36:25 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "الحوثي يواصل استهداف المقدسات الإسلامية... والتحالف يؤكد: «أمن الحرمين خط أحمر»",
+      "url": "https://aawsat.com/node/5319107",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 16:44:44 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "الإرياني: استهداف مكة من قبل الحوثيين يكشف طبيعة هذه الميليشيا",
+      "url": "https://aawsat.com/node/5318818",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 02:43:27 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "ارتفاع حصيلة تفجير وهجوم مسلّح في باكستان إلى 31 قتيلاً",
       "url": "https://aawsat.com/node/5319782",
       "category": "مشرق أوسط",
@@ -340,112 +420,64 @@
       ]
     },
     {
-      "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
-      "url": "https://aawsat.com/node/5320075",
+      "title": "السعودية تعلن «زوال الخطر» في 10 مدن بعد إطلاق الإنذار المبكر",
+      "url": "https://aawsat.com/node/5320074",
       "category": "مشرق أوسط",
-      "published": "Sat, 19 Sep 2026 10:15:12 +0100",
+      "published": "Sat, 19 Sep 2026 10:13:39 +0100",
       "breaking": false,
       "watch_topics": [
-        "إيران"
+        "السعودية"
       ]
     },
     {
-      "title": "رئيس كوريا الجنوبية: لن ننشر جيشنا للقتال في مضيق هرمز",
-      "url": "https://aawsat.com/node/5319667",
+      "title": "إطلاق اسم مساعد بن عبد الرحمن على الجامعة السعودية الإلكترونية",
+      "url": "https://aawsat.com/node/5319919",
       "category": "مشرق أوسط",
-      "published": "Fri, 18 Sep 2026 05:12:01 +0100",
+      "published": "Fri, 18 Sep 2026 18:36:15 +0100",
       "breaking": false,
       "watch_topics": [
-        "إيران"
+        "السعودية"
       ]
     },
     {
-      "title": "المخا بعد الاعتداءات الحوثية... نهب وفقر وخوف ونزوح",
-      "url": "https://aawsat.com/node/5319796",
+      "title": "السعودية: مؤسسة «إحسان» تناقش تعزيز العمل الخيري",
+      "url": "https://aawsat.com/node/5319596",
       "category": "مشرق أوسط",
-      "published": "Fri, 18 Sep 2026 13:46:33 +0100",
+      "published": "Thu, 17 Sep 2026 19:14:31 +0100",
       "breaking": false,
-      "watch_topics": []
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
-      "title": "الجيش اليمني يحبط تثبيت مكاسب الحوثيين غرباً",
-      "url": "https://aawsat.com/node/5319787",
+      "title": "السعودية: وفاة مقيم وإصابة اثنين بشظايا مسيَّرة في الطائف",
+      "url": "https://aawsat.com/node/5319453",
       "category": "مشرق أوسط",
-      "published": "Fri, 18 Sep 2026 13:34:30 +0100",
+      "published": "Thu, 17 Sep 2026 13:51:40 +0100",
       "breaking": false,
-      "watch_topics": []
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
-      "title": "122 ألف يمني فروا من جحيم الحوثيين خلال أسبوعين",
-      "url": "https://aawsat.com/node/5319410",
+      "title": "ولي العهد السعودي يتلقى رسالة من ملك الأردن",
+      "url": "https://aawsat.com/node/5319150",
       "category": "مشرق أوسط",
-      "published": "Thu, 17 Sep 2026 11:41:43 +0100",
+      "published": "Wed, 16 Sep 2026 18:01:58 +0100",
       "breaking": false,
-      "watch_topics": []
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
-      "title": "خسائر حوثية متلاحقة تحت ضربات الطيران وفي الجبهات",
-      "url": "https://aawsat.com/node/5319401",
+      "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
+      "url": "https://aawsat.com/node/5318899",
       "category": "مشرق أوسط",
-      "published": "Thu, 17 Sep 2026 11:18:34 +0100",
+      "published": "Wed, 16 Sep 2026 09:45:40 +0100",
       "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "العليمي يوجه بالتحرك الميداني لتوثيق الانتهاكات الحوثية",
-      "url": "https://aawsat.com/node/5319396",
-      "category": "مشرق أوسط",
-      "published": "Thu, 17 Sep 2026 11:06:42 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الأمم المتحدة: الوضع في اليمن سريع التغير... وقيود تعرقل الوصول إلى الساحل الغربي",
-      "url": "https://aawsat.com/node/5319391",
-      "category": "مشرق أوسط",
-      "published": "Thu, 17 Sep 2026 10:43:23 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "مصر وسوريا... لقاءات رسمية متتالية تدفع وتيرة التعاون",
-      "url": "https://aawsat.com/node/5319091",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 16:20:53 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "مدارس الساحل الغربي اليمني تدفع ثمن السيطرة الحوثية",
-      "url": "https://aawsat.com/node/5318969",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 11:41:31 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "تحرُّك حكومي يمني لمواجهة تداعيات هجمات الحوثيين",
-      "url": "https://aawsat.com/node/5318967",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 11:40:10 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "تقرير: الحوثيون يحفرون خنادق قرب باب المندب ويلغمون البحر",
-      "url": "https://aawsat.com/node/5318665",
-      "category": "مشرق أوسط",
-      "published": "Tue, 15 Sep 2026 16:41:47 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "مباحثات ليبية - مصرية لتطوير برامج التأهيل وتنظيم استقدام العمالة",
-      "url": "https://aawsat.com/node/5318568",
-      "category": "مشرق أوسط",
-      "published": "Tue, 15 Sep 2026 13:58:45 +0100",
-      "breaking": false,
-      "watch_topics": []
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
       "title": "قتلى الجيش الأميركي في حرب إيران... العدد يفوق ما أعلنه البنتاغون",
@@ -498,6 +530,16 @@
       "url": "https://aawsat.com/node/5319966",
       "category": "دولي",
       "published": "Fri, 18 Sep 2026 21:56:04 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "«سي إن إن»: منع وسائل إعلام من دخول البيت الأبيض اعتداء على حرية الصحافة",
+      "url": "https://aawsat.com/node/5320087",
+      "category": "دولي",
+      "published": "Sat, 19 Sep 2026 11:01:21 +0100",
       "breaking": false,
       "watch_topics": [
         "أمريكا"
@@ -600,30 +642,6 @@
       "published": "Fri, 18 Sep 2026 19:00:54 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "زيلينسكي يستقبل قادة 7 دول في قمة إقليمية... وماكرون يهدد بالرد على «الهجمات الهجينة»",
-      "url": "https://aawsat.com/node/5319907",
-      "category": "دولي",
-      "published": "Fri, 18 Sep 2026 17:58:05 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الرئيس الأوكراني يستقبل قادة 7 دول في قمة إقليمية",
-      "url": "https://aawsat.com/node/5319888",
-      "category": "دولي",
-      "published": "Fri, 18 Sep 2026 17:00:38 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بريطانيا: سجن شاب من جنوب السودان اعترف بقيادة قارب مهاجرين",
-      "url": "https://aawsat.com/node/5319871",
-      "category": "دولي",
-      "published": "Fri, 18 Sep 2026 16:13:35 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -652,6 +670,26 @@
       "published": "2026-09-19T07:21:08+00:00",
       "breaking": true,
       "watch_topics": []
+    },
+    {
+      "title": "السعودية تدين استهداف مسجد في باكستان",
+      "url": "https://aawsat.com/node/5319832",
+      "category": "مشرق أوسط",
+      "published": "Fri, 18 Sep 2026 14:40:04 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "السعودية تشدّد على حق الدفاع عن أمنها وتدين محاولة استهداف الحوثي لـ«مكة»",
+      "url": "https://aawsat.com/node/5319023",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 13:57:23 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
       "title": "قتيل وإصابات إثر قصف إسرائيلي استهدف دراجة نارية في غزة",
@@ -690,6 +728,46 @@
       "url": "https://aawsat.com/node/5318829",
       "category": "مشرق أوسط",
       "published": "Wed, 16 Sep 2026 06:11:59 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تركيا تندد بمحاولة الحوثيين الهجوم على مكة وتطالب بوضع حد لهجماتهم",
+      "url": "https://aawsat.com/node/5319437",
+      "category": "مشرق أوسط",
+      "published": "Thu, 17 Sep 2026 13:14:48 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "إدانات واسعة لاستهداف الحوثيين مكة المكرمة",
+      "url": "https://aawsat.com/node/5319275",
+      "category": "مشرق أوسط",
+      "published": "Thu, 17 Sep 2026 02:16:37 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "إدانات عربية وإسلامية ودولية لاستهداف الحوثي العاصمة المقدسة",
+      "url": "https://aawsat.com/node/5319216",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 20:36:25 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "الحوثي يواصل استهداف المقدسات الإسلامية... والتحالف يؤكد: «أمن الحرمين خط أحمر»",
+      "url": "https://aawsat.com/node/5319107",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 16:44:44 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "الإرياني: استهداف مكة من قبل الحوثيين يكشف طبيعة هذه الميليشيا",
+      "url": "https://aawsat.com/node/5318818",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 02:43:27 +0100",
       "breaking": true,
       "watch_topics": []
     },
