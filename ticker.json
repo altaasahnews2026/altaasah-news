@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T19:49:45.986203+00:00",
+  "updated_at": "2026-09-19T19:57:32.186479+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -120,10 +120,20 @@
       ]
     },
     {
+      "title": "رئيس مجلس النواب الأمريكي: الصراع مع إيران في مراحله الختامية",
+      "url": "https://www.alsumaria.tv/news/international/576472/%d8%b1%d8%a6%d9%8a%d8%b3-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d8%a7%d9%84%d8%b5%d8%b1%d8%a7%d8%b9-%d9%85%d8%b9-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d9%81%d9%8a-%d9%85%d8%b1%d8%a7%d8%ad?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Sat, 19 Sep 2026 19:54:00 GMT",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T19:49:41.334235+00:00",
+      "published": "2026-09-19T19:57:23.099896+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -256,14 +266,6 @@
       "watch_topics": []
     },
     {
-      "title": "اعتقال سارق متسلسل لمواشي ديالى.. الشرطة نسقت مع النجف للإطاحة به",
-      "url": "https://964media.com/718271/",
-      "category": "عراق",
-      "published": "2026-09-19T16:23:29+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "السعودية تدين استهداف مسجد في باكستان",
       "url": "https://aawsat.com/node/5319832",
       "category": "مشرق أوسط",
@@ -367,14 +369,6 @@
       "watch_topics": []
     },
     {
-      "title": "الإرياني: استهداف مكة من قبل الحوثيين يكشف طبيعة هذه الميليشيا",
-      "url": "https://aawsat.com/node/5318818",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 02:43:27 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "ارتفاع حصيلة تفجير وهجوم مسلّح في باكستان إلى 31 قتيلاً",
       "url": "https://aawsat.com/node/5319782",
       "category": "مشرق أوسط",
@@ -426,6 +420,16 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "التحالف: تدمير باليستي أطلقته ميليشيا الحوثي باتجاه الرياض",
+      "url": "https://aawsat.com/node/5320244",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 20:52:59 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {
@@ -759,14 +763,6 @@
       "url": "https://aawsat.com/node/5319107",
       "category": "مشرق أوسط",
       "published": "Wed, 16 Sep 2026 16:44:44 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "الإرياني: استهداف مكة من قبل الحوثيين يكشف طبيعة هذه الميليشيا",
-      "url": "https://aawsat.com/node/5318818",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 02:43:27 +0100",
       "breaking": true,
       "watch_topics": []
     },
