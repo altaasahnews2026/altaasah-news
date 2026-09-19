@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T17:49:14.875389+00:00",
+  "updated_at": "2026-09-19T17:56:30.803674+00:00",
   "items": [
     {
       "title": "اشتباكات مسلحة في الشطرة.. إصابة مدير مكافحة المخدرات واعتقال مطلوبين",
@@ -34,29 +34,13 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/055a56454f3b.html"
     },
     {
-      "title": "مجلس ذي قار يكشف حقيقة ضبط لحوم خنزير في الناصرية",
-      "url": "https://www.alsumaria.tv/news/localnews/576466/%D9%85%D8%AC%D9%84%D8%B3-%D8%B0%D9%8A-%D9%82%D8%A7%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%B6%D8%A8%D8%B7-%D9%84%D8%AD%D9%88%D9%85-%D8%AE%D9%86%D8%B2%D9%8A%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%D9%8A%D8%A9",
-      "category": "محليات",
-      "region": "ذي قار",
-      "published": "2026-09-19T17:44:25+00:00",
-      "image": "./assets/news/a346b58ca216ef1f24b45dea.jpg",
-      "original_image": "./assets/news/a346b58ca216ef1f24b45dea.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/576466/%D9%85%D8%AC%D9%84%D8%B3-%D8%B0%D9%8A-%D9%82%D8%A7%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%B6%D8%A8%D8%B7-%D9%84%D8%AD%D9%88%D9%85-%D8%AE%D9%86%D8%B2%D9%8A%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%D9%8A%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "ذي قار",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8b9aba1f24ef.html"
-    },
-    {
       "title": "واشنطن بوست: ترامب يقر بأن قراراته بشأن الحرب أضرت بالجمهوريين",
       "url": "https://www.alsumaria.tv/news/international/576465/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A8%D9%88%D8%B3%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%82%D8%B1-%D8%A8%D8%A3%D9%86-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A3%D8%B6%D8%B1%D8%AA-%D8%A8%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%8A%D9%86",
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-19T17:35:00+00:00",
-      "image": "./assets/news/357464b5c237c2352878806a.jpg",
-      "original_image": "./assets/news/357464b5c237c2352878806a.jpg",
+      "image": "./assets/news/5ac78dba7f8b7f2ac2092125.jpg",
+      "original_image": "./assets/news/5ac78dba7f8b7f2ac2092125.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576465/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A8%D9%88%D8%B3%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%82%D8%B1-%D8%A8%D8%A3%D9%86-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A3%D8%B6%D8%B1%D8%AA-%D8%A8%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%8A%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -71,8 +55,8 @@
       "category": "رياضة",
       "region": "كركوك",
       "published": "2026-09-19T17:09:11+00:00",
-      "image": "./assets/news/2c61f8fc98dfc27b2d9e761c.jpg",
-      "original_image": "./assets/news/2c61f8fc98dfc27b2d9e761c.jpg",
+      "image": "./assets/news/525aa960122af28a633f89fe.jpg",
+      "original_image": "./assets/news/525aa960122af28a633f89fe.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576464/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B9%D9%84%D9%86%D9%88%D9%86-%D9%82%D8%B5%D9%81-%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%88%D9%8A%D9%86%D8%A8%D8%B9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -598,7 +582,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-19T17:49:15.098541+00:00",
+      "published": "2026-09-19T17:56:31.023787+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -608,7 +592,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/17008b083597.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/069b5c6df2ce.html"
     }
   ]
 }
