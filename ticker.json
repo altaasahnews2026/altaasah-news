@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-19T11:09:21.702482+00:00",
+  "updated_at": "2026-09-19T11:21:18.922591+00:00",
   "latest": [
     {
-      "title": "شهباز شريف: نقف كتفاً إلى كتف مع السعودية دفاعاً عن سيادتها وأمن الحرمين",
-      "url": "https://aawsat.com/node/5318881",
+      "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
+      "url": "https://aawsat.com/node/5318899",
       "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 09:05:17 +0100",
+      "published": "Wed, 16 Sep 2026 09:45:40 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
@@ -147,10 +147,20 @@
       ]
     },
     {
+      "title": "البنتاغون يكشف وقائع غريبة.. ‏ أجسام تحلق فوق الشرق الأوسط",
+      "url": "https://www.alsumaria.tv/news/international/576439/%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%8A%D9%83%D8%B4%D9%81-%D9%88%D9%82%D8%A7%D8%A6%D8%B9-%D8%BA%D8%B1%D9%8A%D8%A8%D8%A9-%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-%D8%AA%D8%AD%D9%84%D9%82-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "category": "عراق",
+      "published": "2026-09-19T11:13:59+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T11:09:15.472326+00:00",
+      "published": "2026-09-19T11:21:16.303260+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -255,14 +265,6 @@
       "url": "https://www.alsumaria.tv/news/security/576429/%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%82%D8%B1%D8%B5%D9%86%D8%A9-%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D8%B6%D8%AF-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D9%81%D9%8A-%D9%85%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9",
       "category": "عراق",
       "published": "2026-09-19T09:19:26+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "فيديو: الإطاحة بموظفين اثنين في كهرباء النجف استحصلا أموالاً لحسابهما الخاص",
-      "url": "https://964media.com/718152/",
-      "category": "عراق",
-      "published": "2026-09-19T09:32:23+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -402,6 +404,16 @@
       "watch_topics": []
     },
     {
+      "title": "نهب حوثي يعطل الإغاثة السعودية في الساحل الغربي اليمني",
+      "url": "https://aawsat.com/node/5320100",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 12:11:19 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "وزير الداخلية اليمني لـ«الشرق الأوسط»: إيران تسعى إلى «عسكرة باب المندب» عبر الحوثيين",
       "url": "https://aawsat.com/node/5318961",
       "category": "مشرق أوسط",
@@ -472,16 +484,6 @@
       ]
     },
     {
-      "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
-      "url": "https://aawsat.com/node/5318899",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 09:45:40 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "قتلى الجيش الأميركي في حرب إيران... العدد يفوق ما أعلنه البنتاغون",
       "url": "https://aawsat.com/node/5320049",
       "category": "دولي",
@@ -538,6 +540,16 @@
       ]
     },
     {
+      "title": "«مثير للاشمئزاز»... هيغسيث يهاجم تقريراً عن خسائر الجيش الأميركي في حرب إيران",
+      "url": "https://aawsat.com/node/5320101",
+      "category": "دولي",
+      "published": "Sat, 19 Sep 2026 12:12:50 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "«سي إن إن»: منع وسائل إعلام من دخول البيت الأبيض اعتداء على حرية الصحافة",
       "url": "https://aawsat.com/node/5320087",
       "category": "دولي",
@@ -585,16 +597,6 @@
       "breaking": false,
       "watch_topics": [
         "أمريكا"
-      ]
-    },
-    {
-      "title": "الخارجية الأميركية توافق على بيع محتمل لطائرات «إف-35» إلى السعودية",
-      "url": "https://aawsat.com/node/5319579",
-      "category": "دولي",
-      "published": "Thu, 17 Sep 2026 18:43:15 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
       ]
     },
     {
