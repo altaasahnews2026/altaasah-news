@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T15:22:44.247045+00:00",
+  "updated_at": "2026-09-19T15:32:56.395596+00:00",
   "items": [
     {
       "title": "اشتباكات مسلحة في الشطرة.. إصابة مدير مكافحة المخدرات واعتقال مطلوبين",
@@ -64,6 +64,22 @@
       "report": false,
       "governorate": "كربلاء",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5c10776d9b90.html"
+    },
+    {
+      "title": "10 ملايين سائح في العراق و1.5 مليون فرصة عمل.. رؤية الهيئة لعام 2035",
+      "url": "https://964media.com/718228/",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-19T15:19:28+00:00",
+      "image": "./assets/news/b4aecf50b0bb90b5e12bf505.jpg",
+      "original_image": "./assets/news/b4aecf50b0bb90b5e12bf505.jpg",
+      "source_url": "https://964media.com/718228/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4fe7fd202619.html"
     },
     {
       "title": "إنتر ميلان يعلن وفاة أسطورته",
@@ -566,7 +582,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-19T15:22:44.462414+00:00",
+      "published": "2026-09-19T15:32:56.613442+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -576,7 +592,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5b8b49d097e3.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e2959ce90e3f.html"
     }
   ]
 }

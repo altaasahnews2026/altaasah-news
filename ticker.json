@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T15:22:48.678020+00:00",
+  "updated_at": "2026-09-19T15:33:01.808769+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -137,7 +137,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T15:22:44.462414+00:00",
+      "published": "2026-09-19T15:32:56.613442+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -521,6 +521,16 @@
       "watch_topics": []
     },
     {
+      "title": "غرينلاند والدنمارك: الاتفاق الأمني مع أميركا لا يتضمن تنازلاً عن السيادة",
+      "url": "https://aawsat.com/node/5320177",
+      "category": "دولي",
+      "published": "Sat, 19 Sep 2026 16:24:06 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "ألمانيا تتسلم من أميركا أول مقاتلة من طراز «إف-35»",
       "url": "https://aawsat.com/node/5319966",
       "category": "دولي",
@@ -629,14 +639,6 @@
       "url": "https://aawsat.com/node/5320030",
       "category": "دولي",
       "published": "Sat, 19 Sep 2026 07:19:58 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "زيلينسكي: أوكرانيا تعمل على سد عجز «فلكي» في الموازنة",
-      "url": "https://aawsat.com/node/5319970",
-      "category": "دولي",
-      "published": "Fri, 18 Sep 2026 22:23:57 +0100",
       "breaking": false,
       "watch_topics": []
     }
