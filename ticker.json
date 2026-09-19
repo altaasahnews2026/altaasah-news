@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T13:38:28.471480+00:00",
+  "updated_at": "2026-09-19T13:45:04.819010+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -49,17 +49,6 @@
       "breaking": true,
       "watch_topics": [
         "السعودية"
-      ]
-    },
-    {
-      "title": "\"ببساطة لا نعرف\"، جيه بي مورغان يواجه صعوبة في توقع أسعار النفط بسبب حرب ترامب مع إيران - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqpvex230gn3o",
-      "category": "عراق",
-      "published": "2026-09-19T10:59:28+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
       ]
     },
     {
@@ -176,7 +165,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T13:38:22.348881+00:00",
+      "published": "2026-09-19T13:44:59.512263+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -265,6 +254,14 @@
       "url": "https://www.alsumaria.tv/news/localnews/576440/%D8%A7%D8%AE%D9%85%D8%A7%D8%AF-%D8%AD%D8%B1%D9%8A%D9%82-%D8%A7%D9%86%D8%AF%D9%84%D8%B9-%D9%81%D9%8A-%D9%83%D8%B1%D9%81%D8%A7%D9%86-%D8%AA%D8%A7%D8%A8%D8%B9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%B3%D8%A7%D8%A8%D9%82-%D8%A8%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "category": "عراق",
       "published": "2026-09-19T11:26:07+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "في حفل القاهرة.. لماذا اعتذر كاظم الساهر للسيدات؟",
+      "url": "https://www.alsumaria.tv/news/trends-alsumaria/576443/%D9%81%D9%8A-%D8%AD%D9%81%D9%84-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%A7%D8%B9%D8%AA%D8%B0%D8%B1-%D9%83%D8%A7%D8%B8%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D9%87%D8%B1-%D9%84%D9%84%D8%B3%D9%8A%D8%AF%D8%A7%D8%AA%D8%9F",
+      "category": "عراق",
+      "published": "2026-09-19T11:39:36+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -608,6 +605,14 @@
       ]
     },
     {
+      "title": "مدفيديف: العقوبات الأميركية تستدعي «ردعاً عسكرياً» من روسيا",
+      "url": "https://aawsat.com/node/5320137",
+      "category": "دولي",
+      "published": "Sat, 19 Sep 2026 14:41:31 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "مسؤول روسي: «الأطلسي» يعزز وجوده العسكري في القطب الشمالي",
       "url": "https://aawsat.com/node/5320030",
       "category": "دولي",
@@ -636,14 +641,6 @@
       "url": "https://aawsat.com/node/5319930",
       "category": "دولي",
       "published": "Fri, 18 Sep 2026 19:33:31 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "توقيف شرطي فرنسي للاشتباه بتورطه في الإعداد لعملية إرهابية",
-      "url": "https://aawsat.com/node/5319926",
-      "category": "دولي",
-      "published": "Fri, 18 Sep 2026 19:03:06 +0100",
       "breaking": false,
       "watch_topics": []
     }
