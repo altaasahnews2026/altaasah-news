@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T17:00:25.661747+00:00",
+  "updated_at": "2026-09-19T17:13:01.673730+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -19,16 +19,6 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
-      ]
-    },
-    {
-      "title": "قاليباف يقول إن عصر استهداف المقاتلات الأمريكية بدأ، وسماع دوي انفجارات في الرياض بعد \"تهديدات جوية\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm3eqww5qx8zo",
-      "category": "عراق",
-      "published": "2026-09-19T04:01:50+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
       ]
     },
     {
@@ -124,10 +114,20 @@
       ]
     },
     {
+      "title": "الاقتصاد العالمي في مأزق وتفاقم بأزمة الطاقة بسبب الحرب على ايران",
+      "url": "https://www.alsumaria.tv/news/economy/576463/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%81%D9%8A-%D9%85%D8%A3%D8%B2%D9%82-%D9%88%D8%AA%D9%81%D8%A7%D9%82%D9%85-%D8%A8%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%B9%D9%84%D9%89-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86",
+      "category": "عراق",
+      "published": "2026-09-19T17:04:23+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T17:00:22.309092+00:00",
+      "published": "2026-09-19T17:12:56.802871+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -152,14 +152,6 @@
       "url": "https://964media.com/718150/",
       "category": "عراق",
       "published": "2026-09-19T10:26:37+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "في حفل القاهرة.. لماذا اعتذر كاظم الساهر للسيدات؟",
-      "url": "https://www.alsumaria.tv/news/trends-alsumaria/576443/%D9%81%D9%8A-%D8%AD%D9%81%D9%84-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%A7%D8%B9%D8%AA%D8%B0%D8%B1-%D9%83%D8%A7%D8%B8%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D9%87%D8%B1-%D9%84%D9%84%D8%B3%D9%8A%D8%AF%D8%A7%D8%AA%D8%9F",
-      "category": "عراق",
-      "published": "2026-09-19T11:39:36+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -256,6 +248,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c5m27r08yekwo",
       "category": "عراق",
       "published": "2026-09-19T14:25:13+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "النقل: الحرب لم تؤثر على حركة الشاحنات و7000 مرور دولي عبر العراق",
+      "url": "https://964media.com/718224/",
+      "category": "عراق",
+      "published": "2026-09-19T14:30:11+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -646,16 +646,6 @@
     }
   ],
   "breaking": [
-    {
-      "title": "قاليباف يقول إن عصر استهداف المقاتلات الأمريكية بدأ، وسماع دوي انفجارات في الرياض بعد \"تهديدات جوية\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm3eqww5qx8zo",
-      "category": "عراق",
-      "published": "2026-09-19T04:01:50+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
     {
       "title": "انفجارات وطوارئ قرب مطار الملك خالد في الرياض بعد هجوم جوي",
       "url": "https://964media.com/718181/",
