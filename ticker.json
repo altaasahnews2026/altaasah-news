@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T00:43:01.631238+00:00",
+  "updated_at": "2026-09-19T00:54:24.880505+00:00",
   "latest": [
     {
       "title": "شهباز شريف: نقف كتفاً إلى كتف مع السعودية دفاعاً عن سيادتها وأمن الحرمين",
@@ -19,6 +19,16 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "سماع دوي انفجارات في الرياض بُعيد تحذير من \"تهديد جوي معاد\"، والحوثيون يعلنون إحباط \"محاولات إجرامية\" في صنعاء - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm3eqww5qx8zo",
+      "category": "عراق",
+      "published": "2026-09-19T00:50:34+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {
@@ -68,16 +78,6 @@
       ]
     },
     {
-      "title": "مواجهات دامية في اليمن، وباكستان تقول إنها \"ستمضي إلى أبعد مدى\" في الدفاع عن السعودية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm3eqww5qx8zo",
-      "category": "عراق",
-      "published": "2026-09-18T19:19:52+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "ترامب يحظر CNN وMSNBC وبوليتيكو من العمل في البيت الأبيض",
       "url": "https://www.alsumaria.tv/news/international/576404/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AD%D8%B8%D8%B1-cnn-%D9%88msnbc-%D9%88%D8%A8%D9%88%D9%84%D9%8A%D8%AA%D9%8A%D9%83%D9%88-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6",
       "category": "عراق",
@@ -91,7 +91,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T00:42:57.480149+00:00",
+      "published": "2026-09-19T00:54:21.378911+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -633,6 +633,16 @@
     }
   ],
   "breaking": [
+    {
+      "title": "سماع دوي انفجارات في الرياض بُعيد تحذير من \"تهديد جوي معاد\"، والحوثيون يعلنون إحباط \"محاولات إجرامية\" في صنعاء - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm3eqww5qx8zo",
+      "category": "عراق",
+      "published": "2026-09-19T00:50:34+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
     {
       "title": "مقتل 17 شخصاً وإصابة أكثر من 70 في انفجار بمسجد داخل منشأة للشرطة في باكستان - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c60rejdr40p9o",

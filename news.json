@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-19T00:42:57.266707+00:00",
+  "updated_at": "2026-09-19T00:54:21.167708+00:00",
   "items": [
+    {
+      "title": "سماع دوي انفجارات في الرياض بُعيد تحذير من \"تهديد جوي معاد\"، والحوثيون يعلنون إحباط \"محاولات إجرامية\" في صنعاء - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm3eqww5qx8zo",
+      "category": "أمن",
+      "region": "كركوك",
+      "governorate": "كركوك",
+      "published": "2026-09-19T00:50:34+00:00",
+      "image": "./assets/news/1ae7190a60725225218cf3a2.jpg",
+      "original_image": "./assets/news/1ae7190a60725225218cf3a2.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cm3eqww5qx8zo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": true,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ad438b52607a.html"
+    },
     {
       "title": "قائمة منتخبنا الأولمبي (تحت 23 عاماً) لمعسكر صربيا",
       "url": "https://www.alsumaria.tv/Entertainment-News/576408/sports/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D9%85%D9%86%D8%AA%D8%AE%D8%A8%D9%86%D8%A7-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A-%D8%AA%D8%AD%D8%AA-23-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B-%D9%84%D9%85%D8%B9%D8%B3%D9%83%D8%B1-%D8%B5%D8%B1%D8%A8%D9%8A%D8%A7",
@@ -80,22 +96,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/93799f848cc4.html"
-    },
-    {
-      "title": "مواجهات دامية في اليمن، وباكستان تقول إنها \"ستمضي إلى أبعد مدى\" في الدفاع عن السعودية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm3eqww5qx8zo",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-18T19:19:52+00:00",
-      "image": "./assets/news/1ae7190a60725225218cf3a2.jpg",
-      "original_image": "./assets/news/1ae7190a60725225218cf3a2.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cm3eqww5qx8zo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/82bb93845c8c.html"
     },
     {
       "title": "تقرير: الذكاء الاصطناعي كاد يتسبب بمواجهة عسكرية بين واشنطن وبكين",
@@ -454,7 +454,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-19T00:42:57.480149+00:00",
+      "published": "2026-09-19T00:54:21.378911+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -464,7 +464,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8c70c85470c9.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/92883f5878b8.html"
     }
   ]
 }
