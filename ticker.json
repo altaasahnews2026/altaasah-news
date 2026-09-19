@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T23:06:33.658760+00:00",
+  "updated_at": "2026-09-19T23:19:31.659719+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -141,16 +141,6 @@
       ]
     },
     {
-      "title": "الحوثيون يعلنون مهاجمة \"أهداف حساسة\" في الرياض وشركة أرامكو في ينبع - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
-      "category": "عراق",
-      "published": "2026-09-19T20:41:20+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "واشنطن تحذر من احتمال تصعيد الصراع في الشرق الأوسط",
       "url": "https://www.alsumaria.tv/news/international/576478/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
       "category": "عراق",
@@ -161,10 +151,20 @@
       ]
     },
     {
+      "title": "الحوثيون يعلنون مهاجمة \"أهداف حساسة\" في الرياض وشركة أرامكو في ينبع - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
+      "category": "عراق",
+      "published": "2026-09-19T23:09:26+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T23:06:28.973840+00:00",
+      "published": "2026-09-19T23:19:26.962863+00:00",
       "breaking": false,
       "watch_topics": []
     },
