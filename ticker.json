@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T20:21:11.594919+00:00",
+  "updated_at": "2026-09-19T20:32:21.209646+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -143,7 +143,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T20:21:06.468096+00:00",
+      "published": "2026-09-19T20:32:18.380671+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -395,6 +395,16 @@
       "watch_topics": []
     },
     {
+      "title": "إدانة أممية - خليجية لهجمات الحوثيين على السعودية",
+      "url": "https://aawsat.com/node/5320249",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 21:23:17 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "تقرير: خبراء من «الحرس الثوري» زاروا باب المندب لتركيب رادارات",
       "url": "https://aawsat.com/node/5320216",
       "category": "مشرق أوسط",
@@ -412,16 +422,6 @@
       "breaking": false,
       "watch_topics": [
         "السعودية"
-      ]
-    },
-    {
-      "title": "وزير الداخلية اليمني لـ«الشرق الأوسط»: إيران تسعى إلى «عسكرة باب المندب» عبر الحوثيين",
-      "url": "https://aawsat.com/node/5318961",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 11:32:41 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
       ]
     },
     {
