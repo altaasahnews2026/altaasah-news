@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T15:33:01.808769+00:00",
+  "updated_at": "2026-09-19T15:42:52.514854+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -114,16 +114,6 @@
       ]
     },
     {
-      "title": "تصاعد الدخان قرب مطار الرياض واضطراب في حركة الطيران - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
-      "category": "عراق",
-      "published": "2026-09-19T12:35:11+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "المركزية الأمريكية: حصارنا أوقف صادرات النفط الإيرانية و2000 سفينة عبرت هرمز بسلام",
       "url": "https://www.alsumaria.tv/news/international/576450/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AD%D8%B5%D8%A7%D8%B1%D9%86%D8%A7-%D8%A3%D9%88%D9%82%D9%81-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%882000-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B9%D8%A8%D8%B1%D8%AA",
       "category": "عراق",
@@ -134,10 +124,20 @@
       ]
     },
     {
+      "title": "تصاعد الدخان قرب مطار الرياض واضطراب في حركة الطيران - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
+      "category": "عراق",
+      "published": "2026-09-19T15:25:09+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T15:32:56.613442+00:00",
+      "published": "2026-09-19T15:42:48.091137+00:00",
       "breaking": false,
       "watch_topics": []
     },

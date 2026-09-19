@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T15:32:56.395596+00:00",
+  "updated_at": "2026-09-19T15:42:47.871626+00:00",
   "items": [
     {
       "title": "اشتباكات مسلحة في الشطرة.. إصابة مدير مكافحة المخدرات واعتقال مطلوبين",
@@ -64,6 +64,22 @@
       "report": false,
       "governorate": "كربلاء",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5c10776d9b90.html"
+    },
+    {
+      "title": "تصاعد الدخان قرب مطار الرياض واضطراب في حركة الطيران - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
+      "category": "محليات",
+      "region": "كركوك",
+      "governorate": "كركوك",
+      "published": "2026-09-19T15:25:09+00:00",
+      "image": "./assets/news/2568f247461a9bd23f767b7a.jpg",
+      "original_image": "./assets/news/2568f247461a9bd23f767b7a.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": true,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7bf640e18d94.html"
     },
     {
       "title": "10 ملايين سائح في العراق و1.5 مليون فرصة عمل.. رؤية الهيئة لعام 2035",
@@ -322,22 +338,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ac576db3571b.html"
     },
     {
-      "title": "تصاعد الدخان قرب مطار الرياض واضطراب في حركة الطيران - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
-      "category": "محليات",
-      "region": "كركوك",
-      "governorate": "كركوك",
-      "published": "2026-09-19T12:35:11+00:00",
-      "image": "./assets/news/2568f247461a9bd23f767b7a.jpg",
-      "original_image": "./assets/news/2568f247461a9bd23f767b7a.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": true,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/56df681af182.html"
-    },
-    {
       "title": "مقتل 31 شخصاً في انفجار مسجد داخل منشأة للشرطة في باكستان، وإصابة أكثر من مئة - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c60rejdr40p9o",
       "category": "أمن",
@@ -582,7 +582,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-19T15:32:56.613442+00:00",
+      "published": "2026-09-19T15:42:48.091137+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -592,7 +592,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e2959ce90e3f.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6e59c6d5e655.html"
     }
   ]
 }
