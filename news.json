@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T19:42:09.614382+00:00",
+  "updated_at": "2026-09-19T19:49:41.193304+00:00",
   "items": [
     {
       "title": "نعيم قاسم: المقاومة هي السبيل الوحيد لتحرير الأرض",
@@ -7,8 +7,8 @@
       "category": "محليات",
       "region": "أربيل",
       "published": "2026-09-19T19:35:00+00:00",
-      "image": "./assets/news/731fc909550a1a6214460003.jpg",
-      "original_image": "./assets/news/731fc909550a1a6214460003.jpg",
+      "image": "./assets/news/b9655194c17e0e56d5231a30.jpg",
+      "original_image": "./assets/news/b9655194c17e0e56d5231a30.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576471/%D9%86%D8%B9%D9%8A%D9%85-%D9%82%D8%A7%D8%B3%D9%85-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D9%87%D9%8A-%D8%A7%D9%84%D8%B3%D8%A8%D9%8A%D9%84-%D8%A7%D9%84%D9%88%D8%AD%D9%8A%D8%AF-%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -582,7 +582,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-19T19:42:09.844438+00:00",
+      "published": "2026-09-19T19:49:41.334235+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -592,7 +592,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/350f1fff0230.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7ea2376d0fd8.html"
     }
   ]
 }
