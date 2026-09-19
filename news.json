@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T15:11:24.938039+00:00",
+  "updated_at": "2026-09-19T15:22:44.247045+00:00",
   "items": [
     {
       "title": "اشتباكات مسلحة في الشطرة.. إصابة مدير مكافحة المخدرات واعتقال مطلوبين",
@@ -71,8 +71,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-19T15:01:06+00:00",
-      "image": "./assets/news/c5f1a589e4cba28d3bbd3375.jpg",
-      "original_image": "./assets/news/c5f1a589e4cba28d3bbd3375.jpg",
+      "image": "./assets/news/5891f8fd99da05cd2e7d21c8.jpg",
+      "original_image": "./assets/news/5891f8fd99da05cd2e7d21c8.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/576456/sports/%D8%A5%D9%86%D8%AA%D8%B1-%D9%85%D9%8A%D9%84%D8%A7%D9%86-%D9%8A%D8%B9%D9%84%D9%86-%D9%88%D9%81%D8%A7%D8%A9-%D8%A3%D8%B3%D8%B7%D9%88%D8%B1%D8%AA%D9%87",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -87,8 +87,8 @@
       "category": "محليات",
       "region": "بغداد",
       "published": "2026-09-19T14:53:13+00:00",
-      "image": "./assets/news/5b2bba8fea961a18c98e172b.jpg",
-      "original_image": "./assets/news/5b2bba8fea961a18c98e172b.jpg",
+      "image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
+      "original_image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/576455/%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%AA%D9%87%D9%85-%D9%8A%D9%85%D8%A7%D8%B1%D8%B3-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D8%AD%D8%B1-%D9%88%D8%A7%D9%84%D8%B4%D8%B9%D9%88%D8%B0%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -418,22 +418,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6affc8de249e.html"
     },
     {
-      "title": "اخماد حريق اندلع في كرفان تابع لحماية وزير سابق ببغداد",
-      "url": "https://www.alsumaria.tv/news/localnews/576440/%D8%A7%D8%AE%D9%85%D8%A7%D8%AF-%D8%AD%D8%B1%D9%8A%D9%82-%D8%A7%D9%86%D8%AF%D9%84%D8%B9-%D9%81%D9%8A-%D9%83%D8%B1%D9%81%D8%A7%D9%86-%D8%AA%D8%A7%D8%A8%D8%B9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%B3%D8%A7%D8%A8%D9%82-%D8%A8%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "category": "أمن",
-      "region": "بغداد",
-      "published": "2026-09-19T11:26:07+00:00",
-      "image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
-      "original_image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/576440/%D8%A7%D8%AE%D9%85%D8%A7%D8%AF-%D8%AD%D8%B1%D9%8A%D9%82-%D8%A7%D9%86%D8%AF%D9%84%D8%B9-%D9%81%D9%8A-%D9%83%D8%B1%D9%81%D8%A7%D9%86-%D8%AA%D8%A7%D8%A8%D8%B9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%B3%D8%A7%D8%A8%D9%82-%D8%A8%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5f1f4a7700cd.html"
-    },
-    {
       "title": "البنتاغون يكشف وقائع غريبة.. ‏ أجسام تحلق فوق الشرق الأوسط",
       "url": "https://www.alsumaria.tv/news/international/576439/%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%8A%D9%83%D8%B4%D9%81-%D9%88%D9%82%D8%A7%D8%A6%D8%B9-%D8%BA%D8%B1%D9%8A%D8%A8%D8%A9-%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-%D8%AA%D8%AD%D9%84%D9%82-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
       "category": "محليات",
@@ -582,7 +566,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-19T15:11:25.162671+00:00",
+      "published": "2026-09-19T15:22:44.462414+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -592,7 +576,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/85faf325b202.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5b8b49d097e3.html"
     }
   ]
 }

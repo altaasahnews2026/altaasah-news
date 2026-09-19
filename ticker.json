@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-09-19T15:11:31.219084+00:00",
+  "updated_at": "2026-09-19T15:22:48.678020+00:00",
   "latest": [
+    {
+      "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
+      "url": "https://aawsat.com/node/5318899",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 09:45:40 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
+      "url": "https://aawsat.com/node/5320075",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 10:15:12 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
     {
       "title": "قاليباف يقول إن عصر استهداف المقاتلات الأمريكية بدأ، وسماع دوي انفجارات في الرياض بعد \"تهديدات جوية\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm3eqww5qx8zo",
@@ -117,7 +137,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T15:11:25.162671+00:00",
+      "published": "2026-09-19T15:22:44.462414+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -166,14 +186,6 @@
       "url": "https://www.alsumaria.tv/news/artculture/576438/%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D9%85%D8%A9-%D8%AE%D8%B7-%D8%A3%D8%AD%D9%85%D8%B1-%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%88%D9%81%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%85%D9%86-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D9%85%D8%A7%D8%A6%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B5",
       "category": "عراق",
       "published": "2026-09-19T11:01:29+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "اخماد حريق اندلع في كرفان تابع لحماية وزير سابق ببغداد",
-      "url": "https://www.alsumaria.tv/news/localnews/576440/%D8%A7%D8%AE%D9%85%D8%A7%D8%AF-%D8%AD%D8%B1%D9%8A%D9%82-%D8%A7%D9%86%D8%AF%D9%84%D8%B9-%D9%81%D9%8A-%D9%83%D8%B1%D9%81%D8%A7%D9%86-%D8%AA%D8%A7%D8%A8%D8%B9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%B3%D8%A7%D8%A8%D9%82-%D8%A8%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "category": "عراق",
-      "published": "2026-09-19T11:26:07+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -242,6 +254,14 @@
       "watch_topics": []
     },
     {
+      "title": "البنك المركزي يكشف سبب ارتفاع سعر صرف الدولار في الأسواق",
+      "url": "https://www.alsumaria.tv/news/localnews/576451/%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B3%D8%A8%D8%A8-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%B3%D8%B9%D8%B1-%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82",
+      "category": "عراق",
+      "published": "2026-09-19T13:15:53+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "السعودية تدين استهداف مسجد في باكستان",
       "url": "https://aawsat.com/node/5319832",
       "category": "مشرق أوسط",
@@ -271,6 +291,54 @@
         "إيران",
         "أمريكا"
       ]
+    },
+    {
+      "title": "تحذيرات من تفشي الكوليرا بين الفارّين من الهجمات الحوثية",
+      "url": "https://aawsat.com/node/5320111",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 12:37:42 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "قتيل وإصابات إثر قصف إسرائيلي استهدف دراجة نارية في غزة",
+      "url": "https://aawsat.com/node/5319934",
+      "category": "مشرق أوسط",
+      "published": "Fri, 18 Sep 2026 19:56:16 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تحذير أممي من تأثير الحرب على مساعدات اليمن",
+      "url": "https://aawsat.com/node/5319659",
+      "category": "مشرق أوسط",
+      "published": "Fri, 18 Sep 2026 00:38:02 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "عشرات القتلى في انهيار منجم ذهب بالسودان",
+      "url": "https://aawsat.com/node/5319071",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 15:50:48 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "أطفال اليمن في صدارة ضحايا التصعيد الحوثي",
+      "url": "https://aawsat.com/node/5318984",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 12:24:08 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تحذير أميركي للحوثيين عبر قنوات أمنية: لا نتفاوض معكم",
+      "url": "https://aawsat.com/node/5318829",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 06:11:59 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "تركيا تندد بمحاولة الحوثيين الهجوم على مكة وتطالب بوضع حد لهجماتهم",
@@ -337,6 +405,26 @@
       "watch_topics": []
     },
     {
+      "title": "نهب حوثي يعطل الإغاثة السعودية في الساحل الغربي اليمني",
+      "url": "https://aawsat.com/node/5320100",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 12:11:19 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "وزير الداخلية اليمني لـ«الشرق الأوسط»: إيران تسعى إلى «عسكرة باب المندب» عبر الحوثيين",
+      "url": "https://aawsat.com/node/5318961",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 11:32:41 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "السعودية تعلن «زوال الخطر» في 10 مدن بعد إطلاق الإنذار المبكر",
       "url": "https://aawsat.com/node/5320074",
       "category": "مشرق أوسط",
@@ -385,78 +473,6 @@
       "watch_topics": [
         "السعودية"
       ]
-    },
-    {
-      "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
-      "url": "https://aawsat.com/node/5318899",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 09:45:40 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "شهباز شريف: نقف كتفاً إلى كتف مع السعودية دفاعاً عن سيادتها وأمن الحرمين",
-      "url": "https://aawsat.com/node/5318881",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 09:05:17 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
-      "url": "https://aawsat.com/node/5320075",
-      "category": "مشرق أوسط",
-      "published": "Sat, 19 Sep 2026 10:15:12 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "رئيس كوريا الجنوبية: لن ننشر جيشنا للقتال في مضيق هرمز",
-      "url": "https://aawsat.com/node/5319667",
-      "category": "مشرق أوسط",
-      "published": "Fri, 18 Sep 2026 05:12:01 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "أوروبا ترفع مستوى التأهب جنوب البحر الأحمر",
-      "url": "https://aawsat.com/node/5320001",
-      "category": "مشرق أوسط",
-      "published": "Sat, 19 Sep 2026 00:29:39 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "«التحالف البحري الدفاعي» نحو تعزيز الجاهزية العملياتية",
-      "url": "https://aawsat.com/node/5319835",
-      "category": "مشرق أوسط",
-      "published": "Fri, 18 Sep 2026 14:49:30 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "اجتماع سعودي - قطري يبحث تعزيز التعاون والتنسيق الأمني",
-      "url": "https://aawsat.com/node/5319635",
-      "category": "مشرق أوسط",
-      "published": "Thu, 17 Sep 2026 22:10:13 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "محمد بن سلمان وماكرون يبحثان جهود تعزيز أمن المنطقة",
-      "url": "https://aawsat.com/node/5319251",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 23:41:26 +0100",
-      "breaking": false,
-      "watch_topics": []
     },
     {
       "title": "قتلى الجيش الأميركي في حرب إيران... العدد يفوق ما أعلنه البنتاغون",
@@ -623,22 +639,6 @@
       "published": "Fri, 18 Sep 2026 22:23:57 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "سياح في جزيرة كريت يتابعون عن قرب تدريبات عسكرية تقودها اليونان ومصر",
-      "url": "https://aawsat.com/node/5319932",
-      "category": "دولي",
-      "published": "Fri, 18 Sep 2026 19:46:25 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "آلاف الكوسوفيين يتظاهرون تنديداً بإدانة الرئيس السابق بجرائم حرب",
-      "url": "https://aawsat.com/node/5319930",
-      "category": "دولي",
-      "published": "Fri, 18 Sep 2026 19:33:31 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -723,6 +723,54 @@
       "watch_topics": [
         "السعودية"
       ]
+    },
+    {
+      "title": "تحذيرات من تفشي الكوليرا بين الفارّين من الهجمات الحوثية",
+      "url": "https://aawsat.com/node/5320111",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 12:37:42 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "قتيل وإصابات إثر قصف إسرائيلي استهدف دراجة نارية في غزة",
+      "url": "https://aawsat.com/node/5319934",
+      "category": "مشرق أوسط",
+      "published": "Fri, 18 Sep 2026 19:56:16 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تحذير أممي من تأثير الحرب على مساعدات اليمن",
+      "url": "https://aawsat.com/node/5319659",
+      "category": "مشرق أوسط",
+      "published": "Fri, 18 Sep 2026 00:38:02 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "عشرات القتلى في انهيار منجم ذهب بالسودان",
+      "url": "https://aawsat.com/node/5319071",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 15:50:48 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "أطفال اليمن في صدارة ضحايا التصعيد الحوثي",
+      "url": "https://aawsat.com/node/5318984",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 12:24:08 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تحذير أميركي للحوثيين عبر قنوات أمنية: لا نتفاوض معكم",
+      "url": "https://aawsat.com/node/5318829",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 06:11:59 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "تركيا تندد بمحاولة الحوثيين الهجوم على مكة وتطالب بوضع حد لهجماتهم",
