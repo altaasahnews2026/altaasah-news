@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T08:55:11.024126+00:00",
+  "updated_at": "2026-09-19T09:03:08.441317+00:00",
   "items": [
     {
       "title": "اشتباك مسلح واعتقال.. ما حصل في قضاء عين تمر",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ee102fffd8a4.html"
+    },
+    {
+      "title": "أسعار الذهب تسجل ارتفاعاً في أسواق بغداد",
+      "url": "https://www.alsumaria.tv/news/economy/576427/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%AA%D8%B3%D8%AC%D9%84-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "category": "اقتصاد",
+      "region": "بغداد",
+      "published": "2026-09-19T08:55:34+00:00",
+      "image": "./assets/news/d8e64f8d3a5ce2dca034d24f.jpg",
+      "original_image": "./assets/news/d8e64f8d3a5ce2dca034d24f.jpg",
+      "source_url": "https://www.alsumaria.tv/news/economy/576427/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%AA%D8%B3%D8%AC%D9%84-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/783e0147fb3a.html"
     },
     {
       "title": "عراقي يتولى منصباً أمنياً رفيعاً ويؤسس جهازاً لإنفاذ القانون في أمريكا",
@@ -66,6 +82,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b84d2de32a5b.html"
     },
     {
+      "title": "الدولار يتخطى الـ160 ألفاً في بغداد.. وبورصتا أربيل والبصرة عند 159,500",
+      "url": "https://964media.com/718138/",
+      "category": "اقتصاد",
+      "region": "بغداد",
+      "published": "2026-09-19T08:36:43+00:00",
+      "image": "./assets/news/9e5cd0f6c6ba26b5cb547a39.jpg",
+      "original_image": "./assets/news/9e5cd0f6c6ba26b5cb547a39.jpg",
+      "source_url": "https://964media.com/718138/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/55b37ac407d1.html"
+    },
+    {
       "title": "واشنطن تايمز: حصر السلاح مفتاح تحول بغداد إلى مركز إقليمي للطاقة والاقتصاد",
       "url": "https://www.alsumaria.tv/news/security/576424/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D9%85%D9%81%D8%AA%D8%A7%D8%AD-%D8%AA%D8%AD%D9%88%D9%84-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A5%D9%84%D9%89-%D9%85%D8%B1%D9%83%D8%B2-%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D9%82%D8%AA",
       "category": "اقتصاد",
@@ -87,8 +119,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-19T08:21:14+00:00",
-      "image": "./assets/news/56da6a6439fc5762622847da.jpg",
-      "original_image": "./assets/news/56da6a6439fc5762622847da.jpg",
+      "image": "./assets/news/5e20275e5a61a2a66af1995c.jpg",
+      "original_image": "./assets/news/5e20275e5a61a2a66af1995c.jpg",
       "source_url": "https://www.alsumaria.tv/news/miscellaneous/576423/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AD%D9%88%D9%84-%D8%AA%D9%84%D9%88%D8%AB-%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%A1-%D9%85%D8%A7-%D8%B9%D9%84%D8%A7%D9%82%D8%AA%D9%87-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1%D8%9F",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -279,8 +311,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-19T06:43:42+00:00",
-      "image": "./assets/news/3bd24849464048cf78400606.jpg",
-      "original_image": "./assets/news/3bd24849464048cf78400606.jpg",
+      "image": "./assets/news/32800dfc4e15045d7104bed1.jpg",
+      "original_image": "./assets/news/32800dfc4e15045d7104bed1.jpg",
       "source_url": "https://www.alsumaria.tv/news/miscellaneous/576415/10-%D8%AF%D9%82%D8%A7%D8%A6%D9%82-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D8%B1%D9%8A-%D8%A7%D9%84%D8%A8%D8%B7%D9%8A%D8%A1-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D9%81%D8%B9%D9%84-%D8%A8%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%BA%D8%9F",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -450,22 +482,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/75164cb3c032.html"
     },
     {
-      "title": "قائمة منتخبنا الأولمبي (تحت 23 عاماً) لمعسكر صربيا",
-      "url": "https://www.alsumaria.tv/Entertainment-News/576408/sports/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D9%85%D9%86%D8%AA%D8%AE%D8%A8%D9%86%D8%A7-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A-%D8%AA%D8%AD%D8%AA-23-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B-%D9%84%D9%85%D8%B9%D8%B3%D9%83%D8%B1-%D8%B5%D8%B1%D8%A8%D9%8A%D8%A7",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-18T20:55:28+00:00",
-      "image": "./assets/news/49cde72d63d93a164cfae0f5.jpg",
-      "original_image": "./assets/news/49cde72d63d93a164cfae0f5.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/576408/sports/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D9%85%D9%86%D8%AA%D8%AE%D8%A8%D9%86%D8%A7-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A-%D8%AA%D8%AD%D8%AA-23-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B-%D9%84%D9%85%D8%B9%D8%B3%D9%83%D8%B1-%D8%B5%D8%B1%D8%A8%D9%8A%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/915f997f2840.html"
-    },
-    {
       "title": "العراق يراقب انتخابات برلمان روسيا بطلب من موسكو",
       "url": "https://964media.com/718107/",
       "category": "سياسة",
@@ -518,7 +534,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-19T08:55:11.162011+00:00",
+      "published": "2026-09-19T09:03:08.653108+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -528,7 +544,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5a27ee7ecb70.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/782edd87123c.html"
     }
   ]
 }
