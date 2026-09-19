@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T18:36:24.750781+00:00",
+  "updated_at": "2026-09-19T18:47:40.594137+00:00",
   "items": [
     {
       "title": "اشتباكات مسلحة في الشطرة.. إصابة مدير مكافحة المخدرات واعتقال مطلوبين",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "ذي قار",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c211129ed0ad.html"
+    },
+    {
+      "title": "ضجة لحوم الخنزير في الناصرية.. الصحة ستقطع الشك وأرسلتها لبغداد",
+      "url": "https://964media.com/718319/",
+      "category": "محليات",
+      "region": "بغداد",
+      "published": "2026-09-19T18:32:12+00:00",
+      "image": "./assets/news/f5c9190ff657548c0d697ea3.jpg",
+      "original_image": "./assets/news/f5c9190ff657548c0d697ea3.jpg",
+      "source_url": "https://964media.com/718319/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0245a1afcd50.html"
     },
     {
       "title": "طهران ترد على تصريحات قائد سنتكوم بشأن خروج مليار برميل نفط",
@@ -550,7 +566,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-19T18:36:24.988353+00:00",
+      "published": "2026-09-19T18:47:40.811459+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -560,7 +576,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6e8e3fa02554.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/11239e837949.html"
     }
   ]
 }
