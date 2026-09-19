@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T14:13:05.494002+00:00",
+  "updated_at": "2026-09-19T14:24:51.215196+00:00",
   "items": [
     {
       "title": "اشتباكات مسلحة في الشطرة.. إصابة مدير مكافحة المخدرات واعتقال مطلوبين",
@@ -7,8 +7,8 @@
       "category": "أمن",
       "region": "ذي قار",
       "published": "2026-09-19T13:00:09+00:00",
-      "image": "./assets/news/204be4bc8c01c5be9736f395.jpg",
-      "original_image": "./assets/news/204be4bc8c01c5be9736f395.jpg",
+      "image": "./assets/news/a346b58ca216ef1f24b45dea.jpg",
+      "original_image": "./assets/news/a346b58ca216ef1f24b45dea.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/576449/%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83%D8%A7%D8%AA-%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B7%D8%B1%D8%A9-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%8A%D8%B1-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D8%B7%D9%84%D9%88%D8%A8%D9%8A%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -64,6 +64,22 @@
       "report": false,
       "governorate": "كربلاء",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5c10776d9b90.html"
+    },
+    {
+      "title": "نداء لأصحاب الدراجات في هذه المحافظة.. لا حركة من الـ8 مساءً حتى الصباح",
+      "url": "https://www.alsumaria.tv/news/localnews/576452/%D9%86%D8%AF%D8%A7%D8%A1-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA-%D9%81%D9%8A-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D9%84%D8%A7-%D8%AD%D8%B1%D9%83%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%808-%D9%85%D8%B3%D8%A7%D8%A1%D9%8B-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-19T14:17:38+00:00",
+      "image": "./assets/news/1688ba41a60faa71e64be7a5.jpg",
+      "original_image": "./assets/news/1688ba41a60faa71e64be7a5.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/576452/%D9%86%D8%AF%D8%A7%D8%A1-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA-%D9%81%D9%8A-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D9%84%D8%A7-%D8%AD%D8%B1%D9%83%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%808-%D9%85%D8%B3%D8%A7%D8%A1%D9%8B-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/379d3fdb18d9.html"
     },
     {
       "title": "صبي كان لا يملك صوتاً، أصبح يساعد الآخرين على الحديث بطلاقة - شفق نيوز..",
@@ -167,8 +183,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-19T12:56:10+00:00",
-      "image": "./assets/news/2403617901d94f34a8176966.jpg",
-      "original_image": "./assets/news/2403617901d94f34a8176966.jpg",
+      "image": "./assets/news/bfb5d2e95639b2fa91dbb82c.jpg",
+      "original_image": "./assets/news/bfb5d2e95639b2fa91dbb82c.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/576448/sports/%D9%84%D8%A7%D8%B9%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%84%D9%84%D8%AA%D9%8A%D9%83-%D8%A8%D9%88%D9%84-%D8%B9%D9%84%D9%8A-%D8%AC%D9%84%D9%8A%D9%84-%D9%8A%D8%AA%D8%A3%D9%87%D9%84-%D8%A5%D9%84%D9%89-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -199,8 +215,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-19T12:38:50+00:00",
-      "image": "./assets/news/b1ca7a144742e0e77cfe720e.jpg",
-      "original_image": "./assets/news/b1ca7a144742e0e77cfe720e.jpg",
+      "image": "./assets/news/d8f6de1f123cb23d40c6d152.jpg",
+      "original_image": "./assets/news/d8f6de1f123cb23d40c6d152.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576447/%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D9%88%D9%86-%D9%88%D8%B9%D8%B1%D8%A8-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D9%80%D8%A7%D9%84%D9%81%D9%88%D8%B1%D9%83%D8%B3",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -327,8 +343,8 @@
       "category": "أمن",
       "region": "بغداد",
       "published": "2026-09-19T11:26:07+00:00",
-      "image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
-      "original_image": "./assets/news/10655a1d4135823c9d29efc3.jpg",
+      "image": "./assets/news/5b2bba8fea961a18c98e172b.jpg",
+      "original_image": "./assets/news/5b2bba8fea961a18c98e172b.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/576440/%D8%A7%D8%AE%D9%85%D8%A7%D8%AF-%D8%AD%D8%B1%D9%8A%D9%82-%D8%A7%D9%86%D8%AF%D9%84%D8%B9-%D9%81%D9%8A-%D9%83%D8%B1%D9%81%D8%A7%D9%86-%D8%AA%D8%A7%D8%A8%D8%B9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%B3%D8%A7%D8%A8%D9%82-%D8%A8%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -482,22 +498,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ef048fd416a7.html"
     },
     {
-      "title": "فرانس فوتبول تكشف بالأرقام: التتويج بأبطال أوروبا لا يضمن حصد الكرة الذهبية",
-      "url": "https://www.alsumaria.tv/Entertainment-News/576432/sports/%D9%81%D8%B1%D8%A7%D9%86%D8%B3-%D9%81%D9%88%D8%AA%D8%A8%D9%88%D9%84-%D8%AA%D9%83%D8%B4%D9%81-%D8%A8%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D8%A7%D9%84%D8%AA%D8%AA%D9%88%D9%8A%D8%AC-%D8%A8%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%84%D8%A7-%D9%8A%D8%B6%D9%85%D9%86-%D8%AD%D8%B5%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B0",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-19T09:36:57+00:00",
-      "image": "./assets/news/6fcb98a212d65e8258c4c86c.jpg",
-      "original_image": "./assets/news/6fcb98a212d65e8258c4c86c.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/576432/sports/%D9%81%D8%B1%D8%A7%D9%86%D8%B3-%D9%81%D9%88%D8%AA%D8%A8%D9%88%D9%84-%D8%AA%D9%83%D8%B4%D9%81-%D8%A8%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D8%A7%D9%84%D8%AA%D8%AA%D9%88%D9%8A%D8%AC-%D8%A8%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%84%D8%A7-%D9%8A%D8%B6%D9%85%D9%86-%D8%AD%D8%B5%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B0",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3dc30228815c.html"
-    },
-    {
       "title": "فيديو: الإطاحة بموظفين اثنين في كهرباء النجف استحصلا أموالاً لحسابهما الخاص",
       "url": "https://964media.com/718152/",
       "category": "محليات",
@@ -582,7 +582,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-19T14:13:05.710314+00:00",
+      "published": "2026-09-19T14:24:51.429272+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -592,7 +592,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d048931d3885.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b3f8dc8f3e5a.html"
     }
   ]
 }
