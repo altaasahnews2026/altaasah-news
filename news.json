@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T12:52:22.893728+00:00",
+  "updated_at": "2026-09-19T13:01:01.738229+00:00",
   "items": [
     {
       "title": "انفجارات قرب مطار الرياض تعطل حركة الطيران.. ماذا يحدث؟",
@@ -50,13 +50,45 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5c10776d9b90.html"
     },
     {
+      "title": "لاعب المنتخب العراقي للتيك بول علي جليل يتأهل إلى نهائي دورة الألعاب الآسيوية",
+      "url": "https://www.alsumaria.tv/Entertainment-News/576448/sports/%D9%84%D8%A7%D8%B9%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%84%D9%84%D8%AA%D9%8A%D9%83-%D8%A8%D9%88%D9%84-%D8%B9%D9%84%D9%8A-%D8%AC%D9%84%D9%8A%D9%84-%D9%8A%D8%AA%D8%A3%D9%87%D9%84-%D8%A5%D9%84%D9%89-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%A7",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-19T12:56:10+00:00",
+      "image": "./assets/news/2403617901d94f34a8176966.jpg",
+      "original_image": "./assets/news/2403617901d94f34a8176966.jpg",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/576448/sports/%D9%84%D8%A7%D8%B9%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%84%D9%84%D8%AA%D9%8A%D9%83-%D8%A8%D9%88%D9%84-%D8%B9%D9%84%D9%8A-%D8%AC%D9%84%D9%8A%D9%84-%D9%8A%D8%AA%D8%A3%D9%87%D9%84-%D8%A5%D9%84%D9%89-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%A7",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6faaf89da32e.html"
+    },
+    {
+      "title": "الأنبار تعلن فض الطوابير وانتهاء أزمة البنزين في المحافظة",
+      "url": "https://964media.com/718199/",
+      "category": "محليات",
+      "region": "الأنبار",
+      "published": "2026-09-19T12:42:15+00:00",
+      "image": "./assets/news/3649022040fee0130419b803.jpg",
+      "original_image": "./assets/news/3649022040fee0130419b803.jpg",
+      "source_url": "https://964media.com/718199/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "الأنبار",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ecceb8e90172.html"
+    },
+    {
       "title": "بينهم إسرائيليون وعرب.. تركيا تفكيك شبكة احتيال دولية لـالفوركس",
       "url": "https://www.alsumaria.tv/news/international/576447/%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D9%88%D9%86-%D9%88%D8%B9%D8%B1%D8%A8-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D9%80%D8%A7%D9%84%D9%81%D9%88%D8%B1%D9%83%D8%B3",
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-19T12:38:50+00:00",
-      "image": "./assets/news/d8f6de1f123cb23d40c6d152.jpg",
-      "original_image": "./assets/news/d8f6de1f123cb23d40c6d152.jpg",
+      "image": "./assets/news/b1ca7a144742e0e77cfe720e.jpg",
+      "original_image": "./assets/news/b1ca7a144742e0e77cfe720e.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576447/%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D9%88%D9%86-%D9%88%D8%B9%D8%B1%D8%A8-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D9%80%D8%A7%D9%84%D9%81%D9%88%D8%B1%D9%83%D8%B3",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -71,7 +103,7 @@
       "category": "محليات",
       "region": "كركوك",
       "governorate": "كركوك",
-      "published": "2026-09-19T12:25:42+00:00",
+      "published": "2026-09-19T12:35:11+00:00",
       "image": "./assets/news/2568f247461a9bd23f767b7a.jpg",
       "original_image": "./assets/news/2568f247461a9bd23f767b7a.jpg",
       "source_url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
@@ -79,7 +111,7 @@
       "breaking": false,
       "kirkuk": true,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/15d3fefca2bc.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/56df681af182.html"
     },
     {
       "title": "مقتل 31 شخصاً في انفجار مسجد داخل منشأة للشرطة في باكستان، وإصابة أكثر من مئة - شفق نيوز..",
@@ -450,22 +482,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ed52feda84ad.html"
     },
     {
-      "title": "أسعار الذهب تسجل ارتفاعاً في أسواق بغداد",
-      "url": "https://www.alsumaria.tv/news/economy/576427/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%AA%D8%B3%D8%AC%D9%84-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "category": "اقتصاد",
-      "region": "بغداد",
-      "published": "2026-09-19T08:55:34+00:00",
-      "image": "./assets/news/d52af616436ae48bb5523be1.jpg",
-      "original_image": "./assets/news/d52af616436ae48bb5523be1.jpg",
-      "source_url": "https://www.alsumaria.tv/news/economy/576427/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%AA%D8%B3%D8%AC%D9%84-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/783e0147fb3a.html"
-    },
-    {
       "title": "الدولار يتخطى الـ160 ألفاً في بغداد.. وبورصتا أربيل والبصرة عند 159,500",
       "url": "https://964media.com/718138/",
       "category": "اقتصاد",
@@ -566,7 +582,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-19T12:52:23.111434+00:00",
+      "published": "2026-09-19T13:01:01.966998+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -576,7 +592,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/59fb222a28a1.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fc49b8fed72b.html"
     }
   ]
 }
