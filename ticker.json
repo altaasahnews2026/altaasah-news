@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T13:45:04.819010+00:00",
+  "updated_at": "2026-09-19T13:53:13.208958+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -64,14 +64,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c60rejdr40p9o",
       "category": "عراق",
       "published": "2026-09-19T12:21:59+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "أطلق النار عليها ثم على نفسه.. مقتل شخص وطليقته داخل شركة نفط البصرة",
-      "url": "https://964media.com/718205/",
-      "category": "عراق",
-      "published": "2026-09-19T12:57:38+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -165,7 +157,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T13:44:59.512263+00:00",
+      "published": "2026-09-19T13:53:07.579324+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -174,6 +166,14 @@
       "url": "https://964media.com/718107/",
       "category": "عراق",
       "published": "2026-09-18T20:42:31+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الأنواء تبشّر العراقيين بانخفاض الحرارة بين 3 و4 درجات",
+      "url": "https://964media.com/718120/",
+      "category": "عراق",
+      "published": "2026-09-19T06:35:55+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -689,14 +689,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c60rejdr40p9o",
       "category": "عراق",
       "published": "2026-09-19T12:21:59+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "أطلق النار عليها ثم على نفسه.. مقتل شخص وطليقته داخل شركة نفط البصرة",
-      "url": "https://964media.com/718205/",
-      "category": "عراق",
-      "published": "2026-09-19T12:57:38+00:00",
       "breaking": true,
       "watch_topics": []
     },
