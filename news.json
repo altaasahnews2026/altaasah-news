@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T14:44:07.615927+00:00",
+  "updated_at": "2026-09-19T14:52:43.694857+00:00",
   "items": [
     {
       "title": "اشتباكات مسلحة في الشطرة.. إصابة مدير مكافحة المخدرات واعتقال مطلوبين",
@@ -64,6 +64,22 @@
       "report": false,
       "governorate": "كربلاء",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5c10776d9b90.html"
+    },
+    {
+      "title": "النقل: الحرب لم تؤثر على حركة الشاحنات و7000 مرور دولي عبر العراق",
+      "url": "https://964media.com/718224/",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-19T14:30:11+00:00",
+      "image": "./assets/news/a509b0cc25b8ff2d8226ea5b.jpg",
+      "original_image": "./assets/news/a509b0cc25b8ff2d8226ea5b.jpg",
+      "source_url": "https://964media.com/718224/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/38c2ff6000f0.html"
     },
     {
       "title": "صبي كان لا يملك صوتاً، أصبح يساعد الآخرين على الحديث بطلاقة - شفق نيوز..",
@@ -514,22 +530,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9c4a979e5fa2.html"
     },
     {
-      "title": "الدولار يتخطى الـ160 ألفاً في بغداد.. وبورصتا أربيل والبصرة عند 159,500",
-      "url": "https://964media.com/718138/",
-      "category": "اقتصاد",
-      "region": "بغداد",
-      "published": "2026-09-19T08:36:43+00:00",
-      "image": "./assets/news/9e5cd0f6c6ba26b5cb547a39.jpg",
-      "original_image": "./assets/news/9e5cd0f6c6ba26b5cb547a39.jpg",
-      "source_url": "https://964media.com/718138/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/55b37ac407d1.html"
-    },
-    {
       "title": "عرانيص الذرة أطول من الرجال وحقول الحويجة كأنها أمريكية.. أين مصانع الزيوت؟",
       "url": "https://964media.com/717031/",
       "category": "محليات",
@@ -582,7 +582,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-19T14:44:07.841298+00:00",
+      "published": "2026-09-19T14:52:43.884346+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -592,7 +592,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/40e54325edaf.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/46b750f565f0.html"
     }
   ]
 }
