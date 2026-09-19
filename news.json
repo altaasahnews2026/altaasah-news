@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T12:08:16.919836+00:00",
+  "updated_at": "2026-09-19T12:26:19.556947+00:00",
   "items": [
     {
       "title": "انفجارات قرب مطار الرياض تعطل حركة الطيران.. ماذا يحدث؟",
@@ -34,20 +34,20 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/055a56454f3b.html"
     },
     {
-      "title": "اعتقال مدان بالإعدام بعد اشتباك ومحاصرة مكانه في كربلاء",
-      "url": "https://964media.com/718165/",
-      "category": "أمن",
-      "region": "كربلاء",
-      "published": "2026-09-19T10:53:51+00:00",
-      "image": "./assets/news/55508e1c07b6360cc7eac149.jpg",
-      "original_image": "./assets/news/55508e1c07b6360cc7eac149.jpg",
-      "source_url": "https://964media.com/718165/",
-      "source_name": "شبكة 964",
-      "breaking": true,
+      "title": "جريمة مروعة في البصرة.. موظف يقتل طليقته داخل شركة النفط ويحاول الانتحار",
+      "url": "https://www.alsumaria.tv/news/security/576446/%D8%AC%D8%B1%D9%8A%D9%85%D8%A9-%D9%85%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D9%85%D9%88%D8%B8%D9%81-%D9%8A%D9%82%D8%AA%D9%84-%D8%B7%D9%84%D9%8A%D9%82%D8%AA%D9%87-%D8%AF%D8%A7%D8%AE%D9%84-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D9%8A%D8%AD%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1",
+      "category": "اقتصاد",
+      "region": "البصرة",
+      "published": "2026-09-19T12:11:23+00:00",
+      "image": "./assets/news/ab1c1b343c284d2ea0c242b0.jpg",
+      "original_image": "./assets/news/ab1c1b343c284d2ea0c242b0.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/576446/%D8%AC%D8%B1%D9%8A%D9%85%D8%A9-%D9%85%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D9%85%D9%88%D8%B8%D9%81-%D9%8A%D9%82%D8%AA%D9%84-%D8%B7%D9%84%D9%8A%D9%82%D8%AA%D9%87-%D8%AF%D8%A7%D8%AE%D9%84-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D9%8A%D8%AD%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
       "kirkuk": false,
       "report": false,
-      "governorate": "كربلاء",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5c10776d9b90.html"
+      "governorate": "البصرة",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/57e6eb54d9d8.html"
     },
     {
       "title": "عراقجي لنظيره الفرنسي: كف عن ذرف دموع التماسيح",
@@ -66,13 +66,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/56a2685e2292.html"
     },
     {
+      "title": "تصاعد الدخان قرب مطار الرياض واضطراب في حركة الطيران - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
+      "category": "محليات",
+      "region": "كركوك",
+      "governorate": "كركوك",
+      "published": "2026-09-19T11:59:20+00:00",
+      "image": "./assets/news/2568f247461a9bd23f767b7a.jpg",
+      "original_image": "./assets/news/2568f247461a9bd23f767b7a.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": true,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1940133b58a4.html"
+    },
+    {
       "title": "ماذا ينتظر الحمل والأسد والميزان اليوم؟",
       "url": "https://www.alsumaria.tv/news/horoscopenews/576444/%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D9%86%D8%AA%D8%B8%D8%B1-%D8%A7%D9%84%D8%AD%D9%85%D9%84-%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D8%9F",
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-19T11:46:35+00:00",
-      "image": "./assets/news/26556a42dba81b4a8a3aa863.jpg",
-      "original_image": "./assets/news/26556a42dba81b4a8a3aa863.jpg",
+      "image": "./assets/news/d41a0105a2edd4c0050dfcb9.jpg",
+      "original_image": "./assets/news/d41a0105a2edd4c0050dfcb9.jpg",
       "source_url": "https://www.alsumaria.tv/news/horoscopenews/576444/%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D9%86%D8%AA%D8%B8%D8%B1-%D8%A7%D9%84%D8%AD%D9%85%D9%84-%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D8%9F",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -96,22 +112,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/511f7e22eb03.html"
-    },
-    {
-      "title": "تصاعد الدخان قرب مطار الرياض واضطراب في حركة الطيران، والأمم المتحدة توثق أكثر من 100 ضحية بين المدنيين في اليمن - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
-      "category": "عربي ودولي",
-      "region": "كركوك",
-      "governorate": "كركوك",
-      "published": "2026-09-19T11:29:09+00:00",
-      "image": "./assets/news/24d1c3403289be6731acb5c0.jpg",
-      "original_image": "./assets/news/24d1c3403289be6731acb5c0.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": true,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/334f95e28e5c.html"
     },
     {
       "title": "واشنطن: العراق سيشارك في مواجهة أي تهديد لداعش",
@@ -434,22 +434,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1fd7d4285cf6.html"
     },
     {
-      "title": "عراقي يتولى منصباً أمنياً رفيعاً ويؤسس جهازاً لإنفاذ القانون في أمريكا",
-      "url": "https://www.alsumaria.tv/news/security/576426/%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%AA%D9%88%D9%84%D9%89-%D9%85%D9%86%D8%B5%D8%A8%D8%A7%D9%8B-%D8%A3%D9%85%D9%86%D9%8A%D8%A7%D9%8B-%D8%B1%D9%81%D9%8A%D8%B9%D8%A7%D9%8B-%D9%88%D9%8A%D8%A4%D8%B3%D8%B3-%D8%AC%D9%87%D8%A7%D8%B2%D8%A7%D9%8B-%D9%84%D8%A5%D9%86%D9%81%D8%A7%D8%B0-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%81%D9%8A-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-19T08:37:20+00:00",
-      "image": "./assets/news/d5978b74d529d2af04d8a1af.webp",
-      "original_image": "./assets/news/d5978b74d529d2af04d8a1af.webp",
-      "source_url": "https://www.alsumaria.tv/news/security/576426/%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%AA%D9%88%D9%84%D9%89-%D9%85%D9%86%D8%B5%D8%A8%D8%A7%D9%8B-%D8%A3%D9%85%D9%86%D9%8A%D8%A7%D9%8B-%D8%B1%D9%81%D9%8A%D8%B9%D8%A7%D9%8B-%D9%88%D9%8A%D8%A4%D8%B3%D8%B3-%D8%AC%D9%87%D8%A7%D8%B2%D8%A7%D9%8B-%D9%84%D8%A5%D9%86%D9%81%D8%A7%D8%B0-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%81%D9%8A-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4901cb30c2ea.html"
-    },
-    {
       "title": "الدولار يتخطى الـ160 ألفاً في بغداد.. وبورصتا أربيل والبصرة عند 159,500",
       "url": "https://964media.com/718138/",
       "category": "اقتصاد",
@@ -566,7 +550,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-19T12:08:17.091260+00:00",
+      "published": "2026-09-19T12:26:19.768333+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -576,7 +560,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bcdf0e9265cf.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fb61162a1248.html"
     }
   ]
 }
