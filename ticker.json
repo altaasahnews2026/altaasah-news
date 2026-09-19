@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T07:57:51.263886+00:00",
+  "updated_at": "2026-09-19T08:09:19.448720+00:00",
   "latest": [
     {
       "title": "شهباز شريف: نقف كتفاً إلى كتف مع السعودية دفاعاً عن سيادتها وأمن الحرمين",
@@ -118,7 +118,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T07:57:47.521383+00:00",
+      "published": "2026-09-19T08:09:13.970129+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -474,6 +474,17 @@
       ]
     },
     {
+      "title": "قتلى الجيش الأميركي في حرب إيران... العدد يفوق ما أعلنه البنتاغون",
+      "url": "https://aawsat.com/node/5320049",
+      "category": "دولي",
+      "published": "Sat, 19 Sep 2026 08:58:25 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
       "title": "أميركا تمنح مسؤولين إيرانيين تأشيرات لحضور الجمعية العامة للأمم المتحدة",
       "url": "https://aawsat.com/node/5319615",
       "category": "دولي",
@@ -558,16 +569,6 @@
       "breaking": false,
       "watch_topics": [
         "السعودية"
-      ]
-    },
-    {
-      "title": "بالأرقام... أين وصلت مخزونات الذخيرة الأميركية بعد 200 يوم من حرب إيران؟",
-      "url": "https://aawsat.com/node/5319549",
-      "category": "دولي",
-      "published": "Thu, 17 Sep 2026 17:16:02 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
       ]
     },
     {
@@ -811,6 +812,17 @@
       "published": "Fri, 18 Sep 2026 00:52:18 +0100",
       "breaking": true,
       "watch_topics": []
+    },
+    {
+      "title": "قتلى الجيش الأميركي في حرب إيران... العدد يفوق ما أعلنه البنتاغون",
+      "url": "https://aawsat.com/node/5320049",
+      "category": "دولي",
+      "published": "Sat, 19 Sep 2026 08:58:25 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
     },
     {
       "title": "روسيا تندّد بهجوم أوكراني مع بدء الانتخابات التشريعية",
