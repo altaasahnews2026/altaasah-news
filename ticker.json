@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T17:13:01.673730+00:00",
+  "updated_at": "2026-09-19T17:23:55.647186+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -19,6 +19,16 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "الحوثيون يعلنون قصف أهداف في الرياض وينبع",
+      "url": "https://www.alsumaria.tv/news/international/576464/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B9%D9%84%D9%86%D9%88%D9%86-%D9%82%D8%B5%D9%81-%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%88%D9%8A%D9%86%D8%A8%D8%B9",
+      "category": "عراق",
+      "published": "2026-09-19T17:09:11+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {
@@ -44,14 +54,6 @@
       "url": "https://964media.com/718205/",
       "category": "عراق",
       "published": "2026-09-19T12:57:38+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "اعتقال مدان بالإعدام بعد اشتباك ومحاصرة مكانه في كربلاء",
-      "url": "https://964media.com/718165/",
-      "category": "عراق",
-      "published": "2026-09-19T10:53:51+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -127,7 +129,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T17:12:56.802871+00:00",
+      "published": "2026-09-19T17:23:50.484566+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -152,14 +154,6 @@
       "url": "https://964media.com/718150/",
       "category": "عراق",
       "published": "2026-09-19T10:26:37+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ماذا ينتظر الحمل والأسد والميزان اليوم؟",
-      "url": "https://www.alsumaria.tv/news/horoscopenews/576444/%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D9%86%D8%AA%D8%B8%D8%B1-%D8%A7%D9%84%D8%AD%D9%85%D9%84-%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D8%9F",
-      "category": "عراق",
-      "published": "2026-09-19T11:46:35+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -260,6 +254,14 @@
       "watch_topics": []
     },
     {
+      "title": "الكهرباء والصحة والخدمات المقدمة.. ملفات على طاولة الحوار بين السوداني والخطيب وحمود",
+      "url": "https://www.alsumaria.tv/news/localnews/576454/%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9-%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%B7%D8%A7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D9%88",
+      "category": "عراق",
+      "published": "2026-09-19T14:48:43+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "السعودية تدين استهداف مسجد في باكستان",
       "url": "https://aawsat.com/node/5319832",
       "category": "مشرق أوسط",
@@ -331,14 +333,6 @@
       "watch_topics": []
     },
     {
-      "title": "تحذير أميركي للحوثيين عبر قنوات أمنية: لا نتفاوض معكم",
-      "url": "https://aawsat.com/node/5318829",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 06:11:59 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "تركيا تندد بمحاولة الحوثيين الهجوم على مكة وتطالب بوضع حد لهجماتهم",
       "url": "https://aawsat.com/node/5319437",
       "category": "مشرق أوسط",
@@ -401,6 +395,16 @@
       "published": "Fri, 18 Sep 2026 00:52:18 +0100",
       "breaking": true,
       "watch_topics": []
+    },
+    {
+      "title": "تقرير: خبراء من «الحرس الثوري» زاروا باب المندب لتركيب رادارات",
+      "url": "https://aawsat.com/node/5320216",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 18:15:05 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
     },
     {
       "title": "نهب حوثي يعطل الإغاثة السعودية في الساحل الغربي اليمني",
@@ -647,6 +651,16 @@
   ],
   "breaking": [
     {
+      "title": "الحوثيون يعلنون قصف أهداف في الرياض وينبع",
+      "url": "https://www.alsumaria.tv/news/international/576464/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B9%D9%84%D9%86%D9%88%D9%86-%D9%82%D8%B5%D9%81-%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%88%D9%8A%D9%86%D8%A8%D8%B9",
+      "category": "عراق",
+      "published": "2026-09-19T17:09:11+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "انفجارات وطوارئ قرب مطار الملك خالد في الرياض بعد هجوم جوي",
       "url": "https://964media.com/718181/",
       "category": "عراق",
@@ -669,14 +683,6 @@
       "url": "https://964media.com/718205/",
       "category": "عراق",
       "published": "2026-09-19T12:57:38+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "اعتقال مدان بالإعدام بعد اشتباك ومحاصرة مكانه في كربلاء",
-      "url": "https://964media.com/718165/",
-      "category": "عراق",
-      "published": "2026-09-19T10:53:51+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -745,14 +751,6 @@
       "url": "https://aawsat.com/node/5318984",
       "category": "مشرق أوسط",
       "published": "Wed, 16 Sep 2026 12:24:08 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "تحذير أميركي للحوثيين عبر قنوات أمنية: لا نتفاوض معكم",
-      "url": "https://aawsat.com/node/5318829",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 06:11:59 +0100",
       "breaking": true,
       "watch_topics": []
     },
