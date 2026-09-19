@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T11:56:55.809643+00:00",
+  "updated_at": "2026-09-19T12:08:16.919836+00:00",
   "items": [
     {
       "title": "انفجارات قرب مطار الرياض تعطل حركة الطيران.. ماذا يحدث؟",
@@ -18,9 +18,9 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/82eecf7bf4cb.html"
     },
     {
-      "title": "هجوم جوي يستهدف الرياض للمرة الأولى منذ بدء التصعيد مع الحوثيين",
+      "title": "انفجارات وطوارئ قرب مطار الملك خالد في الرياض بعد هجوم جوي",
       "url": "https://964media.com/718181/",
-      "category": "رياضة",
+      "category": "أمن",
       "region": "كركوك",
       "published": "2026-09-19T11:34:51+00:00",
       "image": "./assets/news/e296a9909f4532cdd6a63828.jpg",
@@ -31,7 +31,7 @@
       "kirkuk": true,
       "report": false,
       "governorate": "كركوك",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/801009d9ece3.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/055a56454f3b.html"
     },
     {
       "title": "اعتقال مدان بالإعدام بعد اشتباك ومحاصرة مكانه في كربلاء",
@@ -48,6 +48,22 @@
       "report": false,
       "governorate": "كربلاء",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5c10776d9b90.html"
+    },
+    {
+      "title": "عراقجي لنظيره الفرنسي: كف عن ذرف دموع التماسيح",
+      "url": "https://www.alsumaria.tv/news/international/576445/%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D9%84%D9%86%D8%B8%D9%8A%D8%B1%D9%87-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%83%D9%81-%D8%B9%D9%86-%D8%B0%D8%B1%D9%81-%D8%AF%D9%85%D9%88%D8%B9-%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B3%D9%8A%D8%AD",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-19T12:00:51+00:00",
+      "image": "./assets/news/c0ed3f8f37fc2dca842b1431.jpg",
+      "original_image": "./assets/news/c0ed3f8f37fc2dca842b1431.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/576445/%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D9%84%D9%86%D8%B8%D9%8A%D8%B1%D9%87-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%83%D9%81-%D8%B9%D9%86-%D8%B0%D8%B1%D9%81-%D8%AF%D9%85%D9%88%D8%B9-%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B3%D9%8A%D8%AD",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/56a2685e2292.html"
     },
     {
       "title": "ماذا ينتظر الحمل والأسد والميزان اليوم؟",
@@ -135,8 +151,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-19T11:13:59+00:00",
-      "image": "./assets/news/b84f04cd2a5bb7c7b435ed53.jpg",
-      "original_image": "./assets/news/b84f04cd2a5bb7c7b435ed53.jpg",
+      "image": "./assets/news/e79d315cf3fac6c8c5ea9094.jpg",
+      "original_image": "./assets/news/e79d315cf3fac6c8c5ea9094.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576439/%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%8A%D9%83%D8%B4%D9%81-%D9%88%D9%82%D8%A7%D8%A6%D8%B9-%D8%BA%D8%B1%D9%8A%D8%A8%D8%A9-%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-%D8%AA%D8%AD%D9%84%D9%82-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -311,8 +327,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-19T09:36:57+00:00",
-      "image": "./assets/news/c31ab26ca543c3c442982115.jpg",
-      "original_image": "./assets/news/c31ab26ca543c3c442982115.jpg",
+      "image": "./assets/news/6fcb98a212d65e8258c4c86c.jpg",
+      "original_image": "./assets/news/6fcb98a212d65e8258c4c86c.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/576432/sports/%D9%81%D8%B1%D8%A7%D9%86%D8%B3-%D9%81%D9%88%D8%AA%D8%A8%D9%88%D9%84-%D8%AA%D9%83%D8%B4%D9%81-%D8%A8%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D8%A7%D9%84%D8%AA%D8%AA%D9%88%D9%8A%D8%AC-%D8%A8%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%84%D8%A7-%D9%8A%D8%B6%D9%85%D9%86-%D8%AD%D8%B5%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B0",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -434,22 +450,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4901cb30c2ea.html"
     },
     {
-      "title": "أبناء غزة يستهلون عامهم الدراسي الجديد بمدارس من الخيام (صور)",
-      "url": "https://www.alsumaria.tv/news/international/576425/%D8%A3%D8%A8%D9%86%D8%A7%D8%A1-%D8%BA%D8%B2%D8%A9-%D9%8A%D8%B3%D8%AA%D9%87%D9%84%D9%88%D9%86-%D8%B9%D8%A7%D9%85%D9%87%D9%85-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D9%85%D9%86-%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%85-%D8%B5%D9%88%D8%B1",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-19T08:36:44+00:00",
-      "image": "./assets/news/1799b1d0813ed42cab41cdc4.jpg",
-      "original_image": "./assets/news/1799b1d0813ed42cab41cdc4.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/576425/%D8%A3%D8%A8%D9%86%D8%A7%D8%A1-%D8%BA%D8%B2%D8%A9-%D9%8A%D8%B3%D8%AA%D9%87%D9%84%D9%88%D9%86-%D8%B9%D8%A7%D9%85%D9%87%D9%85-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D9%85%D9%86-%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%85-%D8%B5%D9%88%D8%B1",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b84d2de32a5b.html"
-    },
-    {
       "title": "الدولار يتخطى الـ160 ألفاً في بغداد.. وبورصتا أربيل والبصرة عند 159,500",
       "url": "https://964media.com/718138/",
       "category": "اقتصاد",
@@ -566,7 +566,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-19T11:56:56.035510+00:00",
+      "published": "2026-09-19T12:08:17.091260+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -576,7 +576,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/859ed101ed30.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bcdf0e9265cf.html"
     }
   ]
 }
