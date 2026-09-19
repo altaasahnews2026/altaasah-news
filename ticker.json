@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T03:49:00.629400+00:00",
+  "updated_at": "2026-09-19T03:56:32.333107+00:00",
   "latest": [
     {
       "title": "شهباز شريف: نقف كتفاً إلى كتف مع السعودية دفاعاً عن سيادتها وأمن الحرمين",
@@ -25,10 +25,21 @@
       "title": "قاليباف يقول إن عصر استهداف المقاتلات الأمريكية بدأ، وسماع دوي انفجارات في الرياض بعد \"تهديدات جوية\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm3eqww5qx8zo",
       "category": "عراق",
-      "published": "2026-09-19T02:46:43+00:00",
+      "published": "2026-09-19T03:50:20+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"
+      ]
+    },
+    {
+      "title": "\"ببساطة لا نعرف\"، جيه بي مورغان يواجه صعوبة في توقع أسعار النفط بسبب حرب ترامب مع إيران - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqpvex230gn3o",
+      "category": "عراق",
+      "published": "2026-09-19T03:32:46+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
       ]
     },
     {
@@ -91,15 +102,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T03:48:56.034057+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "لماذا لا تفرض بريطانيا عقوبات على الحوثيين؟ - مقال في دايلي تلغراف - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cwr50l9jdeqvo",
-      "category": "عراق",
-      "published": "2026-09-18T12:57:25+00:00",
+      "published": "2026-09-19T03:56:27.211762+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -637,7 +640,7 @@
       "title": "قاليباف يقول إن عصر استهداف المقاتلات الأمريكية بدأ، وسماع دوي انفجارات في الرياض بعد \"تهديدات جوية\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm3eqww5qx8zo",
       "category": "عراق",
-      "published": "2026-09-19T02:46:43+00:00",
+      "published": "2026-09-19T03:50:20+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"
