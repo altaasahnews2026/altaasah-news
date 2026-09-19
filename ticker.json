@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T19:57:32.186479+00:00",
+  "updated_at": "2026-09-19T20:06:05.894973+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -90,16 +90,6 @@
       ]
     },
     {
-      "title": "الحوثيون يعلنون مهاجمة \"أهداف حساسة\" في الرياض وشركة أرامكو في ينبع - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
-      "category": "عراق",
-      "published": "2026-09-19T17:36:58+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "طهران ترد على تصريحات قائد سنتكوم بشأن خروج مليار برميل نفط",
       "url": "https://www.alsumaria.tv/news/international/576468/%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D9%82%D8%A7%D8%A6%D8%AF-%D8%B3%D9%86%D8%AA%D9%83%D9%88%D9%85-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AE%D8%B1%D9%88%D8%AC-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%86%D9%81%D8%B7",
       "category": "عراق",
@@ -120,20 +110,40 @@
       ]
     },
     {
-      "title": "رئيس مجلس النواب الأمريكي: الصراع مع إيران في مراحله الختامية",
-      "url": "https://www.alsumaria.tv/news/international/576472/%d8%b1%d8%a6%d9%8a%d8%b3-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d8%a7%d9%84%d8%b5%d8%b1%d8%a7%d8%b9-%d9%85%d8%b9-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d9%81%d9%8a-%d9%85%d8%b1%d8%a7%d8%ad?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "title": "الحوثيون يعلنون مهاجمة \"أهداف حساسة\" في الرياض وشركة أرامكو في ينبع - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
       "category": "عراق",
-      "published": "Sat, 19 Sep 2026 19:54:00 GMT",
+      "published": "2026-09-19T19:49:25+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "رئيس مجلس النواب الأمريكي: الصراع مع إيران في مراحله الختامية",
+      "url": "https://www.alsumaria.tv/news/international/576472/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B9-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%81%D9%8A-%D9%85%D8%B1%D8%A7%D8%AD%D9%84%D9%87-%D8%A7%D9%84%D8%AE%D8%AA%D8%A7%D9%85%D9%8A%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-19T19:54:00+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
       ]
     },
     {
+      "title": "السعودية تعلن اعتراض صاروخ أطلقه الحوثيون باتجاه الرياض",
+      "url": "https://www.alsumaria.tv/news/international/576473/%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6-%d8%b5%d8%a7%d8%b1%d9%88%d8%ae-%d8%a3%d8%b7%d9%84%d9%82%d9%87-%d8%a7%d9%84%d8%ad%d9%88%d8%ab%d9%8a%d9%88%d9%86-%d8%a8%d8%a7%d8%aa%d8%ac%d8%a7%d9%87-%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Sat, 19 Sep 2026 20:05:00 GMT",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T19:57:23.099896+00:00",
+      "published": "2026-09-19T20:06:00.578421+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -178,14 +188,6 @@
       "watch_topics": []
     },
     {
-      "title": "نداء لأصحاب الدراجات في هذه المحافظة.. لا حركة من الـ8 مساءً حتى الصباح",
-      "url": "https://www.alsumaria.tv/news/localnews/576452/%D9%86%D8%AF%D8%A7%D8%A1-%D9%84%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA-%D9%81%D9%8A-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D9%84%D8%A7-%D8%AD%D8%B1%D9%83%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%808-%D9%85%D8%B3%D8%A7%D8%A1%D9%8B-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD",
-      "category": "عراق",
-      "published": "2026-09-19T14:17:38+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "وزير المالية والقائم بالأعمال الأمريكي يبحثان تسريع تنفيذ مشاريع الشركات الأمريكية بالعراق",
       "url": "https://www.alsumaria.tv/news/localnews/576453/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D9%85-%D8%A8%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%AA%D8%B3%D8%B1%D9%8A%D8%B9-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%B4%D8%B1%D9%83",
       "category": "عراق",
@@ -198,14 +200,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c5m27r08yekwo",
       "category": "عراق",
       "published": "2026-09-19T14:25:13+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "النقل: الحرب لم تؤثر على حركة الشاحنات و7000 مرور دولي عبر العراق",
-      "url": "https://964media.com/718224/",
-      "category": "عراق",
-      "published": "2026-09-19T14:30:11+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -262,6 +256,14 @@
       "url": "https://www.alsumaria.tv/news/artculture/576460/%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D8%AD%D8%B3%D9%85-%D9%85%D8%B5%D9%8A%D8%B1-%D9%81%D9%8A%D9%84%D9%85-%D8%A7%D9%84%D8%B3%D8%AA-%D9%84%D8%A3%D9%85-%D9%83%D9%84%D8%AB%D9%88%D9%85",
       "category": "عراق",
       "published": "2026-09-19T16:19:14+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "اعتقال سارق متسلسل لمواشي ديالى.. الشرطة نسقت مع النجف للإطاحة به",
+      "url": "https://964media.com/718271/",
+      "category": "عراق",
+      "published": "2026-09-19T16:23:29+00:00",
       "breaking": false,
       "watch_topics": []
     },
