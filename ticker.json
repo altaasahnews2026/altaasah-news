@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T09:03:13.875367+00:00",
+  "updated_at": "2026-09-19T09:17:41.890410+00:00",
   "latest": [
     {
       "title": "شهباز شريف: نقف كتفاً إلى كتف مع السعودية دفاعاً عن سيادتها وأمن الحرمين",
@@ -12,10 +12,10 @@
       ]
     },
     {
-      "title": "رئيس كوريا الجنوبية: لن ننشر جيشنا للقتال في مضيق هرمز",
-      "url": "https://aawsat.com/node/5319667",
+      "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
+      "url": "https://aawsat.com/node/5320075",
       "category": "مشرق أوسط",
-      "published": "Fri, 18 Sep 2026 05:12:01 +0100",
+      "published": "Sat, 19 Sep 2026 10:15:12 +0100",
       "breaking": false,
       "watch_topics": [
         "إيران"
@@ -120,7 +120,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-19T09:03:08.653108+00:00",
+      "published": "2026-09-19T09:17:38.303479+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -145,14 +145,6 @@
       "url": "https://964media.com/718107/",
       "category": "عراق",
       "published": "2026-09-18T20:42:31+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بعد نظارات التحرش.. ميتا تخطط ﻹطلاق نظارات ذكية دون كاميرا",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/576409/%D8%A8%D8%B9%D8%AF-%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D8%B4-%D9%85%D9%8A%D8%AA%D8%A7-%D8%AA%D8%AE%D8%B7%D8%B7-%EF%BB%B9%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B0%D9%83%D9%8A%D8%A9-%D8%AF%D9%88%D9%86-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7",
-      "category": "عراق",
-      "published": "2026-09-19T05:26:24+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -261,6 +253,14 @@
       "watch_topics": []
     },
     {
+      "title": "صراع القمة والتعويض يشعل ختام الجولة الثامنة من دوري نجوم العراق اليوم",
+      "url": "https://www.alsumaria.tv/Entertainment-News/576422/sports/%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D9%88%D9%8A%D8%B6-%D9%8A%D8%B4%D8%B9%D9%84-%D8%AE%D8%AA%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9-%D9%85%D9%86-%D8%AF%D9%88%D8%B1%D9%8A-%D9%86%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+      "category": "عراق",
+      "published": "2026-09-19T08:15:29+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "السعودية تدين استهداف مسجد في باكستان",
       "url": "https://aawsat.com/node/5319832",
       "category": "مشرق أوسط",
@@ -275,16 +275,6 @@
       "url": "https://aawsat.com/node/5319023",
       "category": "مشرق أوسط",
       "published": "Wed, 16 Sep 2026 13:57:23 +0100",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "الدفاعات السعودية تعترض مسيّرة حاولت دخول المجال الجوي للعاصمة المقدسة",
-      "url": "https://aawsat.com/node/5318815",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 00:37:04 +0100",
       "breaking": true,
       "watch_topics": [
         "السعودية"
@@ -426,6 +416,16 @@
       ]
     },
     {
+      "title": "السعودية تعلن «زوال الخطر» في 10 مدن بعد إطلاق الإنذار المبكر",
+      "url": "https://aawsat.com/node/5320074",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 10:13:39 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "إطلاق اسم مساعد بن عبد الرحمن على الجامعة السعودية الإلكترونية",
       "url": "https://aawsat.com/node/5319919",
       "category": "مشرق أوسط",
@@ -496,6 +496,14 @@
         "إيران",
         "أمريكا"
       ]
+    },
+    {
+      "title": "تقرير: تعرّض نظام التصويت في موسكو لهجوم إلكتروني",
+      "url": "https://aawsat.com/node/5320076",
+      "category": "دولي",
+      "published": "Sat, 19 Sep 2026 10:15:23 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "روسيا تندّد بهجوم أوكراني مع بدء الانتخابات التشريعية",
@@ -628,14 +636,6 @@
       "published": "Fri, 18 Sep 2026 17:58:05 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "الرئيس الأوكراني يستقبل قادة 7 دول في قمة إقليمية",
-      "url": "https://aawsat.com/node/5319888",
-      "category": "دولي",
-      "published": "Fri, 18 Sep 2026 17:00:38 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -688,16 +688,6 @@
       "url": "https://aawsat.com/node/5319023",
       "category": "مشرق أوسط",
       "published": "Wed, 16 Sep 2026 13:57:23 +0100",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "الدفاعات السعودية تعترض مسيّرة حاولت دخول المجال الجوي للعاصمة المقدسة",
-      "url": "https://aawsat.com/node/5318815",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 00:37:04 +0100",
       "breaking": true,
       "watch_topics": [
         "السعودية"
@@ -817,6 +807,14 @@
         "إيران",
         "أمريكا"
       ]
+    },
+    {
+      "title": "تقرير: تعرّض نظام التصويت في موسكو لهجوم إلكتروني",
+      "url": "https://aawsat.com/node/5320076",
+      "category": "دولي",
+      "published": "Sat, 19 Sep 2026 10:15:23 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "روسيا تندّد بهجوم أوكراني مع بدء الانتخابات التشريعية",
