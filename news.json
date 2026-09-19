@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T13:53:07.341374+00:00",
+  "updated_at": "2026-09-19T14:00:14.633823+00:00",
   "items": [
     {
       "title": "اشتباكات مسلحة في الشطرة.. إصابة مدير مكافحة المخدرات واعتقال مطلوبين",
@@ -7,8 +7,8 @@
       "category": "أمن",
       "region": "ذي قار",
       "published": "2026-09-19T13:00:09+00:00",
-      "image": "./assets/news/204be4bc8c01c5be9736f395.jpg",
-      "original_image": "./assets/news/204be4bc8c01c5be9736f395.jpg",
+      "image": "./assets/news/a346b58ca216ef1f24b45dea.jpg",
+      "original_image": "./assets/news/a346b58ca216ef1f24b45dea.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/576449/%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83%D8%A7%D8%AA-%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B7%D8%B1%D8%A9-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%8A%D8%B1-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D8%B7%D9%84%D9%88%D8%A8%D9%8A%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -146,6 +146,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4562ece63043.html"
     },
     {
+      "title": "أطلق النار عليها ثم على نفسه.. مقتل شخص وطليقته داخل شركة نفط البصرة",
+      "url": "https://964media.com/718205/",
+      "category": "اقتصاد",
+      "region": "البصرة",
+      "published": "2026-09-19T12:57:38+00:00",
+      "image": "./assets/news/cdd3d24c4e4723ddc188c800.jpg",
+      "original_image": "./assets/news/cdd3d24c4e4723ddc188c800.jpg",
+      "source_url": "https://964media.com/718205/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "البصرة",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/99128d180371.html"
+    },
+    {
       "title": "لاعب المنتخب العراقي للتيك بول علي جليل يتأهل إلى نهائي دورة الألعاب الآسيوية",
       "url": "https://www.alsumaria.tv/Entertainment-News/576448/sports/%D9%84%D8%A7%D8%B9%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%84%D9%84%D8%AA%D9%8A%D9%83-%D8%A8%D9%88%D9%84-%D8%B9%D9%84%D9%8A-%D8%AC%D9%84%D9%8A%D9%84-%D9%8A%D8%AA%D8%A3%D9%87%D9%84-%D8%A5%D9%84%D9%89-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%A7",
       "category": "رياضة",
@@ -162,13 +178,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6faaf89da32e.html"
     },
     {
+      "title": "الأنبار تعلن فض الطوابير وانتهاء أزمة البنزين في المحافظة",
+      "url": "https://964media.com/718199/",
+      "category": "محليات",
+      "region": "الأنبار",
+      "published": "2026-09-19T12:42:15+00:00",
+      "image": "./assets/news/3649022040fee0130419b803.jpg",
+      "original_image": "./assets/news/3649022040fee0130419b803.jpg",
+      "source_url": "https://964media.com/718199/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "الأنبار",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ecceb8e90172.html"
+    },
+    {
       "title": "بينهم إسرائيليون وعرب.. تركيا تفكيك شبكة احتيال دولية لـالفوركس",
       "url": "https://www.alsumaria.tv/news/international/576447/%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D9%88%D9%86-%D9%88%D8%B9%D8%B1%D8%A8-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D9%80%D8%A7%D9%84%D9%81%D9%88%D8%B1%D9%83%D8%B3",
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-19T12:38:50+00:00",
-      "image": "./assets/news/d8f6de1f123cb23d40c6d152.jpg",
-      "original_image": "./assets/news/d8f6de1f123cb23d40c6d152.jpg",
+      "image": "./assets/news/b1ca7a144742e0e77cfe720e.jpg",
+      "original_image": "./assets/news/b1ca7a144742e0e77cfe720e.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576447/%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D9%88%D9%86-%D9%88%D8%B9%D8%B1%D8%A8-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D9%80%D8%A7%D9%84%D9%81%D9%88%D8%B1%D9%83%D8%B3",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -498,22 +530,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/55b37ac407d1.html"
     },
     {
-      "title": "انسحاب جماعي لنجوم مصر من مهرجان نينوى السينمائي واتهامات لمديره بـ”العجرفة”",
-      "url": "https://964media.com/718131/",
-      "category": "عربي ودولي",
-      "region": "نينوى",
-      "published": "2026-09-19T07:48:06+00:00",
-      "image": "./assets/news/f4663d7f92a66355449daa99.jpg",
-      "original_image": "./assets/news/f4663d7f92a66355449daa99.jpg",
-      "source_url": "https://964media.com/718131/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "نينوى",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2cde1f79bbf7.html"
-    },
-    {
       "title": "عرانيص الذرة أطول من الرجال وحقول الحويجة كأنها أمريكية.. أين مصانع الزيوت؟",
       "url": "https://964media.com/717031/",
       "category": "محليات",
@@ -528,22 +544,6 @@
       "report": false,
       "governorate": "كركوك",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/57aced599235.html"
-    },
-    {
-      "title": "الأنواء تبشّر العراقيين بانخفاض الحرارة بين 3 و4 درجات",
-      "url": "https://964media.com/718120/",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-19T06:35:55+00:00",
-      "image": "./assets/news/c7faaf7126f2b12682437532.jpg",
-      "original_image": "./assets/news/c7faaf7126f2b12682437532.jpg",
-      "source_url": "https://964media.com/718120/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1dc303ff5468.html"
     },
     {
       "title": "قاليباف يقول إن عصر استهداف المقاتلات الأمريكية بدأ، وسماع دوي انفجارات في الرياض بعد \"تهديدات جوية\" - شفق نيوز..",
@@ -582,7 +582,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-19T13:53:07.579324+00:00",
+      "published": "2026-09-19T14:00:14.773768+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -592,7 +592,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5ae973efd48a.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f6b086a93e04.html"
     }
   ]
 }
