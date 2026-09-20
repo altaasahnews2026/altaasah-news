@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T01:47:17.320839+00:00",
+  "updated_at": "2026-09-20T01:56:16.946135+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -164,7 +164,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T01:47:13.755629+00:00",
+      "published": "2026-09-20T01:56:09.679607+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -541,6 +541,16 @@
       "watch_topics": []
     },
     {
+      "title": "الدنمارك ترحب بالاتفاق مع واشنطن حول غرينلاند",
+      "url": "https://aawsat.com/node/5320303",
+      "category": "دولي",
+      "published": "Sun, 20 Sep 2026 02:55:42 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "ترمب يعلن «سيطرة دائمة» لواشنطن على أمن غرينلاند",
       "url": "https://aawsat.com/node/5320202",
       "category": "دولي",
@@ -649,14 +659,6 @@
       "watch_topics": [
         "أمريكا"
       ]
-    },
-    {
-      "title": "انتخاب الجنرال الألماني بروير رئيساً لأعلى هيئة عسكرية بحلف الأطلسي",
-      "url": "https://aawsat.com/node/5320205",
-      "category": "دولي",
-      "published": "Sat, 19 Sep 2026 17:50:10 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
