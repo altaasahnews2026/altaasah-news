@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-20T22:44:04.158633+00:00",
+  "updated_at": "2026-09-20T22:53:40.853793+00:00",
   "items": [
+    {
+      "title": "انفجارات في ريف حلب الجنوبي",
+      "url": "https://www.alsumaria.tv/news/international/576575/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-09-20T22:42:00+00:00",
+      "image": "./assets/news/f85d9a0fdd10be0a764550cd.jpg",
+      "original_image": "./assets/news/f85d9a0fdd10be0a764550cd.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/576575/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": true,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4eda8545da7a.html"
+    },
     {
       "title": "بعد الهجوم الأخير.. روسيا تتوعد بتكثيف ضرباتها على أوكرانيا",
       "url": "https://www.alsumaria.tv/news/international/576559/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%AA%D9%88%D8%B9%D8%AF-%D8%A8%D8%AA%D9%83%D8%AB%D9%8A%D9%81-%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
@@ -119,8 +135,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-20T20:15:55+00:00",
-      "image": "./assets/news/f82d2ca475cf8e1f00192dc1.jpg",
-      "original_image": "./assets/news/f82d2ca475cf8e1f00192dc1.jpg",
+      "image": "./assets/news/8a7d6a1050011d4ae67361ba.jpg",
+      "original_image": "./assets/news/8a7d6a1050011d4ae67361ba.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576570/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%D9%81%D9%8A-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D8%AF%D8%A1%D8%A3-%D9%85%D9%86-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -370,6 +386,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a023f1318aaa.html"
     },
     {
+      "title": "بعد هجمات الحوثيين.. حديث عن قدرة باكستان بالتدخل لجانب السعودية",
+      "url": "https://www.alsumaria.tv/news/international/576556/%D8%A8%D8%B9%D8%AF-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B9%D9%86-%D9%82%D8%AF%D8%B1%D8%A9-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D9%84%D8%AC%D8%A7%D9%86%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-20T17:01:33+00:00",
+      "image": "./assets/news/02243f29529072740797ed9c.jpg",
+      "original_image": "./assets/news/02243f29529072740797ed9c.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/576556/%D8%A8%D8%B9%D8%AF-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B9%D9%86-%D9%82%D8%AF%D8%B1%D8%A9-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D9%84%D8%AC%D8%A7%D9%86%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5d1eb9e5b67a.html"
+    },
+    {
       "title": "الإجهاد المائي في العراق يصل إلى 68%.. الصحة العالمية تحذر",
       "url": "https://964media.com/718527/",
       "category": "محليات",
@@ -384,38 +416,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/30f21c2aea1d.html"
-    },
-    {
-      "title": "مجلس النواب يرفع جلسته إلى يوم غد الاثنين",
-      "url": "https://www.alsumaria.tv/news/politics/576555/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%8A%D8%B1%D9%81%D8%B9-%D8%AC%D9%84%D8%B3%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D9%8A%D9%88%D9%85-%D8%BA%D8%AF-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-20T16:50:57+00:00",
-      "image": "./assets/news/cb913b790b5242f479a28bb5.jpg",
-      "original_image": "./assets/news/cb913b790b5242f479a28bb5.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/576555/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%8A%D8%B1%D9%81%D8%B9-%D8%AC%D9%84%D8%B3%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D9%8A%D9%88%D9%85-%D8%BA%D8%AF-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2285e278f489.html"
-    },
-    {
-      "title": "مورينيو يهنئ لجنة التحكيم بعد خسارة ريال مدريد: اتركوا لنا فرصة للمنافسة!",
-      "url": "https://www.alsumaria.tv/Entertainment-News/576554/sports/%D9%85%D9%88%D8%B1%D9%8A%D9%86%D9%8A%D9%88-%D9%8A%D9%87%D9%86%D8%A6-%D9%84%D8%AC%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%8A%D9%85-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D8%A7%D8%AA%D8%B1%D9%83%D9%88%D8%A7-%D9%84%D9%86%D8%A7-%D9%81%D8%B1%D8%B5%D8%A9-%D9%84%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-20T16:50:47+00:00",
-      "image": "./assets/news/40d243f4ea881a23f1eb79b9.jpg",
-      "original_image": "./assets/news/40d243f4ea881a23f1eb79b9.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/576554/sports/%D9%85%D9%88%D8%B1%D9%8A%D9%86%D9%8A%D9%88-%D9%8A%D9%87%D9%86%D8%A6-%D9%84%D8%AC%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%8A%D9%85-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D8%A7%D8%AA%D8%B1%D9%83%D9%88%D8%A7-%D9%84%D9%86%D8%A7-%D9%81%D8%B1%D8%B5%D8%A9-%D9%84%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6a6a15c20214.html"
     },
     {
       "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
@@ -518,7 +518,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T22:44:04.379355+00:00",
+      "published": "2026-09-20T22:53:41.088583+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -528,7 +528,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a9cc8255b1e1.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/13f5d45d90af.html"
     }
   ]
 }
