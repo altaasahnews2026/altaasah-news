@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T20:26:36.148843+00:00",
+  "updated_at": "2026-09-20T20:37:13.277222+00:00",
   "items": [
     {
       "title": "بعد الهجوم الأخير.. روسيا تتوعد برد قاسٍ على أوكرانيا",
@@ -18,13 +18,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/34be19a82773.html"
     },
     {
+      "title": "إيران تنفي إلغاء الرحلات الجوية مع العراق بدءأ من الثلاثاء",
+      "url": "https://www.alsumaria.tv/news/international/576570/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%D9%81%D9%8A-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D8%AF%D8%A1%D8%A3-%D9%85%D9%86-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-20T20:15:55+00:00",
+      "image": "./assets/news/32d46200e4da099dc07b306c.jpg",
+      "original_image": "./assets/news/32d46200e4da099dc07b306c.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/576570/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%D9%81%D9%8A-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D8%AF%D8%A1%D8%A3-%D9%85%D9%86-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0439606ffbe7.html"
+    },
+    {
       "title": "زيلينسكي يتحدث عن تغييرات كبيرة بعد لقاء ترامب المرتقب",
       "url": "https://www.alsumaria.tv/news/international/576569/%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%84%D9%82%D8%A7%D8%A1-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%82%D8%A8",
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-20T20:11:00+00:00",
-      "image": "./assets/news/bfa1f02c0df9b668b3282373.jpg",
-      "original_image": "./assets/news/bfa1f02c0df9b668b3282373.jpg",
+      "image": "./assets/news/7e673c2245933ef2d263a19a.jpg",
+      "original_image": "./assets/news/7e673c2245933ef2d263a19a.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576569/%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%84%D9%82%D8%A7%D8%A1-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%82%D8%A8",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -402,22 +418,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bbfb3a3a6257.html"
     },
     {
-      "title": "ريال مدريد يسقط أمام أتلتيكو في ديربي العاصمة ويتراجع للمركز الثالث",
-      "url": "https://www.alsumaria.tv/Entertainment-News/576549/sports/%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D8%B3%D9%82%D8%B7-%D8%A3%D9%85%D8%A7%D9%85-%D8%A3%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D9%88%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%84%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-20T16:16:35+00:00",
-      "image": "./assets/news/f39b038851e8786bfbf352ac.webp",
-      "original_image": "./assets/news/f39b038851e8786bfbf352ac.webp",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/576549/sports/%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D8%B3%D9%82%D8%B7-%D8%A3%D9%85%D8%A7%D9%85-%D8%A3%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D9%88%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%84%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a20e4ef7ac41.html"
-    },
-    {
       "title": "أزمة الرياض مع الحوثيين فرصة ترامب لرعاية تعاون سعودي إسرائيلي إماراتي - وول ستريت جورنال - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm2kw3k0dqylo",
       "category": "عربي ودولي",
@@ -502,7 +502,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T20:26:36.371909+00:00",
+      "published": "2026-09-20T20:37:13.500994+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -512,7 +512,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/321b2c6f4c7e.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e0f9fe818078.html"
     }
   ]
 }
