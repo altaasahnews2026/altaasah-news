@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T20:52:56.310313+00:00",
+  "updated_at": "2026-09-20T21:01:14.819492+00:00",
   "items": [
     {
       "title": "بعد الهجوم الأخير.. روسيا تتوعد برد قاسٍ على أوكرانيا",
@@ -18,13 +18,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/34be19a82773.html"
     },
     {
+      "title": "هاجر خرجت من بئر نينوى.. فرح في الكوير وشكراً للدفاع المدني",
+      "url": "https://964media.com/718625/",
+      "category": "محليات",
+      "region": "نينوى",
+      "published": "2026-09-20T20:24:01+00:00",
+      "image": "./assets/news/0ecb4e6c72737db9a9ca5327.jpg",
+      "original_image": "./assets/news/0ecb4e6c72737db9a9ca5327.jpg",
+      "source_url": "https://964media.com/718625/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "نينوى",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0a92a36170f5.html"
+    },
+    {
       "title": "إيران تنفي إلغاء الرحلات الجوية مع العراق بدءأ من الثلاثاء",
       "url": "https://www.alsumaria.tv/news/international/576570/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%D9%81%D9%8A-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D8%AF%D8%A1%D8%A3-%D9%85%D9%86-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1",
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-20T20:15:55+00:00",
-      "image": "./assets/news/cdce6400da5eb61af167f4aa.jpg",
-      "original_image": "./assets/news/cdce6400da5eb61af167f4aa.jpg",
+      "image": "./assets/news/32d46200e4da099dc07b306c.jpg",
+      "original_image": "./assets/news/32d46200e4da099dc07b306c.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576570/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%D9%81%D9%8A-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D8%AF%D8%A1%D8%A3-%D9%85%D9%86-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -370,22 +386,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b3d39ad9fa51.html"
     },
     {
-      "title": "تصريح نيابي: ما يحصل اليوم يذكرنا بايام سقوط النظام البائد عام 2003",
-      "url": "https://www.alsumaria.tv/news/politics/576550/%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D9%86%D9%8A%D8%A7%D8%A8%D9%8A-%D9%85%D8%A7-%D9%8A%D8%AD%D8%B5%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%8A%D8%B0%D9%83%D8%B1%D9%86%D8%A7-%D8%A8%D8%A7%D9%8A%D8%A7%D9%85-%D8%B3%D9%82%D9%88%D8%B7-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D8%A7%D8%A6%D8%AF-%D8%B9%D8%A7%D9%85-2003",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-20T16:36:14+00:00",
-      "image": "./assets/news/5c290ca10d02266f38ade879.jpg",
-      "original_image": "./assets/news/5c290ca10d02266f38ade879.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/576550/%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D9%86%D9%8A%D8%A7%D8%A8%D9%8A-%D9%85%D8%A7-%D9%8A%D8%AD%D8%B5%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%8A%D8%B0%D9%83%D8%B1%D9%86%D8%A7-%D8%A8%D8%A7%D9%8A%D8%A7%D9%85-%D8%B3%D9%82%D9%88%D8%B7-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D8%A7%D8%A6%D8%AF-%D8%B9%D8%A7%D9%85-2003",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9eefa17561a5.html"
-    },
-    {
       "title": "الوقف السني ينهي تكليف محمد عبد الوهاب الملا من مهام دائرة البصرة",
       "url": "https://964media.com/718541/",
       "category": "محليات",
@@ -502,7 +502,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T20:52:56.531757+00:00",
+      "published": "2026-09-20T21:01:15.036401+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -512,7 +512,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0d252e7af611.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0970a01e1b88.html"
     }
   ]
 }
