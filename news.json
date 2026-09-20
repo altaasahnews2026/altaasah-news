@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T16:38:45.480764+00:00",
+  "updated_at": "2026-09-20T16:47:48.593768+00:00",
   "items": [
     {
       "title": "أكثر من ألف هجوم سيبراني يستهدف الانتخابات الروسية",
@@ -39,8 +39,8 @@
       "category": "أمن",
       "region": "أربيل",
       "published": "2026-09-20T14:56:40+00:00",
-      "image": "./assets/news/246e4103839f39de23678caf.jpg",
-      "original_image": "./assets/news/246e4103839f39de23678caf.jpg",
+      "image": "./assets/news/debc1044ea241737994611e4.jpg",
+      "original_image": "./assets/news/debc1044ea241737994611e4.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/576536/%D8%AC%D9%87%D8%A7%D8%B2-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%81%D9%8A-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%8A%D9%83%D8%B4%D9%81-%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9-%D8%AF%D9%88%D9%8A-%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D8%B1%D8%A8%D9%8A%D9%84",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -50,20 +50,36 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/723abd5e66b6.html"
     },
     {
-      "title": "صور أولية لانفجار أربيل",
-      "url": "https://www.alsumaria.tv/news/trends-alsumaria/576530/%D8%B5%D9%88%D8%B1-%D8%A3%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A3%D8%B1%D8%A8%D9%8A%D9%84",
-      "category": "أمن",
-      "region": "أربيل",
-      "published": "2026-09-20T14:18:27+00:00",
-      "image": "./assets/news/83fb3f780e96a3f41a08acca.png",
-      "original_image": "./assets/news/83fb3f780e96a3f41a08acca.png",
-      "source_url": "https://www.alsumaria.tv/news/trends-alsumaria/576530/%D8%B5%D9%88%D8%B1-%D8%A3%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A3%D8%B1%D8%A8%D9%8A%D9%84",
+      "title": "كوندي يعيش سابقة مع برشلونة.. 3 مباريات متتالية خارج الحسابات",
+      "url": "https://www.alsumaria.tv/Entertainment-News/576551/sports/%D9%83%D9%88%D9%86%D8%AF%D9%8A-%D9%8A%D8%B9%D9%8A%D8%B4-%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D9%85%D8%B9-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-3-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%AA%D8%AA%D8%A7%D9%84%D9%8A%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-20T16:38:07+00:00",
+      "image": "./assets/news/953e084521f62e842ee4e34f.webp",
+      "original_image": "./assets/news/953e084521f62e842ee4e34f.webp",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/576551/sports/%D9%83%D9%88%D9%86%D8%AF%D9%8A-%D9%8A%D8%B9%D9%8A%D8%B4-%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D9%85%D8%B9-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-3-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%AA%D8%AA%D8%A7%D9%84%D9%8A%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA",
       "source_name": "السومرية نيوز",
-      "breaking": true,
+      "breaking": false,
       "kirkuk": false,
       "report": false,
-      "governorate": "أربيل",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d3edfc3e2464.html"
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b3d39ad9fa51.html"
+    },
+    {
+      "title": "تصريح نيابي: ما يحصل اليوم يذكرنا بايام سقوط النظام البائد عام 2003",
+      "url": "https://www.alsumaria.tv/news/politics/576550/%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D9%86%D9%8A%D8%A7%D8%A8%D9%8A-%D9%85%D8%A7-%D9%8A%D8%AD%D8%B5%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%8A%D8%B0%D9%83%D8%B1%D9%86%D8%A7-%D8%A8%D8%A7%D9%8A%D8%A7%D9%85-%D8%B3%D9%82%D9%88%D8%B7-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D8%A7%D8%A6%D8%AF-%D8%B9%D8%A7%D9%85-2003",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-20T16:36:14+00:00",
+      "image": "./assets/news/db2044cc7498f850d35d9e45.jpg",
+      "original_image": "./assets/news/db2044cc7498f850d35d9e45.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/576550/%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D9%86%D9%8A%D8%A7%D8%A8%D9%8A-%D9%85%D8%A7-%D9%8A%D8%AD%D8%B5%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%8A%D8%B0%D9%83%D8%B1%D9%86%D8%A7-%D8%A8%D8%A7%D9%8A%D8%A7%D9%85-%D8%B3%D9%82%D9%88%D8%B7-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D8%A7%D8%A6%D8%AF-%D8%B9%D8%A7%D9%85-2003",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9eefa17561a5.html"
     },
     {
       "title": "ريال مدريد يسقط أمام أتلتيكو في ديربي العاصمة ويتراجع للمركز الثالث",
@@ -103,8 +119,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-20T16:02:49+00:00",
-      "image": "./assets/news/1bc5e6d30e4d966dafe62f0c.jpg",
-      "original_image": "./assets/news/1bc5e6d30e4d966dafe62f0c.jpg",
+      "image": "./assets/news/f1af3abc581d2a5960f9eb7c.jpg",
+      "original_image": "./assets/news/f1af3abc581d2a5960f9eb7c.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/576547/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%B5%D8%AF%D8%B1-%D9%85%D8%B9%D9%84%D9%82%D8%A7%D9%8B-%D8%B9%D9%84%D9%89-%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D9%86%D8%A3%D9%85%D9%84-%D8%A3%D9%86-%D9%84%D8%A7-%D9%8A%D9%83%D9%88%D9%86-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D9%84%D8%AA%D8%AF%D8%AE%D9%84%D8%A7%D8%AA-%D8%AE%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -167,8 +183,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-20T15:46:30+00:00",
-      "image": "./assets/news/c5b30a1febea0c6ea60ed2f0.jpg",
-      "original_image": "./assets/news/c5b30a1febea0c6ea60ed2f0.jpg",
+      "image": "./assets/news/25b98f408e2be672d0b3a983.jpg",
+      "original_image": "./assets/news/25b98f408e2be672d0b3a983.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576543/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B9%D9%84%D8%A7%D9%86-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A7%D9%86%D9%81%D8%AA%D8%A7%D8%AD%D9%87-%D9%84%D9%84%D9%82%D8%A7%D8%A1-%D8%A8%D8%B2%D8%B4%D9%83%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%86%D8%B1%D8%AD%D8%A8-%D8%A8%D8%A3%D9%8A-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -231,8 +247,8 @@
       "category": "محليات",
       "region": "بغداد",
       "published": "2026-09-20T15:32:20+00:00",
-      "image": "./assets/news/945bdef3665126f84a17fb15.jpg",
-      "original_image": "./assets/news/945bdef3665126f84a17fb15.jpg",
+      "image": "./assets/news/19b29f617f124c9ca78a209d.jpg",
+      "original_image": "./assets/news/19b29f617f124c9ca78a209d.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/576539/%D8%A7%D8%B3%D8%AA%D9%86%D8%AC%D8%AF-%D8%A8%D9%80911-%D9%88%D8%A7%D9%84%D9%82%D9%8A-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D8%AA%D8%B2%D9%8A%D9%87-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -352,22 +368,6 @@
       "report": false,
       "governorate": "السليمانية",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5f703fbf474a.html"
-    },
-    {
-      "title": "الكشف عن طبيعة تفجير أربيل",
-      "url": "https://www.alsumaria.tv/news/security/576531/%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D8%A3%D8%B1%D8%A8%D9%8A%D9%84",
-      "category": "محليات",
-      "region": "أربيل",
-      "published": "2026-09-20T14:25:19+00:00",
-      "image": "./assets/news/c6e5bc6c8634ee1ddc7afca3.jpg",
-      "original_image": "./assets/news/c6e5bc6c8634ee1ddc7afca3.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/576531/%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D8%A3%D8%B1%D8%A8%D9%8A%D9%84",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "أربيل",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2f33bfe215b0.html"
     },
     {
       "title": "الحشد يطيح بتاجر مخدرات قرب الحدود السورية ويضبط 5 كغم من الكريستال",
@@ -534,7 +534,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T16:38:45.713994+00:00",
+      "published": "2026-09-20T16:47:48.848816+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -544,7 +544,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e268187de79a.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/74e1d6d2a432.html"
     }
   ]
 }
