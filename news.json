@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T17:05:42.509798+00:00",
+  "updated_at": "2026-09-20T17:16:30.849313+00:00",
   "items": [
     {
       "title": "أكثر من ألف هجوم سيبراني يستهدف الانتخابات الروسية",
@@ -50,13 +50,45 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/723abd5e66b6.html"
     },
     {
+      "title": "مركز معلومات يكشف عن 97 عملية عبور لمضيق هرمز",
+      "url": "https://www.alsumaria.tv/news/international/576557/%D9%85%D8%B1%D9%83%D8%B2-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-97-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%A8%D9%88%D8%B1-%D9%84%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-20T17:05:49+00:00",
+      "image": "./assets/news/54e23eb40152a031962f4056.jpg",
+      "original_image": "./assets/news/54e23eb40152a031962f4056.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/576557/%D9%85%D8%B1%D9%83%D8%B2-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-97-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%A8%D9%88%D8%B1-%D9%84%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a023f1318aaa.html"
+    },
+    {
+      "title": "اليوم العالمي للسلام: كيف يبدو وضع السلام في عالم تتسع فيه رقعة النزاعات؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cwj3dp0ngr0jo",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-20T17:02:13+00:00",
+      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cwj3dp0ngr0jo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8600c25cd577.html"
+    },
+    {
       "title": "مورينيو يهنئ لجنة التحكيم بعد خسارة ريال مدريد: اتركوا لنا فرصة للمنافسة!",
       "url": "https://www.alsumaria.tv/Entertainment-News/576554/sports/%D9%85%D9%88%D8%B1%D9%8A%D9%86%D9%8A%D9%88-%D9%8A%D9%87%D9%86%D8%A6-%D9%84%D8%AC%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%8A%D9%85-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D8%A7%D8%AA%D8%B1%D9%83%D9%88%D8%A7-%D9%84%D9%86%D8%A7-%D9%81%D8%B1%D8%B5%D8%A9-%D9%84%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3",
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-20T16:50:47+00:00",
-      "image": "./assets/news/1cbf2d3a985e1ee954a043e4.jpg",
-      "original_image": "./assets/news/1cbf2d3a985e1ee954a043e4.jpg",
+      "image": "./assets/news/40d243f4ea881a23f1eb79b9.jpg",
+      "original_image": "./assets/news/40d243f4ea881a23f1eb79b9.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/576554/sports/%D9%85%D9%88%D8%B1%D9%8A%D9%86%D9%8A%D9%88-%D9%8A%D9%87%D9%86%D8%A6-%D9%84%D8%AC%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%8A%D9%85-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D8%A7%D8%AA%D8%B1%D9%83%D9%88%D8%A7-%D9%84%D9%86%D8%A7-%D9%81%D8%B1%D8%B5%D8%A9-%D9%84%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -87,8 +119,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-20T16:44:53+00:00",
-      "image": "./assets/news/6ceaf253d4dce8fde758376e.jpg",
-      "original_image": "./assets/news/6ceaf253d4dce8fde758376e.jpg",
+      "image": "./assets/news/353db48d50542701067240db.jpg",
+      "original_image": "./assets/news/353db48d50542701067240db.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576552/%D8%B7%D9%84%D8%A8-%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%B5%D8%B9%D8%AF-%D8%A8%D8%B3%D9%8A%D8%A7%D8%B1%D8%AA%D9%87-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B1%D8%B5%D9%8A%D9%81-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AD%D8%B5%D9%84-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6%D8%9F",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -128,22 +160,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9eefa17561a5.html"
-    },
-    {
-      "title": "الوقف السني ينهي تكليف محمد عبد الوهاب الملا من مهام دائرة البصرة",
-      "url": "https://964media.com/718541/",
-      "category": "محليات",
-      "region": "البصرة",
-      "published": "2026-09-20T16:35:06+00:00",
-      "image": "./assets/news/0bcb6483337aaf9050fb3de5.jpg",
-      "original_image": "./assets/news/0bcb6483337aaf9050fb3de5.jpg",
-      "source_url": "https://964media.com/718541/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "البصرة",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f5a1617bd7d9.html"
     },
     {
       "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
@@ -338,22 +354,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a0d80ae164f6.html"
     },
     {
-      "title": "برشلونة يتلقى ضربة موجعة",
-      "url": "https://www.alsumaria.tv/Entertainment-News/576537/sports/%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%B6%D8%B1%D8%A8%D8%A9-%D9%85%D9%88%D8%AC%D8%B9%D8%A9",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-20T14:56:38+00:00",
-      "image": "./assets/news/bdc34cdf7f6bf3cd73e1e5ff.png",
-      "original_image": "./assets/news/bdc34cdf7f6bf3cd73e1e5ff.png",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/576537/sports/%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%B6%D8%B1%D8%A8%D8%A9-%D9%85%D9%88%D8%AC%D8%B9%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0f0d39a4dcd7.html"
-    },
-    {
       "title": "غاز المنصات العائمة إلى بغداد.. الكهرباء تسرع نقل نحو مليار قدم مكعب من الجنوب",
       "url": "https://964media.com/718497/",
       "category": "محليات",
@@ -370,22 +370,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c42cec8bc581.html"
     },
     {
-      "title": "أسعار الكهرباء الأوروبية تحت الضغط.. ارتفاع بـ60% وتحذير من قفزة جديدة",
-      "url": "https://www.alsumaria.tv/news/international/576535/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%B6%D8%BA%D8%B7-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A8%D9%8060-%D9%88%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D9%82%D9%81%D8%B2%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-20T14:40:28+00:00",
-      "image": "./assets/news/97883007916bdfd4bb19edf6.jpg",
-      "original_image": "./assets/news/97883007916bdfd4bb19edf6.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/576535/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%B6%D8%BA%D8%B7-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A8%D9%8060-%D9%88%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D9%82%D9%81%D8%B2%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/396720392434.html"
-    },
-    {
       "title": "الحشد يطيح بتاجر مخدرات قرب الحدود السورية ويضبط 5 كغم من الكريستال",
       "url": "https://964media.com/718493/",
       "category": "أمن",
@@ -400,22 +384,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4339ab2e9fb3.html"
-    },
-    {
-      "title": "مقتل شخصين في هجوم أوكراني \"ضخم\" بالطائرات المسيّرة على منطقة موسكو - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm9w4q9ypr8vo",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-20T13:44:57+00:00",
-      "image": "./assets/news/96ecf518a47ac6afa43df8a7.jpg",
-      "original_image": "./assets/news/96ecf518a47ac6afa43df8a7.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cm9w4q9ypr8vo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7dc8ed1c7660.html"
     },
     {
       "title": "فيديو: بلدية البصرة تطارد “لوريات” الرمل في الحيانية",
@@ -550,7 +518,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T17:05:42.742862+00:00",
+      "published": "2026-09-20T17:16:31.040285+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -560,7 +528,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/48095cc3531a.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fc9b1cba138c.html"
     }
   ]
 }

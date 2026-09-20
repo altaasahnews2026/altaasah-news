@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T17:05:49.764801+00:00",
+  "updated_at": "2026-09-20T17:16:36.272263+00:00",
   "latest": [
     {
       "title": "ولي العهد السعودي يتلقى رسالة من ملك الأردن",
@@ -48,22 +48,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cqy7z1r3xgego",
       "category": "عراق",
       "published": "2026-09-20T11:00:25+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "مقتل شخصين في هجوم أوكراني \"ضخم\" بالطائرات المسيّرة على منطقة موسكو - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm9w4q9ypr8vo",
-      "category": "عراق",
-      "published": "2026-09-20T13:44:57+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "أسعار الكهرباء الأوروبية تحت الضغط.. ارتفاع بـ60% وتحذير من قفزة جديدة",
-      "url": "https://www.alsumaria.tv/news/international/576535/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%B6%D8%BA%D8%B7-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A8%D9%8060-%D9%88%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D9%82%D9%81%D8%B2%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-20T14:40:28+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -123,10 +107,20 @@
       ]
     },
     {
+      "title": "مركز معلومات يكشف عن 97 عملية عبور لمضيق هرمز",
+      "url": "https://www.alsumaria.tv/news/international/576557/%D9%85%D8%B1%D9%83%D8%B2-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-97-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%A8%D9%88%D8%B1-%D9%84%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "category": "عراق",
+      "published": "2026-09-20T17:05:49+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T17:05:42.742862+00:00",
+      "published": "2026-09-20T17:16:31.040285+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -195,14 +189,6 @@
       "watch_topics": []
     },
     {
-      "title": "برشلونة يتلقى ضربة موجعة",
-      "url": "https://www.alsumaria.tv/Entertainment-News/576537/sports/%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%B6%D8%B1%D8%A8%D8%A9-%D9%85%D9%88%D8%AC%D8%B9%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-20T14:56:38+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "تفاصيل جديدة حول تثبيت العقود والاجراء اليوميين",
       "url": "https://www.alsumaria.tv/news/localnews/576538/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AD%D9%88%D9%84-%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D9%88%D8%A7%D9%84%D8%A7%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D9%8A%D9%86",
       "category": "عراق",
@@ -255,6 +241,22 @@
       "url": "https://www.alsumaria.tv/Entertainment-News/576546/sports/%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%B6%D8%B1%D8%A8%D8%AA%D9%8A%D9%86-%D9%85%D9%88%D8%AC%D8%B9%D8%AA%D9%8A%D9%86-%D9%85%D8%B9-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D9%88%D8%B7-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%B6%D8%AF-%D8%A3%D8%AA%D9%84%D8%AA",
       "category": "عراق",
       "published": "2026-09-20T15:58:58+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "السيد الصدر معلقاً على انسحاب التحالف: نأمل أن لا يكون بداية لتدخلات خارجية بالعراق",
+      "url": "https://www.alsumaria.tv/news/politics/576547/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%B5%D8%AF%D8%B1-%D9%85%D8%B9%D9%84%D9%82%D8%A7%D9%8B-%D8%B9%D9%84%D9%89-%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D9%86%D8%A3%D9%85%D9%84-%D8%A3%D9%86-%D9%84%D8%A7-%D9%8A%D9%83%D9%88%D9%86-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D9%84%D8%AA%D8%AF%D8%AE%D9%84%D8%A7%D8%AA-%D8%AE%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-20T16:02:49+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "ريال مدريد يسقط أمام أتلتيكو في ديربي العاصمة ويتراجع للمركز الثالث",
+      "url": "https://www.alsumaria.tv/Entertainment-News/576549/sports/%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D8%B3%D9%82%D8%B7-%D8%A3%D9%85%D8%A7%D9%85-%D8%A3%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D9%88%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%84%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB",
+      "category": "عراق",
+      "published": "2026-09-20T16:16:35+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -668,22 +670,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cqy7z1r3xgego",
       "category": "عراق",
       "published": "2026-09-20T11:00:25+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "مقتل شخصين في هجوم أوكراني \"ضخم\" بالطائرات المسيّرة على منطقة موسكو - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm9w4q9ypr8vo",
-      "category": "عراق",
-      "published": "2026-09-20T13:44:57+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "أسعار الكهرباء الأوروبية تحت الضغط.. ارتفاع بـ60% وتحذير من قفزة جديدة",
-      "url": "https://www.alsumaria.tv/news/international/576535/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%B6%D8%BA%D8%B7-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A8%D9%8060-%D9%88%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D9%82%D9%81%D8%B2%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-20T14:40:28+00:00",
       "breaking": true,
       "watch_topics": []
     },
