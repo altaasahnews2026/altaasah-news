@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T22:53:45.916666+00:00",
+  "updated_at": "2026-09-20T23:01:22.941760+00:00",
   "latest": [
     {
       "title": "السعودية: وفاة مقيم وإصابة اثنين بشظايا مسيَّرة في الطائف",
@@ -69,10 +69,18 @@
       "watch_topics": []
     },
     {
-      "title": "انفجارات في ريف حلب الجنوبي",
-      "url": "https://www.alsumaria.tv/news/international/576575/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A",
+      "title": "انفجار في ريف حلب الجنوبي",
+      "url": "https://www.alsumaria.tv/news/international/576575/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A",
       "category": "عراق",
       "published": "2026-09-20T22:42:00+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "سوريا.. انفجار في ريف حلب الجنوبي",
+      "url": "https://www.alsumaria.tv/news/international/576575/%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1-%d9%81%d9%8a-%d8%b1%d9%8a%d9%81-%d8%ad%d9%84%d8%a8-%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Sun, 20 Sep 2026 22:42:00 GMT",
       "breaking": true,
       "watch_topics": []
     },
@@ -171,7 +179,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T22:53:41.088583+00:00",
+      "published": "2026-09-20T23:01:18.668701+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -260,14 +268,6 @@
       "url": "https://www.alsumaria.tv/news/politics/576566/%D8%A7%D9%84%D8%B5%D8%A7%D8%AF%D9%82%D9%88%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D9%85%D8%B6%D9%8A-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AC%D9%88%D8%A7%D8%A8-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86",
       "category": "عراق",
       "published": "2026-09-20T19:18:03+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "وفاة طفلة سقطت في بئر بمحافظة نينوى",
-      "url": "https://www.alsumaria.tv/news/localnews/576568/%D9%88%D9%81%D8%A7%D8%A9-%D8%B7%D9%81%D9%84%D8%A9-%D8%B3%D9%82%D8%B7%D8%AA-%D9%81%D9%8A-%D8%A8%D8%A6%D8%B1-%D8%A8%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D9%86%D9%8A%D9%86%D9%88%D9%89",
-      "category": "عراق",
-      "published": "2026-09-20T19:51:26+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -713,10 +713,18 @@
       "watch_topics": []
     },
     {
-      "title": "انفجارات في ريف حلب الجنوبي",
-      "url": "https://www.alsumaria.tv/news/international/576575/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A",
+      "title": "انفجار في ريف حلب الجنوبي",
+      "url": "https://www.alsumaria.tv/news/international/576575/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A",
       "category": "عراق",
       "published": "2026-09-20T22:42:00+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "سوريا.. انفجار في ريف حلب الجنوبي",
+      "url": "https://www.alsumaria.tv/news/international/576575/%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1-%d9%81%d9%8a-%d8%b1%d9%8a%d9%81-%d8%ad%d9%84%d8%a8-%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Sun, 20 Sep 2026 22:42:00 GMT",
       "breaking": true,
       "watch_topics": []
     },
