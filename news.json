@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T22:25:15.254576+00:00",
+  "updated_at": "2026-09-20T22:34:33.778164+00:00",
   "items": [
     {
       "title": "بعد الهجوم الأخير.. روسيا تتوعد بتكثيف ضرباتها على أوكرانيا",
@@ -18,13 +18,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/61f8f80afe64.html"
     },
     {
+      "title": "لقاء مرتقب يجمع رئيسة فنزويلا مع ترامب في نيويورك",
+      "url": "https://www.alsumaria.tv/news/international/576574/%D9%84%D9%82%D8%A7%D8%A1-%D9%85%D8%B1%D8%AA%D9%82%D8%A8-%D9%8A%D8%AC%D9%85%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7-%D9%85%D8%B9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-20T22:25:00+00:00",
+      "image": "./assets/news/28cbeb6cb23268eaf264a211.webp",
+      "original_image": "./assets/news/28cbeb6cb23268eaf264a211.webp",
+      "source_url": "https://www.alsumaria.tv/news/international/576574/%D9%84%D9%82%D8%A7%D8%A1-%D9%85%D8%B1%D8%AA%D9%82%D8%A8-%D9%8A%D8%AC%D9%85%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7-%D9%85%D8%B9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4281e420ba1d.html"
+    },
+    {
       "title": "وفاة مرجع ديني في مدينة قم",
       "url": "https://www.alsumaria.tv/news/localnews/576573/%D9%88%D9%81%D8%A7%D8%A9-%D9%85%D8%B1%D8%AC%D8%B9-%D8%AF%D9%8A%D9%86%D9%8A-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%82%D9%85",
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-20T21:33:31+00:00",
-      "image": "./assets/news/bcc4f11a47c711c9214a3fa1.jpg",
-      "original_image": "./assets/news/bcc4f11a47c711c9214a3fa1.jpg",
+      "image": "./assets/news/5049001d77c67891d78dd568.jpg",
+      "original_image": "./assets/news/5049001d77c67891d78dd568.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/576573/%D9%88%D9%81%D8%A7%D8%A9-%D9%85%D8%B1%D8%AC%D8%B9-%D8%AF%D9%8A%D9%86%D9%8A-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%82%D9%85",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -402,22 +418,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6a6a15c20214.html"
     },
     {
-      "title": "مفاجأة صادمة.. ماذا يوجد عند تفكيك آيفون الجديد",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/576553/%D9%85%D9%81%D8%A7%D8%AC%D8%A3%D8%A9-%D8%B5%D8%A7%D8%AF%D9%85%D8%A9-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D9%88%D8%AC%D8%AF-%D8%B9%D9%86%D8%AF-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%A2%D9%8A%D9%81%D9%88%D9%86-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-20T16:49:15+00:00",
-      "image": "./assets/news/09f3e3520794a4ea4522634f.webp",
-      "original_image": "./assets/news/09f3e3520794a4ea4522634f.webp",
-      "source_url": "https://www.alsumaria.tv/news/miscellaneous/576553/%D9%85%D9%81%D8%A7%D8%AC%D8%A3%D8%A9-%D8%B5%D8%A7%D8%AF%D9%85%D8%A9-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D9%88%D8%AC%D8%AF-%D8%B9%D9%86%D8%AF-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%A2%D9%8A%D9%81%D9%88%D9%86-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2029c57e3018.html"
-    },
-    {
       "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
       "category": "أمن",
@@ -518,7 +518,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T22:25:15.416518+00:00",
+      "published": "2026-09-20T22:34:33.936168+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -528,7 +528,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ba18c159f2bf.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a26235dfb338.html"
     }
   ]
 }
