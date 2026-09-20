@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-20T15:25:11.062323+00:00",
+  "updated_at": "2026-09-20T15:35:28.488556+00:00",
   "items": [
+    {
+      "title": "لا هجوم ولا استهداف.. مكافحة الإرهاب يوضح حقيقة انفجاري أربيل",
+      "url": "https://964media.com/718511/",
+      "category": "أمن",
+      "region": "أربيل",
+      "published": "2026-09-20T14:57:52+00:00",
+      "image": "./assets/news/d0af1b58ec387f3a1e4a1235.jpg",
+      "original_image": "./assets/news/d0af1b58ec387f3a1e4a1235.jpg",
+      "source_url": "https://964media.com/718511/",
+      "source_name": "شبكة 964",
+      "breaking": true,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "أربيل",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bbfaa21b4934.html"
+    },
     {
       "title": "جهاز مكافحة الإرهاب في كردستان يكشف طبيعة دوي الانفجارات في اربيل",
       "url": "https://www.alsumaria.tv/news/security/576536/%D8%AC%D9%87%D8%A7%D8%B2-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%81%D9%8A-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%8A%D9%83%D8%B4%D9%81-%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9-%D8%AF%D9%88%D9%8A-%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D8%B1%D8%A8%D9%8A%D9%84",
@@ -39,8 +55,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-20T15:06:35+00:00",
-      "image": "./assets/news/0599399b2c71c516960e83eb.jpg",
-      "original_image": "./assets/news/0599399b2c71c516960e83eb.jpg",
+      "image": "./assets/news/77d0e80b12ead6c518c7873c.jpg",
+      "original_image": "./assets/news/77d0e80b12ead6c518c7873c.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/576538/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AD%D9%88%D9%84-%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D9%88%D8%A7%D9%84%D8%A7%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D9%8A%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -82,13 +98,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0f0d39a4dcd7.html"
     },
     {
+      "title": "غاز المنصات العائمة إلى بغداد.. الكهرباء تسرع نقل نحو مليار قدم مكعب من الجنوب",
+      "url": "https://964media.com/718497/",
+      "category": "محليات",
+      "region": "بغداد",
+      "published": "2026-09-20T14:51:03+00:00",
+      "image": "./assets/news/ce1828de788fda7301e89fd1.jpg",
+      "original_image": "./assets/news/ce1828de788fda7301e89fd1.jpg",
+      "source_url": "https://964media.com/718497/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c42cec8bc581.html"
+    },
+    {
       "title": "أسعار الكهرباء الأوروبية تحت الضغط.. ارتفاع بـ60% وتحذير من قفزة جديدة",
       "url": "https://www.alsumaria.tv/news/international/576535/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%B6%D8%BA%D8%B7-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A8%D9%8060-%D9%88%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D9%82%D9%81%D8%B2%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-20T14:40:28+00:00",
-      "image": "./assets/news/789b0499385f0caf57dbbbb0.jpg",
-      "original_image": "./assets/news/789b0499385f0caf57dbbbb0.jpg",
+      "image": "./assets/news/97883007916bdfd4bb19edf6.jpg",
+      "original_image": "./assets/news/97883007916bdfd4bb19edf6.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576535/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%B6%D8%BA%D8%B7-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A8%D9%8060-%D9%88%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D9%82%D9%81%D8%B2%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -199,8 +231,8 @@
       "category": "محليات",
       "region": "النجف",
       "published": "2026-09-20T13:56:52+00:00",
-      "image": "./assets/news/bc842af98690f7fdc7ff54c7.jpg",
-      "original_image": "./assets/news/bc842af98690f7fdc7ff54c7.jpg",
+      "image": "./assets/news/90ddcd23e3c8f8d1be13081e.jpg",
+      "original_image": "./assets/news/90ddcd23e3c8f8d1be13081e.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/576526/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%B3%D8%A7%D8%B1%D9%82-15-%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9-%D9%86%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -231,8 +263,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-20T13:50:44+00:00",
-      "image": "./assets/news/a29b635472bbe8ad481c6ebb.jpg",
-      "original_image": "./assets/news/a29b635472bbe8ad481c6ebb.jpg",
+      "image": "./assets/news/66ef430ac3db5a1d382f511b.jpg",
+      "original_image": "./assets/news/66ef430ac3db5a1d382f511b.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576525/%D8%AE%D9%84%D8%A7%D9%84-9-%D8%A3%D9%8A%D8%A7%D9%85-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B9%D9%84%D9%86%D9%88%D9%86-%D8%B9%D8%A8%D9%88%D8%B1-316-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D9%85%D9%86-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%A8",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -502,7 +534,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T15:25:11.291281+00:00",
+      "published": "2026-09-20T15:35:28.666352+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -512,7 +544,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7973d747d64e.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b957df7bb132.html"
     }
   ]
 }
