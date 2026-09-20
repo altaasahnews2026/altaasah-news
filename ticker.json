@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T01:27:12.941886+00:00",
+  "updated_at": "2026-09-20T01:38:22.716779+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -164,7 +164,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T01:27:08.923121+00:00",
+      "published": "2026-09-20T01:38:17.100844+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -501,17 +501,6 @@
       ]
     },
     {
-      "title": "أميركا تمنح مسؤولين إيرانيين تأشيرات لحضور الجمعية العامة للأمم المتحدة",
-      "url": "https://aawsat.com/node/5319615",
-      "category": "دولي",
-      "published": "Thu, 17 Sep 2026 20:14:04 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
-    },
-    {
       "title": "مقتل ثلاثة أشخاص في هجوم روسي على كييف",
       "url": "https://aawsat.com/node/5320301",
       "category": "دولي",
@@ -540,6 +529,14 @@
       "url": "https://aawsat.com/node/5319896",
       "category": "دولي",
       "published": "Fri, 18 Sep 2026 17:26:34 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "4 قتلى بضربة أميركية استهدفت سفينة في البحر الكاريبي",
+      "url": "https://aawsat.com/node/5320302",
+      "category": "دولي",
+      "published": "Sun, 20 Sep 2026 02:35:28 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -827,6 +824,14 @@
       "url": "https://aawsat.com/node/5319896",
       "category": "دولي",
       "published": "Fri, 18 Sep 2026 17:26:34 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "4 قتلى بضربة أميركية استهدفت سفينة في البحر الكاريبي",
+      "url": "https://aawsat.com/node/5320302",
+      "category": "دولي",
+      "published": "Sun, 20 Sep 2026 02:35:28 +0100",
       "breaking": true,
       "watch_topics": []
     }
