@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T23:32:41.719968+00:00",
+  "updated_at": "2026-09-20T23:43:53.782610+00:00",
   "items": [
     {
       "title": "سوريا.. انفجار في ريف حلب الجنوبي",
@@ -151,8 +151,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-20T20:15:55+00:00",
-      "image": "./assets/news/8a7d6a1050011d4ae67361ba.jpg",
-      "original_image": "./assets/news/8a7d6a1050011d4ae67361ba.jpg",
+      "image": "./assets/news/f82d2ca475cf8e1f00192dc1.jpg",
+      "original_image": "./assets/news/f82d2ca475cf8e1f00192dc1.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576570/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%D9%81%D9%8A-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D8%AF%D8%A1%D8%A3-%D9%85%D9%86-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -518,7 +518,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T23:32:41.941457+00:00",
+      "published": "2026-09-20T23:43:54.008576+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -528,7 +528,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/88f8ae4efc5e.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c22f96cca00c.html"
     }
   ]
 }
