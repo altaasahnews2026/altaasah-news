@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T18:01:04.158306+00:00",
+  "updated_at": "2026-09-20T18:14:54.042128+00:00",
   "items": [
     {
       "title": "بعد الهجوم الأخير.. روسيا تتوعد برد قاسٍ على أوكرانيا",
@@ -7,8 +7,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-20T17:41:31+00:00",
-      "image": "./assets/news/e5162052fda08a921ba9c253.jpg",
-      "original_image": "./assets/news/e5162052fda08a921ba9c253.jpg",
+      "image": "./assets/news/1744302d6d98ea65dad4e85e.jpg",
+      "original_image": "./assets/news/1744302d6d98ea65dad4e85e.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576559/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%AA%D9%88%D8%B9%D8%AF-%D8%A8%D8%B1%D8%AF-%D9%82%D8%A7%D8%B3%D9%8D-%D8%B9%D9%84%D9%89-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -48,6 +48,54 @@
       "report": false,
       "governorate": "أربيل",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bbfaa21b4934.html"
+    },
+    {
+      "title": "تحذير أمريكي جديد يتضمن قيوداً على التنقل داخل السعودية",
+      "url": "https://www.alsumaria.tv/news/international/576561/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%8A%D8%AA%D8%B6%D9%85%D9%86-%D9%82%D9%8A%D9%88%D8%AF%D8%A7%D9%8B-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%84-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-20T18:05:00+00:00",
+      "image": "./assets/news/f563193437a792ef467c74c3.jpg",
+      "original_image": "./assets/news/f563193437a792ef467c74c3.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/576561/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%8A%D8%AA%D8%B6%D9%85%D9%86-%D9%82%D9%8A%D9%88%D8%AF%D8%A7%D9%8B-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%84-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b25da385172.html"
+    },
+    {
+      "title": "العراق وسوريا يبحثان آليات تعزيز التبادل التجاري",
+      "url": "https://www.alsumaria.tv/news/localnews/576560/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-20T17:58:00+00:00",
+      "image": "./assets/news/5aa2a51777c989b982b90e7c.jpg",
+      "original_image": "./assets/news/5aa2a51777c989b982b90e7c.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/576560/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/61892cb35d43.html"
+    },
+    {
+      "title": "قلق من تفاقم معاناة المدنيين وسط استمرار القتال الدامي في اليمن - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-20T17:47:34+00:00",
+      "image": "./assets/news/22d732a6053a80f757c00207.jpg",
+      "original_image": "./assets/news/22d732a6053a80f757c00207.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/338e4ac85ffd.html"
     },
     {
       "title": "“تنزيلات تنزيلات” على نفط العراق.. سومو قد تعرض البراميل تحت السوق بـ50 دولاراً",
@@ -386,54 +434,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/200b820e8798.html"
     },
     {
-      "title": "لص يقتحم مقهى بألمانيا ويكتفي بسرقة كعكة وعبوتي آيس كريم",
-      "url": "https://www.alsumaria.tv/news/international/576540/%D9%84%D8%B5-%D9%8A%D9%82%D8%AA%D8%AD%D9%85-%D9%85%D9%82%D9%87%D9%89-%D8%A8%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D9%8A%D9%83%D8%AA%D9%81%D9%8A-%D8%A8%D8%B3%D8%B1%D9%82%D8%A9-%D9%83%D8%B9%D9%83%D8%A9-%D9%88%D8%B9%D8%A8%D9%88%D8%AA%D9%8A-%D8%A2%D9%8A%D8%B3-%D9%83%D8%B1%D9%8A%D9%85",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-20T15:34:06+00:00",
-      "image": "./assets/news/30af85da96eaac04e38558c1.webp",
-      "original_image": "./assets/news/30af85da96eaac04e38558c1.webp",
-      "source_url": "https://www.alsumaria.tv/news/international/576540/%D9%84%D8%B5-%D9%8A%D9%82%D8%AA%D8%AD%D9%85-%D9%85%D9%82%D9%87%D9%89-%D8%A8%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D9%8A%D9%83%D8%AA%D9%81%D9%8A-%D8%A8%D8%B3%D8%B1%D9%82%D8%A9-%D9%83%D8%B9%D9%83%D8%A9-%D9%88%D8%B9%D8%A8%D9%88%D8%AA%D9%8A-%D8%A2%D9%8A%D8%B3-%D9%83%D8%B1%D9%8A%D9%85",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/388d6e8a8919.html"
-    },
-    {
-      "title": "استنجد بـ911 والقي القبض على مبتزيه في بغداد",
-      "url": "https://www.alsumaria.tv/news/security/576539/%D8%A7%D8%B3%D8%AA%D9%86%D8%AC%D8%AF-%D8%A8%D9%80911-%D9%88%D8%A7%D9%84%D9%82%D9%8A-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D8%AA%D8%B2%D9%8A%D9%87-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "category": "محليات",
-      "region": "بغداد",
-      "published": "2026-09-20T15:32:20+00:00",
-      "image": "./assets/news/19b29f617f124c9ca78a209d.jpg",
-      "original_image": "./assets/news/19b29f617f124c9ca78a209d.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/576539/%D8%A7%D8%B3%D8%AA%D9%86%D8%AC%D8%AF-%D8%A8%D9%80911-%D9%88%D8%A7%D9%84%D9%82%D9%8A-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D8%AA%D8%B2%D9%8A%D9%87-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/516479751205.html"
-    },
-    {
-      "title": "غاز المنصات العائمة إلى بغداد.. الكهرباء تسرع نقل نحو مليار قدم مكعب من الجنوب",
-      "url": "https://964media.com/718497/",
-      "category": "محليات",
-      "region": "بغداد",
-      "published": "2026-09-20T14:51:03+00:00",
-      "image": "./assets/news/ce1828de788fda7301e89fd1.jpg",
-      "original_image": "./assets/news/ce1828de788fda7301e89fd1.jpg",
-      "source_url": "https://964media.com/718497/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c42cec8bc581.html"
-    },
-    {
       "title": "أزمة الرياض مع الحوثيين فرصة ترامب لرعاية تعاون سعودي إسرائيلي إماراتي - وول ستريت جورنال - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm2kw3k0dqylo",
       "category": "عربي ودولي",
@@ -448,22 +448,6 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6a8184d1c78d.html"
-    },
-    {
-      "title": "إد شيران يقرّ بارتكاب \"أخطاء\" في أول حفل له منذ الجدل المرتبط بماكليمور - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c620lq5x4528o",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-20T11:30:26+00:00",
-      "image": "./assets/news/69d2910d82ee78538b14b993.jpg",
-      "original_image": "./assets/news/69d2910d82ee78538b14b993.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c620lq5x4528o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f3419f293d52.html"
     },
     {
       "title": "الجيش السوداني يعلن إسقاط مسيّرة \"انطلقت من إثيوبيا\" وقواته تحقق تقدماً في شمال كردفان - شفق نيوز..",
@@ -550,7 +534,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T18:01:04.376309+00:00",
+      "published": "2026-09-20T18:14:54.272948+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -560,7 +544,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e3cf0d693f42.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ec6586982c28.html"
     }
   ]
 }
