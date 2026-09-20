@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-20T14:12:30.392095+00:00",
+  "updated_at": "2026-09-20T14:25:22.893979+00:00",
   "items": [
+    {
+      "title": "صور أولية لانفجار أربيل",
+      "url": "https://www.alsumaria.tv/news/security/576530/%D8%B5%D9%88%D8%B1-%D8%A3%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A3%D8%B1%D8%A8%D9%8A%D9%84",
+      "category": "أمن",
+      "region": "أربيل",
+      "published": "2026-09-20T14:18:27+00:00",
+      "image": "./assets/news/83fb3f780e96a3f41a08acca.png",
+      "original_image": "./assets/news/83fb3f780e96a3f41a08acca.png",
+      "source_url": "https://www.alsumaria.tv/news/security/576530/%D8%B5%D9%88%D8%B1-%D8%A3%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A3%D8%B1%D8%A8%D9%8A%D9%84",
+      "source_name": "السومرية نيوز",
+      "breaking": true,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "أربيل",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/54f1c0b2069d.html"
+    },
     {
       "title": "الشعوذة أصبحت دليفري.. القبض على سائق توصيل بحوزته 21 عمل سحر و17 حجابا",
       "url": "https://www.alsumaria.tv/news/localnews/576528/%D8%A7%D9%84%D8%B4%D8%B9%D9%88%D8%B0%D8%A9-%D8%A3%D8%B5%D8%A8%D8%AD%D8%AA-%D8%AF%D9%84%D9%8A%D9%81%D8%B1%D9%8A-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%B3%D8%A7%D8%A6%D9%82-%D8%AA%D9%88%D8%B5%D9%8A%D9%84-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87-21-%D8%B9%D9%85%D9%84-%D8%B3%D8%AD%D8%B1-%D9%8817-%D8%AD%D8%AC%D8%A7%D8%A8%D8%A7",
@@ -50,6 +66,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/55985bfdb2d5.html"
     },
     {
+      "title": "الحشد يطيح بتاجر مخدرات قرب الحدود السورية ويضبط 5 كغم من الكريستال",
+      "url": "https://964media.com/718493/",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-09-20T13:53:09+00:00",
+      "image": "./assets/news/e730dc11b6634d23b99394bf.jpg",
+      "original_image": "./assets/news/e730dc11b6634d23b99394bf.jpg",
+      "source_url": "https://964media.com/718493/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4339ab2e9fb3.html"
+    },
+    {
       "title": "خلال 9 أيام.. الحوثيون يعلنون عبور 316 سفينة من باب المندب",
       "url": "https://www.alsumaria.tv/news/international/576525/%D8%AE%D9%84%D8%A7%D9%84-9-%D8%A3%D9%8A%D8%A7%D9%85-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B9%D9%84%D9%86%D9%88%D9%86-%D8%B9%D8%A8%D9%88%D8%B1-316-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D9%85%D9%86-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%A8",
       "category": "محليات",
@@ -80,6 +112,22 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7dc8ed1c7660.html"
+    },
+    {
+      "title": "فيديو: بلدية البصرة تطارد “لوريات” الرمل في الحيانية",
+      "url": "https://964media.com/718480/",
+      "category": "محليات",
+      "region": "البصرة",
+      "published": "2026-09-20T13:43:57+00:00",
+      "image": "./assets/news/0debc96310ec4695bd79def8.jpg",
+      "original_image": "./assets/news/0debc96310ec4695bd79def8.jpg",
+      "source_url": "https://964media.com/718480/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "البصرة",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/87947538c9d1.html"
     },
     {
       "title": "ترامب منفتح على لقاء بزشكيان: إيران مطالبة بتحسين التصرف.. أعتزم اتخاذ قرار مهم!",
@@ -354,38 +402,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f3419f293d52.html"
     },
     {
-      "title": "وزير المالية يعلن تثبيت العقود على الملاك الدائم ضمن مشروع الموازنة المقبلة",
-      "url": "https://www.alsumaria.tv/news/localnews/576510/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D9%83-%D8%A7%D9%84%D8%AF%D8%A7%D8%A6%D9%85-%D8%B6%D9%85%D9%86-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-%D8%A7%D9%84",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-20T11:17:46+00:00",
-      "image": "./assets/news/f96b37b9eeefe4a1f98eba34.jpg",
-      "original_image": "./assets/news/f96b37b9eeefe4a1f98eba34.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/576510/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D9%83-%D8%A7%D9%84%D8%AF%D8%A7%D8%A6%D9%85-%D8%B6%D9%85%D9%86-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-%D8%A7%D9%84",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/47776c90e501.html"
-    },
-    {
-      "title": "مجلس النواب يعقد جلسته الـ19 من الفصل التشريعي الثاني",
-      "url": "https://www.alsumaria.tv/news/politics/576509/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%8A%D8%B9%D9%82%D8%AF-%D8%AC%D9%84%D8%B3%D8%AA%D9%87-%D8%A7%D9%84%D9%8019-%D9%85%D9%86-%D8%A7%D9%84%D9%81%D8%B5%D9%84-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-20T11:09:34+00:00",
-      "image": "./assets/news/43db3fb7adbd42fbad9e8c15.jpg",
-      "original_image": "./assets/news/43db3fb7adbd42fbad9e8c15.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/576509/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%8A%D8%B9%D9%82%D8%AF-%D8%AC%D9%84%D8%B3%D8%AA%D9%87-%D8%A7%D9%84%D9%8019-%D9%85%D9%86-%D8%A7%D9%84%D9%81%D8%B5%D9%84-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/41941958aaab.html"
-    },
-    {
       "title": "الجيش السوداني يعلن إسقاط مسيّرة \"انطلقت من إثيوبيا\" وقواته تحقق تقدماً في شمال كردفان - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cqy7z1r3xgego",
       "category": "أمن",
@@ -486,7 +502,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T14:12:30.643041+00:00",
+      "published": "2026-09-20T14:25:23.129400+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -496,7 +512,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f811ba4d07c6.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7f76ca46c36f.html"
     }
   ]
 }
