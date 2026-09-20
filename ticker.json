@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-20T15:13:40.667900+00:00",
+  "updated_at": "2026-09-20T15:25:16.603764+00:00",
   "latest": [
     {
-      "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
-      "url": "https://aawsat.com/node/5318899",
+      "title": "ولي العهد السعودي يتلقى رسالة من ملك الأردن",
+      "url": "https://aawsat.com/node/5319150",
       "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 09:45:40 +0100",
+      "published": "Wed, 16 Sep 2026 18:01:58 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
@@ -134,7 +134,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T15:13:32.546830+00:00",
+      "published": "2026-09-20T15:25:11.291281+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -410,6 +410,16 @@
       ]
     },
     {
+      "title": "إدانات واسعة للاعتداءات الحوثية على العاصمة السعودية",
+      "url": "https://aawsat.com/node/5320524",
+      "category": "مشرق أوسط",
+      "published": "Sun, 20 Sep 2026 16:14:46 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "فيصل بن فرحان: السعودية تواصل دورها في دعم السلم والأمن الدوليين",
       "url": "https://aawsat.com/node/5320444",
       "category": "مشرق أوسط",
@@ -464,16 +474,6 @@
       "url": "https://aawsat.com/node/5319453",
       "category": "مشرق أوسط",
       "published": "Thu, 17 Sep 2026 13:51:40 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "ولي العهد السعودي يتلقى رسالة من ملك الأردن",
-      "url": "https://aawsat.com/node/5319150",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 18:01:58 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
