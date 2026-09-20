@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T19:20:32.223814+00:00",
+  "updated_at": "2026-09-20T19:29:51.144688+00:00",
   "latest": [
     {
       "title": "ولي العهد السعودي يتلقى رسالة من ملك الأردن",
@@ -37,6 +37,16 @@
       "url": "https://www.alsumaria.tv/news/international/576561/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%8A%D8%AA%D8%B6%D9%85%D9%86-%D9%82%D9%8A%D9%88%D8%AF%D8%A7%D9%8B-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%84-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
       "category": "عراق",
       "published": "2026-09-20T18:05:00+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "الحوثيون يتهمون السعودية بشنَّ 28 غارة في اليمن خلال 24 ساعة، وقلق من تفاقم معاناة المدنيين وسط استمرار القتال الدامي - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
+      "category": "عراق",
+      "published": "2026-09-20T19:19:13+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"
@@ -131,7 +141,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T19:20:26.736343+00:00",
+      "published": "2026-09-20T19:29:47.596863+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -156,14 +166,6 @@
       "url": "https://964media.com/718423/",
       "category": "عراق",
       "published": "2026-09-20T10:10:50+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بالفيديو.. المنتخب العراقي يصل مدينة جدة",
-      "url": "https://www.alsumaria.tv/news/trends-alsumaria/576545/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%B5%D9%84-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%AC%D8%AF%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-20T15:52:59+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -673,6 +675,16 @@
       "url": "https://www.alsumaria.tv/news/international/576561/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%8A%D8%AA%D8%B6%D9%85%D9%86-%D9%82%D9%8A%D9%88%D8%AF%D8%A7%D9%8B-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%84-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
       "category": "عراق",
       "published": "2026-09-20T18:05:00+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "الحوثيون يتهمون السعودية بشنَّ 28 غارة في اليمن خلال 24 ساعة، وقلق من تفاقم معاناة المدنيين وسط استمرار القتال الدامي - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
+      "category": "عراق",
+      "published": "2026-09-20T19:19:13+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"
