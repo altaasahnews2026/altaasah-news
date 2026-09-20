@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T16:56:12.886202+00:00",
+  "updated_at": "2026-09-20T17:05:42.509798+00:00",
   "items": [
     {
       "title": "أكثر من ألف هجوم سيبراني يستهدف الانتخابات الروسية",
@@ -343,8 +343,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-20T14:56:38+00:00",
-      "image": "./assets/news/0e4b518f835f8bb790ba4fc7.png",
-      "original_image": "./assets/news/0e4b518f835f8bb790ba4fc7.png",
+      "image": "./assets/news/bdc34cdf7f6bf3cd73e1e5ff.png",
+      "original_image": "./assets/news/bdc34cdf7f6bf3cd73e1e5ff.png",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/576537/sports/%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%B6%D8%B1%D8%A8%D8%A9-%D9%85%D9%88%D8%AC%D8%B9%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -550,7 +550,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T16:56:13.103485+00:00",
+      "published": "2026-09-20T17:05:42.742862+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -560,7 +560,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/71363de19076.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/48095cc3531a.html"
     }
   ]
 }
