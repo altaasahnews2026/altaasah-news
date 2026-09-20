@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T21:45:03.693000+00:00",
+  "updated_at": "2026-09-20T21:52:07.077321+00:00",
   "items": [
     {
       "title": "بعد الهجوم الأخير.. روسيا تتوعد بتكثيف ضرباتها على أوكرانيا",
@@ -18,13 +18,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/61f8f80afe64.html"
     },
     {
+      "title": "وفاة مرجع ديني في مدينة قم",
+      "url": "https://www.alsumaria.tv/news/localnews/576573/%D9%88%D9%81%D8%A7%D8%A9-%D9%85%D8%B1%D8%AC%D8%B9-%D8%AF%D9%8A%D9%86%D9%8A-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%82%D9%85",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-20T21:33:31+00:00",
+      "image": "./assets/news/bcc4f11a47c711c9214a3fa1.jpg",
+      "original_image": "./assets/news/bcc4f11a47c711c9214a3fa1.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/576573/%D9%88%D9%81%D8%A7%D8%A9-%D9%85%D8%B1%D8%AC%D8%B9-%D8%AF%D9%8A%D9%86%D9%8A-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%82%D9%85",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c255a926d1db.html"
+    },
+    {
       "title": "الأنبار تكشف تفاصيل ما حدث للصهاريج في منفذ الوليد الحدودي",
       "url": "https://www.alsumaria.tv/news/localnews/576572/%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7%D8%B1-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%85%D8%A7-%D8%AD%D8%AF%D8%AB-%D9%84%D9%84%D8%B5%D9%87%D8%A7%D8%B1%D9%8A%D8%AC-%D9%81%D9%8A-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D9%88%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A",
       "category": "محليات",
       "region": "الأنبار",
       "published": "2026-09-20T21:15:00+00:00",
-      "image": "./assets/news/25e87a3c2d4ea8d15e9885a9.jpg",
-      "original_image": "./assets/news/25e87a3c2d4ea8d15e9885a9.jpg",
+      "image": "./assets/news/42f3b6df73a8907952f40c21.jpg",
+      "original_image": "./assets/news/42f3b6df73a8907952f40c21.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/576572/%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7%D8%B1-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%85%D8%A7-%D8%AD%D8%AF%D8%AB-%D9%84%D9%84%D8%B5%D9%87%D8%A7%D8%B1%D9%8A%D8%AC-%D9%81%D9%8A-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D9%88%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -502,7 +518,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T21:45:03.858889+00:00",
+      "published": "2026-09-20T21:52:07.295253+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -512,7 +528,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/43ee8abddb50.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0492443f0b7d.html"
     }
   ]
 }
