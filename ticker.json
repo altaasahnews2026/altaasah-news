@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T07:30:06.055147+00:00",
+  "updated_at": "2026-09-20T07:39:56.407783+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -45,6 +45,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c6qjk8neq7r8o",
       "category": "عراق",
       "published": "2026-09-20T06:53:16+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "300 يوم عواصف رملية في السنة.. تحذير بعد رصد 6 بؤر ساخنة وسط وجنوب العراق",
+      "url": "https://964media.com/718377/",
+      "category": "عراق",
+      "published": "2026-09-20T07:26:36+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -132,7 +140,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T07:30:01.342313+00:00",
+      "published": "2026-09-20T07:39:52.169807+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -173,14 +181,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c6804m3pk9z4o",
       "category": "عراق",
       "published": "2026-09-19T16:49:45+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ضجة “لحم الخنزير”.. ذي قار تنفي ضبط 200 كيلو في أحد مطاعم الناصرية",
-      "url": "https://964media.com/718303/",
-      "category": "عراق",
-      "published": "2026-09-19T17:51:55+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -667,6 +667,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c6qjk8neq7r8o",
       "category": "عراق",
       "published": "2026-09-20T06:53:16+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "300 يوم عواصف رملية في السنة.. تحذير بعد رصد 6 بؤر ساخنة وسط وجنوب العراق",
+      "url": "https://964media.com/718377/",
+      "category": "عراق",
+      "published": "2026-09-20T07:26:36+00:00",
       "breaking": true,
       "watch_topics": []
     },
