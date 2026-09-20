@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-20T15:00:09.378178+00:00",
+  "updated_at": "2026-09-20T15:13:32.357260+00:00",
   "items": [
+    {
+      "title": "جهاز مكافحة الإرهاب في كردستان يكشف طبيعة دوي الانفجارات في اربيل",
+      "url": "https://www.alsumaria.tv/news/security/576536/%D8%AC%D9%87%D8%A7%D8%B2-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%81%D9%8A-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%8A%D9%83%D8%B4%D9%81-%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9-%D8%AF%D9%88%D9%8A-%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D8%B1%D8%A8%D9%8A%D9%84",
+      "category": "أمن",
+      "region": "أربيل",
+      "published": "2026-09-20T14:56:40+00:00",
+      "image": "./assets/news/246e4103839f39de23678caf.jpg",
+      "original_image": "./assets/news/246e4103839f39de23678caf.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/576536/%D8%AC%D9%87%D8%A7%D8%B2-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%81%D9%8A-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%8A%D9%83%D8%B4%D9%81-%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9-%D8%AF%D9%88%D9%8A-%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D8%B1%D8%A8%D9%8A%D9%84",
+      "source_name": "السومرية نيوز",
+      "breaking": true,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "أربيل",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/723abd5e66b6.html"
+    },
     {
       "title": "صور أولية لانفجار أربيل",
       "url": "https://www.alsumaria.tv/news/trends-alsumaria/576530/%D8%B5%D9%88%D8%B1-%D8%A3%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A3%D8%B1%D8%A8%D9%8A%D9%84",
@@ -18,13 +34,77 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d3edfc3e2464.html"
     },
     {
+      "title": "تفاصيل جديدة حول تثبيت العقود والاجراء اليوميين",
+      "url": "https://www.alsumaria.tv/news/localnews/576538/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AD%D9%88%D9%84-%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D9%88%D8%A7%D9%84%D8%A7%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D9%8A%D9%86",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-20T15:06:35+00:00",
+      "image": "./assets/news/0599399b2c71c516960e83eb.jpg",
+      "original_image": "./assets/news/0599399b2c71c516960e83eb.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/576538/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AD%D9%88%D9%84-%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D9%88%D8%A7%D9%84%D8%A7%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D9%8A%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a0d80ae164f6.html"
+    },
+    {
+      "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-20T15:00:24+00:00",
+      "image": "./assets/news/55cae71619e7c16f0768baf4.jpg",
+      "original_image": "./assets/news/55cae71619e7c16f0768baf4.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f8951ca353c1.html"
+    },
+    {
+      "title": "برشلونة يتلقى ضربة موجعة",
+      "url": "https://www.alsumaria.tv/Entertainment-News/576537/sports/%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%B6%D8%B1%D8%A8%D8%A9-%D9%85%D9%88%D8%AC%D8%B9%D8%A9",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-20T14:56:38+00:00",
+      "image": "./assets/news/0e4b518f835f8bb790ba4fc7.png",
+      "original_image": "./assets/news/0e4b518f835f8bb790ba4fc7.png",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/576537/sports/%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%B6%D8%B1%D8%A8%D8%A9-%D9%85%D9%88%D8%AC%D8%B9%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0f0d39a4dcd7.html"
+    },
+    {
+      "title": "غاز المنصات العائمة إلى بغداد.. الكهرباء تسرع نقل نحو مليار قدم مكعب من الجنوب",
+      "url": "https://964media.com/718497/",
+      "category": "محليات",
+      "region": "بغداد",
+      "published": "2026-09-20T14:51:03+00:00",
+      "image": "./assets/news/ce1828de788fda7301e89fd1.jpg",
+      "original_image": "./assets/news/ce1828de788fda7301e89fd1.jpg",
+      "source_url": "https://964media.com/718497/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c42cec8bc581.html"
+    },
+    {
       "title": "أسعار الكهرباء الأوروبية تحت الضغط.. ارتفاع بـ60% وتحذير من قفزة جديدة",
       "url": "https://www.alsumaria.tv/news/international/576535/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%B6%D8%BA%D8%B7-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A8%D9%8060-%D9%88%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D9%82%D9%81%D8%B2%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-20T14:40:28+00:00",
-      "image": "./assets/news/97883007916bdfd4bb19edf6.jpg",
-      "original_image": "./assets/news/97883007916bdfd4bb19edf6.jpg",
+      "image": "./assets/news/789b0499385f0caf57dbbbb0.jpg",
+      "original_image": "./assets/news/789b0499385f0caf57dbbbb0.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576535/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%B6%D8%BA%D8%B7-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A8%D9%8060-%D9%88%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D9%82%D9%81%D8%B2%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -96,22 +176,6 @@
       "report": false,
       "governorate": "أربيل",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2f33bfe215b0.html"
-    },
-    {
-      "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-20T14:21:59+00:00",
-      "image": "./assets/news/55cae71619e7c16f0768baf4.jpg",
-      "original_image": "./assets/news/55cae71619e7c16f0768baf4.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6f9b218348ba.html"
     },
     {
       "title": "الشعوذة أصبحت دليفري.. القبض على سائق توصيل بحوزته 21 عمل سحر و17 حجابا",
@@ -338,38 +402,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4d9904d39b14.html"
     },
     {
-      "title": "ضربة أمنية عراقية عابرة للحدود.. 700 ألف حبة كبتاغون تُحبط في الكويت",
-      "url": "https://www.alsumaria.tv/news/security/576518/%D8%B6%D8%B1%D8%A8%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%B9%D8%A7%D8%A8%D8%B1%D8%A9-%D9%84%D9%84%D8%AD%D8%AF%D9%88%D8%AF-700-%D8%A3%D9%84%D9%81-%D8%AD%D8%A8%D8%A9-%D9%83%D8%A8%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D8%AA%D9%8F%D8%AD%D8%A8%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-20T12:51:12+00:00",
-      "image": "./assets/news/07b1801e2199d3053ef096ae.jpg",
-      "original_image": "./assets/news/07b1801e2199d3053ef096ae.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/576518/%D8%B6%D8%B1%D8%A8%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%B9%D8%A7%D8%A8%D8%B1%D8%A9-%D9%84%D9%84%D8%AD%D8%AF%D9%88%D8%AF-700-%D8%A3%D9%84%D9%81-%D8%AD%D8%A8%D8%A9-%D9%83%D8%A8%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D8%AA%D9%8F%D8%AD%D8%A8%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a9a3772d0358.html"
-    },
-    {
-      "title": "التعليم تصدر تنويهاً هاماً للطلبة المتقدمين إلى القبول الجامعي",
-      "url": "https://www.alsumaria.tv/news/localnews/576517/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D9%86%D9%88%D9%8A%D9%87%D8%A7%D9%8B-%D9%87%D8%A7%D9%85%D8%A7%D9%8B-%D9%84%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%AF%D9%85%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%82%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D9%8A",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-20T12:44:35+00:00",
-      "image": "./assets/news/6db04e6fe1d9be5e77316000.jpg",
-      "original_image": "./assets/news/6db04e6fe1d9be5e77316000.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/576517/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D9%86%D9%88%D9%8A%D9%87%D8%A7%D9%8B-%D9%87%D8%A7%D9%85%D8%A7%D9%8B-%D9%84%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%AF%D9%85%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%82%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3967ce705c7a.html"
-    },
-    {
       "title": "إد شيران يقرّ بارتكاب \"أخطاء\" في أول حفل له منذ الجدل المرتبط بماكليمور - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c620lq5x4528o",
       "category": "محليات",
@@ -486,7 +518,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T15:00:09.597069+00:00",
+      "published": "2026-09-20T15:13:32.546830+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -496,7 +528,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/af64b2b53f35.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a2494c6c1a31.html"
     }
   ]
 }
