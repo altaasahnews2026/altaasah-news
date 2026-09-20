@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T07:18:39.776250+00:00",
+  "updated_at": "2026-09-20T07:30:01.135752+00:00",
   "items": [
     {
       "title": "السلطات السورية توقف لواءً سابقاً شارك في عمليات حلب والغوطة، و11 قتيلاً بانفجار موقع عسكري شرق البلاد - شفق نيوز..",
@@ -119,8 +119,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-20T05:45:00+00:00",
-      "image": "./assets/news/a22d0c9cf75a8060b3cf9c93.jpg",
-      "original_image": "./assets/news/a22d0c9cf75a8060b3cf9c93.jpg",
+      "image": "./assets/news/09432172c22aadf84f60737f.jpg",
+      "original_image": "./assets/news/09432172c22aadf84f60737f.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576481/%D8%A8%D8%B9%D8%AF-%D8%A3%D8%B3%D8%A7%D8%A8%D9%8A%D8%B9-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%85%D8%AA-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D9%88%D8%B6%D8%AD-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D9%85%D8%A7-%D8%AD%D8%AF%D8%AB-%D9%82%D8%A8%D9%84-7-%D8%AA%D8%B4%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D9%88%D9%84",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -386,22 +386,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/299d5af27265.html"
     },
     {
-      "title": "استدعاء قوقية بدل شاكر في صفوف المنتخب العراقي",
-      "url": "https://www.alsumaria.tv/Entertainment-News/576467/sports/%D8%A7%D8%B3%D8%AA%D8%AF%D8%B9%D8%A7%D8%A1-%D9%82%D9%88%D9%82%D9%8A%D8%A9-%D8%A8%D8%AF%D9%84-%D8%B4%D8%A7%D9%83%D8%B1-%D9%81%D9%8A-%D8%B5%D9%81%D9%88%D9%81-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-19T17:58:00+00:00",
-      "image": "./assets/news/99a58e43bcccd6471c243528.jpg",
-      "original_image": "./assets/news/99a58e43bcccd6471c243528.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/576467/sports/%D8%A7%D8%B3%D8%AA%D8%AF%D8%B9%D8%A7%D8%A1-%D9%82%D9%88%D9%82%D9%8A%D8%A9-%D8%A8%D8%AF%D9%84-%D8%B4%D8%A7%D9%83%D8%B1-%D9%81%D9%8A-%D8%B5%D9%81%D9%88%D9%81-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7cb1aa819591.html"
-    },
-    {
       "title": "ضجة “لحم الخنزير”.. ذي قار تنفي ضبط 200 كيلو في أحد مطاعم الناصرية",
       "url": "https://964media.com/718303/",
       "category": "محليات",
@@ -518,7 +502,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T07:18:39.990421+00:00",
+      "published": "2026-09-20T07:30:01.342313+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -528,7 +512,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e369dd021b06.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bfded4539fd1.html"
     }
   ]
 }
