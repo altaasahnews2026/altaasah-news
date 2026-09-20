@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T10:55:28.545157+00:00",
+  "updated_at": "2026-09-20T11:02:46.929067+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -19,6 +19,16 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "الحوثيون يهددون بإغلاق مطارات السعودية",
+      "url": "https://www.alsumaria.tv/news/international/576507/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D9%87%D8%AF%D8%AF%D9%88%D9%86-%D8%A8%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D8%B7%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-20T10:58:48+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {
@@ -77,7 +87,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T10:55:20.994646+00:00",
+      "published": "2026-09-20T11:02:43.334635+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -238,14 +248,6 @@
       "url": "https://www.alsumaria.tv/news/localnews/576499/%D9%85%D8%B5%D9%8A%D8%B1-%D9%85%D8%AC%D9%87%D9%88%D9%84-%D9%84%D8%A3%D9%84%D9%81%D9%8A-%D9%85%D9%88%D8%B8%D9%81-%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D8%A9-%D9%84%D9%85%D9%88%D8%B8%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D8%AC-%D9%88%D8%A7%D9%84%D8%AC%D9%84%D9%88%D8%AF-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D9%8B-%D8%B9%D9%84%D9%89-%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84",
       "category": "عراق",
       "published": "2026-09-20T09:13:35+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "اعتقال نجل “أبو درع” في بغداد",
-      "url": "https://964media.com/718417/",
-      "category": "عراق",
-      "published": "2026-09-20T09:23:57+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -639,6 +641,16 @@
     }
   ],
   "breaking": [
+    {
+      "title": "الحوثيون يهددون بإغلاق مطارات السعودية",
+      "url": "https://www.alsumaria.tv/news/international/576507/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D9%87%D8%AF%D8%AF%D9%88%D9%86-%D8%A8%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D8%B7%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-20T10:58:48+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
     {
       "title": "300 يوم عواصف رملية في السنة.. تحذير بعد رصد 6 بؤر ساخنة وسط وجنوب العراق",
       "url": "https://964media.com/718377/",
