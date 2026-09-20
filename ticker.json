@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T00:20:02.511361+00:00",
+  "updated_at": "2026-09-20T00:41:18.882093+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -164,7 +164,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T00:19:59.276612+00:00",
+      "published": "2026-09-20T00:41:14.324916+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -512,6 +512,14 @@
       ]
     },
     {
+      "title": "مقتل ثلاثة أشخاص في هجوم روسي على كييف",
+      "url": "https://aawsat.com/node/5320301",
+      "category": "دولي",
+      "published": "Sun, 20 Sep 2026 01:31:06 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "هجوم إلكتروني يستهدف نظام التصويت خلال الانتخابات البرلمانية الروسية",
       "url": "https://aawsat.com/node/5320076",
       "category": "دولي",
@@ -652,14 +660,6 @@
       "published": "Sat, 19 Sep 2026 17:50:10 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "بيلاروسيا تنفّذ مناورات عسكرية على حدودها مع الاتحاد الأوروبي",
-      "url": "https://aawsat.com/node/5320172",
-      "category": "دولي",
-      "published": "Sat, 19 Sep 2026 16:09:15 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -797,6 +797,14 @@
         "إيران",
         "أمريكا"
       ]
+    },
+    {
+      "title": "مقتل ثلاثة أشخاص في هجوم روسي على كييف",
+      "url": "https://aawsat.com/node/5320301",
+      "category": "دولي",
+      "published": "Sun, 20 Sep 2026 01:31:06 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "هجوم إلكتروني يستهدف نظام التصويت خلال الانتخابات البرلمانية الروسية",
