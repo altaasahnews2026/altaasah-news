@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T11:54:39.483683+00:00",
+  "updated_at": "2026-09-20T12:02:07.485540+00:00",
   "items": [
     {
       "title": "صحيفة: الزيدي سيعرض على ترامب تمديد مهلة حصر السلاح",
@@ -7,8 +7,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-20T11:41:39+00:00",
-      "image": "./assets/news/8c2c16f3774183445c863d93.jpg",
-      "original_image": "./assets/news/8c2c16f3774183445c863d93.jpg",
+      "image": "./assets/news/55a26db98c86d1fbcebc5888.jpg",
+      "original_image": "./assets/news/55a26db98c86d1fbcebc5888.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/576511/%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%B3%D9%8A%D8%B9%D8%B1%D8%B6-%D8%B9%D9%84%D9%89-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%AA%D9%85%D8%AF%D9%8A%D8%AF-%D9%85%D9%87%D9%84%D8%A9-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6856841f5886.html"
+    },
+    {
+      "title": "أزمة الرياض مع الحوثيين فرصة ترامب لرعاية تعاون سعودي إسرائيلي إماراتي - وول ستريت جورنال - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm2kw3k0dqylo",
+      "category": "عربي ودولي",
+      "region": "كركوك",
+      "governorate": "كركوك",
+      "published": "2026-09-20T11:32:29+00:00",
+      "image": "./assets/news/177a0da37f30414857d6583f.jpg",
+      "original_image": "./assets/news/177a0da37f30414857d6583f.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cm2kw3k0dqylo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": true,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/70aa296940c7.html"
     },
     {
       "title": "إد شيران يقرّ بارتكاب \"أخطاء\" في أول حفل له منذ الجدل المرتبط بماكليمور - شفق نيوز..",
@@ -103,8 +119,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-20T10:58:48+00:00",
-      "image": "./assets/news/827a7365ded7fda080e2442a.jpg",
-      "original_image": "./assets/news/827a7365ded7fda080e2442a.jpg",
+      "image": "./assets/news/554516c1854d6e391272522d.jpg",
+      "original_image": "./assets/news/554516c1854d6e391272522d.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576507/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D9%87%D8%AF%D8%AF%D9%88%D9%86-%D8%A8%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D8%B7%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -482,22 +498,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7b8a0640abae.html"
     },
     {
-      "title": "الانتخابات المغربية 2026: بين انتظارات الناخبين ووعود الأحزاب - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cq62jkzgvgn2o",
-      "category": "سياسة",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-20T04:24:45+00:00",
-      "image": "./assets/news/7a00590314b915642a2c5fb3.jpg",
-      "original_image": "./assets/news/7a00590314b915642a2c5fb3.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cq62jkzgvgn2o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2c8e3b17d46d.html"
-    },
-    {
       "title": "قائمقام “مفلس” و7 دوائر تقيم في مكتبه.. داقوق تستغيث حتى بالشرطة",
       "url": "https://964media.com/716298/",
       "category": "أمن",
@@ -550,7 +550,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T11:54:39.701636+00:00",
+      "published": "2026-09-20T12:02:07.721337+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -560,7 +560,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a56dc009c606.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6cbc8489a3e3.html"
     }
   ]
 }

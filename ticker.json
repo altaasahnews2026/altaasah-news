@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T11:54:46.815596+00:00",
+  "updated_at": "2026-09-20T12:02:12.131617+00:00",
   "latest": [
     {
       "title": "شهباز شريف: نقف كتفاً إلى كتف مع السعودية دفاعاً عن سيادتها وأمن الحرمين",
@@ -67,6 +67,17 @@
       "watch_topics": []
     },
     {
+      "title": "أزمة الرياض مع الحوثيين فرصة ترامب لرعاية تعاون سعودي إسرائيلي إماراتي - وول ستريت جورنال - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm2kw3k0dqylo",
+      "category": "عراق",
+      "published": "2026-09-20T11:32:29+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية",
+        "أمريكا"
+      ]
+    },
+    {
       "title": "الحكيم للقائم بأعمال أميركا: ضرورة حصر السلاح وفق التوقيتات العراقية",
       "url": "https://964media.com/718398/",
       "category": "عراق",
@@ -100,7 +111,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T11:54:39.701636+00:00",
+      "published": "2026-09-20T12:02:07.721337+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -125,14 +136,6 @@
       "url": "https://964media.com/716298/",
       "category": "عراق",
       "published": "2026-09-19T13:12:34+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الانتخابات المغربية 2026: بين انتظارات الناخبين ووعود الأحزاب - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cq62jkzgvgn2o",
-      "category": "عراق",
-      "published": "2026-09-20T04:24:45+00:00",
       "breaking": false,
       "watch_topics": []
     },
