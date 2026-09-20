@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T17:53:59.032304+00:00",
+  "updated_at": "2026-09-20T18:01:04.158306+00:00",
   "items": [
     {
       "title": "بعد الهجوم الأخير.. روسيا تتوعد برد قاسٍ على أوكرانيا",
@@ -48,6 +48,22 @@
       "report": false,
       "governorate": "أربيل",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bbfaa21b4934.html"
+    },
+    {
+      "title": "“تنزيلات تنزيلات” على نفط العراق.. سومو قد تعرض البراميل تحت السوق بـ50 دولاراً",
+      "url": "https://964media.com/718572/",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-20T17:32:56+00:00",
+      "image": "./assets/news/6ecb561e0444e24c9db2d95c.jpg",
+      "original_image": "./assets/news/6ecb561e0444e24c9db2d95c.jpg",
+      "source_url": "https://964media.com/718572/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f680d0b89833.html"
     },
     {
       "title": "الزيدي يتحدث عن المرحلة الراهنة: العراق يواجه تحديات اقتصادية استثنائية",
@@ -534,7 +550,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T17:53:59.208141+00:00",
+      "published": "2026-09-20T18:01:04.376309+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -544,7 +560,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8a1c14010943.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e3cf0d693f42.html"
     }
   ]
 }
