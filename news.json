@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T02:33:13.177560+00:00",
+  "updated_at": "2026-09-20T02:44:46.575338+00:00",
   "items": [
     {
       "title": "ترامب يقطع إجازته ويعود للبيت الأبيض، وواشنطن تحذر مواطنيها في الشرق الأوسط من \"تصعيد محتمل\" - شفق نيوز..",
@@ -530,27 +530,11 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/57aced599235.html"
     },
     {
-      "title": "العراق يراقب انتخابات برلمان روسيا بطلب من موسكو",
-      "url": "https://964media.com/718107/",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-18T20:42:31+00:00",
-      "image": "./assets/news/a29bc49aff08b4fff0f71a8c.jpg",
-      "original_image": "./assets/news/a29bc49aff08b4fff0f71a8c.jpg",
-      "source_url": "https://964media.com/718107/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/768a49542f50.html"
-    },
-    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T02:33:13.414438+00:00",
+      "published": "2026-09-20T02:44:46.821962+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -560,7 +544,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/94bb5b294070.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4d3b739b0d50.html"
     }
   ]
 }
