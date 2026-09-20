@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T02:54:36.249578+00:00",
+  "updated_at": "2026-09-20T03:02:18.933255+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -164,7 +164,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T02:54:30.827527+00:00",
+      "published": "2026-09-20T03:02:12.207328+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -591,6 +591,16 @@
       ]
     },
     {
+      "title": "ترمب يقطع عطلة نهاية الأسبوع ويعود إلى البيت الأبيض",
+      "url": "https://aawsat.com/node/5320312",
+      "category": "دولي",
+      "published": "Sun, 20 Sep 2026 03:57:20 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "منع 3 مؤسسات إعلامية من دخول البيت الأبيض بعد قرار ترمب بحظرها",
       "url": "https://aawsat.com/node/5320190",
       "category": "دولي",
@@ -645,16 +655,6 @@
       "url": "https://aawsat.com/node/5319956",
       "category": "دولي",
       "published": "Fri, 18 Sep 2026 21:20:42 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "غوتيريش يأسف لرفض واشنطن منح مسؤولين فلسطينيين تأشيرات دخول",
-      "url": "https://aawsat.com/node/5319938",
-      "category": "دولي",
-      "published": "Fri, 18 Sep 2026 20:20:42 +0100",
       "breaking": false,
       "watch_topics": [
         "أمريكا"
