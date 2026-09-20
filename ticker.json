@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T20:14:15.400116+00:00",
+  "updated_at": "2026-09-20T20:26:41.458450+00:00",
   "latest": [
     {
       "title": "ولي العهد السعودي يتلقى رسالة من ملك الأردن",
@@ -46,7 +46,7 @@
       "title": "الحوثيون يتهمون السعودية بشنَّ 28 غارة في اليمن خلال 24 ساعة، وقلق من تفاقم معاناة المدنيين وسط استمرار القتال الدامي - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
       "category": "عراق",
-      "published": "2026-09-20T19:19:13+00:00",
+      "published": "2026-09-20T20:03:15+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"
@@ -140,10 +140,20 @@
       ]
     },
     {
+      "title": "إيران تنفي إلغاء الرحلات الجوية مع العراق بدءأ من الثلاثاء",
+      "url": "https://www.alsumaria.tv/news/international/576570/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d9%86%d9%81%d9%8a-%d8%a5%d9%84%d8%ba%d8%a7%d8%a1-%d8%a7%d9%84%d8%b1%d8%ad%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d8%a8%d8%af%d8%a1%d8%a3-%d9%85%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Sun, 20 Sep 2026 20:15:55 GMT",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T20:14:08.511971+00:00",
+      "published": "2026-09-20T20:26:36.371909+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -256,14 +266,6 @@
       "url": "https://www.alsumaria.tv/news/localnews/576560/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A",
       "category": "عراق",
       "published": "2026-09-20T17:58:00+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "اليوم العالمي للسلام: كيف يبدو وضع السلام في عالم تتسع فيه رقعة النزاعات؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cwj3dp0ngr0jo",
-      "category": "عراق",
-      "published": "2026-09-20T18:20:12+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -686,7 +688,7 @@
       "title": "الحوثيون يتهمون السعودية بشنَّ 28 غارة في اليمن خلال 24 ساعة، وقلق من تفاقم معاناة المدنيين وسط استمرار القتال الدامي - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
       "category": "عراق",
-      "published": "2026-09-20T19:19:13+00:00",
+      "published": "2026-09-20T20:03:15+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"
