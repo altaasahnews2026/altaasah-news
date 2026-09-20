@@ -1,14 +1,30 @@
 {
-  "updated_at": "2026-09-20T12:49:24.839390+00:00",
+  "updated_at": "2026-09-20T12:59:11.174351+00:00",
   "items": [
+    {
+      "title": "ضربة أمنية عراقية عابرة للحدود.. 700 ألف حبة كبتاغون تُحبط في الكويت",
+      "url": "https://www.alsumaria.tv/news/security/576518/%D8%B6%D8%B1%D8%A8%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%B9%D8%A7%D8%A8%D8%B1%D8%A9-%D9%84%D9%84%D8%AD%D8%AF%D9%88%D8%AF-700-%D8%A3%D9%84%D9%81-%D8%AD%D8%A8%D8%A9-%D9%83%D8%A8%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D8%AA%D9%8F%D8%AD%D8%A8%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-09-20T12:51:12+00:00",
+      "image": "./assets/news/4988364c667e95f128a4036a.jpg",
+      "original_image": "./assets/news/4988364c667e95f128a4036a.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/576518/%D8%B6%D8%B1%D8%A8%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%B9%D8%A7%D8%A8%D8%B1%D8%A9-%D9%84%D9%84%D8%AD%D8%AF%D9%88%D8%AF-700-%D8%A3%D9%84%D9%81-%D8%AD%D8%A8%D8%A9-%D9%83%D8%A8%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D8%AA%D9%8F%D8%AD%D8%A8%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a9a3772d0358.html"
+    },
     {
       "title": "التعليم تصدر تنويهاً هاماً للطلبة المتقدمين إلى القبول الجامعي",
       "url": "https://www.alsumaria.tv/news/localnews/576517/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D9%86%D9%88%D9%8A%D9%87%D8%A7%D9%8B-%D9%87%D8%A7%D9%85%D8%A7%D9%8B-%D9%84%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%AF%D9%85%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%82%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D9%8A",
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-20T12:44:35+00:00",
-      "image": "./assets/news/af00754aec2f9740d1660350.jpg",
-      "original_image": "./assets/news/af00754aec2f9740d1660350.jpg",
+      "image": "./assets/news/6db04e6fe1d9be5e77316000.jpg",
+      "original_image": "./assets/news/6db04e6fe1d9be5e77316000.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/576517/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D9%86%D9%88%D9%8A%D9%87%D8%A7%D9%8B-%D9%87%D8%A7%D9%85%D8%A7%D9%8B-%D9%84%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%AF%D9%85%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%82%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -23,8 +39,8 @@
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-20T12:40:19+00:00",
-      "image": "./assets/news/d2b14b3cd42e0757c43d0618.jpg",
-      "original_image": "./assets/news/d2b14b3cd42e0757c43d0618.jpg",
+      "image": "./assets/news/56bd12afa9df9a17135c0f53.jpg",
+      "original_image": "./assets/news/56bd12afa9df9a17135c0f53.jpg",
       "source_url": "https://www.alsumaria.tv/news/economy/576516/%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%8A%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%AA%D8%A7%D9%85%D9%8A%D8%A9-%D9%8A%D8%B3%D8%A8%D9%82-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -32,6 +48,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/75ecf2814913.html"
+    },
+    {
+      "title": "أزمة الرياض مع الحوثيين فرصة ترامب لرعاية تعاون سعودي إسرائيلي إماراتي - وول ستريت جورنال - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm2kw3k0dqylo",
+      "category": "عربي ودولي",
+      "region": "كركوك",
+      "governorate": "كركوك",
+      "published": "2026-09-20T12:37:52+00:00",
+      "image": "./assets/news/177a0da37f30414857d6583f.jpg",
+      "original_image": "./assets/news/177a0da37f30414857d6583f.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cm2kw3k0dqylo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": true,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b47dd8c640c2.html"
     },
     {
       "title": "الاعمار والتنمية: مشاركة العراق في اجتماعات الأمم المتحدة تعزز حضوره الدولي",
@@ -112,22 +144,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6856841f5886.html"
-    },
-    {
-      "title": "أزمة الرياض مع الحوثيين فرصة ترامب لرعاية تعاون سعودي إسرائيلي إماراتي - وول ستريت جورنال - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm2kw3k0dqylo",
-      "category": "عربي ودولي",
-      "region": "كركوك",
-      "governorate": "كركوك",
-      "published": "2026-09-20T11:32:29+00:00",
-      "image": "./assets/news/177a0da37f30414857d6583f.jpg",
-      "original_image": "./assets/news/177a0da37f30414857d6583f.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cm2kw3k0dqylo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": true,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/70aa296940c7.html"
     },
     {
       "title": "إد شيران يقرّ بارتكاب \"أخطاء\" في أول حفل له منذ الجدل المرتبط بماكليمور - شفق نيوز..",
@@ -434,22 +450,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d53a781121bf.html"
     },
     {
-      "title": "التربية تعلن نتائج الثالث المتوسط للدور الثاني للعام 2025–2026",
-      "url": "https://www.alsumaria.tv/news/localnews/576497/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7-%D9%84%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D8%B9%D8%A7%D9%85-2025%E2%80%932026",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-20T09:01:30+00:00",
-      "image": "./assets/news/bd86118620b4a3f52e1c0db4.jpg",
-      "original_image": "./assets/news/bd86118620b4a3f52e1c0db4.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/576497/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7-%D9%84%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D8%B9%D8%A7%D9%85-2025%E2%80%932026",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/741e78e70394.html"
-    },
-    {
       "title": "أميركا تطلب من العراق الوفاء بالالتزامات التعاقدية وتهيئة بيئة آمنة لشركاتها",
       "url": "https://964media.com/718402/",
       "category": "أمن",
@@ -534,7 +534,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T12:49:25.058425+00:00",
+      "published": "2026-09-20T12:59:11.392020+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -544,7 +544,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b90aa03c7988.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b3c9080b9ae5.html"
     }
   ]
 }

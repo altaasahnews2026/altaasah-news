@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-20T12:49:30.051203+00:00",
+  "updated_at": "2026-09-20T12:59:15.245105+00:00",
   "latest": [
     {
-      "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
-      "url": "https://aawsat.com/node/5318899",
+      "title": "شهباز شريف: نقف كتفاً إلى كتف مع السعودية دفاعاً عن سيادتها وأمن الحرمين",
+      "url": "https://aawsat.com/node/5318881",
       "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 09:45:40 +0100",
+      "published": "Wed, 16 Sep 2026 09:05:17 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
@@ -70,7 +70,7 @@
       "title": "أزمة الرياض مع الحوثيين فرصة ترامب لرعاية تعاون سعودي إسرائيلي إماراتي - وول ستريت جورنال - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm2kw3k0dqylo",
       "category": "عراق",
-      "published": "2026-09-20T11:32:29+00:00",
+      "published": "2026-09-20T12:37:52+00:00",
       "breaking": false,
       "watch_topics": [
         "السعودية",
@@ -121,7 +121,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T12:49:25.058425+00:00",
+      "published": "2026-09-20T12:59:11.392020+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -146,14 +146,6 @@
       "url": "https://964media.com/716298/",
       "category": "عراق",
       "published": "2026-09-19T13:12:34+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "التربية تعلن نتائج الثالث المتوسط للدور الثاني للعام 2025–2026",
-      "url": "https://www.alsumaria.tv/news/localnews/576497/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7-%D9%84%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D8%B9%D8%A7%D9%85-2025%E2%80%932026",
-      "category": "عراق",
-      "published": "2026-09-20T09:01:30+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -262,6 +254,14 @@
       "watch_topics": []
     },
     {
+      "title": "إد شيران يقرّ بارتكاب \"أخطاء\" في أول حفل له منذ الجدل المرتبط بماكليمور - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c620lq5x4528o",
+      "category": "عراق",
+      "published": "2026-09-20T11:30:26+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "السعودية تدين استهداف مسجد في باكستان",
       "url": "https://aawsat.com/node/5319832",
       "category": "مشرق أوسط",
@@ -313,14 +313,6 @@
       "url": "https://aawsat.com/node/5319659",
       "category": "مشرق أوسط",
       "published": "Fri, 18 Sep 2026 00:38:02 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "عشرات القتلى في انهيار منجم ذهب بالسودان",
-      "url": "https://aawsat.com/node/5319071",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 15:50:48 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -475,6 +467,16 @@
       "url": "https://aawsat.com/node/5319150",
       "category": "مشرق أوسط",
       "published": "Wed, 16 Sep 2026 18:01:58 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
+      "url": "https://aawsat.com/node/5318899",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 09:45:40 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
@@ -728,14 +730,6 @@
       "url": "https://aawsat.com/node/5319659",
       "category": "مشرق أوسط",
       "published": "Fri, 18 Sep 2026 00:38:02 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "عشرات القتلى في انهيار منجم ذهب بالسودان",
-      "url": "https://aawsat.com/node/5319071",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 15:50:48 +0100",
       "breaking": true,
       "watch_topics": []
     },
