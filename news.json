@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-20T23:01:18.439802+00:00",
+  "updated_at": "2026-09-20T23:13:00.075684+00:00",
   "items": [
     {
-      "title": "انفجار في ريف حلب الجنوبي",
-      "url": "https://www.alsumaria.tv/news/international/576575/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A",
+      "title": "سوريا.. انفجار في ريف حلب الجنوبي",
+      "url": "https://www.alsumaria.tv/news/international/576575/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A",
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-20T22:42:00+00:00",
       "image": "./assets/news/c77e5e1f977b73439b413889.jpg",
       "original_image": "./assets/news/c77e5e1f977b73439b413889.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/576575/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A",
+      "source_url": "https://www.alsumaria.tv/news/international/576575/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": true,
       "kirkuk": false,
       "report": false,
       "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/85179fd49f56.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e2f0bff4bd39.html"
     },
     {
       "title": "بعد الهجوم الأخير.. روسيا تتوعد بتكثيف ضرباتها على أوكرانيا",
@@ -32,6 +32,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/61f8f80afe64.html"
+    },
+    {
+      "title": "الحوثيون يتهمون السعودية بشنَّ 28 غارة خلال 24 ساعة، ورئيس المخابرات الأمريكية بزيارة \"نادرة\" للقاهرة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-20T22:47:57+00:00",
+      "image": "./assets/news/065f13f95453109e9c276651.jpg",
+      "original_image": "./assets/news/065f13f95453109e9c276651.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/35ed041b0cfd.html"
     },
     {
       "title": "لقاء مرتقب يجمع رئيسة فنزويلا مع ترامب في نيويورك",
@@ -160,22 +176,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/986ab38c7390.html"
-    },
-    {
-      "title": "الحوثيون يتهمون السعودية بشنَّ 28 غارة في اليمن خلال 24 ساعة، وقلق من تفاقم معاناة المدنيين وسط استمرار القتال الدامي - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-20T20:03:15+00:00",
-      "image": "./assets/news/065f13f95453109e9c276651.jpg",
-      "original_image": "./assets/news/065f13f95453109e9c276651.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3369957860a3.html"
     },
     {
       "title": "وفاة طفلة سقطت في بئر بمحافظة نينوى",
@@ -391,8 +391,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-20T17:01:33+00:00",
-      "image": "./assets/news/02243f29529072740797ed9c.jpg",
-      "original_image": "./assets/news/02243f29529072740797ed9c.jpg",
+      "image": "./assets/news/e01351fdf727a627e453992a.jpg",
+      "original_image": "./assets/news/e01351fdf727a627e453992a.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576556/%D8%A8%D8%B9%D8%AF-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B9%D9%86-%D9%82%D8%AF%D8%B1%D8%A9-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D9%84%D8%AC%D8%A7%D9%86%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -518,7 +518,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T23:01:18.668701+00:00",
+      "published": "2026-09-20T23:13:00.218624+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -528,7 +528,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9fb22c1fd4bf.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f135c003e9fe.html"
     }
   ]
 }
