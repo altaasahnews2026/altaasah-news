@@ -1,14 +1,46 @@
 {
-  "updated_at": "2026-09-20T07:04:00.075987+00:00",
+  "updated_at": "2026-09-20T07:18:39.776250+00:00",
   "items": [
+    {
+      "title": "السلطات السورية توقف لواءً سابقاً شارك في عمليات حلب والغوطة، و11 قتيلاً بانفجار موقع عسكري شرق البلاد - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c6qjk8neq7r8o",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-20T06:53:16+00:00",
+      "image": "./assets/news/2130834d88e03291a193aaa8.jpg",
+      "original_image": "./assets/news/2130834d88e03291a193aaa8.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c6qjk8neq7r8o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2f2d8c997fa3.html"
+    },
+    {
+      "title": "العراقيون خافوا حذف الأصفار فسحبوا الدولار.. خبير يشرح أسباب ارتفاع الصرف",
+      "url": "https://964media.com/718372/",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-20T06:47:35+00:00",
+      "image": "./assets/news/293395333813a187a2b02f29.jpg",
+      "original_image": "./assets/news/293395333813a187a2b02f29.jpg",
+      "source_url": "https://964media.com/718372/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/352675bd6992.html"
+    },
     {
       "title": "10 محافظات اقل من الـ40 مئوية.. الحرارة قادمة خلال اليومين المقبلين",
       "url": "https://www.alsumaria.tv/news/localnews/576485/10-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D8%A7%D9%82%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%8040-%D9%85%D8%A6%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%82%D8%A7%D8%AF%D9%85%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D9%8A%D9%86",
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-20T06:46:18+00:00",
-      "image": "./assets/news/e576cc3e93dc8a4c7e7f7288.jpg",
-      "original_image": "./assets/news/e576cc3e93dc8a4c7e7f7288.jpg",
+      "image": "./assets/news/80b515fd47c830e9d7977508.jpg",
+      "original_image": "./assets/news/80b515fd47c830e9d7977508.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/576485/10-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D8%A7%D9%82%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%8040-%D9%85%D8%A6%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%82%D8%A7%D8%AF%D9%85%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D9%8A%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -23,8 +55,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-20T06:36:58+00:00",
-      "image": "./assets/news/36eaeb10b59fbf402b39cf88.jpg",
-      "original_image": "./assets/news/36eaeb10b59fbf402b39cf88.jpg",
+      "image": "./assets/news/1eb3896dc7253f9f97fe146d.jpg",
+      "original_image": "./assets/news/1eb3896dc7253f9f97fe146d.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/576484/14-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%B7%D8%A7%D9%84%D8%A8-%D8%AA%D9%88%D8%AC%D9%87%D9%88%D8%A7-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A5%D9%84%D9%89-%D9%85%D9%82%D8%A7%D8%B9%D8%AF%D9%87%D9%85-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -119,8 +151,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-20T05:21:00+00:00",
-      "image": "./assets/news/e5731aabc009615cf658abfb.png",
-      "original_image": "./assets/news/e5731aabc009615cf658abfb.png",
+      "image": "./assets/news/0179b06d0c5f96858f080a50.png",
+      "original_image": "./assets/news/0179b06d0c5f96858f080a50.png",
       "source_url": "https://www.alsumaria.tv/news/international/576479/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B1%D9%81%D8%B9-%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A3%D9%82%D8%B5%D9%89-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA%D9%87%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -418,22 +450,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d598463ef610.html"
     },
     {
-      "title": "مذكرات شقيق ديانا \"عودة إلى جنون 1997\" - مقال في التليغراف - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c6m27rkvw0yno",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-19T13:17:52+00:00",
-      "image": "./assets/news/42ec7d8a2383f1b07e080f99.jpg",
-      "original_image": "./assets/news/42ec7d8a2383f1b07e080f99.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c6m27rkvw0yno",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f9676504f908.html"
-    },
-    {
       "title": "قائمقام “مفلس” و7 دوائر تقيم في مكتبه.. داقوق تستغيث حتى بالشرطة",
       "url": "https://964media.com/716298/",
       "category": "أمن",
@@ -502,7 +518,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T07:04:00.236286+00:00",
+      "published": "2026-09-20T07:18:39.990421+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -512,7 +528,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c5cc2447b9a5.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e369dd021b06.html"
     }
   ]
 }
