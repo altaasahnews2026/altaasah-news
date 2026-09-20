@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T20:37:23.226893+00:00",
+  "updated_at": "2026-09-20T20:45:04.895534+00:00",
   "latest": [
     {
       "title": "السعودية: وفاة مقيم وإصابة اثنين بشظايا مسيَّرة في الطائف",
@@ -153,7 +153,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T20:37:13.500994+00:00",
+      "published": "2026-09-20T20:45:01.117419+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -491,6 +491,17 @@
       ]
     },
     {
+      "title": "قتلى الجيش الأميركي في حرب إيران... العدد يفوق ما أعلنه البنتاغون",
+      "url": "https://aawsat.com/node/5320049",
+      "category": "دولي",
+      "published": "Sat, 19 Sep 2026 08:58:25 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
       "title": "هجوم أوكراني بـ1600 مسيّرة على موسكو... وتضرر مصفاة نفط مهمة",
       "url": "https://aawsat.com/node/5320335",
       "category": "دولي",
@@ -519,6 +530,14 @@
       "url": "https://aawsat.com/node/5319995",
       "category": "دولي",
       "published": "Sat, 19 Sep 2026 00:13:33 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "4 قتلى بضربة أميركية استهدفت سفينة في البحر الكاريبي",
+      "url": "https://aawsat.com/node/5320302",
+      "category": "دولي",
+      "published": "Sun, 20 Sep 2026 02:35:28 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -563,84 +582,84 @@
       ]
     },
     {
-      "title": "شقيق ديانا: هاري وميغان بحاجة إلى الحماية لتجنب محنة والدته",
-      "url": "https://aawsat.com/node/5320629",
+      "title": "ترمب إلى الأمم المتحدة... وإيران تختبر دبلوماسية اللحظة الأخيرة في نيويورك",
+      "url": "https://aawsat.com/node/5320509",
       "category": "دولي",
-      "published": "Sun, 20 Sep 2026 21:37:04 +0100",
+      "published": "Sun, 20 Sep 2026 15:34:50 +0100",
       "breaking": false,
-      "watch_topics": []
+      "watch_topics": [
+        "إيران"
+      ]
     },
     {
-      "title": "إعلان حزب «روسيا الموحدة» المؤيد للكرملين فائزاً في الانتخابات",
-      "url": "https://aawsat.com/node/5320602",
+      "title": "ترمب يقطع عطلة نهاية الأسبوع ويعود إلى البيت الأبيض",
+      "url": "https://aawsat.com/node/5320312",
       "category": "دولي",
-      "published": "Sun, 20 Sep 2026 20:08:07 +0100",
+      "published": "Sun, 20 Sep 2026 03:57:20 +0100",
       "breaking": false,
-      "watch_topics": []
+      "watch_topics": [
+        "أمريكا"
+      ]
     },
     {
-      "title": "ميرتس يقر بـ«كارثة» لحزبه إثر تقدُّم اليمين المتطرف بانتخابات محلية في ألمانيا",
-      "url": "https://aawsat.com/node/5320575",
+      "title": "منع 3 مؤسسات إعلامية من دخول البيت الأبيض بعد قرار ترمب بحظرها",
+      "url": "https://aawsat.com/node/5320190",
       "category": "دولي",
-      "published": "Sun, 20 Sep 2026 18:05:38 +0100",
+      "published": "Sat, 19 Sep 2026 17:00:26 +0100",
       "breaking": false,
-      "watch_topics": []
+      "watch_topics": [
+        "أمريكا"
+      ]
     },
     {
-      "title": "مصير المستشار الألماني معلَّق على نتائج انتخابات محلية اليوم",
-      "url": "https://aawsat.com/node/5320410",
+      "title": "تقرير استخباراتي أعده الذكاء الاصطناعي كاد يشعل حرباً بين أميركا والصين",
+      "url": "https://aawsat.com/node/5320112",
       "category": "دولي",
-      "published": "Sun, 20 Sep 2026 12:04:16 +0100",
+      "published": "Sat, 19 Sep 2026 12:44:00 +0100",
       "breaking": false,
-      "watch_topics": []
+      "watch_topics": [
+        "أمريكا"
+      ]
     },
     {
-      "title": "في رسالة لترمب... ماكرون وكارني يجتمعان في أرخبيل فرنسي بالمحيط الأطلسي",
-      "url": "https://aawsat.com/node/5320387",
+      "title": "«مثير للاشمئزاز»... هيغسيث يهاجم تقريراً عن خسائر الجيش الأميركي في حرب إيران",
+      "url": "https://aawsat.com/node/5320101",
       "category": "دولي",
-      "published": "Sun, 20 Sep 2026 11:07:34 +0100",
+      "published": "Sat, 19 Sep 2026 12:12:50 +0100",
       "breaking": false,
-      "watch_topics": []
+      "watch_topics": [
+        "إيران"
+      ]
     },
     {
-      "title": "قادة العالم يجتمعون بالأمم المتحدة... والذكاء الاصطناعي على جدول الأعمال",
-      "url": "https://aawsat.com/node/5320340",
+      "title": "«سي إن إن»: منع وسائل إعلام من دخول البيت الأبيض اعتداء على حرية الصحافة",
+      "url": "https://aawsat.com/node/5320087",
       "category": "دولي",
-      "published": "Sun, 20 Sep 2026 08:05:21 +0100",
+      "published": "Sat, 19 Sep 2026 11:01:21 +0100",
       "breaking": false,
-      "watch_topics": []
+      "watch_topics": [
+        "أمريكا"
+      ]
     },
     {
-      "title": "انتخاب الجنرال الألماني بروير رئيساً لأعلى هيئة عسكرية بحلف الأطلسي",
-      "url": "https://aawsat.com/node/5320205",
+      "title": "البيت الأبيض: ترمب سيلتقي رئيسة فنزويلا المؤقتة الأسبوع المقبل",
+      "url": "https://aawsat.com/node/5319984",
       "category": "دولي",
-      "published": "Sat, 19 Sep 2026 17:50:10 +0100",
+      "published": "Fri, 18 Sep 2026 23:48:24 +0100",
       "breaking": false,
-      "watch_topics": []
+      "watch_topics": [
+        "أمريكا"
+      ]
     },
     {
-      "title": "بيلاروسيا تنفّذ مناورات عسكرية على حدودها مع الاتحاد الأوروبي",
-      "url": "https://aawsat.com/node/5320172",
+      "title": "ترمب يعلن منع 3 وسائل إعلام أميركية من دخول البيت الأبيض",
+      "url": "https://aawsat.com/node/5319956",
       "category": "دولي",
-      "published": "Sat, 19 Sep 2026 16:09:15 +0100",
+      "published": "Fri, 18 Sep 2026 21:20:42 +0100",
       "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "مراقبون: بوتين بعيد تماماً عن العُزلة... وعلى أوروبا التعامل معه باستراتيجية طويلة الأمد",
-      "url": "https://aawsat.com/node/5320168",
-      "category": "دولي",
-      "published": "Sat, 19 Sep 2026 15:56:29 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "مدفيديف: العقوبات الأميركية تستدعي «ردعاً عسكرياً» من روسيا",
-      "url": "https://aawsat.com/node/5320137",
-      "category": "دولي",
-      "published": "Sat, 19 Sep 2026 14:41:31 +0100",
-      "breaking": false,
-      "watch_topics": []
+      "watch_topics": [
+        "أمريكا"
+      ]
     }
   ],
   "breaking": [
@@ -792,6 +811,17 @@
       "watch_topics": []
     },
     {
+      "title": "قتلى الجيش الأميركي في حرب إيران... العدد يفوق ما أعلنه البنتاغون",
+      "url": "https://aawsat.com/node/5320049",
+      "category": "دولي",
+      "published": "Sat, 19 Sep 2026 08:58:25 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
       "title": "هجوم أوكراني بـ1600 مسيّرة على موسكو... وتضرر مصفاة نفط مهمة",
       "url": "https://aawsat.com/node/5320335",
       "category": "دولي",
@@ -820,6 +850,14 @@
       "url": "https://aawsat.com/node/5319995",
       "category": "دولي",
       "published": "Sat, 19 Sep 2026 00:13:33 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "4 قتلى بضربة أميركية استهدفت سفينة في البحر الكاريبي",
+      "url": "https://aawsat.com/node/5320302",
+      "category": "دولي",
+      "published": "Sun, 20 Sep 2026 02:35:28 +0100",
       "breaking": true,
       "watch_topics": []
     }
