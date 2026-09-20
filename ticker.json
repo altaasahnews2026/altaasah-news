@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-09-20T13:22:39.259402+00:00",
+  "updated_at": "2026-09-20T13:33:33.540060+00:00",
   "latest": [
-    {
-      "title": "شهباز شريف: نقف كتفاً إلى كتف مع السعودية دفاعاً عن سيادتها وأمن الحرمين",
-      "url": "https://aawsat.com/node/5318881",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 09:05:17 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
       "url": "https://aawsat.com/node/5320075",
@@ -67,6 +57,14 @@
       "watch_topics": []
     },
     {
+      "title": "الدولار ينزل دون الـ159 ألفاًُ.. تراجع جديد مع إغلاق البورصة المحلية",
+      "url": "https://www.alsumaria.tv/news/localnews/576523/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D9%86%D8%B2%D9%84-%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D9%80159-%D8%A3%D9%84%D9%81%D8%A7%D9%8B%D9%8F-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%85%D8%B9-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-20T13:18:42+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "أزمة الرياض مع الحوثيين فرصة ترامب لرعاية تعاون سعودي إسرائيلي إماراتي - وول ستريت جورنال - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm2kw3k0dqylo",
       "category": "عراق",
@@ -101,7 +99,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T13:22:33.342835+00:00",
+      "published": "2026-09-20T13:33:30.014373+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -126,14 +124,6 @@
       "url": "https://964media.com/718417/",
       "category": "عراق",
       "published": "2026-09-20T09:23:57+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "انخفاض أسعار الذهب في بغداد بالتزامن مع تراجع صرف الدولار",
-      "url": "https://www.alsumaria.tv/news/economy/576502/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A8%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D9%86-%D9%85%D8%B9-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
-      "category": "عراق",
-      "published": "2026-09-20T09:45:17+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -648,6 +638,16 @@
       "watch_topics": [
         "أمريكا"
       ]
+    },
+    {
+      "title": "غوتيريش يأسف لرفض واشنطن منح مسؤولين فلسطينيين تأشيرات دخول",
+      "url": "https://aawsat.com/node/5319938",
+      "category": "دولي",
+      "published": "Fri, 18 Sep 2026 20:20:42 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
     }
   ],
   "breaking": [
@@ -682,6 +682,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cqy7z1r3xgego",
       "category": "عراق",
       "published": "2026-09-20T11:00:25+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "الدولار ينزل دون الـ159 ألفاًُ.. تراجع جديد مع إغلاق البورصة المحلية",
+      "url": "https://www.alsumaria.tv/news/localnews/576523/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D9%86%D8%B2%D9%84-%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D9%80159-%D8%A3%D9%84%D9%81%D8%A7%D9%8B%D9%8F-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%85%D8%B9-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-20T13:18:42+00:00",
       "breaking": true,
       "watch_topics": []
     },
