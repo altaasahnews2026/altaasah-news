@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T15:35:28.488556+00:00",
+  "updated_at": "2026-09-20T15:45:01.692739+00:00",
   "items": [
     {
       "title": "لا هجوم ولا استهداف.. مكافحة الإرهاب يوضح حقيقة انفجاري أربيل",
@@ -48,6 +48,54 @@
       "report": false,
       "governorate": "أربيل",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d3edfc3e2464.html"
+    },
+    {
+      "title": "حقيقة تنفيذ السعودية إنزال جوي في صنعاء",
+      "url": "https://www.alsumaria.tv/news/international/576541/%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%81%D9%8A-%D8%B5%D9%86%D8%B9%D8%A7%D8%A1",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-20T15:40:40+00:00",
+      "image": "./assets/news/35d912de979165b4914f594f.jpg",
+      "original_image": "./assets/news/35d912de979165b4914f594f.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/576541/%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%81%D9%8A-%D8%B5%D9%86%D8%B9%D8%A7%D8%A1",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/200b820e8798.html"
+    },
+    {
+      "title": "لص يقتحم مقهى بألمانيا ويكتفي بسرقة كعكة وعبوتي آيس كريم",
+      "url": "https://www.alsumaria.tv/news/international/576540/%D9%84%D8%B5-%D9%8A%D9%82%D8%AA%D8%AD%D9%85-%D9%85%D9%82%D9%87%D9%89-%D8%A8%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D9%8A%D9%83%D8%AA%D9%81%D9%8A-%D8%A8%D8%B3%D8%B1%D9%82%D8%A9-%D9%83%D8%B9%D9%83%D8%A9-%D9%88%D8%B9%D8%A8%D9%88%D8%AA%D9%8A-%D8%A2%D9%8A%D8%B3-%D9%83%D8%B1%D9%8A%D9%85",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-20T15:34:06+00:00",
+      "image": "./assets/news/30af85da96eaac04e38558c1.webp",
+      "original_image": "./assets/news/30af85da96eaac04e38558c1.webp",
+      "source_url": "https://www.alsumaria.tv/news/international/576540/%D9%84%D8%B5-%D9%8A%D9%82%D8%AA%D8%AD%D9%85-%D9%85%D9%82%D9%87%D9%89-%D8%A8%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D9%8A%D9%83%D8%AA%D9%81%D9%8A-%D8%A8%D8%B3%D8%B1%D9%82%D8%A9-%D9%83%D8%B9%D9%83%D8%A9-%D9%88%D8%B9%D8%A8%D9%88%D8%AA%D9%8A-%D8%A2%D9%8A%D8%B3-%D9%83%D8%B1%D9%8A%D9%85",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/388d6e8a8919.html"
+    },
+    {
+      "title": "استنجد بـ911 والقي القبض على مبتزيه في بغداد",
+      "url": "https://www.alsumaria.tv/news/security/576539/%D8%A7%D8%B3%D8%AA%D9%86%D8%AC%D8%AF-%D8%A8%D9%80911-%D9%88%D8%A7%D9%84%D9%82%D9%8A-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D8%AA%D8%B2%D9%8A%D9%87-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "category": "محليات",
+      "region": "بغداد",
+      "published": "2026-09-20T15:32:20+00:00",
+      "image": "./assets/news/19b29f617f124c9ca78a209d.jpg",
+      "original_image": "./assets/news/19b29f617f124c9ca78a209d.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/576539/%D8%A7%D8%B3%D8%AA%D9%86%D8%AC%D8%AF-%D8%A8%D9%80911-%D9%88%D8%A7%D9%84%D9%82%D9%8A-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D8%AA%D8%B2%D9%8A%D9%87-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/516479751205.html"
     },
     {
       "title": "تفاصيل جديدة حول تثبيت العقود والاجراء اليوميين",
@@ -354,22 +402,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/77072117c2c8.html"
     },
     {
-      "title": "نائب يكشف العقود المشمولين بالتثبيت على الملاك.. وموعد وصول موازنة 2027",
-      "url": "https://www.alsumaria.tv/news/localnews/576521/%D9%86%D8%A7%D8%A6%D8%A8-%D9%8A%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D8%B4%D9%85%D9%88%D9%84%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D9%83-%D9%88%D9%85%D9%88%D8%B9%D8%AF-%D9%88%D8%B5%D9%88%D9%84-%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-2027",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-20T13:09:02+00:00",
-      "image": "./assets/news/f4504af2a8bb884ac10f3a50.jpg",
-      "original_image": "./assets/news/f4504af2a8bb884ac10f3a50.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/576521/%D9%86%D8%A7%D8%A6%D8%A8-%D9%8A%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D8%B4%D9%85%D9%88%D9%84%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D9%83-%D9%88%D9%85%D9%88%D8%B9%D8%AF-%D9%88%D8%B5%D9%88%D9%84-%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-2027",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/486a8802eeb5.html"
-    },
-    {
       "title": "أزمة الرياض مع الحوثيين فرصة ترامب لرعاية تعاون سعودي إسرائيلي إماراتي - وول ستريت جورنال - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm2kw3k0dqylo",
       "category": "عربي ودولي",
@@ -384,38 +416,6 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6a8184d1c78d.html"
-    },
-    {
-      "title": "العزم يبحث مع وزير الموارد المائية تحديات ملف المياه",
-      "url": "https://www.alsumaria.tv/news/localnews/576520/%D8%A7%D9%84%D8%B9%D8%B2%D9%85-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-20T13:01:09+00:00",
-      "image": "./assets/news/fe216ad0ffc8569b2a8f6640.jpg",
-      "original_image": "./assets/news/fe216ad0ffc8569b2a8f6640.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/576520/%D8%A7%D9%84%D8%B9%D8%B2%D9%85-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": true,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8efad62153a7.html"
-    },
-    {
-      "title": "بعثة أسود الرافدين تتوجه إلى جدة استعداداً للمشاركة في خليجي 27 (صور)",
-      "url": "https://www.alsumaria.tv/Entertainment-News/576519/sports/%D8%A8%D8%B9%D8%AB%D8%A9-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D8%AA%D8%AA%D9%88%D8%AC%D9%87-%D8%A5%D9%84%D9%89-%D8%AC%D8%AF%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D9%8B-%D9%84%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D8%B5%D9%88%D8%B1",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-20T12:59:05+00:00",
-      "image": "./assets/news/95f0cf4cd450fd41b90ed032.jpg",
-      "original_image": "./assets/news/95f0cf4cd450fd41b90ed032.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/576519/sports/%D8%A8%D8%B9%D8%AB%D8%A9-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D8%AA%D8%AA%D9%88%D8%AC%D9%87-%D8%A5%D9%84%D9%89-%D8%AC%D8%AF%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D9%8B-%D9%84%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D8%B5%D9%88%D8%B1",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4d9904d39b14.html"
     },
     {
       "title": "إد شيران يقرّ بارتكاب \"أخطاء\" في أول حفل له منذ الجدل المرتبط بماكليمور - شفق نيوز..",
@@ -534,7 +534,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T15:35:28.666352+00:00",
+      "published": "2026-09-20T15:45:01.915058+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -544,7 +544,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b957df7bb132.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9aea5f3e0e8f.html"
     }
   ]
 }
