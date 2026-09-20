@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-09-20T15:45:07.044261+00:00",
+  "updated_at": "2026-09-20T15:53:41.119470+00:00",
   "latest": [
+    {
+      "title": "ولي العهد السعودي يتلقى رسالة من ملك الأردن",
+      "url": "https://aawsat.com/node/5319150",
+      "category": "مشرق أوسط",
+      "published": "Wed, 16 Sep 2026 18:01:58 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
+      "url": "https://aawsat.com/node/5320075",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 10:15:12 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
     {
       "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
@@ -13,10 +33,10 @@
       ]
     },
     {
-      "title": "ترامب منفتح على لقاء بزشكيان: إيران مطالبة بتحسين التصرف.. أعتزم اتخاذ قرار مهم!",
-      "url": "https://www.alsumaria.tv/news/international/576524/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%85%D9%86%D9%81%D8%AA%D8%AD-%D8%B9%D9%84%D9%89-%D9%84%D9%82%D8%A7%D8%A1-%D8%A8%D8%B2%D8%B4%D9%83%D9%8A%D8%A7%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A9-%D8%A8%D8%AA%D8%AD%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%B5%D8%B1%D9%81-%D8%A3%D8%B9%D8%AA%D8%B2%D9%85-%D8%A7%D8%AA%D8%AE%D8%A7%D8%B0-%D9%82%D8%B1",
+      "title": "بعد اعلان ترامب انفتاحه للقاء بزشكيان.. الرئيس الإيراني: نرحب بأي محادثات تؤدي للسلام",
+      "url": "https://www.alsumaria.tv/news/international/576543/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B9%D9%84%D8%A7%D9%86-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A7%D9%86%D9%81%D8%AA%D8%A7%D8%AD%D9%87-%D9%84%D9%84%D9%82%D8%A7%D8%A1-%D8%A8%D8%B2%D8%B4%D9%83%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%86%D8%B1%D8%AD%D8%A8-%D8%A8%D8%A3%D9%8A-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA",
       "category": "عراق",
-      "published": "2026-09-20T13:25:25+00:00",
+      "published": "2026-09-20T15:46:30+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران",
@@ -28,14 +48,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cqy7z1r3xgego",
       "category": "عراق",
       "published": "2026-09-20T11:00:25+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "الدولار ينزل دون الـ159 ألفاًُ.. تراجع جديد مع إغلاق البورصة المحلية",
-      "url": "https://www.alsumaria.tv/news/localnews/576523/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D9%86%D8%B2%D9%84-%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D9%80159-%D8%A3%D9%84%D9%81%D8%A7%D9%8B%D9%8F-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%85%D8%B9-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-20T13:18:42+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -132,7 +144,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T15:45:01.915058+00:00",
+      "published": "2026-09-20T15:53:34.826146+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -185,14 +197,6 @@
       "watch_topics": []
     },
     {
-      "title": "فحص اللحوم يحسم الجدل في الناصرية: ليست خنزيراً لكنها تالفة",
-      "url": "https://www.alsumaria.tv/news/localnews/576522/%D9%81%D8%AD%D8%B5-%D8%A7%D9%84%D9%84%D8%AD%D9%88%D9%85-%D9%8A%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D8%AE%D9%86%D8%B2%D9%8A%D8%B1%D8%A7%D9%8B-%D9%84%D9%83%D9%86%D9%87%D8%A7-%D8%AA%D8%A7%D9%84%D9%81%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-20T13:12:02+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "فيديو: بلدية البصرة تطارد “لوريات” الرمل في الحيانية",
       "url": "https://964media.com/718480/",
       "category": "عراق",
@@ -241,6 +245,22 @@
       "watch_topics": []
     },
     {
+      "title": "توغل إسرائيلي جديد في ريف القنيطرة تحت غطاء من الطيران المسيّر",
+      "url": "https://www.alsumaria.tv/news/international/576532/%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%AA%D8%AD%D8%AA-%D8%BA%D8%B7%D8%A7%D8%A1-%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D9%91%D8%B1",
+      "category": "عراق",
+      "published": "2026-09-20T14:28:41+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "بيان مصري ردا على أصالة بعد حفلتها في دمشق",
+      "url": "https://www.alsumaria.tv/news/artculture/576534/%D8%A8%D9%8A%D8%A7%D9%86-%D9%85%D8%B5%D8%B1%D9%8A-%D8%B1%D8%AF%D8%A7-%D8%B9%D9%84%D9%89-%D8%A3%D8%B5%D8%A7%D9%84%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%AD%D9%81%D9%84%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82",
+      "category": "عراق",
+      "published": "2026-09-20T14:32:53+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "السعودية تدين استهداف مسجد في باكستان",
       "url": "https://aawsat.com/node/5319832",
       "category": "مشرق أوسط",
@@ -270,6 +290,30 @@
         "إيران",
         "أمريكا"
       ]
+    },
+    {
+      "title": "تحذيرات من تفشي الكوليرا بين الفارّين من الهجمات الحوثية",
+      "url": "https://aawsat.com/node/5320111",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 12:37:42 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "قتيل وإصابات إثر قصف إسرائيلي استهدف دراجة نارية في غزة",
+      "url": "https://aawsat.com/node/5319934",
+      "category": "مشرق أوسط",
+      "published": "Fri, 18 Sep 2026 19:56:16 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تحذير أممي من تأثير الحرب على مساعدات اليمن",
+      "url": "https://aawsat.com/node/5319659",
+      "category": "مشرق أوسط",
+      "published": "Fri, 18 Sep 2026 00:38:02 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "تركيا تندد بمحاولة الحوثيين الهجوم على مكة وتطالب بوضع حد لهجماتهم",
@@ -326,6 +370,46 @@
       "published": "Fri, 18 Sep 2026 00:52:18 +0100",
       "breaking": true,
       "watch_topics": []
+    },
+    {
+      "title": "مصر وأميركا لمزيد من التنسيق لخفض التصعيد بالمنطقة",
+      "url": "https://aawsat.com/node/5320519",
+      "category": "مشرق أوسط",
+      "published": "Sun, 20 Sep 2026 16:05:23 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "إدانة أممية - خليجية لهجمات الحوثيين على السعودية",
+      "url": "https://aawsat.com/node/5320249",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 21:23:17 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "تقرير: خبراء من «الحرس الثوري» زاروا باب المندب لتركيب رادارات",
+      "url": "https://aawsat.com/node/5320216",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 18:15:05 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "نهب حوثي يعطل الإغاثة السعودية في الساحل الغربي اليمني",
+      "url": "https://aawsat.com/node/5320100",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 12:11:19 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
       "title": "إدانات واسعة للاعتداءات الحوثية على العاصمة السعودية",
@@ -396,68 +480,6 @@
       "watch_topics": [
         "السعودية"
       ]
-    },
-    {
-      "title": "ولي العهد السعودي يتلقى رسالة من ملك الأردن",
-      "url": "https://aawsat.com/node/5319150",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 18:01:58 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
-      "url": "https://aawsat.com/node/5320075",
-      "category": "مشرق أوسط",
-      "published": "Sat, 19 Sep 2026 10:15:12 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "رئيس كوريا الجنوبية: لن ننشر جيشنا للقتال في مضيق هرمز",
-      "url": "https://aawsat.com/node/5319667",
-      "category": "مشرق أوسط",
-      "published": "Fri, 18 Sep 2026 05:12:01 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "تركيا: «اتفاقية مكة» منصة محورية ستغير قواعد اللعبة في المنطقة",
-      "url": "https://aawsat.com/node/5320487",
-      "category": "مشرق أوسط",
-      "published": "Sun, 20 Sep 2026 14:28:47 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "أوروبا ترفع مستوى التأهب جنوب البحر الأحمر",
-      "url": "https://aawsat.com/node/5320001",
-      "category": "مشرق أوسط",
-      "published": "Sat, 19 Sep 2026 00:29:39 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "«التحالف البحري الدفاعي» نحو تعزيز الجاهزية العملياتية",
-      "url": "https://aawsat.com/node/5319835",
-      "category": "مشرق أوسط",
-      "published": "Fri, 18 Sep 2026 14:49:30 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "اجتماع سعودي - قطري يبحث تعزيز التعاون والتنسيق الأمني",
-      "url": "https://aawsat.com/node/5319635",
-      "category": "مشرق أوسط",
-      "published": "Thu, 17 Sep 2026 22:10:13 +0100",
-      "breaking": false,
-      "watch_topics": []
     },
     {
       "title": "قتلى الجيش الأميركي في حرب إيران... العدد يفوق ما أعلنه البنتاغون",
@@ -629,26 +651,6 @@
       "watch_topics": [
         "أمريكا"
       ]
-    },
-    {
-      "title": "ترمب يعلن منع 3 وسائل إعلام أميركية من دخول البيت الأبيض",
-      "url": "https://aawsat.com/node/5319956",
-      "category": "دولي",
-      "published": "Fri, 18 Sep 2026 21:20:42 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "غوتيريش يأسف لرفض واشنطن منح مسؤولين فلسطينيين تأشيرات دخول",
-      "url": "https://aawsat.com/node/5319938",
-      "category": "دولي",
-      "published": "Fri, 18 Sep 2026 20:20:42 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
     }
   ],
   "breaking": [
@@ -668,14 +670,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cqy7z1r3xgego",
       "category": "عراق",
       "published": "2026-09-20T11:00:25+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "الدولار ينزل دون الـ159 ألفاًُ.. تراجع جديد مع إغلاق البورصة المحلية",
-      "url": "https://www.alsumaria.tv/news/localnews/576523/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D9%86%D8%B2%D9%84-%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D9%80159-%D8%A3%D9%84%D9%81%D8%A7%D9%8B%D9%8F-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%85%D8%B9-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-20T13:18:42+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -746,6 +740,30 @@
       "watch_topics": [
         "السعودية"
       ]
+    },
+    {
+      "title": "تحذيرات من تفشي الكوليرا بين الفارّين من الهجمات الحوثية",
+      "url": "https://aawsat.com/node/5320111",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 12:37:42 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "قتيل وإصابات إثر قصف إسرائيلي استهدف دراجة نارية في غزة",
+      "url": "https://aawsat.com/node/5319934",
+      "category": "مشرق أوسط",
+      "published": "Fri, 18 Sep 2026 19:56:16 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تحذير أممي من تأثير الحرب على مساعدات اليمن",
+      "url": "https://aawsat.com/node/5319659",
+      "category": "مشرق أوسط",
+      "published": "Fri, 18 Sep 2026 00:38:02 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "تركيا تندد بمحاولة الحوثيين الهجوم على مكة وتطالب بوضع حد لهجماتهم",
