@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T05:32:46.535755+00:00",
+  "updated_at": "2026-09-20T05:42:32.207125+00:00",
   "latest": [
     {
       "title": "السعودية تطالب مجلس الأمن بموقف حازم ضد «عسكرة المضايق»",
@@ -31,6 +31,14 @@
         "إيران",
         "أمريكا"
       ]
+    },
+    {
+      "title": "تحذير أمني أمريكي واسع في ست دول بينها العراق",
+      "url": "https://www.alsumaria.tv/news/international/576480/%d8%aa%d8%ad%d8%b0%d9%8a%d8%b1-%d8%a3%d9%85%d9%86%d9%8a-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%88%d8%a7%d8%b3%d8%b9-%d9%81%d9%8a-%d8%b3%d8%aa-%d8%af%d9%88%d9%84-%d8%a8%d9%8a%d9%86%d9%87%d8%a7-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Sun, 20 Sep 2026 05:30:00 GMT",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "الولايات المتحدة والدنمارك تتوصلان إلى اتفاق بشأن غرينلاند بعد تهديدات ترامب بضمّها - شفق نيوز..",
@@ -156,7 +164,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T05:32:39.918239+00:00",
+      "published": "2026-09-20T05:42:28.035494+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -197,14 +205,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c5m27r08yekwo",
       "category": "عراق",
       "published": "2026-09-19T14:25:13+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "القضاء المصري يحسم مصير فيلم الست لأم كلثوم",
-      "url": "https://www.alsumaria.tv/news/artculture/576460/%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D8%AD%D8%B3%D9%85-%D9%85%D8%B5%D9%8A%D8%B1-%D9%81%D9%8A%D9%84%D9%85-%D8%A7%D9%84%D8%B3%D8%AA-%D9%84%D8%A3%D9%85-%D9%83%D9%84%D8%AB%D9%88%D9%85",
-      "category": "عراق",
-      "published": "2026-09-19T16:19:14+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -662,6 +662,14 @@
     }
   ],
   "breaking": [
+    {
+      "title": "تحذير أمني أمريكي واسع في ست دول بينها العراق",
+      "url": "https://www.alsumaria.tv/news/international/576480/%d8%aa%d8%ad%d8%b0%d9%8a%d8%b1-%d8%a3%d9%85%d9%86%d9%8a-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%88%d8%a7%d8%b3%d8%b9-%d9%81%d9%8a-%d8%b3%d8%aa-%d8%af%d9%88%d9%84-%d8%a8%d9%8a%d9%86%d9%87%d8%a7-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Sun, 20 Sep 2026 05:30:00 GMT",
+      "breaking": true,
+      "watch_topics": []
+    },
     {
       "title": "السعودية تدين استهداف مسجد في باكستان",
       "url": "https://aawsat.com/node/5319832",

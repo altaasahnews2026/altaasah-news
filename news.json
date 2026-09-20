@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T05:32:39.691627+00:00",
+  "updated_at": "2026-09-20T05:42:27.804691+00:00",
   "items": [
     {
       "title": "الانتخابات المغربية 2026: بين انتظارات الناخبين ووعود الأحزاب - شفق نيوز..",
@@ -402,22 +402,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1660367c3baa.html"
     },
     {
-      "title": "القضاء المصري يحسم مصير فيلم الست لأم كلثوم",
-      "url": "https://www.alsumaria.tv/news/artculture/576460/%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D8%AD%D8%B3%D9%85-%D9%85%D8%B5%D9%8A%D8%B1-%D9%81%D9%8A%D9%84%D9%85-%D8%A7%D9%84%D8%B3%D8%AA-%D9%84%D8%A3%D9%85-%D9%83%D9%84%D8%AB%D9%88%D9%85",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-19T16:19:14+00:00",
-      "image": "./assets/news/ab61ba2cf7f6efdbf1b88810.jpg",
-      "original_image": "./assets/news/ab61ba2cf7f6efdbf1b88810.jpg",
-      "source_url": "https://www.alsumaria.tv/news/artculture/576460/%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D8%AD%D8%B3%D9%85-%D9%85%D8%B5%D9%8A%D8%B1-%D9%81%D9%8A%D9%84%D9%85-%D8%A7%D9%84%D8%B3%D8%AA-%D9%84%D8%A3%D9%85-%D9%83%D9%84%D8%AB%D9%88%D9%85",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/689ca1a19dc5.html"
-    },
-    {
       "title": "صبي كان لا يملك صوتاً، أصبح يساعد الآخرين على الحديث بطلاقة - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c5m27r08yekwo",
       "category": "محليات",
@@ -518,7 +502,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T05:32:39.918239+00:00",
+      "published": "2026-09-20T05:42:28.035494+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -528,7 +512,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1e8848ed4849.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/116b0b25b169.html"
     }
   ]
 }
