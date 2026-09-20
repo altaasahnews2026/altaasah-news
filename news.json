@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T21:01:14.819492+00:00",
+  "updated_at": "2026-09-20T21:13:33.358894+00:00",
   "items": [
     {
       "title": "بعد الهجوم الأخير.. روسيا تتوعد برد قاسٍ على أوكرانيا",
@@ -16,6 +16,38 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/34be19a82773.html"
+    },
+    {
+      "title": "الإطار التنسيقي يؤكد أهمية الإسراع بحسم شواغر التشكيلة الحكومية",
+      "url": "https://www.alsumaria.tv/news/politics/576571/%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82%D9%8A-%D9%8A%D8%A4%D9%83%D8%AF-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%B9-%D8%A8%D8%AD%D8%B3%D9%85-%D8%B4%D9%88%D8%A7%D8%BA%D8%B1-%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-20T20:50:00+00:00",
+      "image": "./assets/news/60b574165577deb56ca45856.jpg",
+      "original_image": "./assets/news/60b574165577deb56ca45856.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/576571/%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82%D9%8A-%D9%8A%D8%A4%D9%83%D8%AF-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%B9-%D8%A8%D8%AD%D8%B3%D9%85-%D8%B4%D9%88%D8%A7%D8%BA%D8%B1-%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9d2ecda6f9e1.html"
+    },
+    {
+      "title": "العراقيون يخزنون البنزين! الإشراقة أيضاً ضد وزير النفط: ظل يناور إلى ساعة 8",
+      "url": "https://964media.com/718609/",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-20T20:37:42+00:00",
+      "image": "./assets/news/dab848035c8c1e3e63c9038a.jpg",
+      "original_image": "./assets/news/dab848035c8c1e3e63c9038a.jpg",
+      "source_url": "https://964media.com/718609/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/96d4cf2fb47b.html"
     },
     {
       "title": "هاجر خرجت من بئر نينوى.. فرح في الكوير وشكراً للدفاع المدني",
@@ -128,6 +160,22 @@
       "report": true,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/20f428f442f8.html"
+    },
+    {
+      "title": "في نينوى.. طفلة تسقط في بئر والدفاع المدني يتدخل لإنقاذها",
+      "url": "https://www.alsumaria.tv/news/localnews/576567/%D9%81%D9%8A-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D8%B7%D9%81%D9%84%D8%A9-%D8%AA%D8%B3%D9%82%D8%B7-%D9%81%D9%8A-%D8%A8%D8%A6%D8%B1-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%8A%D8%AA%D8%AF%D8%AE%D9%84-%D9%84%D8%A5%D9%86%D9%82%D8%A7%D8%B0%D9%87%D8%A7",
+      "category": "محليات",
+      "region": "نينوى",
+      "published": "2026-09-20T19:03:00+00:00",
+      "image": "./assets/news/91f2e4a4d092433d679866f5.jpg",
+      "original_image": "./assets/news/91f2e4a4d092433d679866f5.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/576567/%D9%81%D9%8A-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D8%B7%D9%81%D9%84%D8%A9-%D8%AA%D8%B3%D9%82%D8%B7-%D9%81%D9%8A-%D8%A8%D8%A6%D8%B1-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%8A%D8%AA%D8%AF%D8%AE%D9%84-%D9%84%D8%A5%D9%86%D9%82%D8%A7%D8%B0%D9%87%D8%A7",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "نينوى",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8d79f6c997ee.html"
     },
     {
       "title": "إدارة ترامب تعتزم فرض عقوبات شاملة على الجنائية الدولية​",
@@ -386,22 +434,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b3d39ad9fa51.html"
     },
     {
-      "title": "الوقف السني ينهي تكليف محمد عبد الوهاب الملا من مهام دائرة البصرة",
-      "url": "https://964media.com/718541/",
-      "category": "محليات",
-      "region": "البصرة",
-      "published": "2026-09-20T16:35:06+00:00",
-      "image": "./assets/news/0bcb6483337aaf9050fb3de5.jpg",
-      "original_image": "./assets/news/0bcb6483337aaf9050fb3de5.jpg",
-      "source_url": "https://964media.com/718541/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "البصرة",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f5a1617bd7d9.html"
-    },
-    {
       "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
       "category": "أمن",
@@ -502,7 +534,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T21:01:15.036401+00:00",
+      "published": "2026-09-20T21:13:33.581331+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -512,7 +544,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0970a01e1b88.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b0a28451c6fd.html"
     }
   ]
 }
