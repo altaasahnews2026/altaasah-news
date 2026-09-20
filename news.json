@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T16:28:27.610601+00:00",
+  "updated_at": "2026-09-20T16:38:45.480764+00:00",
   "items": [
     {
       "title": "أكثر من ألف هجوم سيبراني يستهدف الانتخابات الروسية",
@@ -39,8 +39,8 @@
       "category": "أمن",
       "region": "أربيل",
       "published": "2026-09-20T14:56:40+00:00",
-      "image": "./assets/news/debc1044ea241737994611e4.jpg",
-      "original_image": "./assets/news/debc1044ea241737994611e4.jpg",
+      "image": "./assets/news/246e4103839f39de23678caf.jpg",
+      "original_image": "./assets/news/246e4103839f39de23678caf.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/576536/%D8%AC%D9%87%D8%A7%D8%B2-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%81%D9%8A-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%8A%D9%83%D8%B4%D9%81-%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9-%D8%AF%D9%88%D9%8A-%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D8%B1%D8%A8%D9%8A%D9%84",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -82,6 +82,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a20e4ef7ac41.html"
     },
     {
+      "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-20T16:04:51+00:00",
+      "image": "./assets/news/55cae71619e7c16f0768baf4.jpg",
+      "original_image": "./assets/news/55cae71619e7c16f0768baf4.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ce433fb93e66.html"
+    },
+    {
       "title": "السيد الصدر معلقاً على انسحاب التحالف: نأمل أن لا يكون بداية لتدخلات خارجية بالعراق",
       "url": "https://www.alsumaria.tv/news/politics/576547/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%B5%D8%AF%D8%B1-%D9%85%D8%B9%D9%84%D9%82%D8%A7%D9%8B-%D8%B9%D9%84%D9%89-%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D9%86%D8%A3%D9%85%D9%84-%D8%A3%D9%86-%D9%84%D8%A7-%D9%8A%D9%83%D9%88%D9%86-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D9%84%D8%AA%D8%AF%D8%AE%D9%84%D8%A7%D8%AA-%D8%AE%D8%A7",
       "category": "سياسة",
@@ -103,8 +119,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-20T15:58:58+00:00",
-      "image": "./assets/news/2bd3d9482bd7ec72a71faf3a.png",
-      "original_image": "./assets/news/2bd3d9482bd7ec72a71faf3a.png",
+      "image": "./assets/news/eeacc85d9efe82e374b9b164.png",
+      "original_image": "./assets/news/eeacc85d9efe82e374b9b164.png",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/576546/sports/%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%B6%D8%B1%D8%A8%D8%AA%D9%8A%D9%86-%D9%85%D9%88%D8%AC%D8%B9%D8%AA%D9%8A%D9%86-%D9%85%D8%B9-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D9%88%D8%B7-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%B6%D8%AF-%D8%A3%D8%AA%D9%84%D8%AA",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -178,22 +194,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/50740509c6e8.html"
     },
     {
-      "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-20T15:45:37+00:00",
-      "image": "./assets/news/55cae71619e7c16f0768baf4.jpg",
-      "original_image": "./assets/news/55cae71619e7c16f0768baf4.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5fb242e53ace.html"
-    },
-    {
       "title": "حقيقة تنفيذ السعودية إنزال جوي في صنعاء",
       "url": "https://www.alsumaria.tv/news/international/576541/%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%81%D9%8A-%D8%B5%D9%86%D8%B9%D8%A7%D8%A1",
       "category": "عربي ودولي",
@@ -231,8 +231,8 @@
       "category": "محليات",
       "region": "بغداد",
       "published": "2026-09-20T15:32:20+00:00",
-      "image": "./assets/news/19b29f617f124c9ca78a209d.jpg",
-      "original_image": "./assets/news/19b29f617f124c9ca78a209d.jpg",
+      "image": "./assets/news/945bdef3665126f84a17fb15.jpg",
+      "original_image": "./assets/news/945bdef3665126f84a17fb15.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/576539/%D8%A7%D8%B3%D8%AA%D9%86%D8%AC%D8%AF-%D8%A8%D9%80911-%D9%88%D8%A7%D9%84%D9%82%D9%8A-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D8%AA%D8%B2%D9%8A%D9%87-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -530,27 +530,11 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4562ece63043.html"
     },
     {
-      "title": "كركوك تحتج ضد “منصة عقاري”: غير آمنة وتكشف معلومات المشترين",
-      "url": "https://964media.com/718150/",
-      "category": "أمن",
-      "region": "كركوك",
-      "published": "2026-09-19T10:26:37+00:00",
-      "image": "./assets/news/3c643b962a1753417890142d.jpg",
-      "original_image": "./assets/news/3c643b962a1753417890142d.jpg",
-      "source_url": "https://964media.com/718150/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": true,
-      "report": false,
-      "governorate": "كركوك",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1a0935b991cc.html"
-    },
-    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T16:28:27.863119+00:00",
+      "published": "2026-09-20T16:38:45.713994+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -560,7 +544,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/985d0f6eba4b.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e268187de79a.html"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T16:28:37.979703+00:00",
+  "updated_at": "2026-09-20T16:38:50.923243+00:00",
   "latest": [
     {
       "title": "ولي العهد السعودي يتلقى رسالة من ملك الأردن",
@@ -25,7 +25,7 @@
       "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
       "category": "عراق",
-      "published": "2026-09-20T15:45:37+00:00",
+      "published": "2026-09-20T16:04:51+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران",
@@ -134,15 +134,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-20T16:28:27.863119+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "كركوك تحتج ضد “منصة عقاري”: غير آمنة وتكشف معلومات المشترين",
-      "url": "https://964media.com/718150/",
-      "category": "عراق",
-      "published": "2026-09-19T10:26:37+00:00",
+      "published": "2026-09-20T16:38:45.713994+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -255,6 +247,14 @@
       "url": "https://www.alsumaria.tv/news/security/576539/%D8%A7%D8%B3%D8%AA%D9%86%D8%AC%D8%AF-%D8%A8%D9%80911-%D9%88%D8%A7%D9%84%D9%82%D9%8A-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D8%AA%D8%B2%D9%8A%D9%87-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "category": "عراق",
       "published": "2026-09-20T15:32:20+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "لص يقتحم مقهى بألمانيا ويكتفي بسرقة كعكة وعبوتي آيس كريم",
+      "url": "https://www.alsumaria.tv/news/international/576540/%D9%84%D8%B5-%D9%8A%D9%82%D8%AA%D8%AD%D9%85-%D9%85%D9%82%D9%87%D9%89-%D8%A8%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D9%8A%D9%83%D8%AA%D9%81%D9%8A-%D8%A8%D8%B3%D8%B1%D9%82%D8%A9-%D9%83%D8%B9%D9%83%D8%A9-%D9%88%D8%B9%D8%A8%D9%88%D8%AA%D9%8A-%D8%A2%D9%8A%D8%B3-%D9%83%D8%B1%D9%8A%D9%85",
+      "category": "عراق",
+      "published": "2026-09-20T15:34:06+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -656,7 +656,7 @@
       "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
       "category": "عراق",
-      "published": "2026-09-20T15:45:37+00:00",
+      "published": "2026-09-20T16:04:51+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران",
