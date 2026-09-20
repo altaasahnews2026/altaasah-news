@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T21:13:33.358894+00:00",
+  "updated_at": "2026-09-20T21:26:00.074870+00:00",
   "items": [
     {
       "title": "بعد الهجوم الأخير.. روسيا تتوعد برد قاسٍ على أوكرانيا",
@@ -18,13 +18,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/34be19a82773.html"
     },
     {
+      "title": "الأنبار تكشف تفاصيل ما حدث للصهاريج في منفذ الوليد الحدودي",
+      "url": "https://www.alsumaria.tv/news/localnews/576572/%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7%D8%B1-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%85%D8%A7-%D8%AD%D8%AF%D8%AB-%D9%84%D9%84%D8%B5%D9%87%D8%A7%D8%B1%D9%8A%D8%AC-%D9%81%D9%8A-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D9%88%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A",
+      "category": "محليات",
+      "region": "الأنبار",
+      "published": "2026-09-20T21:15:00+00:00",
+      "image": "./assets/news/42f3b6df73a8907952f40c21.jpg",
+      "original_image": "./assets/news/42f3b6df73a8907952f40c21.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/576572/%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7%D8%B1-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%85%D8%A7-%D8%AD%D8%AF%D8%AB-%D9%84%D9%84%D8%B5%D9%87%D8%A7%D8%B1%D9%8A%D8%AC-%D9%81%D9%8A-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D9%88%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "الأنبار",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4e7e6651dac0.html"
+    },
+    {
       "title": "الإطار التنسيقي يؤكد أهمية الإسراع بحسم شواغر التشكيلة الحكومية",
       "url": "https://www.alsumaria.tv/news/politics/576571/%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82%D9%8A-%D9%8A%D8%A4%D9%83%D8%AF-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%B9-%D8%A8%D8%AD%D8%B3%D9%85-%D8%B4%D9%88%D8%A7%D8%BA%D8%B1-%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9",
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-20T20:50:00+00:00",
-      "image": "./assets/news/60b574165577deb56ca45856.jpg",
-      "original_image": "./assets/news/60b574165577deb56ca45856.jpg",
+      "image": "./assets/news/383b4098e91e0a8fd8c63a41.jpg",
+      "original_image": "./assets/news/383b4098e91e0a8fd8c63a41.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/576571/%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82%D9%8A-%D9%8A%D8%A4%D9%83%D8%AF-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%B9-%D8%A8%D8%AD%D8%B3%D9%85-%D8%B4%D9%88%D8%A7%D8%BA%D8%B1-%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -71,8 +87,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-20T20:15:55+00:00",
-      "image": "./assets/news/32d46200e4da099dc07b306c.jpg",
-      "original_image": "./assets/news/32d46200e4da099dc07b306c.jpg",
+      "image": "./assets/news/cdce6400da5eb61af167f4aa.jpg",
+      "original_image": "./assets/news/cdce6400da5eb61af167f4aa.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576570/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%D9%81%D9%8A-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D8%AF%D8%A1%D8%A3-%D9%85%D9%86-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -160,22 +176,6 @@
       "report": true,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/20f428f442f8.html"
-    },
-    {
-      "title": "في نينوى.. طفلة تسقط في بئر والدفاع المدني يتدخل لإنقاذها",
-      "url": "https://www.alsumaria.tv/news/localnews/576567/%D9%81%D9%8A-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D8%B7%D9%81%D9%84%D8%A9-%D8%AA%D8%B3%D9%82%D8%B7-%D9%81%D9%8A-%D8%A8%D8%A6%D8%B1-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%8A%D8%AA%D8%AF%D8%AE%D9%84-%D9%84%D8%A5%D9%86%D9%82%D8%A7%D8%B0%D9%87%D8%A7",
-      "category": "محليات",
-      "region": "نينوى",
-      "published": "2026-09-20T19:03:00+00:00",
-      "image": "./assets/news/91f2e4a4d092433d679866f5.jpg",
-      "original_image": "./assets/news/91f2e4a4d092433d679866f5.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/576567/%D9%81%D9%8A-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D8%B7%D9%81%D9%84%D8%A9-%D8%AA%D8%B3%D9%82%D8%B7-%D9%81%D9%8A-%D8%A8%D8%A6%D8%B1-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%8A%D8%AA%D8%AF%D8%AE%D9%84-%D9%84%D8%A5%D9%86%D9%82%D8%A7%D8%B0%D9%87%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "نينوى",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8d79f6c997ee.html"
     },
     {
       "title": "إدارة ترامب تعتزم فرض عقوبات شاملة على الجنائية الدولية​",
@@ -418,22 +418,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/130b3d195db3.html"
     },
     {
-      "title": "كوندي يعيش سابقة مع برشلونة.. 3 مباريات متتالية خارج الحسابات",
-      "url": "https://www.alsumaria.tv/Entertainment-News/576551/sports/%D9%83%D9%88%D9%86%D8%AF%D9%8A-%D9%8A%D8%B9%D9%8A%D8%B4-%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D9%85%D8%B9-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-3-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%AA%D8%AA%D8%A7%D9%84%D9%8A%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-20T16:38:07+00:00",
-      "image": "./assets/news/953e084521f62e842ee4e34f.webp",
-      "original_image": "./assets/news/953e084521f62e842ee4e34f.webp",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/576551/sports/%D9%83%D9%88%D9%86%D8%AF%D9%8A-%D9%8A%D8%B9%D9%8A%D8%B4-%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D9%85%D8%B9-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-3-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%AA%D8%AA%D8%A7%D9%84%D9%8A%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b3d39ad9fa51.html"
-    },
-    {
       "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
       "category": "أمن",
@@ -534,7 +518,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T21:13:33.581331+00:00",
+      "published": "2026-09-20T21:26:00.256498+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -544,7 +528,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b0a28451c6fd.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ea82eed10602.html"
     }
   ]
 }
