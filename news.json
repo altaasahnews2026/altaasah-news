@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T17:16:30.849313+00:00",
+  "updated_at": "2026-09-20T17:27:57.153391+00:00",
   "items": [
     {
       "title": "أكثر من ألف هجوم سيبراني يستهدف الانتخابات الروسية",
@@ -34,20 +34,20 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bbfaa21b4934.html"
     },
     {
-      "title": "جهاز مكافحة الإرهاب في كردستان يكشف طبيعة دوي الانفجارات في اربيل",
-      "url": "https://www.alsumaria.tv/news/security/576536/%D8%AC%D9%87%D8%A7%D8%B2-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%81%D9%8A-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%8A%D9%83%D8%B4%D9%81-%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9-%D8%AF%D9%88%D9%8A-%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D8%B1%D8%A8%D9%8A%D9%84",
-      "category": "أمن",
-      "region": "أربيل",
-      "published": "2026-09-20T14:56:40+00:00",
-      "image": "./assets/news/debc1044ea241737994611e4.jpg",
-      "original_image": "./assets/news/debc1044ea241737994611e4.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/576536/%D8%AC%D9%87%D8%A7%D8%B2-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%81%D9%8A-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%8A%D9%83%D8%B4%D9%81-%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9-%D8%AF%D9%88%D9%8A-%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D8%B1%D8%A8%D9%8A%D9%84",
+      "title": "الزيدي يتحدث عن المرحلة الراهنة: العراق يواجه تحديات اقتصادية استثنائية",
+      "url": "https://www.alsumaria.tv/news/politics/576558/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%B1%D8%A7%D9%87%D9%86%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-20T17:19:00+00:00",
+      "image": "./assets/news/1c0dd5b5efee1818ca3938c1.jpg",
+      "original_image": "./assets/news/1c0dd5b5efee1818ca3938c1.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/576558/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%B1%D8%A7%D9%87%D9%86%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
-      "breaking": true,
+      "breaking": false,
       "kirkuk": false,
       "report": false,
-      "governorate": "أربيل",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/723abd5e66b6.html"
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7415b3ef2458.html"
     },
     {
       "title": "مركز معلومات يكشف عن 97 عملية عبور لمضيق هرمز",
@@ -80,6 +80,22 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8600c25cd577.html"
+    },
+    {
+      "title": "مجلس النواب يرفع جلسته إلى يوم غد الاثنين",
+      "url": "https://www.alsumaria.tv/news/politics/576555/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%8A%D8%B1%D9%81%D8%B9-%D8%AC%D9%84%D8%B3%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D9%8A%D9%88%D9%85-%D8%BA%D8%AF-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-20T16:50:57+00:00",
+      "image": "./assets/news/5a2031fd855c2639247f566d.jpg",
+      "original_image": "./assets/news/5a2031fd855c2639247f566d.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/576555/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%8A%D8%B1%D9%81%D8%B9-%D8%AC%D9%84%D8%B3%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D9%8A%D9%88%D9%85-%D8%BA%D8%AF-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2285e278f489.html"
     },
     {
       "title": "مورينيو يهنئ لجنة التحكيم بعد خسارة ريال مدريد: اتركوا لنا فرصة للمنافسة!",
@@ -160,6 +176,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9eefa17561a5.html"
+    },
+    {
+      "title": "الوقف السني ينهي تكليف محمد عبد الوهاب الملا من مهام دائرة البصرة",
+      "url": "https://964media.com/718541/",
+      "category": "محليات",
+      "region": "البصرة",
+      "published": "2026-09-20T16:35:06+00:00",
+      "image": "./assets/news/0bcb6483337aaf9050fb3de5.jpg",
+      "original_image": "./assets/news/0bcb6483337aaf9050fb3de5.jpg",
+      "source_url": "https://964media.com/718541/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "البصرة",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f5a1617bd7d9.html"
     },
     {
       "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
@@ -518,7 +550,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-20T17:16:31.040285+00:00",
+      "published": "2026-09-20T17:27:57.346500+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -528,7 +560,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fc9b1cba138c.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2e46034a85ad.html"
     }
   ]
 }
