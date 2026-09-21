@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-21T19:16:01.145323+00:00",
+  "updated_at": "2026-09-21T19:28:26.188631+00:00",
   "items": [
+    {
+      "title": "إصابة عامل نتيجة تسرب غاز الكلور في بغداد",
+      "url": "https://www.alsumaria.tv/news/localnews/576667/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B9%D8%A7%D9%85%D9%84-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D8%AA%D8%B3%D8%B1%D8%A8-%D8%BA%D8%A7%D8%B2-%D8%A7%D9%84%D9%83%D9%84%D9%88%D8%B1-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "category": "محليات",
+      "region": "بغداد",
+      "published": "2026-09-21T19:18:54+00:00",
+      "image": "./assets/news/0c9c67f0f31f1da4e84c0bd5.jpg",
+      "original_image": "./assets/news/0c9c67f0f31f1da4e84c0bd5.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/576667/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B9%D8%A7%D9%85%D9%84-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D8%AA%D8%B3%D8%B1%D8%A8-%D8%BA%D8%A7%D8%B2-%D8%A7%D9%84%D9%83%D9%84%D9%88%D8%B1-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0245e6eaa0ed.html"
+    },
     {
       "title": "عقود الخام الأمريكي تبلغ 95.78 دولارا للبرميل",
       "url": "https://www.alsumaria.tv/news/economy/576666/%D8%B9%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%AE%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%AA%D8%A8%D9%84%D8%BA-9578-%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7-%D9%84%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84",
@@ -368,22 +384,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/17eaeb6ef17f.html"
-    },
-    {
-      "title": "شاهد بالفيديو.. المنتخب العراقي يستعد لخليجي 27",
-      "url": "https://www.alsumaria.tv/Entertainment-News/576647/sports/%D8%B4%D8%A7%D9%87%D8%AF-%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-21T16:01:32+00:00",
-      "image": "./assets/news/0311f6a2900903dab05ae492.jpg",
-      "original_image": "./assets/news/0311f6a2900903dab05ae492.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/576647/sports/%D8%B4%D8%A7%D9%87%D8%AF-%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2964b6e317ca.html"
     },
     {
       "title": "اعتقال “ساحر” دليفري في بغداد",
