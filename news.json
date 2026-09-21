@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T09:27:34.380470+00:00",
+  "updated_at": "2026-09-21T09:39:36.562898+00:00",
   "items": [
     {
       "title": "انفجارات جديدة في سوريا",
@@ -48,6 +48,38 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e2f0bff4bd39.html"
+    },
+    {
+      "title": "صحيفة تكشف تحرّكات داعشية قرب الحدود العراقية - السورية",
+      "url": "https://www.alsumaria.tv/news/security/576594/%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D8%AD%D8%B1%D9%91%D9%83%D8%A7%D8%AA-%D8%AF%D8%A7%D8%B9%D8%B4%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-21T09:28:30+00:00",
+      "image": "./assets/news/cf540295ccbb65d35fc8855e.webp",
+      "original_image": "./assets/news/cf540295ccbb65d35fc8855e.webp",
+      "source_url": "https://www.alsumaria.tv/news/security/576594/%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D8%AD%D8%B1%D9%91%D9%83%D8%A7%D8%AA-%D8%AF%D8%A7%D8%B9%D8%B4%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/384d17ed5191.html"
+    },
+    {
+      "title": "إيران تتوعد بأسلحة وأهداف جديدة، وترامب يبدي انفتاحاً على لقاء بزشكيان وسط تراجع الملاحة في هرمز - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm2kw2pqq219o",
+      "category": "رياضة",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-21T09:21:12+00:00",
+      "image": "./assets/news/b46503b5046ab9e87ff25e20.jpg",
+      "original_image": "./assets/news/b46503b5046ab9e87ff25e20.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cm2kw2pqq219o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/17beee87ea5a.html"
     },
     {
       "title": "الحوثيون يتهمون السعودية بشنّ 28 غارة خلال 24 ساعة، ورئيس المخابرات الأمريكية في زيارة \"نادرة\" للقاهرة - شفق نيوز..",
@@ -135,8 +167,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-21T08:40:08+00:00",
-      "image": "./assets/news/2cff2a2941693a1bda6bcaf1.jpg",
-      "original_image": "./assets/news/2cff2a2941693a1bda6bcaf1.jpg",
+      "image": "./assets/news/fa5fd376e80d4ef0b466af54.jpg",
+      "original_image": "./assets/news/fa5fd376e80d4ef0b466af54.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/576590/%D9%86%D9%8A%D8%AC%D9%8A%D8%B1%D9%81%D8%A7%D9%86-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D9%84%D8%A7-%D9%82%D9%88%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D9%85%D8%B8%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%B4%D9%85%D8%B1%D9%83%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A2%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -210,22 +242,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f49976a16e25.html"
     },
     {
-      "title": "إيران تتوعد بأسلحة وأهداف جديدة، وترامب يبدي انفتاحاً على لقاء بزشكيان وسط تراجع الملاحة في هرمز - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm2kw2pqq219o",
-      "category": "رياضة",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-21T08:05:02+00:00",
-      "image": "./assets/news/b46503b5046ab9e87ff25e20.jpg",
-      "original_image": "./assets/news/b46503b5046ab9e87ff25e20.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cm2kw2pqq219o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d789fdff346a.html"
-    },
-    {
       "title": "الحوزة العلمية في النجف الأشرف تعلن الحداد وتعطل دروسها",
       "url": "https://www.alsumaria.tv/news/localnews/576586/%D8%A7%D9%84%D8%AD%D9%88%D8%B2%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%A7%D9%84%D8%A3%D8%B4%D8%B1%D9%81-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AF-%D9%88%D8%AA%D8%B9%D8%B7%D9%84-%D8%AF%D8%B1%D9%88%D8%B3%D9%87%D8%A7",
       "category": "محليات",
@@ -247,8 +263,8 @@
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-21T07:51:03+00:00",
-      "image": "./assets/news/b95719c32e5bb3d2c257f573.jpg",
-      "original_image": "./assets/news/b95719c32e5bb3d2c257f573.jpg",
+      "image": "./assets/news/56be9c04b6bee04c66f41c46.jpg",
+      "original_image": "./assets/news/56be9c04b6bee04c66f41c46.jpg",
       "source_url": "https://www.alsumaria.tv/news/economy/576585/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B3%D8%AA%D8%AD%D9%88%D8%B0-%D8%B9%D9%84%D9%89-35-%D9%85%D9%86-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D8%A9-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -327,8 +343,8 @@
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-21T06:34:26+00:00",
-      "image": "./assets/news/26378b1308184b3d439b1478.jpg",
-      "original_image": "./assets/news/26378b1308184b3d439b1478.jpg",
+      "image": "./assets/news/22679dfaacde77c98514396a.jpg",
+      "original_image": "./assets/news/22679dfaacde77c98514396a.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/576579/%D8%B7%D8%B1%D8%AD-%D9%87%D9%88%D8%B1-%D8%A7%D9%84%D8%AF%D9%84%D9%85%D8%AC-%D9%81%D8%B1%D8%B5%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -386,22 +402,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/640f5cc8378f.html"
     },
     {
-      "title": "لقاء مرتقب يجمع رئيسة فنزويلا مع ترامب في نيويورك",
-      "url": "https://www.alsumaria.tv/news/international/576574/%D9%84%D9%82%D8%A7%D8%A1-%D9%85%D8%B1%D8%AA%D9%82%D8%A8-%D9%8A%D8%AC%D9%85%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7-%D9%85%D8%B9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-20T22:25:00+00:00",
-      "image": "./assets/news/28cbeb6cb23268eaf264a211.webp",
-      "original_image": "./assets/news/28cbeb6cb23268eaf264a211.webp",
-      "source_url": "https://www.alsumaria.tv/news/international/576574/%D9%84%D9%82%D8%A7%D8%A1-%D9%85%D8%B1%D8%AA%D9%82%D8%A8-%D9%8A%D8%AC%D9%85%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7-%D9%85%D8%B9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4281e420ba1d.html"
-    },
-    {
       "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
       "category": "أمن",
@@ -454,7 +454,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-21T09:27:34.594529+00:00",
+      "published": "2026-09-21T09:39:36.789033+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -464,7 +464,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1f435dce658d.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8eff14302202.html"
     }
   ]
 }
