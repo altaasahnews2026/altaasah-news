@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-09-21T11:21:14.651567+00:00",
+  "updated_at": "2026-09-21T11:35:25.627392+00:00",
   "items": [
+    {
+      "title": "رئاسة إقليم كردستان: التحالف الدولي لن يبقى بعد 30 أيلول",
+      "url": "https://www.alsumaria.tv/news/security/576606/%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A5%D9%82%D9%84%D9%8A%D9%85-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%86-%D9%8A%D8%A8%D9%82%D9%89-%D8%A8%D8%B9%D8%AF-30-%D8%A3%D9%8A%D9%84%D9%88%D9%84",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-21T11:21:28+00:00",
+      "image": "./assets/news/eb79a544cc320f32001ad34d.webp",
+      "original_image": "./assets/news/eb79a544cc320f32001ad34d.webp",
+      "source_url": "https://www.alsumaria.tv/news/security/576606/%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A5%D9%82%D9%84%D9%8A%D9%85-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%86-%D9%8A%D8%A8%D9%82%D9%89-%D8%A8%D8%B9%D8%AF-30-%D8%A3%D9%8A%D9%84%D9%88%D9%84",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/75dc11356dcf.html"
+    },
+    {
+      "title": "ما الأطعمة التي يجب عليك تخزينها تحسباً لحالات الطوارئ؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c6y4z2xkp2y7o",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-21T11:08:23+00:00",
+      "image": "./assets/news/3d956b172971c9fe13e62972.jpg",
+      "original_image": "./assets/news/3d956b172971c9fe13e62972.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c6y4z2xkp2y7o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b9ca0633afd2.html"
+    },
     {
       "title": "جدل الجندر في العراق يعود.. استبيان مشبوه يروج ومنظمات محلية متورطة!",
       "url": "https://www.alsumaria.tv/news/localnews/576605/%D8%AC%D8%AF%D9%84-%D8%A7%D9%84%D8%AC%D9%86%D8%AF%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B9%D9%88%D8%AF-%D8%A7%D8%B3%D8%AA%D8%A8%D9%8A%D8%A7%D9%86-%D9%85%D8%B4%D8%A8%D9%88%D9%87-%D9%8A%D8%B1%D9%88%D8%AC-%D9%88%D9%85%D9%86%D8%B8%D9%85%D8%A7%D8%AA-%D9%85%D8%AD%D9%84%D9%8A%D8%A9-%D9%85%D8%AA%D9%88%D8%B1%D8%B7%D8%A9",
@@ -16,22 +48,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2205c1dc167f.html"
-    },
-    {
-      "title": "ما الأطعمة التي يجب عليك تخزينها تحسباً لحالات الطوارئ؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c6y4z2xkp2y7o",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-21T10:59:56+00:00",
-      "image": "./assets/news/3d956b172971c9fe13e62972.jpg",
-      "original_image": "./assets/news/3d956b172971c9fe13e62972.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c6y4z2xkp2y7o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/41af62bc6544.html"
     },
     {
       "title": "تقرير: فصائل سنجار الأيزيدية تتجه لتسليم سلاحها إلى الدولة العراقية",
@@ -450,22 +466,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f49976a16e25.html"
     },
     {
-      "title": "الحوزة العلمية في النجف الأشرف تعلن الحداد وتعطل دروسها",
-      "url": "https://www.alsumaria.tv/news/localnews/576586/%D8%A7%D9%84%D8%AD%D9%88%D8%B2%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%A7%D9%84%D8%A3%D8%B4%D8%B1%D9%81-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AF-%D9%88%D8%AA%D8%B9%D8%B7%D9%84-%D8%AF%D8%B1%D9%88%D8%B3%D9%87%D8%A7",
-      "category": "محليات",
-      "region": "النجف",
-      "published": "2026-09-21T08:03:54+00:00",
-      "image": "./assets/news/6e681730861028714d7bf7eb.jpg",
-      "original_image": "./assets/news/6e681730861028714d7bf7eb.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/576586/%D8%A7%D9%84%D8%AD%D9%88%D8%B2%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%A7%D9%84%D8%A3%D8%B4%D8%B1%D9%81-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AF-%D9%88%D8%AA%D8%B9%D8%B7%D9%84-%D8%AF%D8%B1%D9%88%D8%B3%D9%87%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "النجف",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d0891278d871.html"
-    },
-    {
       "title": "أربع إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
       "category": "أمن",
@@ -534,7 +534,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-21T11:21:14.867620+00:00",
+      "published": "2026-09-21T11:35:25.844466+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -544,7 +544,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b813176a3253.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/04e0623a4da4.html"
     }
   ]
 }
