@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-21T08:38:41.119467+00:00",
+  "updated_at": "2026-09-21T08:50:09.864007+00:00",
   "items": [
+    {
+      "title": "نيجيرفان بارزاني: لا قوة خارج مظلة البيشمركة بعد الآن – عاجل",
+      "url": "https://www.alsumaria.tv/news/security/576590/%D9%86%D9%8A%D8%AC%D9%8A%D8%B1%D9%81%D8%A7%D9%86-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D9%84%D8%A7-%D9%82%D9%88%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D9%85%D8%B8%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%B4%D9%85%D8%B1%D9%83%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A2%D9%86-%E2%80%93-%D8%B9%D8%A7%D8%AC%D9%84",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-21T08:40:08+00:00",
+      "image": "./assets/news/2cff2a2941693a1bda6bcaf1.jpg",
+      "original_image": "./assets/news/2cff2a2941693a1bda6bcaf1.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/576590/%D9%86%D9%8A%D8%AC%D9%8A%D8%B1%D9%81%D8%A7%D9%86-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D9%84%D8%A7-%D9%82%D9%88%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D9%85%D8%B8%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%B4%D9%85%D8%B1%D9%83%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A2%D9%86-%E2%80%93-%D8%B9%D8%A7%D8%AC%D9%84",
+      "source_name": "السومرية نيوز",
+      "breaking": true,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/20247a302fc5.html"
+    },
     {
       "title": "انفجارات جديدة في سوريا",
       "url": "https://www.alsumaria.tv/news/international/576584/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
@@ -48,6 +64,38 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e2f0bff4bd39.html"
+    },
+    {
+      "title": "موت مبكر للسيد حسن نصرالله.. أسرار جديدة عن عملية البيجر",
+      "url": "https://www.alsumaria.tv/news/international/576589/%D9%85%D9%88%D8%AA-%D9%85%D8%A8%D9%83%D8%B1-%D9%84%D9%84%D8%B3%D9%8A%D8%AF-%D8%AD%D8%B3%D9%86-%D9%86%D8%B5%D8%B1%D8%A7%D9%84%D9%84%D9%87-%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D9%86-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%AC%D8%B1",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-21T08:35:30+00:00",
+      "image": "./assets/news/8e098609153cfbcee76d951a.jpg",
+      "original_image": "./assets/news/8e098609153cfbcee76d951a.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/576589/%D9%85%D9%88%D8%AA-%D9%85%D8%A8%D9%83%D8%B1-%D9%84%D9%84%D8%B3%D9%8A%D8%AF-%D8%AD%D8%B3%D9%86-%D9%86%D8%B5%D8%B1%D8%A7%D9%84%D9%84%D9%87-%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D9%86-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%AC%D8%B1",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f133efee2ea6.html"
+    },
+    {
+      "title": "أسعار صرف الدولار في بغداد وأربيل والبصرة اليوم الاثنين",
+      "url": "https://964media.com/718704/",
+      "category": "اقتصاد",
+      "region": "بغداد",
+      "published": "2026-09-21T08:32:00+00:00",
+      "image": "./assets/news/ed8de31c6f2b94aa73595e83.jpg",
+      "original_image": "./assets/news/ed8de31c6f2b94aa73595e83.jpg",
+      "source_url": "https://964media.com/718704/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ce3d4d9afab2.html"
     },
     {
       "title": "السيد السيستاني يعزي برحيل المرجع الكبير السيد موسى الشبيري الزنجاني",
@@ -338,38 +386,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9d2ecda6f9e1.html"
     },
     {
-      "title": "إيران تنفي إلغاء الرحلات الجوية مع العراق بدءأ من الثلاثاء",
-      "url": "https://www.alsumaria.tv/news/international/576570/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%D9%81%D9%8A-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D8%AF%D8%A1%D8%A3-%D9%85%D9%86-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-20T20:15:55+00:00",
-      "image": "./assets/news/8a7d6a1050011d4ae67361ba.jpg",
-      "original_image": "./assets/news/8a7d6a1050011d4ae67361ba.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/576570/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%D9%81%D9%8A-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D8%AF%D8%A1%D8%A3-%D9%85%D9%86-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0439606ffbe7.html"
-    },
-    {
-      "title": "زيلينسكي يتحدث عن تغييرات كبيرة بعد لقاء ترامب المرتقب",
-      "url": "https://www.alsumaria.tv/news/international/576569/%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%84%D9%82%D8%A7%D8%A1-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%82%D8%A8",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-20T20:11:00+00:00",
-      "image": "./assets/news/7e673c2245933ef2d263a19a.jpg",
-      "original_image": "./assets/news/7e673c2245933ef2d263a19a.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/576569/%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%84%D9%82%D8%A7%D8%A1-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%82%D8%A8",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/986ab38c7390.html"
-    },
-    {
       "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
       "category": "أمن",
@@ -438,7 +454,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-21T08:38:41.341098+00:00",
+      "published": "2026-09-21T08:50:10.074184+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -448,7 +464,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/25493b90600a.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/82dd540465dc.html"
     }
   ]
 }
