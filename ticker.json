@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T09:12:55.500459+00:00",
+  "updated_at": "2026-09-21T09:27:39.179799+00:00",
   "latest": [
     {
       "title": "السعودية: وفاة مقيم وإصابة اثنين بشظايا مسيَّرة في الطائف",
@@ -36,7 +36,7 @@
       "title": "الحوثيون يتهمون السعودية بشنّ 28 غارة خلال 24 ساعة، ورئيس المخابرات الأمريكية في زيارة \"نادرة\" للقاهرة - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
       "category": "عراق",
-      "published": "2026-09-21T05:46:01+00:00",
+      "published": "2026-09-21T09:18:57+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"
@@ -127,7 +127,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-21T09:12:50.801652+00:00",
+      "published": "2026-09-21T09:27:34.594529+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -144,14 +144,6 @@
       "url": "https://964media.com/718423/",
       "category": "عراق",
       "published": "2026-09-20T10:10:50+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "وفاة مرجع ديني في مدينة قم",
-      "url": "https://www.alsumaria.tv/news/localnews/576573/%D9%88%D9%81%D8%A7%D8%A9-%D9%85%D8%B1%D8%AC%D8%B9-%D8%AF%D9%8A%D9%86%D9%8A-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%82%D9%85",
-      "category": "عراق",
-      "published": "2026-09-20T21:33:31+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -256,6 +248,14 @@
       "url": "https://www.alsumaria.tv/news/international/576591/%D8%AF%D8%A8%D9%8A-%D8%AA%D9%86%D9%83%D8%B3-%D8%A3%D8%B9%D9%84%D8%A7%D9%85%D9%87%D8%A7-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%8A%D9%86%D8%B9%D9%89-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B1%D8%A7%D8%B4%D8%AF-%D8%A2%D9%84-%D9%85%D9%83%D8%AA%D9%88%D9%85",
       "category": "عراق",
       "published": "2026-09-21T08:52:59+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "ما قصة الجثث التسع التي عثرت عليها الشرطة في جنوب أفريقيا؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqgl75rd5xy7o",
+      "category": "عراق",
+      "published": "2026-09-21T08:53:13+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -666,7 +666,7 @@
       "title": "الحوثيون يتهمون السعودية بشنّ 28 غارة خلال 24 ساعة، ورئيس المخابرات الأمريكية في زيارة \"نادرة\" للقاهرة - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
       "category": "عراق",
-      "published": "2026-09-21T05:46:01+00:00",
+      "published": "2026-09-21T09:18:57+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"
