@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-09-21T17:19:30.148960+00:00",
+  "updated_at": "2026-09-21T17:31:07.149461+00:00",
   "items": [
+    {
+      "title": "قد لا تحتاج إلى كلمة مرور.. جسمك نفسه قد يصبح مفتاح الدخول",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/576658/%D9%82%D8%AF-%D9%84%D8%A7-%D8%AA%D8%AD%D8%AA%D8%A7%D8%AC-%D8%A5%D9%84%D9%89-%D9%83%D9%84%D9%85%D8%A9-%D9%85%D8%B1%D9%88%D8%B1-%D8%AC%D8%B3%D9%85%D9%83-%D9%86%D9%81%D8%B3%D9%87-%D9%82%D8%AF-%D9%8A%D8%B5%D8%A8%D8%AD-%D9%85%D9%81%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-21T17:18:18+00:00",
+      "image": "./assets/news/a0314f9d3978882d3766d94c.webp",
+      "original_image": "./assets/news/a0314f9d3978882d3766d94c.webp",
+      "source_url": "https://www.alsumaria.tv/news/miscellaneous/576658/%D9%82%D8%AF-%D9%84%D8%A7-%D8%AA%D8%AD%D8%AA%D8%A7%D8%AC-%D8%A5%D9%84%D9%89-%D9%83%D9%84%D9%85%D8%A9-%D9%85%D8%B1%D9%88%D8%B1-%D8%AC%D8%B3%D9%85%D9%83-%D9%86%D9%81%D8%B3%D9%87-%D9%82%D8%AF-%D9%8A%D8%B5%D8%A8%D8%AD-%D9%85%D9%81%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b7b29d79166b.html"
+    },
+    {
+      "title": "إيران تتسلم 159 مداناً من العراق",
+      "url": "https://www.alsumaria.tv/news/international/576659/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AA%D8%B3%D9%84%D9%85-159-%D9%85%D8%AF%D8%A7%D9%86%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-21T17:15:21+00:00",
+      "image": "./assets/news/48c4062811d43af93f1ffaf9.jpg",
+      "original_image": "./assets/news/48c4062811d43af93f1ffaf9.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/576659/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AA%D8%B3%D9%84%D9%85-159-%D9%85%D8%AF%D8%A7%D9%86%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/12c8b1b82815.html"
+    },
     {
       "title": "عمى الوجوه: لم أميّز وجه حبيبي.. وهكذا اكتشفت إصابتي بالمرض - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c6vgyzj1ek3ko",
@@ -368,38 +400,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5d1b37b5e6b0.html"
-    },
-    {
-      "title": "ما الذي تريده أمريكا من اليمن والحوثيين.. السعودية ضمن الحديث",
-      "url": "https://www.alsumaria.tv/news/international/576639/%D9%85%D8%A7-%D8%A7%D9%84%D8%B0%D9%8A-%D8%AA%D8%B1%D9%8A%D8%AF%D9%87-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%B6%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-21T15:23:41+00:00",
-      "image": "./assets/news/c9814749a5103152f6e8ba9b.jpg",
-      "original_image": "./assets/news/c9814749a5103152f6e8ba9b.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/576639/%D9%85%D8%A7-%D8%A7%D9%84%D8%B0%D9%8A-%D8%AA%D8%B1%D9%8A%D8%AF%D9%87-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%B6%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7923da7cfd98.html"
-    },
-    {
-      "title": "بغداد تستكمل متطلبات عقد اجتماع وزراء خارجية التعاون الإسلامي الشهر المقبل",
-      "url": "https://www.alsumaria.tv/news/politics/576638/%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D8%B3%D8%AA%D9%83%D9%85%D9%84-%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D8%B9%D9%82%D8%AF-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A-%D8%A7%D9%84%D8%B4%D9%87%D8%B1-%D8%A7%D9%84",
-      "category": "سياسة",
-      "region": "بغداد",
-      "published": "2026-09-21T15:18:36+00:00",
-      "image": "./assets/news/a72750729842b6dffec6b47b.jpg",
-      "original_image": "./assets/news/a72750729842b6dffec6b47b.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/576638/%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D8%B3%D8%AA%D9%83%D9%85%D9%84-%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D8%B9%D9%82%D8%AF-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A-%D8%A7%D9%84%D8%B4%D9%87%D8%B1-%D8%A7%D9%84",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7a1869c30b55.html"
     },
     {
       "title": "ثلاث مؤسسات إعلامية أمريكية تعتزم مقاضاة إدارة ترامب بعد منعها من دخول البيت الأبيض - شفق نيوز..",
