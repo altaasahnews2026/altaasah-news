@@ -25,6 +25,9 @@ jobs:
       - name: Install Python packages
         run: python -m pip install --upgrade pip && pip install Pillow requests
 
+      - name: Prepare official logo
+        run: python scripts/prepare_logo.py
+
       - name: Fetch Iraq and dedicated Kirkuk news
         run: python scripts/update_news.py
 
