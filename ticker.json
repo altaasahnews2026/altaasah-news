@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T05:21:39.200823+00:00",
+  "updated_at": "2026-09-21T05:35:27.190114+00:00",
   "latest": [
     {
       "title": "إطلاق اسم مساعد بن عبد الرحمن على الجامعة السعودية الإلكترونية",
@@ -57,6 +57,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cqy7z1r3xgego",
       "category": "عراق",
       "published": "2026-09-20T11:00:25+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "4 إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
+      "category": "عراق",
+      "published": "2026-09-21T05:00:33+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -171,7 +179,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-21T05:21:35.616547+00:00",
+      "published": "2026-09-21T05:35:22.361056+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -184,26 +192,10 @@
       "watch_topics": []
     },
     {
-      "title": "المغرب يطوي صفحة \"الساعة الإضافية\" بعد سنوات من الجدل، وعودة غرينيتش حديث مواقع التواصل - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/crq5x9vyz9q0o",
-      "category": "عراق",
-      "published": "2026-09-20T09:56:40+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "كركوك تخصص أول محطة وقود للنساء حصراً (وثيقة)",
       "url": "https://964media.com/718423/",
       "category": "عراق",
       "published": "2026-09-20T10:10:50+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الإجهاد المائي في العراق يصل إلى 68%.. الصحة العالمية تحذر",
-      "url": "https://964media.com/718527/",
-      "category": "عراق",
-      "published": "2026-09-20T16:54:22+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -268,6 +260,14 @@
       "url": "https://964media.com/718625/",
       "category": "عراق",
       "published": "2026-09-20T20:24:01+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "العراقيون يخزنون البنزين! الإشراقة أيضاً ضد وزير النفط: ظل يناور إلى ساعة 8",
+      "url": "https://964media.com/718609/",
+      "category": "عراق",
+      "published": "2026-09-20T20:37:42+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -697,6 +697,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cqy7z1r3xgego",
       "category": "عراق",
       "published": "2026-09-20T11:00:25+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "4 إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
+      "category": "عراق",
+      "published": "2026-09-21T05:00:33+00:00",
       "breaking": true,
       "watch_topics": []
     },

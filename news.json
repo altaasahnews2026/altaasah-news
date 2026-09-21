@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T05:21:35.393474+00:00",
+  "updated_at": "2026-09-21T05:35:22.186772+00:00",
   "items": [
     {
       "title": "سوريا.. انفجار في ريف حلب الجنوبي",
@@ -32,6 +32,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/61f8f80afe64.html"
+    },
+    {
+      "title": "4 إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-21T05:00:33+00:00",
+      "image": "./assets/news/2fce9a07799ed43c07b0e9f9.jpg",
+      "original_image": "./assets/news/2fce9a07799ed43c07b0e9f9.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/903c0d2cb488.html"
     },
     {
       "title": "الحوثيون يتهمون السعودية بشنَّ 28 غارة خلال 24 ساعة، ورئيس المخابرات الأمريكية بزيارة \"نادرة\" للقاهرة - شفق نيوز..",
@@ -386,22 +402,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5d1eb9e5b67a.html"
     },
     {
-      "title": "الإجهاد المائي في العراق يصل إلى 68%.. الصحة العالمية تحذر",
-      "url": "https://964media.com/718527/",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-20T16:54:22+00:00",
-      "image": "./assets/news/894cd7c8e9baf21ef20f7273.jpg",
-      "original_image": "./assets/news/894cd7c8e9baf21ef20f7273.jpg",
-      "source_url": "https://964media.com/718527/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/30f21c2aea1d.html"
-    },
-    {
       "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
       "category": "أمن",
@@ -466,22 +466,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0a429b152c42.html"
     },
     {
-      "title": "المغرب يطوي صفحة \"الساعة الإضافية\" بعد سنوات من الجدل، وعودة غرينيتش حديث مواقع التواصل - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/crq5x9vyz9q0o",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-20T09:56:40+00:00",
-      "image": "./assets/news/27d4535559930197081923eb.jpg",
-      "original_image": "./assets/news/27d4535559930197081923eb.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/crq5x9vyz9q0o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/de341d55fbe9.html"
-    },
-    {
       "title": "اعتقال نجل “أبو درع” في بغداد",
       "url": "https://964media.com/718417/",
       "category": "أمن",
@@ -502,7 +486,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-21T05:21:35.616547+00:00",
+      "published": "2026-09-21T05:35:22.361056+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -512,7 +496,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8c2b77f11601.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2224653d2dd2.html"
     }
   ]
 }
