@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-21T05:56:51.651868+00:00",
+  "updated_at": "2026-09-21T06:09:16.859818+00:00",
   "items": [
+    {
+      "title": "تفاصيل الانفجارات الكبيرة في سوريا فجر اليوم",
+      "url": "https://www.alsumaria.tv/news/international/576576/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D8%AC%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-09-21T05:20:00+00:00",
+      "image": "./assets/news/f0e980325810917eab910476.jpg",
+      "original_image": "./assets/news/f0e980325810917eab910476.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/576576/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D8%AC%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+      "source_name": "السومرية نيوز",
+      "breaking": true,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9a71e9604186.html"
+    },
     {
       "title": "سوريا.. انفجار في ريف حلب الجنوبي",
       "url": "https://www.alsumaria.tv/news/international/576575/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A",
@@ -34,28 +50,12 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/61f8f80afe64.html"
     },
     {
-      "title": "الحوثيون يتهمون السعودية بشنّ 28 غارة خلال 24 ساعة، ورئيس المخابرات الأمريكية في زيارة \"نادرة\" للقاهرة - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-21T05:25:22+00:00",
-      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6fc4759b496c.html"
-    },
-    {
-      "title": "4 إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب - شفق نيوز..",
+      "title": "أربع إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
       "category": "أمن",
       "region": "العراق",
       "governorate": "",
-      "published": "2026-09-21T05:00:33+00:00",
+      "published": "2026-09-21T05:51:26+00:00",
       "image": "./assets/news/2fce9a07799ed43c07b0e9f9.jpg",
       "original_image": "./assets/news/2fce9a07799ed43c07b0e9f9.jpg",
       "source_url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
@@ -63,7 +63,23 @@
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/903c0d2cb488.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cd1c886742e2.html"
+    },
+    {
+      "title": "الحوثيون يتهمون السعودية بشنّ 28 غارة خلال 24 ساعة، ورئيس المخابرات الأمريكية في زيارة \"نادرة\" للقاهرة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-21T05:46:01+00:00",
+      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c869fa7f2c91.html"
     },
     {
       "title": "لقاء مرتقب يجمع رئيسة فنزويلا مع ترامب في نيويورك",
@@ -354,22 +370,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f680d0b89833.html"
     },
     {
-      "title": "الزيدي يتحدث عن المرحلة الراهنة: العراق يواجه تحديات اقتصادية استثنائية",
-      "url": "https://www.alsumaria.tv/news/politics/576558/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%B1%D8%A7%D9%87%D9%86%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-20T17:19:00+00:00",
-      "image": "./assets/news/1c0dd5b5efee1818ca3938c1.jpg",
-      "original_image": "./assets/news/1c0dd5b5efee1818ca3938c1.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/576558/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%B1%D8%A7%D9%87%D9%86%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7415b3ef2458.html"
-    },
-    {
       "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
       "category": "أمن",
@@ -454,7 +454,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-21T05:56:51.879332+00:00",
+      "published": "2026-09-21T06:09:17.037153+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -464,7 +464,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/01b0925400c0.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/88cecbbc2e1a.html"
     }
   ]
 }
