@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T07:54:31.425688+00:00",
+  "updated_at": "2026-09-21T08:15:05.604147+00:00",
   "latest": [
     {
       "title": "السعودية: مؤسسة «إحسان» تناقش تعزيز العمل الخيري",
@@ -43,12 +43,15 @@
       ]
     },
     {
-      "title": "الجيش السوداني يعلن إسقاط مسيّرة \"انطلقت من إثيوبيا\" وقواته تحقق تقدماً في شمال كردفان - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqy7z1r3xgego",
+      "title": "إيران تتوعد بأسلحة وأهداف جديدة، وترامب يبدي انفتاحاً على لقاء بزشكيان وسط تراجع الملاحة في هرمز - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm2kw2pqq219o",
       "category": "عراق",
-      "published": "2026-09-20T11:00:25+00:00",
-      "breaking": true,
-      "watch_topics": []
+      "published": "2026-09-21T08:05:02+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
     },
     {
       "title": "أربع إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب - شفق نيوز..",
@@ -76,9 +79,9 @@
     },
     {
       "title": "انفجارات جديدة في سوريا",
-      "url": "https://www.alsumaria.tv/news/international/576584/%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "url": "https://www.alsumaria.tv/news/international/576584/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
       "category": "عراق",
-      "published": "Mon, 21 Sep 2026 07:46:53 GMT",
+      "published": "2026-09-21T07:46:53+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -90,16 +93,6 @@
       "breaking": false,
       "watch_topics": [
         "السعودية",
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "إدارة ترامب تعتزم فرض عقوبات شاملة على الجنائية الدولية​",
-      "url": "https://www.alsumaria.tv/news/international/576564/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%AA%D8%B9%D8%AA%D8%B2%D9%85-%D9%81%D8%B1%D8%B6-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-20T18:45:00+00:00",
-      "breaking": false,
-      "watch_topics": [
         "أمريكا"
       ]
     },
@@ -124,16 +117,6 @@
       ]
     },
     {
-      "title": "لقاء مرتقب يجمع رئيسة فنزويلا مع ترامب في نيويورك",
-      "url": "https://www.alsumaria.tv/news/international/576574/%D9%84%D9%82%D8%A7%D8%A1-%D9%85%D8%B1%D8%AA%D9%82%D8%A8-%D9%8A%D8%AC%D9%85%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7-%D9%85%D8%B9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83",
-      "category": "عراق",
-      "published": "2026-09-20T22:25:00+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
       "title": "الحرس الثوري الإيراني يتوعد بـجغرافيا حرب جديدة وأسلحة تدهش العالم",
       "url": "https://www.alsumaria.tv/news/international/576577/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%AA%D9%88%D8%B9%D8%AF-%D8%A8%D9%80%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7-%D8%AD%D8%B1%D8%A8-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%88%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%AA%D8%AF%D9%87%D8%B4-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
       "category": "عراق",
@@ -154,10 +137,20 @@
       ]
     },
     {
+      "title": "لقاء مرتقب يجمع رئيسة فنزويلا مع ترامب في نيويورك",
+      "url": "https://www.alsumaria.tv/news/international/576574/%d9%84%d9%82%d8%a7%d8%a1-%d9%85%d8%b1%d8%aa%d9%82%d8%a8-%d9%8a%d8%ac%d9%85%d8%b9-%d8%b1%d8%a6%d9%8a%d8%b3%d8%a9-%d9%81%d9%86%d8%b2%d9%88%d9%8a%d9%84%d8%a7-%d9%85%d8%b9-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%81%d9%8a-%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Sun, 20 Sep 2026 22:25:00 GMT",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-21T07:54:15.745210+00:00",
+      "published": "2026-09-21T08:15:00.810890+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -174,22 +167,6 @@
       "url": "https://964media.com/718423/",
       "category": "عراق",
       "published": "2026-09-20T10:10:50+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "إقليم كردستان العراق يكشف عن توحيد قوات البيشمركة",
-      "url": "https://www.alsumaria.tv/news/localnews/576563/%D8%A5%D9%82%D9%84%D9%8A%D9%85-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%8A%D8%B4%D9%85%D8%B1%D9%83%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-20T18:28:31+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "تقرير يكشف أعداد النازحين منذ بدء التصعيد العسكري في اليمن",
-      "url": "https://www.alsumaria.tv/news/international/576565/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%A3%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%AD%D9%8A%D9%86-%D9%85%D9%86%D8%B0-%D8%A8%D8%AF%D8%A1-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D9%85%D9%86",
-      "category": "عراق",
-      "published": "2026-09-20T19:16:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -262,6 +239,30 @@
       "url": "https://www.alsumaria.tv/news/localnews/576579/%D8%B7%D8%B1%D8%AD-%D9%87%D9%88%D8%B1-%D8%A7%D9%84%D8%AF%D9%84%D9%85%D8%AC-%D9%81%D8%B1%D8%B5%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A%D8%A9",
       "category": "عراق",
       "published": "2026-09-21T06:34:26+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "حرارة أيلول ترتفع إلى 40 في بغداد وتصل ذروتها في المحافظات الجنوبية",
+      "url": "https://964media.com/718659/",
+      "category": "عراق",
+      "published": "2026-09-21T06:38:19+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "نهاية الاسبوع.. حرارة منخفضة وضيف ثقيل يظهر من جديد",
+      "url": "https://www.alsumaria.tv/news/localnews/576580/%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%A8%D9%88%D8%B9-%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%85%D9%86%D8%AE%D9%81%D8%B6%D8%A9-%D9%88%D8%B6%D9%8A%D9%81-%D8%AB%D9%82%D9%8A%D9%84-%D9%8A%D8%B8%D9%87%D8%B1-%D9%85%D9%86-%D8%AC%D8%AF%D9%8A%D8%AF",
+      "category": "عراق",
+      "published": "2026-09-21T06:51:44+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "انخفاض أسعار صرف الدولار في أسواق بغداد",
+      "url": "https://www.alsumaria.tv/news/economy/576583/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "category": "عراق",
+      "published": "2026-09-21T07:29:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -677,14 +678,6 @@
       ]
     },
     {
-      "title": "الجيش السوداني يعلن إسقاط مسيّرة \"انطلقت من إثيوبيا\" وقواته تحقق تقدماً في شمال كردفان - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqy7z1r3xgego",
-      "category": "عراق",
-      "published": "2026-09-20T11:00:25+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "أربع إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
       "category": "عراق",
@@ -710,9 +703,9 @@
     },
     {
       "title": "انفجارات جديدة في سوريا",
-      "url": "https://www.alsumaria.tv/news/international/576584/%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "url": "https://www.alsumaria.tv/news/international/576584/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
       "category": "عراق",
-      "published": "Mon, 21 Sep 2026 07:46:53 GMT",
+      "published": "2026-09-21T07:46:53+00:00",
       "breaking": true,
       "watch_topics": []
     },

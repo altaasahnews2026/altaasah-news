@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-21T07:54:15.524761+00:00",
+  "updated_at": "2026-09-21T08:15:00.604391+00:00",
   "items": [
+    {
+      "title": "انفجارات جديدة في سوريا",
+      "url": "https://www.alsumaria.tv/news/international/576584/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-09-21T07:46:53+00:00",
+      "image": "./assets/news/987f4dc092e572eb83c91fd2.png",
+      "original_image": "./assets/news/987f4dc092e572eb83c91fd2.png",
+      "source_url": "https://www.alsumaria.tv/news/international/576584/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "source_name": "السومرية نيوز",
+      "breaking": true,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6a7b6dd82bf7.html"
+    },
     {
       "title": "تفاصيل الانفجارات الكبيرة في سوريا فجر اليوم",
       "url": "https://www.alsumaria.tv/news/international/576576/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D8%AC%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
@@ -34,13 +50,61 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e2f0bff4bd39.html"
     },
     {
+      "title": "إيران تتوعد بأسلحة وأهداف جديدة، وترامب يبدي انفتاحاً على لقاء بزشكيان وسط تراجع الملاحة في هرمز - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm2kw2pqq219o",
+      "category": "رياضة",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-21T08:05:02+00:00",
+      "image": "./assets/news/b46503b5046ab9e87ff25e20.jpg",
+      "original_image": "./assets/news/b46503b5046ab9e87ff25e20.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cm2kw2pqq219o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d789fdff346a.html"
+    },
+    {
+      "title": "الحوزة العلمية في النجف الأشرف تعلن الحداد وتعطل دروسها",
+      "url": "https://www.alsumaria.tv/news/localnews/576586/%D8%A7%D9%84%D8%AD%D9%88%D8%B2%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%A7%D9%84%D8%A3%D8%B4%D8%B1%D9%81-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AF-%D9%88%D8%AA%D8%B9%D8%B7%D9%84-%D8%AF%D8%B1%D9%88%D8%B3%D9%87%D8%A7",
+      "category": "محليات",
+      "region": "النجف",
+      "published": "2026-09-21T08:03:54+00:00",
+      "image": "./assets/news/0b3c6fde85076d52d76d9678.jpg",
+      "original_image": "./assets/news/0b3c6fde85076d52d76d9678.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/576586/%D8%A7%D9%84%D8%AD%D9%88%D8%B2%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%A7%D9%84%D8%A3%D8%B4%D8%B1%D9%81-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AF-%D9%88%D8%AA%D8%B9%D8%B7%D9%84-%D8%AF%D8%B1%D9%88%D8%B3%D9%87%D8%A7",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "النجف",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d0891278d871.html"
+    },
+    {
+      "title": "انخفاض أسعار صرف الدولار في أسواق بغداد",
+      "url": "https://www.alsumaria.tv/news/economy/576583/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "category": "اقتصاد",
+      "region": "بغداد",
+      "published": "2026-09-21T07:29:00+00:00",
+      "image": "./assets/news/a2adde54be615a692e58a512.jpg",
+      "original_image": "./assets/news/a2adde54be615a692e58a512.jpg",
+      "source_url": "https://www.alsumaria.tv/news/economy/576583/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/df9834a9faf3.html"
+    },
+    {
       "title": "نهاية الاسبوع.. حرارة منخفضة وضيف ثقيل يظهر من جديد",
       "url": "https://www.alsumaria.tv/news/localnews/576580/%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%A8%D9%88%D8%B9-%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%85%D9%86%D8%AE%D9%81%D8%B6%D8%A9-%D9%88%D8%B6%D9%8A%D9%81-%D8%AB%D9%82%D9%8A%D9%84-%D9%8A%D8%B8%D9%87%D8%B1-%D9%85%D9%86-%D8%AC%D8%AF%D9%8A%D8%AF",
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-21T06:51:44+00:00",
-      "image": "./assets/news/58b893f52e822bba81826116.jpg",
-      "original_image": "./assets/news/58b893f52e822bba81826116.jpg",
+      "image": "./assets/news/a2e3a7202588881614c0f79e.jpg",
+      "original_image": "./assets/news/a2e3a7202588881614c0f79e.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/576580/%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%A8%D9%88%D8%B9-%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%85%D9%86%D8%AE%D9%81%D8%B6%D8%A9-%D9%88%D8%B6%D9%8A%D9%81-%D8%AB%D9%82%D9%8A%D9%84-%D9%8A%D8%B8%D9%87%D8%B1-%D9%85%D9%86-%D8%AC%D8%AF%D9%8A%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -144,22 +208,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/640f5cc8378f.html"
-    },
-    {
-      "title": "لقاء مرتقب يجمع رئيسة فنزويلا مع ترامب في نيويورك",
-      "url": "https://www.alsumaria.tv/news/international/576574/%D9%84%D9%82%D8%A7%D8%A1-%D9%85%D8%B1%D8%AA%D9%82%D8%A8-%D9%8A%D8%AC%D9%85%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7-%D9%85%D8%B9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-20T22:25:00+00:00",
-      "image": "./assets/news/28cbeb6cb23268eaf264a211.webp",
-      "original_image": "./assets/news/28cbeb6cb23268eaf264a211.webp",
-      "source_url": "https://www.alsumaria.tv/news/international/576574/%D9%84%D9%82%D8%A7%D8%A1-%D9%85%D8%B1%D8%AA%D9%82%D8%A8-%D9%8A%D8%AC%D9%85%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7-%D9%85%D8%B9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4281e420ba1d.html"
     },
     {
       "title": "وفاة مرجع ديني في مدينة قم",
@@ -306,54 +354,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9c43278c09e4.html"
     },
     {
-      "title": "تقرير يكشف أعداد النازحين منذ بدء التصعيد العسكري في اليمن",
-      "url": "https://www.alsumaria.tv/news/international/576565/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%A3%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%AD%D9%8A%D9%86-%D9%85%D9%86%D8%B0-%D8%A8%D8%AF%D8%A1-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D9%85%D9%86",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-20T19:16:00+00:00",
-      "image": "./assets/news/c44c66f1d7a30e339d70998c.jpg",
-      "original_image": "./assets/news/c44c66f1d7a30e339d70998c.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/576565/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%A3%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%AD%D9%8A%D9%86-%D9%85%D9%86%D8%B0-%D8%A8%D8%AF%D8%A1-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D9%85%D9%86",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": true,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/20f428f442f8.html"
-    },
-    {
-      "title": "إدارة ترامب تعتزم فرض عقوبات شاملة على الجنائية الدولية​",
-      "url": "https://www.alsumaria.tv/news/international/576564/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%AA%D8%B9%D8%AA%D8%B2%D9%85-%D9%81%D8%B1%D8%B6-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-20T18:45:00+00:00",
-      "image": "./assets/news/c329e5a407613b461ac9a412.jpg",
-      "original_image": "./assets/news/c329e5a407613b461ac9a412.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/576564/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%AA%D8%B9%D8%AA%D8%B2%D9%85-%D9%81%D8%B1%D8%B6-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B4%D8%A7%D9%85%D9%84%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/845c84500f5e.html"
-    },
-    {
-      "title": "إقليم كردستان العراق يكشف عن توحيد قوات البيشمركة",
-      "url": "https://www.alsumaria.tv/news/localnews/576563/%D8%A5%D9%82%D9%84%D9%8A%D9%85-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%8A%D8%B4%D9%85%D8%B1%D9%83%D8%A9",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-20T18:28:31+00:00",
-      "image": "./assets/news/ab479d7d664651ede2db93d6.jpg",
-      "original_image": "./assets/news/ab479d7d664651ede2db93d6.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/576563/%D8%A5%D9%82%D9%84%D9%8A%D9%85-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%8A%D8%B4%D9%85%D8%B1%D9%83%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/54cf00fcc2d3.html"
-    },
-    {
       "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
       "category": "أمن",
@@ -384,22 +384,6 @@
       "kirkuk": true,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6a8184d1c78d.html"
-    },
-    {
-      "title": "الجيش السوداني يعلن إسقاط مسيّرة \"انطلقت من إثيوبيا\" وقواته تحقق تقدماً في شمال كردفان - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqy7z1r3xgego",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-20T11:00:25+00:00",
-      "image": "./assets/news/d2f999962d0c1343989bde70.jpg",
-      "original_image": "./assets/news/d2f999962d0c1343989bde70.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cqy7z1r3xgego",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/39c16877254f.html"
     },
     {
       "title": "كركوك تخصص أول محطة وقود للنساء حصراً (وثيقة)",
@@ -438,7 +422,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-21T07:54:15.745210+00:00",
+      "published": "2026-09-21T08:15:00.810890+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -448,7 +432,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ba6fd18afd07.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d99c8945a8ab.html"
     }
   ]
 }
