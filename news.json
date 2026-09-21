@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-21T16:48:57.003633+00:00",
+  "updated_at": "2026-09-21T16:57:59.093678+00:00",
   "items": [
+    {
+      "title": "صدور حكم قضائي على جمال الكربولي",
+      "url": "https://www.alsumaria.tv/news/localnews/576655/%D8%B5%D8%AF%D9%88%D8%B1-%D8%AD%D9%83%D9%85-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D8%B9%D9%84%D9%89-%D8%AC%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%83%D8%B1%D8%A8%D9%88%D9%84%D9%8A",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-21T16:51:15+00:00",
+      "image": "./assets/news/a8e67f6bb7b3490e55eda487.jpg",
+      "original_image": "./assets/news/a8e67f6bb7b3490e55eda487.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/576655/%D8%B5%D8%AF%D9%88%D8%B1-%D8%AD%D9%83%D9%85-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D8%B9%D9%84%D9%89-%D8%AC%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%83%D8%B1%D8%A8%D9%88%D9%84%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a803559e2efe.html"
+    },
     {
       "title": "النفط يتراجع لأدنى مستوى في 12 يوماً مع آمال بإنهاء حرب إيران",
       "url": "https://www.alsumaria.tv/news/economy/576654/%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%84%D8%A3%D8%AF%D9%86%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%81%D9%8A-12-%D9%8A%D9%88%D9%85%D8%A7%D9%8B-%D9%85%D8%B9-%D8%A2%D9%85%D8%A7%D9%84-%D8%A8%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
@@ -359,8 +375,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-21T15:08:48+00:00",
-      "image": "./assets/news/88db6f852b7b9a8a5fd18999.jpg",
-      "original_image": "./assets/news/88db6f852b7b9a8a5fd18999.jpg",
+      "image": "./assets/news/bf80e38cd035c965f94cf686.jpg",
+      "original_image": "./assets/news/bf80e38cd035c965f94cf686.jpg",
       "source_url": "https://www.alsumaria.tv/news/technology/576636/%D8%A3%D9%8A%D8%B1%D9%84%D9%86%D8%AF%D8%A7-%D8%AA%D9%81%D8%B1%D8%B6-%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-%D8%AE%D9%8A%D8%A7%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%BA%D9%88%D8%BA%D9%84-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -368,22 +384,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/008632bc9c0b.html"
-    },
-    {
-      "title": "بالصورة.. انتقادات لمأدبة سيدة أمريكا الأولى",
-      "url": "https://www.alsumaria.tv/news/international/576635/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF%D8%A7%D8%AA-%D9%84%D9%85%D8%A3%D8%AF%D8%A8%D8%A9-%D8%B3%D9%8A%D8%AF%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-21T14:58:14+00:00",
-      "image": "./assets/news/2dd86880b62e6bb971e6ce27.jpg",
-      "original_image": "./assets/news/2dd86880b62e6bb971e6ce27.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/576635/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF%D8%A7%D8%AA-%D9%84%D9%85%D8%A3%D8%AF%D8%A8%D8%A9-%D8%B3%D9%8A%D8%AF%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ce5627a7ac05.html"
     },
     {
       "title": "ثلاث مؤسسات إعلامية أمريكية تعتزم مقاضاة إدارة ترامب بعد منعها من دخول البيت الأبيض - شفق نيوز..",

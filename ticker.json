@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T16:49:03.609402+00:00",
+  "updated_at": "2026-09-21T16:58:04.464362+00:00",
   "latest": [
     {
       "title": "السعودية: مؤسسة «إحسان» تناقش تعزيز العمل الخيري",
@@ -56,16 +56,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c9zrz202n6zgo",
       "category": "عراق",
       "published": "2026-09-21T14:28:49+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "بالصورة.. انتقادات لمأدبة سيدة أمريكا الأولى",
-      "url": "https://www.alsumaria.tv/news/international/576635/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF%D8%A7%D8%AA-%D9%84%D9%85%D8%A3%D8%AF%D8%A8%D8%A9-%D8%B3%D9%8A%D8%AF%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89",
-      "category": "عراق",
-      "published": "2026-09-21T14:58:14+00:00",
       "breaking": false,
       "watch_topics": [
         "أمريكا"
@@ -260,6 +250,14 @@
       "url": "https://www.alsumaria.tv/news/international/576653/%D9%85%D9%86%D8%AD-%D8%B5%D8%AF%D9%82%D8%A9-%D8%B9%D9%86%D8%AF-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D9%88%D8%B3%D8%B1%D9%82-%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9-%D9%82%D8%B1%D9%8A%D8%A8%D8%A9-%D9%85%D9%86%D9%87",
       "category": "عراق",
       "published": "2026-09-21T16:30:29+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "صدور حكم قضائي على جمال الكربولي",
+      "url": "https://www.alsumaria.tv/news/localnews/576655/%D8%B5%D8%AF%D9%88%D8%B1-%D8%AD%D9%83%D9%85-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D8%B9%D9%84%D9%89-%D8%AC%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%83%D8%B1%D8%A8%D9%88%D9%84%D9%8A",
+      "category": "عراق",
+      "published": "2026-09-21T16:51:15+00:00",
       "breaking": false,
       "watch_topics": []
     },
