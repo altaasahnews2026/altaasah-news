@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T05:35:27.190114+00:00",
+  "updated_at": "2026-09-21T05:47:23.226077+00:00",
   "latest": [
     {
       "title": "إطلاق اسم مساعد بن عبد الرحمن على الجامعة السعودية الإلكترونية",
@@ -43,10 +43,10 @@
       ]
     },
     {
-      "title": "الحوثيون يتهمون السعودية بشنَّ 28 غارة خلال 24 ساعة، ورئيس المخابرات الأمريكية بزيارة \"نادرة\" للقاهرة - شفق نيوز..",
+      "title": "الحوثيون يتهمون السعودية بشنّ 28 غارة خلال 24 ساعة، ورئيس المخابرات الأمريكية في زيارة \"نادرة\" للقاهرة - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
       "category": "عراق",
-      "published": "2026-09-21T04:03:26+00:00",
+      "published": "2026-09-21T05:25:22+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"
@@ -85,6 +85,14 @@
       "watch_topics": []
     },
     {
+      "title": "تفاصيل الانفجارات الكبيرة في سوريا فجر اليوم",
+      "url": "https://www.alsumaria.tv/news/international/576576/%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1%d8%a9-%d9%81%d9%8a-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d9%81%d8%ac%d8%b1-%d8%a7%d9%84%d9%8a%d9%88%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Mon, 21 Sep 2026 05:20:00 GMT",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "أزمة الرياض مع الحوثيين فرصة ترامب لرعاية تعاون سعودي إسرائيلي إماراتي - وول ستريت جورنال - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm2kw3k0dqylo",
       "category": "عراق",
@@ -93,16 +101,6 @@
       "watch_topics": [
         "السعودية",
         "أمريكا"
-      ]
-    },
-    {
-      "title": "بعد هجمات الحوثيين.. حديث عن قدرة باكستان بالتدخل لجانب السعودية",
-      "url": "https://www.alsumaria.tv/news/international/576556/%D8%A8%D8%B9%D8%AF-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B9%D9%86-%D9%82%D8%AF%D8%B1%D8%A9-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D9%84%D8%AC%D8%A7%D9%86%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-20T17:01:33+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
       ]
     },
     {
@@ -176,10 +174,20 @@
       ]
     },
     {
+      "title": "الحرس الثوري الإيراني يتوعد بـ\"جغرافيا حرب\" جديدة وأسلحة \"تدهش العالم\"",
+      "url": "https://www.alsumaria.tv/news/international/576577/%d8%a7%d9%84%d8%ad%d8%b1%d8%b3-%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a-%d9%8a%d8%aa%d9%88%d8%b9%d8%af-%d8%a8%d9%80quot%d8%ac%d8%ba%d8%b1%d8%a7%d9%81%d9%8a%d8%a7-%d8%ad%d8%b1%d8%a8qu?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Mon, 21 Sep 2026 05:37:00 GMT",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-21T05:35:22.361056+00:00",
+      "published": "2026-09-21T05:47:19.896275+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -260,14 +268,6 @@
       "url": "https://964media.com/718625/",
       "category": "عراق",
       "published": "2026-09-20T20:24:01+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "العراقيون يخزنون البنزين! الإشراقة أيضاً ضد وزير النفط: ظل يناور إلى ساعة 8",
-      "url": "https://964media.com/718609/",
-      "category": "عراق",
-      "published": "2026-09-20T20:37:42+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -367,7 +367,7 @@
       "watch_topics": []
     },
     {
-      "title": "مقتل 3 على الأقل في غارة جوية باكستانية على أفغانستان",
+      "title": "أفغانستان: 3 قتلى على الأقل بغارات باكستانية على إقليم كونار",
       "url": "https://aawsat.com/node/5320672",
       "category": "مشرق أوسط",
       "published": "Mon, 21 Sep 2026 04:46:16 +0100",
@@ -683,10 +683,10 @@
       ]
     },
     {
-      "title": "الحوثيون يتهمون السعودية بشنَّ 28 غارة خلال 24 ساعة، ورئيس المخابرات الأمريكية بزيارة \"نادرة\" للقاهرة - شفق نيوز..",
+      "title": "الحوثيون يتهمون السعودية بشنّ 28 غارة خلال 24 ساعة، ورئيس المخابرات الأمريكية في زيارة \"نادرة\" للقاهرة - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
       "category": "عراق",
-      "published": "2026-09-21T04:03:26+00:00",
+      "published": "2026-09-21T05:25:22+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"
@@ -721,6 +721,14 @@
       "url": "https://www.alsumaria.tv/news/international/576575/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A",
       "category": "عراق",
       "published": "2026-09-20T22:42:00+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تفاصيل الانفجارات الكبيرة في سوريا فجر اليوم",
+      "url": "https://www.alsumaria.tv/news/international/576576/%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1%d8%a9-%d9%81%d9%8a-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d9%81%d8%ac%d8%b1-%d8%a7%d9%84%d9%8a%d9%88%d9%85?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Mon, 21 Sep 2026 05:20:00 GMT",
       "breaking": true,
       "watch_topics": []
     },
@@ -809,7 +817,7 @@
       "watch_topics": []
     },
     {
-      "title": "مقتل 3 على الأقل في غارة جوية باكستانية على أفغانستان",
+      "title": "أفغانستان: 3 قتلى على الأقل بغارات باكستانية على إقليم كونار",
       "url": "https://aawsat.com/node/5320672",
       "category": "مشرق أوسط",
       "published": "Mon, 21 Sep 2026 04:46:16 +0100",
