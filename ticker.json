@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-21T05:47:23.226077+00:00",
+  "updated_at": "2026-09-21T05:56:56.595905+00:00",
   "latest": [
     {
-      "title": "إطلاق اسم مساعد بن عبد الرحمن على الجامعة السعودية الإلكترونية",
-      "url": "https://aawsat.com/node/5319919",
+      "title": "السعودية: مؤسسة «إحسان» تناقش تعزيز العمل الخيري",
+      "url": "https://aawsat.com/node/5319596",
       "category": "مشرق أوسط",
-      "published": "Fri, 18 Sep 2026 18:36:15 +0100",
+      "published": "Thu, 17 Sep 2026 19:14:31 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
@@ -104,16 +104,6 @@
       ]
     },
     {
-      "title": "مركز معلومات يكشف عن 97 عملية عبور لمضيق هرمز",
-      "url": "https://www.alsumaria.tv/news/international/576557/%D9%85%D8%B1%D9%83%D8%B2-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-97-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%A8%D9%88%D8%B1-%D9%84%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
-      "category": "عراق",
-      "published": "2026-09-20T17:05:49+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "الجيش الإيراني يعلن إسقاط طائرة استطلاع فوق مضيق هرمز",
       "url": "https://www.alsumaria.tv/news/international/576562/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A5%D8%B3%D9%82%D8%A7%D8%B7-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9-%D9%81%D9%88%D9%82-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
       "category": "عراق",
@@ -187,7 +177,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-21T05:47:19.896275+00:00",
+      "published": "2026-09-21T05:56:51.879332+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -272,20 +262,18 @@
       "watch_topics": []
     },
     {
+      "title": "العراقيون يخزنون البنزين! الإشراقة أيضاً ضد وزير النفط: ظل يناور إلى ساعة 8",
+      "url": "https://964media.com/718609/",
+      "category": "عراق",
+      "published": "2026-09-20T20:37:42+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "السعودية تدين استهداف مسجد في باكستان",
       "url": "https://aawsat.com/node/5319832",
       "category": "مشرق أوسط",
       "published": "Fri, 18 Sep 2026 14:40:04 +0100",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "السعودية تشدّد على حق الدفاع عن أمنها وتدين محاولة استهداف الحوثي لـ«مكة»",
-      "url": "https://aawsat.com/node/5319023",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 13:57:23 +0100",
       "breaking": true,
       "watch_topics": [
         "السعودية"
@@ -483,6 +471,16 @@
       "url": "https://aawsat.com/node/5320074",
       "category": "مشرق أوسط",
       "published": "Sat, 19 Sep 2026 10:13:39 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "إطلاق اسم مساعد بن عبد الرحمن على الجامعة السعودية الإلكترونية",
+      "url": "https://aawsat.com/node/5319919",
+      "category": "مشرق أوسط",
+      "published": "Fri, 18 Sep 2026 18:36:15 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
@@ -737,16 +735,6 @@
       "url": "https://aawsat.com/node/5319832",
       "category": "مشرق أوسط",
       "published": "Fri, 18 Sep 2026 14:40:04 +0100",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "السعودية تشدّد على حق الدفاع عن أمنها وتدين محاولة استهداف الحوثي لـ«مكة»",
-      "url": "https://aawsat.com/node/5319023",
-      "category": "مشرق أوسط",
-      "published": "Wed, 16 Sep 2026 13:57:23 +0100",
       "breaking": true,
       "watch_topics": [
         "السعودية"
