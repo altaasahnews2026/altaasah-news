@@ -2,10 +2,6 @@ name: تحديث الأخبار اليومية
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths-ignore:
-      - social_state.json
   schedule:
     - cron: '*/5 * * * *'
 
