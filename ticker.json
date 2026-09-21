@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T16:58:04.464362+00:00",
+  "updated_at": "2026-09-21T17:06:49.239363+00:00",
   "latest": [
     {
       "title": "السعودية: مؤسسة «إحسان» تناقش تعزيز العمل الخيري",
@@ -122,14 +122,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c6j4jpln4eq2o",
       "category": "عراق",
       "published": "2026-09-21T12:51:07+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "أيرلندا تفرض غرامة خيالية على غوغل بسبب بيانات مواقع المستخدمين",
-      "url": "https://www.alsumaria.tv/news/technology/576636/%D8%A3%D9%8A%D8%B1%D9%84%D9%86%D8%AF%D8%A7-%D8%AA%D9%81%D8%B1%D8%B6-%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-%D8%AE%D9%8A%D8%A7%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%BA%D9%88%D8%BA%D9%84-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86",
-      "category": "عراق",
-      "published": "2026-09-21T15:08:48+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -258,6 +250,14 @@
       "url": "https://www.alsumaria.tv/news/localnews/576655/%D8%B5%D8%AF%D9%88%D8%B1-%D8%AD%D9%83%D9%85-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D8%B9%D9%84%D9%89-%D8%AC%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%83%D8%B1%D8%A8%D9%88%D9%84%D9%8A",
       "category": "عراق",
       "published": "2026-09-21T16:51:15+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "رحيل وزير الدفاع في مسلسل ابتسم أيها الجنرال",
+      "url": "https://www.alsumaria.tv/news/artculture/576656/%D8%B1%D8%AD%D9%8A%D9%84-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D9%81%D9%8A-%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%A7%D8%A8%D8%AA%D8%B3%D9%85-%D8%A3%D9%8A%D9%87%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D8%B1%D8%A7%D9%84",
+      "category": "عراق",
+      "published": "2026-09-21T16:54:50+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -484,6 +484,14 @@
       ]
     },
     {
+      "title": "محققون أمميون يحذرون من تداعيات استهداف البنى التحتية في أوكرانيا وروسيا",
+      "url": "https://aawsat.com/node/5320908",
+      "category": "دولي",
+      "published": "Mon, 21 Sep 2026 18:03:14 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "هجوم أوكراني بـ1600 مسيّرة على موسكو... وتضرر مصفاة نفط مهمة",
       "url": "https://aawsat.com/node/5320335",
       "category": "دولي",
@@ -522,16 +530,6 @@
       "url": "https://aawsat.com/node/5320202",
       "category": "دولي",
       "published": "Sat, 19 Sep 2026 17:41:51 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "واشنطن توافق على صفقة محتملة لبيع دفاعات جوية لأوكرانيا بنحو 2.7 مليار دولار",
-      "url": "https://aawsat.com/node/5320185",
-      "category": "دولي",
-      "published": "Sat, 19 Sep 2026 16:44:01 +0100",
       "breaking": false,
       "watch_topics": [
         "أمريكا"
@@ -738,6 +736,14 @@
       "url": "https://aawsat.com/node/5319661",
       "category": "مشرق أوسط",
       "published": "Fri, 18 Sep 2026 00:52:18 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "محققون أمميون يحذرون من تداعيات استهداف البنى التحتية في أوكرانيا وروسيا",
+      "url": "https://aawsat.com/node/5320908",
+      "category": "دولي",
+      "published": "Mon, 21 Sep 2026 18:03:14 +0100",
       "breaking": true,
       "watch_topics": []
     },
