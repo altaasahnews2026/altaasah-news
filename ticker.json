@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-21T17:50:15.399653+00:00",
+  "updated_at": "2026-09-21T17:58:35.461528+00:00",
   "latest": [
     {
-      "title": "السعودية: وفاة مقيم وإصابة اثنين بشظايا مسيَّرة في الطائف",
-      "url": "https://aawsat.com/node/5319453",
+      "title": "السعودية: مؤسسة «إحسان» تناقش تعزيز العمل الخيري",
+      "url": "https://aawsat.com/node/5319596",
       "category": "مشرق أوسط",
-      "published": "Thu, 17 Sep 2026 13:51:40 +0100",
+      "published": "Thu, 17 Sep 2026 19:14:31 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
@@ -417,6 +417,16 @@
       ]
     },
     {
+      "title": "القيادة السعودية تعزي نائب رئيس الإمارات في وفاة أحمد بن راشد",
+      "url": "https://aawsat.com/node/5320923",
+      "category": "مشرق أوسط",
+      "published": "Mon, 21 Sep 2026 18:54:24 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "السعودية تدين اقتحام مسؤول إسرائيلي ومتطرفين باحات الأقصى",
       "url": "https://aawsat.com/node/5320627",
       "category": "مشرق أوسط",
@@ -471,16 +481,6 @@
       "url": "https://aawsat.com/node/5319919",
       "category": "مشرق أوسط",
       "published": "Fri, 18 Sep 2026 18:36:15 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "السعودية: مؤسسة «إحسان» تناقش تعزيز العمل الخيري",
-      "url": "https://aawsat.com/node/5319596",
-      "category": "مشرق أوسط",
-      "published": "Thu, 17 Sep 2026 19:14:31 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
