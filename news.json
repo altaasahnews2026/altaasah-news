@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T19:02:09.809328+00:00",
+  "updated_at": "2026-09-21T19:16:01.145323+00:00",
   "items": [
     {
       "title": "عقود الخام الأمريكي تبلغ 95.78 دولارا للبرميل",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/eae3c2915cd8.html"
+    },
+    {
+      "title": "طائرات الدولار لم تحط في بغداد منذ 6 آب والمركزي يحتاط بتقييد حصة المسافرين",
+      "url": "https://964media.com/718905/",
+      "category": "اقتصاد",
+      "region": "بغداد",
+      "published": "2026-09-21T18:49:52+00:00",
+      "image": "./assets/news/49aa79fe8bfcb3096bdc7754.jpg",
+      "original_image": "./assets/news/49aa79fe8bfcb3096bdc7754.jpg",
+      "source_url": "https://964media.com/718905/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8f96a5cd46de.html"
     },
     {
       "title": "الاحتياطي الأمريكي من النفط يسجل أدنى مستوى له منذ 44 عاماً",
