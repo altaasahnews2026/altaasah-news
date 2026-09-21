@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T14:53:55.689550+00:00",
+  "updated_at": "2026-09-21T15:01:45.808311+00:00",
   "latest": [
     {
       "title": "السعودية: مؤسسة «إحسان» تناقش تعزيز العمل الخيري",
@@ -51,14 +51,6 @@
       "watch_topics": []
     },
     {
-      "title": "منشور قد يكلفك 10 سنوات سجناً.. الاعلام الامني تصدر تحذيراً هاماً",
-      "url": "https://www.alsumaria.tv/news/international/576614/%D9%85%D9%86%D8%B4%D9%88%D8%B1-%D9%82%D8%AF-%D9%8A%D9%83%D9%84%D9%81%D9%83-10-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%B3%D8%AC%D9%86%D8%A7%D9%8B-%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D9%86%D9%8A-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D9%8B-%D9%87%D8%A7%D9%85%D8%A7%D9%8B",
-      "category": "عراق",
-      "published": "2026-09-21T12:44:44+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "تحذيرات من كارثة.. كيف تحمي حياتك الرقمية؟",
       "url": "https://www.alsumaria.tv/news/miscellaneous/576632/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D9%83%D9%8A%D9%81-%D8%AA%D8%AD%D9%85%D9%8A-%D8%AD%D9%8A%D8%A7%D8%AA%D9%83-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9%D8%9F",
       "category": "عراق",
@@ -97,10 +89,20 @@
       ]
     },
     {
+      "title": "بالصورة.. انتقادات لمأدبة سيدة أمريكا الأولى",
+      "url": "https://www.alsumaria.tv/news/international/576635/%d8%a8%d8%a7%d9%84%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%86%d8%aa%d9%82%d8%a7%d8%af%d8%a7%d8%aa-%d9%84%d9%85%d8%a3%d8%af%d8%a8%d8%a9-%d8%b3%d9%8a%d8%af%d8%a9-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Mon, 21 Sep 2026 14:58:14 GMT",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-21T14:53:50.305394+00:00",
+      "published": "2026-09-21T15:01:38.516975+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -593,6 +595,14 @@
       ]
     },
     {
+      "title": "فرنسا: نسيبة للجنرال ديغول تترشح لـ«الشيوخ» على لائحة اليمين المتطرف",
+      "url": "https://aawsat.com/node/5320869",
+      "category": "دولي",
+      "published": "Mon, 21 Sep 2026 15:55:01 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "الشيشان: قديروف يحصل على 99.85 % من الأصوات في الانتخابات الرئاسية",
       "url": "https://aawsat.com/node/5320849",
       "category": "دولي",
@@ -631,14 +641,6 @@
       "published": "Mon, 21 Sep 2026 11:00:51 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "فرنسا وكندا تتعهدان بتعزيز التعاون وسط توتر مع ترمب",
-      "url": "https://aawsat.com/node/5320639",
-      "category": "دولي",
-      "published": "Sun, 20 Sep 2026 22:22:10 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -657,14 +659,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
       "category": "عراق",
       "published": "2026-09-21T12:05:25+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "منشور قد يكلفك 10 سنوات سجناً.. الاعلام الامني تصدر تحذيراً هاماً",
-      "url": "https://www.alsumaria.tv/news/international/576614/%D9%85%D9%86%D8%B4%D9%88%D8%B1-%D9%82%D8%AF-%D9%8A%D9%83%D9%84%D9%81%D9%83-10-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%B3%D8%AC%D9%86%D8%A7%D9%8B-%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D9%86%D9%8A-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D9%8B-%D9%87%D8%A7%D9%85%D8%A7%D9%8B",
-      "category": "عراق",
-      "published": "2026-09-21T12:44:44+00:00",
       "breaking": true,
       "watch_topics": []
     },
