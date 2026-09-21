@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T17:31:12.684622+00:00",
+  "updated_at": "2026-09-21T17:41:32.383072+00:00",
   "latest": [
     {
       "title": "السعودية: مؤسسة «إحسان» تناقش تعزيز العمل الخيري",
@@ -35,7 +35,7 @@
       "title": "الولايات المتحدة تتوعد بإيقاف حركة الطيران الإيراني يوم الأربعاء ضمن تحول واشنطن نحو شن حرب اقتصادية بدلاً من عسكرية - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm2kw2pqq219o",
       "category": "عراق",
-      "published": "2026-09-21T17:09:27+00:00",
+      "published": "2026-09-21T17:21:49+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران",
@@ -131,14 +131,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c6j4jpln4eq2o",
       "category": "عراق",
       "published": "2026-09-21T12:51:07+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "توضيح حول قرار البرلمان الخاص بأسعار الوقود",
-      "url": "https://www.alsumaria.tv/news/localnews/576640/%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D8%AD%D9%88%D9%84-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF",
-      "category": "عراق",
-      "published": "2026-09-21T15:34:57+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -259,6 +251,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c6vgyzj1ek3ko",
       "category": "عراق",
       "published": "2026-09-21T17:10:47+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "قد لا تحتاج إلى كلمة مرور.. جسمك نفسه قد يصبح مفتاح الدخول",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/576658/%D9%82%D8%AF-%D9%84%D8%A7-%D8%AA%D8%AD%D8%AA%D8%A7%D8%AC-%D8%A5%D9%84%D9%89-%D9%83%D9%84%D9%85%D8%A9-%D9%85%D8%B1%D9%88%D8%B1-%D8%AC%D8%B3%D9%85%D9%83-%D9%86%D9%81%D8%B3%D9%87-%D9%82%D8%AF-%D9%8A%D8%B5%D8%A8%D8%AD-%D9%85%D9%81%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84",
+      "category": "عراق",
+      "published": "2026-09-21T17:18:18+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -527,16 +527,6 @@
       ]
     },
     {
-      "title": "ترمب يعلن «سيطرة دائمة» لواشنطن على أمن غرينلاند",
-      "url": "https://aawsat.com/node/5320202",
-      "category": "دولي",
-      "published": "Sat, 19 Sep 2026 17:41:51 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
       "title": "ترمب يتوعد وسائل إعلام بعد منع 3 مؤسسات من دخول البيت الأبيض",
       "url": "https://aawsat.com/node/5320847",
       "category": "دولي",
@@ -575,6 +565,14 @@
       "watch_topics": [
         "أمريكا"
       ]
+    },
+    {
+      "title": "«أقصى اليمين» الأوروبي... مكاسب انتخابية واتساع للحضور السياسي",
+      "url": "https://aawsat.com/node/5320915",
+      "category": "دولي",
+      "published": "Mon, 21 Sep 2026 18:31:11 +0100",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "المستشار الألماني متمسك بمنصبه رغم هزيمة «أسوأ من كارثية»",
