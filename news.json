@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-21T17:06:46.400040+00:00",
+  "updated_at": "2026-09-21T17:19:30.148960+00:00",
   "items": [
+    {
+      "title": "عمى الوجوه: لم أميّز وجه حبيبي.. وهكذا اكتشفت إصابتي بالمرض - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c6vgyzj1ek3ko",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-21T17:10:47+00:00",
+      "image": "./assets/news/e634659625ab0b7a4b291720.jpg",
+      "original_image": "./assets/news/e634659625ab0b7a4b291720.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c6vgyzj1ek3ko",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/432271d563ab.html"
+    },
+    {
+      "title": "الولايات المتحدة تتوعد بإيقاف حركة الطيران الإيراني يوم الأربعاء ضمن تحول واشنطن نحو شن حرب اقتصادية بدلاً من عسكرية - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm2kw2pqq219o",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-21T17:09:27+00:00",
+      "image": "./assets/news/de51518ee1ba80eefd8fa9e2.jpg",
+      "original_image": "./assets/news/de51518ee1ba80eefd8fa9e2.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cm2kw2pqq219o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7f6ae20a6c18.html"
+    },
+    {
+      "title": "إيران تكشف سبب إغلاق المركز الثقافي الفرنسي في طهران",
+      "url": "https://www.alsumaria.tv/news/international/576657/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%83%D8%B4%D9%81-%D8%B3%D8%A8%D8%A8-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%81%D9%8A-%D8%B7%D9%87%D8%B1%D8%A7%D9%86",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-21T17:03:07+00:00",
+      "image": "./assets/news/014f04ff167cbad9b802db62.jpg",
+      "original_image": "./assets/news/014f04ff167cbad9b802db62.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/576657/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%83%D8%B4%D9%81-%D8%B3%D8%A8%D8%A8-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%81%D9%8A-%D8%B7%D9%87%D8%B1%D8%A7%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6391839ded28.html"
+    },
     {
       "title": "رحيل وزير الدفاع في مسلسل ابتسم أيها الجنرال",
       "url": "https://www.alsumaria.tv/news/artculture/576656/%D8%B1%D8%AD%D9%8A%D9%84-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D9%81%D9%8A-%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%A7%D8%A8%D8%AA%D8%B3%D9%85-%D8%A3%D9%8A%D9%87%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D8%B1%D8%A7%D9%84",
@@ -112,22 +160,6 @@
       "report": true,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7a4331c0fd14.html"
-    },
-    {
-      "title": "الولايات المتحدة تتوعد بإيقاف حركة الطيران الإيراني يوم الأربعاء ضمن تحول واشنطن نحو شن حرب اقتصادية بدلاً من عسكرية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm2kw2pqq219o",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-21T16:13:58+00:00",
-      "image": "./assets/news/b46503b5046ab9e87ff25e20.jpg",
-      "original_image": "./assets/news/b46503b5046ab9e87ff25e20.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cm2kw2pqq219o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1729e0974dac.html"
     },
     {
       "title": "بيان من التعليم العالي يخص المواطنين",
@@ -304,22 +336,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/129c3c875dca.html"
-    },
-    {
-      "title": "عمى الوجوه: لم أميّز وجه حبيبي.. وهكذا اكتشفت إصابتي بالمرض - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c6vgyzj1ek3ko",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-21T15:40:15+00:00",
-      "image": "./assets/news/e634659625ab0b7a4b291720.jpg",
-      "original_image": "./assets/news/e634659625ab0b7a4b291720.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c6vgyzj1ek3ko",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a0d1d6cd2764.html"
     },
     {
       "title": "توضيح حول قرار البرلمان الخاص بأسعار الوقود",

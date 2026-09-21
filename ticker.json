@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T17:06:49.239363+00:00",
+  "updated_at": "2026-09-21T17:19:33.141440+00:00",
   "latest": [
     {
       "title": "السعودية: مؤسسة «إحسان» تناقش تعزيز العمل الخيري",
@@ -22,10 +22,20 @@
       ]
     },
     {
+      "title": "إيران تكشف سبب إغلاق المركز الثقافي الفرنسي في طهران",
+      "url": "https://www.alsumaria.tv/news/international/576657/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%83%D8%B4%D9%81-%D8%B3%D8%A8%D8%A8-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%81%D9%8A-%D8%B7%D9%87%D8%B1%D8%A7%D9%86",
+      "category": "عراق",
+      "published": "2026-09-21T17:03:07+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "الولايات المتحدة تتوعد بإيقاف حركة الطيران الإيراني يوم الأربعاء ضمن تحول واشنطن نحو شن حرب اقتصادية بدلاً من عسكرية - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm2kw2pqq219o",
       "category": "عراق",
-      "published": "2026-09-21T16:13:58+00:00",
+      "published": "2026-09-21T17:09:27+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران",
@@ -138,14 +148,6 @@
       "url": "https://www.alsumaria.tv/news/localnews/576640/%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D8%AD%D9%88%D9%84-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF",
       "category": "عراق",
       "published": "2026-09-21T15:34:57+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "عمى الوجوه: لم أميّز وجه حبيبي.. وهكذا اكتشفت إصابتي بالمرض - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c6vgyzj1ek3ko",
-      "category": "عراق",
-      "published": "2026-09-21T15:40:15+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -641,6 +643,16 @@
     }
   ],
   "breaking": [
+    {
+      "title": "إيران تكشف سبب إغلاق المركز الثقافي الفرنسي في طهران",
+      "url": "https://www.alsumaria.tv/news/international/576657/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%83%D8%B4%D9%81-%D8%B3%D8%A8%D8%A8-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%81%D9%8A-%D8%B7%D9%87%D8%B1%D8%A7%D9%86",
+      "category": "عراق",
+      "published": "2026-09-21T17:03:07+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
     {
       "title": "أربع إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
