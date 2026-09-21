@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T03:00:14.083670+00:00",
+  "updated_at": "2026-09-21T03:13:20.014237+00:00",
   "items": [
     {
       "title": "سوريا.. انفجار في ريف حلب الجنوبي",
@@ -39,7 +39,7 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "governorate": "",
-      "published": "2026-09-21T00:42:56+00:00",
+      "published": "2026-09-21T02:46:53+00:00",
       "image": "./assets/news/065f13f95453109e9c276651.jpg",
       "original_image": "./assets/news/065f13f95453109e9c276651.jpg",
       "source_url": "https://shafaq.com/ar/bbc-arabic/cw33k2ex2881o",
@@ -47,7 +47,7 @@
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/516c7efc3f6d.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8cb0ca45bba1.html"
     },
     {
       "title": "لقاء مرتقب يجمع رئيسة فنزويلا مع ترامب في نيويورك",
@@ -518,7 +518,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-21T03:00:14.252161+00:00",
+      "published": "2026-09-21T03:13:20.239779+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -528,7 +528,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/486fca3d312c.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d74f53c04ec6.html"
     }
   ]
 }
