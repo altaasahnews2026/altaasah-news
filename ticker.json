@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-21T04:02:36.346959+00:00",
+  "updated_at": "2026-09-21T04:17:55.200457+00:00",
   "latest": [
     {
-      "title": "السعودية: مؤسسة «إحسان» تناقش تعزيز العمل الخيري",
-      "url": "https://aawsat.com/node/5319596",
+      "title": "إطلاق اسم مساعد بن عبد الرحمن على الجامعة السعودية الإلكترونية",
+      "url": "https://aawsat.com/node/5319919",
       "category": "مشرق أوسط",
-      "published": "Thu, 17 Sep 2026 19:14:31 +0100",
+      "published": "Fri, 18 Sep 2026 18:36:15 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
@@ -171,7 +171,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-21T04:02:30.951163+00:00",
+      "published": "2026-09-21T04:17:49.941412+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -359,6 +359,14 @@
       "watch_topics": []
     },
     {
+      "title": "إصابة ثلاثة بينهم جنود كوريون جنوبيون بانفجار في المنطقة المنزوعة السلاح",
+      "url": "https://aawsat.com/node/5320677",
+      "category": "مشرق أوسط",
+      "published": "Mon, 21 Sep 2026 05:14:03 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "مقتل 3 على الأقل في غارة جوية باكستانية على أفغانستان",
       "url": "https://aawsat.com/node/5320672",
       "category": "مشرق أوسط",
@@ -475,16 +483,6 @@
       "url": "https://aawsat.com/node/5320074",
       "category": "مشرق أوسط",
       "published": "Sat, 19 Sep 2026 10:13:39 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "إطلاق اسم مساعد بن عبد الرحمن على الجامعة السعودية الإلكترونية",
-      "url": "https://aawsat.com/node/5319919",
-      "category": "مشرق أوسط",
-      "published": "Fri, 18 Sep 2026 18:36:15 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
@@ -791,6 +789,14 @@
       "url": "https://aawsat.com/node/5319107",
       "category": "مشرق أوسط",
       "published": "Wed, 16 Sep 2026 16:44:44 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "إصابة ثلاثة بينهم جنود كوريون جنوبيون بانفجار في المنطقة المنزوعة السلاح",
+      "url": "https://aawsat.com/node/5320677",
+      "category": "مشرق أوسط",
+      "published": "Mon, 21 Sep 2026 05:14:03 +0100",
       "breaking": true,
       "watch_topics": []
     },
