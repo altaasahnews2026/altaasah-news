@@ -66,7 +66,7 @@ jobs:
         run: |
           git config user.name 'التاسعة نيوز'
           git config user.email 'actions@users.noreply.github.com'
-          git add news.json news assets/news ticker.json
+          git add news.json news assets/news assets/logo-transparent.png ticker.json
           if git diff --cached --quiet; then
             echo 'لا توجد تغييرات إخبارية.'
             exit 0
