@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T06:31:07.241106+00:00",
+  "updated_at": "2026-09-21T06:49:00.926359+00:00",
   "items": [
     {
       "title": "تفاصيل الانفجارات الكبيرة في سوريا فجر اليوم",
@@ -7,8 +7,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-21T05:20:00+00:00",
-      "image": "./assets/news/f0e980325810917eab910476.jpg",
-      "original_image": "./assets/news/f0e980325810917eab910476.jpg",
+      "image": "./assets/news/161bc99083bb0f7e462d9412.jpg",
+      "original_image": "./assets/news/161bc99083bb0f7e462d9412.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576576/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D8%AC%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -23,8 +23,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-20T22:42:00+00:00",
-      "image": "./assets/news/c77e5e1f977b73439b413889.jpg",
-      "original_image": "./assets/news/c77e5e1f977b73439b413889.jpg",
+      "image": "./assets/news/f85d9a0fdd10be0a764550cd.jpg",
+      "original_image": "./assets/news/f85d9a0fdd10be0a764550cd.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576575/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -32,22 +32,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e2f0bff4bd39.html"
-    },
-    {
-      "title": "بعد الهجوم الأخير.. روسيا تتوعد بتكثيف ضرباتها على أوكرانيا",
-      "url": "https://www.alsumaria.tv/news/international/576559/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%AA%D9%88%D8%B9%D8%AF-%D8%A8%D8%AA%D9%83%D8%AB%D9%8A%D9%81-%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-20T17:41:31+00:00",
-      "image": "./assets/news/1744302d6d98ea65dad4e85e.jpg",
-      "original_image": "./assets/news/1744302d6d98ea65dad4e85e.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/576559/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%AA%D9%88%D8%B9%D8%AF-%D8%A8%D8%AA%D9%83%D8%AB%D9%8A%D9%81-%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": true,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/61f8f80afe64.html"
     },
     {
       "title": "أربع إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب - شفق نيوز..",
@@ -64,6 +48,22 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/23861be0e17d.html"
+    },
+    {
+      "title": "الزيدي سيتحدث في الأمم المتحدة عن وضع المنطقة وسيادة العراق",
+      "url": "https://964media.com/718658/",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-21T06:07:14+00:00",
+      "image": "./assets/news/7124be6b98a61c6570b9c405.jpg",
+      "original_image": "./assets/news/7124be6b98a61c6570b9c405.jpg",
+      "source_url": "https://964media.com/718658/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fcc93a446139.html"
     },
     {
       "title": "الحوثيون يتهمون السعودية بشنّ 28 غارة خلال 24 ساعة، ورئيس المخابرات الأمريكية في زيارة \"نادرة\" للقاهرة - شفق نيوز..",
@@ -370,22 +370,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/61892cb35d43.html"
     },
     {
-      "title": "“تنزيلات تنزيلات” على نفط العراق.. سومو قد تعرض البراميل تحت السوق بـ50 دولاراً",
-      "url": "https://964media.com/718572/",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-20T17:32:56+00:00",
-      "image": "./assets/news/6ecb561e0444e24c9db2d95c.jpg",
-      "original_image": "./assets/news/6ecb561e0444e24c9db2d95c.jpg",
-      "source_url": "https://964media.com/718572/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f680d0b89833.html"
-    },
-    {
       "title": "إيران تحذر دول المنطقة من التعاون مع واشنطن في حال استئناف الهجوم عليها - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cjwyzwvx0zwro",
       "category": "أمن",
@@ -470,7 +454,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-21T06:31:07.388545+00:00",
+      "published": "2026-09-21T06:49:01.155213+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -480,7 +464,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ad454929f6a8.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b76e6339577d.html"
     }
   ]
 }
