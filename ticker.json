@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T14:43:55.727222+00:00",
+  "updated_at": "2026-09-21T14:53:55.689550+00:00",
   "latest": [
     {
       "title": "السعودية: مؤسسة «إحسان» تناقش تعزيز العمل الخيري",
@@ -17,6 +17,16 @@
       "category": "مشرق أوسط",
       "published": "Sat, 19 Sep 2026 10:15:12 +0100",
       "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "مقتل شرطي إيراني بهجوم مسلح في سيستان وبلوشستان",
+      "url": "https://www.alsumaria.tv/news/international/576633/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%B1%D8%B7%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%A8%D9%87%D8%AC%D9%88%D9%85-%D9%85%D8%B3%D9%84%D8%AD-%D9%81%D9%8A-%D8%B3%D9%8A%D8%B3%D8%AA%D8%A7%D9%86-%D9%88%D8%A8%D9%84%D9%88%D8%B4%D8%B3%D8%AA%D8%A7%D9%86",
+      "category": "عراق",
+      "published": "2026-09-21T14:47:30+00:00",
+      "breaking": true,
       "watch_topics": [
         "إيران"
       ]
@@ -49,24 +59,12 @@
       "watch_topics": []
     },
     {
-      "title": "ترامب: روسيا فقدت السيطرة على صناعة وقود الديزل بسبب الحرب مع أوكرانيا",
-      "url": "https://www.alsumaria.tv/news/international/576611/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%81%D9%82%D8%AF%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D9%88%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%AF%D9%8A%D8%B2%D9%84-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%85%D8%B9-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
+      "title": "تحذيرات من كارثة.. كيف تحمي حياتك الرقمية؟",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/576632/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D9%83%D9%8A%D9%81-%D8%AA%D8%AD%D9%85%D9%8A-%D8%AD%D9%8A%D8%A7%D8%AA%D9%83-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9%D8%9F",
       "category": "عراق",
-      "published": "2026-09-21T12:14:41+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "الخزانة الامريكية: جميع شركات الطيران الإيرانية ستتوقف عن العمل خلال يومين",
-      "url": "https://www.alsumaria.tv/news/international/576613/%D8%A7%D9%84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AC%D9%85%D9%8A%D8%B9-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B3%D8%AA%D8%AA%D9%88%D9%82%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%AE%D9%84%D8%A7%D9%84-%D9%8A%D9%88",
-      "category": "عراق",
-      "published": "2026-09-21T12:30:06+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
+      "published": "2026-09-21T14:43:15+00:00",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "ترامب درس إمكانية إصدار أمر بشن ضربة ضد الحوثيين",
@@ -102,7 +100,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-21T14:43:51.734565+00:00",
+      "published": "2026-09-21T14:53:50.305394+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -147,26 +145,10 @@
       "watch_topics": []
     },
     {
-      "title": "الولائي: المقاومة لم تطرح مطلب شخصي أو سياسي في مباحثات تنظيم السلاح",
-      "url": "https://www.alsumaria.tv/news/localnews/576610/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D9%84%D9%85-%D8%AA%D8%B7%D8%B1%D8%AD-%D9%85%D8%B7%D9%84%D8%A8-%D8%B4%D8%AE%D8%B5%D9%8A-%D8%A3%D9%88-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D9%81%D9%8A-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD",
-      "category": "عراق",
-      "published": "2026-09-21T11:55:00+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "ما الأطعمة التي يجب عليك تخزينها تحسباً لحالات الطوارئ؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c6y4z2xkp2y7o",
       "category": "عراق",
       "published": "2026-09-21T12:14:33+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بغداد على موعد مع أطول مجسر في العاصمة.. افتتاح مرتقب لمشروعين",
-      "url": "https://www.alsumaria.tv/news/localnews/576612/%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%B9%D8%AF-%D9%85%D8%B9-%D8%A3%D8%B7%D9%88%D9%84-%D9%85%D8%AC%D8%B3%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D8%B1%D8%AA%D9%82%D8%A8-%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D9%8A%D9%86",
-      "category": "عراق",
-      "published": "2026-09-21T12:21:39+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -255,6 +237,22 @@
       "url": "https://www.alsumaria.tv/Entertainment-News/576626/sports/%D9%85%D9%88%D8%B1%D9%8A%D9%86%D9%8A%D9%88-%D9%8A%D9%81%D9%82%D8%AF-%D8%B5%D8%A8%D8%B1%D9%87-%D9%87%D9%84-%D9%8A%D9%81%D9%82%D8%AF-%D9%81%D9%8A%D9%86%D9%8A%D8%B3%D9%8A%D9%88%D8%B3-%D9%85%D8%B1%D9%83%D8%B2%D9%87-%D9%81%D9%8A-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF%D8%9F",
       "category": "عراق",
       "published": "2026-09-21T14:15:16+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "السومرية نيوز تنشر توصيات ازمة الوقود التي صوت عليها مجلس النواب اليوم",
+      "url": "https://www.alsumaria.tv/news/localnews/576627/%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D9%86%D9%8A%D9%88%D8%B2-%D8%AA%D9%86%D8%B4%D8%B1-%D8%AA%D9%88%D8%B5%D9%8A%D8%A7%D8%AA-%D8%A7%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%AA%D9%8A-%D8%B5%D9%88%D8%AA-%D8%B9%D9%84%D9%8A%D9%87%D8%A7-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+      "category": "عراق",
+      "published": "2026-09-21T14:16:07+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "من أهوار العراق إلى تورنتو.. ثلاثة أفلام توثق حكايات البيئة والإنسان",
+      "url": "https://www.alsumaria.tv/news/artculture/576628/%D9%85%D9%86-%D8%A3%D9%87%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A5%D9%84%D9%89-%D8%AA%D9%88%D8%B1%D9%86%D8%AA%D9%88-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%AA%D9%88%D8%AB%D9%82-%D8%AD%D9%83%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9-%D9%88%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86",
+      "category": "عراق",
+      "published": "2026-09-21T14:24:01+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -645,6 +643,16 @@
   ],
   "breaking": [
     {
+      "title": "مقتل شرطي إيراني بهجوم مسلح في سيستان وبلوشستان",
+      "url": "https://www.alsumaria.tv/news/international/576633/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%B1%D8%B7%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%A8%D9%87%D8%AC%D9%88%D9%85-%D9%85%D8%B3%D9%84%D8%AD-%D9%81%D9%8A-%D8%B3%D9%8A%D8%B3%D8%AA%D8%A7%D9%86-%D9%88%D8%A8%D9%84%D9%88%D8%B4%D8%B3%D8%AA%D8%A7%D9%86",
+      "category": "عراق",
+      "published": "2026-09-21T14:47:30+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "أربع إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
       "category": "عراق",
@@ -657,6 +665,14 @@
       "url": "https://www.alsumaria.tv/news/international/576614/%D9%85%D9%86%D8%B4%D9%88%D8%B1-%D9%82%D8%AF-%D9%8A%D9%83%D9%84%D9%81%D9%83-10-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%B3%D8%AC%D9%86%D8%A7%D9%8B-%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D9%86%D9%8A-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D9%8B-%D9%87%D8%A7%D9%85%D8%A7%D9%8B",
       "category": "عراق",
       "published": "2026-09-21T12:44:44+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تحذيرات من كارثة.. كيف تحمي حياتك الرقمية؟",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/576632/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D9%83%D9%8A%D9%81-%D8%AA%D8%AD%D9%85%D9%8A-%D8%AD%D9%8A%D8%A7%D8%AA%D9%83-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9%D8%9F",
+      "category": "عراق",
+      "published": "2026-09-21T14:43:15+00:00",
       "breaking": true,
       "watch_topics": []
     },
