@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T12:26:53.014885+00:00",
+  "updated_at": "2026-09-21T12:39:58.209312+00:00",
   "latest": [
     {
       "title": "السعودية: وفاة مقيم وإصابة اثنين بشظايا مسيَّرة في الطائف",
@@ -33,18 +33,10 @@
       ]
     },
     {
-      "title": "مقتل عامل وإصابة اثنين آخرين إثر مشاجرة بين عمال باكستانيين في كربلاء",
-      "url": "https://www.alsumaria.tv/news/security/576592/%D9%85%D9%82%D8%AA%D9%84-%D8%B9%D8%A7%D9%85%D9%84-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D8%AB%D9%86%D9%8A%D9%86-%D8%A2%D8%AE%D8%B1%D9%8A%D9%86-%D8%A5%D8%AB%D8%B1-%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B9%D9%85%D8%A7%D9%84-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%83%D8%B1%D8%A8%D9%84%D8%A7%D8%A1",
-      "category": "عراق",
-      "published": "2026-09-21T09:02:37+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "أربع إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
       "category": "عراق",
-      "published": "2026-09-21T11:55:45+00:00",
+      "published": "2026-09-21T12:05:25+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -69,10 +61,20 @@
       ]
     },
     {
+      "title": "الخزانة الامريكية: جميع شركات الطيران الإيرانية ستتوقف عن العمل خلال يومين",
+      "url": "https://www.alsumaria.tv/news/international/576613/%D8%A7%D9%84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AC%D9%85%D9%8A%D8%B9-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B3%D8%AA%D8%AA%D9%88%D9%82%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%AE%D9%84%D8%A7%D9%84-%D9%8A%D9%88",
+      "category": "عراق",
+      "published": "2026-09-21T12:30:06+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-21T12:26:47.208100+00:00",
+      "published": "2026-09-21T12:39:54.695890+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -97,14 +99,6 @@
       "url": "https://964media.com/718658/",
       "category": "عراق",
       "published": "2026-09-21T06:07:14+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "يوم تاريخي.. مسرور بارزاني يعلق على اكتمال توحيد قوات البيشمركة",
-      "url": "https://www.alsumaria.tv/news/security/576593/%D9%8A%D9%88%D9%85-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D9%85%D8%B3%D8%B1%D9%88%D8%B1-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D9%83%D8%AA%D9%85%D8%A7%D9%84-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%8A%D8%B4%D9%85%D8%B1%D9%83%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-21T09:11:59+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -145,6 +139,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cq62jkzgvgn2o",
       "category": "عراق",
       "published": "2026-09-21T10:12:45+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "لكسر الاحتكار الغربي.. العراق يشارك للمرة الرابعة في قمة “بريكس+” للأزياء بموسكو",
+      "url": "https://964media.com/718745/",
+      "category": "عراق",
+      "published": "2026-09-21T10:20:59+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -546,6 +548,16 @@
       ]
     },
     {
+      "title": "مؤسسات إخبارية أميركية تعتزم مقاضاة ترمب بسبب منعها من دخول البيت الأبيض",
+      "url": "https://aawsat.com/node/5320818",
+      "category": "دولي",
+      "published": "Mon, 21 Sep 2026 13:28:00 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "واشنطن تقترح آلية إخطار مشتركة مع بكين لحوادث الذكاء الاصطناعي",
       "url": "https://aawsat.com/node/5320670",
       "category": "دولي",
@@ -596,16 +608,6 @@
       ]
     },
     {
-      "title": "«مثير للاشمئزاز»... هيغسيث يهاجم تقريراً عن خسائر الجيش الأميركي في حرب إيران",
-      "url": "https://aawsat.com/node/5320101",
-      "category": "دولي",
-      "published": "Sat, 19 Sep 2026 12:12:50 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "قادة استخبارات أوروبيون: روسيا تخطط لتصعيد تحركاتها ضد «ناتو» خلال أشهر",
       "url": "https://aawsat.com/node/5320785",
       "category": "دولي",
@@ -640,18 +642,10 @@
   ],
   "breaking": [
     {
-      "title": "مقتل عامل وإصابة اثنين آخرين إثر مشاجرة بين عمال باكستانيين في كربلاء",
-      "url": "https://www.alsumaria.tv/news/security/576592/%D9%85%D9%82%D8%AA%D9%84-%D8%B9%D8%A7%D9%85%D9%84-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D8%AB%D9%86%D9%8A%D9%86-%D8%A2%D8%AE%D8%B1%D9%8A%D9%86-%D8%A5%D8%AB%D8%B1-%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B9%D9%85%D8%A7%D9%84-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%83%D8%B1%D8%A8%D9%84%D8%A7%D8%A1",
-      "category": "عراق",
-      "published": "2026-09-21T09:02:37+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "أربع إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
       "category": "عراق",
-      "published": "2026-09-21T11:55:45+00:00",
+      "published": "2026-09-21T12:05:25+00:00",
       "breaking": true,
       "watch_topics": []
     },
