@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T16:29:35.620303+00:00",
+  "updated_at": "2026-09-21T16:36:30.993625+00:00",
   "latest": [
     {
       "title": "السعودية: مؤسسة «إحسان» تناقش تعزيز العمل الخيري",
@@ -22,13 +22,14 @@
       ]
     },
     {
-      "title": "مقتل شرطي إيراني بهجوم مسلح في سيستان وبلوشستان",
-      "url": "https://www.alsumaria.tv/news/international/576633/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%B1%D8%B7%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%A8%D9%87%D8%AC%D9%88%D9%85-%D9%85%D8%B3%D9%84%D8%AD-%D9%81%D9%8A-%D8%B3%D9%8A%D8%B3%D8%AA%D8%A7%D9%86-%D9%88%D8%A8%D9%84%D9%88%D8%B4%D8%B3%D8%AA%D8%A7%D9%86",
+      "title": "الولايات المتحدة تتوعد بإيقاف حركة الطيران الإيراني يوم الأربعاء ضمن تحول واشنطن نحو شن حرب اقتصادية بدلاً من عسكرية - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm2kw2pqq219o",
       "category": "عراق",
-      "published": "2026-09-21T14:47:30+00:00",
-      "breaking": true,
+      "published": "2026-09-21T16:13:58+00:00",
+      "breaking": false,
       "watch_topics": [
-        "إيران"
+        "إيران",
+        "أمريكا"
       ]
     },
     {
@@ -105,14 +106,6 @@
       "url": "https://964media.com/718658/",
       "category": "عراق",
       "published": "2026-09-21T06:07:14+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الانتخابات المغربية 2026: بين انتظارات الناخبين ووعود الأحزاب - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cq62jkzgvgn2o",
-      "category": "عراق",
-      "published": "2026-09-21T10:12:45+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -229,6 +222,14 @@
       "watch_topics": []
     },
     {
+      "title": "حزب الفضيلة يفكر بقانون البغاء لمعاقبة منظمات الجنس الثالث في العراق",
+      "url": "https://964media.com/718855/",
+      "category": "عراق",
+      "published": "2026-09-21T16:08:07+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "ريال مدريد مهدد بعقوبة بسبب تأخير انطلاق الشوط الثاني أمام أتلتيكو",
       "url": "https://www.alsumaria.tv/Entertainment-News/576648/sports/%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%85%D9%87%D8%AF%D8%AF-%D8%A8%D8%B9%D9%82%D9%88%D8%A8%D8%A9-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%AA%D8%A3%D8%AE%D9%8A%D8%B1-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B4%D9%88%D8%B7-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A3%D9%85%D8%A7%D9%85-%D8%A3%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88",
       "category": "عراق",
@@ -253,10 +254,10 @@
       "watch_topics": []
     },
     {
-      "title": "سائقو صهاريج عراقيون يناشدون الحكومة بعد احتجاز أكثر من 150 عجلة في سوريا",
-      "url": "https://www.alsumaria.tv/news/localnews/576637/%d8%b3%d8%a7%d8%a6%d9%82%d9%88-%d8%b5%d9%87%d8%a7%d8%b1%d9%8a%d8%ac-%d8%b9%d8%b1%d8%a7%d9%82%d9%8a%d9%88%d9%86-%d9%8a%d9%86%d8%a7%d8%b4%d8%af%d9%88%d9%86-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a8%d8%b9%d8%af-%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%b2-%d8%a3%d9%83?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "title": "منح صدقة عند باب المسجد وسرق دراجة قريبة منه",
+      "url": "https://www.alsumaria.tv/news/international/576653/%D9%85%D9%86%D8%AD-%D8%B5%D8%AF%D9%82%D8%A9-%D8%B9%D9%86%D8%AF-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D9%88%D8%B3%D8%B1%D9%82-%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9-%D9%82%D8%B1%D9%8A%D8%A8%D8%A9-%D9%85%D9%86%D9%87",
       "category": "عراق",
-      "published": "Mon, 21 Sep 2026 15:15:44 GMT",
+      "published": "2026-09-21T16:30:29+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -642,16 +643,6 @@
     }
   ],
   "breaking": [
-    {
-      "title": "مقتل شرطي إيراني بهجوم مسلح في سيستان وبلوشستان",
-      "url": "https://www.alsumaria.tv/news/international/576633/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%B1%D8%B7%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%A8%D9%87%D8%AC%D9%88%D9%85-%D9%85%D8%B3%D9%84%D8%AD-%D9%81%D9%8A-%D8%B3%D9%8A%D8%B3%D8%AA%D8%A7%D9%86-%D9%88%D8%A8%D9%84%D9%88%D8%B4%D8%B3%D8%AA%D8%A7%D9%86",
-      "category": "عراق",
-      "published": "2026-09-21T14:47:30+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
     {
       "title": "أربع إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
