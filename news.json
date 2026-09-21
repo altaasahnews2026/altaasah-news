@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T09:59:55.190699+00:00",
+  "updated_at": "2026-09-21T10:11:55.174212+00:00",
   "items": [
     {
       "title": "انفجارات جديدة في سوريا",
@@ -16,6 +16,38 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6a7b6dd82bf7.html"
+    },
+    {
+      "title": "العراق وأمريكا يبحثان تعزيز التعاون العسكري وتطوير قدرات القوات المسلحة",
+      "url": "https://www.alsumaria.tv/news/security/576598/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%88%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%82%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-21T10:00:58+00:00",
+      "image": "./assets/news/80ecd3323d9eb05656df8ca9.png",
+      "original_image": "./assets/news/80ecd3323d9eb05656df8ca9.png",
+      "source_url": "https://www.alsumaria.tv/news/security/576598/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%88%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%82%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8dc3f3f76585.html"
+    },
+    {
+      "title": "حكومة كردستان تطالب بغداد بمساواة رواتب البيشمركة بالجيش العراقي",
+      "url": "https://964media.com/718725/",
+      "category": "أمن",
+      "region": "بغداد",
+      "published": "2026-09-21T09:50:38+00:00",
+      "image": "./assets/news/776aee05fdafc8f6dbeeca06.jpg",
+      "original_image": "./assets/news/776aee05fdafc8f6dbeeca06.jpg",
+      "source_url": "https://964media.com/718725/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/83f4e5c380de.html"
     },
     {
       "title": "مدير إعلام الحشد: أسلحة الفصائل لن تُسلّم إلى الحكومة العراقية.. ولكن!",
@@ -263,8 +295,8 @@
       "category": "محليات",
       "region": "أربيل",
       "published": "2026-09-21T08:07:51+00:00",
-      "image": "./assets/news/647772fbdd185c6e875b5aa8.jpg",
-      "original_image": "./assets/news/647772fbdd185c6e875b5aa8.jpg",
+      "image": "./assets/news/a59b354461e49568c0b9de74.jpg",
+      "original_image": "./assets/news/a59b354461e49568c0b9de74.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/576587/%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%83%D8%AA%D9%85%D9%84%D8%AA-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%8A%D8%B4%D9%85%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D8%A3%D8%B1%D8%A8%D9%8A%D9%84",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -295,8 +327,8 @@
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-21T07:51:03+00:00",
-      "image": "./assets/news/56be9c04b6bee04c66f41c46.jpg",
-      "original_image": "./assets/news/56be9c04b6bee04c66f41c46.jpg",
+      "image": "./assets/news/b95719c32e5bb3d2c257f573.jpg",
+      "original_image": "./assets/news/b95719c32e5bb3d2c257f573.jpg",
       "source_url": "https://www.alsumaria.tv/news/economy/576585/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B3%D8%AA%D8%AD%D9%88%D8%B0-%D8%B9%D9%84%D9%89-35-%D9%85%D9%86-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D8%A9-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -375,8 +407,8 @@
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-21T06:34:26+00:00",
-      "image": "./assets/news/22679dfaacde77c98514396a.jpg",
-      "original_image": "./assets/news/22679dfaacde77c98514396a.jpg",
+      "image": "./assets/news/26378b1308184b3d439b1478.jpg",
+      "original_image": "./assets/news/26378b1308184b3d439b1478.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/576579/%D8%B7%D8%B1%D8%AD-%D9%87%D9%88%D8%B1-%D8%A7%D9%84%D8%AF%D9%84%D9%85%D8%AC-%D9%81%D8%B1%D8%B5%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -454,7 +486,7 @@
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "محليات",
       "region": "العراق",
-      "published": "2026-09-21T09:59:55.358304+00:00",
+      "published": "2026-09-21T10:11:55.402699+00:00",
       "image": "./assets/editorial/naimi-kirkuk.svg",
       "original_image": "./assets/editorial/naimi-kirkuk.svg",
       "source_url": "",
@@ -464,7 +496,7 @@
       "report": true,
       "summary": "قال النائب محمد النعيمي إن 7300 عقد مرتبطة بمحافظة كركوك ضاعت، مشيراً كذلك إلى عقود في صلاح الدين، وداعياً إلى توضيح مصير هذه العقود ومتابعة الملف.",
       "video_url": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8be4d740e0d5.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/04065efeeb19.html"
     }
   ]
 }
