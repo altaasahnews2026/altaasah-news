@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T14:00:54.834466+00:00",
+  "updated_at": "2026-09-21T14:14:30.278094+00:00",
   "latest": [
     {
       "title": "السعودية: مؤسسة «إحسان» تناقش تعزيز العمل الخيري",
@@ -69,10 +69,30 @@
       ]
     },
     {
+      "title": "ترامب درس إمكانية إصدار أمر بشن ضربة ضد الحوثيين",
+      "url": "https://www.alsumaria.tv/news/international/576624/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%AF%D8%B1%D8%B3-%D8%A5%D9%85%D9%83%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A3%D9%85%D8%B1-%D8%A8%D8%B4%D9%86-%D8%B6%D8%B1%D8%A8%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86",
+      "category": "عراق",
+      "published": "2026-09-21T14:00:52+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "لماذا كرر ترامب اسم بايدن 900 مرة؟",
+      "url": "https://www.alsumaria.tv/news/international/576625/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%83%D8%B1%D8%B1-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A7%D8%B3%D9%85-%D8%A8%D8%A7%D9%8A%D8%AF%D9%86-900-%D9%85%D8%B1%D8%A9%D8%9F",
+      "category": "عراق",
+      "published": "2026-09-21T14:02:26+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-21T14:00:51.834915+00:00",
+      "published": "2026-09-21T14:14:25.227686+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -113,22 +133,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cqgl75rd5xy7o",
       "category": "عراق",
       "published": "2026-09-21T10:30:00+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "تقرير: فصائل سنجار الأيزيدية تتجه لتسليم سلاحها إلى الدولة العراقية",
-      "url": "https://www.alsumaria.tv/news/security/576604/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%81%D8%B5%D8%A7%D8%A6%D9%84-%D8%B3%D9%86%D8%AC%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D9%8A%D8%B2%D9%8A%D8%AF%D9%8A%D8%A9-%D8%AA%D8%AA%D8%AC%D9%87-%D9%84%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D8%B3%D9%84%D8%A7%D8%AD%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-21T10:49:07+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "جدل الجندر في العراق يعود.. استبيان مشبوه يروج ومنظمات محلية متورطة!",
-      "url": "https://www.alsumaria.tv/news/localnews/576605/%D8%AC%D8%AF%D9%84-%D8%A7%D9%84%D8%AC%D9%86%D8%AF%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B9%D9%88%D8%AF-%D8%A7%D8%B3%D8%AA%D8%A8%D9%8A%D8%A7%D9%86-%D9%85%D8%B4%D8%A8%D9%88%D9%87-%D9%8A%D8%B1%D9%88%D8%AC-%D9%88%D9%85%D9%86%D8%B8%D9%85%D8%A7%D8%AA-%D9%85%D8%AD%D9%84%D9%8A%D8%A9-%D9%85%D8%AA%D9%88%D8%B1%D8%B7%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-21T11:00:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -491,14 +495,6 @@
       "watch_topics": []
     },
     {
-      "title": "ترمب يضغط على زيلينسكي لوقف استهداف المصافي الروسية",
-      "url": "https://aawsat.com/node/5320815",
-      "category": "دولي",
-      "published": "Mon, 21 Sep 2026 13:22:40 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "4 قتلى بضربة أميركية استهدفت سفينة في البحر الكاريبي",
       "url": "https://aawsat.com/node/5320302",
       "category": "دولي",
@@ -591,6 +587,16 @@
       "url": "https://aawsat.com/node/5320190",
       "category": "دولي",
       "published": "Sat, 19 Sep 2026 17:00:26 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "تقرير استخباراتي أعده الذكاء الاصطناعي كاد يشعل حرباً بين أميركا والصين",
+      "url": "https://aawsat.com/node/5320112",
+      "category": "دولي",
+      "published": "Sat, 19 Sep 2026 12:44:00 +0100",
       "breaking": false,
       "watch_topics": [
         "أمريكا"
@@ -757,14 +763,6 @@
       "url": "https://aawsat.com/node/5320301",
       "category": "دولي",
       "published": "Sun, 20 Sep 2026 01:31:06 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "ترمب يضغط على زيلينسكي لوقف استهداف المصافي الروسية",
-      "url": "https://aawsat.com/node/5320815",
-      "category": "دولي",
-      "published": "Mon, 21 Sep 2026 13:22:40 +0100",
       "breaking": true,
       "watch_topics": []
     },
