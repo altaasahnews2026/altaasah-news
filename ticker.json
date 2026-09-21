@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-21T12:39:58.209312+00:00",
+  "updated_at": "2026-09-21T12:52:49.982666+00:00",
   "latest": [
     {
-      "title": "السعودية: وفاة مقيم وإصابة اثنين بشظايا مسيَّرة في الطائف",
-      "url": "https://aawsat.com/node/5319453",
+      "title": "السعودية: مؤسسة «إحسان» تناقش تعزيز العمل الخيري",
+      "url": "https://aawsat.com/node/5319596",
       "category": "مشرق أوسط",
-      "published": "Thu, 17 Sep 2026 13:51:40 +0100",
+      "published": "Thu, 17 Sep 2026 19:14:31 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
@@ -37,6 +37,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
       "category": "عراق",
       "published": "2026-09-21T12:05:25+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "منشور قد يكلفك 10 سنوات سجناً.. الداخلية تصدر تحذيراً هاماً",
+      "url": "https://www.alsumaria.tv/news/international/576614/%D9%85%D9%86%D8%B4%D9%88%D8%B1-%D9%82%D8%AF-%D9%8A%D9%83%D9%84%D9%81%D9%83-10-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%B3%D8%AC%D9%86%D8%A7%D9%8B-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D9%8B-%D9%87%D8%A7%D9%85%D8%A7%D9%8B",
+      "category": "عراق",
+      "published": "2026-09-21T12:44:44+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -74,7 +82,7 @@
       "title": "النائب محمد النعيمي: 7300 عقد ضاعت على كركوك وعقود صلاح الدين كذلك",
       "url": "https://altaasahnews2026.github.io/altaasah-news/news/naimi-kirkuk-video.html",
       "category": "عراق",
-      "published": "2026-09-21T12:39:54.695890+00:00",
+      "published": "2026-09-21T12:52:45.500542+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -99,14 +107,6 @@
       "url": "https://964media.com/718658/",
       "category": "عراق",
       "published": "2026-09-21T06:07:14+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "صحيفة تكشف تحرّكات داعشية قرب الحدود العراقية - السورية",
-      "url": "https://www.alsumaria.tv/news/security/576594/%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D8%AD%D8%B1%D9%91%D9%83%D8%A7%D8%AA-%D8%AF%D8%A7%D8%B9%D8%B4%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-21T09:28:30+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -139,14 +139,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cq62jkzgvgn2o",
       "category": "عراق",
       "published": "2026-09-21T10:12:45+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "لكسر الاحتكار الغربي.. العراق يشارك للمرة الرابعة في قمة “بريكس+” للأزياء بموسكو",
-      "url": "https://964media.com/718745/",
-      "category": "عراق",
-      "published": "2026-09-21T10:20:59+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -255,12 +247,31 @@
       "watch_topics": []
     },
     {
+      "title": "مجلس النواب يُصوت على التوصيات الخاصة بأزمة الوقود المحلية",
+      "url": "https://www.alsumaria.tv/news/politics/576609/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%8A%D9%8F%D8%B5%D9%88%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%88%D8%B5%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9-%D8%A8%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-21T11:42:27+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "السعودية تدين استهداف مسجد في باكستان",
       "url": "https://aawsat.com/node/5319832",
       "category": "مشرق أوسط",
       "published": "Fri, 18 Sep 2026 14:40:04 +0100",
       "breaking": true,
       "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "محللون: «باب المندب» يختبر حدود المصالحة السعودية - الإيرانية",
+      "url": "https://aawsat.com/node/5320824",
+      "category": "مشرق أوسط",
+      "published": "Mon, 21 Sep 2026 13:40:33 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
         "السعودية"
       ]
     },
@@ -466,16 +477,6 @@
       ]
     },
     {
-      "title": "السعودية: مؤسسة «إحسان» تناقش تعزيز العمل الخيري",
-      "url": "https://aawsat.com/node/5319596",
-      "category": "مشرق أوسط",
-      "published": "Thu, 17 Sep 2026 19:14:31 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "هجوم أوكراني بـ1600 مسيّرة على موسكو... وتضرر مصفاة نفط مهمة",
       "url": "https://aawsat.com/node/5320335",
       "category": "دولي",
@@ -646,6 +647,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
       "category": "عراق",
       "published": "2026-09-21T12:05:25+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "منشور قد يكلفك 10 سنوات سجناً.. الداخلية تصدر تحذيراً هاماً",
+      "url": "https://www.alsumaria.tv/news/international/576614/%D9%85%D9%86%D8%B4%D9%88%D8%B1-%D9%82%D8%AF-%D9%8A%D9%83%D9%84%D9%81%D9%83-10-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%B3%D8%AC%D9%86%D8%A7%D9%8B-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D9%8B-%D9%87%D8%A7%D9%85%D8%A7%D9%8B",
+      "category": "عراق",
+      "published": "2026-09-21T12:44:44+00:00",
       "breaking": true,
       "watch_topics": []
     },
