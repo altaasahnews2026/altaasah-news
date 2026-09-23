@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T19:11:16.156508+00:00",
+  "updated_at": "2026-09-23T19:23:53.671426+00:00",
   "latest": [
     {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
@@ -29,17 +29,6 @@
       "breaking": true,
       "watch_topics": [
         "إيران"
-      ]
-    },
-    {
-      "title": "\"رهان واشنطن على انتفاضة الشعب الإيراني ضد النظام الحاكم سياسة فاشلة\" – في الغارديان - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c5x2zd1gzgd8o",
-      "category": "عراق",
-      "published": "2026-09-23T13:21:51+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
       ]
     },
     {
@@ -168,14 +157,6 @@
       "watch_topics": []
     },
     {
-      "title": "العراق ينسق مع 4 دول عربية لتبادل المعلومات بشأن جرائم الفساد العابرة للحدود",
-      "url": "https://964media.com/719561/",
-      "category": "عراق",
-      "published": "2026-09-23T15:46:14+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "مليون دولار لبطل خليجي 27.. تعرف على تفاصيل الجوائز الاخرى",
       "url": "https://www.alsumaria.tv/Entertainment-News/576916/sports/%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D8%A8%D8%B7%D9%84-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%A6%D8%B2-%D8%A7%D9%84%D8%A7%D8%AE%D8%B1%D9%89",
       "category": "عراق",
@@ -260,6 +241,22 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c62kwyen333jo",
       "category": "عراق",
       "published": "2026-09-23T17:39:18+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "جدول أعمال جلسة البرلمان ليوم غد الخميس",
+      "url": "https://www.alsumaria.tv/news/politics/576927/%D8%AC%D8%AF%D9%88%D9%84-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%AC%D9%84%D8%B3%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%84%D9%8A%D9%88%D9%85-%D8%BA%D8%AF-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3",
+      "category": "عراق",
+      "published": "2026-09-23T17:58:13+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "موسكو تعلن استعدادها للمفاوضات مع كييف حول التسوية",
+      "url": "https://www.alsumaria.tv/news/international/576928/%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D9%87%D8%A7-%D9%84%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D9%85%D8%B9-%D9%83%D9%8A%D9%8A%D9%81-%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-23T18:20:34+00:00",
       "breaking": false,
       "watch_topics": []
     },
