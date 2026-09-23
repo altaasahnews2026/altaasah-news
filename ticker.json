@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-21T19:28:31.987246+00:00",
+  "updated_at": "2026-09-23T18:38:13.355676+00:00",
   "latest": [
     {
-      "title": "السعودية: مؤسسة «إحسان» تناقش تعزيز العمل الخيري",
-      "url": "https://aawsat.com/node/5319596",
+      "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
+      "url": "https://aawsat.com/node/5321276",
       "category": "مشرق أوسط",
-      "published": "Thu, 17 Sep 2026 19:14:31 +0100",
+      "published": "Tue, 22 Sep 2026 15:21:23 +0100",
       "breaking": false,
       "watch_topics": [
-        "السعودية"
+        "أمريكا"
       ]
     },
     {
@@ -22,20 +22,10 @@
       ]
     },
     {
-      "title": "إيران تكشف سبب إغلاق المركز الثقافي الفرنسي في طهران",
-      "url": "https://www.alsumaria.tv/news/international/576657/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%83%D8%B4%D9%81-%D8%B3%D8%A8%D8%A8-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%81%D9%8A-%D8%B7%D9%87%D8%B1%D8%A7%D9%86",
+      "title": "\"رهان واشنطن على انتفاضة الشعب الإيراني ضد النظام الحاكم سياسة فاشلة\" – في الغارديان - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c5x2zd1gzgd8o",
       "category": "عراق",
-      "published": "2026-09-21T17:03:07+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "الولايات المتحدة تتوعد بإيقاف حركة الطيران الإيراني يوم الأربعاء ضمن تحول واشنطن نحو شن حرب اقتصادية بدلاً من عسكرية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm2kw2pqq219o",
-      "category": "عراق",
-      "published": "2026-09-21T17:21:49+00:00",
+      "published": "2026-09-23T13:21:51+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران",
@@ -43,240 +33,275 @@
       ]
     },
     {
-      "title": "أربع إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
+      "title": "الخارجية الإيرانية تكشف عن رسائل مع واشنطن.. وساطة قطرية وشروط قدمت",
+      "url": "https://www.alsumaria.tv/Entertainment-News/576918/sports/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D9%85%D8%B9-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%88%D8%B3%D8%A7%D8%B7%D8%A9-%D9%82%D8%B7%D8%B1%D9%8A%D8%A9-%D9%88%D8%B4%D8%B1%D9%88%D8%B7-%D9%82%D8%AF%D9%85%D8%AA",
       "category": "عراق",
-      "published": "2026-09-21T15:32:28+00:00",
+      "published": "2026-09-23T16:14:01+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "روسيا تعلن قصف مركزين لوجستيين أوكرانيين",
+      "url": "https://www.alsumaria.tv/news/international/576926/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D9%82%D8%B5%D9%81-%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D9%86-%D9%84%D9%88%D8%AC%D8%B3%D8%AA%D9%8A%D9%8A%D9%86-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D9%8A%D9%86",
+      "category": "عراق",
+      "published": "2026-09-23T17:40:00+00:00",
       "breaking": true,
       "watch_topics": []
     },
     {
-      "title": "ثلاث مؤسسات إعلامية أمريكية تعتزم مقاضاة إدارة ترامب بعد منعها من دخول البيت الأبيض - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c9zrz202n6zgo",
+      "title": "سفر البغادة إلى إيران انخفض 70% وطهران ردت بتنزيلات 50%.. حظر المطارات بدأ",
+      "url": "https://964media.com/719157/",
       "category": "عراق",
-      "published": "2026-09-21T14:28:49+00:00",
+      "published": "2026-09-22T17:32:27+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "الزيدي يلتقي ترامب في نيويورك.. مباحثات حول مستجدات المنطقة وتعزيز أمنها",
+      "url": "https://www.alsumaria.tv/news/politics/576910/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%AD%D9%88%D9%84-%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A3%D9%85%D9%86%D9%87%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-23T14:04:46+00:00",
       "breaking": false,
       "watch_topics": [
         "أمريكا"
       ]
     },
     {
-      "title": "الرئيس الإيراني: التضخم يلتهم أي زيادة للرواتب",
-      "url": "https://www.alsumaria.tv/news/international/576651/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%AA%D8%B6%D8%AE%D9%85-%D9%8A%D9%84%D8%AA%D9%87%D9%85-%D8%A3%D9%8A-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D9%84%D9%84%D8%B1%D9%88%D8%A7%D8%AA%D8%A8",
+      "title": "الرئيس الإيراني: مرشدنا الأعلى اغتيل دون إطار قانوني ونحن ندافع عن أنفسنا",
+      "url": "https://www.alsumaria.tv/news/international/576913/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%85%D8%B1%D8%B4%D8%AF%D9%86%D8%A7-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D8%A7%D8%BA%D8%AA%D9%8A%D9%84-%D8%AF%D9%88%D9%86-%D8%A5%D8%B7%D8%A7%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A-%D9%88%D9%86%D8%AD%D9%86-%D9%86%D8%AF%D8%A7%D9%81%D8%B9-%D8%B9%D9%86-%D8%A3%D9%86%D9%81%D8%B3",
       "category": "عراق",
-      "published": "2026-09-21T16:17:45+00:00",
+      "published": "2026-09-23T15:06:04+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
       ]
     },
     {
-      "title": "بغداد تتجه لتعليق عمل شركات طيران إيرانية خاضعة للعقوبات الأميركية",
-      "url": "https://www.alsumaria.tv/news/international/576652/%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D8%AA%D8%AC%D9%87-%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D8%B9%D9%85%D9%84-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%AE%D8%A7%D8%B6%D8%B9%D8%A9-%D9%84%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9",
+      "title": "ما الذي سيجري في القمة المقبلة بين ترامب والرئيس الصيني شي جينبينغ؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cq5yjz0512ryo",
       "category": "عراق",
-      "published": "2026-09-21T16:24:28+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "النفط يتراجع لأدنى مستوى في 12 يوماً مع آمال بإنهاء حرب إيران",
-      "url": "https://www.alsumaria.tv/news/economy/576654/%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%84%D8%A3%D8%AF%D9%86%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%81%D9%8A-12-%D9%8A%D9%88%D9%85%D8%A7%D9%8B-%D9%85%D8%B9-%D8%A2%D9%85%D8%A7%D9%84-%D8%A8%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
-      "category": "عراق",
-      "published": "2026-09-21T16:37:42+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "إيران تتسلم 159 مداناً من العراق",
-      "url": "https://www.alsumaria.tv/news/international/576659/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AA%D8%B3%D9%84%D9%85-159-%D9%85%D8%AF%D8%A7%D9%86%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-      "category": "عراق",
-      "published": "2026-09-21T17:15:21+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "نائب ترامب يقر: الصراع في أوكرانيا صعب الحل",
-      "url": "https://www.alsumaria.tv/news/international/576664/%D9%86%D8%A7%D8%A6%D8%A8-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%82%D8%B1-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B9-%D9%81%D9%8A-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%B5%D8%B9%D8%A8-%D8%A7%D9%84%D8%AD%D9%84",
-      "category": "عراق",
-      "published": "2026-09-21T18:07:33+00:00",
+      "published": "2026-09-23T15:40:49+00:00",
       "breaking": false,
       "watch_topics": [
         "أمريكا"
       ]
     },
     {
-      "title": "الزيدي سيتحدث في الأمم المتحدة عن وضع المنطقة وسيادة العراق",
-      "url": "https://964media.com/718658/",
+      "title": "خليجي 27: تعادل العراق وعُمان في الافتتاح، وترقب مواجهة السعودية والكويت - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqgk565g5zevo",
       "category": "عراق",
-      "published": "2026-09-21T06:07:14+00:00",
+      "published": "2026-09-23T17:00:44+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "الجيش الأمريكي يعلن وفاة عسكرية في الدوحة والبنتاغون يرفع حصيلة قتلاه",
+      "url": "https://www.alsumaria.tv/news/international/576924/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D9%88%D9%81%D8%A7%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%8A%D8%B1%D9%81%D8%B9-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D9%82%D8%AA%D9%84%D8%A7%D9%87",
+      "category": "عراق",
+      "published": "2026-09-23T17:16:00+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "بغداد وطهران تؤكدان ضرورة تجنيب المنطقة اتساع دائرة التصعيد",
+      "url": "https://www.alsumaria.tv/news/politics/576929/%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AA%D8%AC%D9%86%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D8%AA%D8%B3%D8%A7%D8%B9-%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF",
+      "category": "عراق",
+      "published": "2026-09-23T18:27:00+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "أكاسيا وألبيزيا وبيبتوز.. بغداد تبدأ زراعة الخريف بـ 190 ألف شجرة",
+      "url": "https://964media.com/719112/",
+      "category": "عراق",
+      "published": "2026-09-22T13:49:11+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "هل يمكن حقاً فصل الفن عن السياسة؟ - مقال في الغارديان - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c6j4jpln4eq2o",
+      "title": "الزيدي يوجه المؤسسات الرسمية والمحافظات بالاستعداد للاحتفال بيوم السيادة العراقي",
+      "url": "https://964media.com/719356/",
       "category": "عراق",
-      "published": "2026-09-21T12:51:07+00:00",
+      "published": "2026-09-23T06:55:49+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "اعتقال “ساحر” دليفري في بغداد",
-      "url": "https://964media.com/718848/",
+      "title": "كمين للاستخبارات يطيح بموظفة في تربية الديوانية تبيع التعيينات",
+      "url": "https://964media.com/719384/",
       "category": "عراق",
-      "published": "2026-09-21T16:00:26+00:00",
+      "published": "2026-09-23T07:58:51+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "حزب الفضيلة يفكر بقانون البغاء لمعاقبة منظمات الجنس الثالث في العراق",
-      "url": "https://964media.com/718855/",
+      "title": "صور: تفكيك شبكة للمضاربة بالدولار في بغداد وإحالة عناصرها للقضاء",
+      "url": "https://964media.com/719408/",
       "category": "عراق",
-      "published": "2026-09-21T16:08:07+00:00",
+      "published": "2026-09-23T09:21:15+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "ريال مدريد مهدد بعقوبة بسبب تأخير انطلاق الشوط الثاني أمام أتلتيكو",
-      "url": "https://www.alsumaria.tv/Entertainment-News/576648/sports/%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%85%D9%87%D8%AF%D8%AF-%D8%A8%D8%B9%D9%82%D9%88%D8%A8%D8%A9-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%AA%D8%A3%D8%AE%D9%8A%D8%B1-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B4%D9%88%D8%B7-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A3%D9%85%D8%A7%D9%85-%D8%A3%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88",
+      "title": "صافرة اللقاء انطلقت.. العراق وعمان يفتتحان خليجي 27 بمواجهة نارية",
+      "url": "https://www.alsumaria.tv/Entertainment-News/576911/sports/%D8%B5%D8%A7%D9%81%D8%B1%D8%A9-%D8%A7%D9%84%D9%84%D9%82%D8%A7%D8%A1-%D8%A7%D9%86%D8%B7%D9%84%D9%82%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%B9%D9%85%D8%A7%D9%86-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD%D8%A7%D9%86-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D8%A8%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%86%D8%A7%D8%B1%D9%8A%D8%A9",
       "category": "عراق",
-      "published": "2026-09-21T16:11:31+00:00",
+      "published": "2026-09-23T14:28:22+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "بيان من التعليم العالي يخص المواطنين",
-      "url": "https://www.alsumaria.tv/news/localnews/576649/%D8%A8%D9%8A%D8%A7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D9%8A%D8%AE%D8%B5-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86",
+      "title": "مجلس النواب يرفع جلسته إلى يوم غد الخميس",
+      "url": "https://www.alsumaria.tv/news/localnews/576912/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%8A%D8%B1%D9%81%D8%B9-%D8%AC%D9%84%D8%B3%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D9%8A%D9%88%D9%85-%D8%BA%D8%AF-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3",
       "category": "عراق",
-      "published": "2026-09-21T16:11:52+00:00",
+      "published": "2026-09-23T14:39:33+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "ما علاقة الاضطرابات النفسية الشديدة بالوفاة المبكرة.. دراسة تجيب",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/576650/%D9%85%D8%A7-%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D8%A7%D9%84%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%A8%D9%83%D8%B1%D8%A9-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%AA%D8%AC%D9%8A%D8%A8",
+      "title": "من الأفضل في الصباح.. القهوة أم عصير البرتقال؟",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/576915/%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%81%D8%B6%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D9%82%D9%87%D9%88%D8%A9-%D8%A3%D9%85-%D8%B9%D8%B5%D9%8A%D8%B1-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84%D8%9F",
       "category": "عراق",
-      "published": "2026-09-21T16:16:21+00:00",
+      "published": "2026-09-23T15:12:46+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "منح صدقة عند باب المسجد وسرق دراجة قريبة منه",
-      "url": "https://www.alsumaria.tv/news/international/576653/%D9%85%D9%86%D8%AD-%D8%B5%D8%AF%D9%82%D8%A9-%D8%B9%D9%86%D8%AF-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D9%88%D8%B3%D8%B1%D9%82-%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9-%D9%82%D8%B1%D9%8A%D8%A8%D8%A9-%D9%85%D9%86%D9%87",
+      "title": "إحالة أشرف حكيمي إلى المحاكمة بتهمة الاغتصاب.. هذه التفاصيل",
+      "url": "https://www.alsumaria.tv/Entertainment-News/576914/sports/%D8%A5%D8%AD%D8%A7%D9%84%D8%A9-%D8%A3%D8%B4%D8%B1%D9%81-%D8%AD%D9%83%D9%8A%D9%85%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D9%85%D8%A9-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D8%BA%D8%AA%D8%B5%D8%A7%D8%A8-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84",
       "category": "عراق",
-      "published": "2026-09-21T16:30:29+00:00",
+      "published": "2026-09-23T15:39:39+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "صدور حكم قضائي على جمال الكربولي",
-      "url": "https://www.alsumaria.tv/news/localnews/576655/%D8%B5%D8%AF%D9%88%D8%B1-%D8%AD%D9%83%D9%85-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D8%B9%D9%84%D9%89-%D8%AC%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%83%D8%B1%D8%A8%D9%88%D9%84%D9%8A",
+      "title": "العراق ينسق مع 4 دول عربية لتبادل المعلومات بشأن جرائم الفساد العابرة للحدود",
+      "url": "https://964media.com/719561/",
       "category": "عراق",
-      "published": "2026-09-21T16:51:15+00:00",
+      "published": "2026-09-23T15:46:14+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "رحيل وزير الدفاع في مسلسل ابتسم أيها الجنرال",
-      "url": "https://www.alsumaria.tv/news/artculture/576656/%D8%B1%D8%AD%D9%8A%D9%84-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D9%81%D9%8A-%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%A7%D8%A8%D8%AA%D8%B3%D9%85-%D8%A3%D9%8A%D9%87%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D8%B1%D8%A7%D9%84",
+      "title": "مليون دولار لبطل خليجي 27.. تعرف على تفاصيل الجوائز الاخرى",
+      "url": "https://www.alsumaria.tv/Entertainment-News/576916/sports/%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D8%A8%D8%B7%D9%84-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%A6%D8%B2-%D8%A7%D9%84%D8%A7%D8%AE%D8%B1%D9%89",
       "category": "عراق",
-      "published": "2026-09-21T16:54:50+00:00",
+      "published": "2026-09-23T15:50:17+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "عمى الوجوه: لم أميّز وجه حبيبي.. وهكذا اكتشفت إصابتي بالمرض - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c6vgyzj1ek3ko",
+      "title": "محافظ بغداد يوضح لـ السومرية اهمية مشروع بلدية الزوراء.. اليات ومعدات حديثه",
+      "url": "https://www.alsumaria.tv/news/localnews/576917/%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%8A%D9%88%D8%B6%D8%AD-%D9%84%D9%80-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%A7%D9%87%D9%85%D9%8A%D8%A9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%B2%D9%88%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D9%88%D9%85%D8%B9%D8%AF%D8%A7%D8%AA-%D8%AD%D8%AF",
       "category": "عراق",
-      "published": "2026-09-21T17:10:47+00:00",
+      "published": "2026-09-23T16:06:09+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "قد لا تحتاج إلى كلمة مرور.. جسمك نفسه قد يصبح مفتاح الدخول",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/576658/%D9%82%D8%AF-%D9%84%D8%A7-%D8%AA%D8%AD%D8%AA%D8%A7%D8%AC-%D8%A5%D9%84%D9%89-%D9%83%D9%84%D9%85%D8%A9-%D9%85%D8%B1%D9%88%D8%B1-%D8%AC%D8%B3%D9%85%D9%83-%D9%86%D9%81%D8%B3%D9%87-%D9%82%D8%AF-%D9%8A%D8%B5%D8%A8%D8%AD-%D9%85%D9%81%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84",
+      "title": "العراق يستهل مشواره بتعادل إيجابي أمام عمان في خليجي 27",
+      "url": "https://www.alsumaria.tv/Entertainment-News/576920/sports/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B3%D8%AA%D9%87%D9%84-%D9%85%D8%B4%D9%88%D8%A7%D8%B1%D9%87-%D8%A8%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%A5%D9%8A%D8%AC%D8%A7%D8%A8%D9%8A-%D8%A3%D9%85%D8%A7%D9%85-%D8%B9%D9%85%D8%A7%D9%86-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
       "category": "عراق",
-      "published": "2026-09-21T17:18:18+00:00",
+      "published": "2026-09-23T16:36:44+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "وكيل وزارة النفط يصدر توجيهات بشأن حقل نهر بن عمر",
-      "url": "https://www.alsumaria.tv/news/economy/576660/%D9%88%D9%83%D9%8A%D9%84-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B5%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7%D8%AA-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AD%D9%82%D9%84-%D9%86%D9%87%D8%B1-%D8%A8%D9%86-%D8%B9%D9%85%D8%B1",
+      "title": "كيف تشكل سبتة وكرة القدم وإسرائيل ملامح الانتخابات في المغرب؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c61mvyym4d2go",
       "category": "عراق",
-      "published": "2026-09-21T17:33:16+00:00",
+      "published": "2026-09-23T16:40:27+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "بالصور من جدة.. أسود الرافدين يخوضون أولى التدريبات لمواجهة عُمان",
-      "url": "https://www.alsumaria.tv/Entertainment-News/576661/sports/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%85%D9%86-%D8%AC%D8%AF%D8%A9-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D9%8A%D8%AE%D9%88%D8%B6%D9%88%D9%86-%D8%A3%D9%88%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%B9%D9%8F%D9%85%D8%A7%D9%86",
+      "title": "أم عباس السحارة وفريقها بقبضة الامن",
+      "url": "https://www.alsumaria.tv/news/localnews/576921/%D8%A3%D9%85-%D8%B9%D8%A8%D8%A7%D8%B3-%D8%A7%D9%84%D8%B3%D8%AD%D8%A7%D8%B1%D8%A9-%D9%88%D9%81%D8%B1%D9%8A%D9%82%D9%87%D8%A7-%D8%A8%D9%82%D8%A8%D8%B6%D8%A9-%D8%A7%D9%84%D8%A7%D9%85%D9%86",
       "category": "عراق",
-      "published": "2026-09-21T17:38:00+00:00",
+      "published": "2026-09-23T16:45:50+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "بعد سحر الدليفري ببغداد.. القبض على مشعوذة في الانبار (صور)",
-      "url": "https://www.alsumaria.tv/news/security/576663/%D8%A8%D8%B9%D8%AF-%D8%B3%D8%AD%D8%B1-%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%81%D8%B1%D9%8A-%D8%A8%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%B4%D8%B9%D9%88%D8%B0%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D9%86%D8%A8%D8%A7%D8%B1-%D8%B5%D9%88%D8%B1",
+      "title": "محافظ كربلاء: إصدار الإجازات الاستثمارية لمشروع وطن وتخصيص 60 ألف قطعة سكنية مجانية",
+      "url": "https://www.alsumaria.tv/news/localnews/576922/%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D9%83%D8%B1%D8%A8%D9%84%D8%A7%D8%A1-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%A5%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A%D8%A9-%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%88%D8%B7%D9%86-%D9%88%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5-60-%D8%A3%D9%84%D9%81-%D9%82%D8%B7%D8%B9%D8%A9",
       "category": "عراق",
-      "published": "2026-09-21T17:42:48+00:00",
+      "published": "2026-09-23T16:57:52+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "شقيق الأميرة ديانا يكشف تعرض أخته للتحرش الجنسي من رجل أعمال مصري",
-      "url": "https://www.alsumaria.tv/news/international/576662/%D8%B4%D9%82%D9%8A%D9%82-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D8%A9-%D8%AF%D9%8A%D8%A7%D9%86%D8%A7-%D9%8A%D9%83%D8%B4%D9%81-%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A3%D8%AE%D8%AA%D9%87-%D9%84%D9%84%D8%AA%D8%AD%D8%B1%D8%B4-%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A-%D9%85%D9%86-%D8%B1%D8%AC%D9%84-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%85%D8%B5%D8%B1%D9%8A",
+      "title": "‏الجيش الإسرائيلي يعلن عن تنفيذ عمليات دقيقة في سوريا",
+      "url": "https://www.alsumaria.tv/news/international/576923/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%AF%D9%82%D9%8A%D9%82%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
       "category": "عراق",
-      "published": "2026-09-21T17:43:13+00:00",
+      "published": "2026-09-23T16:59:56+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "الاحتياطي الأمريكي من النفط يسجل أدنى مستوى له منذ 44 عاماً",
-      "url": "https://www.alsumaria.tv/news/economy/576665/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B3%D8%AC%D9%84-%D8%A3%D8%AF%D9%86%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%84%D9%87-%D9%85%D9%86%D8%B0-44-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B",
+      "title": "توقف بطاقات “كي” خارج العراق.. أول توضيح من الشركة ومعلومات عن حدود السحب",
+      "url": "https://964media.com/719559/",
       "category": "عراق",
-      "published": "2026-09-21T18:33:00+00:00",
+      "published": "2026-09-23T17:00:05+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "طائرات الدولار لم تحط في بغداد منذ 6 آب والمركزي يحتاط بتقييد حصة المسافرين",
-      "url": "https://964media.com/718905/",
+      "title": "أبرز العناوين - صفحة المباشر - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqkgv77rjv6ro",
       "category": "عراق",
-      "published": "2026-09-21T18:49:52+00:00",
+      "published": "2026-09-23T17:24:17+00:00",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "عقود الخام الأمريكي تبلغ 95.78 دولارا للبرميل",
-      "url": "https://www.alsumaria.tv/news/economy/576666/%D8%B9%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%AE%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%AA%D8%A8%D9%84%D8%BA-9578-%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7-%D9%84%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84",
-      "category": "عراق",
-      "published": "2026-09-21T18:55:00+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "السعودية تدين استهداف مسجد في باكستان",
-      "url": "https://aawsat.com/node/5319832",
+      "title": "السعودية تكتب فصلاً جديداً في مسيرة الطاقة... إرث نفطي وطموح نووي",
+      "url": "https://aawsat.com/node/5321365",
       "category": "مشرق أوسط",
-      "published": "Fri, 18 Sep 2026 14:40:04 +0100",
+      "published": "Tue, 22 Sep 2026 18:57:31 +0100",
       "breaking": true,
       "watch_topics": [
         "السعودية"
       ]
     },
     {
-      "title": "محللون: «باب المندب» يختبر حدود المصالحة السعودية - الإيرانية",
+      "title": "«باب المندب» يختبر حدود المصالحة السعودية - الإيرانية",
       "url": "https://aawsat.com/node/5320824",
       "category": "مشرق أوسط",
       "published": "Mon, 21 Sep 2026 13:40:33 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "السعودية"
+      ]
+    },
+    {
+      "title": "واشنطن تدعو إيران إلى وقف تسليح الحوثيين",
+      "url": "https://aawsat.com/node/5321727",
+      "category": "مشرق أوسط",
+      "published": "Wed, 23 Sep 2026 15:37:02 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "السعودية تؤكد أهمية حماية البحارة العالقين في هرمز",
+      "url": "https://aawsat.com/node/5321415",
+      "category": "مشرق أوسط",
+      "published": "Tue, 22 Sep 2026 21:16:40 +0100",
       "breaking": false,
       "watch_topics": [
         "إيران",
@@ -295,34 +320,26 @@
       ]
     },
     {
-      "title": "تحذيرات من تفشي الكوليرا بين الفارّين من الهجمات الحوثية",
-      "url": "https://aawsat.com/node/5320111",
+      "title": "إسرائيل تعلن استهداف مسؤول مالي في «حماس»",
+      "url": "https://aawsat.com/node/5321652",
       "category": "مشرق أوسط",
-      "published": "Sat, 19 Sep 2026 12:37:42 +0100",
+      "published": "Wed, 23 Sep 2026 12:38:50 +0100",
       "breaking": true,
       "watch_topics": []
     },
     {
-      "title": "قتيل وإصابات إثر قصف إسرائيلي استهدف دراجة نارية في غزة",
-      "url": "https://aawsat.com/node/5319934",
+      "title": "خادم الحرمين: استهداف مكة استفزاز للمسلمين",
+      "url": "https://aawsat.com/node/5321452",
       "category": "مشرق أوسط",
-      "published": "Fri, 18 Sep 2026 19:56:16 +0100",
+      "published": "Tue, 22 Sep 2026 23:53:35 +0100",
       "breaking": true,
       "watch_topics": []
     },
     {
-      "title": "تركيا تندد بمحاولة الحوثيين الهجوم على مكة وتطالب بوضع حد لهجماتهم",
-      "url": "https://aawsat.com/node/5319437",
+      "title": "7 قتلى وانقطاع الكهرباء عن 58 ألف منزل جراء إعصار في اليابان",
+      "url": "https://aawsat.com/node/5321412",
       "category": "مشرق أوسط",
-      "published": "Thu, 17 Sep 2026 13:14:48 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "إدانات واسعة لاستهداف الحوثيين مكة المكرمة",
-      "url": "https://aawsat.com/node/5319275",
-      "category": "مشرق أوسط",
-      "published": "Thu, 17 Sep 2026 02:16:37 +0100",
+      "published": "Tue, 22 Sep 2026 20:58:59 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -365,6 +382,26 @@
       "published": "Fri, 18 Sep 2026 00:52:18 +0100",
       "breaking": true,
       "watch_topics": []
+    },
+    {
+      "title": "السعودية ومصر لتطوير مسارات النقل البحري وسط اضطرابات الملاحة الدولية",
+      "url": "https://aawsat.com/node/5321676",
+      "category": "مشرق أوسط",
+      "published": "Wed, 23 Sep 2026 13:38:06 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "دبلوماسي أميركي: العقوبات تضرب شبكات إيران المغذية للحوثيين",
+      "url": "https://aawsat.com/node/5321319",
+      "category": "مشرق أوسط",
+      "published": "Tue, 22 Sep 2026 16:45:31 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
     },
     {
       "title": "هيئة بحرية بريطانية: جريحان إثر إصابة ناقلة بـ«مقذوف مجهول» في مضيق هرمز",
@@ -387,318 +424,284 @@
       ]
     },
     {
-      "title": "إدانة أممية - خليجية لهجمات الحوثيين على السعودية",
-      "url": "https://aawsat.com/node/5320249",
+      "title": "«المركزي الإماراتي» يحظر معاملات فروع «بنك ملي إيران» مع طهران",
+      "url": "https://aawsat.com/node/5321805",
       "category": "مشرق أوسط",
-      "published": "Sat, 19 Sep 2026 21:23:17 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "تقرير: خبراء من «الحرس الثوري» زاروا باب المندب لتركيب رادارات",
-      "url": "https://aawsat.com/node/5320216",
-      "category": "مشرق أوسط",
-      "published": "Sat, 19 Sep 2026 18:15:05 +0100",
+      "published": "Wed, 23 Sep 2026 18:41:23 +0100",
       "breaking": false,
       "watch_topics": [
         "إيران"
       ]
     },
     {
-      "title": "نهب حوثي يعطل الإغاثة السعودية في الساحل الغربي اليمني",
-      "url": "https://aawsat.com/node/5320100",
+      "title": "السعودية تعلن «زوال الخطر» بعد إنذار مبكر في جازان ونجران",
+      "url": "https://aawsat.com/node/5321747",
       "category": "مشرق أوسط",
-      "published": "Sat, 19 Sep 2026 12:11:19 +0100",
+      "published": "Wed, 23 Sep 2026 16:13:10 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
       ]
     },
     {
-      "title": "القيادة السعودية تعزي نائب رئيس الإمارات في وفاة أحمد بن راشد",
-      "url": "https://aawsat.com/node/5320923",
+      "title": "جامع الملك عبد العزيز شمال الرياض... يخلّد إرث المؤسس بالذاكرة الوطنية",
+      "url": "https://aawsat.com/node/5321725",
       "category": "مشرق أوسط",
-      "published": "Mon, 21 Sep 2026 18:54:24 +0100",
+      "published": "Wed, 23 Sep 2026 15:31:45 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
       ]
     },
     {
-      "title": "السعودية تدين اقتحام مسؤول إسرائيلي ومتطرفين باحات الأقصى",
-      "url": "https://aawsat.com/node/5320627",
+      "title": "الملك سلمان: السعودية قامت على أسس راسخة لحفظ العقيدة وإقامة العدل",
+      "url": "https://aawsat.com/node/5321716",
       "category": "مشرق أوسط",
-      "published": "Sun, 20 Sep 2026 21:27:30 +0100",
+      "published": "Wed, 23 Sep 2026 15:11:26 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
       ]
     },
     {
-      "title": "إدانات واسعة للاعتداءات الحوثية على العاصمة السعودية",
-      "url": "https://aawsat.com/node/5320524",
+      "title": "السعودية تحتفي بيومها الوطني باقتصاد رقمي يقارب سُدس ناتجها",
+      "url": "https://aawsat.com/node/5321364",
       "category": "مشرق أوسط",
-      "published": "Sun, 20 Sep 2026 16:14:46 +0100",
+      "published": "Tue, 22 Sep 2026 18:57:08 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
       ]
     },
     {
-      "title": "فيصل بن فرحان: السعودية تواصل دورها في دعم السلم والأمن الدوليين",
-      "url": "https://aawsat.com/node/5320444",
+      "title": "عن البناء المؤسسي للدولة السعودية... مائة عام على «التعليمات الأساسية»",
+      "url": "https://aawsat.com/node/5321363",
       "category": "مشرق أوسط",
-      "published": "Sun, 20 Sep 2026 13:02:51 +0100",
+      "published": "Tue, 22 Sep 2026 18:54:10 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
       ]
     },
     {
-      "title": "التحالف: تدمير باليستي أطلقته ميليشيا الحوثي باتجاه الرياض",
-      "url": "https://aawsat.com/node/5320244",
+      "title": "«بيان رباعي» من نيويورك يندد بالاعتداء الحوثي على السعودية",
+      "url": "https://aawsat.com/node/5321326",
       "category": "مشرق أوسط",
-      "published": "Sat, 19 Sep 2026 20:52:59 +0100",
+      "published": "Tue, 22 Sep 2026 17:15:39 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
       ]
     },
     {
-      "title": "السعودية تعلن «زوال الخطر» في 10 مدن بعد إطلاق الإنذار المبكر",
-      "url": "https://aawsat.com/node/5320074",
-      "category": "مشرق أوسط",
-      "published": "Sat, 19 Sep 2026 10:13:39 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "إطلاق اسم مساعد بن عبد الرحمن على الجامعة السعودية الإلكترونية",
-      "url": "https://aawsat.com/node/5319919",
-      "category": "مشرق أوسط",
-      "published": "Fri, 18 Sep 2026 18:36:15 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "محققون أمميون يحذرون من تداعيات استهداف البنى التحتية في أوكرانيا وروسيا",
-      "url": "https://aawsat.com/node/5320908",
+      "title": "بيرنهام يستعد لإعلان شراكة دفاعية مع أميركا في الذكاء الاصطناعي",
+      "url": "https://aawsat.com/node/5321059",
       "category": "دولي",
-      "published": "Mon, 21 Sep 2026 18:03:14 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "هجوم أوكراني بـ1600 مسيّرة على موسكو... وتضرر مصفاة نفط مهمة",
-      "url": "https://aawsat.com/node/5320335",
-      "category": "دولي",
-      "published": "Sun, 20 Sep 2026 07:44:19 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "مقتل ثلاثة أشخاص في هجوم روسي على كييف",
-      "url": "https://aawsat.com/node/5320301",
-      "category": "دولي",
-      "published": "Sun, 20 Sep 2026 01:31:06 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "4 قتلى بضربة أميركية استهدفت سفينة في البحر الكاريبي",
-      "url": "https://aawsat.com/node/5320302",
-      "category": "دولي",
-      "published": "Sun, 20 Sep 2026 02:35:28 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "الدنمارك ترحب بالاتفاق مع واشنطن حول غرينلاند",
-      "url": "https://aawsat.com/node/5320303",
-      "category": "دولي",
-      "published": "Sun, 20 Sep 2026 02:55:42 +0100",
+      "published": "Tue, 22 Sep 2026 07:13:07 +0100",
       "breaking": false,
       "watch_topics": [
         "أمريكا"
       ]
     },
     {
-      "title": "ترمب يتوعد وسائل إعلام بعد منع 3 مؤسسات من دخول البيت الأبيض",
-      "url": "https://aawsat.com/node/5320847",
+      "title": "روبيو: الاتفاق مع إيران يتطلب جهداً شاقاً... وترمب يملك خيارات عسكرية",
+      "url": "https://aawsat.com/node/5321771",
       "category": "دولي",
-      "published": "Mon, 21 Sep 2026 14:48:19 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "واشنطن تقترح آلية إخطار مشتركة مع بكين لحوادث الذكاء الاصطناعي",
-      "url": "https://aawsat.com/node/5320670",
-      "category": "دولي",
-      "published": "Mon, 21 Sep 2026 04:00:21 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "ترمب إلى الأمم المتحدة... وإيران تختبر دبلوماسية اللحظة الأخيرة في نيويورك",
-      "url": "https://aawsat.com/node/5320509",
-      "category": "دولي",
-      "published": "Sun, 20 Sep 2026 15:34:50 +0100",
+      "published": "Wed, 23 Sep 2026 17:10:25 +0100",
       "breaking": false,
       "watch_topics": [
         "إيران"
       ]
     },
     {
-      "title": "ترمب يقطع عطلة نهاية الأسبوع ويعود إلى البيت الأبيض",
-      "url": "https://aawsat.com/node/5320312",
+      "title": "واشنطن تسعى لوقف هجمات الطاقة بين روسيا وأوكرانيا... وتدعو بوتين إلى «قمة الـ20»",
+      "url": "https://aawsat.com/node/5321765",
       "category": "دولي",
-      "published": "Sun, 20 Sep 2026 03:57:20 +0100",
+      "published": "Wed, 23 Sep 2026 17:01:27 +0100",
       "breaking": false,
       "watch_topics": [
         "أمريكا"
       ]
     },
     {
-      "title": "«أقصى اليمين» الأوروبي... مكاسب انتخابية واتساع للحضور السياسي",
-      "url": "https://aawsat.com/node/5320915",
+      "title": "«العدل الأميركية» تجيز منع ترمب وسائل إعلام من دخول البيت الأبيض",
+      "url": "https://aawsat.com/node/5321688",
       "category": "دولي",
-      "published": "Mon, 21 Sep 2026 18:31:11 +0100",
+      "published": "Wed, 23 Sep 2026 14:09:19 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "روبيو يتهم أوكرانيا بضرب سفن تحمل شحنات نفط لأميركا",
+      "url": "https://aawsat.com/node/5321374",
+      "category": "دولي",
+      "published": "Tue, 22 Sep 2026 19:18:41 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "ترمب يستقبل شي بحفاوة استثنائية... وقمة واشنطن تختبر هدنة هشة",
+      "url": "https://aawsat.com/node/5321322",
+      "category": "دولي",
+      "published": "Tue, 22 Sep 2026 17:01:00 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "ترمب يعلن عن لقاء «مثمر» بين مسؤولين أميركيين وإيرانيين في نيويورك",
+      "url": "https://aawsat.com/node/5321316",
+      "category": "دولي",
+      "published": "Tue, 22 Sep 2026 16:36:35 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "البيت الأبيض يطلق «ترمب تي في» عبر الإنترنت مع تصاعد أزمة وسائل الإعلام",
+      "url": "https://aawsat.com/node/5321175",
+      "category": "دولي",
+      "published": "Tue, 22 Sep 2026 12:54:29 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "بزشكيان يتعهد بالدفاع عن مواقف إيران قبيل توجهه للجمعية العامة للأمم المتحدة",
+      "url": "https://aawsat.com/node/5321068",
+      "category": "دولي",
+      "published": "Tue, 22 Sep 2026 07:59:09 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "اجتماعات مكثفة لترمب في الأمم المتحدة على خلفية حربي إيران وأوكرانيا",
+      "url": "https://aawsat.com/node/5321065",
+      "category": "دولي",
+      "published": "Tue, 22 Sep 2026 07:33:17 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "واشنطن تحشد حلفاءها في منطقة القطب الشمالي",
+      "url": "https://aawsat.com/node/5321040",
+      "category": "دولي",
+      "published": "Tue, 22 Sep 2026 05:28:50 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "مرشحان جمهوريان لمجلس الشيوخ يطالبان بإنهاء حرب إيران بسرعة",
+      "url": "https://aawsat.com/node/5321029",
+      "category": "دولي",
+      "published": "Tue, 22 Sep 2026 01:07:14 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "بريطانيا تُعيد النظر في اتفاق جزر تشاغوس بعد انتقادات ترمب",
+      "url": "https://aawsat.com/node/5321797",
+      "category": "دولي",
+      "published": "Wed, 23 Sep 2026 18:16:02 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "المستشار الألماني متمسك بمنصبه رغم هزيمة «أسوأ من كارثية»",
-      "url": "https://aawsat.com/node/5320876",
+      "title": "لافروف يلتقي روبيو... وبوتين مستعد للقاء نظيره الأميركي",
+      "url": "https://aawsat.com/node/5321772",
       "category": "دولي",
-      "published": "Mon, 21 Sep 2026 16:12:55 +0100",
+      "published": "Wed, 23 Sep 2026 17:10:39 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "فرنسا: نسيبة للجنرال ديغول تترشح لـ«الشيوخ» على لائحة اليمين المتطرف",
-      "url": "https://aawsat.com/node/5320869",
+      "title": "إدارة ترمب تسعى إلى شلّ «الجنائية الدولية»",
+      "url": "https://aawsat.com/node/5321754",
       "category": "دولي",
-      "published": "Mon, 21 Sep 2026 15:55:01 +0100",
+      "published": "Wed, 23 Sep 2026 16:31:01 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "الشيشان: قديروف يحصل على 99.85 % من الأصوات في الانتخابات الرئاسية",
-      "url": "https://aawsat.com/node/5320849",
+      "title": "الكرملين: بوتين مستعد لعقد اجتماع مع ترمب",
+      "url": "https://aawsat.com/node/5321658",
       "category": "دولي",
-      "published": "Mon, 21 Sep 2026 14:59:10 +0100",
+      "published": "Wed, 23 Sep 2026 12:56:03 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "«روسيا الموحدة» يكتسح مقاعد «الدوما» في انتخابات جددت البيعة لسياسات بوتين",
-      "url": "https://aawsat.com/node/5320845",
+      "title": "ضربات روسية على أوكرانيا بالتزامن مع لقاء زيلينسكي وترمب",
+      "url": "https://aawsat.com/node/5321574",
       "category": "دولي",
-      "published": "Mon, 21 Sep 2026 14:42:02 +0100",
+      "published": "Wed, 23 Sep 2026 09:37:24 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "قادة استخبارات أوروبيون: روسيا تخطط لتصعيد تحركاتها ضد «ناتو» خلال أشهر",
-      "url": "https://aawsat.com/node/5320785",
+      "title": "بلجيكا ورواندا تطويان صفحة الخلاف وتستأنفان العلاقات الدبلوماسية",
+      "url": "https://aawsat.com/node/5321539",
       "category": "دولي",
-      "published": "Mon, 21 Sep 2026 12:04:05 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "قيادي في «البديل من أجل ألمانيا» يتوقع مغادرة ميرتس السلطة بنهاية العام",
-      "url": "https://aawsat.com/node/5320771",
-      "category": "دولي",
-      "published": "Mon, 21 Sep 2026 11:40:19 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "روسيا: مناورات «الناتو» في القطب الشمالي تهديد مباشر لأمن موسكو",
-      "url": "https://aawsat.com/node/5320760",
-      "category": "دولي",
-      "published": "Mon, 21 Sep 2026 11:00:51 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "فرنسا وكندا تتعهدان بتعزيز التعاون وسط توتر مع ترمب",
-      "url": "https://aawsat.com/node/5320639",
-      "category": "دولي",
-      "published": "Sun, 20 Sep 2026 22:22:10 +0100",
+      "published": "Wed, 23 Sep 2026 08:12:29 +0100",
       "breaking": false,
       "watch_topics": []
     }
   ],
   "breaking": [
     {
-      "title": "إيران تكشف سبب إغلاق المركز الثقافي الفرنسي في طهران",
-      "url": "https://www.alsumaria.tv/news/international/576657/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%83%D8%B4%D9%81-%D8%B3%D8%A8%D8%A8-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%81%D9%8A-%D8%B7%D9%87%D8%B1%D8%A7%D9%86",
+      "title": "روسيا تعلن قصف مركزين لوجستيين أوكرانيين",
+      "url": "https://www.alsumaria.tv/news/international/576926/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D9%82%D8%B5%D9%81-%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D9%86-%D9%84%D9%88%D8%AC%D8%B3%D8%AA%D9%8A%D9%8A%D9%86-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D9%8A%D9%86",
       "category": "عراق",
-      "published": "2026-09-21T17:03:07+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "أربع إصابات \"حصيلة أولية\" لانفجارات متتالية في موقع عسكري قرب حلب - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c64gd0z1g5zno",
-      "category": "عراق",
-      "published": "2026-09-21T15:32:28+00:00",
+      "published": "2026-09-23T17:40:00+00:00",
       "breaking": true,
       "watch_topics": []
     },
     {
-      "title": "السعودية تدين استهداف مسجد في باكستان",
-      "url": "https://aawsat.com/node/5319832",
+      "title": "السعودية تكتب فصلاً جديداً في مسيرة الطاقة... إرث نفطي وطموح نووي",
+      "url": "https://aawsat.com/node/5321365",
       "category": "مشرق أوسط",
-      "published": "Fri, 18 Sep 2026 14:40:04 +0100",
+      "published": "Tue, 22 Sep 2026 18:57:31 +0100",
       "breaking": true,
       "watch_topics": [
         "السعودية"
       ]
     },
     {
-      "title": "تحذيرات من تفشي الكوليرا بين الفارّين من الهجمات الحوثية",
-      "url": "https://aawsat.com/node/5320111",
+      "title": "إسرائيل تعلن استهداف مسؤول مالي في «حماس»",
+      "url": "https://aawsat.com/node/5321652",
       "category": "مشرق أوسط",
-      "published": "Sat, 19 Sep 2026 12:37:42 +0100",
+      "published": "Wed, 23 Sep 2026 12:38:50 +0100",
       "breaking": true,
       "watch_topics": []
     },
     {
-      "title": "قتيل وإصابات إثر قصف إسرائيلي استهدف دراجة نارية في غزة",
-      "url": "https://aawsat.com/node/5319934",
+      "title": "خادم الحرمين: استهداف مكة استفزاز للمسلمين",
+      "url": "https://aawsat.com/node/5321452",
       "category": "مشرق أوسط",
-      "published": "Fri, 18 Sep 2026 19:56:16 +0100",
+      "published": "Tue, 22 Sep 2026 23:53:35 +0100",
       "breaking": true,
       "watch_topics": []
     },
     {
-      "title": "تركيا تندد بمحاولة الحوثيين الهجوم على مكة وتطالب بوضع حد لهجماتهم",
-      "url": "https://aawsat.com/node/5319437",
+      "title": "7 قتلى وانقطاع الكهرباء عن 58 ألف منزل جراء إعصار في اليابان",
+      "url": "https://aawsat.com/node/5321412",
       "category": "مشرق أوسط",
-      "published": "Thu, 17 Sep 2026 13:14:48 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "إدانات واسعة لاستهداف الحوثيين مكة المكرمة",
-      "url": "https://aawsat.com/node/5319275",
-      "category": "مشرق أوسط",
-      "published": "Thu, 17 Sep 2026 02:16:37 +0100",
+      "published": "Tue, 22 Sep 2026 20:58:59 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -739,38 +742,6 @@
       "url": "https://aawsat.com/node/5319661",
       "category": "مشرق أوسط",
       "published": "Fri, 18 Sep 2026 00:52:18 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "محققون أمميون يحذرون من تداعيات استهداف البنى التحتية في أوكرانيا وروسيا",
-      "url": "https://aawsat.com/node/5320908",
-      "category": "دولي",
-      "published": "Mon, 21 Sep 2026 18:03:14 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "هجوم أوكراني بـ1600 مسيّرة على موسكو... وتضرر مصفاة نفط مهمة",
-      "url": "https://aawsat.com/node/5320335",
-      "category": "دولي",
-      "published": "Sun, 20 Sep 2026 07:44:19 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "مقتل ثلاثة أشخاص في هجوم روسي على كييف",
-      "url": "https://aawsat.com/node/5320301",
-      "category": "دولي",
-      "published": "Sun, 20 Sep 2026 01:31:06 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "4 قتلى بضربة أميركية استهدفت سفينة في البحر الكاريبي",
-      "url": "https://aawsat.com/node/5320302",
-      "category": "دولي",
-      "published": "Sun, 20 Sep 2026 02:35:28 +0100",
       "breaking": true,
       "watch_topics": []
     }
