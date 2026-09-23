@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T20:18:36.257311+00:00",
+  "updated_at": "2026-09-23T20:32:35.925794+00:00",
   "items": [
     {
       "title": "الحرس الثوري يعلن مقتل أحد قادته باشتباكات جنوب شرقي إيران",
@@ -18,13 +18,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/006de439d5e0.html"
     },
     {
+      "title": "نائب يعلن انسحابه من ائتلاف الإعمار والتنمية",
+      "url": "https://www.alsumaria.tv/news/localnews/576936/%D9%86%D8%A7%D8%A6%D8%A8-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8%D9%87-%D9%85%D9%86-%D8%A7%D8%A6%D8%AA%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-23T20:18:00+00:00",
+      "image": "./assets/news/ecb932c03744cd4e0bf95d17.jpg",
+      "original_image": "./assets/news/ecb932c03744cd4e0bf95d17.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/576936/%D9%86%D8%A7%D8%A6%D8%A8-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8%D9%87-%D9%85%D9%86-%D8%A7%D8%A6%D8%AA%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0383c324dfae.html"
+    },
+    {
       "title": "اجتماع أمني يخص تنظيم قواطع المسؤولية في ست محافظات عراقية",
       "url": "https://www.alsumaria.tv/news/security/576935/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A3%D9%85%D9%86%D9%8A-%D9%8A%D8%AE%D8%B5-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D9%82%D9%88%D8%A7%D8%B7%D8%B9-%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D8%AA-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-23T20:11:00+00:00",
-      "image": "./assets/news/9c212000b9f16f6c12400a87.jpg",
-      "original_image": "./assets/news/9c212000b9f16f6c12400a87.jpg",
+      "image": "./assets/news/d7cfaaa8a8b4d30d12271e2f.jpg",
+      "original_image": "./assets/news/d7cfaaa8a8b4d30d12271e2f.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/576935/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A3%D9%85%D9%86%D9%8A-%D9%8A%D8%AE%D8%B5-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D9%82%D9%88%D8%A7%D8%B7%D8%B9-%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D8%AA-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -71,8 +87,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-23T19:35:02+00:00",
-      "image": "./assets/news/c0922fa9429f0bc596544728.jpg",
-      "original_image": "./assets/news/c0922fa9429f0bc596544728.jpg",
+      "image": "./assets/news/16fecb2099946f044de08d03.jpg",
+      "original_image": "./assets/news/16fecb2099946f044de08d03.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/576933/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%B3%D9%88%D9%8A%D8%B3%D8%B1%D8%A7-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%AC%D9%87%D9%88%D8%AF-%D8%A7%D8%AD%D8%AA%D9%88%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D8%A8%D8%B7%D8%A9-%D8%A8%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -274,22 +290,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c1850a8117a1.html"
     },
     {
-      "title": "زراعة ذي قار تعلن تحرير 3688 دونماً من القيود الزراعية لصالح مبادرة السكن",
-      "url": "https://964media.com/719595/",
-      "category": "محليات",
-      "region": "ذي قار",
-      "published": "2026-09-23T17:25:12+00:00",
-      "image": "./assets/news/f154e635f3c66a0482972b14.jpg",
-      "original_image": "./assets/news/f154e635f3c66a0482972b14.jpg",
-      "source_url": "https://964media.com/719595/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "ذي قار",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/97e824f365b3.html"
-    },
-    {
       "title": "الجيش الأمريكي يعلن وفاة عسكرية في الدوحة والبنتاغون يرفع حصيلة قتلاه",
       "url": "https://www.alsumaria.tv/news/international/576924/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D9%88%D9%81%D8%A7%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%8A%D8%B1%D9%81%D8%B9-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D9%82%D8%AA%D9%84%D8%A7%D9%87",
       "category": "أمن",
@@ -432,22 +432,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/63c7066d7794.html"
-    },
-    {
-      "title": "مليون دولار لبطل خليجي 27.. تعرف على تفاصيل الجوائز الاخرى",
-      "url": "https://www.alsumaria.tv/Entertainment-News/576916/sports/%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D8%A8%D8%B7%D9%84-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%A6%D8%B2-%D8%A7%D9%84%D8%A7%D8%AE%D8%B1%D9%89",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-23T15:50:17+00:00",
-      "image": "./assets/news/330359f0e155ebcbaccb380e.jpg",
-      "original_image": "./assets/news/330359f0e155ebcbaccb380e.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/576916/sports/%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D8%A8%D8%B7%D9%84-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%A6%D8%B2-%D8%A7%D9%84%D8%A7%D8%AE%D8%B1%D9%89",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a521cd361a77.html"
     },
     {
       "title": "ما الذي سيجري في القمة المقبلة بين ترامب والرئيس الصيني شي جينبينغ؟ - شفق نيوز..",
