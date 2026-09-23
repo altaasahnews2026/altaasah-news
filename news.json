@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T19:23:48.186963+00:00",
+  "updated_at": "2026-09-23T19:35:04.249144+00:00",
   "items": [
     {
       "title": "الحرس الثوري يعلن مقتل أحد قادته باشتباكات جنوب شرقي إيران",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/006de439d5e0.html"
+    },
+    {
+      "title": "غارتان إسرائيليتان تستهدفان جنوبي لبنان",
+      "url": "https://www.alsumaria.tv/news/international/576932/%D8%BA%D8%A7%D8%B1%D8%AA%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%AA%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-23T19:31:00+00:00",
+      "image": "./assets/news/7717d4a0d633a88bffd6560c.webp",
+      "original_image": "./assets/news/7717d4a0d633a88bffd6560c.webp",
+      "source_url": "https://www.alsumaria.tv/news/international/576932/%D8%BA%D8%A7%D8%B1%D8%AA%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%AA%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/31ea563d74d6.html"
     },
     {
       "title": "وكالة أممية ترصد تصاعداً في تقارير العنف ضد النساء في غزة - شفق نيوز..",
@@ -87,8 +103,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-23T18:27:00+00:00",
-      "image": "./assets/news/4430da2ab2544947501d0a15.jpg",
-      "original_image": "./assets/news/4430da2ab2544947501d0a15.jpg",
+      "image": "./assets/news/171a9ebce02b63ab013b2a6e.jpg",
+      "original_image": "./assets/news/171a9ebce02b63ab013b2a6e.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/576929/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%88%D8%A8%D8%B2%D8%B4%D9%83%D9%8A%D8%A7%D9%86-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AA%D8%AC%D9%86%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D8%AA%D8%B3%D8%A7%D8%B9-%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -327,8 +343,8 @@
       "category": "رياضة",
       "region": "السليمانية",
       "published": "2026-09-23T16:14:01+00:00",
-      "image": "./assets/news/743e762fbe3814dc5c72335c.png",
-      "original_image": "./assets/news/743e762fbe3814dc5c72335c.png",
+      "image": "./assets/news/f9801501941b236d3ccc105b.png",
+      "original_image": "./assets/news/f9801501941b236d3ccc105b.png",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/576918/sports/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D9%85%D8%B9-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%88%D8%B3%D8%A7%D8%B7%D8%A9-%D9%82%D8%B7%D8%B1%D9%8A%D8%A9-%D9%88%D8%B4%D8%B1%D9%88%D8%B7-%D9%82%D8%AF%D9%85%D8%AA",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -432,22 +448,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5648456530ac.html"
-    },
-    {
-      "title": "مجلس النواب يرفع جلسته إلى يوم غد الخميس",
-      "url": "https://www.alsumaria.tv/news/localnews/576912/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%8A%D8%B1%D9%81%D8%B9-%D8%AC%D9%84%D8%B3%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D9%8A%D9%88%D9%85-%D8%BA%D8%AF-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-23T14:39:33+00:00",
-      "image": "./assets/news/2f976d5fedd0398516aea40d.jpg",
-      "original_image": "./assets/news/2f976d5fedd0398516aea40d.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/576912/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%8A%D8%B1%D9%81%D8%B9-%D8%AC%D9%84%D8%B3%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D9%8A%D9%88%D9%85-%D8%BA%D8%AF-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ef2600a3d159.html"
     },
     {
       "title": "صور: تفكيك شبكة للمضاربة بالدولار في بغداد وإحالة عناصرها للقضاء",
