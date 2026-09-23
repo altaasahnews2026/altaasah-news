@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T21:39:23.844605+00:00",
+  "updated_at": "2026-09-23T21:47:16.967338+00:00",
   "latest": [
     {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
@@ -164,14 +164,6 @@
       "watch_topics": []
     },
     {
-      "title": "العراق يستهل مشواره بتعادل إيجابي أمام عمان في خليجي 27",
-      "url": "https://www.alsumaria.tv/Entertainment-News/576920/sports/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B3%D8%AA%D9%87%D9%84-%D9%85%D8%B4%D9%88%D8%A7%D8%B1%D9%87-%D8%A8%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%A5%D9%8A%D8%AC%D8%A7%D8%A8%D9%8A-%D8%A3%D9%85%D8%A7%D9%85-%D8%B9%D9%85%D8%A7%D9%86-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
-      "category": "عراق",
-      "published": "2026-09-23T16:36:44+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "كيف تشكل سبتة وكرة القدم وإسرائيل ملامح الانتخابات في المغرب؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c61mvyym4d2go",
       "category": "عراق",
@@ -264,6 +256,14 @@
       "url": "https://964media.com/719649/",
       "category": "عراق",
       "published": "2026-09-23T18:42:45+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "وكالة أممية ترصد تصاعداً في تقارير العنف ضد النساء في غزة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c6d08mxnj508o",
+      "category": "عراق",
+      "published": "2026-09-23T19:02:50+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -506,6 +506,16 @@
       ]
     },
     {
+      "title": "ترمب يفرض قيوداً على تأشيرات المتهمين بتسهيل «سياحة الولادة» في أميركا",
+      "url": "https://aawsat.com/node/5321866",
+      "category": "دولي",
+      "published": "Wed, 23 Sep 2026 22:43:32 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "روبيو: الاتفاق مع إيران يتطلب جهداً شاقاً... وترمب يملك خيارات عسكرية",
       "url": "https://aawsat.com/node/5321771",
       "category": "دولي",
@@ -652,14 +662,6 @@
       "url": "https://aawsat.com/node/5321574",
       "category": "دولي",
       "published": "Wed, 23 Sep 2026 09:37:24 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بلجيكا ورواندا تطويان صفحة الخلاف وتستأنفان العلاقات الدبلوماسية",
-      "url": "https://aawsat.com/node/5321539",
-      "category": "دولي",
-      "published": "Wed, 23 Sep 2026 08:12:29 +0100",
       "breaking": false,
       "watch_topics": []
     }
