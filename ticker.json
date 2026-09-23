@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T23:28:17.616383+00:00",
+  "updated_at": "2026-09-23T23:37:14.012467+00:00",
   "latest": [
     {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
@@ -54,16 +54,6 @@
       "published": "2026-09-23T22:28:00+00:00",
       "breaking": true,
       "watch_topics": []
-    },
-    {
-      "title": "سفر البغادة إلى إيران انخفض 70% وطهران ردت بتنزيلات 50%.. حظر المطارات بدأ",
-      "url": "https://964media.com/719157/",
-      "category": "عراق",
-      "published": "2026-09-22T17:32:27+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
     },
     {
       "title": "الجيش الأمريكي يعلن وفاة عسكرية في الدوحة والبنتاغون يرفع حصيلة قتلاه",
@@ -262,6 +252,14 @@
       "url": "https://www.alsumaria.tv/news/international/576932/%D8%BA%D8%A7%D8%B1%D8%AA%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%AA%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
       "category": "عراق",
       "published": "2026-09-23T19:31:00+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "اجتماع أمني يخص تنظيم قواطع المسؤولية في ست محافظات عراقية",
+      "url": "https://www.alsumaria.tv/news/security/576935/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A3%D9%85%D9%86%D9%8A-%D9%8A%D8%AE%D8%B5-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D9%82%D9%88%D8%A7%D8%B7%D8%B9-%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D8%AA-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-23T20:11:00+00:00",
       "breaking": false,
       "watch_topics": []
     },

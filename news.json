@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T23:28:11.950948+00:00",
+  "updated_at": "2026-09-23T23:37:08.488173+00:00",
   "items": [
     {
       "title": "انفجارات تهز العاصمة الأوكرانية كييف",
@@ -55,8 +55,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-23T22:18:00+00:00",
-      "image": "./assets/news/5d4b1fcd3e46d65c5eb2284f.png",
-      "original_image": "./assets/news/5d4b1fcd3e46d65c5eb2284f.png",
+      "image": "./assets/news/370406fe5d8e7ba9dff28807.png",
+      "original_image": "./assets/news/370406fe5d8e7ba9dff28807.png",
       "source_url": "https://www.alsumaria.tv/news/international/576941/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D9%82%D8%AA%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D9%81%D9%8A-%D8%AF%D9%88%D9%84%D8%A9-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -528,22 +528,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ae7e0472613f.html"
-    },
-    {
-      "title": "سفر البغادة إلى إيران انخفض 70% وطهران ردت بتنزيلات 50%.. حظر المطارات بدأ",
-      "url": "https://964media.com/719157/",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-22T17:32:27+00:00",
-      "image": "./assets/news/b81e8ab8981f62902fd3f9d0.jpg",
-      "original_image": "./assets/news/b81e8ab8981f62902fd3f9d0.jpg",
-      "source_url": "https://964media.com/719157/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/358507ace455.html"
     }
   ]
 }
