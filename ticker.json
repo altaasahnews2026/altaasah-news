@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T23:18:15.396061+00:00",
+  "updated_at": "2026-09-23T23:28:17.616383+00:00",
   "latest": [
     {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
@@ -63,16 +63,6 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
-      ]
-    },
-    {
-      "title": "ما الذي سيجري في القمة المقبلة بين ترامب والرئيس الصيني شي جينبينغ؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cq5yjz0512ryo",
-      "category": "عراق",
-      "published": "2026-09-23T15:40:49+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
       ]
     },
     {
@@ -264,6 +254,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c6d08mxnj508o",
       "category": "عراق",
       "published": "2026-09-23T19:02:50+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "غارتان إسرائيليتان تستهدفان جنوبي لبنان",
+      "url": "https://www.alsumaria.tv/news/international/576932/%D8%BA%D8%A7%D8%B1%D8%AA%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%AA%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+      "category": "عراق",
+      "published": "2026-09-23T19:31:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
