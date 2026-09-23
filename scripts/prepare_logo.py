@@ -2,9 +2,20 @@ from PIL import Image
 from pathlib import Path
 from collections import deque
 
-src=Path('assets/logo.jpg')
 out=Path('assets/logo-transparent.png')
-im=Image.open(src).convert('RGBA')
+out.parent.mkdir(parents=True,exist_ok=True)
+src_jpg=Path('assets/logo.jpg')
+src_svg=Path('logo.svg')
+
+# Prefer the raster logo when present; otherwise render the repository's
+# official SVG logo. The old workflow failed here because logo.jpg no longer exists.
+if src_jpg.exists():
+    im=Image.open(src_jpg).convert('RGBA')
+else:
+    import cairosvg
+    cairosvg.svg2png(url=str(src_svg),write_to=str(out),output_width=900)
+    im=Image.open(out).convert('RGBA')
+
 p=im.load(); w,h=im.size
 seen=bytearray(w*h); q=deque()
 for x in range(w):
@@ -27,5 +38,4 @@ bbox=im.getbbox()
 if bbox:
     pad=12
     im=im.crop((max(0,bbox[0]-pad),max(0,bbox[1]-pad),min(w,bbox[2]+pad),min(h,bbox[3]+pad)))
-out.parent.mkdir(parents=True,exist_ok=True)
 im.save(out,optimize=True)
