@@ -27,10 +27,7 @@ jobs:
           fetch-depth: 1
 
       - name: Install Python packages
-        run: python -m pip install --upgrade pip && pip install Pillow requests cairosvg
-
-      - name: Prepare official logo
-        run: python scripts/prepare_logo.py
+        run: python -m pip install --upgrade pip && pip install Pillow requests
 
       - name: Fetch Iraq and dedicated Kirkuk news
         run: python scripts/update_news.py
@@ -70,7 +67,7 @@ jobs:
         run: |
           git config user.name 'التاسعة نيوز'
           git config user.email 'actions@users.noreply.github.com'
-          git add news.json news assets/news assets/logo-transparent.png ticker.json
+          git add news.json news assets/news ticker.json
           if git diff --cached --quiet; then
             echo 'لا توجد تغييرات إخبارية.'
             exit 0
