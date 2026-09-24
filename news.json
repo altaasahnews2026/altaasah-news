@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T10:07:25.231731+00:00",
+  "updated_at": "2026-09-24T10:23:17.661463+00:00",
   "items": [
     {
       "title": "تشديد قضائي ضد الاعتداء على كوادر أمانة بغداد أثناء تنفيذ المشاريع",
@@ -16,6 +16,38 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c848962a5998.html"
+    },
+    {
+      "title": "تقرير: واشنطن مطالبة بتقبّل العلاقات العراقية الإيرانية وبغداد لا تحتمل اضطراباً اقتصادياً",
+      "url": "https://www.alsumaria.tv/news/localnews/576967/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A9-%D8%A8%D8%AA%D9%82%D8%A8%D9%91%D9%84-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%84%D8%A7-%D8%AA%D8%AD%D8%AA%D9%85%D9%84",
+      "category": "اقتصاد",
+      "region": "بغداد",
+      "published": "2026-09-24T10:10:47+00:00",
+      "image": "./assets/news/06e0232957a6b5f450580eb1.jpg",
+      "original_image": "./assets/news/06e0232957a6b5f450580eb1.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/576967/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A9-%D8%A8%D8%AA%D9%82%D8%A8%D9%91%D9%84-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%84%D8%A7-%D8%AA%D8%AD%D8%AA%D9%85%D9%84",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bc7ad4276450.html"
+    },
+    {
+      "title": "كيف استقبل الرئيس الأمريكي نظيره الصيني؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm3eqk1lq77po",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-24T10:03:06+00:00",
+      "image": "./assets/news/8ceb36e03301e407fb6ccc38.jpg",
+      "original_image": "./assets/news/8ceb36e03301e407fb6ccc38.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cm3eqk1lq77po",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7852143da3f7.html"
     },
     {
       "title": "12 ساعة براً إلى قم.. العقوبات الأميركية تغيّر مسار السفر بين العراق وإيران",
@@ -434,22 +466,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/03b60e0a0f2b.html"
     },
     {
-      "title": "قبول 6645 طالباً مهنياً في الكليات التقنية ومعاهد النفط",
-      "url": "https://www.alsumaria.tv/news/localnews/576947/%D9%82%D8%A8%D9%88%D9%84-6645-%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%8B-%D9%85%D9%87%D9%86%D9%8A%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D9%88%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D9%86%D9%81%D8%B7",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-24T06:13:38+00:00",
-      "image": "./assets/news/ad92e83f488d6c046f4e3e6b.jpg",
-      "original_image": "./assets/news/ad92e83f488d6c046f4e3e6b.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/576947/%D9%82%D8%A8%D9%88%D9%84-6645-%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%8B-%D9%85%D9%87%D9%86%D9%8A%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D9%88%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D9%86%D9%81%D8%B7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fc04b44a0a4d.html"
-    },
-    {
       "title": "بزشكيان يتعهد بعدم الخضوع ويتهم واشنطن بـ\"الإرهاب\"، وتراشق إسرائيلي سوري بشأن الجولان - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c9p80exd62kgo",
       "category": "أمن",
@@ -464,22 +480,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/82f803166938.html"
-    },
-    {
-      "title": "وكالة أممية ترصد تصاعداً في تقارير العنف ضد النساء في غزة - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c6d08mxnj508o",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-23T19:02:50+00:00",
-      "image": "./assets/news/c61fc0993276291f5d7e8b42.jpg",
-      "original_image": "./assets/news/c61fc0993276291f5d7e8b42.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c6d08mxnj508o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/205f24e1631e.html"
     },
     {
       "title": "صور: تفكيك شبكة للمضاربة بالدولار في بغداد وإحالة عناصرها للقضاء",
