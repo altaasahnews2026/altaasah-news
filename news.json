@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T13:12:15.951173+00:00",
+  "updated_at": "2026-09-24T13:27:17.118457+00:00",
   "items": [
     {
       "title": "سماع أصوات انفجارات في محيط السفارة البريطانية ببغداد.. ومصدر يكشف السبب",
@@ -50,6 +50,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c848962a5998.html"
     },
     {
+      "title": "هجمة ضد نشأت أكرم بسبب تصريح حول مشاركة مصر والأردن ببطولات الخليج.. يريدون المال",
+      "url": "https://www.alsumaria.tv/Entertainment-News/576983/sports/%D9%87%D8%AC%D9%85%D8%A9-%D8%B6%D8%AF-%D9%86%D8%B4%D8%A3%D8%AA-%D8%A3%D9%83%D8%B1%D9%85-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D8%AD%D9%88%D9%84-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%85%D8%B5%D8%B1-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A8%D8%A8%D8%B7%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D9%8A%D8%B1%D9%8A",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-24T13:18:14+00:00",
+      "image": "./assets/news/d9c8c853f3a3c53ae1202127.jpg",
+      "original_image": "./assets/news/d9c8c853f3a3c53ae1202127.jpg",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/576983/sports/%D9%87%D8%AC%D9%85%D8%A9-%D8%B6%D8%AF-%D9%86%D8%B4%D8%A3%D8%AA-%D8%A3%D9%83%D8%B1%D9%85-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D8%AD%D9%88%D9%84-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%85%D8%B5%D8%B1-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A8%D8%A8%D8%B7%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D9%8A%D8%B1%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/21d75807ea50.html"
+    },
+    {
       "title": "مباحثات عراقية كويتية في الملفات ذات الاهتمام المشترك والمجالات الأمنية والإعلامية",
       "url": "https://www.alsumaria.tv/news/politics/576982/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D9%83%D9%88%D9%8A%D8%AA%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%B0%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%87%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83-%D9%88%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A",
       "category": "أمن",
@@ -64,6 +80,22 @@
       "report": true,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c4edc5e27f24.html"
+    },
+    {
+      "title": "فاطمة الزهراء المنصوري: ماذا نعرف عن المرشحة المحتملة لرئاسة الحكومة المغربية؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c6ly7j8p58v8o",
+      "category": "سياسة",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-24T12:56:14+00:00",
+      "image": "./assets/news/919a0be3c1a39c3246710040.jpg",
+      "original_image": "./assets/news/919a0be3c1a39c3246710040.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c6ly7j8p58v8o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8dcd03670b16.html"
     },
     {
       "title": "إيقاف مهاجم موناكو أربع مباريات بسبب احتفاله بالهدف.. حركة غير مقبولة",
@@ -103,8 +135,8 @@
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-24T12:29:33+00:00",
-      "image": "./assets/news/64a9fdd44a57b3f1c751444b.png",
-      "original_image": "./assets/news/64a9fdd44a57b3f1c751444b.png",
+      "image": "./assets/news/a9c50328dbb3d228970f0acd.png",
+      "original_image": "./assets/news/a9c50328dbb3d228970f0acd.png",
       "source_url": "https://www.alsumaria.tv/news/localnews/576980/%D8%A7%D9%84%D8%A7%D8%B9%D8%B1%D8%AC%D9%8A-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%AA%D8%A4%D9%85%D9%91%D9%86-92-%D8%A8%D8%A7%D9%84%D9%85%D8%A6%D8%A9-%D9%85%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%AA%D8%AC%D8%A7%D9%88%D8%B2%D8%AA-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%A8",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -112,22 +144,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c9c74f2d8b68.html"
-    },
-    {
-      "title": "فاطمة الزهراء المنصوري: ماذا نعرف عن المرشحة المحتملة لرئاسة الحكومة المغربية؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c6ly7j8p58v8o",
-      "category": "سياسة",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-24T12:11:18+00:00",
-      "image": "./assets/news/919a0be3c1a39c3246710040.jpg",
-      "original_image": "./assets/news/919a0be3c1a39c3246710040.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c6ly7j8p58v8o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/db565e1dec1a.html"
     },
     {
       "title": "السليمانية تبكي يارا.. طفلة رحلت فجأة بعد اصطدامها بباب زجاجي داخل مدرستها",
@@ -151,8 +167,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-24T12:07:21+00:00",
-      "image": "./assets/news/622d77c7d31773e2b57d955a.jpg",
-      "original_image": "./assets/news/622d77c7d31773e2b57d955a.jpg",
+      "image": "./assets/news/5dc26db258f56e1b25490ba0.jpg",
+      "original_image": "./assets/news/5dc26db258f56e1b25490ba0.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/576979/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%8A%D8%B5%D9%88%D9%91%D8%AA-%D8%B9%D9%84%D9%89-%D8%AA%D9%88%D8%B5%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%81%D9%8A-%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D8%AA%D9%84%D9%88%D8%AB-%D9%85%D9%8A%D8%A7%D9%87-%D9%86%D9%87%D8%B1-%D8%AF%D8%AC%D9%84%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -295,8 +311,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-24T11:40:50+00:00",
-      "image": "./assets/news/b245a362f26b8ad7718e8ac3.jpg",
-      "original_image": "./assets/news/b245a362f26b8ad7718e8ac3.jpg",
+      "image": "./assets/news/7f4cb98a3e018d045d4e4463.jpg",
+      "original_image": "./assets/news/7f4cb98a3e018d045d4e4463.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/576975/%D8%A8%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D9%86-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%AA%D8%B3%D9%87%D9%8A%D9%84%D8%A7%D8%AA-%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -480,22 +496,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/320bb853f0d7.html"
-    },
-    {
-      "title": "11 ألف موظف حكومي أمي في العراق",
-      "url": "https://www.alsumaria.tv/news/localnews/576963/11-%D8%A3%D9%84%D9%81-%D9%85%D9%88%D8%B8%D9%81-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%A3%D9%85%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-24T09:40:24+00:00",
-      "image": "./assets/news/920b2aa903360dafd550452c.jpg",
-      "original_image": "./assets/news/920b2aa903360dafd550452c.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/576963/11-%D8%A3%D9%84%D9%81-%D9%85%D9%88%D8%B8%D9%81-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%A3%D9%85%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9c5e689dcd3a.html"
     },
     {
       "title": "المغرب: حزب الأصالة والمعاصرة يتصدر الانتخابات وسط أدنى نسبة مشاركة منذ 2007 - شفق نيوز..",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T13:12:21.246553+00:00",
+  "updated_at": "2026-09-24T13:27:19.564240+00:00",
   "latest": [
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
@@ -107,14 +107,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cwe8ekmv4ej5o",
       "category": "عراق",
       "published": "2026-09-24T09:13:46+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "11 ألف موظف حكومي أمي في العراق",
-      "url": "https://www.alsumaria.tv/news/localnews/576963/11-%D8%A3%D9%84%D9%81-%D9%85%D9%88%D8%B8%D9%81-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%A3%D9%85%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-      "category": "عراق",
-      "published": "2026-09-24T09:40:24+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -243,6 +235,14 @@
       "url": "https://www.alsumaria.tv/news/localnews/576978/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D9%8A%D9%88%D9%82%D8%B9%D8%A7%D9%86-%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%AB%D9%86%D8%A7%D8%A6%D9%8A-%D9%81%D9%8A-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%81%D8%B3",
       "category": "عراق",
       "published": "2026-09-24T12:05:52+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "مجلس النواب يصوّت على توصيات التحقيق في أسباب تلوث مياه نهر دجلة",
+      "url": "https://www.alsumaria.tv/news/politics/576979/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%8A%D8%B5%D9%88%D9%91%D8%AA-%D8%B9%D9%84%D9%89-%D8%AA%D9%88%D8%B5%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%81%D9%8A-%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D8%AA%D9%84%D9%88%D8%AB-%D9%85%D9%8A%D8%A7%D9%87-%D9%86%D9%87%D8%B1-%D8%AF%D8%AC%D9%84%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-24T12:07:21+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -595,16 +595,6 @@
       ]
     },
     {
-      "title": "البيت الأبيض يطلق «ترمب تي في» عبر الإنترنت مع تصاعد أزمة وسائل الإعلام",
-      "url": "https://aawsat.com/node/5321175",
-      "category": "دولي",
-      "published": "Tue, 22 Sep 2026 12:54:29 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
       "title": "بريطانيا تُعيد النظر في اتفاق جزر تشاغوس بعد انتقادات ترمب",
       "url": "https://aawsat.com/node/5321797",
       "category": "دولي",
@@ -649,6 +639,14 @@
       "url": "https://aawsat.com/node/5321539",
       "category": "دولي",
       "published": "Wed, 23 Sep 2026 08:12:29 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "رئيسة استخبارات ألبانيا تسلِّم نفسها في قضية فساد وتسريب معلومات سرية",
+      "url": "https://aawsat.com/node/5321531",
+      "category": "دولي",
+      "published": "Wed, 23 Sep 2026 07:39:14 +0100",
       "breaking": false,
       "watch_topics": []
     }
