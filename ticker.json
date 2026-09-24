@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T18:38:17.843939+00:00",
+  "updated_at": "2026-09-24T18:51:17.001812+00:00",
   "latest": [
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
@@ -12,12 +12,15 @@
       ]
     },
     {
-      "title": "صحراء الأنبار تكشف مخبأ قنابر هاون معدة لاستهداف ثكنات عسكرية",
-      "url": "https://964media.com/719895/",
+      "title": "مجلس الشيوخ الأمريكي يرفض مشروع قانون يحد من صلاحيات ترامب بحرب إيران",
+      "url": "https://www.alsumaria.tv/news/international/577010/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%b4%d9%8a%d9%88%d8%ae-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%8a%d8%b1%d9%81%d8%b6-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%82%d8%a7%d9%86%d9%88%d9%86-%d9%8a%d8%ad%d8%af-%d9%85%d9%86-%d8%b5%d9%84%d8%a7%d8%ad%d9%8a?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
       "category": "عراق",
-      "published": "2026-09-24T13:58:25+00:00",
-      "breaking": true,
-      "watch_topics": []
+      "published": "Thu, 24 Sep 2026 18:45:07 GMT",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
     },
     {
       "title": "العراق وألمانيا يبحثان تداعيات أزمة مضيق هرمز",
@@ -106,14 +109,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cwe8ekmv4ej5o",
       "category": "عراق",
       "published": "2026-09-24T13:23:31+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "اليكم أسعار الدولار مع اغلاق نهاية الأسبوع",
-      "url": "https://www.alsumaria.tv/news/economy/576990/%D8%A7%D9%84%D9%8A%D9%83%D9%85-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D8%B9-%D8%A7%D8%BA%D9%84%D8%A7%D9%82-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9",
-      "category": "عراق",
-      "published": "2026-09-24T14:23:55+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -242,6 +237,14 @@
       "url": "https://www.alsumaria.tv/news/localnews/577008/%D8%A7%D9%84%D8%B5%D8%AF%D8%B1-%D9%8A%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%AC%D9%84%D9%91-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D8%AD%D8%A8-%D9%84%D8%A2%D9%84-%D8%A7%D9%84%D8%B5%D8%AF%D8%B1",
       "category": "عراق",
       "published": "2026-09-24T18:03:02+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "بالصور.. تدريبات أسود الرافدين استعداداً لمواجهة الكويت في خليجي 27",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577009/sports/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D9%8B-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
+      "category": "عراق",
+      "published": "2026-09-24T18:04:38+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -645,14 +648,6 @@
     }
   ],
   "breaking": [
-    {
-      "title": "صحراء الأنبار تكشف مخبأ قنابر هاون معدة لاستهداف ثكنات عسكرية",
-      "url": "https://964media.com/719895/",
-      "category": "عراق",
-      "published": "2026-09-24T13:58:25+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
     {
       "title": "السعودية تكتب فصلاً جديداً في مسيرة الطاقة... إرث نفطي وطموح نووي",
       "url": "https://aawsat.com/node/5321365",
