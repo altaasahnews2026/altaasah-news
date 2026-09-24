@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T07:50:20.596816+00:00",
+  "updated_at": "2026-09-24T07:59:09.191127+00:00",
   "latest": [
     {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
@@ -172,14 +172,6 @@
       "watch_topics": []
     },
     {
-      "title": "هل ترتفع أسعار الخبز في مصر؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c62kwyen333jo",
-      "category": "عراق",
-      "published": "2026-09-23T17:39:18+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "أبرز العناوين - صفحة المباشر - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cqkgv77rjv6ro",
       "category": "عراق",
@@ -264,6 +256,14 @@
       "url": "https://www.alsumaria.tv/news/localnews/576948/%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-%D9%88%D8%AA%D8%B9%D8%A7%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8-11-%D8%AF%D8%B1%D8%AC%D8%A9",
       "category": "عراق",
       "published": "2026-09-24T06:31:36+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "العثور على قذيفة مدفع غير منفجرة داخل موقع تاريخي بالسليمانية (صورة)",
+      "url": "https://964media.com/719723/",
+      "category": "عراق",
+      "published": "2026-09-24T06:45:19+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -526,16 +526,6 @@
       ]
     },
     {
-      "title": "«تقرير»: 8 من أفراد البحرية الأميركية حاولوا الانتحار خلال حرب إيران",
-      "url": "https://aawsat.com/node/5321916",
-      "category": "دولي",
-      "published": "Thu, 24 Sep 2026 04:03:45 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "«تقرير»: أميركا أعدت مذكرة تنديد ببريطانيا بسبب الضفة الغربية لكنها لم تُنشر قط",
       "url": "https://aawsat.com/node/5321913",
       "category": "دولي",
@@ -664,6 +654,14 @@
       "url": "https://aawsat.com/node/5321658",
       "category": "دولي",
       "published": "Wed, 23 Sep 2026 12:56:03 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "ضربات روسية على أوكرانيا بالتزامن مع لقاء زيلينسكي وترمب",
+      "url": "https://aawsat.com/node/5321574",
+      "category": "دولي",
+      "published": "Wed, 23 Sep 2026 09:37:24 +0100",
       "breaking": false,
       "watch_topics": []
     }
