@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T16:57:59.832882+00:00",
+  "updated_at": "2026-09-24T17:08:17.504018+00:00",
   "items": [
     {
       "title": "العراق في اجتماع نيويورك: دعم لفلسطين وإدانة للاعتداءات على سوريا ولبنان",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ee5f33f93d87.html"
+    },
+    {
+      "title": "السعودية تضخ النفط عبر خط شرق-غرب وتؤجل شحن الناقلات",
+      "url": "https://www.alsumaria.tv/news/international/577004/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B6%D8%AE-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B9%D8%A8%D8%B1-%D8%AE%D8%B7-%D8%B4%D8%B1%D9%82-%D8%BA%D8%B1%D8%A8-%D9%88%D8%AA%D8%A4%D8%AC%D9%84-%D8%B4%D8%AD%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-24T17:05:00+00:00",
+      "image": "./assets/news/e65ae30e72f26efaada0a2be.jpg",
+      "original_image": "./assets/news/e65ae30e72f26efaada0a2be.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577004/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B6%D8%AE-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B9%D8%A8%D8%B1-%D8%AE%D8%B7-%D8%B4%D8%B1%D9%82-%D8%BA%D8%B1%D8%A8-%D9%88%D8%AA%D8%A4%D8%AC%D9%84-%D8%B4%D8%AD%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/869b257119de.html"
     },
     {
       "title": "صور ثلاثية الأبعاد.. ميتا تختبر مكالمات واتساب جديدة",
@@ -352,22 +368,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/69c95fc7d13a.html"
-    },
-    {
-      "title": "هجمة ضد نشأت أكرم بسبب تصريح حول مشاركة مصر والأردن ببطولات الخليج.. يريدون المال",
-      "url": "https://www.alsumaria.tv/Entertainment-News/576983/sports/%D9%87%D8%AC%D9%85%D8%A9-%D8%B6%D8%AF-%D9%86%D8%B4%D8%A3%D8%AA-%D8%A3%D9%83%D8%B1%D9%85-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D8%AD%D9%88%D9%84-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%85%D8%B5%D8%B1-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A8%D8%A8%D8%B7%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D9%8A%D8%B1%D9%8A",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-24T13:18:14+00:00",
-      "image": "./assets/news/d9c8c853f3a3c53ae1202127.jpg",
-      "original_image": "./assets/news/d9c8c853f3a3c53ae1202127.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/576983/sports/%D9%87%D8%AC%D9%85%D8%A9-%D8%B6%D8%AF-%D9%86%D8%B4%D8%A3%D8%AA-%D8%A3%D9%83%D8%B1%D9%85-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D8%AD%D9%88%D9%84-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%85%D8%B5%D8%B1-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A8%D8%A8%D8%B7%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D9%8A%D8%B1%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/21d75807ea50.html"
     },
     {
       "title": "فاطمة الزهراء المنصوري: ماذا نعرف عن المرشحة المحتملة لرئاسة الحكومة المغربية؟ - شفق نيوز..",
