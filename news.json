@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T07:37:32.454034+00:00",
+  "updated_at": "2026-09-24T07:50:15.878622+00:00",
   "items": [
     {
       "title": "انفجارات تهز العاصمة الأوكرانية كييف",
@@ -18,20 +18,20 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/605ab0f2d498.html"
     },
     {
-      "title": "الحرس الثوري يعلن مقتل أحد قادته باشتباكات جنوب شرقي إيران",
-      "url": "https://www.alsumaria.tv/news/international/576931/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D8%A3%D8%AD%D8%AF-%D9%82%D8%A7%D8%AF%D8%AA%D9%87-%D8%A8%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83%D8%A7%D8%AA-%D8%AC%D9%86%D9%88%D8%A8-%D8%B4%D8%B1%D9%82%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-23T19:05:00+00:00",
-      "image": "./assets/news/93a033e22c71098364fbc61d.jpg",
-      "original_image": "./assets/news/93a033e22c71098364fbc61d.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/576931/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D8%A3%D8%AD%D8%AF-%D9%82%D8%A7%D8%AF%D8%AA%D9%87-%D8%A8%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83%D8%A7%D8%AA-%D8%AC%D9%86%D9%88%D8%A8-%D8%B4%D8%B1%D9%82%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "title": "التربية تحدد ضوابط قبول طلبة مدارس المتميزين وثانويات كلية بغداد",
+      "url": "https://www.alsumaria.tv/news/localnews/576951/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AF%D8%AF-%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D9%82%D8%A8%D9%88%D9%84-%D8%B7%D9%84%D8%A8%D8%A9-%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%A7%D9%84%D9%85%D8%AA%D9%85%D9%8A%D8%B2%D9%8A%D9%86-%D9%88%D8%AB%D8%A7%D9%86%D9%88%D9%8A%D8%A7%D8%AA-%D9%83%D9%84%D9%8A%D8%A9-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "category": "محليات",
+      "region": "بغداد",
+      "published": "2026-09-24T07:34:29+00:00",
+      "image": "./assets/news/30ba026068b46db979b7aada.jpg",
+      "original_image": "./assets/news/30ba026068b46db979b7aada.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/576951/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AF%D8%AF-%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D9%82%D8%A8%D9%88%D9%84-%D8%B7%D9%84%D8%A8%D8%A9-%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%A7%D9%84%D9%85%D8%AA%D9%85%D9%8A%D8%B2%D9%8A%D9%86-%D9%88%D8%AB%D8%A7%D9%86%D9%88%D9%8A%D8%A7%D8%AA-%D9%83%D9%84%D9%8A%D8%A9-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "source_name": "السومرية نيوز",
-      "breaking": true,
+      "breaking": false,
       "kirkuk": false,
       "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/006de439d5e0.html"
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/57ab6e7d9b44.html"
     },
     {
       "title": "جدول مباريات اليوم في خليجي 27.. الموعد والقنوات الناقلة",
