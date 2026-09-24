@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T12:45:10.473669+00:00",
+  "updated_at": "2026-09-24T12:58:40.932305+00:00",
   "latest": [
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
@@ -9,17 +9,6 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
-      ]
-    },
-    {
-      "title": "النجباء: إغلاق مطارات العراق بوجه الطائرات الإيرانية “انبطاح لأميركا”",
-      "url": "https://964media.com/719791/",
-      "category": "عراق",
-      "published": "2026-09-24T09:40:44+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
       ]
     },
     {
@@ -90,14 +79,6 @@
       ]
     },
     {
-      "title": "الزيدي يوجه المؤسسات الرسمية والمحافظات بالاستعداد للاحتفال بيوم السيادة العراقي",
-      "url": "https://964media.com/719356/",
-      "category": "عراق",
-      "published": "2026-09-23T06:55:49+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "كمين للاستخبارات يطيح بموظفة في تربية الديوانية تبيع التعيينات",
       "url": "https://964media.com/719384/",
       "category": "عراق",
@@ -126,14 +107,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cwe8ekmv4ej5o",
       "category": "عراق",
       "published": "2026-09-24T09:13:46+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ترسانة خطرة في بغداد.. الشرطة الاتحادية تضبط أسلحة ومتفجرات داخل حسينية",
-      "url": "https://www.alsumaria.tv/news/security/576961/%D8%AA%D8%B1%D8%B3%D8%A7%D9%86%D8%A9-%D8%AE%D8%B7%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D9%88%D9%85%D8%AA%D9%81%D8%AC%D8%B1%D8%A7%D8%AA-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AD%D8%B3%D9%8A%D9%86%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-24T09:14:14+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -246,6 +219,30 @@
       "url": "https://www.alsumaria.tv/news/localnews/576977/%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D8%A3%D9%8A%D8%AF%D9%8A-%D8%A8%D9%8A%D9%86-%D9%85%D8%B1%D8%A7%D9%81%D9%82%D9%8A%D9%86-%D9%88%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%81%D9%8A-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A7%D9%84%D8%AD%D9%83%D9%8A%D9%85-%D8%A8%D9%85%D9%8A%D8%B3%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
       "category": "عراق",
       "published": "2026-09-24T11:50:40+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "العراق يعلن حالة الطوارئ البيئية ويبدأ حراكاً لمواجهة التلوث",
+      "url": "https://964media.com/719868/",
+      "category": "عراق",
+      "published": "2026-09-24T11:55:36+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "أبرز العناوين - صفحة المباشر - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ck1wx1p7lr4go",
+      "category": "عراق",
+      "published": "2026-09-24T12:03:46+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "اليوم الثالث من أعمال الجمعية العامة للأمم المتحدة: نتنياهو يلقي كلمته في نيويورك وعباس يخاطب الأعضاء عبر الفيديو - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c64g7d8eveyvt",
+      "category": "عراق",
+      "published": "2026-09-24T12:03:46+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -657,17 +654,6 @@
     }
   ],
   "breaking": [
-    {
-      "title": "النجباء: إغلاق مطارات العراق بوجه الطائرات الإيرانية “انبطاح لأميركا”",
-      "url": "https://964media.com/719791/",
-      "category": "عراق",
-      "published": "2026-09-24T09:40:44+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
-    },
     {
       "title": "البنك الأوروبي: اقتصاد العراق الأكثر تأثراً بإغلاق مضيق هرمز",
       "url": "https://964media.com/719839/",
