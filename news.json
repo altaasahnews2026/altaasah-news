@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T20:36:09.151325+00:00",
+  "updated_at": "2026-09-24T20:49:28.326880+00:00",
   "items": [
     {
       "title": "العراق في اجتماع نيويورك: دعم لفلسطين وإدانة للاعتداءات على سوريا ولبنان",
@@ -16,6 +16,38 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ee5f33f93d87.html"
+    },
+    {
+      "title": "الكشف عن عبور 60 سفينة تجارية مضيق هرمز",
+      "url": "https://www.alsumaria.tv/news/international/577017/%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%B9%D8%A8%D9%88%D8%B1-60-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-24T20:40:00+00:00",
+      "image": "./assets/news/8e86560162864372cfadebda.jpg",
+      "original_image": "./assets/news/8e86560162864372cfadebda.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577017/%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%B9%D8%A8%D9%88%D8%B1-60-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/189ada2ef98e.html"
+    },
+    {
+      "title": "من نيويورك.. العراق يبحث مع المغرب فتح مسار لتصدير الكبريت",
+      "url": "https://964media.com/720046/",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-24T20:29:45+00:00",
+      "image": "./assets/news/74639fde8db1279a92c3bc74.jpg",
+      "original_image": "./assets/news/74639fde8db1279a92c3bc74.jpg",
+      "source_url": "https://964media.com/720046/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c6f89d3365b8.html"
     },
     {
       "title": "بغداد والرباط تبحثان إمكانية تصدير الكبريت العراقي إلى المغرب",
@@ -384,38 +416,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bc68f5e71426.html"
-    },
-    {
-      "title": "تمارين تعزز حرق الدهون خلال أسبوع واحد",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/576997/%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%AD%D8%B1%D9%82-%D8%A7%D9%84%D8%AF%D9%87%D9%88%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D9%88%D8%A7%D8%AD%D8%AF",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-24T15:53:03+00:00",
-      "image": "./assets/news/9941d5b84305a1d63a1b7335.jpg",
-      "original_image": "./assets/news/9941d5b84305a1d63a1b7335.jpg",
-      "source_url": "https://www.alsumaria.tv/news/miscellaneous/576997/%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%AD%D8%B1%D9%82-%D8%A7%D9%84%D8%AF%D9%87%D9%88%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D9%88%D8%A7%D8%AD%D8%AF",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/433eaccba4ec.html"
-    },
-    {
-      "title": "كتائب حزب الله تذكر العراقيين بحصار التسعينيات وتدعو إلى دعم المنتجات الإيرانية",
-      "url": "https://964media.com/719948/",
-      "category": "سياسة",
-      "region": "السليمانية",
-      "published": "2026-09-24T15:38:42+00:00",
-      "image": "./assets/news/74abc6311ebb9c156c25eacd.jpg",
-      "original_image": "./assets/news/74abc6311ebb9c156c25eacd.jpg",
-      "source_url": "https://964media.com/719948/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "السليمانية",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fbdd9789411f.html"
     },
     {
       "title": "المغرب: هل تفرز نتائج الانتخابات حكومة تلبي تطلعات الناخبين؟ - شفق نيوز..",

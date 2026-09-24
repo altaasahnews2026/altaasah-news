@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T20:36:14.035976+00:00",
+  "updated_at": "2026-09-24T20:49:33.120304+00:00",
   "latest": [
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
@@ -44,16 +44,6 @@
       ]
     },
     {
-      "title": "كتائب حزب الله تذكر العراقيين بحصار التسعينيات وتدعو إلى دعم المنتجات الإيرانية",
-      "url": "https://964media.com/719948/",
-      "category": "عراق",
-      "published": "2026-09-24T15:38:42+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "السعودية تضخ النفط عبر خط شرق-غرب وتؤجل شحن الناقلات",
       "url": "https://www.alsumaria.tv/news/international/577004/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B6%D8%AE-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B9%D8%A8%D8%B1-%D8%AE%D8%B7-%D8%B4%D8%B1%D9%82-%D8%BA%D8%B1%D8%A8-%D9%88%D8%AA%D8%A4%D8%AC%D9%84-%D8%B4%D8%AD%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA",
       "category": "عراق",
@@ -71,6 +61,16 @@
       "breaking": false,
       "watch_topics": [
         "أمريكا"
+      ]
+    },
+    {
+      "title": "الكشف عن عبور 60 سفينة تجارية مضيق هرمز",
+      "url": "https://www.alsumaria.tv/news/international/577017/%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%B9%D8%A8%D9%88%D8%B1-60-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "category": "عراق",
+      "published": "2026-09-24T20:40:00+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
       ]
     },
     {
@@ -110,14 +110,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cje3r45rq2p7o",
       "category": "عراق",
       "published": "2026-09-24T14:53:35+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "تمارين تعزز حرق الدهون خلال أسبوع واحد",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/576997/%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%AD%D8%B1%D9%82-%D8%A7%D9%84%D8%AF%D9%87%D9%88%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D9%88%D8%A7%D8%AD%D8%AF",
-      "category": "عراق",
-      "published": "2026-09-24T15:53:03+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -246,6 +238,14 @@
       "url": "https://www.alsumaria.tv/Entertainment-News/577014/sports/%D9%82%D8%B7%D8%B1-%D8%AA%D9%87%D8%B2%D9%85-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A8%D9%87%D8%AF%D9%81%D9%8A%D9%86-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
       "category": "عراق",
       "published": "2026-09-24T19:58:00+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "حمودي للقائم بالأعمال الأمريكي: العراق ماض بتنفيذ مشروعه لتطبيق السيادة",
+      "url": "https://www.alsumaria.tv/news/localnews/577015/%D8%AD%D9%85%D9%88%D8%AF%D9%8A-%D9%84%D9%84%D9%82%D8%A7%D8%A6%D9%85-%D8%A8%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D8%A7%D8%B6-%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D9%87-%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-24T20:02:57+00:00",
       "breaking": false,
       "watch_topics": []
     },
