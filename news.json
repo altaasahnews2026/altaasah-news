@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T06:44:38.991417+00:00",
+  "updated_at": "2026-09-24T06:59:03.460503+00:00",
   "items": [
     {
       "title": "انفجارات تهز العاصمة الأوكرانية كييف",
@@ -32,6 +32,38 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/006de439d5e0.html"
+    },
+    {
+      "title": "الجيش الإسرائيلي يقتل رئيس المالية في حماس",
+      "url": "https://www.alsumaria.tv/news/international/576949/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D8%AA%D9%84-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AD%D9%85%D8%A7%D8%B3",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-24T06:46:22+00:00",
+      "image": "./assets/news/276b6cd7b4d76f3528e88962.jpg",
+      "original_image": "./assets/news/276b6cd7b4d76f3528e88962.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/576949/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D8%AA%D9%84-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AD%D9%85%D8%A7%D8%B3",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d8d46d9d8757.html"
+    },
+    {
+      "title": "شاب يقتل والده بـ “سكين” في البصرة ويلوذ بالفرار",
+      "url": "https://964media.com/719712/",
+      "category": "محليات",
+      "region": "البصرة",
+      "published": "2026-09-24T06:28:28+00:00",
+      "image": "./assets/news/9dc27a124c035486f7bdd59e.jpg",
+      "original_image": "./assets/news/9dc27a124c035486f7bdd59e.jpg",
+      "source_url": "https://964media.com/719712/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "البصرة",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/58ef0213dc1c.html"
     },
     {
       "title": "قبول 6645 طالباً مهنياً في الكليات التقنية ومعاهد النفط",
@@ -416,22 +448,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b0e91a4d3c6f.html"
-    },
-    {
-      "title": "الزيدي وبزشكيان يؤكدان ضرورة تجنيب المنطقة اتساع دائرة التصعيد",
-      "url": "https://www.alsumaria.tv/news/politics/576929/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%88%D8%A8%D8%B2%D8%B4%D9%83%D9%8A%D8%A7%D9%86-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AA%D8%AC%D9%86%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D8%AA%D8%B3%D8%A7%D8%B9-%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-23T18:27:00+00:00",
-      "image": "./assets/news/171a9ebce02b63ab013b2a6e.jpg",
-      "original_image": "./assets/news/171a9ebce02b63ab013b2a6e.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/576929/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%88%D8%A8%D8%B2%D8%B4%D9%83%D9%8A%D8%A7%D9%86-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AA%D8%AC%D9%86%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D8%AA%D8%B3%D8%A7%D8%B9-%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8e3bb687f947.html"
     },
     {
       "title": "هل ترتفع أسعار الخبز في مصر؟ - شفق نيوز..",
