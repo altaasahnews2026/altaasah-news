@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T18:02:49.641891+00:00",
+  "updated_at": "2026-09-24T18:19:52.772658+00:00",
   "items": [
     {
       "title": "العراق في اجتماع نيويورك: دعم لفلسطين وإدانة للاعتداءات على سوريا ولبنان",
@@ -18,13 +18,61 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ee5f33f93d87.html"
     },
     {
+      "title": "بالصور.. تدريبات أسود الرافدين استعداداً لمواجهة الكويت في خليجي 27",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577009/sports/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D9%8B-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-24T18:04:38+00:00",
+      "image": "./assets/news/36583625487154240771c798.jpg",
+      "original_image": "./assets/news/36583625487154240771c798.jpg",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/577009/sports/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D9%8B-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/dec3b8107a37.html"
+    },
+    {
+      "title": "الصدر يرد على صفحات في مواقع التواصل: جلّ العراق محب لآل الصدر",
+      "url": "https://www.alsumaria.tv/news/localnews/577008/%D8%A7%D9%84%D8%B5%D8%AF%D8%B1-%D9%8A%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%AC%D9%84%D9%91-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D8%AD%D8%A8-%D9%84%D8%A2%D9%84-%D8%A7%D9%84%D8%B5%D8%AF%D8%B1",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-24T18:03:02+00:00",
+      "image": "./assets/news/2ee4addc542c761d59dae0c0.png",
+      "original_image": "./assets/news/2ee4addc542c761d59dae0c0.png",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577008/%D8%A7%D9%84%D8%B5%D8%AF%D8%B1-%D9%8A%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%AC%D9%84%D9%91-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D8%AD%D8%A8-%D9%84%D8%A2%D9%84-%D8%A7%D9%84%D8%B5%D8%AF%D8%B1",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b23840350974.html"
+    },
+    {
+      "title": "العراق وأميركا يوقعان اتفاق تسليم موقع الدعم الدبلوماسي في مطار بغداد",
+      "url": "https://964media.com/719981/",
+      "category": "عربي ودولي",
+      "region": "بغداد",
+      "published": "2026-09-24T17:53:25+00:00",
+      "image": "./assets/news/cc49688d1dba84899579d9f5.jpg",
+      "original_image": "./assets/news/cc49688d1dba84899579d9f5.jpg",
+      "source_url": "https://964media.com/719981/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/29a43e8f74b4.html"
+    },
+    {
       "title": "الحكومة العراقية تتسلم موقع الدعم الدبلوماسي في مطار بغداد الدولي",
       "url": "https://www.alsumaria.tv/news/politics/577006/%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B3%D9%84%D9%85-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A-%D9%81%D9%8A-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
       "category": "سياسة",
       "region": "بغداد",
       "published": "2026-09-24T17:46:31+00:00",
-      "image": "./assets/news/3d1c4137ea67c24b7afcd0d8.jpg",
-      "original_image": "./assets/news/3d1c4137ea67c24b7afcd0d8.jpg",
+      "image": "./assets/news/46104ee257c77a6c78e9d750.jpg",
+      "original_image": "./assets/news/46104ee257c77a6c78e9d750.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/577006/%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B3%D9%84%D9%85-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A-%D9%81%D9%8A-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -338,22 +386,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cdf4eeaaa81f.html"
     },
     {
-      "title": "أستراليا توسع عقوباتها ضد روسيا وتدرج شركات وأسماء ومؤسسات جديدة",
-      "url": "https://www.alsumaria.tv/news/international/576988/%D8%A3%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7-%D8%AA%D9%88%D8%B3%D8%B9-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA%D9%87%D8%A7-%D8%B6%D8%AF-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%88%D8%AA%D8%AF%D8%B1%D8%AC-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D9%88%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D9%88%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-24T14:07:34+00:00",
-      "image": "./assets/news/56265be23794f14de1621127.jpg",
-      "original_image": "./assets/news/56265be23794f14de1621127.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/576988/%D8%A3%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7-%D8%AA%D9%88%D8%B3%D8%B9-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA%D9%87%D8%A7-%D8%B6%D8%AF-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%88%D8%AA%D8%AF%D8%B1%D8%AC-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D9%88%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D9%88%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/dc1110d5bfc0.html"
-    },
-    {
       "title": "صحراء الأنبار تكشف مخبأ قنابر هاون معدة لاستهداف ثكنات عسكرية",
       "url": "https://964media.com/719895/",
       "category": "محليات",
@@ -368,22 +400,6 @@
       "report": false,
       "governorate": "الأنبار",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/20364c68fc60.html"
-    },
-    {
-      "title": "تعويضات للمحافظات الأكثر تضرراً.. وزير الموارد يحذر من عودة الكارثة البيئية الى الأنهار",
-      "url": "https://www.alsumaria.tv/news/localnews/576987/%D8%AA%D8%B9%D9%88%D9%8A%D8%B6%D8%A7%D8%AA-%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%83%D8%AB%D8%B1-%D8%AA%D8%B6%D8%B1%D8%B1%D8%A7%D9%8B-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-24T13:57:16+00:00",
-      "image": "./assets/news/db55cd26e6dc8c4c47978771.png",
-      "original_image": "./assets/news/db55cd26e6dc8c4c47978771.png",
-      "source_url": "https://www.alsumaria.tv/news/localnews/576987/%D8%AA%D8%B9%D9%88%D9%8A%D8%B6%D8%A7%D8%AA-%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%83%D8%AB%D8%B1-%D8%AA%D8%B6%D8%B1%D8%B1%D8%A7%D9%8B-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/eb7eec91ac5f.html"
     },
     {
       "title": "المغرب: حزب الأصالة والمعاصرة يتصدر الانتخابات وسط أدنى نسبة مشاركة منذ 2007 - شفق نيوز..",
