@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-24T19:01:46.184815+00:00",
+  "updated_at": "2026-09-24T19:13:55.704311+00:00",
   "latest": [
+    {
+      "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
+      "url": "https://aawsat.com/node/5321276",
+      "category": "مشرق أوسط",
+      "published": "Tue, 22 Sep 2026 15:21:23 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
       "url": "https://aawsat.com/node/5320075",
@@ -153,14 +163,6 @@
       "watch_topics": []
     },
     {
-      "title": "\"أحد أعظم الألغاز العلمية التي لم تُحل\": ما الذي يكشفه التخدير عن أدمغتنا؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c6x2zkdn0kgxo",
-      "category": "عراق",
-      "published": "2026-09-24T16:27:22+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "هل يتدخل اتحاد الكرة بالتشكيلة؟.. ارنولد يكشف سبب عدم مشاركة المحترفين امام عمان",
       "url": "https://www.alsumaria.tv/Entertainment-News/576999/sports/%D9%87%D9%84-%D9%8A%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9%D8%9F-%D8%A7%D8%B1%D9%86%D9%88%D9%84%D8%AF-%D9%8A%D9%83%D8%B4%D9%81-%D8%B3%D8%A8%D8%A8-%D8%B9%D8%AF%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%B1%D9%81%D9%8A%D9%86-%D8%A7",
       "category": "عراق",
@@ -173,14 +175,6 @@
       "url": "https://www.alsumaria.tv/news/politics/577000/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%8A%D9%84%D9%82%D9%8A-%D9%83%D9%84%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82%D9%8A-%D8%A7%D9%84%D8%B3%D9%86%D9%88%D9%8A-%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88",
       "category": "عراق",
       "published": "2026-09-24T16:38:44+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "رئاسة الجمهورية تحتضن اجتماعا يخص نتائج المؤشر الإقليمي للعنف ضد المرأة",
-      "url": "https://www.alsumaria.tv/news/localnews/577005/%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D8%B6%D9%86-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7-%D9%8A%D8%AE%D8%B5-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D9%85%D8%A4%D8%B4%D8%B1-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A-%D9%84%D9%84%D8%B9%D9%86%D9%81-%D8%B6%D8%AF-%D8%A7%D9%84%D9%85%D8%B1%D8%A3",
-      "category": "عراق",
-      "published": "2026-09-24T16:48:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -209,6 +203,14 @@
       "watch_topics": []
     },
     {
+      "title": "رئاسة الجمهورية تحتضن اجتماعا يخص نتائج المؤشر الإقليمي للعنف ضد المرأة",
+      "url": "https://www.alsumaria.tv/news/localnews/577005/%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D8%B6%D9%86-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7-%D9%8A%D8%AE%D8%B5-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D9%85%D8%A4%D8%B4%D8%B1-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A-%D9%84%D9%84%D8%B9%D9%86%D9%81-%D8%B6%D8%AF-%D8%A7%D9%84%D9%85%D8%B1%D8%A3",
+      "category": "عراق",
+      "published": "2026-09-24T17:27:00+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "العثور على جثة مدير أحد الدوائر داخل بستان في ديالى",
       "url": "https://964media.com/719975/",
       "category": "عراق",
@@ -233,8 +235,8 @@
       "watch_topics": []
     },
     {
-      "title": "الصدر يرد على صفحات في مواقع التواصل: جلّ العراق محب لآل الصدر",
-      "url": "https://www.alsumaria.tv/news/localnews/577008/%D8%A7%D9%84%D8%B5%D8%AF%D8%B1-%D9%8A%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%AC%D9%84%D9%91-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D8%AD%D8%A8-%D9%84%D8%A2%D9%84-%D8%A7%D9%84%D8%B5%D8%AF%D8%B1",
+      "title": "السيد الصدر يرد على صفحات بمواقع التواصل: جلّ العراق محب لآل الصدر",
+      "url": "https://www.alsumaria.tv/news/localnews/577008/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%B5%D8%AF%D8%B1-%D9%8A%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D8%A8%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%AC%D9%84%D9%91-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D8%AD%D8%A8-%D9%84%D8%A2%D9%84-%D8%A7%D9%84%D8%B5%D8%AF%D8%B1",
       "category": "عراق",
       "published": "2026-09-24T18:03:02+00:00",
       "breaking": false,
@@ -245,6 +247,14 @@
       "url": "https://www.alsumaria.tv/Entertainment-News/577009/sports/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D9%8B-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
       "category": "عراق",
       "published": "2026-09-24T18:04:38+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "أرنولد: العراق كان يستحق الفوز على عُمان بنتيجة كبيرة لكن اللمسة الأخيرة غابت",
+      "url": "https://964media.com/719980/",
+      "category": "عراق",
+      "published": "2026-09-24T18:20:31+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -395,6 +405,16 @@
       ]
     },
     {
+      "title": "ولي العهد السعودي يعزي نائب رئيس الإمارات في وفاة أحمد بن راشد",
+      "url": "https://aawsat.com/node/5322263",
+      "category": "مشرق أوسط",
+      "published": "Thu, 24 Sep 2026 20:01:59 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "الإمارات تعلق رحلات الطيران الإيرانية",
       "url": "https://aawsat.com/node/5322205",
       "category": "مشرق أوسط",
@@ -462,16 +482,6 @@
       "breaking": false,
       "watch_topics": [
         "السعودية"
-      ]
-    },
-    {
-      "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
-      "url": "https://aawsat.com/node/5321276",
-      "category": "مشرق أوسط",
-      "published": "Tue, 22 Sep 2026 15:21:23 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
       ]
     },
     {
@@ -635,14 +645,6 @@
       "url": "https://aawsat.com/node/5321574",
       "category": "دولي",
       "published": "Wed, 23 Sep 2026 09:37:24 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بلجيكا ورواندا تطويان صفحة الخلاف وتستأنفان العلاقات الدبلوماسية",
-      "url": "https://aawsat.com/node/5321539",
-      "category": "دولي",
-      "published": "Wed, 23 Sep 2026 08:12:29 +0100",
       "breaking": false,
       "watch_topics": []
     }
