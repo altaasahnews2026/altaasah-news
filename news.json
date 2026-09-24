@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T17:35:39.509790+00:00",
+  "updated_at": "2026-09-24T17:45:44.979462+00:00",
   "items": [
     {
       "title": "العراق في اجتماع نيويورك: دعم لفلسطين وإدانة للاعتداءات على سوريا ولبنان",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ee5f33f93d87.html"
+    },
+    {
+      "title": "العثور على جثة مدير أحد الدوائر داخل بستان في ديالى",
+      "url": "https://964media.com/719975/",
+      "category": "محليات",
+      "region": "ديالى",
+      "published": "2026-09-24T17:28:13+00:00",
+      "image": "./assets/news/c5cddc3db8e3cc190b899582.jpg",
+      "original_image": "./assets/news/c5cddc3db8e3cc190b899582.jpg",
+      "source_url": "https://964media.com/719975/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "ديالى",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/86cbb9f99be8.html"
     },
     {
       "title": "أردوغان من نيويورك: نريد مع العراق طريق التنمية والتجارة بدلاً من مباحثات الإرهاب",
@@ -71,8 +87,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-24T16:48:30+00:00",
-      "image": "./assets/news/5985c49f6b152e696868719e.jpg",
-      "original_image": "./assets/news/5985c49f6b152e696868719e.jpg",
+      "image": "./assets/news/87577144167ffcf63f9cdb0d.jpg",
+      "original_image": "./assets/news/87577144167ffcf63f9cdb0d.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/577001/sports/%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D9%83%D8%B4%D9%81-%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%83%D9%88%D9%86%D8%A7%D8%AA%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -119,8 +135,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-24T16:33:10+00:00",
-      "image": "./assets/news/05c52cf9a5b24f15fd477bc3.jpg",
-      "original_image": "./assets/news/05c52cf9a5b24f15fd477bc3.jpg",
+      "image": "./assets/news/f25ebb58505437ba978a0499.jpg",
+      "original_image": "./assets/news/f25ebb58505437ba978a0499.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/576999/sports/%D9%87%D9%84-%D9%8A%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9%D8%9F-%D8%A7%D8%B1%D9%86%D9%88%D9%84%D8%AF-%D9%8A%D9%83%D8%B4%D9%81-%D8%B3%D8%A8%D8%A8-%D8%B9%D8%AF%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%B1%D9%81%D9%8A%D9%86-%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -400,22 +416,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8dcd03670b16.html"
-    },
-    {
-      "title": "السليمانية تبكي يارا.. طفلة رحلت فجأة بعد اصطدامها بباب زجاجي داخل مدرستها",
-      "url": "https://964media.com/719824/",
-      "category": "محليات",
-      "region": "السليمانية",
-      "published": "2026-09-24T12:10:53+00:00",
-      "image": "./assets/news/e4113741d8253ce4a7158df2.jpg",
-      "original_image": "./assets/news/e4113741d8253ce4a7158df2.jpg",
-      "source_url": "https://964media.com/719824/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "السليمانية",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e7c1a35ff20b.html"
     },
     {
       "title": "فرق التجارة تنتشر في بغداد والمحافظات لمكافحة الغش وتثبيت الأسعار – مؤتمر",
