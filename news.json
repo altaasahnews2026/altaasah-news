@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T05:24:27.768965+00:00",
+  "updated_at": "2026-09-24T05:35:29.452064+00:00",
   "items": [
     {
       "title": "انفجارات تهز العاصمة الأوكرانية كييف",
@@ -32,6 +32,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/006de439d5e0.html"
+    },
+    {
+      "title": "الخارجية الأمريكية تحذر مواطنيها من السفر إلى كولومبيا",
+      "url": "https://www.alsumaria.tv/news/international/576943/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%87%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D8%A5%D9%84%D9%89-%D9%83%D9%88%D9%84%D9%88%D9%85%D8%A8%D9%8A%D8%A7",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-24T05:21:00+00:00",
+      "image": "./assets/news/8046dbb79f20ccd63c91e4ad.jpg",
+      "original_image": "./assets/news/8046dbb79f20ccd63c91e4ad.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/576943/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%87%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D8%A5%D9%84%D9%89-%D9%83%D9%88%D9%84%D9%88%D9%85%D8%A8%D9%8A%D8%A7",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b9de67f82262.html"
     },
     {
       "title": "إخلاء لامرأة عمرها 87 عاماً يسلط الضوء على أزمة السكن في إسبانيا - شفق نيوز..",
@@ -448,38 +464,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c1850a8117a1.html"
-    },
-    {
-      "title": "الجيش الأمريكي يعلن وفاة عسكرية في الدوحة والبنتاغون يرفع حصيلة قتلاه",
-      "url": "https://www.alsumaria.tv/news/international/576924/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D9%88%D9%81%D8%A7%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%8A%D8%B1%D9%81%D8%B9-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D9%82%D8%AA%D9%84%D8%A7%D9%87",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-23T17:16:00+00:00",
-      "image": "./assets/news/6fae8a451d7f35660c518a54.jpg",
-      "original_image": "./assets/news/6fae8a451d7f35660c518a54.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/576924/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D9%88%D9%81%D8%A7%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%8A%D8%B1%D9%81%D8%B9-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D9%82%D8%AA%D9%84%D8%A7%D9%87",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d97e8ad78ff7.html"
-    },
-    {
-      "title": "‏الجيش الإسرائيلي يعلن عن تنفيذ عمليات دقيقة في سوريا",
-      "url": "https://www.alsumaria.tv/news/international/576923/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%AF%D9%82%D9%8A%D9%82%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-23T16:59:56+00:00",
-      "image": "./assets/news/b55cc3183236bd7d020a27f5.jpg",
-      "original_image": "./assets/news/b55cc3183236bd7d020a27f5.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/576923/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%AF%D9%82%D9%8A%D9%82%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/912a6eac12db.html"
     },
     {
       "title": "صور: تفكيك شبكة للمضاربة بالدولار في بغداد وإحالة عناصرها للقضاء",
