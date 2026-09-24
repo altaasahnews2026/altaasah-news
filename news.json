@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T05:57:19.698403+00:00",
+  "updated_at": "2026-09-24T06:07:51.599110+00:00",
   "items": [
     {
       "title": "انفجارات تهز العاصمة الأوكرانية كييف",
@@ -34,13 +34,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/006de439d5e0.html"
     },
     {
+      "title": "مبعوث ترامب يعلق على قاعدة زيلكان واعادتها الى بغداد",
+      "url": "https://www.alsumaria.tv/news/international/576946/%D9%85%D8%A8%D8%B9%D9%88%D8%AB-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%B2%D9%8A%D9%84%D9%83%D8%A7%D9%86-%D9%88%D8%A7%D8%B9%D8%A7%D8%AF%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%89-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "category": "محليات",
+      "region": "بغداد",
+      "published": "2026-09-24T05:54:24+00:00",
+      "image": "./assets/news/c99282ab4bfc7e20525ac82c.webp",
+      "original_image": "./assets/news/c99282ab4bfc7e20525ac82c.webp",
+      "source_url": "https://www.alsumaria.tv/news/international/576946/%D9%85%D8%A8%D8%B9%D9%88%D8%AB-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%B2%D9%8A%D9%84%D9%83%D8%A7%D9%86-%D9%88%D8%A7%D8%B9%D8%A7%D8%AF%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%89-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7ff9afd5285b.html"
+    },
+    {
       "title": "محاولات انتحار على متن حاملة الطائرات أبراهام لينكولن خلال حرب إيران",
       "url": "https://www.alsumaria.tv/news/international/576945/%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-%D9%85%D8%AA%D9%86-%D8%AD%D8%A7%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A3%D8%A8%D8%B1%D8%A7%D9%87%D8%A7%D9%85-%D9%84%D9%8A%D9%86%D9%83%D9%88%D9%84%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-24T05:45:00+00:00",
-      "image": "./assets/news/c561c45180f5b826ed0ff46e.jpg",
-      "original_image": "./assets/news/c561c45180f5b826ed0ff46e.jpg",
+      "image": "./assets/news/ebcfc27760d0e1fff8c1d051.jpg",
+      "original_image": "./assets/news/ebcfc27760d0e1fff8c1d051.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576945/%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-%D9%85%D8%AA%D9%86-%D8%AD%D8%A7%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A3%D8%A8%D8%B1%D8%A7%D9%87%D8%A7%D9%85-%D9%84%D9%8A%D9%86%D9%83%D9%88%D9%84%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -55,8 +71,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-24T05:21:00+00:00",
-      "image": "./assets/news/8046dbb79f20ccd63c91e4ad.jpg",
-      "original_image": "./assets/news/8046dbb79f20ccd63c91e4ad.jpg",
+      "image": "./assets/news/f173d7f1e161655d0cace093.jpg",
+      "original_image": "./assets/news/f173d7f1e161655d0cace093.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576943/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%87%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D8%A5%D9%84%D9%89-%D9%83%D9%88%D9%84%D9%88%D9%85%D8%A8%D9%8A%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -432,22 +448,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e1dc7c3444ca.html"
-    },
-    {
-      "title": "روسيا تعلن قصف مركزين لوجستيين أوكرانيين",
-      "url": "https://www.alsumaria.tv/news/international/576926/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D9%82%D8%B5%D9%81-%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D9%86-%D9%84%D9%88%D8%AC%D8%B3%D8%AA%D9%8A%D9%8A%D9%86-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D9%8A%D9%86",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-23T17:40:00+00:00",
-      "image": "./assets/news/0d1113ae600dcdb9184a6aff.jpg",
-      "original_image": "./assets/news/0d1113ae600dcdb9184a6aff.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/576926/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D9%82%D8%B5%D9%81-%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D9%86-%D9%84%D9%88%D8%AC%D8%B3%D8%AA%D9%8A%D9%8A%D9%86-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D9%8A%D9%86",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/62b5ef43e353.html"
     },
     {
       "title": "هل ترتفع أسعار الخبز في مصر؟ - شفق نيوز..",
