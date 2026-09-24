@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-24T17:45:48.100372+00:00",
+  "updated_at": "2026-09-24T17:54:17.251954+00:00",
   "latest": [
+    {
+      "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
+      "url": "https://aawsat.com/node/5320075",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 10:15:12 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
     {
       "title": "احباط مخطط إرهابي لاستهداف مواقع عسكرية في الأنبار",
       "url": "https://www.alsumaria.tv/news/localnews/576986/%D8%A7%D8%AD%D8%A8%D8%A7%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7%D8%B1",
@@ -296,6 +306,14 @@
       "watch_topics": []
     },
     {
+      "title": "التحالف: تدمير 6 صواريخ باليستية حوثية حاولت استهداف الطائف وينبع",
+      "url": "https://aawsat.com/node/5322058",
+      "category": "مشرق أوسط",
+      "published": "Thu, 24 Sep 2026 12:31:49 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "خادم الحرمين: استهداف مكة استفزاز للمسلمين",
       "url": "https://aawsat.com/node/5321452",
       "category": "مشرق أوسط",
@@ -449,16 +467,6 @@
       "breaking": false,
       "watch_topics": [
         "أمريكا"
-      ]
-    },
-    {
-      "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
-      "url": "https://aawsat.com/node/5320075",
-      "category": "مشرق أوسط",
-      "published": "Sat, 19 Sep 2026 10:15:12 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
       ]
     },
     {
@@ -630,14 +638,6 @@
       "published": "Wed, 23 Sep 2026 07:39:14 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "زيلينسكي: ناقشت مع ترمب هدنة بقطاع الطاقة وجهود إنهاء الحرب",
-      "url": "https://aawsat.com/node/5321523",
-      "category": "دولي",
-      "published": "Wed, 23 Sep 2026 07:24:50 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -672,6 +672,14 @@
       "url": "https://aawsat.com/node/5321652",
       "category": "مشرق أوسط",
       "published": "Wed, 23 Sep 2026 12:38:50 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "التحالف: تدمير 6 صواريخ باليستية حوثية حاولت استهداف الطائف وينبع",
+      "url": "https://aawsat.com/node/5322058",
+      "category": "مشرق أوسط",
+      "published": "Thu, 24 Sep 2026 12:31:49 +0100",
       "breaking": true,
       "watch_topics": []
     },
