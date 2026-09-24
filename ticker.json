@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T08:27:54.702662+00:00",
+  "updated_at": "2026-09-24T08:42:10.495947+00:00",
   "latest": [
     {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
@@ -63,16 +63,6 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
-      ]
-    },
-    {
-      "title": "واشنطن تحذر من اتساع رقعة الحرب الروسية الأوكرانية",
-      "url": "https://www.alsumaria.tv/news/international/576937/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D8%AA%D8%B3%D8%A7%D8%B9-%D8%B1%D9%82%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-23T20:40:00+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
       ]
     },
     {
@@ -144,22 +134,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c6d08mxnj508o",
       "category": "عراق",
       "published": "2026-09-23T19:02:50+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "اجتماع أمني يخص تنظيم قواطع المسؤولية في ست محافظات عراقية",
-      "url": "https://www.alsumaria.tv/news/security/576935/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A3%D9%85%D9%86%D9%8A-%D9%8A%D8%AE%D8%B5-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D9%82%D9%88%D8%A7%D8%B7%D8%B9-%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D8%AA-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-23T20:11:00+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "نائب يعلن انسحابه من ائتلاف الإعمار والتنمية",
-      "url": "https://www.alsumaria.tv/news/localnews/576936/%D9%86%D8%A7%D8%A6%D8%A8-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8%D9%87-%D9%85%D9%86-%D8%A7%D8%A6%D8%AA%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-23T20:18:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -256,6 +230,30 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cmp306lgx712o",
       "category": "عراق",
       "published": "2026-09-24T07:42:25+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "بورصات بغداد والإقليم والجنوب تسجل 157 ألفاً لكل 100 دولار",
+      "url": "https://964media.com/719751/",
+      "category": "عراق",
+      "published": "2026-09-24T07:53:29+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "فرضية جديدة تقلب قضية وفاة مارادونا",
+      "url": "https://www.alsumaria.tv/Entertainment-News/576952/sports/%D9%81%D8%B1%D8%B6%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AA%D9%82%D9%84%D8%A8-%D9%82%D8%B6%D9%8A%D8%A9-%D9%88%D9%81%D8%A7%D8%A9-%D9%85%D8%A7%D8%B1%D8%A7%D8%AF%D9%88%D9%86%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-24T07:59:11+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الدولار يواصل الانخفاض.. يقترب من الـ155 الفا",
+      "url": "https://www.alsumaria.tv/news/economy/576953/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D9%80155-%D8%A7%D9%84%D9%81%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-24T08:01:41+00:00",
       "breaking": false,
       "watch_topics": []
     },
