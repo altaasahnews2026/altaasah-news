@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T14:35:18.081286+00:00",
+  "updated_at": "2026-09-24T14:49:34.368679+00:00",
   "latest": [
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
@@ -46,18 +46,20 @@
       "watch_topics": []
     },
     {
-      "title": "سماع أصوات انفجارات في محيط السفارة البريطانية ببغداد.. ومصدر يكشف السبب",
-      "url": "https://www.alsumaria.tv/news/security/576972/%D8%B3%D9%85%D8%A7%D8%B9-%D8%A3%D8%B5%D9%88%D8%A7%D8%AA-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%AD%D9%8A%D8%B7-%D8%A7%D9%84%D8%B3%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D8%B3%D8%A8%D8%A8",
-      "category": "عراق",
-      "published": "2026-09-24T11:28:42+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "\"الرئيس الصيني لم يُظهر رغبة للضغط على إيران لإنهاء الحرب\" - مقال في الإندبندنت - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm93e4gz5kg5o",
       "category": "عراق",
       "published": "2026-09-24T12:40:41+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "العراق وألمانيا يبحثان تداعيات أزمة مضيق هرمز",
+      "url": "https://www.alsumaria.tv/news/politics/576992/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%AA%D8%AF%D8%A7%D8%B9%D9%8A%D8%A7%D8%AA-%D8%A3%D8%B2%D9%85%D8%A9-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "category": "عراق",
+      "published": "2026-09-24T14:40:23+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
@@ -568,16 +570,6 @@
       ]
     },
     {
-      "title": "ترمب يستقبل شي بحفاوة استثنائية... وقمة واشنطن تختبر هدنة هشة",
-      "url": "https://aawsat.com/node/5321322",
-      "category": "دولي",
-      "published": "Tue, 22 Sep 2026 17:01:00 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
       "title": "بريطانيا تُعيد النظر في اتفاق جزر تشاغوس بعد انتقادات ترمب",
       "url": "https://aawsat.com/node/5321797",
       "category": "دولي",
@@ -640,6 +632,14 @@
       "published": "Wed, 23 Sep 2026 07:24:50 +0100",
       "breaking": false,
       "watch_topics": []
+    },
+    {
+      "title": "السجن 30 عاماً لـ«داعشي» فرنسي دين بارتكاب جرائم قتل",
+      "url": "https://aawsat.com/node/5321476",
+      "category": "دولي",
+      "published": "Wed, 23 Sep 2026 00:57:25 +0100",
+      "breaking": false,
+      "watch_topics": []
     }
   ],
   "breaking": [
@@ -674,14 +674,6 @@
       "url": "https://964media.com/719810/",
       "category": "عراق",
       "published": "2026-09-24T11:24:16+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "سماع أصوات انفجارات في محيط السفارة البريطانية ببغداد.. ومصدر يكشف السبب",
-      "url": "https://www.alsumaria.tv/news/security/576972/%D8%B3%D9%85%D8%A7%D8%B9-%D8%A3%D8%B5%D9%88%D8%A7%D8%AA-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%AD%D9%8A%D8%B7-%D8%A7%D9%84%D8%B3%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D8%B3%D8%A8%D8%A8",
-      "category": "عراق",
-      "published": "2026-09-24T11:28:42+00:00",
       "breaking": true,
       "watch_topics": []
     },
