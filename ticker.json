@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T14:02:51.521602+00:00",
+  "updated_at": "2026-09-24T14:19:17.754425+00:00",
   "latest": [
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
@@ -30,6 +30,14 @@
       "watch_topics": []
     },
     {
+      "title": "صحراء الأنبار تكشف مخبأ قنابر هاون معدة لاستهداف ثكنات عسكرية",
+      "url": "https://964media.com/719895/",
+      "category": "عراق",
+      "published": "2026-09-24T13:58:25+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "شرطة البصرة تبث مشاهد جرف منازل عصابة بالـ”شفلات” عقب اشتباك مسلح بالمعقل",
       "url": "https://964media.com/719810/",
       "category": "عراق",
@@ -44,16 +52,6 @@
       "published": "2026-09-24T11:28:42+00:00",
       "breaking": true,
       "watch_topics": []
-    },
-    {
-      "title": "السعودية تعلن زوال الخطر في مكة والطائف وجدة.. ما القصة؟",
-      "url": "https://www.alsumaria.tv/news/international/576969/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%B2%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%AE%D8%B7%D8%B1-%D9%81%D9%8A-%D9%85%D9%83%D8%A9-%D9%88%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%81-%D9%88%D8%AC%D8%AF%D8%A9-%D9%85%D8%A7-%D8%A7%D9%84%D9%82%D8%B5%D8%A9%D8%9F",
-      "category": "عراق",
-      "published": "2026-09-24T10:47:12+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
     },
     {
       "title": "\"الرئيس الصيني لم يُظهر رغبة للضغط على إيران لإنهاء الحرب\" - مقال في الإندبندنت - شفق نيوز..",
@@ -86,22 +84,6 @@
       "url": "https://964media.com/719786/",
       "category": "عراق",
       "published": "2026-09-24T10:17:10+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "أسعار النفط تقفز إلى أعلى مستوى في أسبوع",
-      "url": "https://www.alsumaria.tv/news/economy/576968/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%AA%D9%82%D9%81%D8%B2-%D8%A5%D9%84%D9%89-%D8%A3%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%81%D9%8A-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9",
-      "category": "عراق",
-      "published": "2026-09-24T10:23:43+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الحكيم في مصر.. ونقل للسيسي صورة كل ما يحصل في العراق",
-      "url": "https://964media.com/719827/",
-      "category": "عراق",
-      "published": "2026-09-24T10:58:13+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -238,6 +220,22 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c6ly7j8p58v8o",
       "category": "عراق",
       "published": "2026-09-24T12:56:14+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "مباحثات عراقية كويتية في الملفات ذات الاهتمام المشترك والمجالات الأمنية والإعلامية",
+      "url": "https://www.alsumaria.tv/news/politics/576982/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D9%83%D9%88%D9%8A%D8%AA%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%B0%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%87%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83-%D9%88%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A",
+      "category": "عراق",
+      "published": "2026-09-24T13:01:38+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "هجمة ضد نشأت أكرم بسبب تصريح حول مشاركة مصر والأردن ببطولات الخليج.. يريدون المال",
+      "url": "https://www.alsumaria.tv/Entertainment-News/576983/sports/%D9%87%D8%AC%D9%85%D8%A9-%D8%B6%D8%AF-%D9%86%D8%B4%D8%A3%D8%AA-%D8%A3%D9%83%D8%B1%D9%85-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D8%AD%D9%88%D9%84-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%85%D8%B5%D8%B1-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A8%D8%A8%D8%B7%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D9%8A%D8%B1%D9%8A",
+      "category": "عراق",
+      "published": "2026-09-24T13:18:14+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -660,6 +658,14 @@
       "url": "https://www.alsumaria.tv/news/localnews/576986/%D8%A7%D8%AD%D8%A8%D8%A7%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7%D8%B1",
       "category": "عراق",
       "published": "2026-09-24T13:41:51+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "صحراء الأنبار تكشف مخبأ قنابر هاون معدة لاستهداف ثكنات عسكرية",
+      "url": "https://964media.com/719895/",
+      "category": "عراق",
+      "published": "2026-09-24T13:58:25+00:00",
       "breaking": true,
       "watch_topics": []
     },
