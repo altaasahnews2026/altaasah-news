@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T13:54:42.028518+00:00",
+  "updated_at": "2026-09-24T14:02:51.521602+00:00",
   "latest": [
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
@@ -19,17 +19,6 @@
       "breaking": true,
       "watch_topics": [
         "إيران"
-      ]
-    },
-    {
-      "title": "تقرير: واشنطن مطالبة بتقبّل العلاقات العراقية الإيرانية وبغداد لا تحتمل اضطراباً اقتصادياً",
-      "url": "https://www.alsumaria.tv/news/localnews/576967/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A9-%D8%A8%D8%AA%D9%82%D8%A8%D9%91%D9%84-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%84%D8%A7-%D8%AA%D8%AD%D8%AA%D9%85%D9%84",
-      "category": "عراق",
-      "published": "2026-09-24T10:10:47+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
       ]
     },
     {
@@ -75,14 +64,6 @@
       "watch_topics": [
         "إيران"
       ]
-    },
-    {
-      "title": "كمين للاستخبارات يطيح بموظفة في تربية الديوانية تبيع التعيينات",
-      "url": "https://964media.com/719384/",
-      "category": "عراق",
-      "published": "2026-09-23T07:58:51+00:00",
-      "breaking": false,
-      "watch_topics": []
     },
     {
       "title": "صور: تفكيك شبكة للمضاربة بالدولار في بغداد وإحالة عناصرها للقضاء",
@@ -241,6 +222,22 @@
       "url": "https://www.alsumaria.tv/news/localnews/576980/%D8%A7%D9%84%D8%A7%D8%B9%D8%B1%D8%AC%D9%8A-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%AA%D8%A4%D9%85%D9%91%D9%86-92-%D8%A8%D8%A7%D9%84%D9%85%D8%A6%D8%A9-%D9%85%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%AA%D8%AC%D8%A7%D9%88%D8%B2%D8%AA-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%A8",
       "category": "عراق",
       "published": "2026-09-24T12:29:33+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "إيقاف مهاجم موناكو أربع مباريات بسبب احتفاله بالهدف.. حركة غير مقبولة",
+      "url": "https://www.alsumaria.tv/Entertainment-News/576981/sports/%D8%A5%D9%8A%D9%82%D8%A7%D9%81-%D9%85%D9%87%D8%A7%D8%AC%D9%85-%D9%85%D9%88%D9%86%D8%A7%D9%83%D9%88-%D8%A3%D8%B1%D8%A8%D8%B9-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D9%84%D9%87%D8%AF%D9%81-%D8%AD%D8%B1%D9%83%D8%A9-%D8%BA%D9%8A%D8%B1-%D9%85%D9%82%D8%A8%D9%88%D9%84%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-24T12:44:08+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "فاطمة الزهراء المنصوري: ماذا نعرف عن المرشحة المحتملة لرئاسة الحكومة المغربية؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c6ly7j8p58v8o",
+      "category": "عراق",
+      "published": "2026-09-24T12:56:14+00:00",
       "breaking": false,
       "watch_topics": []
     },
