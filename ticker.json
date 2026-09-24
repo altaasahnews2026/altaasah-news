@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T13:41:32.237925+00:00",
+  "updated_at": "2026-09-24T13:54:42.028518+00:00",
   "latest": [
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
@@ -33,6 +33,14 @@
       ]
     },
     {
+      "title": "احباط مخطط إرهابي لاستهداف مواقع عسكرية في الأنبار",
+      "url": "https://www.alsumaria.tv/news/localnews/576986/%D8%A7%D8%AD%D8%A8%D8%A7%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7%D8%B1",
+      "category": "عراق",
+      "published": "2026-09-24T13:41:51+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "شرطة البصرة تبث مشاهد جرف منازل عصابة بالـ”شفلات” عقب اشتباك مسلح بالمعقل",
       "url": "https://964media.com/719810/",
       "category": "عراق",
@@ -47,16 +55,6 @@
       "published": "2026-09-24T11:28:42+00:00",
       "breaking": true,
       "watch_topics": []
-    },
-    {
-      "title": "12 ساعة براً إلى قم.. العقوبات الأميركية تغيّر مسار السفر بين العراق وإيران",
-      "url": "https://www.alsumaria.tv/news/localnews/576966/12-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%A8%D8%B1%D8%A7%D9%8B-%D8%A5%D9%84%D9%89-%D9%82%D9%85-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%BA%D9%8A%D9%91%D8%B1-%D9%85%D8%B3%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A5%D9%8A",
-      "category": "عراق",
-      "published": "2026-09-24T09:52:53+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
     },
     {
       "title": "السعودية تعلن زوال الخطر في مكة والطائف وجدة.. ما القصة؟",
@@ -99,14 +97,6 @@
       "url": "https://964media.com/719774/",
       "category": "عراق",
       "published": "2026-09-24T08:12:20+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "المغرب: حزب الأصالة والمعاصرة يتصدر الانتخابات وسط أدنى نسبة مشاركة منذ 2007 - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cwe8ekmv4ej5o",
-      "category": "عراق",
-      "published": "2026-09-24T09:13:46+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -243,6 +233,14 @@
       "url": "https://964media.com/719824/",
       "category": "عراق",
       "published": "2026-09-24T12:10:53+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الاعرجي: وزارة النفط تؤمّن 92 بالمئة من إيرادات العراق وتجاوزت أزمة البنزين",
+      "url": "https://www.alsumaria.tv/news/localnews/576980/%D8%A7%D9%84%D8%A7%D8%B9%D8%B1%D8%AC%D9%8A-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%AA%D8%A4%D9%85%D9%91%D9%86-92-%D8%A8%D8%A7%D9%84%D9%85%D8%A6%D8%A9-%D9%85%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%AA%D8%AC%D8%A7%D9%88%D8%B2%D8%AA-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%A8",
+      "category": "عراق",
+      "published": "2026-09-24T12:29:33+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -585,16 +583,6 @@
       ]
     },
     {
-      "title": "ترمب يعلن عن لقاء «مثمر» بين مسؤولين أميركيين وإيرانيين في نيويورك",
-      "url": "https://aawsat.com/node/5321316",
-      "category": "دولي",
-      "published": "Tue, 22 Sep 2026 16:36:35 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "بريطانيا تُعيد النظر في اتفاق جزر تشاغوس بعد انتقادات ترمب",
       "url": "https://aawsat.com/node/5321797",
       "category": "دولي",
@@ -649,6 +637,14 @@
       "published": "Wed, 23 Sep 2026 07:39:14 +0100",
       "breaking": false,
       "watch_topics": []
+    },
+    {
+      "title": "زيلينسكي: ناقشت مع ترمب هدنة بقطاع الطاقة وجهود إنهاء الحرب",
+      "url": "https://aawsat.com/node/5321523",
+      "category": "دولي",
+      "published": "Wed, 23 Sep 2026 07:24:50 +0100",
+      "breaking": false,
+      "watch_topics": []
     }
   ],
   "breaking": [
@@ -661,6 +657,14 @@
       "watch_topics": [
         "إيران"
       ]
+    },
+    {
+      "title": "احباط مخطط إرهابي لاستهداف مواقع عسكرية في الأنبار",
+      "url": "https://www.alsumaria.tv/news/localnews/576986/%D8%A7%D8%AD%D8%A8%D8%A7%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7%D8%B1",
+      "category": "عراق",
+      "published": "2026-09-24T13:41:51+00:00",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "شرطة البصرة تبث مشاهد جرف منازل عصابة بالـ”شفلات” عقب اشتباك مسلح بالمعقل",
