@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T15:31:34.977321+00:00",
+  "updated_at": "2026-09-24T15:46:26.735904+00:00",
   "latest": [
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
@@ -34,14 +34,6 @@
       "url": "https://964media.com/719895/",
       "category": "عراق",
       "published": "2026-09-24T13:58:25+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "شرطة البصرة تبث مشاهد جرف منازل عصابة بالـ”شفلات” عقب اشتباك مسلح بالمعقل",
-      "url": "https://964media.com/719810/",
-      "category": "عراق",
-      "published": "2026-09-24T11:24:16+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -238,6 +230,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cje3r45rq2p7o",
       "category": "عراق",
       "published": "2026-09-24T14:53:35+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "كيف يعمل \"جيش التعاطف الإلكتروني\" على دعم من يواجهون السخرية والتنمّر؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cmn07nrgq0j2o",
+      "category": "عراق",
+      "published": "2026-09-24T14:57:18+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -470,16 +470,6 @@
       ]
     },
     {
-      "title": "واشنطن تدعو بوتين لحضور «قمة العشرين»",
-      "url": "https://aawsat.com/node/5321882",
-      "category": "دولي",
-      "published": "Wed, 23 Sep 2026 23:34:50 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
       "title": "مراسلو «سي إن إن» و«إم إس ناو» و«بوليتيكو» لا يزالون ممنوعين من دخول البيت الأبيض",
       "url": "https://aawsat.com/node/5322162",
       "category": "دولي",
@@ -560,82 +550,90 @@
       ]
     },
     {
-      "title": "موسكو «لن تعلّق» عملياتها العسكرية بأوكرانيا وتنظر مشاركة بوتين في «قمة العشرين»",
-      "url": "https://aawsat.com/node/5322155",
+      "title": "تقرير: شركات نفط حصلت على امتيازات بعد تبرعاتها لحملة ترمب",
+      "url": "https://aawsat.com/node/5322145",
       "category": "دولي",
-      "published": "Thu, 24 Sep 2026 15:56:19 +0100",
+      "published": "Thu, 24 Sep 2026 15:38:10 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "بريطانيا تُعيد النظر في اتفاق جزر تشاغوس بعد انتقادات ترمب",
-      "url": "https://aawsat.com/node/5321797",
+      "title": "«إف بي آي» يحقق في مزاعم اختراق بيانات جميع موظفيه",
+      "url": "https://aawsat.com/node/5322123",
       "category": "دولي",
-      "published": "Wed, 23 Sep 2026 18:16:02 +0100",
+      "published": "Thu, 24 Sep 2026 14:46:54 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "لافروف يلتقي روبيو... وبوتين مستعد للقاء نظيره الأميركي",
-      "url": "https://aawsat.com/node/5321772",
+      "title": "الجمهوريون يضخّون 900 مليون دولار إعلانات قبل انتخابات التجديد النصفي الأميركية",
+      "url": "https://aawsat.com/node/5322101",
       "category": "دولي",
-      "published": "Wed, 23 Sep 2026 17:10:39 +0100",
+      "published": "Thu, 24 Sep 2026 14:20:51 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "إدارة ترمب تسعى إلى شلّ «الجنائية الدولية»",
-      "url": "https://aawsat.com/node/5321754",
+      "title": "ترمب: سأناقش مع شي الذكاء الاصطناعي... ونرغب بترك الأمور على حالها",
+      "url": "https://aawsat.com/node/5322100",
       "category": "دولي",
-      "published": "Wed, 23 Sep 2026 16:31:01 +0100",
+      "published": "Thu, 24 Sep 2026 14:17:25 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "الكرملين: بوتين مستعد لعقد اجتماع مع ترمب",
-      "url": "https://aawsat.com/node/5321658",
+      "title": "«لا زيارات ولا مياه ساخنة»... 8 محاولات انتحار بين بحارة «أبراهام لينكولن» الأميركية",
+      "url": "https://aawsat.com/node/5321916",
       "category": "دولي",
-      "published": "Wed, 23 Sep 2026 12:56:03 +0100",
+      "published": "Thu, 24 Sep 2026 04:03:45 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "ضربات روسية على أوكرانيا بالتزامن مع لقاء زيلينسكي وترمب",
-      "url": "https://aawsat.com/node/5321574",
+      "title": "إدارة ترمب تخصّ شي باستقبال استثنائي",
+      "url": "https://aawsat.com/node/5321881",
       "category": "دولي",
-      "published": "Wed, 23 Sep 2026 09:37:24 +0100",
+      "published": "Wed, 23 Sep 2026 23:32:41 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "بلجيكا ورواندا تطويان صفحة الخلاف وتستأنفان العلاقات الدبلوماسية",
-      "url": "https://aawsat.com/node/5321539",
+      "title": "استقبال نادر من ترمب للرئيس الصيني لدى وصوله إلى الولايات المتحدة",
+      "url": "https://aawsat.com/node/5321878",
       "category": "دولي",
-      "published": "Wed, 23 Sep 2026 08:12:29 +0100",
+      "published": "Wed, 23 Sep 2026 23:21:50 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "رئيسة استخبارات ألبانيا تسلِّم نفسها في قضية فساد وتسريب معلومات سرية",
-      "url": "https://aawsat.com/node/5321531",
+      "title": "بزشكيان في الأمم المتحدة: لن نخضع للضغوط والعقوبات",
+      "url": "https://aawsat.com/node/5321787",
       "category": "دولي",
-      "published": "Wed, 23 Sep 2026 07:39:14 +0100",
+      "published": "Wed, 23 Sep 2026 17:50:26 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "زيلينسكي: ناقشت مع ترمب هدنة بقطاع الطاقة وجهود إنهاء الحرب",
-      "url": "https://aawsat.com/node/5321523",
+      "title": "بين الحفاوة والمنافسة... ترمب وشي يختبران حدود التهدئة",
+      "url": "https://aawsat.com/node/5321775",
       "category": "دولي",
-      "published": "Wed, 23 Sep 2026 07:24:50 +0100",
+      "published": "Wed, 23 Sep 2026 17:19:32 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "السجن 30 عاماً لـ«داعشي» فرنسي دين بارتكاب جرائم قتل",
-      "url": "https://aawsat.com/node/5321476",
+      "title": "الكونغرس يرسم خطوطاً حمراء أمام ترمب عشية لقائه شي",
+      "url": "https://aawsat.com/node/5321696",
       "category": "دولي",
-      "published": "Wed, 23 Sep 2026 00:57:25 +0100",
+      "published": "Wed, 23 Sep 2026 14:27:46 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "ترمب يلتقي رئيسة فنزويلا بالوكالة في أول اجتماع مباشر بينهما",
+      "url": "https://aawsat.com/node/5321483",
+      "category": "دولي",
+      "published": "Wed, 23 Sep 2026 04:33:55 +0100",
       "breaking": false,
       "watch_topics": []
     }
@@ -664,14 +662,6 @@
       "url": "https://964media.com/719895/",
       "category": "عراق",
       "published": "2026-09-24T13:58:25+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "شرطة البصرة تبث مشاهد جرف منازل عصابة بالـ”شفلات” عقب اشتباك مسلح بالمعقل",
-      "url": "https://964media.com/719810/",
-      "category": "عراق",
-      "published": "2026-09-24T11:24:16+00:00",
       "breaking": true,
       "watch_topics": []
     },
