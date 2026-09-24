@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-09-24T02:59:47.661875+00:00",
+  "updated_at": "2026-09-24T03:13:52.907161+00:00",
   "latest": [
-    {
-      "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
-      "url": "https://aawsat.com/node/5321276",
-      "category": "مشرق أوسط",
-      "published": "Tue, 22 Sep 2026 15:21:23 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
-      "url": "https://aawsat.com/node/5320075",
-      "category": "مشرق أوسط",
-      "published": "Sat, 19 Sep 2026 10:15:12 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
     {
       "title": "الحرس الثوري يعلن مقتل أحد قادته باشتباكات جنوب شرقي إيران",
       "url": "https://www.alsumaria.tv/news/international/576931/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D8%A3%D8%AD%D8%AF-%D9%82%D8%A7%D8%AF%D8%AA%D9%87-%D8%A8%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83%D8%A7%D8%AA-%D8%AC%D9%86%D9%88%D8%A8-%D8%B4%D8%B1%D9%82%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
@@ -136,6 +116,16 @@
       ]
     },
     {
+      "title": "بزشكيان يتعهد بعدم الخضوع ويتهم واشنطن بـ\"الإرهاب\"، وتراشق إسرائيلي سوري بشأن الجولان - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c9p80exd62kgo",
+      "category": "عراق",
+      "published": "2026-09-24T02:55:33+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "الزيدي يوجه المؤسسات الرسمية والمحافظات بالاستعداد للاحتفال بيوم السيادة العراقي",
       "url": "https://964media.com/719356/",
       "category": "عراق",
@@ -156,14 +146,6 @@
       "url": "https://964media.com/719408/",
       "category": "عراق",
       "published": "2026-09-23T09:21:15+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "كيف تشكل سبتة وكرة القدم وإسرائيل ملامح الانتخابات في المغرب؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c61mvyym4d2go",
-      "category": "عراق",
-      "published": "2026-09-23T16:40:27+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -264,42 +246,10 @@
       "watch_topics": []
     },
     {
-      "title": "السعودية تكتب فصلاً جديداً في مسيرة الطاقة... إرث نفطي وطموح نووي",
-      "url": "https://aawsat.com/node/5321365",
-      "category": "مشرق أوسط",
-      "published": "Tue, 22 Sep 2026 18:57:31 +0100",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "«باب المندب» يختبر حدود المصالحة السعودية - الإيرانية",
       "url": "https://aawsat.com/node/5320824",
       "category": "مشرق أوسط",
       "published": "Mon, 21 Sep 2026 13:40:33 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
-        "السعودية"
-      ]
-    },
-    {
-      "title": "واشنطن تدعو إيران إلى وقف تسليح الحوثيين",
-      "url": "https://aawsat.com/node/5321727",
-      "category": "مشرق أوسط",
-      "published": "Wed, 23 Sep 2026 15:37:02 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "السعودية تؤكد أهمية حماية البحارة العالقين في هرمز",
-      "url": "https://aawsat.com/node/5321415",
-      "category": "مشرق أوسط",
-      "published": "Tue, 22 Sep 2026 21:16:40 +0100",
       "breaking": false,
       "watch_topics": [
         "إيران",
@@ -322,14 +272,6 @@
       "url": "https://aawsat.com/node/5321652",
       "category": "مشرق أوسط",
       "published": "Wed, 23 Sep 2026 12:38:50 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "خادم الحرمين: استهداف مكة استفزاز للمسلمين",
-      "url": "https://aawsat.com/node/5321452",
-      "category": "مشرق أوسط",
-      "published": "Tue, 22 Sep 2026 23:53:35 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -422,74 +364,98 @@
       ]
     },
     {
-      "title": "«المركزي الإماراتي» يحظر معاملات فروع «بنك ملي إيران» مع طهران",
-      "url": "https://aawsat.com/node/5321805",
+      "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
+      "url": "https://aawsat.com/node/5321276",
       "category": "مشرق أوسط",
-      "published": "Wed, 23 Sep 2026 18:41:23 +0100",
+      "published": "Tue, 22 Sep 2026 15:21:23 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
+      "url": "https://aawsat.com/node/5320075",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 10:15:12 +0100",
       "breaking": false,
       "watch_topics": [
         "إيران"
       ]
     },
     {
-      "title": "السعودية تعلن «زوال الخطر» بعد إنذار مبكر في جازان ونجران",
-      "url": "https://aawsat.com/node/5321747",
+      "title": "رئيس كوريا الجنوبية: لن ننشر جيشنا للقتال في مضيق هرمز",
+      "url": "https://aawsat.com/node/5319667",
       "category": "مشرق أوسط",
-      "published": "Wed, 23 Sep 2026 16:13:10 +0100",
+      "published": "Fri, 18 Sep 2026 05:12:01 +0100",
       "breaking": false,
       "watch_topics": [
-        "السعودية"
+        "إيران"
       ]
     },
     {
-      "title": "جامع الملك عبد العزيز شمال الرياض... يخلّد إرث المؤسس بالذاكرة الوطنية",
-      "url": "https://aawsat.com/node/5321725",
+      "title": "معارك الجبال تُفاقم الخسائر الحوثية",
+      "url": "https://aawsat.com/node/5321884",
       "category": "مشرق أوسط",
-      "published": "Wed, 23 Sep 2026 15:31:45 +0100",
+      "published": "Wed, 23 Sep 2026 23:38:35 +0100",
       "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
+      "watch_topics": []
     },
     {
-      "title": "الملك سلمان: السعودية قامت على أسس راسخة لحفظ العقيدة وإقامة العدل",
-      "url": "https://aawsat.com/node/5321716",
+      "title": "تجاهل مصري لأنباء احتجاز 3 إسرائيليين في سيناء",
+      "url": "https://aawsat.com/node/5321798",
       "category": "مشرق أوسط",
-      "published": "Wed, 23 Sep 2026 15:11:26 +0100",
+      "published": "Wed, 23 Sep 2026 18:16:13 +0100",
       "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
+      "watch_topics": []
     },
     {
-      "title": "السعودية تحتفي بيومها الوطني باقتصاد رقمي يقارب سُدس ناتجها",
-      "url": "https://aawsat.com/node/5321364",
+      "title": "تحركات لحل «أزمة المعلمين»... مصر والكويت تشددان على عمق العلاقات",
+      "url": "https://aawsat.com/node/5321769",
       "category": "مشرق أوسط",
-      "published": "Tue, 22 Sep 2026 18:57:08 +0100",
+      "published": "Wed, 23 Sep 2026 17:10:03 +0100",
       "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
+      "watch_topics": []
     },
     {
-      "title": "عن البناء المؤسسي للدولة السعودية... مائة عام على «التعليمات الأساسية»",
-      "url": "https://aawsat.com/node/5321363",
+      "title": "آلاف اليمنيين يدفعون ثمن التصعيد الحوثي العسكري",
+      "url": "https://aawsat.com/node/5321648",
       "category": "مشرق أوسط",
-      "published": "Tue, 22 Sep 2026 18:54:10 +0100",
+      "published": "Wed, 23 Sep 2026 12:27:43 +0100",
       "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
+      "watch_topics": []
     },
     {
-      "title": "«بيان رباعي» من نيويورك يندد بالاعتداء الحوثي على السعودية",
-      "url": "https://aawsat.com/node/5321326",
+      "title": "معارك جبلية وضربات جوية تستنزف القدرات الحوثية",
+      "url": "https://aawsat.com/node/5321637",
       "category": "مشرق أوسط",
-      "published": "Tue, 22 Sep 2026 17:15:39 +0100",
+      "published": "Wed, 23 Sep 2026 11:54:24 +0100",
       "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
+      "watch_topics": []
+    },
+    {
+      "title": "الحكومة اليمنية توسع حشد المجتمع لإسناد الجبهات",
+      "url": "https://aawsat.com/node/5321339",
+      "category": "مشرق أوسط",
+      "published": "Tue, 22 Sep 2026 17:52:57 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الأمم المتحدة تحذِّر من تفاقم مأساة النزوح في اليمن",
+      "url": "https://aawsat.com/node/5321180",
+      "category": "مشرق أوسط",
+      "published": "Tue, 22 Sep 2026 13:01:14 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "التضليل... سلاح حوثي حول خطوط النار",
+      "url": "https://aawsat.com/node/5321179",
+      "category": "مشرق أوسط",
+      "published": "Tue, 22 Sep 2026 13:00:37 +0100",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "واشنطن تدعو بوتين لحضور «قمة العشرين»",
@@ -509,6 +475,16 @@
       "breaking": false,
       "watch_topics": [
         "أمريكا"
+      ]
+    },
+    {
+      "title": "«تقرير»: 8 من أفراد البحرية الأميركية حاولوا الانتحار خلال حرب إيران",
+      "url": "https://aawsat.com/node/5321916",
+      "category": "دولي",
+      "published": "Thu, 24 Sep 2026 04:03:45 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
       ]
     },
     {
@@ -612,16 +588,6 @@
       ]
     },
     {
-      "title": "بزشكيان يتعهد بالدفاع عن مواقف إيران قبيل توجهه للجمعية العامة للأمم المتحدة",
-      "url": "https://aawsat.com/node/5321068",
-      "category": "دولي",
-      "published": "Tue, 22 Sep 2026 07:59:09 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "بريطانيا تُعيد النظر في اتفاق جزر تشاغوس بعد انتقادات ترمب",
       "url": "https://aawsat.com/node/5321797",
       "category": "دولي",
@@ -658,6 +624,22 @@
       "url": "https://aawsat.com/node/5321574",
       "category": "دولي",
       "published": "Wed, 23 Sep 2026 09:37:24 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "بلجيكا ورواندا تطويان صفحة الخلاف وتستأنفان العلاقات الدبلوماسية",
+      "url": "https://aawsat.com/node/5321539",
+      "category": "دولي",
+      "published": "Wed, 23 Sep 2026 08:12:29 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "رئيسة استخبارات ألبانيا تسلِّم نفسها في قضية فساد وتسريب معلومات سرية",
+      "url": "https://aawsat.com/node/5321531",
+      "category": "دولي",
+      "published": "Wed, 23 Sep 2026 07:39:14 +0100",
       "breaking": false,
       "watch_topics": []
     }
@@ -698,28 +680,10 @@
       "watch_topics": []
     },
     {
-      "title": "السعودية تكتب فصلاً جديداً في مسيرة الطاقة... إرث نفطي وطموح نووي",
-      "url": "https://aawsat.com/node/5321365",
-      "category": "مشرق أوسط",
-      "published": "Tue, 22 Sep 2026 18:57:31 +0100",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "إسرائيل تعلن استهداف مسؤول مالي في «حماس»",
       "url": "https://aawsat.com/node/5321652",
       "category": "مشرق أوسط",
       "published": "Wed, 23 Sep 2026 12:38:50 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "خادم الحرمين: استهداف مكة استفزاز للمسلمين",
-      "url": "https://aawsat.com/node/5321452",
-      "category": "مشرق أوسط",
-      "published": "Tue, 22 Sep 2026 23:53:35 +0100",
       "breaking": true,
       "watch_topics": []
     },
