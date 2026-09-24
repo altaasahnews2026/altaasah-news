@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T09:57:22.203362+00:00",
+  "updated_at": "2026-09-24T10:07:25.231731+00:00",
   "items": [
     {
       "title": "تشديد قضائي ضد الاعتداء على كوادر أمانة بغداد أثناء تنفيذ المشاريع",
@@ -48,6 +48,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/320bb853f0d7.html"
+    },
+    {
+      "title": "النجباء: إغلاق مطارات العراق بوجه الطائرات الإيرانية “انبطاح لأميركا”",
+      "url": "https://964media.com/719791/",
+      "category": "عربي ودولي",
+      "region": "السليمانية",
+      "published": "2026-09-24T09:40:44+00:00",
+      "image": "./assets/news/346d75d51dfe7ac5a3f181fb.jpg",
+      "original_image": "./assets/news/346d75d51dfe7ac5a3f181fb.jpg",
+      "source_url": "https://964media.com/719791/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "السليمانية",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8575ca171ce2.html"
     },
     {
       "title": "11 ألف موظف حكومي أمي في العراق",
@@ -400,22 +416,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d8d46d9d8757.html"
-    },
-    {
-      "title": "العثور على قذيفة مدفع غير منفجرة داخل موقع تاريخي بالسليمانية (صورة)",
-      "url": "https://964media.com/719723/",
-      "category": "محليات",
-      "region": "السليمانية",
-      "published": "2026-09-24T06:45:19+00:00",
-      "image": "./assets/news/7d62b03f386b091107166298.jpg",
-      "original_image": "./assets/news/7d62b03f386b091107166298.jpg",
-      "source_url": "https://964media.com/719723/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "السليمانية",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ff4ffc4f1f53.html"
     },
     {
       "title": "الحرارة ترتفع وتعاود الانخفاض.. بين الشمال والجنوب 11 درجة",
