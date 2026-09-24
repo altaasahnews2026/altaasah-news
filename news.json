@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T00:54:09.080979+00:00",
+  "updated_at": "2026-09-24T01:03:51.111806+00:00",
   "items": [
     {
       "title": "انفجارات تهز العاصمة الأوكرانية كييف",
@@ -32,22 +32,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/006de439d5e0.html"
-    },
-    {
-      "title": "إخلاء لامرأة عمرها 87 عاماً يسط الضوء على أزمة السكن في إسبانيا - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqwyzm70kpmlo",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-23T23:05:16+00:00",
-      "image": "./assets/news/dfc142527c81bb6b573d42e2.jpg",
-      "original_image": "./assets/news/dfc142527c81bb6b573d42e2.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cqwyzm70kpmlo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2bdb1ddfeaa4.html"
     },
     {
       "title": "تحذير أمريكي بعد تصاعد القتال الداخلي في دولة أفريقية",
@@ -144,22 +128,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8ad5d8c09b73.html"
-    },
-    {
-      "title": "خليجي 27: السعودية تهزم الكويت وتتصدر المجموعة الأولى بعد تعادل العراق وعُمان - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqgk565g5zevo",
-      "category": "رياضة",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-23T20:21:18+00:00",
-      "image": "./assets/news/1fb29e8f95ed19f69ab5b562.jpg",
-      "original_image": "./assets/news/1fb29e8f95ed19f69ab5b562.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cqgk565g5zevo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5eead0d51488.html"
     },
     {
       "title": "نائب يعلن انسحابه من ائتلاف الإعمار والتنمية",
@@ -274,22 +242,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/31ea563d74d6.html"
     },
     {
-      "title": "وكالة أممية ترصد تصاعداً في تقارير العنف ضد النساء في غزة - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c6d08mxnj508o",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-23T19:02:50+00:00",
-      "image": "./assets/news/c61fc0993276291f5d7e8b42.jpg",
-      "original_image": "./assets/news/c61fc0993276291f5d7e8b42.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c6d08mxnj508o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/205f24e1631e.html"
-    },
-    {
       "title": "تركيا تتعهد بتسليم معكسر زليكان إلى الحكومة العراقية واتفاق بشأن سنجار",
       "url": "https://964media.com/719649/",
       "category": "سياسة",
@@ -320,22 +272,6 @@
       "report": false,
       "governorate": "نينوى",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/eeded8266f1e.html"
-    },
-    {
-      "title": "أبرز العناوين - صفحة المباشر - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqkgv77rjv6ro",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-23T18:28:29+00:00",
-      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cqkgv77rjv6ro",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b0e91a4d3c6f.html"
     },
     {
       "title": "الزيدي وبزشكيان يؤكدان ضرورة تجنيب المنطقة اتساع دائرة التصعيد",
