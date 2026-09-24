@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T06:59:03.460503+00:00",
+  "updated_at": "2026-09-24T07:10:41.742988+00:00",
   "items": [
     {
       "title": "انفجارات تهز العاصمة الأوكرانية كييف",
@@ -34,6 +34,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/006de439d5e0.html"
     },
     {
+      "title": "إخلاء لامرأة عمرها 87 عاماً يسلط الضوء على أزمة السكن في إسبانيا - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqwyzm70kpmlo",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-24T06:47:35+00:00",
+      "image": "./assets/news/dfc142527c81bb6b573d42e2.jpg",
+      "original_image": "./assets/news/dfc142527c81bb6b573d42e2.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cqwyzm70kpmlo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d1e9b1ab4104.html"
+    },
+    {
       "title": "الجيش الإسرائيلي يقتل رئيس المالية في حماس",
       "url": "https://www.alsumaria.tv/news/international/576949/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D8%AA%D9%84-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AD%D9%85%D8%A7%D8%B3",
       "category": "اقتصاد",
@@ -48,6 +64,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d8d46d9d8757.html"
+    },
+    {
+      "title": "العثور على قذيفة مدفع غير منفجرة داخل موقع تاريخي بالسليمانية (صورة)",
+      "url": "https://964media.com/719723/",
+      "category": "محليات",
+      "region": "السليمانية",
+      "published": "2026-09-24T06:45:19+00:00",
+      "image": "./assets/news/7d62b03f386b091107166298.jpg",
+      "original_image": "./assets/news/7d62b03f386b091107166298.jpg",
+      "source_url": "https://964media.com/719723/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "السليمانية",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ff4ffc4f1f53.html"
     },
     {
       "title": "شاب يقتل والده بـ “سكين” في البصرة ويلوذ بالفرار",
@@ -144,22 +176,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b9de67f82262.html"
-    },
-    {
-      "title": "إخلاء لامرأة عمرها 87 عاماً يسلط الضوء على أزمة السكن في إسبانيا - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqwyzm70kpmlo",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-24T04:22:53+00:00",
-      "image": "./assets/news/dfc142527c81bb6b573d42e2.jpg",
-      "original_image": "./assets/news/dfc142527c81bb6b573d42e2.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cqwyzm70kpmlo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7723279a7cf0.html"
     },
     {
       "title": "تحذير أمريكي بعد تصاعد القتال الداخلي في دولة أفريقية",
@@ -400,22 +416,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/205f24e1631e.html"
-    },
-    {
-      "title": "تركيا تتعهد بتسليم معكسر زليكان إلى الحكومة العراقية واتفاق بشأن سنجار",
-      "url": "https://964media.com/719649/",
-      "category": "سياسة",
-      "region": "نينوى",
-      "published": "2026-09-23T18:42:45+00:00",
-      "image": "./assets/news/23c0e0f1846a92359ede28c8.jpg",
-      "original_image": "./assets/news/23c0e0f1846a92359ede28c8.jpg",
-      "source_url": "https://964media.com/719649/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "نينوى",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a6dbe4ea45dd.html"
     },
     {
       "title": "اتفاق عراقي تركي يخص سنجار ومعسكر بعشيقة زليكان",
