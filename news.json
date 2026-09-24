@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T08:42:06.772704+00:00",
+  "updated_at": "2026-09-24T08:54:07.552281+00:00",
   "items": [
     {
       "title": "انفجارات تهز العاصمة الأوكرانية كييف",
@@ -50,6 +50,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5f6cef2601c0.html"
     },
     {
+      "title": "حملة حكومية واسعة للسيطرة على أسعار الأسواق وضبط المحتكرين في بغداد والمحافظات",
+      "url": "https://964media.com/719774/",
+      "category": "اقتصاد",
+      "region": "بغداد",
+      "published": "2026-09-24T08:12:20+00:00",
+      "image": "./assets/news/4a5bac1960ac189aff071d8a.jpg",
+      "original_image": "./assets/news/4a5bac1960ac189aff071d8a.jpg",
+      "source_url": "https://964media.com/719774/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5c4a16280fb3.html"
+    },
+    {
       "title": "شعر بها السكان.. هزة ارضية في 4 دول بينها العراق",
       "url": "https://www.alsumaria.tv/news/localnews/576954/%D8%B4%D8%B9%D8%B1-%D8%A8%D9%87%D8%A7-%D8%A7%D9%84%D8%B3%D9%83%D8%A7%D9%86-%D9%87%D8%B2%D8%A9-%D8%A7%D8%B1%D8%B6%D9%8A%D8%A9-%D9%81%D9%8A-4-%D8%AF%D9%88%D9%84-%D8%A8%D9%8A%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "category": "محليات",
@@ -87,8 +103,8 @@
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-24T08:01:41+00:00",
-      "image": "./assets/news/f4b6f2d2d393145342f81032.jpg",
-      "original_image": "./assets/news/f4b6f2d2d393145342f81032.jpg",
+      "image": "./assets/news/ea9936a9f9135972692b9f4b.jpg",
+      "original_image": "./assets/news/ea9936a9f9135972692b9f4b.jpg",
       "source_url": "https://www.alsumaria.tv/news/economy/576953/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D9%80155-%D8%A7%D9%84%D9%81%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -103,8 +119,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-24T07:59:11+00:00",
-      "image": "./assets/news/037cb049bcffc4cfa87a6799.jpg",
-      "original_image": "./assets/news/037cb049bcffc4cfa87a6799.jpg",
+      "image": "./assets/news/385a81aa8c4101d34b831d7e.jpg",
+      "original_image": "./assets/news/385a81aa8c4101d34b831d7e.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/576952/sports/%D9%81%D8%B1%D8%B6%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AA%D9%82%D9%84%D8%A8-%D9%82%D8%B6%D9%8A%D8%A9-%D9%88%D9%81%D8%A7%D8%A9-%D9%85%D8%A7%D8%B1%D8%A7%D8%AF%D9%88%D9%86%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -263,8 +279,8 @@
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-24T06:13:38+00:00",
-      "image": "./assets/news/3d4a5743cb3458c977c060ad.jpg",
-      "original_image": "./assets/news/3d4a5743cb3458c977c060ad.jpg",
+      "image": "./assets/news/ad92e83f488d6c046f4e3e6b.jpg",
+      "original_image": "./assets/news/ad92e83f488d6c046f4e3e6b.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/576947/%D9%82%D8%A8%D9%88%D9%84-6645-%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%8B-%D9%85%D9%87%D9%86%D9%8A%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D9%88%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D9%86%D9%81%D8%B7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -384,22 +400,6 @@
       "report": false,
       "governorate": "النجف",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/908b630cd5e5.html"
-    },
-    {
-      "title": "العراق يقترب من استضافة خليجي 28 في البصرة",
-      "url": "https://www.alsumaria.tv/Entertainment-News/576938/sports/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-28-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9",
-      "category": "رياضة",
-      "region": "البصرة",
-      "published": "2026-09-23T20:43:13+00:00",
-      "image": "./assets/news/3312012117954ee74db5b994.jpg",
-      "original_image": "./assets/news/3312012117954ee74db5b994.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/576938/sports/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-28-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "البصرة",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/eeb610de36c0.html"
     },
     {
       "title": "النجف تمنع طائرات إيران من الوقود والحل “نص تقبيطة”.. تكتيك إنكليزي مع بغداد",
