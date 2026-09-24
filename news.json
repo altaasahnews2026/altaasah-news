@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T16:02:54.813913+00:00",
+  "updated_at": "2026-09-24T16:21:27.376660+00:00",
   "items": [
     {
       "title": "تمارين تعزز حرق الدهون خلال أسبوع واحد",
@@ -80,6 +80,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/840172f77e96.html"
+    },
+    {
+      "title": "التربية تحدد موعد اعلان نتائج الدراسة الإعدادية للدور الثاني",
+      "url": "https://www.alsumaria.tv/news/localnews/576993/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AF%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%A7%D8%B9%D9%84%D8%A7%D9%86-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A%D8%A9-%D9%84%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-24T15:00:10+00:00",
+      "image": "./assets/news/8a36bb00c0c8dd766a3330c4.png",
+      "original_image": "./assets/news/8a36bb00c0c8dd766a3330c4.png",
+      "source_url": "https://www.alsumaria.tv/news/localnews/576993/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AF%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%A7%D8%B9%D9%84%D8%A7%D9%86-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A%D8%A9-%D9%84%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/13b257d938dd.html"
     },
     {
       "title": "كيف يعمل \"جيش التعاطف الإلكتروني\" على دعم من يواجهون السخرية والتنمّر؟ - شفق نيوز..",
@@ -183,8 +199,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-24T14:15:19+00:00",
-      "image": "./assets/news/042baa5758221600f13423f9.jpg",
-      "original_image": "./assets/news/042baa5758221600f13423f9.jpg",
+      "image": "./assets/news/5c6909c9d8e076e8739800ed.jpg",
+      "original_image": "./assets/news/5c6909c9d8e076e8739800ed.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/576989/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%8A%D8%B1%D9%81%D8%B9-%D8%AC%D9%84%D8%B3%D8%AA%D9%87",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -199,8 +215,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-24T14:07:34+00:00",
-      "image": "./assets/news/56265be23794f14de1621127.jpg",
-      "original_image": "./assets/news/56265be23794f14de1621127.jpg",
+      "image": "./assets/news/948f32aedca4172a6a29a669.jpg",
+      "original_image": "./assets/news/948f32aedca4172a6a29a669.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576988/%D8%A3%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7-%D8%AA%D9%88%D8%B3%D8%B9-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA%D9%87%D8%A7-%D8%B6%D8%AF-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%88%D8%AA%D8%AF%D8%B1%D8%AC-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D9%88%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D9%88%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -400,22 +416,6 @@
       "report": true,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/44163ae4c7b8.html"
-    },
-    {
-      "title": "العراق وعُمان يوقعان مذكرة تفاهم لتعزيز التعاون الثنائي في مكافحة الفساد",
-      "url": "https://www.alsumaria.tv/news/localnews/576978/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D9%8A%D9%88%D9%82%D8%B9%D8%A7%D9%86-%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%AB%D9%86%D8%A7%D8%A6%D9%8A-%D9%81%D9%8A-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%81%D8%B3",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-24T12:05:52+00:00",
-      "image": "./assets/news/4d9dd2ce6ccc3e6bb9528e97.jpg",
-      "original_image": "./assets/news/4d9dd2ce6ccc3e6bb9528e97.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/576978/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D9%8A%D9%88%D9%82%D8%B9%D8%A7%D9%86-%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%AB%D9%86%D8%A7%D8%A6%D9%8A-%D9%81%D9%8A-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%81%D8%B3",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/35e0a6996569.html"
     },
     {
       "title": "العراق يعلن حالة الطوارئ البيئية ويبدأ حراكاً لمواجهة التلوث",
