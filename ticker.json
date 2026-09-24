@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T15:54:45.474539+00:00",
+  "updated_at": "2026-09-24T16:02:59.774156+00:00",
   "latest": [
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
@@ -78,14 +78,6 @@
       "url": "https://964media.com/719803/",
       "category": "عراق",
       "published": "2026-09-24T11:45:57+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "مشاجرة بالأيدي بين مرافقين وعناصر الأمن في مستشفى الحكيم بميسان (فيديو)",
-      "url": "https://www.alsumaria.tv/news/localnews/576977/%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D8%A3%D9%8A%D8%AF%D9%8A-%D8%A8%D9%8A%D9%86-%D9%85%D8%B1%D8%A7%D9%81%D9%82%D9%8A%D9%86-%D9%88%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%81%D9%8A-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A7%D9%84%D8%AD%D9%83%D9%8A%D9%85-%D8%A8%D9%85%D9%8A%D8%B3%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-      "category": "عراق",
-      "published": "2026-09-24T11:50:40+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -238,6 +230,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cmn07nrgq0j2o",
       "category": "عراق",
       "published": "2026-09-24T14:57:18+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "السومرية تنشر نتائج الامتحانات العامة للدراسة الإعدادية للدور الثاني",
+      "url": "https://www.alsumaria.tv/news/localnews/576995/%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D8%B4%D8%B1-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A%D8%A9-%D9%84%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
+      "category": "عراق",
+      "published": "2026-09-24T15:16:29+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -560,6 +560,14 @@
       ]
     },
     {
+      "title": "أثينا تدعو لندن إلى التحلي بالشجاعة لإعادة منحوتات البارثينون",
+      "url": "https://aawsat.com/node/5322189",
+      "category": "دولي",
+      "published": "Thu, 24 Sep 2026 16:56:49 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "الاستخبارات الدنماركية: احتمال غزو روسيا لبلد ﺑ«ناتو» وارد لكنه غير مرجَّح",
       "url": "https://aawsat.com/node/5322180",
       "category": "دولي",
@@ -628,14 +636,6 @@
       "url": "https://aawsat.com/node/5321531",
       "category": "دولي",
       "published": "Wed, 23 Sep 2026 07:39:14 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "زيلينسكي: ناقشت مع ترمب هدنة بقطاع الطاقة وجهود إنهاء الحرب",
-      "url": "https://aawsat.com/node/5321523",
-      "category": "دولي",
-      "published": "Wed, 23 Sep 2026 07:24:50 +0100",
       "breaking": false,
       "watch_topics": []
     }

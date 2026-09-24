@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-24T15:54:41.287366+00:00",
+  "updated_at": "2026-09-24T16:02:54.813913+00:00",
   "items": [
+    {
+      "title": "تمارين تعزز حرق الدهون خلال أسبوع واحد",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/576997/%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%AD%D8%B1%D9%82-%D8%A7%D9%84%D8%AF%D9%87%D9%88%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D9%88%D8%A7%D8%AD%D8%AF",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-24T15:53:03+00:00",
+      "image": "./assets/news/7283a0a4a15c9210ff6f8c3e.jpg",
+      "original_image": "./assets/news/7283a0a4a15c9210ff6f8c3e.jpg",
+      "source_url": "https://www.alsumaria.tv/news/miscellaneous/576997/%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%AD%D8%B1%D9%82-%D8%A7%D9%84%D8%AF%D9%87%D9%88%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D9%88%D8%A7%D8%AD%D8%AF",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/433eaccba4ec.html"
+    },
     {
       "title": "كتائب حزب الله تذكر العراقيين بحصار التسعينيات وتدعو إلى دعم المنتجات الإيرانية",
       "url": "https://964media.com/719948/",
@@ -416,22 +432,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b14253c984d0.html"
-    },
-    {
-      "title": "مشاجرة بالأيدي بين مرافقين وعناصر الأمن في مستشفى الحكيم بميسان (فيديو)",
-      "url": "https://www.alsumaria.tv/news/localnews/576977/%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D8%A3%D9%8A%D8%AF%D9%8A-%D8%A8%D9%8A%D9%86-%D9%85%D8%B1%D8%A7%D9%81%D9%82%D9%8A%D9%86-%D9%88%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%81%D9%8A-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A7%D9%84%D8%AD%D9%83%D9%8A%D9%85-%D8%A8%D9%85%D9%8A%D8%B3%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-      "category": "أمن",
-      "region": "ميسان",
-      "published": "2026-09-24T11:50:40+00:00",
-      "image": "./assets/news/ff8dd5e245aafac748743f8a.png",
-      "original_image": "./assets/news/ff8dd5e245aafac748743f8a.png",
-      "source_url": "https://www.alsumaria.tv/news/localnews/576977/%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D8%A3%D9%8A%D8%AF%D9%8A-%D8%A8%D9%8A%D9%86-%D9%85%D8%B1%D8%A7%D9%81%D9%82%D9%8A%D9%86-%D9%88%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%81%D9%8A-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A7%D9%84%D8%AD%D9%83%D9%8A%D9%85-%D8%A8%D9%85%D9%8A%D8%B3%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "ميسان",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2d28ba31f06a.html"
     },
     {
       "title": "فرق التجارة تنتشر في بغداد والمحافظات لمكافحة الغش وتثبيت الأسعار – مؤتمر",
