@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T10:58:13.056467+00:00",
+  "updated_at": "2026-09-24T11:08:10.117160+00:00",
   "items": [
     {
       "title": "تشديد قضائي ضد الاعتداء على كوادر أمانة بغداد أثناء تنفيذ المشاريع",
@@ -7,8 +7,8 @@
       "category": "سياسة",
       "region": "بغداد",
       "published": "2026-09-24T09:49:19+00:00",
-      "image": "./assets/news/7b2d00ff3b8113fbfb67c669.jpg",
-      "original_image": "./assets/news/7b2d00ff3b8113fbfb67c669.jpg",
+      "image": "./assets/news/444c821311789ca62ec0d82d.jpg",
+      "original_image": "./assets/news/444c821311789ca62ec0d82d.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/576965/%D8%AA%D8%B4%D8%AF%D9%8A%D8%AF-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D9%83%D9%88%D8%A7%D8%AF%D8%B1-%D8%A3%D9%85%D8%A7%D9%86%D8%A9-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A3%D8%AB%D9%86%D8%A7%D8%A1-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -23,8 +23,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-24T10:47:12+00:00",
-      "image": "./assets/news/c6baaed683bf848fd4db4f2e.jpg",
-      "original_image": "./assets/news/c6baaed683bf848fd4db4f2e.jpg",
+      "image": "./assets/news/7d394588f8d6e06df9bb7982.jpg",
+      "original_image": "./assets/news/7d394588f8d6e06df9bb7982.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/576969/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%B2%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%AE%D8%B7%D8%B1-%D9%81%D9%8A-%D9%85%D9%83%D8%A9-%D9%88%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%81-%D9%88%D8%AC%D8%AF%D8%A9-%D9%85%D8%A7-%D8%A7%D9%84%D9%82%D8%B5%D8%A9%D8%9F",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -71,8 +71,8 @@
       "category": "اقتصاد",
       "region": "بغداد",
       "published": "2026-09-24T10:10:47+00:00",
-      "image": "./assets/news/c8301a2a25c13c161f1c2806.jpg",
-      "original_image": "./assets/news/c8301a2a25c13c161f1c2806.jpg",
+      "image": "./assets/news/06e0232957a6b5f450580eb1.jpg",
+      "original_image": "./assets/news/06e0232957a6b5f450580eb1.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/576967/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A9-%D8%A8%D8%AA%D9%82%D8%A8%D9%91%D9%84-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%84%D8%A7-%D8%AA%D8%AD%D8%AA%D9%85%D9%84",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -400,22 +400,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e2e3f441347a.html"
-    },
-    {
-      "title": "بورصات بغداد والإقليم والجنوب تسجل 157 ألفاً لكل 100 دولار",
-      "url": "https://964media.com/719751/",
-      "category": "اقتصاد",
-      "region": "بغداد",
-      "published": "2026-09-24T07:53:29+00:00",
-      "image": "./assets/news/24c80e286143c0d98b03fa98.jpg",
-      "original_image": "./assets/news/24c80e286143c0d98b03fa98.jpg",
-      "source_url": "https://964media.com/719751/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cae117a462b1.html"
     },
     {
       "title": "الذكاء الاصطناعي ونهاية الزمان: لماذا يعتقد بعض الناس أن هذه التكنولوجيا هي المسيح الدجال؟ - شفق نيوز..",
