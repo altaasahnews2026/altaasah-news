@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T13:27:17.118457+00:00",
+  "updated_at": "2026-09-24T13:41:28.021842+00:00",
   "items": [
     {
       "title": "سماع أصوات انفجارات في محيط السفارة البريطانية ببغداد.. ومصدر يكشف السبب",
@@ -48,6 +48,22 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c848962a5998.html"
+    },
+    {
+      "title": "وزيرة البيئة: العراق مقبل على كارثة وبعد 20 عاماً لن يعيش فيه أحد",
+      "url": "https://www.alsumaria.tv/news/localnews/576984/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D9%82%D8%A8%D9%84-%D8%B9%D9%84%D9%89-%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D9%88%D8%A8%D8%B9%D8%AF-20-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B-%D9%84%D9%86-%D9%8A%D8%B9%D9%8A%D8%B4-%D9%81%D9%8A%D9%87-%D8%A3%D8%AD%D8%AF",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-24T13:33:16+00:00",
+      "image": "./assets/news/75acb44b627b3d48fbff06d5.png",
+      "original_image": "./assets/news/75acb44b627b3d48fbff06d5.png",
+      "source_url": "https://www.alsumaria.tv/news/localnews/576984/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D9%82%D8%A8%D9%84-%D8%B9%D9%84%D9%89-%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D9%88%D8%A8%D8%B9%D8%AF-20-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B-%D9%84%D9%86-%D9%8A%D8%B9%D9%8A%D8%B4-%D9%81%D9%8A%D9%87-%D8%A3%D8%AD%D8%AF",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/63f177dc193a.html"
     },
     {
       "title": "هجمة ضد نشأت أكرم بسبب تصريح حول مشاركة مصر والأردن ببطولات الخليج.. يريدون المال",
@@ -480,22 +496,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2452fbebb329.html"
-    },
-    {
-      "title": "طاقم تحكيم عراقي ضمن أكبر قوائم الحكام في تاريخ كأس آسيا",
-      "url": "https://www.alsumaria.tv/Entertainment-News/576964/sports/%D8%B7%D8%A7%D9%82%D9%85-%D8%AA%D8%AD%D9%83%D9%8A%D9%85-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%B6%D9%85%D9%86-%D8%A3%D9%83%D8%A8%D8%B1-%D9%82%D9%88%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%AD%D9%83%D8%A7%D9%85-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%83%D8%A3%D8%B3-%D8%A2%D8%B3%D9%8A%D8%A7",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-24T09:43:54+00:00",
-      "image": "./assets/news/ee6b8ad54a9a6a5ef6888914.jpg",
-      "original_image": "./assets/news/ee6b8ad54a9a6a5ef6888914.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/576964/sports/%D8%B7%D8%A7%D9%82%D9%85-%D8%AA%D8%AD%D9%83%D9%8A%D9%85-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%B6%D9%85%D9%86-%D8%A3%D9%83%D8%A8%D8%B1-%D9%82%D9%88%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%AD%D9%83%D8%A7%D9%85-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%83%D8%A3%D8%B3-%D8%A2%D8%B3%D9%8A%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/320bb853f0d7.html"
     },
     {
       "title": "المغرب: حزب الأصالة والمعاصرة يتصدر الانتخابات وسط أدنى نسبة مشاركة منذ 2007 - شفق نيوز..",
