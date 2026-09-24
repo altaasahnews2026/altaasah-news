@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T14:49:30.265207+00:00",
+  "updated_at": "2026-09-24T15:00:47.138697+00:00",
   "items": [
     {
       "title": "شرطة البصرة تبث مشاهد جرف منازل عصابة بالـ”شفلات” عقب اشتباك مسلح بالمعقل",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "البصرة",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a3df237e6116.html"
+    },
+    {
+      "title": "أبرز العناوين - صفحة المباشر - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ck1wx1p7lr4go",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-24T14:42:58+00:00",
+      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/ck1wx1p7lr4go",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fa93a1c27d93.html"
     },
     {
       "title": "العراق وألمانيا يبحثان تداعيات أزمة مضيق هرمز",
@@ -336,22 +352,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/763fe7abc5e2.html"
-    },
-    {
-      "title": "أبرز العناوين - صفحة المباشر - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck1wx1p7lr4go",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-24T12:03:46+00:00",
-      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/ck1wx1p7lr4go",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5322a4f8ae3c.html"
     },
     {
       "title": "العراق يعلن حالة الطوارئ البيئية ويبدأ حراكاً لمواجهة التلوث",
