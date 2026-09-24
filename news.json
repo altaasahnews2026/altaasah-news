@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T11:56:40.454058+00:00",
+  "updated_at": "2026-09-24T12:08:21.634886+00:00",
   "items": [
     {
       "title": "سماع أصوات انفجارات في محيط السفارة البريطانية ببغداد.. ومصدر يكشف السبب",
@@ -55,8 +55,8 @@
       "category": "أمن",
       "region": "ميسان",
       "published": "2026-09-24T11:50:40+00:00",
-      "image": "./assets/news/ff8dd5e245aafac748743f8a.png",
-      "original_image": "./assets/news/ff8dd5e245aafac748743f8a.png",
+      "image": "./assets/news/7a72d4142d64923a0ff12d45.png",
+      "original_image": "./assets/news/7a72d4142d64923a0ff12d45.png",
       "source_url": "https://www.alsumaria.tv/news/localnews/576977/%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D8%A3%D9%8A%D8%AF%D9%8A-%D8%A8%D9%8A%D9%86-%D9%85%D8%B1%D8%A7%D9%81%D9%82%D9%8A%D9%86-%D9%88%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%81%D9%8A-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A7%D9%84%D8%AD%D9%83%D9%8A%D9%85-%D8%A8%D9%85%D9%8A%D8%B3%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -64,6 +64,22 @@
       "report": false,
       "governorate": "ميسان",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2d28ba31f06a.html"
+    },
+    {
+      "title": "فرق التجارة تنتشر في بغداد والمحافظات لمكافحة الغش وتثبيت الأسعار – مؤتمر",
+      "url": "https://964media.com/719803/",
+      "category": "اقتصاد",
+      "region": "بغداد",
+      "published": "2026-09-24T11:45:57+00:00",
+      "image": "./assets/news/56f21c11bd38272d0f8bf92e.jpg",
+      "original_image": "./assets/news/56f21c11bd38272d0f8bf92e.jpg",
+      "source_url": "https://964media.com/719803/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a882d14dfadb.html"
     },
     {
       "title": "الحكيم يبحث مع السيسي تطورات العراق والمنطقة وملف السلاح والعلاقات الثنائية",
@@ -80,6 +96,22 @@
       "report": true,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fb5193cfe37e.html"
+    },
+    {
+      "title": "كيف استقبل الرئيس الأمريكي نظيره الصيني؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm3eqk1lq77po",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-24T11:41:16+00:00",
+      "image": "./assets/news/8ceb36e03301e407fb6ccc38.jpg",
+      "original_image": "./assets/news/8ceb36e03301e407fb6ccc38.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cm3eqk1lq77po",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6a42ed235ab5.html"
     },
     {
       "title": "بقرار من مجلس الوزراء.. تسهيلات لعودة شركات الأدوية العالمية إلى العراق",
@@ -112,6 +144,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/46c3f70db302.html"
+    },
+    {
+      "title": "اليوم الثالث من أعمال الجمعية العامة للأمم المتحدة: نتنياهو يلقي كلمته في نيويورك وعباس يخاطب الأعضاء عبر الفيديو - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c64g7d8eveyvt",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-24T11:34:09+00:00",
+      "image": "./assets/news/aa367e4318dd6a1484a3f4fc.jpg",
+      "original_image": "./assets/news/aa367e4318dd6a1484a3f4fc.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c64g7d8eveyvt",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fa933c23af40.html"
     },
     {
       "title": "أبرز العناوين - صفحة المباشر - شفق نيوز..",
@@ -279,8 +327,8 @@
       "category": "اقتصاد",
       "region": "بغداد",
       "published": "2026-09-24T10:10:47+00:00",
-      "image": "./assets/news/06e0232957a6b5f450580eb1.jpg",
-      "original_image": "./assets/news/06e0232957a6b5f450580eb1.jpg",
+      "image": "./assets/news/c8301a2a25c13c161f1c2806.jpg",
+      "original_image": "./assets/news/c8301a2a25c13c161f1c2806.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/576967/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A9-%D8%A8%D8%AA%D9%82%D8%A8%D9%91%D9%84-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%84%D8%A7-%D8%AA%D8%AD%D8%AA%D9%85%D9%84",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -288,22 +336,6 @@
       "report": true,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bc7ad4276450.html"
-    },
-    {
-      "title": "كيف استقبل الرئيس الأمريكي نظيره الصيني؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm3eqk1lq77po",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-24T10:03:06+00:00",
-      "image": "./assets/news/8ceb36e03301e407fb6ccc38.jpg",
-      "original_image": "./assets/news/8ceb36e03301e407fb6ccc38.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cm3eqk1lq77po",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7852143da3f7.html"
     },
     {
       "title": "12 ساعة براً إلى قم.. العقوبات الأميركية تغيّر مسار السفر بين العراق وإيران",
@@ -327,8 +359,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-24T09:43:54+00:00",
-      "image": "./assets/news/ee6b8ad54a9a6a5ef6888914.jpg",
-      "original_image": "./assets/news/ee6b8ad54a9a6a5ef6888914.jpg",
+      "image": "./assets/news/754c103eb43a11f4b3df9d64.jpg",
+      "original_image": "./assets/news/754c103eb43a11f4b3df9d64.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/576964/sports/%D8%B7%D8%A7%D9%82%D9%85-%D8%AA%D8%AD%D9%83%D9%8A%D9%85-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%B6%D9%85%D9%86-%D8%A3%D9%83%D8%A8%D8%B1-%D9%82%D9%88%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%AD%D9%83%D8%A7%D9%85-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%83%D8%A3%D8%B3-%D8%A2%D8%B3%D9%8A%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -450,22 +482,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e91725aaed68.html"
     },
     {
-      "title": "15 دولة في الدوحة تقر خطة عربية لتعقب الأموال المهربة بمشاركة العراق",
-      "url": "https://964media.com/719777/",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-24T08:57:48+00:00",
-      "image": "./assets/news/57aa466a4348501fc109994e.jpg",
-      "original_image": "./assets/news/57aa466a4348501fc109994e.jpg",
-      "source_url": "https://964media.com/719777/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a2a1225e111a.html"
-    },
-    {
       "title": "توضيح من التربية بشأن نتائج السادس الإعدادي",
       "url": "https://www.alsumaria.tv/news/localnews/576958/%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3-%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A",
       "category": "محليات",
@@ -496,22 +512,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5c4a16280fb3.html"
-    },
-    {
-      "title": "بزشكيان يتعهد بعدم الخضوع ويتهم واشنطن بـ\"الإرهاب\"، وتراشق إسرائيلي سوري بشأن الجولان - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c9p80exd62kgo",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-24T06:07:12+00:00",
-      "image": "./assets/news/b9c41741a30ad5a5dd8aff4b.jpg",
-      "original_image": "./assets/news/b9c41741a30ad5a5dd8aff4b.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c9p80exd62kgo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/82f803166938.html"
     },
     {
       "title": "صور: تفكيك شبكة للمضاربة بالدولار في بغداد وإحالة عناصرها للقضاء",
