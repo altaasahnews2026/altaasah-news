@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T20:30:47.228324+00:00",
+  "updated_at": "2026-09-25T20:43:30.510065+00:00",
   "latest": [
     {
       "title": "ناقلتان إيرانيتان تقتربان من أميركا.. واشنطن تستعد لمصادرة ملايين الدولارات",
@@ -17,6 +17,17 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cqzjzz9elzvxo",
       "category": "عراق",
       "published": "2026-09-25T17:05:24+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "مدتها 7 ايام.. عراقجي يطرح خطة لواشنطن يمكن من خلالها إعادة فتح هرمز",
+      "url": "https://www.alsumaria.tv/news/international/577081/%d9%85%d8%af%d8%aa%d9%87%d8%a7-7-%d8%a7%d9%8a%d8%a7%d9%85-%d8%b9%d8%b1%d8%a7%d9%82%d8%ac%d9%8a-%d9%8a%d8%b7%d8%b1%d8%ad-%d8%ae%d8%b7%d8%a9-%d9%84%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d9%8a%d9%85%d9%83%d9%86-%d9%85%d9%86-%d8%ae%d9%84%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Fri, 25 Sep 2026 20:37:47 GMT",
       "breaking": false,
       "watch_topics": [
         "إيران",
@@ -94,14 +105,6 @@
       "url": "https://964media.com/720174/",
       "category": "عراق",
       "published": "2026-09-25T14:21:31+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بعد أكثر من 60 عاماً.. العراق يعلن نجاح زراعة محصول الصويا في البصرة",
-      "url": "https://www.alsumaria.tv/news/localnews/577061/%D8%A8%D8%B9%D8%AF-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-60-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B9%D9%84%D9%86-%D9%86%D8%AC%D8%A7%D8%AD-%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D9%85%D8%AD%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D8%B5%D9%88%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-25T14:38:58+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -226,18 +229,18 @@
       "watch_topics": []
     },
     {
-      "title": "أبرز العناوين - صفحة المباشر - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cq8r6n7kk6jvo",
-      "category": "عراق",
-      "published": "2026-09-25T18:40:36+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "وزير الخارجية: العراق يعتز بعلاقاته الوثيقة مع الأمم المتحدة",
       "url": "https://www.alsumaria.tv/news/politics/577076/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B9%D8%AA%D8%B2-%D8%A8%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA%D9%87-%D8%A7%D9%84%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
       "category": "عراق",
       "published": "2026-09-25T18:42:16+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "التربية تنهي استعداداتها لامتحانات الدور الخاص بمشاركة 35 ألف طالب وطالبة",
+      "url": "https://www.alsumaria.tv/news/localnews/577077/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D9%86%D9%87%D9%8A-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA%D9%87%D8%A7-%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5-%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-35-%D8%A3%D9%84%D9%81-%D8%B7%D8%A7%D9%84%D8%A8-%D9%88%D8%B7%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-25T19:07:42+00:00",
       "breaking": false,
       "watch_topics": []
     },
