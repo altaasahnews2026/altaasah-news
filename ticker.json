@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T13:44:28.497283+00:00",
+  "updated_at": "2026-09-25T13:56:11.588305+00:00",
   "latest": [
     {
       "title": "بعد إغلاق رحلات النجف.. إيران تنسق لإعادة مواطنيها والعراقيين الراغبين بالعودة",
@@ -47,16 +47,6 @@
       "url": "https://964media.com/720100/",
       "category": "عراق",
       "published": "2026-09-25T08:42:27+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "رسميا.. مطار النجف يعلن إيقاف جميع الرحلات الجوية القادمة والمغادرة إلى إيران",
-      "url": "https://www.alsumaria.tv/news/localnews/577037/%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D9%8A%D8%B9%D9%84%D9%86-%D8%A5%D9%8A%D9%82%D8%A7%D9%81-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A5%D9%84%D9%89",
-      "category": "عراق",
-      "published": "2026-09-25T09:15:45+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
@@ -167,22 +157,6 @@
       "watch_topics": []
     },
     {
-      "title": "ارنولد: سنحقق الفوز على الكويت",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577038/sports/%D8%A7%D8%B1%D9%86%D9%88%D9%84%D8%AF-%D8%B3%D9%86%D8%AD%D9%82%D9%82-%D8%A7%D9%84%D9%81%D9%88%D8%B2-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
-      "category": "عراق",
-      "published": "2026-09-25T09:34:31+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "العماري: جاهزون لمباراة الكويت وتحقيق النتيجة المطلوبة",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577039/sports/%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D9%8A-%D8%AC%D8%A7%D9%87%D8%B2%D9%88%D9%86-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D9%88%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D9%84%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D8%B7%D9%84%D9%88%D8%A8%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-25T09:37:38+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "سعد معن: تسليم زليكان يعزز سيادة العراق.. ولا حاجة لفصائل مسلحة خارج الدولة",
       "url": "https://964media.com/720121/",
       "category": "عراق",
@@ -251,6 +225,30 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cq8r6n7kk6jvo",
       "category": "عراق",
       "published": "2026-09-25T11:15:25+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "على طريق كركوك – أربيل.. كمين استخباري يضبط 300 غرام من الكرستال",
+      "url": "https://964media.com/720137/",
+      "category": "عراق",
+      "published": "2026-09-25T11:15:34+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "عقيل مفتن يفوز برئاسة اتحاد الفروسية العراقي",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577048/sports/%D8%B9%D9%82%D9%8A%D9%84-%D9%85%D9%81%D8%AA%D9%86-%D9%8A%D9%81%D9%88%D8%B2-%D8%A8%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A",
+      "category": "عراق",
+      "published": "2026-09-25T11:15:47+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الدولار يتجه لتحقيق مكاسب أسبوعية",
+      "url": "https://www.alsumaria.tv/news/economy/577050/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%AA%D8%AC%D9%87-%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9%D9%8A%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-25T11:45:38+00:00",
       "breaking": false,
       "watch_topics": []
     },
