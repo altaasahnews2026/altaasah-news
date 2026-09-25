@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T19:13:23.840850+00:00",
+  "updated_at": "2026-09-25T19:25:15.128077+00:00",
   "items": [
     {
       "title": "القبض على متهم بالاعتداء على طفل في بغداد",
@@ -18,13 +18,45 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b79500ed519f.html"
     },
     {
+      "title": "انتحار طالب في أحد الأحياء الشمالية بالنجف",
+      "url": "https://www.alsumaria.tv/news/localnews/577078/%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1-%D8%B7%D8%A7%D9%84%D8%A8-%D9%81%D9%8A-%D8%A3%D8%AD%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%86%D8%AC%D9%81",
+      "category": "اقتصاد",
+      "region": "النجف",
+      "published": "2026-09-25T19:17:26+00:00",
+      "image": "./assets/news/193903fabbab14ef68c176dd.jpg",
+      "original_image": "./assets/news/193903fabbab14ef68c176dd.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577078/%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1-%D8%B7%D8%A7%D9%84%D8%A8-%D9%81%D9%8A-%D8%A3%D8%AD%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%86%D8%AC%D9%81",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "النجف",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9cde960ebc16.html"
+    },
+    {
+      "title": "التربية تنهي استعداداتها لامتحانات الدور الخاص بمشاركة 35 ألف طالب وطالبة",
+      "url": "https://www.alsumaria.tv/news/localnews/577077/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D9%86%D9%87%D9%8A-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA%D9%87%D8%A7-%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5-%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-35-%D8%A3%D9%84%D9%81-%D8%B7%D8%A7%D9%84%D8%A8-%D9%88%D8%B7%D8%A7",
+      "category": "محليات",
+      "region": "صلاح الدين",
+      "published": "2026-09-25T19:07:42+00:00",
+      "image": "./assets/news/a9a43a77d6f3fb845de9d3f4.png",
+      "original_image": "./assets/news/a9a43a77d6f3fb845de9d3f4.png",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577077/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D9%86%D9%87%D9%8A-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA%D9%87%D8%A7-%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5-%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-35-%D8%A3%D9%84%D9%81-%D8%B7%D8%A7%D9%84%D8%A8-%D9%88%D8%B7%D8%A7",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "governorate": "صلاح الدين",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/564bf8293842.html"
+    },
+    {
       "title": "وزير الخارجية: العراق يعتز بعلاقاته الوثيقة مع الأمم المتحدة",
       "url": "https://www.alsumaria.tv/news/politics/577076/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B9%D8%AA%D8%B2-%D8%A8%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA%D9%87-%D8%A7%D9%84%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-25T18:42:16+00:00",
-      "image": "./assets/news/e00e7e50b56377d3a646ea64.jpg",
-      "original_image": "./assets/news/e00e7e50b56377d3a646ea64.jpg",
+      "image": "./assets/news/c1cd8c6be28e70711aff14e5.jpg",
+      "original_image": "./assets/news/c1cd8c6be28e70711aff14e5.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/577076/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B9%D8%AA%D8%B2-%D8%A8%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA%D9%87-%D8%A7%D9%84%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -167,8 +199,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-25T17:15:47+00:00",
-      "image": "./assets/news/868d40cac45b8f116bf25a9f.jpg",
-      "original_image": "./assets/news/868d40cac45b8f116bf25a9f.jpg",
+      "image": "./assets/news/40b884e865c253fb435f84a6.jpg",
+      "original_image": "./assets/news/40b884e865c253fb435f84a6.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577070/%D8%A8%D8%A7%D8%A8%D8%A7-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D9%8A%D9%83%D8%A7%D9%86-%D9%8A%D9%86%D8%AA%D9%82%D8%AF-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D8%A8%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A7%D8%B4%D8%AE%D8%A7%D8%B5-%D9%88%D8%AD%D9%82-%D8%A7%D9%84%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A8%D9%81%D8%B1%D9%86%D8%B3%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -464,22 +496,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f23d74eb0dc4.html"
-    },
-    {
-      "title": "الاستخبارات تعلن ضبط 100 جهاز محظور لكشف الآثار والمعادن بحوزة متهم",
-      "url": "https://www.alsumaria.tv/news/security/577058/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B9%D9%84%D9%86-%D8%B6%D8%A8%D8%B7-100-%D8%AC%D9%87%D8%A7%D8%B2-%D9%85%D8%AD%D8%B8%D9%88%D8%B1-%D9%84%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%D9%86-%D8%A8%D8%AD%D9%88%D8%B2%D8%A9-%D9%85%D8%AA%D9%87%D9%85",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-25T13:50:05+00:00",
-      "image": "./assets/news/c480050a8049b59aa4b3e9ab.jpg",
-      "original_image": "./assets/news/c480050a8049b59aa4b3e9ab.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/577058/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B9%D9%84%D9%86-%D8%B6%D8%A8%D8%B7-100-%D8%AC%D9%87%D8%A7%D8%B2-%D9%85%D8%AD%D8%B8%D9%88%D8%B1-%D9%84%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%D9%86-%D8%A8%D8%AD%D9%88%D8%B2%D8%A9-%D9%85%D8%AA%D9%87%D9%85",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/20ab2392d801.html"
     },
     {
       "title": "مستشار خامنئي يهدد بعد إيقاف رحلات النجف: إذا حرمت إيران سنحرم جميع دول المنطقة",
