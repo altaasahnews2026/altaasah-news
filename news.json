@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T11:21:43.368904+00:00",
+  "updated_at": "2026-09-25T11:35:45.756526+00:00",
   "items": [
+    {
+      "title": "حصر السلاح متوقف على ثلاث قضايا.. هل ستفرض واشنطن عقوبات على العراق؟",
+      "url": "https://www.alsumaria.tv/news/politics/577049/%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D9%85%D8%AA%D9%88%D9%82%D9%81-%D8%B9%D9%84%D9%89-%D8%AB%D9%84%D8%A7%D8%AB-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D9%87%D9%84-%D8%B3%D8%AA%D9%81%D8%B1%D8%B6-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D8%9F",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-09-25T11:25:23+00:00",
+      "image": "./assets/news/3703d833fd6440e52d906fdf.jpg",
+      "original_image": "./assets/news/3703d833fd6440e52d906fdf.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/577049/%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D9%85%D8%AA%D9%88%D9%82%D9%81-%D8%B9%D9%84%D9%89-%D8%AB%D9%84%D8%A7%D8%AB-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D9%87%D9%84-%D8%B3%D8%AA%D9%81%D8%B1%D8%B6-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D8%9F",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/dc4b804448eb.html"
+    },
     {
       "title": "عقيل مفتن يفوز برئاسة اتحاد الفروسية العراقي",
       "url": "https://www.alsumaria.tv/Entertainment-News/577048/sports/%D8%B9%D9%82%D9%8A%D9%84-%D9%85%D9%81%D8%AA%D9%86-%D9%8A%D9%81%D9%88%D8%B2-%D8%A8%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A",
@@ -16,6 +32,38 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/65b45ed5206e.html"
+    },
+    {
+      "title": "على طريق كركوك – أربيل.. كمين استخباري يضبط 300 غرام من الكرستال",
+      "url": "https://964media.com/720137/",
+      "category": "محليات",
+      "region": "أربيل",
+      "published": "2026-09-25T11:15:34+00:00",
+      "image": "./assets/news/e4de2e7405cb9d2fb3b78ab4.jpg",
+      "original_image": "./assets/news/e4de2e7405cb9d2fb3b78ab4.jpg",
+      "source_url": "https://964media.com/720137/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "أربيل",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/97bf7f423597.html"
+    },
+    {
+      "title": "أبرز العناوين - صفحة المباشر - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cq8r6n7kk6jvo",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-25T11:15:25+00:00",
+      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cq8r6n7kk6jvo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2978255cb371.html"
     },
     {
       "title": "مطارا أربيل والسليمانية يعلّقان الرحلات الجوية من وإلى إيران",
@@ -48,22 +96,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0065b7185afb.html"
-    },
-    {
-      "title": "خرقان وأنابيب مدفونة 270 متراً.. الأمن الوطني يفكك شبكة لسرقة نفط المثنى",
-      "url": "https://964media.com/720135/",
-      "category": "اقتصاد",
-      "region": "المثنى",
-      "published": "2026-09-25T10:50:03+00:00",
-      "image": "./assets/news/d87e24123ed3a95c51eaade0.jpg",
-      "original_image": "./assets/news/d87e24123ed3a95c51eaade0.jpg",
-      "source_url": "https://964media.com/720135/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "المثنى",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cef438cd7747.html"
     },
     {
       "title": "ترامب وشي جين بينغ: ماذا كان على مأدبة عشائهما الفاخرة، وكيف بدت الأجواء؟ - شفق نيوز..",
@@ -144,22 +176,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a5a1beb7c8b6.html"
-    },
-    {
-      "title": "الأفيال تستخدم النباتات الطبية لعلاج نفسها، فما القصة؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ckn9wn2w3zg1o",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-25T10:16:58+00:00",
-      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/ckn9wn2w3zg1o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9f8429bfc6d3.html"
     },
     {
       "title": "خرقان نفطيان وأنابيب تحت الأرض وشاحنات مموهة.. تفكيك شبكة لسرقة وتهريب النفط الخام",
@@ -263,8 +279,8 @@
       "category": "عربي ودولي",
       "region": "النجف",
       "published": "2026-09-25T09:15:45+00:00",
-      "image": "./assets/news/eb49f6163d1397967c5630a2.jpg",
-      "original_image": "./assets/news/eb49f6163d1397967c5630a2.jpg",
+      "image": "./assets/news/55b7cb3ab2d64fa3de429a0e.jpg",
+      "original_image": "./assets/news/55b7cb3ab2d64fa3de429a0e.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577037/%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D9%8A%D8%B9%D9%84%D9%86-%D8%A5%D9%8A%D9%82%D8%A7%D9%81-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A5%D9%84%D9%89",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -418,22 +434,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/021ad9050e54.html"
     },
     {
-      "title": "مسؤول حوثي يكشف عن الجهة التي تحاول استهداف مكة",
-      "url": "https://www.alsumaria.tv/news/international/577029/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%AD%D9%88%D8%AB%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D8%AD%D8%A7%D9%88%D9%84-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%83%D8%A9",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-25T07:03:52+00:00",
-      "image": "./assets/news/12d33072be6db9791bef261f.jpg",
-      "original_image": "./assets/news/12d33072be6db9791bef261f.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/577029/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%AD%D9%88%D8%AB%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D8%AD%D8%A7%D9%88%D9%84-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%83%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/92ac084c2657.html"
-    },
-    {
       "title": "رئيس الوزراء الكندي يتحسب لاحتمال عمل أمريكي عسكري ضد بلاده - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cr624vn8d8leo",
       "category": "سياسة",
@@ -480,6 +480,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d0dcdaadb63a.html"
+    },
+    {
+      "title": "فؤاد حسين يناقش مع الخارجية الأميركية عقوبات إيران وتداعياتها المحتملة على العراق",
+      "url": "https://964media.com/720065/",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-25T05:47:52+00:00",
+      "image": "./assets/news/89652996fc54649f356f197f.jpg",
+      "original_image": "./assets/news/89652996fc54649f356f197f.jpg",
+      "source_url": "https://964media.com/720065/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/94b816716f86.html"
     },
     {
       "title": "فرق التجارة تنتشر في بغداد والمحافظات لمكافحة الغش وتثبيت الأسعار – مؤتمر",
