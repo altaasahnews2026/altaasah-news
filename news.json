@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T05:50:57.411118+00:00",
+  "updated_at": "2026-09-25T05:59:19.554930+00:00",
   "items": [
+    {
+      "title": "عمرو دياب يدخل موسوعة غينيس من جديد",
+      "url": "https://www.alsumaria.tv/news/artculture/577025/%D8%B9%D9%85%D8%B1%D9%88-%D8%AF%D9%8A%D8%A7%D8%A8-%D9%8A%D8%AF%D8%AE%D9%84-%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9-%D8%BA%D9%8A%D9%86%D9%8A%D8%B3-%D9%85%D9%86-%D8%AC%D8%AF%D9%8A%D8%AF",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-25T05:43:26+00:00",
+      "image": "./assets/news/e37bfb64eb3ab9d11942149a.jpg",
+      "original_image": "./assets/news/e37bfb64eb3ab9d11942149a.jpg",
+      "source_url": "https://www.alsumaria.tv/news/artculture/577025/%D8%B9%D9%85%D8%B1%D9%88-%D8%AF%D9%8A%D8%A7%D8%A8-%D9%8A%D8%AF%D8%AE%D9%84-%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9-%D8%BA%D9%8A%D9%86%D9%8A%D8%B3-%D9%85%D9%86-%D8%AC%D8%AF%D9%8A%D8%AF",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ab8f3ec3c1fc.html"
+    },
     {
       "title": "أبرز مواصفات هاتف Xiaomi 18 Pro Max المتطور",
       "url": "https://www.alsumaria.tv/news/miscellaneous/577024/%D8%A3%D8%A8%D8%B1%D8%B2-%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA-%D9%87%D8%A7%D8%AA%D9%81-xiaomi-18-pro-max-%D8%A7%D9%84%D9%85%D8%AA%D8%B7%D9%88%D8%B1",
@@ -416,22 +432,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/99c18763f30f.html"
-    },
-    {
-      "title": "الحكومة العراقية تتسلم موقع الدعم الدبلوماسي بمطار بغداد الدولي",
-      "url": "https://www.alsumaria.tv/news/politics/577006/%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B3%D9%84%D9%85-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A-%D8%A8%D9%85%D8%B7%D8%A7%D8%B1-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
-      "category": "سياسة",
-      "region": "بغداد",
-      "published": "2026-09-24T17:46:31+00:00",
-      "image": "./assets/news/46104ee257c77a6c78e9d750.jpg",
-      "original_image": "./assets/news/46104ee257c77a6c78e9d750.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/577006/%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B3%D9%84%D9%85-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A-%D8%A8%D9%85%D8%B7%D8%A7%D8%B1-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1ca2c5637dc9.html"
     },
     {
       "title": "العثور على جثة مدير أحد الدوائر داخل بستان في ديالى",
