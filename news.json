@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T16:58:00.241033+00:00",
+  "updated_at": "2026-09-25T17:08:22.508121+00:00",
   "items": [
+    {
+      "title": "رئيس الوزراء يغادر نيويورك متوجهاً إلى بغداد بعد مشاركته باجتماعات الأمم المتحدة",
+      "url": "https://www.alsumaria.tv/news/politics/577068/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%BA%D8%A7%D8%AF%D8%B1-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D9%85%D8%AA%D9%88%D8%AC%D9%87%D8%A7%D9%8B-%D8%A5%D9%84%D9%89-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A8%D8%B9%D8%AF-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%D9%87-%D8%A8%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3",
+      "category": "سياسة",
+      "region": "بغداد",
+      "published": "2026-09-25T16:53:35+00:00",
+      "image": "./assets/news/f005b38416c334c417aac6df.jpg",
+      "original_image": "./assets/news/f005b38416c334c417aac6df.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/577068/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%BA%D8%A7%D8%AF%D8%B1-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D9%85%D8%AA%D9%88%D8%AC%D9%87%D8%A7%D9%8B-%D8%A5%D9%84%D9%89-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A8%D8%B9%D8%AF-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%D9%87-%D8%A8%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d69af17e7f63.html"
+    },
     {
       "title": "إيران لا تصدق منع النجف لطائراتها.. القنصلية: أغلقوا مرقد علي أمام الشيعة",
       "url": "https://964media.com/720190/",
@@ -39,8 +55,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-25T15:58:24+00:00",
-      "image": "./assets/news/c08a3bf05412b8b6ab67fc36.jpg",
-      "original_image": "./assets/news/c08a3bf05412b8b6ab67fc36.jpg",
+      "image": "./assets/news/f568b50f8c081affccbcd622.jpg",
+      "original_image": "./assets/news/f568b50f8c081affccbcd622.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/577066/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AD%D8%B1%D9%8A%D8%B5-%D8%B9%D9%84%D9%89-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%E2%80%93-%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -448,22 +464,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/dc4b804448eb.html"
-    },
-    {
-      "title": "عقيل مفتن يفوز برئاسة اتحاد الفروسية العراقي",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577048/sports/%D8%B9%D9%82%D9%8A%D9%84-%D9%85%D9%81%D8%AA%D9%86-%D9%8A%D9%81%D9%88%D8%B2-%D8%A8%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-25T11:15:47+00:00",
-      "image": "./assets/news/7efd33c43862faacfe75beaa.webp",
-      "original_image": "./assets/news/7efd33c43862faacfe75beaa.webp",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/577048/sports/%D8%B9%D9%82%D9%8A%D9%84-%D9%85%D9%81%D8%AA%D9%86-%D9%8A%D9%81%D9%88%D8%B2-%D8%A8%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/65b45ed5206e.html"
     },
     {
       "title": "على طريق كركوك – أربيل.. كمين استخباري يضبط 300 غرام من الكرستال",
