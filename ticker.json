@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-25T14:05:31.967353+00:00",
+  "updated_at": "2026-09-25T14:23:35.635740+00:00",
   "latest": [
+    {
+      "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
+      "url": "https://aawsat.com/node/5320075",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 10:15:12 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
     {
       "title": "بعد إغلاق رحلات النجف.. إيران تنسق لإعادة مواطنيها والعراقيين الراغبين بالعودة",
       "url": "https://964media.com/720124/",
@@ -30,16 +40,6 @@
       "watch_topics": [
         "إيران",
         "السعودية"
-      ]
-    },
-    {
-      "title": "مطار النجف يوقف جميع الرحلات الجوية من وإلى إيران",
-      "url": "https://964media.com/720091/",
-      "category": "عراق",
-      "published": "2026-09-25T08:26:11+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
       ]
     },
     {
@@ -131,14 +131,6 @@
       "watch_topics": [
         "إيران"
       ]
-    },
-    {
-      "title": "حملة حكومية واسعة للسيطرة على أسعار الأسواق وضبط المحتكرين في بغداد والمحافظات",
-      "url": "https://964media.com/719774/",
-      "category": "عراق",
-      "published": "2026-09-24T08:12:20+00:00",
-      "breaking": false,
-      "watch_topics": []
     },
     {
       "title": "العراق يستعيد 13 مليون دولار محجوزة في بنوك فرنسا",
@@ -249,6 +241,22 @@
       "url": "https://www.alsumaria.tv/news/economy/577050/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%AA%D8%AC%D9%87-%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9%D9%8A%D8%A9",
       "category": "عراق",
       "published": "2026-09-25T11:45:38+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "اليونيسف: 3.5 ملايين طفل وامرأة في اليمن يواجهون سوء التغذية",
+      "url": "https://www.alsumaria.tv/news/international/577051/%D8%A7%D9%84%D9%8A%D9%88%D9%86%D9%8A%D8%B3%D9%81-35-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%B7%D9%81%D9%84-%D9%88%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%8A%D9%88%D8%A7%D8%AC%D9%87%D9%88%D9%86-%D8%B3%D9%88%D8%A1-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-25T12:15:15+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "وزير النفط يصدر توجيهاً بشأن ازمة الوقود",
+      "url": "https://www.alsumaria.tv/news/localnews/577052/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B5%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7%D9%8B-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF",
+      "category": "عراق",
+      "published": "2026-09-25T12:31:35+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -366,6 +374,16 @@
       "watch_topics": []
     },
     {
+      "title": "مجلس الأمن الدولي يدين هجمات الحوثيين على السعودية",
+      "url": "https://aawsat.com/node/5322567",
+      "category": "مشرق أوسط",
+      "published": "Fri, 25 Sep 2026 15:18:04 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "السعودية ومصر لتطوير مسارات النقل البحري وسط اضطرابات الملاحة الدولية",
       "url": "https://aawsat.com/node/5321676",
       "category": "مشرق أوسط",
@@ -463,16 +481,6 @@
       "breaking": false,
       "watch_topics": [
         "أمريكا"
-      ]
-    },
-    {
-      "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
-      "url": "https://aawsat.com/node/5320075",
-      "category": "مشرق أوسط",
-      "published": "Sat, 19 Sep 2026 10:15:12 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
       ]
     },
     {
@@ -586,6 +594,14 @@
       ]
     },
     {
+      "title": "ليو الرابع عشر يبدأ زيارة فرنسا بدعوة إلى السلام ونزع السلاح",
+      "url": "https://aawsat.com/node/5322565",
+      "category": "دولي",
+      "published": "Fri, 25 Sep 2026 15:15:42 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "رئيس ليتوانيا: روسيا أصبحت «أكثر تهوراً» ويجب وقفها في أوكرانيا",
       "url": "https://aawsat.com/node/5322401",
       "category": "دولي",
@@ -638,22 +654,6 @@
       "url": "https://aawsat.com/node/5321754",
       "category": "دولي",
       "published": "Wed, 23 Sep 2026 16:31:01 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الكرملين: بوتين مستعد لعقد اجتماع مع ترمب",
-      "url": "https://aawsat.com/node/5321658",
-      "category": "دولي",
-      "published": "Wed, 23 Sep 2026 12:56:03 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ضربات روسية على أوكرانيا بالتزامن مع لقاء زيلينسكي وترمب",
-      "url": "https://aawsat.com/node/5321574",
-      "category": "دولي",
-      "published": "Wed, 23 Sep 2026 09:37:24 +0100",
       "breaking": false,
       "watch_topics": []
     }
