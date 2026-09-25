@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T08:09:10.103224+00:00",
+  "updated_at": "2026-09-25T08:26:08.279142+00:00",
   "latest": [
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
@@ -9,17 +9,6 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
-      ]
-    },
-    {
-      "title": "البيت الأبيض: إيران تسعى للتوصل لاتفاق والرئيس سيتخذ القرار الأنسب",
-      "url": "https://www.alsumaria.tv/news/international/577013/%D8%A7%D9%84%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B3%D8%B9%D9%89-%D9%84%D9%84%D8%AA%D9%88%D8%B5%D9%84-%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%88%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%B3%D9%8A%D8%AA%D8%AE%D8%B0-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%A8",
-      "category": "عراق",
-      "published": "2026-09-24T19:50:00+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
       ]
     },
     {
@@ -115,6 +104,16 @@
       ]
     },
     {
+      "title": "مفتي السعودية يصدر بياناً يحث على \"الرباط والجهاد\" ضد الحوثيين، وتركيا وباكستان تبحثان \"مساندة\" المملكة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqx2z558pnkpo",
+      "category": "عراق",
+      "published": "2026-09-25T08:19:42+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "حملة حكومية واسعة للسيطرة على أسعار الأسواق وضبط المحتكرين في بغداد والمحافظات",
       "url": "https://964media.com/719774/",
       "category": "عراق",
@@ -135,14 +134,6 @@
       "url": "https://964media.com/719803/",
       "category": "عراق",
       "published": "2026-09-24T11:45:57+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "أرنولد: العراق كان يستحق الفوز على عُمان بنتيجة كبيرة لكن اللمسة الأخيرة غابت",
-      "url": "https://964media.com/719980/",
-      "category": "عراق",
-      "published": "2026-09-24T18:20:31+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -247,6 +238,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cr624vn8d8leo",
       "category": "عراق",
       "published": "2026-09-25T06:22:30+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "لاعب اسرائيلي احتفل بطريقة اطلاق النار فتلاقى الطرد من المباراة",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577028/sports/%D9%84%D8%A7%D8%B9%D8%A8-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A7%D8%AD%D8%AA%D9%81%D9%84-%D8%A8%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%81%D8%AA%D9%84%D8%A7%D9%82%D9%89-%D8%A7%D9%84%D8%B7%D8%B1%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-25T06:58:57+00:00",
       "breaking": false,
       "watch_topics": []
     },
