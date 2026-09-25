@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T19:34:28.532076+00:00",
+  "updated_at": "2026-09-25T19:46:06.320433+00:00",
   "items": [
     {
       "title": "القبض على متهم بالاعتداء على طفل في بغداد",
@@ -18,13 +18,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b79500ed519f.html"
     },
     {
+      "title": "خبر سار للعراقين.. الشتاء قادم الاثنين المقبل",
+      "url": "https://www.alsumaria.tv/news/localnews/577079/%D8%AE%D8%A8%D8%B1-%D8%B3%D8%A7%D8%B1-%D9%84%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1-%D9%82%D8%A7%D8%AF%D9%85-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-25T19:39:07+00:00",
+      "image": "./assets/news/5baad66371c38a2f566df9db.jpg",
+      "original_image": "./assets/news/5baad66371c38a2f566df9db.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577079/%D8%AE%D8%A8%D8%B1-%D8%B3%D8%A7%D8%B1-%D9%84%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1-%D9%82%D8%A7%D8%AF%D9%85-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/86d9285fcea2.html"
+    },
+    {
       "title": "انتحار طالب في أحد الأحياء الشمالية بالنجف",
       "url": "https://www.alsumaria.tv/news/localnews/577078/%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1-%D8%B7%D8%A7%D9%84%D8%A8-%D9%81%D9%8A-%D8%A3%D8%AD%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%86%D8%AC%D9%81",
       "category": "اقتصاد",
       "region": "النجف",
       "published": "2026-09-25T19:17:26+00:00",
-      "image": "./assets/news/193903fabbab14ef68c176dd.jpg",
-      "original_image": "./assets/news/193903fabbab14ef68c176dd.jpg",
+      "image": "./assets/news/1148a4be8aac39a54dacfcb2.jpg",
+      "original_image": "./assets/news/1148a4be8aac39a54dacfcb2.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577078/%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1-%D8%B7%D8%A7%D9%84%D8%A8-%D9%81%D9%8A-%D8%A3%D8%AD%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%86%D8%AC%D9%81",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -480,22 +496,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/70016395d9f0.html"
-    },
-    {
-      "title": "السومرية تنشر النص الكامل لكلمة رئيس الوزراء في الجمعية العامة للامم المتحدة",
-      "url": "https://www.alsumaria.tv/news/politics/577059/%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D8%B4%D8%B1-%D8%A7%D9%84%D9%86%D8%B5-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84-%D9%84%D9%83%D9%84%D9%85%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D8%A7%D9%85%D9%85-%D8%A7",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-25T13:51:43+00:00",
-      "image": "./assets/news/897fa31d11ef2ee1230788c7.jpg",
-      "original_image": "./assets/news/897fa31d11ef2ee1230788c7.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/577059/%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D8%B4%D8%B1-%D8%A7%D9%84%D9%86%D8%B5-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84-%D9%84%D9%83%D9%84%D9%85%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D8%A7%D9%85%D9%85-%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f23d74eb0dc4.html"
     },
     {
       "title": "مستشار خامنئي يهدد بعد إيقاف رحلات النجف: إذا حرمت إيران سنحرم جميع دول المنطقة",
