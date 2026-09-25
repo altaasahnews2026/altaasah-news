@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T19:00:49.498251+00:00",
+  "updated_at": "2026-09-25T19:13:23.840850+00:00",
   "items": [
     {
       "title": "القبض على متهم بالاعتداء على طفل في بغداد",
@@ -23,8 +23,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-25T18:42:16+00:00",
-      "image": "./assets/news/c1cd8c6be28e70711aff14e5.jpg",
-      "original_image": "./assets/news/c1cd8c6be28e70711aff14e5.jpg",
+      "image": "./assets/news/e00e7e50b56377d3a646ea64.jpg",
+      "original_image": "./assets/news/e00e7e50b56377d3a646ea64.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/577076/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B9%D8%AA%D8%B2-%D8%A8%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA%D9%87-%D8%A7%D9%84%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -32,6 +32,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9a24a8ea52f8.html"
+    },
+    {
+      "title": "أكرم الكعبي: سنعتصم في مطارات العراق لكسر حظر الرحلات الإيرانية",
+      "url": "https://964media.com/720207/",
+      "category": "عربي ودولي",
+      "region": "السليمانية",
+      "published": "2026-09-25T18:41:55+00:00",
+      "image": "./assets/news/307b136c78a6cd86fff85025.jpg",
+      "original_image": "./assets/news/307b136c78a6cd86fff85025.jpg",
+      "source_url": "https://964media.com/720207/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "السليمانية",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f6ef96ba121c.html"
     },
     {
       "title": "أبرز العناوين - صفحة المباشر - شفق نيوز..",
@@ -151,8 +167,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-25T17:15:47+00:00",
-      "image": "./assets/news/40b884e865c253fb435f84a6.jpg",
-      "original_image": "./assets/news/40b884e865c253fb435f84a6.jpg",
+      "image": "./assets/news/868d40cac45b8f116bf25a9f.jpg",
+      "original_image": "./assets/news/868d40cac45b8f116bf25a9f.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577070/%D8%A8%D8%A7%D8%A8%D8%A7-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D9%8A%D9%83%D8%A7%D9%86-%D9%8A%D9%86%D8%AA%D9%82%D8%AF-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D8%A8%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A7%D8%B4%D8%AE%D8%A7%D8%B5-%D9%88%D8%AD%D9%82-%D8%A7%D9%84%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A8%D9%81%D8%B1%D9%86%D8%B3%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -466,22 +482,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/20ab2392d801.html"
     },
     {
-      "title": "إتلاف 155 كغم من اللحوم غير الصالحة للاستهلاك في كربلاء",
-      "url": "https://www.alsumaria.tv/news/localnews/577057/%D8%A5%D8%AA%D9%84%D8%A7%D9%81-155-%D9%83%D8%BA%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D9%84%D8%AD%D9%88%D9%85-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%D8%A9-%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D9%84%D8%A7%D9%83-%D9%81%D9%8A-%D9%83%D8%B1%D8%A8%D9%84%D8%A7%D8%A1",
-      "category": "محليات",
-      "region": "كربلاء",
-      "published": "2026-09-25T13:41:13+00:00",
-      "image": "./assets/news/81317ea336f0d1d5777f4313.jpg",
-      "original_image": "./assets/news/81317ea336f0d1d5777f4313.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577057/%D8%A5%D8%AA%D9%84%D8%A7%D9%81-155-%D9%83%D8%BA%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D9%84%D8%AD%D9%88%D9%85-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%D8%A9-%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D9%84%D8%A7%D9%83-%D9%81%D9%8A-%D9%83%D8%B1%D8%A8%D9%84%D8%A7%D8%A1",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "كربلاء",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/be464e029b16.html"
-    },
-    {
       "title": "مستشار خامنئي يهدد بعد إيقاف رحلات النجف: إذا حرمت إيران سنحرم جميع دول المنطقة",
       "url": "https://964media.com/720149/",
       "category": "أمن",
@@ -512,22 +512,6 @@
       "report": false,
       "governorate": "أربيل",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/97bf7f423597.html"
-    },
-    {
-      "title": "خرقان وأنابيب مدفونة 270 متراً.. الأمن الوطني يفكك شبكة لسرقة نفط المثنى",
-      "url": "https://964media.com/720135/",
-      "category": "اقتصاد",
-      "region": "المثنى",
-      "published": "2026-09-25T10:50:03+00:00",
-      "image": "./assets/news/d87e24123ed3a95c51eaade0.jpg",
-      "original_image": "./assets/news/d87e24123ed3a95c51eaade0.jpg",
-      "source_url": "https://964media.com/720135/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "المثنى",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cef438cd7747.html"
     }
   ]
 }
