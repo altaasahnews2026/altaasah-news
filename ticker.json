@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T09:32:13.211895+00:00",
+  "updated_at": "2026-09-25T09:44:14.381167+00:00",
   "latest": [
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
@@ -9,6 +9,17 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "مفتي السعودية يحث على \"الرباط والجهاد\" ضد جماعة أنصار الله، وإيران تقول إنه لا شأن لها بما يفعله الحوثيون - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqx2z558pnkpo",
+      "category": "عراق",
+      "published": "2026-09-25T09:21:21+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "السعودية"
       ]
     },
     {
@@ -62,10 +73,20 @@
       ]
     },
     {
-      "title": "إيقاف حركة الطيران بين إيران والعراق في مطار النجف",
-      "url": "https://www.alsumaria.tv/news/localnews/577019/%D8%A5%D9%8A%D9%82%D8%A7%D9%81-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D9%8A%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%81%D9%8A-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D8%AC%D9%81",
+      "title": "مفتي السعودية يصدر بيانا بشأن الحوثيين ويدعو لتوحيد الصفوف",
+      "url": "https://www.alsumaria.tv/news/international/577021/%D9%85%D9%81%D8%AA%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%8A%D8%B5%D8%AF%D8%B1-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D9%88%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D8%B5%D9%81%D9%88%D9%81",
       "category": "عراق",
-      "published": "2026-09-24T21:12:55+00:00",
+      "published": "2026-09-24T22:20:00+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "الرئيس الإيراني يعلن التخلي عن اليورانيوم المخصب بنسبة 60%",
+      "url": "https://www.alsumaria.tv/news/international/577023/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%AA%D8%AE%D9%84%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D8%B1%D8%A7%D9%86%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D8%B5%D8%A8-%D8%A8%D9%86%D8%B3%D8%A8%D8%A9-60",
+      "category": "عراق",
+      "published": "2026-09-24T22:25:00+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
@@ -82,6 +103,16 @@
       ]
     },
     {
+      "title": "وفاة أحد مصابي محاولة اغتيال ترامب",
+      "url": "https://www.alsumaria.tv/news/international/577033/%D9%88%D9%81%D8%A7%D8%A9-%D8%A3%D8%AD%D8%AF-%D9%85%D8%B5%D8%A7%D8%A8%D9%8A-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
+      "category": "عراق",
+      "published": "2026-09-25T08:25:20+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "مطار النجف يوقف جميع الرحلات الجوية من وإلى إيران",
       "url": "https://964media.com/720091/",
       "category": "عراق",
@@ -92,13 +123,13 @@
       ]
     },
     {
-      "title": "مفتي السعودية يصدر بياناً يحث على \"الرباط والجهاد\" ضد الحوثيين، وتركيا وباكستان تبحثان \"مساندة\" المملكة - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqx2z558pnkpo",
+      "title": "وجه به رسالة إلى إيران.. ما الجهاز الذي رفعه نتنياهو؟",
+      "url": "https://www.alsumaria.tv/news/international/577034/%D9%88%D8%AC%D9%87-%D8%A8%D9%87-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%A5%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%A7-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2-%D8%A7%D9%84%D8%B0%D9%8A-%D8%B1%D9%81%D8%B9%D9%87-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88%D8%9F",
       "category": "عراق",
-      "published": "2026-09-25T08:27:45+00:00",
+      "published": "2026-09-25T08:33:26+00:00",
       "breaking": false,
       "watch_topics": [
-        "السعودية"
+        "إيران"
       ]
     },
     {
@@ -113,52 +144,12 @@
     },
     {
       "title": "رسميا.. مطار النجف يعلن إيقاف جميع الرحلات الجوية القادمة والمغادرة إلى إيران",
-      "url": "https://www.alsumaria.tv/news/localnews/577037/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d9%85%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d9%86%d8%ac%d9%81-%d9%8a%d8%b9%d9%84%d9%86-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%ac%d9%85%d9%8a%d8%b9-%d8%a7%d9%84%d8%b1%d8%ad%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "url": "https://www.alsumaria.tv/news/localnews/577037/%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D9%8A%D8%B9%D9%84%D9%86-%D8%A5%D9%8A%D9%82%D8%A7%D9%81-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A5%D9%84%D9%89",
       "category": "عراق",
-      "published": "Fri, 25 Sep 2026 09:15:45 GMT",
+      "published": "2026-09-25T09:15:45+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
-      ]
-    },
-    {
-      "title": "وجه به رسالة إلى إيران.. ما الجهاز الذي رفعه نتنياهو؟",
-      "url": "https://www.alsumaria.tv/news/international/577034/%d9%88%d8%ac%d9%87-%d8%a8%d9%87-%d8%b1%d8%b3%d8%a7%d9%84%d8%a9-%d8%a5%d9%84%d9%89-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d9%85%d8%a7-%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2-%d8%a7%d9%84%d8%b0%d9%8a-%d8%b1%d9%81%d8%b9%d9%87-%d9%86%d8%aa%d9%86%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-      "category": "عراق",
-      "published": "Fri, 25 Sep 2026 08:33:26 GMT",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "وفاة أحد مصابي محاولة اغتيال ترامب",
-      "url": "https://www.alsumaria.tv/news/international/577033/%d9%88%d9%81%d8%a7%d8%a9-%d8%a3%d8%ad%d8%af-%d9%85%d8%b5%d8%a7%d8%a8%d9%8a-%d9%85%d8%ad%d8%a7%d9%88%d9%84%d8%a9-%d8%a7%d8%ba%d8%aa%d9%8a%d8%a7%d9%84-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-      "category": "عراق",
-      "published": "Fri, 25 Sep 2026 08:25:20 GMT",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "الرئيس الإيراني يعلن التخلي عن اليورانيوم المخصب بنسبة 60%",
-      "url": "https://www.alsumaria.tv/news/international/577023/%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a-%d9%8a%d8%b9%d9%84%d9%86-%d8%a7%d9%84%d8%aa%d8%ae%d9%84%d9%8a-%d8%b9%d9%86-%d8%a7%d9%84%d9%8a%d9%88%d8%b1%d8%a7%d9%86%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d9%85%d8%ae%d8%b5%d8%a8-%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-      "category": "عراق",
-      "published": "Thu, 24 Sep 2026 22:25:00 GMT",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "مفتي السعودية يصدر بيانا بشأن \"الحوثيين\" ويدعو لتوحيد الصفوف",
-      "url": "https://www.alsumaria.tv/news/international/577021/%d9%85%d9%81%d8%aa%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d9%8a%d8%b5%d8%af%d8%b1-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7-%d8%a8%d8%b4%d8%a3%d9%86-quot%d8%a7%d9%84%d8%ad%d9%88%d8%ab%d9%8a%d9%8a%d9%86quot?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
-      "category": "عراق",
-      "published": "Thu, 24 Sep 2026 22:20:00 GMT",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
       ]
     },
     {
@@ -254,6 +245,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cr624vn8d8leo",
       "category": "عراق",
       "published": "2026-09-25T06:22:30+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "لاعب اسرائيلي احتفل بطريقة اطلاق النار فتلاقى الطرد من المباراة",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577028/sports/%D9%84%D8%A7%D8%B9%D8%A8-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A7%D8%AD%D8%AA%D9%81%D9%84-%D8%A8%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%81%D8%AA%D9%84%D8%A7%D9%82%D9%89-%D8%A7%D9%84%D8%B7%D8%B1%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-25T06:58:57+00:00",
       "breaking": false,
       "watch_topics": []
     },
