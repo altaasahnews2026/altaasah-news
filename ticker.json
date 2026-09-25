@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T05:59:22.341526+00:00",
+  "updated_at": "2026-09-25T06:15:23.026507+00:00",
   "latest": [
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
@@ -44,14 +44,12 @@
       ]
     },
     {
-      "title": "العراق وأميركا يوقعان اتفاق تسليم موقع الدعم الدبلوماسي في مطار بغداد",
-      "url": "https://964media.com/719981/",
+      "title": "إل جي إلكترونيكس توسّع نطاق حلول Fit & Max ليشمل فئات رئيسية من الأجهزة المنزلية خلال معرض IFA 2026",
+      "url": "https://www.alsumaria.tv/news/economy/576729/%D8%A5%D9%84-%D8%AC%D9%8A-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D9%83%D8%B3-%D8%AA%D9%88%D8%B3%D9%91%D8%B9-%D9%86%D8%B7%D8%A7%D9%82-%D8%AD%D9%84%D9%88%D9%84-fit-max-%D9%84%D9%8A%D8%B4%D9%85%D9%84-%D9%81%D8%A6%D8%A7%D8%AA-%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D8%AC%D9%87%D8%B2%D8%A9",
       "category": "عراق",
-      "published": "2026-09-24T17:53:25+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
+      "published": "2026-09-25T06:00:00+00:00",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "الكشف عن عبور 60 سفينة تجارية مضيق هرمز",
@@ -104,6 +102,16 @@
       ]
     },
     {
+      "title": "فؤاد حسين يناقش مع الخارجية الأميركية عقوبات إيران وتداعياتها المحتملة على العراق",
+      "url": "https://964media.com/720065/",
+      "category": "عراق",
+      "published": "2026-09-25T05:47:52+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "حملة حكومية واسعة للسيطرة على أسعار الأسواق وضبط المحتكرين في بغداد والمحافظات",
       "url": "https://964media.com/719774/",
       "category": "عراق",
@@ -124,22 +132,6 @@
       "url": "https://964media.com/719803/",
       "category": "عراق",
       "published": "2026-09-24T11:45:57+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "العثور على جثة مدير أحد الدوائر داخل بستان في ديالى",
-      "url": "https://964media.com/719975/",
-      "category": "عراق",
-      "published": "2026-09-24T17:28:13+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "خليجي 27.. الإمارات تقسو على اليمن برباعية",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577007/sports/%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D9%82%D8%B3%D9%88-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%A8%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-24T17:52:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -252,6 +244,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cr624vn8d8leo",
       "category": "عراق",
       "published": "2026-09-24T22:23:16+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "نتنياهو يدافع عن العمليات العسكرية الإسرائيلية وانسحاب مندوبين قبل خطابه في الأمم المتحدة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cw980vqz3qezo",
+      "category": "عراق",
+      "published": "2026-09-25T03:33:51+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -662,6 +662,14 @@
       "watch_topics": [
         "السعودية"
       ]
+    },
+    {
+      "title": "إل جي إلكترونيكس توسّع نطاق حلول Fit & Max ليشمل فئات رئيسية من الأجهزة المنزلية خلال معرض IFA 2026",
+      "url": "https://www.alsumaria.tv/news/economy/576729/%D8%A5%D9%84-%D8%AC%D9%8A-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D9%83%D8%B3-%D8%AA%D9%88%D8%B3%D9%91%D8%B9-%D9%86%D8%B7%D8%A7%D9%82-%D8%AD%D9%84%D9%88%D9%84-fit-max-%D9%84%D9%8A%D8%B4%D9%85%D9%84-%D9%81%D8%A6%D8%A7%D8%AA-%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D8%AC%D9%87%D8%B2%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-25T06:00:00+00:00",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "إسرائيل تعلن استهداف مسؤول مالي في «حماس»",
