@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T12:09:36.207022+00:00",
+  "updated_at": "2026-09-25T12:29:08.471984+00:00",
   "latest": [
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
@@ -141,6 +141,16 @@
       ]
     },
     {
+      "title": "مستشار خامنئي يهدد بعد إيقاف رحلات النجف: إذا حرمت إيران سنحرم جميع دول المنطقة",
+      "url": "https://964media.com/720149/",
+      "category": "عراق",
+      "published": "2026-09-25T11:45:45+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "حملة حكومية واسعة للسيطرة على أسعار الأسواق وضبط المحتكرين في بغداد والمحافظات",
       "url": "https://964media.com/719774/",
       "category": "عراق",
@@ -161,22 +171,6 @@
       "url": "https://964media.com/719803/",
       "category": "عراق",
       "published": "2026-09-24T11:45:57+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "قرار يخص تمليك الاراضي الزراعية",
-      "url": "https://www.alsumaria.tv/news/localnews/577031/%D9%82%D8%B1%D8%A7%D8%B1-%D9%8A%D8%AE%D8%B5-%D8%AA%D9%85%D9%84%D9%8A%D9%83-%D8%A7%D9%84%D8%A7%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-25T07:59:39+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "حملة أمنية في ميسان.. ضبط أسلحة غير مرخصة وملاحقة مثيري النزاعات",
-      "url": "https://964media.com/720087/",
-      "category": "عراق",
-      "published": "2026-09-25T08:02:09+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -209,14 +203,6 @@
       "url": "https://964media.com/720121/",
       "category": "عراق",
       "published": "2026-09-25T09:41:38+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "في بغداد.. خلاف على خرطوم ماء صوندة يخلف قتيلين وجرحى بينهم طفل (فيديو)",
-      "url": "https://www.alsumaria.tv/news/trends-alsumaria/577040/%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AE%D9%84%D8%A7%D9%81-%D8%B9%D9%84%D9%89-%D8%AE%D8%B1%D8%B7%D9%88%D9%85-%D9%85%D8%A7%D8%A1-%D8%B5%D9%88%D9%86%D8%AF%D8%A9-%D9%8A%D8%AE%D9%84%D9%81-%D9%82%D8%AA%D9%8A%D9%84%D9%8A%D9%86-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%B7%D9%81%D9%84-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-      "category": "عراق",
-      "published": "2026-09-25T09:58:22+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -257,6 +243,22 @@
       "url": "https://964media.com/720135/",
       "category": "عراق",
       "published": "2026-09-25T10:50:03+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "ثالث حادث امني من نوعه اليوم في بغداد",
+      "url": "https://www.alsumaria.tv/news/security/577046/%D8%AB%D8%A7%D9%84%D8%AB-%D8%AD%D8%A7%D8%AF%D8%AB-%D8%A7%D9%85%D9%86%D9%8A-%D9%85%D9%86-%D9%86%D9%88%D8%B9%D9%87-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "category": "عراق",
+      "published": "2026-09-25T10:59:14+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "اليوم الرابع للجمعية العامة للأمم المتحدة: رؤساء وزراء العراق ولبنان ومصر على جدول المتحدثين - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cmn0jndye872t",
+      "category": "عراق",
+      "published": "2026-09-25T11:15:25+00:00",
       "breaking": false,
       "watch_topics": []
     },
