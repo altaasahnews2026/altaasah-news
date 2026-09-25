@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T07:03:28.056905+00:00",
+  "updated_at": "2026-09-25T07:21:28.500963+00:00",
   "latest": [
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
@@ -19,17 +19,6 @@
       "breaking": true,
       "watch_topics": [
         "السعودية"
-      ]
-    },
-    {
-      "title": "الشيوخ الأمريكي يرفض مشروع قانون يحد من صلاحيات ترامب بحرب إيران",
-      "url": "https://www.alsumaria.tv/news/international/577010/%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%B1%D9%81%D8%B6-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%8A%D8%AD%D8%AF-%D9%85%D9%86-%D8%B5%D9%84%D8%A7%D8%AD%D9%8A%D8%A7%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A8%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
-      "category": "عراق",
-      "published": "2026-09-24T18:45:07+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
       ]
     },
     {
@@ -56,6 +45,14 @@
       "url": "https://www.alsumaria.tv/news/miscellaneous/577027/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A-%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D8%A5%D9%86%D9%82%D8%A7%D8%B5-%D8%A7%D9%84%D9%88%D8%B2%D9%86",
       "category": "عراق",
       "published": "2026-09-25T06:44:27+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مسؤول حوثي يكشف عن الجهة التي تحاول استهداف مكة",
+      "url": "https://www.alsumaria.tv/news/international/577029/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%AD%D9%88%D8%AB%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D8%AD%D8%A7%D9%88%D9%84-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%83%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-25T07:03:52+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -152,14 +149,6 @@
       "watch_topics": []
     },
     {
-      "title": "كتلة نيابية تكشف كواليس استكمال الكابينة الوزارية: البعض يسعى لخطف وزارات",
-      "url": "https://www.alsumaria.tv/news/alsumariaspecial/577003/%D9%83%D8%AA%D9%84%D8%A9-%D9%86%D9%8A%D8%A7%D8%A8%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D9%83%D9%88%D8%A7%D9%84%D9%8A%D8%B3-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%B9%D8%B6-%D9%8A%D8%B3%D8%B9%D9%89-%D9%84%D8%AE%D8%B7%D9%81-%D9%88%D8%B2%D8%A7%D8%B1",
-      "category": "عراق",
-      "published": "2026-09-24T18:31:00+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "بولندا تصف حريق محطة ستارلينك بـ \"العمل التخريبي\"، والدنمارك تحذر من تصاعد التهديد الروسي - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c933k0p2k2deo",
       "category": "عراق",
@@ -252,6 +241,14 @@
       "url": "https://964media.com/720068/",
       "category": "عراق",
       "published": "2026-09-25T05:57:06+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "نتنياهو يدافع عن العمليات العسكرية الإسرائيلية، ومندوبون ينسحبون قبل خطابه في الأمم المتحدة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cw980vqz3qezo",
+      "category": "عراق",
+      "published": "2026-09-25T06:10:02+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -580,6 +577,14 @@
       ]
     },
     {
+      "title": "رئيس ليتوانيا: روسيا أصبحت «أكثر تهوراً» ويجب وقفها في أوكرانيا",
+      "url": "https://aawsat.com/node/5322401",
+      "category": "دولي",
+      "published": "Fri, 25 Sep 2026 08:13:04 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "أثينا تدعو لندن إلى التحلي بالشجاعة لإعادة منحوتات البارثينون",
       "url": "https://aawsat.com/node/5322189",
       "category": "دولي",
@@ -642,14 +647,6 @@
       "published": "Wed, 23 Sep 2026 09:37:24 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "بلجيكا ورواندا تطويان صفحة الخلاف وتستأنفان العلاقات الدبلوماسية",
-      "url": "https://aawsat.com/node/5321539",
-      "category": "دولي",
-      "published": "Wed, 23 Sep 2026 08:12:29 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -676,6 +673,14 @@
       "url": "https://www.alsumaria.tv/news/miscellaneous/577027/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A-%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D8%A5%D9%86%D9%82%D8%A7%D8%B5-%D8%A7%D9%84%D9%88%D8%B2%D9%86",
       "category": "عراق",
       "published": "2026-09-25T06:44:27+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مسؤول حوثي يكشف عن الجهة التي تحاول استهداف مكة",
+      "url": "https://www.alsumaria.tv/news/international/577029/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%AD%D9%88%D8%AB%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D8%AD%D8%A7%D9%88%D9%84-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%83%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-25T07:03:52+00:00",
       "breaking": true,
       "watch_topics": []
     },
