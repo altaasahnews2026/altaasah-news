@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T08:26:02.598867+00:00",
+  "updated_at": "2026-09-25T08:38:52.333773+00:00",
   "items": [
+    {
+      "title": "وفاة أحد مصابي محاولة اغتيال ترامب",
+      "url": "https://www.alsumaria.tv/news/international/577033/%D9%88%D9%81%D8%A7%D8%A9-%D8%A3%D8%AD%D8%AF-%D9%85%D8%B5%D8%A7%D8%A8%D9%8A-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-09-25T08:25:20+00:00",
+      "image": "./assets/news/0fe1b7e77bde0036c5d0401d.jpg",
+      "original_image": "./assets/news/0fe1b7e77bde0036c5d0401d.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577033/%D9%88%D9%81%D8%A7%D8%A9-%D8%A3%D8%AD%D8%AF-%D9%85%D8%B5%D8%A7%D8%A8%D9%8A-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b01224bce9b5.html"
+    },
     {
       "title": "مفتي السعودية يصدر بياناً يحث على \"الرباط والجهاد\" ضد الحوثيين، وتركيا وباكستان تبحثان \"مساندة\" المملكة - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cqx2z558pnkpo",
@@ -16,6 +32,22 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cd762498c997.html"
+    },
+    {
+      "title": "الأفيال تستخدم النباتات الطبية لعلاج نفسها، فما القصة؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ckn9wn2w3zg1o",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-25T08:13:16+00:00",
+      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/ckn9wn2w3zg1o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f209508653d0.html"
     },
     {
       "title": "آيفون 18 برو يتجمد ويعيد تشغيل نفسه",
@@ -80,22 +112,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/021ad9050e54.html"
-    },
-    {
-      "title": "بولندا تصف حريق محطة ستارلينك بـ\"العمل التخريبي\"، والدنمارك تحذّر من تصاعد التهديد الروسي - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c933k0p2k2deo",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-25T07:24:33+00:00",
-      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c933k0p2k2deo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9875bd7f203d.html"
     },
     {
       "title": "مسؤول حوثي يكشف عن الجهة التي تحاول استهداف مكة",
@@ -448,22 +464,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b4853819d63b.html"
-    },
-    {
-      "title": "قطر تهزم البحرين بهدفين في خليجي 27",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577014/sports/%D9%82%D8%B7%D8%B1-%D8%AA%D9%87%D8%B2%D9%85-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A8%D9%87%D8%AF%D9%81%D9%8A%D9%86-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-24T19:58:00+00:00",
-      "image": "./assets/news/4a4b9f167b597692e96fe4bc.jpg",
-      "original_image": "./assets/news/4a4b9f167b597692e96fe4bc.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/577014/sports/%D9%82%D8%B7%D8%B1-%D8%AA%D9%87%D8%B2%D9%85-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A8%D9%87%D8%AF%D9%81%D9%8A%D9%86-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4c5de4791622.html"
     },
     {
       "title": "فرق التجارة تنتشر في بغداد والمحافظات لمكافحة الغش وتثبيت الأسعار – مؤتمر",
