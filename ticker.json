@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T09:16:48.332326+00:00",
+  "updated_at": "2026-09-25T09:32:13.211895+00:00",
   "latest": [
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
@@ -32,6 +32,14 @@
       "url": "https://www.alsumaria.tv/news/international/577029/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%AD%D9%88%D8%AB%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D8%AD%D8%A7%D9%88%D9%84-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%83%D8%A9",
       "category": "عراق",
       "published": "2026-09-25T07:03:52+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تحذيرات من أقسى شتاء منذ 2022 بسبب ارتفاع أسعار الديزل",
+      "url": "https://www.alsumaria.tv/news/international/577030/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D8%A3%D9%82%D8%B3%D9%89-%D8%B4%D8%AA%D8%A7%D8%A1-%D9%85%D9%86%D8%B0-2022-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D8%B2%D9%84",
+      "category": "عراق",
+      "published": "2026-09-25T07:53:48+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -101,6 +109,56 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "رسميا.. مطار النجف يعلن إيقاف جميع الرحلات الجوية القادمة والمغادرة إلى إيران",
+      "url": "https://www.alsumaria.tv/news/localnews/577037/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d9%85%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d9%86%d8%ac%d9%81-%d9%8a%d8%b9%d9%84%d9%86-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%ac%d9%85%d9%8a%d8%b9-%d8%a7%d9%84%d8%b1%d8%ad%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Fri, 25 Sep 2026 09:15:45 GMT",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "وجه به رسالة إلى إيران.. ما الجهاز الذي رفعه نتنياهو؟",
+      "url": "https://www.alsumaria.tv/news/international/577034/%d9%88%d8%ac%d9%87-%d8%a8%d9%87-%d8%b1%d8%b3%d8%a7%d9%84%d8%a9-%d8%a5%d9%84%d9%89-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d9%85%d8%a7-%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2-%d8%a7%d9%84%d8%b0%d9%8a-%d8%b1%d9%81%d8%b9%d9%87-%d9%86%d8%aa%d9%86%d9%8a%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Fri, 25 Sep 2026 08:33:26 GMT",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "وفاة أحد مصابي محاولة اغتيال ترامب",
+      "url": "https://www.alsumaria.tv/news/international/577033/%d9%88%d9%81%d8%a7%d8%a9-%d8%a3%d8%ad%d8%af-%d9%85%d8%b5%d8%a7%d8%a8%d9%8a-%d9%85%d8%ad%d8%a7%d9%88%d9%84%d8%a9-%d8%a7%d8%ba%d8%aa%d9%8a%d8%a7%d9%84-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Fri, 25 Sep 2026 08:25:20 GMT",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "الرئيس الإيراني يعلن التخلي عن اليورانيوم المخصب بنسبة 60%",
+      "url": "https://www.alsumaria.tv/news/international/577023/%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a-%d9%8a%d8%b9%d9%84%d9%86-%d8%a7%d9%84%d8%aa%d8%ae%d9%84%d9%8a-%d8%b9%d9%86-%d8%a7%d9%84%d9%8a%d9%88%d8%b1%d8%a7%d9%86%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d9%85%d8%ae%d8%b5%d8%a8-%d8%a8?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Thu, 24 Sep 2026 22:25:00 GMT",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "مفتي السعودية يصدر بيانا بشأن \"الحوثيين\" ويدعو لتوحيد الصفوف",
+      "url": "https://www.alsumaria.tv/news/international/577021/%d9%85%d9%81%d8%aa%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d9%8a%d8%b5%d8%af%d8%b1-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7-%d8%a8%d8%b4%d8%a3%d9%86-quot%d8%a7%d9%84%d8%ad%d9%88%d8%ab%d9%8a%d9%8a%d9%86quot?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Thu, 24 Sep 2026 22:20:00 GMT",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {
@@ -196,54 +254,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cr624vn8d8leo",
       "category": "عراق",
       "published": "2026-09-25T06:22:30+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "لاعب اسرائيلي احتفل بطريقة اطلاق النار فتلاقى الطرد من المباراة",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577028/sports/%D9%84%D8%A7%D8%B9%D8%A8-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A7%D8%AD%D8%AA%D9%81%D9%84-%D8%A8%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%81%D8%AA%D9%84%D8%A7%D9%82%D9%89-%D8%A7%D9%84%D8%B7%D8%B1%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-25T06:58:57+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "قرار يخص تمليك الاراضي الزراعية",
-      "url": "https://www.alsumaria.tv/news/localnews/577031/%D9%82%D8%B1%D8%A7%D8%B1-%D9%8A%D8%AE%D8%B5-%D8%AA%D9%85%D9%84%D9%8A%D9%83-%D8%A7%D9%84%D8%A7%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-25T07:59:39+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "حملة أمنية في ميسان.. ضبط أسلحة غير مرخصة وملاحقة مثيري النزاعات",
-      "url": "https://964media.com/720087/",
-      "category": "عراق",
-      "published": "2026-09-25T08:02:09+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "آيفون 18 برو يتجمد ويعيد تشغيل نفسه",
-      "url": "https://www.alsumaria.tv/news/technology/577032/%D8%A2%D9%8A%D9%81%D9%88%D9%86-18-%D8%A8%D8%B1%D9%88-%D9%8A%D8%AA%D8%AC%D9%85%D8%AF-%D9%88%D9%8A%D8%B9%D9%8A%D8%AF-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D9%86%D9%81%D8%B3%D9%87",
-      "category": "عراق",
-      "published": "2026-09-25T08:11:36+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الأفيال تستخدم النباتات الطبية لعلاج نفسها، فما القصة؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ckn9wn2w3zg1o",
-      "category": "عراق",
-      "published": "2026-09-25T08:13:16+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "3 حوادث امنية متفرقة في بغداد ضحيتها شابين وفتاة",
-      "url": "https://www.alsumaria.tv/news/security/577036/3-%D8%AD%D9%88%D8%A7%D8%AF%D8%AB-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D9%85%D8%AA%D9%81%D8%B1%D9%82%D8%A9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%B6%D8%AD%D9%8A%D8%AA%D9%87%D8%A7-%D8%B4%D8%A7%D8%A8%D9%8A%D9%86-%D9%88%D9%81%D8%AA%D8%A7%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-25T09:06:36+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -492,6 +502,16 @@
       ]
     },
     {
+      "title": "من النسر الأصلع إلى آيس كريم العسل... تفاصيل مأدبة ترمب وشي في البيت الأبيض",
+      "url": "https://aawsat.com/node/5322447",
+      "category": "دولي",
+      "published": "Fri, 25 Sep 2026 10:28:08 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "الصين: شي وترمب بحثا ملفات إيران وروسيا وأوكرانيا وكوريا الشمالية",
       "url": "https://aawsat.com/node/5322363",
       "category": "دولي",
@@ -634,14 +654,6 @@
       "published": "Wed, 23 Sep 2026 12:56:03 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "ضربات روسية على أوكرانيا بالتزامن مع لقاء زيلينسكي وترمب",
-      "url": "https://aawsat.com/node/5321574",
-      "category": "دولي",
-      "published": "Wed, 23 Sep 2026 09:37:24 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -666,6 +678,14 @@
       "url": "https://www.alsumaria.tv/news/international/577029/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%AD%D9%88%D8%AB%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D8%AD%D8%A7%D9%88%D9%84-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%83%D8%A9",
       "category": "عراق",
       "published": "2026-09-25T07:03:52+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تحذيرات من أقسى شتاء منذ 2022 بسبب ارتفاع أسعار الديزل",
+      "url": "https://www.alsumaria.tv/news/international/577030/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D8%A3%D9%82%D8%B3%D9%89-%D8%B4%D8%AA%D8%A7%D8%A1-%D9%85%D9%86%D8%B0-2022-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D8%B2%D9%84",
+      "category": "عراق",
+      "published": "2026-09-25T07:53:48+00:00",
       "breaking": true,
       "watch_topics": []
     },
