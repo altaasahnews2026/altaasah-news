@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T19:25:15.128077+00:00",
+  "updated_at": "2026-09-25T19:34:28.532076+00:00",
   "items": [
     {
       "title": "القبض على متهم بالاعتداء على طفل في بغداد",
@@ -32,6 +32,22 @@
       "report": false,
       "governorate": "النجف",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9cde960ebc16.html"
+    },
+    {
+      "title": "مجلس الأمن يدين هجمات جماعة أنصار الله الحوثية على الرياض، والرئاسة اليمنية تعلن \"التعبئة\"، و السعودية تحث على \"الرباط والجهاد\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqx2z558pnkpo",
+      "category": "أمن",
+      "region": "كركوك",
+      "governorate": "كركوك",
+      "published": "2026-09-25T19:15:33+00:00",
+      "image": "./assets/news/b960092711e5aaba54681741.jpg",
+      "original_image": "./assets/news/b960092711e5aaba54681741.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cqx2z558pnkpo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": true,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0fbfb841c23a.html"
     },
     {
       "title": "التربية تنهي استعداداتها لامتحانات الدور الخاص بمشاركة 35 ألف طالب وطالبة",
@@ -416,22 +432,6 @@
       "report": false,
       "governorate": "البصرة",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3480ee6e369a.html"
-    },
-    {
-      "title": "مجلس الأمن يدين هجمات الحوثيين على الرياض، ومفتي السعودية يحث على \"الرباط والجهاد\" ضد جماعة أنصار الله - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqx2z558pnkpo",
-      "category": "أمن",
-      "region": "كركوك",
-      "governorate": "كركوك",
-      "published": "2026-09-25T14:37:14+00:00",
-      "image": "./assets/news/b960092711e5aaba54681741.jpg",
-      "original_image": "./assets/news/b960092711e5aaba54681741.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cqx2z558pnkpo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": true,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/29fb456597f7.html"
     },
     {
       "title": "القضاء يصادق على هويات 25 مفقوداً عُثر على رفاتهم في مقابر جماعية بنينوى",
