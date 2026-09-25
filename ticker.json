@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T15:42:43.280756+00:00",
+  "updated_at": "2026-09-25T15:53:50.655340+00:00",
   "latest": [
     {
       "title": "بعد إغلاق رحلات النجف.. إيران تنسق لإعادة مواطنيها والعراقيين الراغبين بالعودة",
@@ -144,14 +144,6 @@
       "watch_topics": []
     },
     {
-      "title": "بكمين محكم.. الاطاحة بثلاثة من تجار ومروجي المخدرات في كركوك",
-      "url": "https://www.alsumaria.tv/news/security/577044/%D8%A8%D9%83%D9%85%D9%8A%D9%86-%D9%85%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%A7%D8%B7%D8%A7%D8%AD%D8%A9-%D8%A8%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D9%85%D9%86-%D8%AA%D8%AC%D8%A7%D8%B1-%D9%88%D9%85%D8%B1%D9%88%D8%AC%D9%8A-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
-      "category": "عراق",
-      "published": "2026-09-25T10:41:24+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "خرقان وأنابيب مدفونة 270 متراً.. الأمن الوطني يفكك شبكة لسرقة نفط المثنى",
       "url": "https://964media.com/720135/",
       "category": "عراق",
@@ -248,6 +240,14 @@
       "watch_topics": []
     },
     {
+      "title": "القضاء يصادق على هويات 25 مفقوداً عُثر على رفاتهم في مقابر جماعية بنينوى",
+      "url": "https://www.alsumaria.tv/news/localnews/577060/%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D9%8A%D8%B5%D8%A7%D8%AF%D9%82-%D8%B9%D9%84%D9%89-%D9%87%D9%88%D9%8A%D8%A7%D8%AA-25-%D9%85%D9%81%D9%82%D9%88%D8%AF%D8%A7%D9%8B-%D8%B9%D9%8F%D8%AB%D8%B1-%D8%B9%D9%84%D9%89-%D8%B1%D9%81%D8%A7%D8%AA%D9%87%D9%85-%D9%81%D9%8A-%D9%85%D9%82%D8%A7%D8%A8%D8%B1-%D8%AC%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A8%D9%86%D9%8A%D9%86",
+      "category": "عراق",
+      "published": "2026-09-25T14:23:16+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "واشنطن تدعو إيران إلى وقف تسليح الحوثيين",
       "url": "https://aawsat.com/node/5321727",
       "category": "مشرق أوسط",
@@ -290,14 +290,6 @@
       "url": "https://aawsat.com/node/5322058",
       "category": "مشرق أوسط",
       "published": "Thu, 24 Sep 2026 12:31:49 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "خادم الحرمين: استهداف مكة استفزاز للمسلمين",
-      "url": "https://aawsat.com/node/5321452",
-      "category": "مشرق أوسط",
-      "published": "Tue, 22 Sep 2026 23:53:35 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -468,6 +460,14 @@
       "watch_topics": [
         "إيران"
       ]
+    },
+    {
+      "title": "السيسي يؤكد دعم مصر لتسوية شاملة في اليمن",
+      "url": "https://aawsat.com/node/5322596",
+      "category": "مشرق أوسط",
+      "published": "Fri, 25 Sep 2026 16:27:21 +0100",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "بريطانيا تحذر إيران من «أي نشاط عدائي» على أراضيها",
@@ -702,14 +702,6 @@
       "url": "https://aawsat.com/node/5322058",
       "category": "مشرق أوسط",
       "published": "Thu, 24 Sep 2026 12:31:49 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "خادم الحرمين: استهداف مكة استفزاز للمسلمين",
-      "url": "https://aawsat.com/node/5321452",
-      "category": "مشرق أوسط",
-      "published": "Tue, 22 Sep 2026 23:53:35 +0100",
       "breaking": true,
       "watch_topics": []
     },
