@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T18:51:11.532834+00:00",
+  "updated_at": "2026-09-25T19:00:49.498251+00:00",
   "items": [
     {
       "title": "القبض على متهم بالاعتداء على طفل في بغداد",
@@ -32,6 +32,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9a24a8ea52f8.html"
+    },
+    {
+      "title": "أبرز العناوين - صفحة المباشر - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cq8r6n7kk6jvo",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-25T18:40:36+00:00",
+      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cq8r6n7kk6jvo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/050e363e6022.html"
     },
     {
       "title": "منتخبنا الوطني يختتم تدريباته لمواجهة الكويت في خليجي 27",
@@ -80,22 +96,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0cc2e2ed062c.html"
-    },
-    {
-      "title": "فيضانات ليبيا: كيف تفاعل نشطاء التواصل الاجتماعي مع الكارثة \"المتواصلة\" للسيول الجارفة؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c9j3dd1jjrd5o",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-25T17:51:14+00:00",
-      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c9j3dd1jjrd5o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1625375b8041.html"
     },
     {
       "title": "رئيس الاتحاد الخليجي لكرة القدم يزور تدريبات منتخبنا الوطني في جدّة",
