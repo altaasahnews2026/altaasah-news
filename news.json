@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T03:37:47.749705+00:00",
+  "updated_at": "2026-09-25T03:50:08.163755+00:00",
   "items": [
+    {
+      "title": "نتنياهو يدافع عن العمليات العسكرية الإسرائيلية وانسحاب مندوبين قبل خطابه في الأمم المتحدة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cw980vqz3qezo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-25T03:33:51+00:00",
+      "image": "./assets/news/e6eb7fecdcee166e2bf528e0.jpg",
+      "original_image": "./assets/news/e6eb7fecdcee166e2bf528e0.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cw980vqz3qezo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b849357cee68.html"
+    },
     {
       "title": "الرئيس الإيراني يعلن التخلي عن اليورانيوم المخصب بنسبة 60%",
       "url": "https://www.alsumaria.tv/news/international/577023/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%AA%D8%AE%D9%84%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D8%B1%D8%A7%D9%86%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D8%B5%D8%A8-%D8%A8%D9%86%D8%B3%D8%A8%D8%A9-60",
@@ -448,22 +464,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/904e3eb6b7a0.html"
-    },
-    {
-      "title": "المغرب: هل تفرز نتائج الانتخابات حكومة تلبي تطلعات الناخبين؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cje3r45rq2p7o",
-      "category": "سياسة",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-24T14:53:35+00:00",
-      "image": "./assets/news/f4767b1deef11c62d3729183.jpg",
-      "original_image": "./assets/news/f4767b1deef11c62d3729183.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cje3r45rq2p7o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6758f51f1b0d.html"
     },
     {
       "title": "فرق التجارة تنتشر في بغداد والمحافظات لمكافحة الغش وتثبيت الأسعار – مؤتمر",
