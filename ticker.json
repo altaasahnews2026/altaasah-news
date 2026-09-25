@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-09-25T17:08:28.416133+00:00",
+  "updated_at": "2026-09-25T17:22:14.852821+00:00",
   "latest": [
-    {
-      "title": "بعد إغلاق رحلات النجف.. إيران تنسق لإعادة مواطنيها والعراقيين الراغبين بالعودة",
-      "url": "https://964media.com/720124/",
-      "category": "عراق",
-      "published": "2026-09-25T09:48:49+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
     {
       "title": "تحذير ايراني: منع الرحلات الإيرانية سيقابل بمنع الطيران عن دول المنطقة",
       "url": "https://www.alsumaria.tv/news/international/577054/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B3%D9%8A%D9%82%D8%A7%D8%A8%D9%84-%D8%A8%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%B9%D9%86-%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9",
@@ -19,6 +9,17 @@
       "breaking": true,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "ناقلتان إيرانيتان تقتربان من أميركا.. واشنطن تستعد لمصادرة ملايين الدولارات",
+      "url": "https://www.alsumaria.tv/news/economy/577069/%D9%86%D8%A7%D9%82%D9%84%D8%AA%D8%A7%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%AA%D8%A7%D9%86-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8%D8%A7%D9%86-%D9%85%D9%86-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D9%85%D8%B5%D8%A7%D8%AF%D8%B1%D8%A9-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-25T17:04:09+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
       ]
     },
     {
@@ -34,16 +35,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/ck9qr99dr1lro",
       "category": "عراق",
       "published": "2026-09-25T10:45:51+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "حصر السلاح متوقف على ثلاث قضايا.. هل ستفرض واشنطن عقوبات على العراق؟",
-      "url": "https://www.alsumaria.tv/news/politics/577049/%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D9%85%D8%AA%D9%88%D9%82%D9%81-%D8%B9%D9%84%D9%89-%D8%AB%D9%84%D8%A7%D8%AB-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D9%87%D9%84-%D8%B3%D8%AA%D9%81%D8%B1%D8%B6-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D8%9F",
-      "category": "عراق",
-      "published": "2026-09-25T11:25:23+00:00",
       "breaking": false,
       "watch_topics": [
         "أمريكا"
@@ -130,14 +121,6 @@
       "url": "https://964media.com/720137/",
       "category": "عراق",
       "published": "2026-09-25T11:15:34+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الدولار يتجه لتحقيق مكاسب أسبوعية",
-      "url": "https://www.alsumaria.tv/news/economy/577050/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%AA%D8%AC%D9%87-%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-25T11:45:38+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -242,6 +225,22 @@
       "url": "https://www.alsumaria.tv/news/science/577062/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A7%D9%84%D9%82%D8%AF%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%87%D8%A7%D9%85-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D8%A9-%D9%82%D8%AF-%D9%8A%D8%B1%D8%AA%D8%A8%D8%B7-%D8%A8%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%AE%D8%B7%D8%B1-%D8%A7%D9%84%D9%88%D9%81%D8%A7",
       "category": "عراق",
       "published": "2026-09-25T15:07:30+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الكشف عن العائق امام تفعيل التكسي النهري في بغداد",
+      "url": "https://www.alsumaria.tv/news/localnews/577063/%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%82-%D8%A7%D9%85%D8%A7%D9%85-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%83%D8%B3%D9%8A-%D8%A7%D9%84%D9%86%D9%87%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "category": "عراق",
+      "published": "2026-09-25T15:36:05+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "فولكس فاغن وأودي تستدعيان أكثر من مليوني سيارة بسبب خلل في التوجيه",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/577064/%D9%81%D9%88%D9%84%D9%83%D8%B3-%D9%81%D8%A7%D8%BA%D9%86-%D9%88%D8%A3%D9%88%D8%AF%D9%8A-%D8%AA%D8%B3%D8%AA%D8%AF%D8%B9%D9%8A%D8%A7%D9%86-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%85%D9%84%D9%8A%D9%88%D9%86%D9%8A-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%AE%D9%84%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D8%AC%D9%8A%D9%87",
+      "category": "عراق",
+      "published": "2026-09-25T15:44:03+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -651,16 +650,6 @@
     }
   ],
   "breaking": [
-    {
-      "title": "بعد إغلاق رحلات النجف.. إيران تنسق لإعادة مواطنيها والعراقيين الراغبين بالعودة",
-      "url": "https://964media.com/720124/",
-      "category": "عراق",
-      "published": "2026-09-25T09:48:49+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
     {
       "title": "تحذير ايراني: منع الرحلات الإيرانية سيقابل بمنع الطيران عن دول المنطقة",
       "url": "https://www.alsumaria.tv/news/international/577054/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B3%D9%8A%D9%82%D8%A7%D8%A8%D9%84-%D8%A8%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%B9%D9%86-%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9",
