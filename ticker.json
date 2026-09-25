@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T10:19:00.352248+00:00",
+  "updated_at": "2026-09-25T10:32:24.986413+00:00",
   "latest": [
     {
       "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
@@ -71,16 +71,6 @@
       "published": "2026-09-25T08:49:03+00:00",
       "breaking": true,
       "watch_topics": []
-    },
-    {
-      "title": "الرئيس الإيراني يعلن التخلي عن اليورانيوم المخصب بنسبة 60%",
-      "url": "https://www.alsumaria.tv/news/international/577023/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%AA%D8%AE%D9%84%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D8%B1%D8%A7%D9%86%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D8%B5%D8%A8-%D8%A8%D9%86%D8%B3%D8%A8%D8%A9-60",
-      "category": "عراق",
-      "published": "2026-09-24T22:25:00+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
     },
     {
       "title": "فؤاد حسين يناقش مع الخارجية الأميركية عقوبات إيران وتداعياتها المحتملة على العراق",
@@ -251,6 +241,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/ckn9wn2w3zg1o",
       "category": "عراق",
       "published": "2026-09-25T08:13:16+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "3 حوادث امنية متفرقة في بغداد ضحيتها شابين وفتاة",
+      "url": "https://www.alsumaria.tv/news/security/577036/3-%D8%AD%D9%88%D8%A7%D8%AF%D8%AB-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D9%85%D8%AA%D9%81%D8%B1%D9%82%D8%A9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%B6%D8%AD%D9%8A%D8%AA%D9%87%D8%A7-%D8%B4%D8%A7%D8%A8%D9%8A%D9%86-%D9%88%D9%81%D8%AA%D8%A7%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-25T09:06:36+00:00",
       "breaking": false,
       "watch_topics": []
     },
