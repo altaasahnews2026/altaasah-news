@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T12:48:17.268647+00:00",
+  "updated_at": "2026-09-26T12:59:10.956317+00:00",
   "latest": [
     {
       "title": "كتلة السوداني تطالب بغداد بحوار مع واشنطن لاستثناء الطيران الإيراني من العقوبات",
@@ -24,18 +24,18 @@
       ]
     },
     {
-      "title": "\"غاز سام، علينا الهرب\": تحذيرات وُجّهت لصناع المحتوى والسياح من مخاطر بركانية مميتة - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqkgvv6y6j3lo",
-      "category": "عراق",
-      "published": "2026-09-26T09:32:36+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "مقتل ما لا يقل عن شخصين في انفجار مبنى قريب من الأكروبوليس في أثينا - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/ck3reej8xnzeo",
       "category": "عراق",
       "published": "2026-09-26T11:32:07+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "\"غاز سام، علينا الهرب\": تحذيرات وُجّهت لصناع المحتوى والسياح من مخاطر بركانية مميتة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqkgvv6y6j3lo",
+      "category": "عراق",
+      "published": "2026-09-26T12:32:23+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -651,18 +651,18 @@
   ],
   "breaking": [
     {
-      "title": "\"غاز سام، علينا الهرب\": تحذيرات وُجّهت لصناع المحتوى والسياح من مخاطر بركانية مميتة - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqkgvv6y6j3lo",
-      "category": "عراق",
-      "published": "2026-09-26T09:32:36+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "مقتل ما لا يقل عن شخصين في انفجار مبنى قريب من الأكروبوليس في أثينا - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/ck3reej8xnzeo",
       "category": "عراق",
       "published": "2026-09-26T11:32:07+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "\"غاز سام، علينا الهرب\": تحذيرات وُجّهت لصناع المحتوى والسياح من مخاطر بركانية مميتة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqkgvv6y6j3lo",
+      "category": "عراق",
+      "published": "2026-09-26T12:32:23+00:00",
       "breaking": true,
       "watch_topics": []
     },
