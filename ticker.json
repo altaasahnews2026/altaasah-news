@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T02:41:41.760545+00:00",
+  "updated_at": "2026-09-26T02:52:16.126010+00:00",
   "latest": [
     {
       "title": "ناقلتان إيرانيتان تقتربان من أميركا.. واشنطن تستعد لمصادرة ملايين الدولارات",
@@ -472,6 +472,16 @@
       "watch_topics": []
     },
     {
+      "title": "فرنسا تعمل على إصدار قرار أممي بشأن مضيق هرمز",
+      "url": "https://aawsat.com/node/5322718",
+      "category": "دولي",
+      "published": "Sat, 26 Sep 2026 03:42:56 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "بريطانيا تحذر إيران من «أي نشاط عدائي» على أراضيها",
       "url": "https://aawsat.com/node/5322362",
       "category": "دولي",
@@ -634,14 +644,6 @@
       "url": "https://aawsat.com/node/5322155",
       "category": "دولي",
       "published": "Thu, 24 Sep 2026 15:56:19 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بريطانيا تُعيد النظر في اتفاق جزر تشاغوس بعد انتقادات ترمب",
-      "url": "https://aawsat.com/node/5321797",
-      "category": "دولي",
-      "published": "Wed, 23 Sep 2026 18:16:02 +0100",
       "breaking": false,
       "watch_topics": []
     }
