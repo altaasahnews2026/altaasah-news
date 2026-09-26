@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T11:10:31.689868+00:00",
+  "updated_at": "2026-09-26T11:23:09.275605+00:00",
   "latest": [
     {
       "title": "كتلة السوداني تطالب بغداد بحوار مع واشنطن لاستثناء الطيران الإيراني من العقوبات",
@@ -25,16 +25,6 @@
       "url": "https://964media.com/720239/",
       "category": "عراق",
       "published": "2026-09-26T06:01:33+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "البرلمان بشان منع الطيران الإيراني: يهدد الإيرادات ويسبب فقدان 40 بالمئة من الكهرباء",
-      "url": "https://www.alsumaria.tv/news/politics/577099/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D8%B4%D8%A7%D9%86-%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D9%88%D9%8A%D8%B3%D8%A8%D8%A8-%D9%81%D9%82%D8%AF%D8%A7%D9%86-40-%D8%A8%D8%A7%D9%84%D9%85%D8%A6",
-      "category": "عراق",
-      "published": "2026-09-26T08:18:51+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
@@ -251,6 +241,14 @@
       "watch_topics": []
     },
     {
+      "title": "استقرار الذهب في بغداد.. إليك أسعار البيع والشراء",
+      "url": "https://www.alsumaria.tv/news/economy/577109/%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A5%D9%84%D9%8A%D9%83-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9-%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D8%A1",
+      "category": "عراق",
+      "published": "2026-09-26T09:23:46+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "سيول تؤكد لواشنطن عزمها المساهمة في استعادة حرية الملاحة بمضيق هرمز",
       "url": "https://aawsat.com/node/5319979",
       "category": "مشرق أوسط",
@@ -454,18 +452,18 @@
       ]
     },
     {
-      "title": "هجمات الحوثيين شردت 71 ألف طفل خلال شهر واحد",
-      "url": "https://aawsat.com/node/5322804",
+      "title": "الحكومة اليمنية تحشد دعماً دولياً لمواجهة الأزمة الإنسانية",
+      "url": "https://aawsat.com/node/5322821",
       "category": "مشرق أوسط",
-      "published": "Sat, 26 Sep 2026 11:23:49 +0100",
+      "published": "Sat, 26 Sep 2026 12:14:49 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "العليمي يدعو الشعب اليمني إلى التعبئة العامة والنفير لمواجهة الحوثيين",
-      "url": "https://aawsat.com/node/5322648",
+      "title": "هجمات الحوثيين شردت 71 ألف طفل خلال شهر واحد",
+      "url": "https://aawsat.com/node/5322804",
       "category": "مشرق أوسط",
-      "published": "Fri, 25 Sep 2026 19:10:37 +0100",
+      "published": "Sat, 26 Sep 2026 11:23:49 +0100",
       "breaking": false,
       "watch_topics": []
     },
