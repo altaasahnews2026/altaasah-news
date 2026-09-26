@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T22:31:31.952747+00:00",
+  "updated_at": "2026-09-26T22:41:44.615890+00:00",
   "latest": [
     {
       "title": "كتلة السوداني تطالب بغداد بحوار مع واشنطن لاستثناء الطيران الإيراني من العقوبات",
@@ -41,16 +41,6 @@
       "published": "2026-09-26T15:22:57+00:00",
       "breaking": true,
       "watch_topics": []
-    },
-    {
-      "title": "البيت الأبيض يمنع \"سي إن إن\" من مرافقة ترامب على متن الطائرة الرئاسية \"إير فورس وان\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ckyvzz827nr9o",
-      "category": "عراق",
-      "published": "2026-09-26T14:31:01+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
     },
     {
       "title": "أكسيوس: عبور 60 مليون برميل نفط عبر هرمز خلال 72 ساعة",
@@ -251,6 +241,14 @@
       "url": "https://www.alsumaria.tv/news/international/577148/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D9%88%D8%AC%D9%87-%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7-%D9%84%D8%BA%D9%88%D8%AA%D9%8A%D8%B1%D9%8A%D8%B4-%D9%8A%D8%AE%D8%AF%D9%85-%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9",
       "category": "عراق",
       "published": "2026-09-26T18:45:49+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "كمال شاكر “جامع الهويتين بلا تناقض”.. الحزب الشيوعي يؤبن أبو سمير في بغداد",
+      "url": "https://964media.com/720430/",
+      "category": "عراق",
+      "published": "2026-09-26T18:50:44+00:00",
       "breaking": false,
       "watch_topics": []
     },
