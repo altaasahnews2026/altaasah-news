@@ -1,14 +1,46 @@
 {
-  "updated_at": "2026-09-26T19:49:45.309135+00:00",
+  "updated_at": "2026-09-26T19:57:38.174579+00:00",
   "items": [
+    {
+      "title": "خليجي 27.. السعودية تتجاوز عُمان وتخطف صدارة مجموعتها",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577151/sports/%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D9%88%D8%AA%D8%AE%D8%B7%D9%81-%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%AA%D9%87%D8%A7",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-26T19:50:17+00:00",
+      "image": "./assets/news/1f38528a9971dea4ad35bc22.jpg",
+      "original_image": "./assets/news/1f38528a9971dea4ad35bc22.jpg",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/577151/sports/%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D9%88%D8%AA%D8%AE%D8%B7%D9%81-%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%AA%D9%87%D8%A7",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/26cc9bb71c1b.html"
+    },
+    {
+      "title": "ترامب يرفض مقترحاً إيرانياً لوقف القتال وإعادة فتح مضيق هرمز - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c8dx55lxe7r9o",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-26T19:30:30+00:00",
+      "image": "./assets/news/768a26d4152a8fdfd50464b9.jpg",
+      "original_image": "./assets/news/768a26d4152a8fdfd50464b9.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c8dx55lxe7r9o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b1be89b1d45a.html"
+    },
     {
       "title": "أول تعليق لمدرب المنتخب العراقي بعد الفوز على الكويت",
       "url": "https://www.alsumaria.tv/Entertainment-News/577150/sports/%D8%A3%D9%88%D9%84-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D9%84%D9%85%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%81%D9%88%D8%B2-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-26T19:28:46+00:00",
-      "image": "./assets/news/33f167485322c3fa04ef83c9.jpg",
-      "original_image": "./assets/news/33f167485322c3fa04ef83c9.jpg",
+      "image": "./assets/news/52f798b00016696882447822.jpg",
+      "original_image": "./assets/news/52f798b00016696882447822.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/577150/sports/%D8%A3%D9%88%D9%84-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D9%84%D9%85%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%81%D9%88%D8%B2-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -194,22 +226,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/45bf100fe1ca.html"
     },
     {
-      "title": "ترامب يرفض مقترحاً إيرانياً لوقف القتال وإعادة فتح مضيق هرمز - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c8dx55lxe7r9o",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-26T17:17:11+00:00",
-      "image": "./assets/news/768a26d4152a8fdfd50464b9.jpg",
-      "original_image": "./assets/news/768a26d4152a8fdfd50464b9.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c8dx55lxe7r9o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9fc3a4fa2fbf.html"
-    },
-    {
       "title": "روسيا تعلن إصابة مركز لوجستي وسفينة شحن أوكرانيين",
       "url": "https://www.alsumaria.tv/news/international/577144/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%B1%D9%83%D8%B2-%D9%84%D9%88%D8%AC%D8%B3%D8%AA%D9%8A-%D9%88%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B4%D8%AD%D9%86-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D9%8A%D9%86",
       "category": "عربي ودولي",
@@ -288,22 +304,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ee90f97c1ceb.html"
-    },
-    {
-      "title": "القائم بأعمال العراق في ليبيا: لسنا متأكدين من غرق 18 عراقياً بالبحر المتوسط",
-      "url": "https://964media.com/720429/",
-      "category": "عربي ودولي",
-      "region": "الأنبار",
-      "published": "2026-09-26T16:17:49+00:00",
-      "image": "./assets/news/ee38c44fde00eced3df18e6b.jpg",
-      "original_image": "./assets/news/ee38c44fde00eced3df18e6b.jpg",
-      "source_url": "https://964media.com/720429/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "الأنبار",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/dc9bf1f5f349.html"
     },
     {
       "title": "رصد على منصات التواصل.. القبض على متهم بالترويج للمراهنات والمقامرة في النجف",
@@ -512,22 +512,6 @@
       "report": false,
       "governorate": "بابل",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3aa7fd3001d1.html"
-    },
-    {
-      "title": "بغداد تتحرك لإعادة الرحلات مع طهران.. سفير العراق: توقف الطيران عابر ومؤقت",
-      "url": "https://www.alsumaria.tv/news/localnews/577131/%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D8%AA%D8%AD%D8%B1%D9%83-%D9%84%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D9%85%D8%B9-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%B9%D8%A7%D8%A8%D8%B1-%D9%88%D9%85%D8%A4%D9%82",
-      "category": "محليات",
-      "region": "بغداد",
-      "published": "2026-09-26T14:08:13+00:00",
-      "image": "./assets/news/2b0a78976740dab6978d27fd.jpg",
-      "original_image": "./assets/news/2b0a78976740dab6978d27fd.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577131/%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D8%AA%D8%AD%D8%B1%D9%83-%D9%84%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D9%85%D8%B9-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%B9%D8%A7%D8%A8%D8%B1-%D9%88%D9%85%D8%A4%D9%82",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/da610e4d26fc.html"
     },
     {
       "title": "تفاصيل الاتفاق العراقي الكويتي: لجنة عليا وآلية رصد لوقف خطاب الكراهية",
