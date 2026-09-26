@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T15:46:11.894563+00:00",
+  "updated_at": "2026-09-26T15:55:55.760114+00:00",
   "latest": [
     {
       "title": "كتلة السوداني تطالب بغداد بحوار مع واشنطن لاستثناء الطيران الإيراني من العقوبات",
@@ -476,6 +476,14 @@
       "watch_topics": []
     },
     {
+      "title": "روسيا: استهداف سفينة شحن قرب ميناء أوديسا الأوكراني",
+      "url": "https://aawsat.com/node/5322921",
+      "category": "دولي",
+      "published": "Sat, 26 Sep 2026 16:46:59 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "5 قتلى في كييف بُعيد إعلان أوكرانيا السماح لها بإنتاج صواريخ «باتريوت»",
       "url": "https://aawsat.com/node/5322661",
       "category": "دولي",
@@ -648,14 +656,6 @@
       "published": "Fri, 25 Sep 2026 15:15:42 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "رئيس ليتوانيا: روسيا أصبحت «أكثر تهوراً» ويجب وقفها في أوكرانيا",
-      "url": "https://aawsat.com/node/5322401",
-      "category": "دولي",
-      "published": "Fri, 25 Sep 2026 08:13:04 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -736,6 +736,14 @@
       "url": "https://aawsat.com/node/5320672",
       "category": "مشرق أوسط",
       "published": "Mon, 21 Sep 2026 04:46:16 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "روسيا: استهداف سفينة شحن قرب ميناء أوديسا الأوكراني",
+      "url": "https://aawsat.com/node/5322921",
+      "category": "دولي",
+      "published": "Sat, 26 Sep 2026 16:46:59 +0100",
       "breaking": true,
       "watch_topics": []
     },
