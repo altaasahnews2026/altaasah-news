@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-26T08:18:42.290356+00:00",
+  "updated_at": "2026-09-26T08:31:40.850563+00:00",
   "items": [
+    {
+      "title": "البرلمان بشان منع الطيران الإيراني: يهدد الإيرادات ويسبب فقدان 40 بالمئة من الكهرباء",
+      "url": "https://www.alsumaria.tv/news/politics/577099/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D8%B4%D8%A7%D9%86-%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D9%88%D9%8A%D8%B3%D8%A8%D8%A8-%D9%81%D9%82%D8%AF%D8%A7%D9%86-40-%D8%A8%D8%A7%D9%84%D9%85%D8%A6",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-26T08:18:51+00:00",
+      "image": "./assets/news/7779ca2d35145255d6ce2340.jpg",
+      "original_image": "./assets/news/7779ca2d35145255d6ce2340.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/577099/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D8%B4%D8%A7%D9%86-%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D9%88%D9%8A%D8%B3%D8%A8%D8%A8-%D9%81%D9%82%D8%AF%D8%A7%D9%86-40-%D8%A8%D8%A7%D9%84%D9%85%D8%A6",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a609b0c14b4e.html"
+    },
+    {
+      "title": "الدولار يسجل 157 ألف دينار في بغداد وأقل منها بأربيل والبصرة",
+      "url": "https://964media.com/720250/",
+      "category": "اقتصاد",
+      "region": "بغداد",
+      "published": "2026-09-26T08:16:08+00:00",
+      "image": "./assets/news/2d5f81d8201c98a2d5cb771c.jpg",
+      "original_image": "./assets/news/2d5f81d8201c98a2d5cb771c.jpg",
+      "source_url": "https://964media.com/720250/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2f9b8219c59d.html"
+    },
+    {
+      "title": "إيران تعرض على الولايات المتحدة اتفاقاً لإعادة فتح مضيق هرمز خلال سبعة أيام - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c8dx55lxe7r9o",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-26T08:15:18+00:00",
+      "image": "./assets/news/ff34876554a32bca9867e4f1.jpg",
+      "original_image": "./assets/news/ff34876554a32bca9867e4f1.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c8dx55lxe7r9o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/991a4efb8521.html"
+    },
     {
       "title": "التحالف الدولي يوقف المساعدات المالية للبيشمركة",
       "url": "https://www.alsumaria.tv/news/localnews/577098/%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D9%88%D9%82%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%A8%D9%8A%D8%B4%D9%85%D8%B1%D9%83%D8%A9",
@@ -80,22 +128,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/569abde5bfc8.html"
-    },
-    {
-      "title": "\"إدانة مانشستر سيتي بغالبية المخالفات المالية\"، وعقوبات محتملة قد تصل إلى الاستبعاد من البريمرليغ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cmn0jj3e9z5wo",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-26T07:24:30+00:00",
-      "image": "./assets/news/63d058455a93a9c8e5684680.jpg",
-      "original_image": "./assets/news/63d058455a93a9c8e5684680.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cmn0jj3e9z5wo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/17e5e17f73df.html"
     },
     {
       "title": "مجلس الأمن يدين هجمات أنصار الله على الرياض، و السعودية تحث على \"الرباط والجهاد\" - شفق نيوز..",
@@ -448,22 +480,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d137fbbf522b.html"
-    },
-    {
-      "title": "خبر سار للعراقين.. الشتاء قادم الاثنين المقبل",
-      "url": "https://www.alsumaria.tv/news/localnews/577079/%D8%AE%D8%A8%D8%B1-%D8%B3%D8%A7%D8%B1-%D9%84%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1-%D9%82%D8%A7%D8%AF%D9%85-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-25T19:39:07+00:00",
-      "image": "./assets/news/5525b90a580c29b031184771.jpg",
-      "original_image": "./assets/news/5525b90a580c29b031184771.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577079/%D8%AE%D8%A8%D8%B1-%D8%B3%D8%A7%D8%B1-%D9%84%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1-%D9%82%D8%A7%D8%AF%D9%85-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/86d9285fcea2.html"
     },
     {
       "title": "أكرم الكعبي: سنعتصم في مطارات العراق لكسر حظر الرحلات الإيرانية",
