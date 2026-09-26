@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T11:52:31.416104+00:00",
+  "updated_at": "2026-09-26T12:01:28.694549+00:00",
   "latest": [
     {
       "title": "كتلة السوداني تطالب بغداد بحوار مع واشنطن لاستثناء الطيران الإيراني من العقوبات",
@@ -24,7 +24,7 @@
       "title": "مقتل ما لا يقل عن شخصين في انفجار مبنى قريب من الأكروبوليس في أثينا - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/ck3reej8xnzeo",
       "category": "عراق",
-      "published": "2026-09-26T11:14:11+00:00",
+      "published": "2026-09-26T11:32:07+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -159,14 +159,6 @@
       "watch_topics": []
     },
     {
-      "title": "شاهد.. عشيرة تحرر سفينة عراقية من قراصنة صوماليين",
-      "url": "https://www.alsumaria.tv/news/trends-alsumaria/577101/%D8%B4%D8%A7%D9%87%D8%AF-%D8%B9%D8%B4%D9%8A%D8%B1%D8%A9-%D8%AA%D8%AD%D8%B1%D8%B1-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D9%85%D9%86-%D9%82%D8%B1%D8%A7%D8%B5%D9%86%D8%A9-%D8%B5%D9%88%D9%85%D8%A7%D9%84%D9%8A%D9%8A%D9%86",
-      "category": "عراق",
-      "published": "2026-09-26T08:35:51+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "ما الذي يحدث لسكر الدم بعد علبة صودا واحدة؟",
       "url": "https://www.alsumaria.tv/news/miscellaneous/577102/%D9%85%D8%A7-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D8%AD%D8%AF%D8%AB-%D9%84%D8%B3%D9%83%D8%B1-%D8%A7%D9%84%D8%AF%D9%85-%D8%A8%D8%B9%D8%AF-%D8%B9%D9%84%D8%A8%D8%A9-%D8%B5%D9%88%D8%AF%D8%A7-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9%D8%9F",
       "category": "عراق",
@@ -247,6 +239,25 @@
       "watch_topics": []
     },
     {
+      "title": "رفات الأنفال المستخرجة من السماوة لفت بعلم كردستان وليس العراق – توضيح",
+      "url": "https://964media.com/720277/",
+      "category": "عراق",
+      "published": "2026-09-26T10:14:37+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "سيول تؤكد لواشنطن عزمها المساهمة في استعادة حرية الملاحة بمضيق هرمز",
+      "url": "https://aawsat.com/node/5319979",
+      "category": "مشرق أوسط",
+      "published": "Fri, 18 Sep 2026 23:25:47 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
       "title": "إسرائيل تعلن استهداف مسؤول مالي في «حماس»",
       "url": "https://aawsat.com/node/5321652",
       "category": "مشرق أوسط",
@@ -267,6 +278,54 @@
       "url": "https://aawsat.com/node/5322058",
       "category": "مشرق أوسط",
       "published": "Thu, 24 Sep 2026 12:31:49 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مقتل 11 وإصابة 30 في انفجار شمال غربي باكستان",
+      "url": "https://aawsat.com/node/5322830",
+      "category": "مشرق أوسط",
+      "published": "Sat, 26 Sep 2026 12:54:44 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "أفغانستان تعلن مقتل 4 مدنيين في غارات للجيش الباكستاني",
+      "url": "https://aawsat.com/node/5322255",
+      "category": "مشرق أوسط",
+      "published": "Thu, 24 Sep 2026 19:29:04 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "باكستان تقصف مواقع في أفغانستان مرتبطة بأنشطة طائرات مسيرة",
+      "url": "https://aawsat.com/node/5321914",
+      "category": "مشرق أوسط",
+      "published": "Thu, 24 Sep 2026 02:09:56 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "7 قتلى وانقطاع الكهرباء عن 58 ألف منزل جراء إعصار في اليابان",
+      "url": "https://aawsat.com/node/5321412",
+      "category": "مشرق أوسط",
+      "published": "Tue, 22 Sep 2026 20:58:59 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "إصابة ثلاثة بينهم جنود كوريون جنوبيون بانفجار في المنطقة المنزوعة السلاح",
+      "url": "https://aawsat.com/node/5320677",
+      "category": "مشرق أوسط",
+      "published": "Mon, 21 Sep 2026 05:14:03 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "باكستان: مقتل 28 مسلحاً في غارات جوية على 3 مواقع بأفغانستان",
+      "url": "https://aawsat.com/node/5320672",
+      "category": "مشرق أوسط",
+      "published": "Mon, 21 Sep 2026 04:46:16 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -361,6 +420,36 @@
       ]
     },
     {
+      "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
+      "url": "https://aawsat.com/node/5322757",
+      "category": "مشرق أوسط",
+      "published": "Sat, 26 Sep 2026 09:10:07 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
+      "url": "https://aawsat.com/node/5321276",
+      "category": "مشرق أوسط",
+      "published": "Tue, 22 Sep 2026 15:21:23 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
+      "url": "https://aawsat.com/node/5320075",
+      "category": "مشرق أوسط",
+      "published": "Sat, 19 Sep 2026 10:15:12 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "الحكومة اليمنية تحشد دعماً دولياً لمواجهة الأزمة الإنسانية",
       "url": "https://aawsat.com/node/5322821",
       "category": "مشرق أوسط",
@@ -373,86 +462,6 @@
       "url": "https://aawsat.com/node/5322804",
       "category": "مشرق أوسط",
       "published": "Sat, 26 Sep 2026 11:23:49 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "العليمي يدعو الشعب اليمني إلى التعبئة العامة والنفير لمواجهة الحوثيين",
-      "url": "https://aawsat.com/node/5322648",
-      "category": "مشرق أوسط",
-      "published": "Fri, 25 Sep 2026 19:10:37 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "السيسي يؤكد دعم مصر لتسوية شاملة في اليمن",
-      "url": "https://aawsat.com/node/5322596",
-      "category": "مشرق أوسط",
-      "published": "Fri, 25 Sep 2026 16:27:21 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "زحف الحوثيين يصطدم بضربات موجعة في جبهات تعز ولحج",
-      "url": "https://aawsat.com/node/5322558",
-      "category": "مشرق أوسط",
-      "published": "Fri, 25 Sep 2026 15:02:26 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "رسالة اليمن للعالم: نفّذوا قراراتكم وأوقفوا سلاح الحوثيين",
-      "url": "https://aawsat.com/node/5322546",
-      "category": "مشرق أوسط",
-      "published": "Fri, 25 Sep 2026 14:21:45 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الصواريخ الحوثية المرتدّة تهدد مناطق سيطرة الجماعة",
-      "url": "https://aawsat.com/node/5322511",
-      "category": "مشرق أوسط",
-      "published": "Fri, 25 Sep 2026 12:30:18 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "من الشارع إلى الهاتف… الحوثيون يحاصرون ذكرى الثورة اليمنية",
-      "url": "https://aawsat.com/node/5322465",
-      "category": "مشرق أوسط",
-      "published": "Fri, 25 Sep 2026 11:02:18 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الجيش اليمني يُحبط محاولة حوثية لعزل تعز عن عدن",
-      "url": "https://aawsat.com/node/5322359",
-      "category": "مشرق أوسط",
-      "published": "Fri, 25 Sep 2026 01:18:08 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "السيسي يشدد على دعم مصر لأمن العراق واستقراره",
-      "url": "https://aawsat.com/node/5322206",
-      "category": "مشرق أوسط",
-      "published": "Thu, 24 Sep 2026 17:35:26 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "هجمات الحوثيين تدفع آلاف اليمنيين لعبور البحر غرباً",
-      "url": "https://aawsat.com/node/5322080",
-      "category": "مشرق أوسط",
-      "published": "Thu, 24 Sep 2026 13:29:25 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "إفشال تسلل حوثي لقطع شريان تعز الوحيد إلى عدن",
-      "url": "https://aawsat.com/node/5322079",
-      "category": "مشرق أوسط",
-      "published": "Thu, 24 Sep 2026 13:25:23 +0100",
       "breaking": false,
       "watch_topics": []
     },
@@ -650,7 +659,7 @@
       "title": "مقتل ما لا يقل عن شخصين في انفجار مبنى قريب من الأكروبوليس في أثينا - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/ck3reej8xnzeo",
       "category": "عراق",
-      "published": "2026-09-26T11:14:11+00:00",
+      "published": "2026-09-26T11:32:07+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -675,6 +684,54 @@
       "url": "https://aawsat.com/node/5322058",
       "category": "مشرق أوسط",
       "published": "Thu, 24 Sep 2026 12:31:49 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مقتل 11 وإصابة 30 في انفجار شمال غربي باكستان",
+      "url": "https://aawsat.com/node/5322830",
+      "category": "مشرق أوسط",
+      "published": "Sat, 26 Sep 2026 12:54:44 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "أفغانستان تعلن مقتل 4 مدنيين في غارات للجيش الباكستاني",
+      "url": "https://aawsat.com/node/5322255",
+      "category": "مشرق أوسط",
+      "published": "Thu, 24 Sep 2026 19:29:04 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "باكستان تقصف مواقع في أفغانستان مرتبطة بأنشطة طائرات مسيرة",
+      "url": "https://aawsat.com/node/5321914",
+      "category": "مشرق أوسط",
+      "published": "Thu, 24 Sep 2026 02:09:56 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "7 قتلى وانقطاع الكهرباء عن 58 ألف منزل جراء إعصار في اليابان",
+      "url": "https://aawsat.com/node/5321412",
+      "category": "مشرق أوسط",
+      "published": "Tue, 22 Sep 2026 20:58:59 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "إصابة ثلاثة بينهم جنود كوريون جنوبيون بانفجار في المنطقة المنزوعة السلاح",
+      "url": "https://aawsat.com/node/5320677",
+      "category": "مشرق أوسط",
+      "published": "Mon, 21 Sep 2026 05:14:03 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "باكستان: مقتل 28 مسلحاً في غارات جوية على 3 مواقع بأفغانستان",
+      "url": "https://aawsat.com/node/5320672",
+      "category": "مشرق أوسط",
+      "published": "Mon, 21 Sep 2026 04:46:16 +0100",
       "breaking": true,
       "watch_topics": []
     },
