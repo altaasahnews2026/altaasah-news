@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T00:10:53.729558+00:00",
+  "updated_at": "2026-09-26T00:31:31.275080+00:00",
   "items": [
     {
       "title": "القبض على متهم بالاعتداء على طفل في بغداد",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b79500ed519f.html"
+    },
+    {
+      "title": "اليوم الرابع للجمعية العامة: إيران تعرض جدولاً زمنياً لفتح هرمز وواشنطن تتحدث عن مناقشات \"بناءة\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cked77n717n7o",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-26T00:02:14+00:00",
+      "image": "./assets/news/e0c57639b53c6a1ab4d3f98e.jpg",
+      "original_image": "./assets/news/e0c57639b53c6a1ab4d3f98e.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cked77n717n7o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d2b6712ce6df.html"
     },
     {
       "title": "العراق والكويت يصدران بياناً مشتركاً.. هذه ابرز التفاصيل",
@@ -464,22 +480,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b7048c1f9e1c.html"
-    },
-    {
-      "title": "تجدد الاشتباكات في إقليم تيغراي، والجيش الإثيوبي يقتل أكثر من 400 عنصر من \"الجبهة الشعبية لتحرير تيغراي\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c8207e0p9dywo",
-      "category": "أمن",
-      "region": "أربيل",
-      "governorate": "أربيل",
-      "published": "2026-09-25T14:14:51+00:00",
-      "image": "./assets/news/6e55b667ffd467c061c0fad0.jpg",
-      "original_image": "./assets/news/6e55b667ffd467c061c0fad0.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c8207e0p9dywo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/70016395d9f0.html"
     },
     {
       "title": "مستشار خامنئي يهدد بعد إيقاف رحلات النجف: إذا حرمت إيران سنحرم جميع دول المنطقة",
