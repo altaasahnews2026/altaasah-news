@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T17:01:05.337497+00:00",
+  "updated_at": "2026-09-26T17:12:50.424556+00:00",
   "latest": [
     {
       "title": "كتلة السوداني تطالب بغداد بحوار مع واشنطن لاستثناء الطيران الإيراني من العقوبات",
@@ -49,16 +49,6 @@
       "published": "2026-09-26T15:22:57+00:00",
       "breaking": true,
       "watch_topics": []
-    },
-    {
-      "title": "إيران توضح موقفها من القيود الجوية: خيارات غير عسكرية للرد",
-      "url": "https://www.alsumaria.tv/news/international/577124/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%88%D8%B6%D8%AD-%D9%85%D9%88%D9%82%D9%81%D9%87%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%8A%D9%88%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%BA%D9%8A%D8%B1-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%B1%D8%AF",
-      "category": "عراق",
-      "published": "2026-09-26T13:09:11+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
     },
     {
       "title": "المناقشة العامة للدورة الـ81 للجمعية العامة للأمم المتحدة: السعودية تؤكد تمسكها في الدفاع عن نفسها والإمارات وعُمان على جدول المتحدثين - شفق نيوز..",
@@ -158,6 +148,16 @@
       "breaking": false,
       "watch_topics": [
         "أمريكا"
+      ]
+    },
+    {
+      "title": "طلاب دين في النجف ينتقدون حظر الطائرات الإيرانية: نعم للولاية وطهران سند لبغداد",
+      "url": "https://964media.com/720411/",
+      "category": "عراق",
+      "published": "2026-09-26T16:40:21+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
       ]
     },
     {
@@ -604,6 +604,22 @@
       ]
     },
     {
+      "title": "لافروف: روسيا ستحقق أهدافها في أوكرانيا «مهما كانت الظروف»",
+      "url": "https://aawsat.com/node/5322940",
+      "category": "دولي",
+      "published": "Sat, 26 Sep 2026 18:07:56 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "البابا ليو يحشد 700 ألف شخص في قلب باريس",
+      "url": "https://aawsat.com/node/5322939",
+      "category": "دولي",
+      "published": "Sat, 26 Sep 2026 18:01:52 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "ألمانيا تقترح قوة تدخل سريع أوروبية للتعامل مع أزمات الهجرة",
       "url": "https://aawsat.com/node/5322930",
       "category": "دولي",
@@ -640,22 +656,6 @@
       "url": "https://aawsat.com/node/5322754",
       "category": "دولي",
       "published": "Sat, 26 Sep 2026 08:50:56 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بوتين: روسيا لا تستعد لأي صراع مع أوروبا",
-      "url": "https://aawsat.com/node/5322660",
-      "category": "دولي",
-      "published": "Fri, 25 Sep 2026 19:36:53 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ترمب يستجيب لطلبات زيلينسكي ويمنح كييف ترخيصاً لإنتاج صواريخ «باتريوت»",
-      "url": "https://aawsat.com/node/5322622",
-      "category": "دولي",
-      "published": "Fri, 25 Sep 2026 17:37:25 +0100",
       "breaking": false,
       "watch_topics": []
     }

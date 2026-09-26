@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-26T17:01:01.241207+00:00",
+  "updated_at": "2026-09-26T17:12:46.596149+00:00",
   "items": [
+    {
+      "title": "روسيا تعلن إصابة مركز لوجستي وسفينة شحن أوكرانيين",
+      "url": "https://www.alsumaria.tv/news/international/577144/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%B1%D9%83%D8%B2-%D9%84%D9%88%D8%AC%D8%B3%D8%AA%D9%8A-%D9%88%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B4%D8%AD%D9%86-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D9%8A%D9%86",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-26T17:05:20+00:00",
+      "image": "./assets/news/0d1113ae600dcdb9184a6aff.jpg",
+      "original_image": "./assets/news/0d1113ae600dcdb9184a6aff.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577144/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%B1%D9%83%D8%B2-%D9%84%D9%88%D8%AC%D8%B3%D8%AA%D9%8A-%D9%88%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B4%D8%AD%D9%86-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D9%8A%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8b4544ac8c10.html"
+    },
     {
       "title": "السعودية تؤكد دعمها للعراق في ملف حصر السلاح",
       "url": "https://www.alsumaria.tv/news/international/577143/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%A4%D9%83%D8%AF-%D8%AF%D8%B9%D9%85%D9%87%D8%A7-%D9%84%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%81%D9%8A-%D9%85%D9%84%D9%81-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD",
@@ -23,8 +39,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-26T16:48:18+00:00",
-      "image": "./assets/news/82acf30dbbf4471bcd3d50d1.jpg",
-      "original_image": "./assets/news/82acf30dbbf4471bcd3d50d1.jpg",
+      "image": "./assets/news/d57912277da2d9b873cdf0d3.jpg",
+      "original_image": "./assets/news/d57912277da2d9b873cdf0d3.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577142/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A3%D8%B2%D9%85%D8%A9-%D8%B7%D8%A7%D9%82%D8%A9-%D9%88%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D8%AE%D9%81%D8%B6-%D8%A7%D8%B3%D8%AA%D9%87%D9%84%D8%A7%D9%83-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -32,6 +48,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/dbc63837c370.html"
+    },
+    {
+      "title": "طلاب دين في النجف ينتقدون حظر الطائرات الإيرانية: نعم للولاية وطهران سند لبغداد",
+      "url": "https://964media.com/720411/",
+      "category": "عربي ودولي",
+      "region": "بغداد",
+      "published": "2026-09-26T16:40:21+00:00",
+      "image": "./assets/news/78c474a647a830d4479cb124.jpg",
+      "original_image": "./assets/news/78c474a647a830d4479cb124.jpg",
+      "source_url": "https://964media.com/720411/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ee90f97c1ceb.html"
     },
     {
       "title": "القائم بأعمال العراق في ليبيا: لسنا متأكدين من غرق 18 عراقياً بالبحر المتوسط",
@@ -103,8 +135,8 @@
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-26T15:17:25+00:00",
-      "image": "./assets/news/e437413cf7892a58d0b5f611.jpg",
-      "original_image": "./assets/news/e437413cf7892a58d0b5f611.jpg",
+      "image": "./assets/news/1154f0f4db79025e8960052c.jpg",
+      "original_image": "./assets/news/1154f0f4db79025e8960052c.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577139/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84-%D8%A7%D9%84%D8%B6%D8%B1%D9%8A%D8%A8%D9%8A-%D9%8A%D9%83%D9%84%D9%81-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-300-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B3%D9%86%D9%88%D9%8A%D8%A7%D9%8B",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -432,22 +464,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4985041a9df6.html"
-    },
-    {
-      "title": "إيران توضح موقفها من القيود الجوية: خيارات غير عسكرية للرد",
-      "url": "https://www.alsumaria.tv/news/international/577124/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%88%D8%B6%D8%AD-%D9%85%D9%88%D9%82%D9%81%D9%87%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%8A%D9%88%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%BA%D9%8A%D8%B1-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%B1%D8%AF",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-26T13:09:11+00:00",
-      "image": "./assets/news/ed8d6a096d65b507c6e39cd9.jpg",
-      "original_image": "./assets/news/ed8d6a096d65b507c6e39cd9.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/577124/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%88%D8%B6%D8%AD-%D9%85%D9%88%D9%82%D9%81%D9%87%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%8A%D9%88%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%BA%D9%8A%D8%B1-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%B1%D8%AF",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/81d6ab669704.html"
     },
     {
       "title": "التحالف الدولي سلم كل قواعده ومقراته للسلطات العراقية – سعد معن",
