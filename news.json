@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-26T20:32:59.940752+00:00",
+  "updated_at": "2026-09-26T20:44:44.285939+00:00",
   "items": [
+    {
+      "title": "عطلة 4 أيام في العراق ابتداءاً من 30 أيلول",
+      "url": "https://964media.com/720550/",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-26T20:25:56+00:00",
+      "image": "./assets/news/220bfe5c4e4f66d8aa0052be.jpg",
+      "original_image": "./assets/news/220bfe5c4e4f66d8aa0052be.jpg",
+      "source_url": "https://964media.com/720550/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5fbdf58a8e37.html"
+    },
     {
       "title": "توجيه حكومي بتعطيل الدوام يومين احتفاءً بأيام السيادة",
       "url": "https://www.alsumaria.tv/news/localnews/577153/%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%A8%D8%AA%D8%B9%D8%B7%D9%8A%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%85-%D9%8A%D9%88%D9%85%D9%8A%D9%86-%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D8%A1%D9%8B-%D8%A8%D8%A3%D9%8A%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
@@ -23,8 +39,8 @@
       "category": "محليات",
       "region": "بغداد",
       "published": "2026-09-26T20:03:04+00:00",
-      "image": "./assets/news/2d04cab9578e8a9b681351b2.jpg",
-      "original_image": "./assets/news/2d04cab9578e8a9b681351b2.jpg",
+      "image": "./assets/news/7b1641b6f26fa5de50483bee.jpg",
+      "original_image": "./assets/news/7b1641b6f26fa5de50483bee.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/577152/%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1-%D9%81%D8%AA%D8%A7%D8%A9-%D9%88%D9%81%D8%A7%D8%A9-%D8%B4%D8%AE%D8%B5-%D9%88%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%AC%D8%AB%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -320,22 +336,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/dbc63837c370.html"
-    },
-    {
-      "title": "طلاب دين في النجف ينتقدون حظر الطائرات الإيرانية: نعم للولاية وطهران سند لبغداد",
-      "url": "https://964media.com/720411/",
-      "category": "عربي ودولي",
-      "region": "بغداد",
-      "published": "2026-09-26T16:40:21+00:00",
-      "image": "./assets/news/78c474a647a830d4479cb124.jpg",
-      "original_image": "./assets/news/78c474a647a830d4479cb124.jpg",
-      "source_url": "https://964media.com/720411/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ee90f97c1ceb.html"
     },
     {
       "title": "رصد على منصات التواصل.. القبض على متهم بالترويج للمراهنات والمقامرة في النجف",
