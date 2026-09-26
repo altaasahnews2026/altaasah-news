@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T17:36:40.754052+00:00",
+  "updated_at": "2026-09-26T17:47:04.976043+00:00",
   "latest": [
     {
       "title": "كتلة السوداني تطالب بغداد بحوار مع واشنطن لاستثناء الطيران الإيراني من العقوبات",
@@ -44,14 +44,6 @@
         "إيران",
         "أمريكا"
       ]
-    },
-    {
-      "title": "مقتل ما لا يقل عن شخصين في انفجار مبنى قريب من الأكروبوليس في أثينا - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck3reej8xnzeo",
-      "category": "عراق",
-      "published": "2026-09-26T11:32:07+00:00",
-      "breaking": true,
-      "watch_topics": []
     },
     {
       "title": "مقتل 11 شخصاً في هجوم بسيارة مفخخة استهدف نقطة أمنية شمال غربي باكستان - شفق نيوز..",
@@ -175,7 +167,7 @@
       "title": "المناقشة العامة للدورة الـ81 للجمعية العامة للأمم المتحدة: السعودية تؤكد تمسكها في الدفاع عن نفسها والإمارات وعُمان على جدول المتحدثين - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cmvgyyv42v01t",
       "category": "عراق",
-      "published": "2026-09-26T16:51:09+00:00",
+      "published": "2026-09-26T17:20:56+00:00",
       "breaking": false,
       "watch_topics": [
         "السعودية"
@@ -258,6 +250,14 @@
       "url": "https://www.alsumaria.tv/news/international/577134/%D8%A7%D9%84%D9%86%D9%8A%D9%86%D9%8A%D9%88-%D9%8A%D8%AD%D8%B7%D9%85-%D8%B1%D9%82%D9%85%D8%A7%D9%8B-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7%D9%8B-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A7%D9%8B-%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7-%D8%A7%D9%84%D9%87%D8%A7%D8%AF%D8%A6-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D8%B9%D8%A7",
       "category": "عراق",
       "published": "2026-09-26T14:40:30+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "صور.. وصول أسود الرافدين إلى ملعب الأمير عبدالله الفيصل لمواجهة الكويت",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577135/sports/%D8%B5%D9%88%D8%B1-%D9%88%D8%B5%D9%88%D9%84-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D9%85%D9%84%D8%B9%D8%A8-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D9%81%D9%8A%D8%B5%D9%84-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
+      "category": "عراق",
+      "published": "2026-09-26T14:41:57+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -417,16 +417,6 @@
       ]
     },
     {
-      "title": "«المركزي الإماراتي» يحظر معاملات فروع «بنك ملي إيران» مع طهران",
-      "url": "https://aawsat.com/node/5321805",
-      "category": "مشرق أوسط",
-      "published": "Wed, 23 Sep 2026 18:41:23 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
       "url": "https://aawsat.com/node/5322757",
       "category": "مشرق أوسط",
@@ -477,6 +467,14 @@
       "url": "https://aawsat.com/node/5322842",
       "category": "مشرق أوسط",
       "published": "Sat, 26 Sep 2026 13:29:56 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الحكومة اليمنية تحشد دعماً دولياً لمواجهة الأزمة الإنسانية",
+      "url": "https://aawsat.com/node/5322821",
+      "category": "مشرق أوسط",
+      "published": "Sat, 26 Sep 2026 12:14:49 +0100",
       "breaking": false,
       "watch_topics": []
     },
@@ -664,14 +662,6 @@
     }
   ],
   "breaking": [
-    {
-      "title": "مقتل ما لا يقل عن شخصين في انفجار مبنى قريب من الأكروبوليس في أثينا - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck3reej8xnzeo",
-      "category": "عراق",
-      "published": "2026-09-26T11:32:07+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
     {
       "title": "مقتل 11 شخصاً في هجوم بسيارة مفخخة استهدف نقطة أمنية شمال غربي باكستان - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cw1mvv8313gro",
