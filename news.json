@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-26T16:17:23.225662+00:00",
+  "updated_at": "2026-09-26T16:31:18.390491+00:00",
   "items": [
+    {
+      "title": "رصد على منصات التواصل.. القبض على متهم بالترويج للمراهنات والمقامرة في النجف",
+      "url": "https://www.alsumaria.tv/news/security/577141/%D8%B1%D8%B5%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%AA%D9%87%D9%85-%D8%A8%D8%A7%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D9%84%D9%84%D9%85%D8%B1%D8%A7%D9%87%D9%86%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7",
+      "category": "محليات",
+      "region": "النجف",
+      "published": "2026-09-26T16:16:24+00:00",
+      "image": "./assets/news/1a8a7d719c8c67c8e713ef95.jpg",
+      "original_image": "./assets/news/1a8a7d719c8c67c8e713ef95.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/577141/%D8%B1%D8%B5%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%AA%D9%87%D9%85-%D8%A8%D8%A7%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D9%84%D9%84%D9%85%D8%B1%D8%A7%D9%87%D9%86%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%85%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "governorate": "النجف",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fa3ce8ee1d1b.html"
+    },
     {
       "title": "صافرة البداية.. العراق والكويت يفتتحان مواجهتهما في خليجي 27",
       "url": "https://www.alsumaria.tv/Entertainment-News/577140/sports/%D8%B5%D8%A7%D9%81%D8%B1%D8%A9-%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD%D8%A7%D9%86-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%AA%D9%87%D9%85%D8%A7-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
@@ -39,8 +55,8 @@
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-26T15:17:25+00:00",
-      "image": "./assets/news/1154f0f4db79025e8960052c.jpg",
-      "original_image": "./assets/news/1154f0f4db79025e8960052c.jpg",
+      "image": "./assets/news/e437413cf7892a58d0b5f611.jpg",
+      "original_image": "./assets/news/e437413cf7892a58d0b5f611.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577139/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84-%D8%A7%D9%84%D8%B6%D8%B1%D9%8A%D8%A8%D9%8A-%D9%8A%D9%83%D9%84%D9%81-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-300-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B3%D9%86%D9%88%D9%8A%D8%A7%D9%8B",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -464,22 +480,6 @@
       "report": true,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/34fe2d20fdb4.html"
-    },
-    {
-      "title": "الإطاحة بمنفذي اغتيال مدير ماء أبي صيدا في ديالى",
-      "url": "https://www.alsumaria.tv/news/security/577121/%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%AD%D8%A9-%D8%A8%D9%85%D9%86%D9%81%D8%B0%D9%8A-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D9%8A%D8%B1-%D9%85%D8%A7%D8%A1-%D8%A3%D8%A8%D9%8A-%D8%B5%D9%8A%D8%AF%D8%A7-%D9%81%D9%8A-%D8%AF%D9%8A%D8%A7%D9%84%D9%89",
-      "category": "أمن",
-      "region": "ديالى",
-      "published": "2026-09-26T11:51:13+00:00",
-      "image": "./assets/news/f3b3996f9b6d9e4b12a10b2e.jpg",
-      "original_image": "./assets/news/f3b3996f9b6d9e4b12a10b2e.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/577121/%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%AD%D8%A9-%D8%A8%D9%85%D9%86%D9%81%D8%B0%D9%8A-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D9%8A%D8%B1-%D9%85%D8%A7%D8%A1-%D8%A3%D8%A8%D9%8A-%D8%B5%D9%8A%D8%AF%D8%A7-%D9%81%D9%8A-%D8%AF%D9%8A%D8%A7%D9%84%D9%89",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "ديالى",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/62f91f256042.html"
     },
     {
       "title": "مقتل ما لا يقل عن شخصين في انفجار مبنى قريب من الأكروبوليس في أثينا - شفق نيوز..",
