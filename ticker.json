@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T23:11:49.746900+00:00",
+  "updated_at": "2026-09-26T23:23:53.635975+00:00",
   "latest": [
     {
       "title": "كتلة السوداني تطالب بغداد بحوار مع واشنطن لاستثناء الطيران الإيراني من العقوبات",
@@ -272,14 +272,6 @@
       "watch_topics": []
     },
     {
-      "title": "التحالف: تدمير 6 صواريخ باليستية حوثية حاولت استهداف الطائف وينبع",
-      "url": "https://aawsat.com/node/5322058",
-      "category": "مشرق أوسط",
-      "published": "Thu, 24 Sep 2026 12:31:49 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "مقتل 11 وإصابة 30 في انفجار شمال غربي باكستان",
       "url": "https://aawsat.com/node/5322830",
       "category": "مشرق أوسط",
@@ -326,6 +318,16 @@
       "published": "Mon, 21 Sep 2026 04:46:16 +0100",
       "breaking": true,
       "watch_topics": []
+    },
+    {
+      "title": "الرياض تجمع السلمان وطارق صالح لترتيب الجبهات اليمنية",
+      "url": "https://aawsat.com/node/5323011",
+      "category": "مشرق أوسط",
+      "published": "Sun, 27 Sep 2026 00:12:05 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
       "title": "السعودية تؤكد أمام الأمم المتحدة أهمية ضمان حماية حرية الملاحة",
@@ -667,14 +669,6 @@
       "url": "https://aawsat.com/node/5322361",
       "category": "مشرق أوسط",
       "published": "Fri, 25 Sep 2026 01:25:42 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "التحالف: تدمير 6 صواريخ باليستية حوثية حاولت استهداف الطائف وينبع",
-      "url": "https://aawsat.com/node/5322058",
-      "category": "مشرق أوسط",
-      "published": "Thu, 24 Sep 2026 12:31:49 +0100",
       "breaking": true,
       "watch_topics": []
     },
