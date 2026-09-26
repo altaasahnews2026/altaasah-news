@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T01:45:42.750867+00:00",
+  "updated_at": "2026-09-26T01:55:09.648872+00:00",
   "latest": [
     {
       "title": "ناقلتان إيرانيتان تقتربان من أميركا.. واشنطن تستعد لمصادرة ملايين الدولارات",
@@ -348,17 +348,7 @@
       ]
     },
     {
-      "title": "البيت الأبيض: منع «سي إن إن» من مرافقة ترمب على متن طائرة الرئاسة",
-      "url": "https://aawsat.com/node/5322717",
-      "category": "مشرق أوسط",
-      "published": "Sat, 26 Sep 2026 02:36:33 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "التحالف: تدمير مسيّرتين باتجاه منطقة الرياض وباليستي نحو خميس مشيط",
+      "title": "التحالف: تدمير مسيّرتين باتجاه منطقة الرياض وباليستيين نحو خميس مشيط",
       "url": "https://aawsat.com/node/5322716",
       "category": "مشرق أوسط",
       "published": "Sat, 26 Sep 2026 02:16:58 +0100",
@@ -428,6 +418,16 @@
       ]
     },
     {
+      "title": "«المركزي الإماراتي» يحظر معاملات فروع «بنك ملي إيران» مع طهران",
+      "url": "https://aawsat.com/node/5321805",
+      "category": "مشرق أوسط",
+      "published": "Wed, 23 Sep 2026 18:41:23 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
       "url": "https://aawsat.com/node/5321276",
       "category": "مشرق أوسط",
@@ -486,6 +486,16 @@
       "url": "https://aawsat.com/node/5321882",
       "category": "دولي",
       "published": "Wed, 23 Sep 2026 23:34:50 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "البيت الأبيض: منع «سي إن إن» من مرافقة ترمب على متن طائرة الرئاسة",
+      "url": "https://aawsat.com/node/5322717",
+      "category": "دولي",
+      "published": "Sat, 26 Sep 2026 02:36:33 +0100",
       "breaking": false,
       "watch_topics": [
         "أمريكا"
@@ -632,14 +642,6 @@
       "url": "https://aawsat.com/node/5321797",
       "category": "دولي",
       "published": "Wed, 23 Sep 2026 18:16:02 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "لافروف يلتقي روبيو... وبوتين مستعد للقاء نظيره الأميركي",
-      "url": "https://aawsat.com/node/5321772",
-      "category": "دولي",
-      "published": "Wed, 23 Sep 2026 17:10:39 +0100",
       "breaking": false,
       "watch_topics": []
     }
