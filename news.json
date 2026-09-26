@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T11:44:22.357372+00:00",
+  "updated_at": "2026-09-26T11:52:27.777928+00:00",
   "items": [
     {
       "title": "الإطاحة بـ4 مطلوبين وضبط 40 مخالفاً لشروط الإقامة في بغداد",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4d5e0ac76b25.html"
+    },
+    {
+      "title": "اليوم الخامس من المناقشة العامة للدورة الـ81 للجمعية العامة للأمم المتحدة: السعودية والإمارات وعُمان في جدول المتحدثين - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cmvgyyv42v01t",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-26T11:29:13+00:00",
+      "image": "./assets/news/a522247dc96e268fdab7a97e.jpg",
+      "original_image": "./assets/news/a522247dc96e268fdab7a97e.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cmvgyyv42v01t",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/19cdf97bfe1d.html"
     },
     {
       "title": "\"إهانة نتنياهو في الأمم المتحدة تشي بأن أيامه باتت معدودة\" - مقال في الإندبندنت - شفق نيوز..",
@@ -176,22 +192,6 @@
       "report": false,
       "governorate": "المثنى",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/45b792a19717.html"
-    },
-    {
-      "title": "مجلس الأمن يدين هجمات أنصار الله على الرياض، والسعودية تحث على \"الرباط والجهاد\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqx2z558pnkpo",
-      "category": "أمن",
-      "region": "كركوك",
-      "governorate": "كركوك",
-      "published": "2026-09-26T10:11:11+00:00",
-      "image": "./assets/news/b960092711e5aaba54681741.jpg",
-      "original_image": "./assets/news/b960092711e5aaba54681741.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cqx2z558pnkpo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": true,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6d7a92ec86fd.html"
     },
     {
       "title": "مجدداً.. فضيحة جنسية تلاحق كريم بنزيما",
@@ -496,22 +496,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2f9b8219c59d.html"
-    },
-    {
-      "title": "5 عوامل تساعد في تحسين النوم - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cmn0jndeexwlo",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-26T07:38:51+00:00",
-      "image": "./assets/news/12e2629b6138805298077cce.jpg",
-      "original_image": "./assets/news/12e2629b6138805298077cce.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cmn0jndeexwlo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/569abde5bfc8.html"
     },
     {
       "title": "ارتفاع طفيف بالحرارة وغيوم جزئية مع رياح مثيرة للغبار في مناطق من العراق",
