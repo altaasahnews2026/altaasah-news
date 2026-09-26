@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-09-26T12:15:58.323872+00:00",
+  "updated_at": "2026-09-26T12:32:25.529019+00:00",
   "items": [
+    {
+      "title": "القبض على 28 مخالفاً لشروط الإقامة في النجف",
+      "url": "https://www.alsumaria.tv/news/security/577123/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-28-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A7%D9%8B-%D9%84%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D8%A5%D9%82%D8%A7%D9%85%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81",
+      "category": "محليات",
+      "region": "النجف",
+      "published": "2026-09-26T12:24:24+00:00",
+      "image": "./assets/news/c85b3d63ef48403b1a2ee5c0.jpg",
+      "original_image": "./assets/news/c85b3d63ef48403b1a2ee5c0.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/577123/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-28-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A7%D9%8B-%D9%84%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D8%A5%D9%82%D8%A7%D9%85%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "النجف",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6cd1bcdbae49.html"
+    },
+    {
+      "title": "وزير المالية يصدر توجيهاً بشأن موازنة 2027",
+      "url": "https://www.alsumaria.tv/news/economy/577122/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%8A%D8%B5%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7%D9%8B-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-2027",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-26T12:20:27+00:00",
+      "image": "./assets/news/957acdbd85ec0df87d02da05.jpg",
+      "original_image": "./assets/news/957acdbd85ec0df87d02da05.jpg",
+      "source_url": "https://www.alsumaria.tv/news/economy/577122/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%8A%D8%B5%D8%AF%D8%B1-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7%D9%8B-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-2027",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/949b1c2375aa.html"
+    },
     {
       "title": "تفاصيل الاتفاق العراقي الكويتي: لجنة عليا وآلية رصد لوقف خطاب الكراهية",
       "url": "https://964media.com/720327/",
@@ -450,22 +482,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cb6075ef2df3.html"
     },
     {
-      "title": "بدء اخلاء قاعدة بعشيقة من القوات التركية خلال 60 يوما",
-      "url": "https://www.alsumaria.tv/news/localnews/577103/%D8%A8%D8%AF%D8%A1-%D8%A7%D8%AE%D9%84%D8%A7%D8%A1-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D8%B9%D8%B4%D9%8A%D9%82%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-60-%D9%8A%D9%88%D9%85%D8%A7",
-      "category": "محليات",
-      "region": "نينوى",
-      "published": "2026-09-26T08:59:13+00:00",
-      "image": "./assets/news/51fd04c877c1cd17cfb6bb9f.webp",
-      "original_image": "./assets/news/51fd04c877c1cd17cfb6bb9f.webp",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577103/%D8%A8%D8%AF%D8%A1-%D8%A7%D8%AE%D9%84%D8%A7%D8%A1-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D8%B9%D8%B4%D9%8A%D9%82%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-60-%D9%8A%D9%88%D9%85%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "نينوى",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1fe8704adf75.html"
-    },
-    {
       "title": "الخزعلي: نرفض مشاركة العراق أو وقوفه متفرجاً على حصار إيران",
       "url": "https://964media.com/720260/",
       "category": "عربي ودولي",
@@ -480,22 +496,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/daa202d62d24.html"
-    },
-    {
-      "title": "ما الذي يحدث لسكر الدم بعد علبة صودا واحدة؟",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/577102/%D9%85%D8%A7-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D8%AD%D8%AF%D8%AB-%D9%84%D8%B3%D9%83%D8%B1-%D8%A7%D9%84%D8%AF%D9%85-%D8%A8%D8%B9%D8%AF-%D8%B9%D9%84%D8%A8%D8%A9-%D8%B5%D9%88%D8%AF%D8%A7-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9%D8%9F",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-26T08:37:10+00:00",
-      "image": "./assets/news/153126f911c76de2e1e89c6f.webp",
-      "original_image": "./assets/news/153126f911c76de2e1e89c6f.webp",
-      "source_url": "https://www.alsumaria.tv/news/miscellaneous/577102/%D9%85%D8%A7-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D8%AD%D8%AF%D8%AB-%D9%84%D8%B3%D9%83%D8%B1-%D8%A7%D9%84%D8%AF%D9%85-%D8%A8%D8%B9%D8%AF-%D8%B9%D9%84%D8%A8%D8%A9-%D8%B5%D9%88%D8%AF%D8%A7-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9%D8%9F",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/89fbe414fb11.html"
     },
     {
       "title": "الدولار يسجل 157 ألف دينار في بغداد وأقل منها بأربيل والبصرة",
