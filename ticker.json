@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-27T11:18:03.672676+00:00",
+  "updated_at": "2026-09-27T11:29:31.781918+00:00",
   "latest": [
     {
-      "title": "إيران تنتظر رداً أمريكياً على مقترحها، وتتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
+      "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cqm2m6n86jgmo",
       "category": "عراق",
-      "published": "2026-09-27T10:28:12+00:00",
+      "published": "2026-09-27T11:19:33+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران",
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "title": "قضايا الشرق الأوسط وأزمة هرمز تتصدر خطابات اليوم الخامس للجمعية العامة للأمم المتحدة - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c68044nzp0vzo",
+      "title": "مأدبة عشاء ترامب وشي \"جزء من جهنم\" - جولة الصحف - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqvgyj3k7exzo",
       "category": "عراق",
-      "published": "2026-09-27T10:54:16+00:00",
+      "published": "2026-09-27T11:02:07+00:00",
       "breaking": false,
       "watch_topics": [
-        "إيران"
+        "أمريكا"
       ]
     },
     {
@@ -131,14 +131,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cmkg882er955o",
       "category": "عراق",
       "published": "2026-09-27T01:18:44+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "التعليم تحدد موعد إطلاق استمارتي الموازي والأهلي",
-      "url": "https://www.alsumaria.tv/news/localnews/577167/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%AD%D8%AF%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D8%B3%D8%AA%D9%85%D8%A7%D8%B1%D8%AA%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A",
-      "category": "عراق",
-      "published": "2026-09-27T07:28:27+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -235,6 +227,14 @@
       "url": "https://www.alsumaria.tv/news/localnews/577177/%D9%81%D9%8A-%D9%85%D8%B9%D8%B1%D8%B6-ogep-2026-%D9%85%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D8%B9%D8%B2%D8%B2-%D8%B4%D8%B1%D8%A7%D9%83%D8%AA%D9%87-%D9%85%D8%B9-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D8%B3",
       "category": "عراق",
       "published": "2026-09-27T09:38:34+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "السومرية تنشر رابط نتائج القرعة الإلكترونية للحج",
+      "url": "https://www.alsumaria.tv/news/localnews/577179/%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D8%B4%D8%B1-%D8%B1%D8%A7%D8%A8%D8%B7-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D9%82%D8%B1%D8%B9%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AD%D8%AC",
+      "category": "عراق",
+      "published": "2026-09-27T09:57:27+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -601,6 +601,14 @@
       ]
     },
     {
+      "title": "الضربات الروسية على كييف تستهدف متاجر التسوّق",
+      "url": "https://aawsat.com/node/5323101",
+      "category": "دولي",
+      "published": "Sun, 27 Sep 2026 12:25:22 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "هجمات روسية تستهدف مدينة أوديسا الساحلية الأوكرانية",
       "url": "https://aawsat.com/node/5323013",
       "category": "دولي",
@@ -631,22 +639,14 @@
       "published": "Sat, 26 Sep 2026 17:27:19 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "سيول تتهم كييف بخرق اتفاقية أسرى الحرب من كوريا الشمالية وتعرضهم للخطر",
-      "url": "https://aawsat.com/node/5322902",
-      "category": "دولي",
-      "published": "Sat, 26 Sep 2026 16:16:26 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
     {
-      "title": "إيران تنتظر رداً أمريكياً على مقترحها، وتتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
+      "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cqm2m6n86jgmo",
       "category": "عراق",
-      "published": "2026-09-27T10:28:12+00:00",
+      "published": "2026-09-27T11:19:33+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران",
