@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-09-27T12:12:10.446166+00:00",
+  "updated_at": "2026-09-27T12:30:15.516486+00:00",
   "items": [
+    {
+      "title": "مأدبة عشاء ترامب وشي \"أسوأ جزء في الجحيم\" - جولة الصحف - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqvgyj3k7exzo",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-27T12:18:41+00:00",
+      "image": "./assets/news/23a2a20bffa507745ae9b914.jpg",
+      "original_image": "./assets/news/23a2a20bffa507745ae9b914.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cqvgyj3k7exzo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e9abc14a4d34.html"
+    },
+    {
+      "title": "ستارلينك رسمية في العراق.. هيئة الإعلام: الخدمة قانونية والسيطرة على البيانات كاملة",
+      "url": "https://www.alsumaria.tv/news/localnews/577191/%D8%B3%D8%AA%D8%A7%D8%B1%D9%84%D9%8A%D9%86%D9%83-%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D9%8A",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-27T12:17:13+00:00",
+      "image": "./assets/news/8c32a7cfefa3323a996ae13d.jpg",
+      "original_image": "./assets/news/8c32a7cfefa3323a996ae13d.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577191/%D8%B3%D8%AA%D8%A7%D8%B1%D9%84%D9%8A%D9%86%D9%83-%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5e1c8678609a.html"
+    },
     {
       "title": "\"الإصلاح ممكن\": ما الذي يساعدنا حقاً على إنقاذ علاقاتنا؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cmkg882er955o",
@@ -16,22 +48,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/07f255c2b620.html"
-    },
-    {
-      "title": "مأدبة عشاء ترامب وشي \"أسوأ جزء في الجحيم\" - جولة الصحف - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqvgyj3k7exzo",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-27T11:59:58+00:00",
-      "image": "./assets/news/23a2a20bffa507745ae9b914.jpg",
-      "original_image": "./assets/news/23a2a20bffa507745ae9b914.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cqvgyj3k7exzo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/70e854b4151c.html"
     },
     {
       "title": "نائب يحذّر من تبعات إغلاق مطار النجف: شركات قد تطالب بالتعويضات",
@@ -384,38 +400,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9d92c6e20ebb.html"
-    },
-    {
-      "title": "وزارة العدل تطلق نظام الأتمتة في دائرة كاتب عدل البصرة الصباحي والمسائي",
-      "url": "https://www.alsumaria.tv/news/localnews/577171/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%AA%D8%B7%D9%84%D9%82-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AA%D9%85%D8%AA%D8%A9-%D9%81%D9%8A-%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9-%D9%83%D8%A7%D8%AA%D8%A8-%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A6",
-      "category": "سياسة",
-      "region": "البصرة",
-      "published": "2026-09-27T08:35:03+00:00",
-      "image": "./assets/news/e7834645280b4c76eb61c30b.jpg",
-      "original_image": "./assets/news/e7834645280b4c76eb61c30b.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577171/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%AA%D8%B7%D9%84%D9%82-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AA%D9%85%D8%AA%D8%A9-%D9%81%D9%8A-%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9-%D9%83%D8%A7%D8%AA%D8%A8-%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A6",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "البصرة",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/233b744f8e21.html"
-    },
-    {
-      "title": "مسح لجامعة بابل: أكثر من ثلثي الطلبة يؤيدون حصر السلاح بيد الدولة",
-      "url": "https://964media.com/720587/",
-      "category": "أمن",
-      "region": "بابل",
-      "published": "2026-09-27T08:18:42+00:00",
-      "image": "./assets/news/04bf1e3557dfc5df18fa5468.jpg",
-      "original_image": "./assets/news/04bf1e3557dfc5df18fa5468.jpg",
-      "source_url": "https://964media.com/720587/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بابل",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b4527f6b3694.html"
     },
     {
       "title": "مسيّرة العسكر بـ 300 ألف دينار.. رجال الأعمال وجهاً لوجه مع المهندسين في بغداد",
