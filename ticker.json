@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T03:31:09.714484+00:00",
+  "updated_at": "2026-09-27T03:45:05.483852+00:00",
   "latest": [
     {
       "title": "كتلة السوداني تطالب بغداد بحوار مع واشنطن لاستثناء الطيران الإيراني من العقوبات",
@@ -402,16 +402,6 @@
       ]
     },
     {
-      "title": "الإمارات تعلق رحلات الطيران الإيرانية",
-      "url": "https://aawsat.com/node/5322205",
-      "category": "مشرق أوسط",
-      "published": "Thu, 24 Sep 2026 17:32:16 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
       "url": "https://aawsat.com/node/5322757",
       "category": "مشرق أوسط",
@@ -470,6 +460,14 @@
       "url": "https://aawsat.com/node/5322842",
       "category": "مشرق أوسط",
       "published": "Sat, 26 Sep 2026 13:29:56 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الحكومة اليمنية تحشد دعماً دولياً لمواجهة الأزمة الإنسانية",
+      "url": "https://aawsat.com/node/5322821",
+      "category": "مشرق أوسط",
+      "published": "Sat, 26 Sep 2026 12:14:49 +0100",
       "breaking": false,
       "watch_topics": []
     },
