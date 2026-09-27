@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-27T13:34:19.513310+00:00",
+  "updated_at": "2026-09-27T13:46:22.809663+00:00",
   "latest": [
     {
       "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cqm2m6n86jgmo",
       "category": "عراق",
-      "published": "2026-09-27T11:19:33+00:00",
+      "published": "2026-09-27T13:36:28+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران",
@@ -135,14 +135,6 @@
       "watch_topics": []
     },
     {
-      "title": "في معرض OGEP 2026.. مصرف التنمية الدولي يعزز شراكته مع قطاع الطاقة والاستثمار",
-      "url": "https://www.alsumaria.tv/news/localnews/577177/%D9%81%D9%8A-%D9%85%D8%B9%D8%B1%D8%B6-ogep-2026-%D9%85%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D8%B9%D8%B2%D8%B2-%D8%B4%D8%B1%D8%A7%D9%83%D8%AA%D9%87-%D9%85%D8%B9-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D8%B3",
-      "category": "عراق",
-      "published": "2026-09-27T09:38:34+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "السومرية تنشر رابط نتائج القرعة الإلكترونية للحج",
       "url": "https://www.alsumaria.tv/news/localnews/577179/%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D8%B4%D8%B1-%D8%B1%D8%A7%D8%A8%D8%B7-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D9%82%D8%B1%D8%B9%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AD%D8%AC",
       "category": "عراق",
@@ -239,15 +231,12 @@
       "watch_topics": []
     },
     {
-      "title": "سيول تؤكد لواشنطن عزمها المساهمة في استعادة حرية الملاحة بمضيق هرمز",
-      "url": "https://aawsat.com/node/5319979",
-      "category": "مشرق أوسط",
-      "published": "Fri, 18 Sep 2026 23:25:47 +0100",
+      "title": "السومرية نشرت مناشداتهم.. رئيس المنافذ يعلن إطلاق سراح (59) سائقاً عراقياً بسوريا وإعفائهم من الغرامات",
+      "url": "https://www.alsumaria.tv/news/security/577193/%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D9%86%D8%B4%D8%B1%D8%AA-%D9%85%D9%86%D8%A7%D8%B4%D8%AF%D8%A7%D8%AA%D9%87%D9%85-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D9%8A%D8%B9%D9%84%D9%86-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%B3%D8%B1%D8%A7%D8%AD-59-%D8%B3%D8%A7%D8%A6%D9%82%D8%A7%D9%8B-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A7%D9%8B",
+      "category": "عراق",
+      "published": "2026-09-27T12:45:34+00:00",
       "breaking": false,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
+      "watch_topics": []
     },
     {
       "title": "وزراء خارجية دول «اتفاقية مكة» يبحثون ترتيبات اجتماع عاجل لرؤساء الأركان",
@@ -313,6 +302,16 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "لتأمين الملاحة... تصاعد التنسيق العسكري الدولي مع الرياض",
+      "url": "https://aawsat.com/node/5323144",
+      "category": "مشرق أوسط",
+      "published": "Sun, 27 Sep 2026 14:42:19 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {
@@ -386,16 +385,6 @@
       ]
     },
     {
-      "title": "مفتي السعودية: الحوثيون عصابة شر فاسدة العقيدة والمنهج",
-      "url": "https://aawsat.com/node/5322300",
-      "category": "مشرق أوسط",
-      "published": "Thu, 24 Sep 2026 21:53:33 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
       "url": "https://aawsat.com/node/5322757",
       "category": "مشرق أوسط",
@@ -454,6 +443,14 @@
       "url": "https://aawsat.com/node/5322973",
       "category": "مشرق أوسط",
       "published": "Sat, 26 Sep 2026 21:30:59 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "مصر: رحيل الزند يسترجع معارك القضاء و«الإخوان» خلال حكم مرسي",
+      "url": "https://aawsat.com/node/5322903",
+      "category": "مشرق أوسط",
+      "published": "Sat, 26 Sep 2026 16:17:57 +0100",
       "breaking": false,
       "watch_topics": []
     },
@@ -646,7 +643,7 @@
       "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cqm2m6n86jgmo",
       "category": "عراق",
-      "published": "2026-09-27T11:19:33+00:00",
+      "published": "2026-09-27T13:36:28+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران",
