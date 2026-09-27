@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T14:40:18.053215+00:00",
+  "updated_at": "2026-09-27T14:49:46.939378+00:00",
   "items": [
     {
       "title": "بعد اشتباكات مسلحة.. احباط تفجيرين بحزامين ناسفين في كركوك",
@@ -7,8 +7,8 @@
       "category": "أمن",
       "region": "كركوك",
       "published": "2026-09-27T14:13:14+00:00",
-      "image": "./assets/news/f9869a20d9d8808ef4958a4c.jpg",
-      "original_image": "./assets/news/f9869a20d9d8808ef4958a4c.jpg",
+      "image": "./assets/news/51d35bf984f03e3814de6839.jpg",
+      "original_image": "./assets/news/51d35bf984f03e3814de6839.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/577203/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83%D8%A7%D8%AA-%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D8%AD%D8%A8%D8%A7%D8%B7-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D9%8A%D9%86-%D8%A8%D8%AD%D8%B2%D8%A7%D9%85%D9%8A%D9%86-%D9%86%D8%A7%D8%B3%D9%81%D9%8A%D9%86-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -18,20 +18,36 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e5cf299e3d65.html"
     },
     {
-      "title": "وزير الخزانة الأمريكي: إيران قد تسلم أخر شحنات النفط للصين خلال أسبوعين",
-      "url": "https://www.alsumaria.tv/news/international/577205/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%82%D8%AF-%D8%AA%D8%B3%D9%84%D9%85-%D8%A3%D8%AE%D8%B1-%D8%B4%D8%AD%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%84%D9%84%D8%B5%D9%8A%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9%D9%8A%D9%86",
+      "title": "الخزانة الأمريكية: العزل الاقتصادي لإيران ينفذ على مراحل ويشمل العملات والطيران والنقل البحري",
+      "url": "https://www.alsumaria.tv/news/international/577205/%D8%A7%D9%84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B2%D9%84-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%8A%D9%86%D9%81%D8%B0-%D8%B9%D9%84%D9%89-%D9%85%D8%B1%D8%A7%D8%AD%D9%84-%D9%88%D9%8A%D8%B4%D9%85%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA",
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-27T14:33:35+00:00",
       "image": "./assets/news/6f88727a0da2256976cf2e33.webp",
       "original_image": "./assets/news/6f88727a0da2256976cf2e33.webp",
-      "source_url": "https://www.alsumaria.tv/news/international/577205/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%82%D8%AF-%D8%AA%D8%B3%D9%84%D9%85-%D8%A3%D8%AE%D8%B1-%D8%B4%D8%AD%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%84%D9%84%D8%B5%D9%8A%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9%D9%8A%D9%86",
+      "source_url": "https://www.alsumaria.tv/news/international/577205/%D8%A7%D9%84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B2%D9%84-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%8A%D9%86%D9%81%D8%B0-%D8%B9%D9%84%D9%89-%D9%85%D8%B1%D8%A7%D8%AD%D9%84-%D9%88%D9%8A%D8%B4%D9%85%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA",
       "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
       "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e4d5e159c21e.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/171851af78ab.html"
+    },
+    {
+      "title": "الشيخ نعيم قاسم: السيد نصر الله بنى حزباً ومقاومة ثابتة وقوية",
+      "url": "https://www.alsumaria.tv/news/international/577206/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%86%D8%B9%D9%8A%D9%85-%D9%82%D8%A7%D8%B3%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86%D9%89-%D8%AD%D8%B2%D8%A8%D8%A7%D9%8B-%D9%88%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D8%AB%D8%A7%D8%A8%D8%AA%D8%A9-%D9%88%D9%82%D9%88%D9%8A%D8%A9",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-27T14:27:16+00:00",
+      "image": "./assets/news/8df161ffff5f68d1dcebabf3.jpg",
+      "original_image": "./assets/news/8df161ffff5f68d1dcebabf3.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577206/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%86%D8%B9%D9%8A%D9%85-%D9%82%D8%A7%D8%B3%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86%D9%89-%D8%AD%D8%B2%D8%A8%D8%A7%D9%8B-%D9%88%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D8%AB%D8%A7%D8%A8%D8%AA%D8%A9-%D9%88%D9%82%D9%88%D9%8A%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/96004c21624d.html"
     },
     {
       "title": "توضيح حكومي جديد بشان تعليق الرحلات الجوية مع إيران",
@@ -71,8 +87,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-27T14:05:37+00:00",
-      "image": "./assets/news/9c57877c4db2973ebb6b5bcb.jpg",
-      "original_image": "./assets/news/9c57877c4db2973ebb6b5bcb.jpg",
+      "image": "./assets/news/4de88a15828fc4fddb95c519.jpg",
+      "original_image": "./assets/news/4de88a15828fc4fddb95c519.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577202/%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D9%83%D8%A8%D8%B1%D9%89-%D9%88%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AD%D8%AF%D8%AB-%D9%82%D8%B1%D8%A8-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -183,8 +199,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-27T13:41:58+00:00",
-      "image": "./assets/news/af5bd120db40f058bf0eab0e.jpg",
-      "original_image": "./assets/news/af5bd120db40f058bf0eab0e.jpg",
+      "image": "./assets/news/3bf3f53d167d33043913d5c1.jpg",
+      "original_image": "./assets/news/3bf3f53d167d33043913d5c1.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577198/%D8%B4%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D9%87%D9%86%D8%A6-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B0%D9%83%D8%B1%D9%89-%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3%D9%87%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -432,22 +448,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c44b578665ca.html"
-    },
-    {
-      "title": "بمناسبة الذكرى الـ22.. الشيخ حمودي يشيد بمسيرة السومرية الإعلامية",
-      "url": "https://www.alsumaria.tv/news/alsumariaspecial/577186/%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D8%B0%D9%83%D8%B1%D9%89-%D8%A7%D9%84%D9%8022-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%AD%D9%85%D9%88%D8%AF%D9%8A-%D9%8A%D8%B4%D9%8A%D8%AF-%D8%A8%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A%D8%A9",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-27T11:11:26+00:00",
-      "image": "./assets/news/0bf735980db5818fe9c86e73.jpg",
-      "original_image": "./assets/news/0bf735980db5818fe9c86e73.jpg",
-      "source_url": "https://www.alsumaria.tv/news/alsumariaspecial/577186/%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D8%B0%D9%83%D8%B1%D9%89-%D8%A7%D9%84%D9%8022-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%AD%D9%85%D9%88%D8%AF%D9%8A-%D9%8A%D8%B4%D9%8A%D8%AF-%D8%A8%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6318adbd1f19.html"
     },
     {
       "title": "نزاهة بغداد تضبط مديراً في شركة التأمين أثناء تسلمه الرشوة",
