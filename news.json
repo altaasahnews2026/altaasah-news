@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T22:28:40.834166+00:00",
+  "updated_at": "2026-09-27T22:41:37.658698+00:00",
   "items": [
     {
       "title": "قتلى ومصابون بإطلاق نار داخل ناد ليلي في ديترويت",
@@ -23,8 +23,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-27T22:24:00+00:00",
-      "image": "./assets/news/61576e1a3c43f7442b3787eb.jpg",
-      "original_image": "./assets/news/61576e1a3c43f7442b3787eb.jpg",
+      "image": "./assets/news/f9482ffc5037be01dfec451e.jpg",
+      "original_image": "./assets/news/f9482ffc5037be01dfec451e.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577246/%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D9%88%D9%84%D9%86%D8%AF%D9%8A%D8%A9-%D8%AA%D9%81%D8%AA%D8%B4-%D8%B1%D9%83%D8%A7%D8%A8-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -34,13 +34,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/34ddaf23839b.html"
     },
     {
+      "title": "ماذا نعرف عن تحقيق مكافحة الإرهاب المرتبط بقاعدة فيرفورد الجوية البريطانية؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cwrk3y2p3zr0o",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-27T22:15:25+00:00",
+      "image": "./assets/news/dbe26bfeb24d90fdf7f2ee97.jpg",
+      "original_image": "./assets/news/dbe26bfeb24d90fdf7f2ee97.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cwrk3y2p3zr0o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a6a60f5dcb38.html"
+    },
+    {
       "title": "ترامب يتحدث عن سعر النفط واحتمال العودة للضربات على إيران",
       "url": "https://www.alsumaria.tv/news/international/577245/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D9%84%D9%84%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-27T21:46:00+00:00",
-      "image": "./assets/news/854b75accbe7ad3998bf1b5f.jpg",
-      "original_image": "./assets/news/854b75accbe7ad3998bf1b5f.jpg",
+      "image": "./assets/news/520af38f2bf68b47d2ff1354.jpg",
+      "original_image": "./assets/news/520af38f2bf68b47d2ff1354.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577245/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D9%84%D9%84%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -480,22 +496,6 @@
       "report": false,
       "governorate": "البصرة",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f3c54ed87b84.html"
-    },
-    {
-      "title": "\"سخروا مني لأن والدي باكستاني\"، لاعب العراق زيدان إقبال يوجه رسالة لجماهير الكويت - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm158j41n218o",
-      "category": "رياضة",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-27T15:20:20+00:00",
-      "image": "./assets/news/e2b1d6cf08b0f136f306692b.jpg",
-      "original_image": "./assets/news/e2b1d6cf08b0f136f306692b.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cm158j41n218o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/511fdd442c6d.html"
     },
     {
       "title": "مكافحة الإرهاب يشتبك مع خلية انتحارية في كركوك.. قتيلان وثالث بقبضة الأمن",
