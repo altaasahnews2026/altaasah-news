@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T23:34:04.936367+00:00",
+  "updated_at": "2026-09-27T23:44:57.640677+00:00",
   "latest": [
     {
       "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
@@ -420,6 +420,14 @@
       ]
     },
     {
+      "title": "ضربات جوية وبرية تستنزف الحوثيين في تعز",
+      "url": "https://aawsat.com/node/5323315",
+      "category": "مشرق أوسط",
+      "published": "Mon, 28 Sep 2026 00:43:20 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "جيبوتي تحت ضغوط «اضطرابات الجوار»",
       "url": "https://aawsat.com/node/5323237",
       "category": "مشرق أوسط",
@@ -448,14 +456,6 @@
       "url": "https://aawsat.com/node/5323103",
       "category": "مشرق أوسط",
       "published": "Sun, 27 Sep 2026 12:40:41 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "«شعلة سبتمبر» تتحدى قبضة الحوثيين في إب",
-      "url": "https://aawsat.com/node/5323093",
-      "category": "مشرق أوسط",
-      "published": "Sun, 27 Sep 2026 11:55:56 +0100",
       "breaking": false,
       "watch_topics": []
     },
