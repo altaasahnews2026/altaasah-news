@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-27T20:26:58.080319+00:00",
+  "updated_at": "2026-09-27T20:37:56.071710+00:00",
   "items": [
+    {
+      "title": "ترامب يقول إن خمسة مشتبه بهم خططوا لإلحاق \"ضرر كبير\" بقاعدة تستخدمها الولايات المتحدة في بريطانيا - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cmwyz9xkqeg1o",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-27T20:25:18+00:00",
+      "image": "./assets/news/5d3e4b524fb589aca1c153a8.jpg",
+      "original_image": "./assets/news/5d3e4b524fb589aca1c153a8.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cmwyz9xkqeg1o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/238de39dcd62.html"
+    },
     {
       "title": "في بغداد.. اعتقال 250 مخالفاً لشروط الإقامة و178 مخموراً",
       "url": "https://www.alsumaria.tv/news/localnews/577241/%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-250-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A7%D9%8B-%D9%84%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D8%A5%D9%82%D8%A7%D9%85%D8%A9-%D9%88178-%D9%85%D8%AE%D9%85%D9%88%D8%B1%D8%A7%D9%8B",
@@ -23,8 +39,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-27T19:56:13+00:00",
-      "image": "./assets/news/b2972db1bc7a9d574455d1e0.jpg",
-      "original_image": "./assets/news/b2972db1bc7a9d574455d1e0.jpg",
+      "image": "./assets/news/559bb5d9013b474530c768bb.jpg",
+      "original_image": "./assets/news/559bb5d9013b474530c768bb.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/577240/sports/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D9%87%D8%B2%D9%85-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D9%88%D8%AA%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%86%D8%B5%D9%81-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -160,22 +176,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/204d86de0b9e.html"
-    },
-    {
-      "title": "ترامب يقول إن خمسة مشتبه بهم خططوا لإلحاق \"ضرر كبير\" بقاعدة تستخدمها الولايات المتحدة في بريطانيا - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cmwyz9xkqeg1o",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-27T18:00:24+00:00",
-      "image": "./assets/news/5d3e4b524fb589aca1c153a8.jpg",
-      "original_image": "./assets/news/5d3e4b524fb589aca1c153a8.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cmwyz9xkqeg1o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/751cbdf60295.html"
     },
     {
       "title": "خليجي 27.. قطر تتغلب على اليمن بصعوبة وتتصدر مجموعتها",
