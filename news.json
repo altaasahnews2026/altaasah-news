@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T23:22:55.090162+00:00",
+  "updated_at": "2026-09-27T23:33:59.897165+00:00",
   "items": [
     {
       "title": "قتلى ومصابون بإطلاق نار داخل ناد ليلي في ديترويت",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/74659d04a704.html"
+    },
+    {
+      "title": "جماعة أنصار الله تقول إن غارة سعودية قتلت وأصابت العشرات، والحكومة المعترف بها تعلن مقتل خبراء إيرانيين - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cr5y5n3vvw4wo",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-27T23:01:06+00:00",
+      "image": "./assets/news/118de8f9c43a2c3ed9d66efb.jpg",
+      "original_image": "./assets/news/118de8f9c43a2c3ed9d66efb.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cr5y5n3vvw4wo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fea985c59eb0.html"
     },
     {
       "title": "السلطات الهولندية تفتش ركاب طائرة إسرائيلية",
@@ -135,8 +151,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-27T19:56:13+00:00",
-      "image": "./assets/news/559bb5d9013b474530c768bb.jpg",
-      "original_image": "./assets/news/559bb5d9013b474530c768bb.jpg",
+      "image": "./assets/news/0e610c9adf0077eb6b518fe2.jpg",
+      "original_image": "./assets/news/0e610c9adf0077eb6b518fe2.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/577240/sports/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D9%87%D8%B2%D9%85-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D9%88%D8%AA%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%86%D8%B5%D9%81-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -320,22 +336,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/997cb52dd558.html"
-    },
-    {
-      "title": "جماعة أنصار الله تقول إن غارة سعودية قتلت وأصابت العشرات، والحكومة المعترف بها تعلن مقتل خبراء إيرانيين - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cr5y5n3vvw4wo",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-27T17:35:47+00:00",
-      "image": "./assets/news/118de8f9c43a2c3ed9d66efb.jpg",
-      "original_image": "./assets/news/118de8f9c43a2c3ed9d66efb.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cr5y5n3vvw4wo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d37423ddaca9.html"
     },
     {
       "title": "قبل مواجهة العراق.. استبعاد لاعب جديد من معسكر المنتخب السعودي",
