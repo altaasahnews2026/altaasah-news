@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T14:16:18.836755+00:00",
+  "updated_at": "2026-09-27T14:28:32.140484+00:00",
   "latest": [
     {
       "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
@@ -73,9 +73,9 @@
     },
     {
       "title": "بعد اشتباكات مسلحة.. احباط تفجيرين بحزامين ناسفين في كركوك",
-      "url": "https://www.alsumaria.tv/news/security/577203/%d8%a8%d8%b9%d8%af-%d8%a7%d8%b4%d8%aa%d8%a8%d8%a7%d9%83%d8%a7%d8%aa-%d9%85%d8%b3%d9%84%d8%ad%d8%a9-%d8%a7%d8%ad%d8%a8%d8%a7%d8%b7-%d8%aa%d9%81%d8%ac%d9%8a%d8%b1%d9%8a%d9%86-%d8%a8%d8%ad%d8%b2%d8%a7%d9%85%d9%8a%d9%86-%d9%86%d8%a7%d8%b3%d9%81%d9%8a%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "url": "https://www.alsumaria.tv/news/security/577203/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83%D8%A7%D8%AA-%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D8%AD%D8%A8%D8%A7%D8%B7-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D9%8A%D9%86-%D8%A8%D8%AD%D8%B2%D8%A7%D9%85%D9%8A%D9%86-%D9%86%D8%A7%D8%B3%D9%81%D9%8A%D9%86-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
       "category": "عراق",
-      "published": "Sun, 27 Sep 2026 14:13:14 GMT",
+      "published": "2026-09-27T14:13:14+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -87,6 +87,16 @@
       "breaking": false,
       "watch_topics": [
         "أمريكا"
+      ]
+    },
+    {
+      "title": "توضيح حكومي جديد بشان تعليق الرحلات الجوية مع إيران",
+      "url": "https://www.alsumaria.tv/news/localnews/577204/%d8%aa%d9%88%d8%b6%d9%8a%d8%ad-%d8%ad%d9%83%d9%88%d9%85%d9%8a-%d8%ac%d8%af%d9%8a%d8%af-%d8%a8%d8%b4%d8%a7%d9%86-%d8%aa%d8%b9%d9%84%d9%8a%d9%82-%d8%a7%d9%84%d8%b1%d8%ad%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a5%d9%8a%d8%b1%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Sun, 27 Sep 2026 14:26:24 GMT",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
       ]
     },
     {
@@ -222,14 +232,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cmwyz9xkqeg1o",
       "category": "عراق",
       "published": "2026-09-27T13:22:33+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "القبض على متهم خلال بث مباشر يسيء للذات الإلهية في بغداد",
-      "url": "https://www.alsumaria.tv/news/security/577197/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%AA%D9%87%D9%85-%D8%AE%D9%84%D8%A7%D9%84-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%8A%D8%B3%D9%8A%D8%A1-%D9%84%D9%84%D8%B0%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%84%D9%87%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "category": "عراق",
-      "published": "2026-09-27T13:33:10+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -615,18 +617,18 @@
       "watch_topics": []
     },
     {
-      "title": "هجمات روسية تستهدف مدينة أوديسا الساحلية الأوكرانية",
-      "url": "https://aawsat.com/node/5323013",
+      "title": "الشرطة البريطانية توقف 5 أشخاص للاشتباه في التخطيط لـ«عمل إرهابي»",
+      "url": "https://aawsat.com/node/5323054",
       "category": "دولي",
-      "published": "Sun, 27 Sep 2026 01:42:52 +0100",
+      "published": "Sun, 27 Sep 2026 09:10:49 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "لافروف: روسيا ستحقق أهدافها في أوكرانيا «مهما كانت الظروف»",
-      "url": "https://aawsat.com/node/5322940",
+      "title": "هجمات روسية تستهدف مدينة أوديسا الساحلية الأوكرانية",
+      "url": "https://aawsat.com/node/5323013",
       "category": "دولي",
-      "published": "Sat, 26 Sep 2026 18:07:56 +0100",
+      "published": "Sun, 27 Sep 2026 01:42:52 +0100",
       "breaking": false,
       "watch_topics": []
     }
@@ -693,9 +695,9 @@
     },
     {
       "title": "بعد اشتباكات مسلحة.. احباط تفجيرين بحزامين ناسفين في كركوك",
-      "url": "https://www.alsumaria.tv/news/security/577203/%d8%a8%d8%b9%d8%af-%d8%a7%d8%b4%d8%aa%d8%a8%d8%a7%d9%83%d8%a7%d8%aa-%d9%85%d8%b3%d9%84%d8%ad%d8%a9-%d8%a7%d8%ad%d8%a8%d8%a7%d8%b7-%d8%aa%d9%81%d8%ac%d9%8a%d8%b1%d9%8a%d9%86-%d8%a8%d8%ad%d8%b2%d8%a7%d9%85%d9%8a%d9%86-%d9%86%d8%a7%d8%b3%d9%81%d9%8a%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "url": "https://www.alsumaria.tv/news/security/577203/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83%D8%A7%D8%AA-%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D8%AD%D8%A8%D8%A7%D8%B7-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D9%8A%D9%86-%D8%A8%D8%AD%D8%B2%D8%A7%D9%85%D9%8A%D9%86-%D9%86%D8%A7%D8%B3%D9%81%D9%8A%D9%86-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
       "category": "عراق",
-      "published": "Sun, 27 Sep 2026 14:13:14 GMT",
+      "published": "2026-09-27T14:13:14+00:00",
       "breaking": true,
       "watch_topics": []
     },
