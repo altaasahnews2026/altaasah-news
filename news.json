@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-09-27T12:30:15.516486+00:00",
+  "updated_at": "2026-09-27T12:46:50.198493+00:00",
   "items": [
+    {
+      "title": "المجلس الوزاري للاقتصاد يصادق على مشروع الموازنة ويحيله إلى مجلس الوزراء",
+      "url": "https://www.alsumaria.tv/news/economy/577192/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D9%8A-%D9%84%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%8A%D8%B5%D8%A7%D8%AF%D9%82-%D8%B9%D9%84%D9%89-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-%D9%88%D9%8A%D8%AD%D9%8A%D9%84%D9%87-%D8%A5%D9%84%D9%89-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-27T12:30:41+00:00",
+      "image": "./assets/news/122956750b86f407ec4ef6ab.jpg",
+      "original_image": "./assets/news/122956750b86f407ec4ef6ab.jpg",
+      "source_url": "https://www.alsumaria.tv/news/economy/577192/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D9%8A-%D9%84%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%8A%D8%B5%D8%A7%D8%AF%D9%82-%D8%B9%D9%84%D9%89-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-%D9%88%D9%8A%D8%AD%D9%8A%D9%84%D9%87-%D8%A5%D9%84%D9%89-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/676dd9c8775c.html"
+    },
+    {
+      "title": "عاجل: الحوثيون يعلنون مقتل 7 أشخاص وإصابة 40 \"إثر غارة سعودية على تعز\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cr5y5n3vvw4wo",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-27T12:25:56+00:00",
+      "image": "./assets/news/a446640ef09610497a56424a.jpg",
+      "original_image": "./assets/news/a446640ef09610497a56424a.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cr5y5n3vvw4wo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2de30affeca1.html"
+    },
     {
       "title": "مأدبة عشاء ترامب وشي \"أسوأ جزء في الجحيم\" - جولة الصحف - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cqvgyj3k7exzo",
@@ -23,8 +55,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-27T12:17:13+00:00",
-      "image": "./assets/news/8c32a7cfefa3323a996ae13d.jpg",
-      "original_image": "./assets/news/8c32a7cfefa3323a996ae13d.jpg",
+      "image": "./assets/news/0e2e49cd48d3d36d7176e0b1.jpg",
+      "original_image": "./assets/news/0e2e49cd48d3d36d7176e0b1.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577191/%D8%B3%D8%AA%D8%A7%D8%B1%D9%84%D9%8A%D9%86%D9%83-%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -32,22 +64,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5e1c8678609a.html"
-    },
-    {
-      "title": "\"الإصلاح ممكن\": ما الذي يساعدنا حقاً على إنقاذ علاقاتنا؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cmkg882er955o",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-27T12:00:57+00:00",
-      "image": "./assets/news/779f065d44d72aa69edec3be.jpg",
-      "original_image": "./assets/news/779f065d44d72aa69edec3be.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cmkg882er955o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/07f255c2b620.html"
     },
     {
       "title": "نائب يحذّر من تبعات إغلاق مطار النجف: شركات قد تطالب بالتعويضات",
@@ -384,22 +400,6 @@
       "report": false,
       "governorate": "ذي قار",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ff7d0695aac8.html"
-    },
-    {
-      "title": "الإطاحة بشبكة لتزوير السندات وتجريف الأراضي الزراعية في بغداد",
-      "url": "https://www.alsumaria.tv/news/security/577172/%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%AD%D8%A9-%D8%A8%D8%B4%D8%A8%D9%83%D8%A9-%D9%84%D8%AA%D8%B2%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D9%86%D8%AF%D8%A7%D8%AA-%D9%88%D8%AA%D8%AC%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "category": "محليات",
-      "region": "بغداد",
-      "published": "2026-09-27T08:37:35+00:00",
-      "image": "./assets/news/2d04cab9578e8a9b681351b2.jpg",
-      "original_image": "./assets/news/2d04cab9578e8a9b681351b2.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/577172/%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%AD%D8%A9-%D8%A8%D8%B4%D8%A8%D9%83%D8%A9-%D9%84%D8%AA%D8%B2%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D9%86%D8%AF%D8%A7%D8%AA-%D9%88%D8%AA%D8%AC%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9d92c6e20ebb.html"
     },
     {
       "title": "مسيّرة العسكر بـ 300 ألف دينار.. رجال الأعمال وجهاً لوجه مع المهندسين في بغداد",
