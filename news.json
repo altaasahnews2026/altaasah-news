@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T17:48:15.060601+00:00",
+  "updated_at": "2026-09-27T17:56:19.353922+00:00",
   "items": [
     {
       "title": "حصيلة اشتباكات كركوك.. مكافحة الإرهاب يعلن مقتل إرهابيين واعتقال ثالث",
@@ -32,6 +32,38 @@
       "report": false,
       "governorate": "كركوك",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/19ca7845861e.html"
+    },
+    {
+      "title": "خليجي 27.. قطر تتغلب على اليمن بصعوبة وتتصدر مجموعتها",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577234/sports/%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D9%82%D8%B7%D8%B1-%D8%AA%D8%AA%D8%BA%D9%84%D8%A8-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%A8%D8%B5%D8%B9%D9%88%D8%A8%D8%A9-%D9%88%D8%AA%D8%AA%D8%B5%D8%AF%D8%B1-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%AA%D9%87%D8%A7",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-27T17:49:19+00:00",
+      "image": "./assets/news/c93fa82ef6d014475d1069d7.jpg",
+      "original_image": "./assets/news/c93fa82ef6d014475d1069d7.jpg",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/577234/sports/%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D9%82%D8%B7%D8%B1-%D8%AA%D8%AA%D8%BA%D9%84%D8%A8-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%A8%D8%B5%D8%B9%D9%88%D8%A8%D8%A9-%D9%88%D8%AA%D8%AA%D8%B5%D8%AF%D8%B1-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%AA%D9%87%D8%A7",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a267d9c0543f.html"
+    },
+    {
+      "title": "إيران تعلن استهداف 19 سفينة حاولت عبور مضيق هرمز",
+      "url": "https://www.alsumaria.tv/news/international/577233/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-19-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AD%D8%A7%D9%88%D9%84%D8%AA-%D8%B9%D8%A8%D9%88%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-27T17:45:00+00:00",
+      "image": "./assets/news/2eaa48c5c0da6b68410e8dbf.png",
+      "original_image": "./assets/news/2eaa48c5c0da6b68410e8dbf.png",
+      "source_url": "https://www.alsumaria.tv/news/international/577233/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-19-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AD%D8%A7%D9%88%D9%84%D8%AA-%D8%B9%D8%A8%D9%88%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/09c85fbb730f.html"
     },
     {
       "title": "لأول مرة منذ 14 عامًا.. بُعد جديد يصل لعبة Minecraft في 2027",
@@ -71,8 +103,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-27T17:26:35+00:00",
-      "image": "./assets/news/bd659a64efb699255d2136bf.jpg",
-      "original_image": "./assets/news/bd659a64efb699255d2136bf.jpg",
+      "image": "./assets/news/e0b6ddc18f4fe7b38a8ea2db.jpg",
+      "original_image": "./assets/news/e0b6ddc18f4fe7b38a8ea2db.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577230/%D8%A7%D8%AE%D9%84%D8%A7%D8%A1-85-%D9%85%D9%86%D8%B2%D9%84%D8%A7-%D9%85%D9%86-%D8%B3%D8%A7%D9%83%D9%86%D9%8A%D9%87-%D9%81%D9%8A-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -400,38 +432,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e45f79d1b298.html"
-    },
-    {
-      "title": "النزاهة تكشف مخالفات وتلاعباً في تخصيص أراضٍ للشهداء والجرحى في بلدية الناصرية",
-      "url": "https://www.alsumaria.tv/news/localnews/577214/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A7%D8%AA-%D9%88%D8%AA%D9%84%D8%A7%D8%B9%D8%A8%D8%A7%D9%8B-%D9%81%D9%8A-%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8D-%D9%84%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D8%AC%D8%B1%D8%AD%D9%89-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D9%8A%D8%A9",
-      "category": "رياضة",
-      "region": "صلاح الدين",
-      "published": "2026-09-27T15:41:10+00:00",
-      "image": "./assets/news/d069564064632f8c537ff102.jpg",
-      "original_image": "./assets/news/d069564064632f8c537ff102.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577214/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A7%D8%AA-%D9%88%D8%AA%D9%84%D8%A7%D8%B9%D8%A8%D8%A7%D9%8B-%D9%81%D9%8A-%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8D-%D9%84%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D8%AC%D8%B1%D8%AD%D9%89-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D9%8A%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "صلاح الدين",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/166e1ecadb29.html"
-    },
-    {
-      "title": "السوداني يهنئ السومرية بذكرى تأسيسها",
-      "url": "https://www.alsumaria.tv/news/localnews/577213/%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D9%8A%D9%87%D9%86%D8%A6-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B0%D9%83%D8%B1%D9%89-%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3%D9%87%D8%A7",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-27T15:35:52+00:00",
-      "image": "./assets/news/f4edd55f61ae0fdf73a60bf0.webp",
-      "original_image": "./assets/news/f4edd55f61ae0fdf73a60bf0.webp",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577213/%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D9%8A%D9%87%D9%86%D8%A6-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B0%D9%83%D8%B1%D9%89-%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3%D9%87%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/67d250e4cc18.html"
     },
     {
       "title": "\"سخروا مني لأن والدي باكستاني\"، لاعب العراق زيدان إقبال يوجه رسالة لجماهير الكويت - شفق نيوز..",
