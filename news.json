@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T21:44:39.759967+00:00",
+  "updated_at": "2026-09-27T21:53:10.578248+00:00",
   "items": [
     {
       "title": "قتلى ومصابون بإطلاق نار داخل ناد ليلي في ديترويت",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/74659d04a704.html"
+    },
+    {
+      "title": "ترامب: سعر النفط سينخفض إلى مستويات ما قبل الحرب",
+      "url": "https://www.alsumaria.tv/news/international/577245/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B3%D9%8A%D9%86%D8%AE%D9%81%D8%B6-%D8%A5%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-27T21:46:00+00:00",
+      "image": "./assets/news/7a2c6742509ea1eea7a436cc.jpg",
+      "original_image": "./assets/news/7a2c6742509ea1eea7a436cc.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577245/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B3%D9%8A%D9%86%D8%AE%D9%81%D8%B6-%D8%A5%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/63ead1fac55d.html"
     },
     {
       "title": "اعتقال ثلاثة متهمين بالانتماء إلى داعش في السليمانية",
@@ -416,22 +432,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/80d757aad7a0.html"
-    },
-    {
-      "title": "المتحدث باسم الحكومة يهنئ السومرية بذكرى تأسيسها",
-      "url": "https://www.alsumaria.tv/news/localnews/577225/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A8%D8%A7%D8%B3%D9%85-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%8A%D9%87%D9%86%D8%A6-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B0%D9%83%D8%B1%D9%89-%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3%D9%87%D8%A7",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-27T16:44:22+00:00",
-      "image": "./assets/news/40ec811a7101cd2d43f2577d.jpg",
-      "original_image": "./assets/news/40ec811a7101cd2d43f2577d.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577225/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A8%D8%A7%D8%B3%D9%85-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%8A%D9%87%D9%86%D8%A6-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B0%D9%83%D8%B1%D9%89-%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3%D9%87%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/707b1c9e2bec.html"
     },
     {
       "title": "هل يمكنك تناول الأطعمة فائقة المعالجة مع الحفاظ على صحتك؟ - شفق نيوز..",
