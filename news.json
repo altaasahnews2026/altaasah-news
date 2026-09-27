@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T19:24:23.821995+00:00",
+  "updated_at": "2026-09-27T19:34:18.060084+00:00",
   "items": [
     {
       "title": "حصيلة اشتباكات كركوك.. مكافحة الإرهاب يعلن مقتل إرهابيين واعتقال ثالث",
@@ -18,6 +18,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4f7aeb258e61.html"
     },
     {
+      "title": "بلدية المنصور صارت أنيقة مثل المنصور وبغداد ستفخر بالأميرات.. وعد المديرة فاطمة",
+      "url": "https://964media.com/720773/",
+      "category": "محليات",
+      "region": "بغداد",
+      "published": "2026-09-27T19:16:33+00:00",
+      "image": "./assets/news/cd637c4557dad737d2b740ad.jpg",
+      "original_image": "./assets/news/cd637c4557dad737d2b740ad.jpg",
+      "source_url": "https://964media.com/720773/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a599c1bbfb3b.html"
+    },
+    {
       "title": "البرلمان الإيراني يعلن استكمال دراسة مشروع قانون تأمين مضيق هرمز",
       "url": "https://www.alsumaria.tv/news/international/577238/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
       "category": "سياسة",
@@ -32,6 +48,22 @@
       "report": true,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c735675c68be.html"
+    },
+    {
+      "title": "6 علب من مشروب الطاقة تنتهي بوفاة صبي عمره 13 عاماً في ديالى",
+      "url": "https://964media.com/720843/",
+      "category": "محليات",
+      "region": "ديالى",
+      "published": "2026-09-27T18:53:17+00:00",
+      "image": "./assets/news/5a693a5cc9c03c89c29df5b5.jpg",
+      "original_image": "./assets/news/5a693a5cc9c03c89c29df5b5.jpg",
+      "source_url": "https://964media.com/720843/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "ديالى",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/03de7a0fdc9e.html"
     },
     {
       "title": "الرئيس الصربي يعلن استقالته من منصبه",
@@ -55,8 +87,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-27T18:22:46+00:00",
-      "image": "./assets/news/2ee4addc542c761d59dae0c0.png",
-      "original_image": "./assets/news/2ee4addc542c761d59dae0c0.png",
+      "image": "./assets/news/ae48a326f8188bf6cbcfb541.png",
+      "original_image": "./assets/news/ae48a326f8188bf6cbcfb541.png",
       "source_url": "https://www.alsumaria.tv/news/localnews/577236/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%B5%D8%AF%D8%B1-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D9%81%D8%AA%D8%AD-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%B5%D9%88%D8%B5",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -464,22 +496,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/511fdd442c6d.html"
-    },
-    {
-      "title": "سب الذات الإلهية عبر بث مباشر.. شرطة بغداد تعتقل “تيك توكر” في الكرخ",
-      "url": "https://964media.com/720728/",
-      "category": "أمن",
-      "region": "بغداد",
-      "published": "2026-09-27T15:00:12+00:00",
-      "image": "./assets/news/ca8fea220fd74fc57b87bc15.jpg",
-      "original_image": "./assets/news/ca8fea220fd74fc57b87bc15.jpg",
-      "source_url": "https://964media.com/720728/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9f9e35483a6b.html"
     },
     {
       "title": "مكافحة الإرهاب يشتبك مع خلية انتحارية في كركوك.. قتيلان وثالث بقبضة الأمن",
