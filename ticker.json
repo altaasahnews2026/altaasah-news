@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T01:31:50.695713+00:00",
+  "updated_at": "2026-09-27T01:42:59.281363+00:00",
   "latest": [
     {
       "title": "كتلة السوداني تطالب بغداد بحوار مع واشنطن لاستثناء الطيران الإيراني من العقوبات",
@@ -27,20 +27,12 @@
       "title": "ترامب يرفض مقترح إيران بشأن هرمز، وطهران تنتظر موقف واشنطن النهائي عبر الوسطاء - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c8dx55lxe7r9o",
       "category": "عراق",
-      "published": "2026-09-26T22:43:02+00:00",
+      "published": "2026-09-27T01:23:54+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران",
         "أمريكا"
       ]
-    },
-    {
-      "title": "مقتل 11 شخصاً في هجوم بسيارة مفخخة استهدف نقطة أمنية شمال غربي باكستان - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cw1mvv8313gro",
-      "category": "عراق",
-      "published": "2026-09-26T15:22:57+00:00",
-      "breaking": true,
-      "watch_topics": []
     },
     {
       "title": "أكسيوس: عبور 60 مليون برميل نفط عبر هرمز خلال 72 ساعة",
@@ -133,6 +125,16 @@
       ]
     },
     {
+      "title": "قضايا الشرق الأوسط وأزمة هرمز تتصدر خطابات اليوم الخامس من المناقشة العامة للجمعية العامة للأمم المتحدة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c68044nzp0vzo",
+      "category": "عراق",
+      "published": "2026-09-27T01:13:40+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "شاهد.. لحظة وصول الزيدي إلى مطار بغداد قادماً من نيويورك",
       "url": "https://964media.com/720219/",
       "category": "عراق",
@@ -197,14 +199,6 @@
       "watch_topics": []
     },
     {
-      "title": "انقطاع الإنترنت والاتصالات في تيغراي وسط مخاوف حيال عودة الحرب الإثيوبية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cmn9wwzxy971o",
-      "category": "عراق",
-      "published": "2026-09-26T17:26:12+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "العراق يهزم الكويت ويتصدر مجموعته في خليجي 27",
       "url": "https://www.alsumaria.tv/Entertainment-News/577146/sports/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%87%D8%B2%D9%85-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D9%88%D9%8A%D8%AA%D8%B5%D8%AF%D8%B1-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%AA%D9%87-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
       "category": "عراق",
@@ -249,6 +243,14 @@
       "url": "https://964media.com/720430/",
       "category": "عراق",
       "published": "2026-09-26T18:50:44+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "أول تعليق لمدرب المنتخب العراقي بعد الفوز على الكويت",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577150/sports/%D8%A3%D9%88%D9%84-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D9%84%D9%85%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%81%D9%88%D8%B2-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
+      "category": "عراق",
+      "published": "2026-09-26T19:28:46+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -654,14 +656,6 @@
     }
   ],
   "breaking": [
-    {
-      "title": "مقتل 11 شخصاً في هجوم بسيارة مفخخة استهدف نقطة أمنية شمال غربي باكستان - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cw1mvv8313gro",
-      "category": "عراق",
-      "published": "2026-09-26T15:22:57+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
     {
       "title": "وزراء خارجية دول «اتفاقية مكة» يبحثون ترتيبات اجتماع عاجل لرؤساء الأركان",
       "url": "https://aawsat.com/node/5322361",
