@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T18:05:06.681994+00:00",
+  "updated_at": "2026-09-27T18:23:46.779266+00:00",
   "latest": [
     {
       "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
@@ -86,16 +86,6 @@
       "watch_topics": []
     },
     {
-      "title": "ترامب يقول إن خمسة مشتبه بهم خططوا لإلحاق \"ضرر كبير\" بقاعدة تستخدمها الولايات المتحدة في بريطانيا - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cmwyz9xkqeg1o",
-      "category": "عراق",
-      "published": "2026-09-27T16:01:31+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
       "title": "بالصور من جدة.. أسود الرافدين يستعدون لمواجهة السعودية في خليجي 27",
       "url": "https://www.alsumaria.tv/Entertainment-News/577227/sports/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%85%D9%86-%D8%AC%D8%AF%D8%A9-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF%D9%88%D9%86-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
       "category": "عراق",
@@ -103,6 +93,16 @@
       "breaking": false,
       "watch_topics": [
         "السعودية"
+      ]
+    },
+    {
+      "title": "ترامب يقول إن خمسة مشتبه بهم خططوا لإلحاق \"ضرر كبير\" بقاعدة تستخدمها الولايات المتحدة في بريطانيا - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cmwyz9xkqeg1o",
+      "category": "عراق",
+      "published": "2026-09-27T18:00:24+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
       ]
     },
     {
@@ -126,14 +126,6 @@
       "url": "https://964media.com/720645/",
       "category": "عراق",
       "published": "2026-09-27T10:52:23+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "سوريا تبدأ ضخ البنزين إلى العراق.. 57 صهريجاً يومياً عبر بانياس",
-      "url": "https://964media.com/720726/",
-      "category": "عراق",
-      "published": "2026-09-27T14:21:26+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -166,14 +158,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cm158j41n218o",
       "category": "عراق",
       "published": "2026-09-27T15:20:20+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "التعليم العالي تصدر تنويهاً يخص استمارة التقديم الى الجامعات",
-      "url": "https://www.alsumaria.tv/news/localnews/577215/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D9%86%D9%88%D9%8A%D9%87%D8%A7%D9%8B-%D9%8A%D8%AE%D8%B5-%D8%A7%D8%B3%D8%AA%D9%85%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D9%82%D8%AF%D9%8A%D9%85-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA",
-      "category": "عراق",
-      "published": "2026-09-27T15:45:33+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -238,6 +222,22 @@
       "url": "https://www.alsumaria.tv/news/localnews/577222/%D8%A7%D8%AC%D8%B1%D8%A7%D8%A1-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D8%AE%D8%B5-%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D8%B1%D8%A8%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D8%A7%D8%B1%D8%B3%D9%8A%D9%86",
       "category": "عراق",
       "published": "2026-09-27T16:29:05+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "اثنتان وتسعون جامعة وكلية عراقية في تصنيف (UI GreenMetric) لعام 2026",
+      "url": "https://www.alsumaria.tv/news/localnews/577224/%D8%A7%D8%AB%D9%86%D8%AA%D8%A7%D9%86-%D9%88%D8%AA%D8%B3%D8%B9%D9%88%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%88%D9%83%D9%84%D9%8A%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B5%D9%86%D9%8A%D9%81-ui-greenmetric-%D9%84%D8%B9%D8%A7%D9%85-2026",
+      "category": "عراق",
+      "published": "2026-09-27T16:39:36+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "المتحدث باسم الحكومة يهنئ السومرية بذكرى تأسيسها",
+      "url": "https://www.alsumaria.tv/news/localnews/577225/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A8%D8%A7%D8%B3%D9%85-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%8A%D9%87%D9%86%D8%A6-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B0%D9%83%D8%B1%D9%89-%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3%D9%87%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-27T16:44:22+00:00",
       "breaking": false,
       "watch_topics": []
     },
