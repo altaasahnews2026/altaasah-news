@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T23:44:57.640677+00:00",
+  "updated_at": "2026-09-27T23:53:25.621342+00:00",
   "latest": [
     {
       "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
@@ -471,6 +471,14 @@
       ]
     },
     {
+      "title": "بريطانيا تعتقل 5 بشبهة التخطيط لاستهداف قاعدة جوية",
+      "url": "https://aawsat.com/node/5323317",
+      "category": "دولي",
+      "published": "Mon, 28 Sep 2026 00:50:53 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "الشرطة البريطانية تعتقل 5 أشخاص بشبهة التخطيط لاستهداف قاعدة جوية",
       "url": "https://aawsat.com/node/5323219",
       "category": "دولي",
@@ -499,14 +507,6 @@
       "url": "https://aawsat.com/node/5323043",
       "category": "دولي",
       "published": "Sun, 27 Sep 2026 08:08:50 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "روسيا: استهداف سفينة شحن قرب ميناء أوديسا الأوكراني",
-      "url": "https://aawsat.com/node/5322921",
-      "category": "دولي",
-      "published": "Sat, 26 Sep 2026 16:46:59 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -748,6 +748,14 @@
       "watch_topics": []
     },
     {
+      "title": "بريطانيا تعتقل 5 بشبهة التخطيط لاستهداف قاعدة جوية",
+      "url": "https://aawsat.com/node/5323317",
+      "category": "دولي",
+      "published": "Mon, 28 Sep 2026 00:50:53 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "الشرطة البريطانية تعتقل 5 أشخاص بشبهة التخطيط لاستهداف قاعدة جوية",
       "url": "https://aawsat.com/node/5323219",
       "category": "دولي",
@@ -776,14 +784,6 @@
       "url": "https://aawsat.com/node/5323043",
       "category": "دولي",
       "published": "Sun, 27 Sep 2026 08:08:50 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "روسيا: استهداف سفينة شحن قرب ميناء أوديسا الأوكراني",
-      "url": "https://aawsat.com/node/5322921",
-      "category": "دولي",
-      "published": "Sat, 26 Sep 2026 16:46:59 +0100",
       "breaking": true,
       "watch_topics": []
     },
