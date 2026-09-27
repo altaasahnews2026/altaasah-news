@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T22:01:52.973891+00:00",
+  "updated_at": "2026-09-27T22:14:49.792158+00:00",
   "items": [
     {
       "title": "قتلى ومصابون بإطلاق نار داخل ناد ليلي في ديترويت",
@@ -7,8 +7,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-27T21:20:00+00:00",
-      "image": "./assets/news/e2d6058327f18222abf9255a.jpg",
-      "original_image": "./assets/news/e2d6058327f18222abf9255a.jpg",
+      "image": "./assets/news/ff485a766037c9015b294e93.jpg",
+      "original_image": "./assets/news/ff485a766037c9015b294e93.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577243/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D9%85%D8%B5%D8%A7%D8%A8%D9%88%D9%86-%D8%A8%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84-%D9%86%D8%A7%D8%AF-%D9%84%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%AF%D9%8A%D8%AA%D8%B1%D9%88%D9%8A%D8%AA",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -18,20 +18,20 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/74659d04a704.html"
     },
     {
-      "title": "ترامب: سعر النفط سينخفض إلى مستويات ما قبل الحرب",
-      "url": "https://www.alsumaria.tv/news/international/577245/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B3%D9%8A%D9%86%D8%AE%D9%81%D8%B6-%D8%A5%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8",
+      "title": "ترامب يتحدث عن سعر النفط واحتمال العودة للضربات على إيران",
+      "url": "https://www.alsumaria.tv/news/international/577245/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D9%84%D9%84%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "category": "اقتصاد",
       "region": "العراق",
       "published": "2026-09-27T21:46:00+00:00",
-      "image": "./assets/news/520af38f2bf68b47d2ff1354.jpg",
-      "original_image": "./assets/news/520af38f2bf68b47d2ff1354.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/577245/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B3%D9%8A%D9%86%D8%AE%D9%81%D8%B6-%D8%A5%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8",
+      "image": "./assets/news/854b75accbe7ad3998bf1b5f.jpg",
+      "original_image": "./assets/news/854b75accbe7ad3998bf1b5f.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577245/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D9%84%D9%84%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
       "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/63ead1fac55d.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e44d5330f6ac.html"
     },
     {
       "title": "اعتقال ثلاثة متهمين بالانتماء إلى داعش في السليمانية",
@@ -39,8 +39,8 @@
       "category": "أمن",
       "region": "السليمانية",
       "published": "2026-09-27T21:22:46+00:00",
-      "image": "./assets/news/1555c77044ac39680ba5d81f.jpg",
-      "original_image": "./assets/news/1555c77044ac39680ba5d81f.jpg",
+      "image": "./assets/news/5a4e2a482068c8e333fee1d3.jpg",
+      "original_image": "./assets/news/5a4e2a482068c8e333fee1d3.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/577244/%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%85%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%AF%D8%A7%D8%B9%D8%B4-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
