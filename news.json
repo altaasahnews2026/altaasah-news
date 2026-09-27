@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T19:00:40.893856+00:00",
+  "updated_at": "2026-09-27T19:11:42.343403+00:00",
   "items": [
     {
       "title": "حصيلة اشتباكات كركوك.. مكافحة الإرهاب يعلن مقتل إرهابيين واعتقال ثالث",
@@ -16,6 +16,38 @@
       "report": false,
       "governorate": "كركوك",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4f7aeb258e61.html"
+    },
+    {
+      "title": "البرلمان الإيراني يعلن استكمال دراسة مشروع قانون تأمين مضيق هرمز",
+      "url": "https://www.alsumaria.tv/news/international/577238/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-27T19:02:00+00:00",
+      "image": "./assets/news/3660cbc2e6aeb3c9a3b26df2.jpg",
+      "original_image": "./assets/news/3660cbc2e6aeb3c9a3b26df2.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577238/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c735675c68be.html"
+    },
+    {
+      "title": "6 علب من مشروب الطاقة تنتهي بوفاة صبي عمره 13 عاماً في ديالى",
+      "url": "https://964media.com/720843/",
+      "category": "محليات",
+      "region": "ديالى",
+      "published": "2026-09-27T18:53:17+00:00",
+      "image": "./assets/news/5a693a5cc9c03c89c29df5b5.jpg",
+      "original_image": "./assets/news/5a693a5cc9c03c89c29df5b5.jpg",
+      "source_url": "https://964media.com/720843/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "ديالى",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/03de7a0fdc9e.html"
     },
     {
       "title": "الرئيس الصربي يعلن استقالته من منصبه",
@@ -103,8 +135,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-27T17:49:19+00:00",
-      "image": "./assets/news/c93fa82ef6d014475d1069d7.jpg",
-      "original_image": "./assets/news/c93fa82ef6d014475d1069d7.jpg",
+      "image": "./assets/news/552b576c28a22de809182c75.jpg",
+      "original_image": "./assets/news/552b576c28a22de809182c75.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/577234/sports/%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D9%82%D8%B7%D8%B1-%D8%AA%D8%AA%D8%BA%D9%84%D8%A8-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%A8%D8%B5%D8%B9%D9%88%D8%A8%D8%A9-%D9%88%D8%AA%D8%AA%D8%B5%D8%AF%D8%B1-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%AA%D9%87%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -119,8 +151,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-27T17:45:00+00:00",
-      "image": "./assets/news/2eaa48c5c0da6b68410e8dbf.png",
-      "original_image": "./assets/news/2eaa48c5c0da6b68410e8dbf.png",
+      "image": "./assets/news/076c586b95973b6af677a4d6.png",
+      "original_image": "./assets/news/076c586b95973b6af677a4d6.png",
       "source_url": "https://www.alsumaria.tv/news/international/577233/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-19-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AD%D8%A7%D9%88%D9%84%D8%AA-%D8%B9%D8%A8%D9%88%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -434,22 +466,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fd7a186ea816.html"
     },
     {
-      "title": "أمين بغداد يعلن الدخول مجاناً إلى متنزه الزوراء خلال أيام عطلة السيادة",
-      "url": "https://www.alsumaria.tv/news/localnews/577218/%D8%A3%D9%85%D9%8A%D9%86-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D9%85%D8%AC%D8%A7%D9%86%D8%A7%D9%8B-%D8%A5%D9%84%D9%89-%D9%85%D8%AA%D9%86%D8%B2%D9%87-%D8%A7%D9%84%D8%B2%D9%88%D8%B1%D8%A7%D8%A1-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D9%8A%D8%A7%D9%85-%D8%B9%D8%B7%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
-      "category": "سياسة",
-      "region": "بغداد",
-      "published": "2026-09-27T16:06:45+00:00",
-      "image": "./assets/news/c28001bf6fe038c9522e164e.jpg",
-      "original_image": "./assets/news/c28001bf6fe038c9522e164e.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577218/%D8%A3%D9%85%D9%8A%D9%86-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D9%85%D8%AC%D8%A7%D9%86%D8%A7%D9%8B-%D8%A5%D9%84%D9%89-%D9%85%D8%AA%D9%86%D8%B2%D9%87-%D8%A7%D9%84%D8%B2%D9%88%D8%B1%D8%A7%D8%A1-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D9%8A%D8%A7%D9%85-%D8%B9%D8%B7%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2ce9a610a304.html"
-    },
-    {
       "title": "\"سخروا مني لأن والدي باكستاني\"، لاعب العراق زيدان إقبال يوجه رسالة لجماهير الكويت - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm158j41n218o",
       "category": "رياضة",
@@ -464,22 +480,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/511fdd442c6d.html"
-    },
-    {
-      "title": "سب الذات الإلهية عبر بث مباشر.. شرطة بغداد تعتقل “تيك توكر” في الكرخ",
-      "url": "https://964media.com/720728/",
-      "category": "أمن",
-      "region": "بغداد",
-      "published": "2026-09-27T15:00:12+00:00",
-      "image": "./assets/news/ca8fea220fd74fc57b87bc15.jpg",
-      "original_image": "./assets/news/ca8fea220fd74fc57b87bc15.jpg",
-      "source_url": "https://964media.com/720728/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9f9e35483a6b.html"
     },
     {
       "title": "مكافحة الإرهاب يشتبك مع خلية انتحارية في كركوك.. قتيلان وثالث بقبضة الأمن",
