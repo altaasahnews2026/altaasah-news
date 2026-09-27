@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T17:15:36.131015+00:00",
+  "updated_at": "2026-09-27T17:28:03.548657+00:00",
   "latest": [
     {
       "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
@@ -581,6 +581,14 @@
       ]
     },
     {
+      "title": "«العماليون» ينتظرون خطوطاً واضحة من بيرنهام في مؤتمرهم",
+      "url": "https://aawsat.com/node/5323216",
+      "category": "دولي",
+      "published": "Sun, 27 Sep 2026 18:24:17 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "السويسريون يصوِّتون برفض مبادرة لتشديد حياد بلادهم",
       "url": "https://aawsat.com/node/5323190",
       "category": "دولي",
@@ -625,14 +633,6 @@
       "url": "https://aawsat.com/node/5323101",
       "category": "دولي",
       "published": "Sun, 27 Sep 2026 12:25:22 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الشرطة البريطانية توقف 5 أشخاص للاشتباه في التخطيط لـ«عمل إرهابي»",
-      "url": "https://aawsat.com/node/5323054",
-      "category": "دولي",
-      "published": "Sun, 27 Sep 2026 09:10:49 +0100",
       "breaking": false,
       "watch_topics": []
     }
