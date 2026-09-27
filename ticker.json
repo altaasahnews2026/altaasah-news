@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T10:20:55.913501+00:00",
+  "updated_at": "2026-09-27T10:34:14.869571+00:00",
   "latest": [
     {
       "title": "إيران تنتظر رداً أمريكياً على مقترحها، وتتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
@@ -49,6 +49,16 @@
       "published": "2026-09-27T09:52:56+00:00",
       "breaking": true,
       "watch_topics": []
+    },
+    {
+      "title": "العراق ليس تابعاً.. غضب نيابي يطلب كشف “الجهة المجهولة” وراء منع طائرات إيران",
+      "url": "https://964media.com/720570/",
+      "category": "عراق",
+      "published": "2026-09-27T05:45:15+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
     },
     {
       "title": "قضايا الشرق الأوسط وأزمة هرمز تتصدر خطابات اليوم الخامس للجمعية العامة للأمم المتحدة - شفق نيوز..",
@@ -109,14 +119,6 @@
       "watch_topics": []
     },
     {
-      "title": "النزاهة تضبط متهماً في تقاعد الأنبار بتهمة الرشوة",
-      "url": "https://www.alsumaria.tv/news/localnews/577161/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%85%D8%AA%D9%87%D9%85%D8%A7%D9%8B-%D9%81%D9%8A-%D8%AA%D9%82%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7%D8%B1-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%B4%D9%88%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-27T06:01:11+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "السومرية تُطفئ شمعتها الـ22.. حكاية شاشة واكبت تحولات العراق",
       "url": "https://www.alsumaria.tv/news/localnews/577162/%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%AA%D9%8F%D8%B7%D9%81%D8%A6-%D8%B4%D9%85%D8%B9%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%8022-%D8%AD%D9%83%D8%A7%D9%8A%D8%A9-%D8%B4%D8%A7%D8%B4%D8%A9-%D9%88%D8%A7%D9%83%D8%A8%D8%AA-%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "category": "عراق",
@@ -161,14 +163,6 @@
       "url": "https://www.alsumaria.tv/news/localnews/577167/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%AD%D8%AF%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D8%B3%D8%AA%D9%85%D8%A7%D8%B1%D8%AA%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A",
       "category": "عراق",
       "published": "2026-09-27T07:28:27+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "5 وجهات سياحية نمت بسرعة العام الماضي، من بينها دولة عربية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cze0pz24r67o",
-      "category": "عراق",
-      "published": "2026-09-27T07:30:03+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -233,6 +227,14 @@
       "url": "https://www.alsumaria.tv/news/localnews/577173/%D9%85%D9%86-%D8%B3%D8%AC%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%86%D8%B2%D9%8A%D9%84-%D9%8A%D8%AD%D9%82%D9%82-6771-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A",
       "category": "عراق",
       "published": "2026-09-27T08:56:02+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "استشهاد امرأة ورصد حركة لعناصر داعش.. ماذا حدث في كركوك أمس؟",
+      "url": "https://www.alsumaria.tv/news/security/577174/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%B1%D8%B5%D8%AF-%D8%AD%D8%B1%D9%83%D8%A9-%D9%84%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D8%AF%D8%A7%D8%B9%D8%B4-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AD%D8%AF%D8%AB-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D8%A3%D9%85%D8%B3%D8%9F",
+      "category": "عراق",
+      "published": "2026-09-27T09:07:54+00:00",
       "breaking": false,
       "watch_topics": []
     },

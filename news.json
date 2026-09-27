@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-09-27T10:20:51.038367+00:00",
+  "updated_at": "2026-09-27T10:34:09.104022+00:00",
   "items": [
+    {
+      "title": "مجلس القضاء الأعلى يهنئ السومرية بذكرى تأسيسها الـ22",
+      "url": "https://www.alsumaria.tv/news/alsumariaspecial/577181/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%8A%D9%87%D9%86%D8%A6-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B0%D9%83%D8%B1%D9%89-%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3%D9%87%D8%A7-%D8%A7%D9%84%D9%8022",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-27T10:27:06+00:00",
+      "image": "./assets/news/729e95e081f01a82b56012af.jpg",
+      "original_image": "./assets/news/729e95e081f01a82b56012af.jpg",
+      "source_url": "https://www.alsumaria.tv/news/alsumariaspecial/577181/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%8A%D9%87%D9%86%D8%A6-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B0%D9%83%D8%B1%D9%89-%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3%D9%87%D8%A7-%D8%A7%D9%84%D9%8022",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0e89c3fb9e44.html"
+    },
+    {
+      "title": "5 وجهات سياحية نمت بسرعة العام الماضي، من بينها دولة عربية - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cze0pz24r67o",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-27T10:12:44+00:00",
+      "image": "./assets/news/aad0d14a0de301a850530765.jpg",
+      "original_image": "./assets/news/aad0d14a0de301a850530765.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cze0pz24r67o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/eeff8ae1c2c5.html"
+    },
     {
       "title": "المجاري تواصل تنفيذ مشروع شبكات الصرف الصحي في ناحية كبيسة",
       "url": "https://www.alsumaria.tv/news/localnews/577180/%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D8%B1%D9%8A-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A-%D9%81%D9%8A-%D9%86%D8%A7%D8%AD%D9%8A%D8%A9-%D9%83%D8%A8%D9%8A%D8%B3%D8%A9",
@@ -258,22 +290,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c44861a3328f.html"
     },
     {
-      "title": "5 وجهات سياحية نمت بسرعة العام الماضي، من بينها دولة عربية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cze0pz24r67o",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-27T07:30:03+00:00",
-      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cze0pz24r67o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a7abdca7f819.html"
-    },
-    {
       "title": "التعليم تحدد موعد إطلاق استمارتي الموازي والأهلي",
       "url": "https://www.alsumaria.tv/news/localnews/577167/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%AD%D8%AF%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D8%B3%D8%AA%D9%85%D8%A7%D8%B1%D8%AA%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A",
       "category": "محليات",
@@ -402,20 +418,20 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/54b1e1a629e2.html"
     },
     {
-      "title": "النزاهة تضبط متهماً في تقاعد الأنبار بتهمة الرشوة",
-      "url": "https://www.alsumaria.tv/news/localnews/577161/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%85%D8%AA%D9%87%D9%85%D8%A7%D9%8B-%D9%81%D9%8A-%D8%AA%D9%82%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7%D8%B1-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%B4%D9%88%D8%A9",
-      "category": "محليات",
-      "region": "الأنبار",
-      "published": "2026-09-27T06:01:11+00:00",
-      "image": "./assets/news/d069564064632f8c537ff102.jpg",
-      "original_image": "./assets/news/d069564064632f8c537ff102.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577161/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%85%D8%AA%D9%87%D9%85%D8%A7%D9%8B-%D9%81%D9%8A-%D8%AA%D9%82%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7%D8%B1-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%B4%D9%88%D8%A9",
-      "source_name": "السومرية نيوز",
+      "title": "العراق ليس تابعاً.. غضب نيابي يطلب كشف “الجهة المجهولة” وراء منع طائرات إيران",
+      "url": "https://964media.com/720570/",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-27T05:45:15+00:00",
+      "image": "./assets/news/ad29f8121ade2ff1189d0174.jpg",
+      "original_image": "./assets/news/ad29f8121ade2ff1189d0174.jpg",
+      "source_url": "https://964media.com/720570/",
+      "source_name": "شبكة 964",
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "governorate": "الأنبار",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a7f9e42a1bdf.html"
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4f2ca6860e7c.html"
     },
     {
       "title": "ترامب يرفض مقترح إيران بشأن هرمز، وطهران تنتظر موقف واشنطن النهائي عبر الوسطاء - شفق نيوز..",
