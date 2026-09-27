@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T01:42:59.281363+00:00",
+  "updated_at": "2026-09-27T01:53:33.035470+00:00",
   "latest": [
     {
       "title": "كتلة السوداني تطالب بغداد بحوار مع واشنطن لاستثناء الطيران الإيراني من العقوبات",
@@ -539,6 +539,16 @@
       ]
     },
     {
+      "title": "وزير الخزانة الأميركي يؤكد نجاح إجراءاته في عزل إيران اقتصادياً",
+      "url": "https://aawsat.com/node/5323014",
+      "category": "دولي",
+      "published": "Sun, 27 Sep 2026 02:43:00 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "اختراق بيانات «البنتاغون» يكشف معلومات شخصية لعسكريين ويثير مخاوف أمنية",
       "url": "https://aawsat.com/node/5322835",
       "category": "دولي",
@@ -643,14 +653,6 @@
       "url": "https://aawsat.com/node/5322853",
       "category": "دولي",
       "published": "Sat, 26 Sep 2026 14:06:04 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "600 ألف مُصَلٍّ في باريس... حشود ضخمة لحضور قداس البابا ليو",
-      "url": "https://aawsat.com/node/5322846",
-      "category": "دولي",
-      "published": "Sat, 26 Sep 2026 13:42:15 +0100",
       "breaking": false,
       "watch_topics": []
     }
