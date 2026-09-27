@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-27T11:41:29.474395+00:00",
+  "updated_at": "2026-09-27T11:50:39.812806+00:00",
   "items": [
+    {
+      "title": "نائب يحذّر من تبعات إغلاق مطار النجف: شركات قد تطالب بالتعويضات",
+      "url": "https://www.alsumaria.tv/news/localnews/577190/%D9%86%D8%A7%D8%A6%D8%A8-%D9%8A%D8%AD%D8%B0%D9%91%D8%B1-%D9%85%D9%86-%D8%AA%D8%A8%D8%B9%D8%A7%D8%AA-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D9%82%D8%AF-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D9%88%D9%8A%D8%B6%D8%A7%D8%AA",
+      "category": "سياسة",
+      "region": "النجف",
+      "published": "2026-09-27T11:42:22+00:00",
+      "image": "./assets/news/53eb16eb3be9e20d7e15b59b.jpg",
+      "original_image": "./assets/news/53eb16eb3be9e20d7e15b59b.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577190/%D9%86%D8%A7%D8%A6%D8%A8-%D9%8A%D8%AD%D8%B0%D9%91%D8%B1-%D9%85%D9%86-%D8%AA%D8%A8%D8%B9%D8%A7%D8%AA-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D9%82%D8%AF-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D9%88%D9%8A%D8%B6%D8%A7%D8%AA",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "النجف",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/190c5bf737dd.html"
+    },
     {
       "title": "المالية تُحيل مشروع الموازنة الاتحادية لعام 2027 إلى المجلس الوزاري للاقتصاد",
       "url": "https://www.alsumaria.tv/news/economy/577189/%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D9%8F%D8%AD%D9%8A%D9%84-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%86%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%D9%8A%D8%A9-%D9%84%D8%B9%D8%A7%D9%85-2027-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D9%8A-%D9%84%D9%84",
@@ -384,22 +400,6 @@
       "report": false,
       "governorate": "بابل",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b4527f6b3694.html"
-    },
-    {
-      "title": "اندلاع حريق بعدد من عربات الباعة المتجولين في الباب الشرقي",
-      "url": "https://www.alsumaria.tv/news/localnews/577170/%D8%A7%D9%86%D8%AF%D9%84%D8%A7%D8%B9-%D8%AD%D8%B1%D9%8A%D9%82-%D8%A8%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%B9%D8%B1%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D9%88%D9%84%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-27T08:10:49+00:00",
-      "image": "./assets/news/ca9c4ceab37aa9e14630eded.jpg",
-      "original_image": "./assets/news/ca9c4ceab37aa9e14630eded.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577170/%D8%A7%D9%86%D8%AF%D9%84%D8%A7%D8%B9-%D8%AD%D8%B1%D9%8A%D9%82-%D8%A8%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%B9%D8%B1%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D9%88%D9%84%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6256d657b1ea.html"
     },
     {
       "title": "دولار العراق يعود إلى 155 ألفاً.. أسعار الصرف في بغداد وأربيل والبصرة",
