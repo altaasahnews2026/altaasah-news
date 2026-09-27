@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T10:54:47.198348+00:00",
+  "updated_at": "2026-09-27T11:03:25.748555+00:00",
   "latest": [
     {
       "title": "إيران تنتظر رداً أمريكياً على مقترحها، وتتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
@@ -51,14 +51,20 @@
       "watch_topics": []
     },
     {
-      "title": "قضايا الشرق الأوسط وأزمة هرمز تتصدر خطابات اليوم الخامس للجمعية العامة للأمم المتحدة - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c68044nzp0vzo",
+      "title": "هاونات الجيش تقتل امرأة بالخطأ خلال استهداف عنصرين لداعش في كركوك",
+      "url": "https://964media.com/720626/",
       "category": "عراق",
-      "published": "2026-09-27T06:17:52+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
+      "published": "2026-09-27T10:35:15+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "التربية تحدد موعدًا جديدًا لانطلاق العام الدراسي – عاجل",
+      "url": "https://www.alsumaria.tv/news/localnews/577185/%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%ad%d8%af%d8%af-%d9%85%d9%88%d8%b9%d8%af%d9%8b%d8%a7-%d8%ac%d8%af%d9%8a%d8%af%d9%8b%d8%a7-%d9%84%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a-%e2%80%93?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Sun, 27 Sep 2026 11:01:31 GMT",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "الإصابات تضرب السعودية قبل مواجهة العراق في خليجي 27",
@@ -68,6 +74,16 @@
       "breaking": false,
       "watch_topics": [
         "السعودية"
+      ]
+    },
+    {
+      "title": "قضايا الشرق الأوسط وأزمة هرمز تتصدر خطابات اليوم الخامس للجمعية العامة للأمم المتحدة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c68044nzp0vzo",
+      "category": "عراق",
+      "published": "2026-09-27T10:54:16+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
       ]
     },
     {
@@ -135,26 +151,10 @@
       "watch_topics": []
     },
     {
-      "title": "تفاصيل عن قرعة الحج الالكترونية.. اختيار المشمولين لاربعة اعوام قادمة",
-      "url": "https://www.alsumaria.tv/news/localnews/577164/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%B9%D9%86-%D9%82%D8%B1%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D8%AC-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B4%D9%85%D9%88%D9%84%D9%8A%D9%86-%D9%84%D8%A7%D8%B1%D8%A8%D8%B9%D8%A9-%D8%A7%D8%B9%D9%88%D8%A7%D9%85-%D9%82%D8%A7%D8%AF%D9%85%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-27T07:01:51+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "الحرارة تنخفض عدة درجات.. اجواء مائلة للبرودة بدءا من الغد",
       "url": "https://www.alsumaria.tv/news/localnews/577165/%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%AA%D9%86%D8%AE%D9%81%D8%B6-%D8%B9%D8%AF%D8%A9-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D8%AC%D9%88%D8%A7%D8%A1-%D9%85%D8%A7%D8%A6%D9%84%D8%A9-%D9%84%D9%84%D8%A8%D8%B1%D9%88%D8%AF%D8%A9-%D8%A8%D8%AF%D8%A1%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%AF",
       "category": "عراق",
       "published": "2026-09-27T07:05:48+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بينها محاولة انتحار سورية.. احداث امنية شهدتها بغداد اليوم",
-      "url": "https://www.alsumaria.tv/news/security/577166/%D8%A8%D9%8A%D9%86%D9%87%D8%A7-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D8%B4%D9%87%D8%AF%D8%AA%D9%87%D8%A7-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
-      "category": "عراق",
-      "published": "2026-09-27T07:24:40+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -306,6 +306,16 @@
       "watch_topics": []
     },
     {
+      "title": "أسلحة حوثية - إيرانية تهدد الطيران المدني",
+      "url": "https://aawsat.com/node/5323096",
+      "category": "مشرق أوسط",
+      "published": "Sun, 27 Sep 2026 11:59:09 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "الرياض تجمع السلمان وطارق صالح لترتيب الجبهات اليمنية",
       "url": "https://aawsat.com/node/5323011",
       "category": "مشرق أوسط",
@@ -416,6 +426,14 @@
       ]
     },
     {
+      "title": "«شعلة سبتمبر» تتحدى قبضة الحوثيين في إب",
+      "url": "https://aawsat.com/node/5323093",
+      "category": "مشرق أوسط",
+      "published": "Sun, 27 Sep 2026 11:55:56 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "«حماس»: نرفض أن يكون الدم الفلسطيني وقوداً للانتخابات الإسرائيلية",
       "url": "https://aawsat.com/node/5322973",
       "category": "مشرق أوسط",
@@ -436,22 +454,6 @@
       "url": "https://aawsat.com/node/5322892",
       "category": "مشرق أوسط",
       "published": "Sat, 26 Sep 2026 16:04:10 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "معارك جبال تعز تعاظم تكلفة التمدد الحوثي إلى باب المندب",
-      "url": "https://aawsat.com/node/5322842",
-      "category": "مشرق أوسط",
-      "published": "Sat, 26 Sep 2026 13:29:56 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الحكومة اليمنية تحشد دعماً دولياً لمواجهة الأزمة الإنسانية",
-      "url": "https://aawsat.com/node/5322821",
-      "category": "مشرق أوسط",
-      "published": "Sat, 26 Sep 2026 12:14:49 +0100",
       "breaking": false,
       "watch_topics": []
     },
@@ -664,6 +666,22 @@
       "url": "https://www.alsumaria.tv/news/alsumariaspecial/577178/%D8%A8%D8%B0%D9%83%D8%B1%D9%89-%D8%A7%D9%84%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%8A%D8%B4%D9%8A%D8%AF-%D8%A8%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D9%88%D8%AD%D8%B1%D8%B5%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D9%86%D9%82%D9%84-%D8%B5%D9%88%D8%AA-%D8%A7",
       "category": "عراق",
       "published": "2026-09-27T09:52:56+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "هاونات الجيش تقتل امرأة بالخطأ خلال استهداف عنصرين لداعش في كركوك",
+      "url": "https://964media.com/720626/",
+      "category": "عراق",
+      "published": "2026-09-27T10:35:15+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "التربية تحدد موعدًا جديدًا لانطلاق العام الدراسي – عاجل",
+      "url": "https://www.alsumaria.tv/news/localnews/577185/%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%ad%d8%af%d8%af-%d9%85%d9%88%d8%b9%d8%af%d9%8b%d8%a7-%d8%ac%d8%af%d9%8a%d8%af%d9%8b%d8%a7-%d9%84%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a-%e2%80%93?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Sun, 27 Sep 2026 11:01:31 GMT",
       "breaking": true,
       "watch_topics": []
     },
