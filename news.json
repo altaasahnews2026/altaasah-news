@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T22:14:49.792158+00:00",
+  "updated_at": "2026-09-27T22:28:40.834166+00:00",
   "items": [
     {
       "title": "قتلى ومصابون بإطلاق نار داخل ناد ليلي في ديترويت",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/74659d04a704.html"
+    },
+    {
+      "title": "السلطات الهولندية تفتش ركاب طائرة إسرائيلية",
+      "url": "https://www.alsumaria.tv/news/international/577246/%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D9%88%D9%84%D9%86%D8%AF%D9%8A%D8%A9-%D8%AA%D9%81%D8%AA%D8%B4-%D8%B1%D9%83%D8%A7%D8%A8-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-27T22:24:00+00:00",
+      "image": "./assets/news/61576e1a3c43f7442b3787eb.jpg",
+      "original_image": "./assets/news/61576e1a3c43f7442b3787eb.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577246/%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D9%88%D9%84%D9%86%D8%AF%D9%8A%D8%A9-%D8%AA%D9%81%D8%AA%D8%B4-%D8%B1%D9%83%D8%A7%D8%A8-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/34ddaf23839b.html"
     },
     {
       "title": "ترامب يتحدث عن سعر النفط واحتمال العودة للضربات على إيران",
@@ -416,22 +432,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4833e5920649.html"
-    },
-    {
-      "title": "واشنطن: قاعدة فيرفورد منصة مهمة لانطلاق المهام العسكرية ضد ايران",
-      "url": "https://www.alsumaria.tv/news/international/577226/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D9%81%D9%8A%D8%B1%D9%81%D9%88%D8%B1%D8%AF-%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D9%87%D9%85%D8%A9-%D9%84%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D9%87%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-27T16:52:01+00:00",
-      "image": "./assets/news/7da85af5ef7102292bd07a09.webp",
-      "original_image": "./assets/news/7da85af5ef7102292bd07a09.webp",
-      "source_url": "https://www.alsumaria.tv/news/international/577226/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D9%81%D9%8A%D8%B1%D9%81%D9%88%D8%B1%D8%AF-%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D9%87%D9%85%D8%A9-%D9%84%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D9%87%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/80d757aad7a0.html"
     },
     {
       "title": "هل يمكنك تناول الأطعمة فائقة المعالجة مع الحفاظ على صحتك؟ - شفق نيوز..",
