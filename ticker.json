@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T06:19:50.783191+00:00",
+  "updated_at": "2026-09-27T06:38:27.892745+00:00",
   "latest": [
     {
       "title": "كتلة السوداني تطالب بغداد بحوار مع واشنطن لاستثناء الطيران الإيراني من العقوبات",
@@ -32,16 +32,6 @@
       "watch_topics": [
         "إيران",
         "أمريكا"
-      ]
-    },
-    {
-      "title": "السعودية تؤكد دعمها للعراق في ملف حصر السلاح",
-      "url": "https://www.alsumaria.tv/news/international/577143/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%A4%D9%83%D8%AF-%D8%AF%D8%B9%D9%85%D9%87%D8%A7-%D9%84%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%81%D9%8A-%D9%85%D9%84%D9%81-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD",
-      "category": "عراق",
-      "published": "2026-09-26T16:50:45+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
       ]
     },
     {
@@ -95,20 +85,20 @@
       ]
     },
     {
-      "title": "قضايا الشرق الأوسط وأزمة هرمز تتصدر خطابات اليوم الخامس من المناقشة العامة للجمعية العامة للأمم المتحدة - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c68044nzp0vzo",
+      "title": "العراق ليس تابعاً.. غضب نيابي يطلب كشف “الجهة المجهولة” وراء منع طائرات إيران",
+      "url": "https://964media.com/720570/",
       "category": "عراق",
-      "published": "2026-09-27T01:13:40+00:00",
+      "published": "2026-09-27T05:45:15+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
       ]
     },
     {
-      "title": "العراق ليس تابعاً.. غضب نيابي يطلب كشف “الجهة المجهولة” وراء منع طائرات إيران",
-      "url": "https://964media.com/720570/",
+      "title": "قضايا الشرق الأوسط وأزمة هرمز تتصدر خطابات اليوم الخامس للجمعية العامة للأمم المتحدة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c68044nzp0vzo",
       "category": "عراق",
-      "published": "2026-09-27T05:45:15+00:00",
+      "published": "2026-09-27T06:17:52+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
@@ -143,14 +133,6 @@
       "url": "https://964media.com/720282/",
       "category": "عراق",
       "published": "2026-09-26T14:10:26+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الاتحاد الأوروبي يحذر من أزمة طاقة ويدعو لخفض استهلاك الغاز",
-      "url": "https://www.alsumaria.tv/news/international/577142/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A3%D8%B2%D9%85%D8%A9-%D8%B7%D8%A7%D9%82%D8%A9-%D9%88%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D8%AE%D9%81%D8%B6-%D8%A7%D8%B3%D8%AA%D9%87%D9%84%D8%A7%D9%83-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2",
-      "category": "عراق",
-      "published": "2026-09-26T16:48:18+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -247,6 +229,22 @@
       "url": "https://964media.com/720556/",
       "category": "عراق",
       "published": "2026-09-26T21:05:55+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "بعد تصويت اللاعبين، أيرلندا تخوض مباراتها أمام إسرائيل - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqdj44pde0k7o",
+      "category": "عراق",
+      "published": "2026-09-26T21:13:08+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "مجلس الوزراء يتخذ قرارات عدة بينها يتعلق بمتطلبات الامتحانات العامة",
+      "url": "https://www.alsumaria.tv/news/politics/577155/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%AA%D8%AE%D8%B0-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D9%86%D9%87%D8%A7-%D9%8A%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-26T21:15:46+00:00",
       "breaking": false,
       "watch_topics": []
     },
