@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T17:56:23.246864+00:00",
+  "updated_at": "2026-09-27T18:05:06.681994+00:00",
   "latest": [
     {
       "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
@@ -20,6 +20,16 @@
       "breaking": true,
       "watch_topics": [
         "أمريكا"
+      ]
+    },
+    {
+      "title": "جماعة أنصار الله تقول إن غارة سعودية قتلت وأصابت العشرات، والحكومة المعترف بها تعلن مقتل خبراء إيرانيين - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cr5y5n3vvw4wo",
+      "category": "عراق",
+      "published": "2026-09-27T17:35:47+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
       ]
     },
     {
@@ -60,14 +70,6 @@
       "watch_topics": []
     },
     {
-      "title": "جماعة أنصار الله الحوثية تقول إن غارة سعودية استهدفت سوقاً في تعز قتلت وأصابت العشرات - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cr5y5n3vvw4wo",
-      "category": "عراق",
-      "published": "2026-09-27T15:45:26+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "بالصور.. جثث الانتحاريين ومكان الاشتباك في كركوك",
       "url": "https://www.alsumaria.tv/news/security/577217/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%AC%D8%AB%D8%AB-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1%D9%8A%D9%8A%D9%86-%D9%88%D9%85%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83",
       "category": "عراق",
@@ -104,14 +106,6 @@
       ]
     },
     {
-      "title": "تفاصيل الاتفاق العراقي الكويتي: لجنة عليا وآلية رصد لوقف خطاب الكراهية",
-      "url": "https://964media.com/720327/",
-      "category": "عراق",
-      "published": "2026-09-26T11:56:19+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "غضب بين دوارة كركوك: أغلقتم أربيل فهل تذهب الستوتات إلى كربلاء والحلة؟",
       "url": "https://964media.com/720282/",
       "category": "عراق",
@@ -132,14 +126,6 @@
       "url": "https://964media.com/720645/",
       "category": "عراق",
       "published": "2026-09-27T10:52:23+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "النجباء تحشد العشائر وأصحاب المواكب إلى اعتصام مفتوح أمام مطار النجف",
-      "url": "https://964media.com/720720/",
-      "category": "عراق",
-      "published": "2026-09-27T14:04:20+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -236,6 +222,22 @@
       "url": "https://964media.com/720776/",
       "category": "عراق",
       "published": "2026-09-27T16:25:49+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "هل يمكنك تناول الأطعمة فائقة المعالجة مع الحفاظ على صحتك؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ckvgydp69jreo",
+      "category": "عراق",
+      "published": "2026-09-27T16:25:53+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "اجراء جديد من التربية يخص الطلبة المتسربين والدارسين",
+      "url": "https://www.alsumaria.tv/news/localnews/577222/%D8%A7%D8%AC%D8%B1%D8%A7%D8%A1-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D8%AE%D8%B5-%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D8%B1%D8%A8%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%AF%D8%A7%D8%B1%D8%B3%D9%8A%D9%86",
+      "category": "عراق",
+      "published": "2026-09-27T16:29:05+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -656,6 +658,16 @@
       ]
     },
     {
+      "title": "جماعة أنصار الله تقول إن غارة سعودية قتلت وأصابت العشرات، والحكومة المعترف بها تعلن مقتل خبراء إيرانيين - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cr5y5n3vvw4wo",
+      "category": "عراق",
+      "published": "2026-09-27T17:35:47+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "إيران تعلن استهداف 19 سفينة حاولت عبور مضيق هرمز",
       "url": "https://www.alsumaria.tv/news/international/577233/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-19-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AD%D8%A7%D9%88%D9%84%D8%AA-%D8%B9%D8%A8%D9%88%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
       "category": "عراق",
@@ -678,14 +690,6 @@
       "url": "https://964media.com/720626/",
       "category": "عراق",
       "published": "2026-09-27T10:35:15+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "جماعة أنصار الله الحوثية تقول إن غارة سعودية استهدفت سوقاً في تعز قتلت وأصابت العشرات - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cr5y5n3vvw4wo",
-      "category": "عراق",
-      "published": "2026-09-27T15:45:26+00:00",
       "breaking": true,
       "watch_topics": []
     },
