@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T17:38:33.402201+00:00",
+  "updated_at": "2026-09-27T17:48:19.863715+00:00",
   "latest": [
     {
       "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
@@ -23,14 +23,13 @@
       ]
     },
     {
-      "title": "إيران: مستعدون للحرب أو الدبلوماسية.. الخيار متروك لترامب",
-      "url": "https://www.alsumaria.tv/news/international/577212/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%B3%D8%AA%D8%B9%D8%AF%D9%88%D9%86-%D9%84%D9%84%D8%AD%D8%B1%D8%A8-%D8%A3%D9%88-%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D8%B1-%D9%85%D8%AA%D8%B1%D9%88%D9%83-%D9%84%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
+      "title": "إيران تعلن استهداف 19 سفينة حاولت عبور مضيق هرمز",
+      "url": "https://www.alsumaria.tv/news/international/577233/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d8%b9%d9%84%d9%86-%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-19-%d8%b3%d9%81%d9%8a%d9%86%d8%a9-%d8%ad%d8%a7%d9%88%d9%84%d8%aa-%d8%b9%d8%a8%d9%88%d8%b1-%d9%85%d8%b6%d9%8a%d9%82-%d9%87%d8%b1%d9%85%d8%b2?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
       "category": "عراق",
-      "published": "2026-09-27T15:21:41+00:00",
-      "breaking": false,
+      "published": "Sun, 27 Sep 2026 17:45:00 GMT",
+      "breaking": true,
       "watch_topics": [
-        "إيران",
-        "أمريكا"
+        "إيران"
       ]
     },
     {
@@ -468,6 +467,14 @@
       ]
     },
     {
+      "title": "الشرطة البريطانية تعتقل 5 أشخاص بشبهة التخطيط لاستهداف قاعدة جوية",
+      "url": "https://aawsat.com/node/5323219",
+      "category": "دولي",
+      "published": "Sun, 27 Sep 2026 18:38:34 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "أوكرانيا تنقل 4 أطنان من الغذاء بمسيّرة إلى مدينة أوليشكي المحاصرة",
       "url": "https://aawsat.com/node/5323206",
       "category": "دولي",
@@ -624,14 +631,6 @@
       "published": "Sun, 27 Sep 2026 14:26:26 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "الضربات الروسية على كييف تستهدف متاجر التسوّق",
-      "url": "https://aawsat.com/node/5323101",
-      "category": "دولي",
-      "published": "Sun, 27 Sep 2026 12:25:22 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -654,6 +653,16 @@
       "breaking": true,
       "watch_topics": [
         "أمريكا"
+      ]
+    },
+    {
+      "title": "إيران تعلن استهداف 19 سفينة حاولت عبور مضيق هرمز",
+      "url": "https://www.alsumaria.tv/news/international/577233/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d8%b9%d9%84%d9%86-%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-19-%d8%b3%d9%81%d9%8a%d9%86%d8%a9-%d8%ad%d8%a7%d9%88%d9%84%d8%aa-%d8%b9%d8%a8%d9%88%d8%b1-%d9%85%d8%b6%d9%8a%d9%82-%d9%87%d8%b1%d9%85%d8%b2?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Sun, 27 Sep 2026 17:45:00 GMT",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
       ]
     },
     {
@@ -757,6 +766,14 @@
       "url": "https://aawsat.com/node/5320672",
       "category": "مشرق أوسط",
       "published": "Mon, 21 Sep 2026 04:46:16 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "الشرطة البريطانية تعتقل 5 أشخاص بشبهة التخطيط لاستهداف قاعدة جوية",
+      "url": "https://aawsat.com/node/5323219",
+      "category": "دولي",
+      "published": "Sun, 27 Sep 2026 18:38:34 +0100",
       "breaking": true,
       "watch_topics": []
     },
