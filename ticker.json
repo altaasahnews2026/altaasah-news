@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T15:22:34.518422+00:00",
+  "updated_at": "2026-09-27T15:35:31.896931+00:00",
   "latest": [
     {
       "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
@@ -592,6 +592,14 @@
       ]
     },
     {
+      "title": "روسيا تضرب مقر أكبر مزود لخدمات الهاتف المحمول في أوكرانيا",
+      "url": "https://aawsat.com/node/5323181",
+      "category": "دولي",
+      "published": "Sun, 27 Sep 2026 16:28:20 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "السويسريون يرفضون في استفتاء مشروعاً لتعزيز حياد بلادهم",
       "url": "https://aawsat.com/node/5323153",
       "category": "دولي",
@@ -628,14 +636,6 @@
       "url": "https://aawsat.com/node/5323054",
       "category": "دولي",
       "published": "Sun, 27 Sep 2026 09:10:49 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "هجمات روسية تستهدف مدينة أوديسا الساحلية الأوكرانية",
-      "url": "https://aawsat.com/node/5323013",
-      "category": "دولي",
-      "published": "Sun, 27 Sep 2026 01:42:52 +0100",
       "breaking": false,
       "watch_topics": []
     }
