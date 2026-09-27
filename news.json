@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T15:08:06.108619+00:00",
+  "updated_at": "2026-09-27T15:22:29.461312+00:00",
   "items": [
     {
       "title": "بعد اشتباكات مسلحة.. احباط تفجيرين بحزامين ناسفين في كركوك",
@@ -18,13 +18,45 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e5cf299e3d65.html"
     },
     {
+      "title": "ترامب: أفكر في استئناف الضربات على إيران باستمرار",
+      "url": "https://www.alsumaria.tv/news/international/577211/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A3%D9%81%D9%83%D8%B1-%D9%81%D9%8A-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%A7%D9%84%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-27T15:11:54+00:00",
+      "image": "./assets/news/192f92cc09f61eaa6687f0b0.jpg",
+      "original_image": "./assets/news/192f92cc09f61eaa6687f0b0.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577211/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A3%D9%81%D9%83%D8%B1-%D9%81%D9%8A-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%A7%D9%84%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6af505ea0804.html"
+    },
+    {
+      "title": "سب الذات الإلهية عبر بث مباشر.. شرطة بغداد تعتقل “تيك توكر” في الكرخ",
+      "url": "https://964media.com/720728/",
+      "category": "أمن",
+      "region": "بغداد",
+      "published": "2026-09-27T15:00:12+00:00",
+      "image": "./assets/news/ca8fea220fd74fc57b87bc15.jpg",
+      "original_image": "./assets/news/ca8fea220fd74fc57b87bc15.jpg",
+      "source_url": "https://964media.com/720728/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9f9e35483a6b.html"
+    },
+    {
       "title": "العراق وسوريا يتفقان على 8 قضايا تخص الحركة التجارية في المنافذ الحدودية",
       "url": "https://www.alsumaria.tv/news/localnews/577210/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D8%AA%D9%81%D9%82%D8%A7%D9%86-%D8%B9%D9%84%D9%89-8-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D8%AA%D8%AE%D8%B5-%D8%A7%D9%84%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF",
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-27T14:57:18+00:00",
-      "image": "./assets/news/f6be5fbff098a6ce25e39222.jpg",
-      "original_image": "./assets/news/f6be5fbff098a6ce25e39222.jpg",
+      "image": "./assets/news/9aaa9edcfaeea855bc391fb8.jpg",
+      "original_image": "./assets/news/9aaa9edcfaeea855bc391fb8.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577210/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D8%AA%D9%81%D9%82%D8%A7%D9%86-%D8%B9%D9%84%D9%89-8-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D8%AA%D8%AE%D8%B5-%D8%A7%D9%84%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -464,22 +496,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e9abc14a4d34.html"
-    },
-    {
-      "title": "ستارلينك رسمية في العراق.. هيئة الإعلام: الخدمة قانونية والسيطرة على البيانات كاملة",
-      "url": "https://www.alsumaria.tv/news/localnews/577191/%D8%B3%D8%AA%D8%A7%D8%B1%D9%84%D9%8A%D9%86%D9%83-%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D9%8A",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-27T12:17:13+00:00",
-      "image": "./assets/news/8c32a7cfefa3323a996ae13d.jpg",
-      "original_image": "./assets/news/8c32a7cfefa3323a996ae13d.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577191/%D8%B3%D8%AA%D8%A7%D8%B1%D9%84%D9%8A%D9%86%D9%83-%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5e1c8678609a.html"
     },
     {
       "title": "نزاهة بغداد تضبط مديراً في شركة التأمين أثناء تسلمه الرشوة",
