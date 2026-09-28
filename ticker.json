@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T23:53:25.621342+00:00",
+  "updated_at": "2026-09-28T00:00:23.505617+00:00",
   "latest": [
     {
       "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
@@ -300,16 +300,6 @@
       "watch_topics": []
     },
     {
-      "title": "أسلحة حوثية - إيرانية تهدد الطيران المدني",
-      "url": "https://aawsat.com/node/5323096",
-      "category": "مشرق أوسط",
-      "published": "Sun, 27 Sep 2026 11:59:09 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "الملك محمد السادس: أمن واستقرار السعودية جزء لا يتجزأ من أمن المغرب",
       "url": "https://aawsat.com/node/5323192",
       "category": "مشرق أوسط",
@@ -420,42 +410,50 @@
       ]
     },
     {
-      "title": "ضربات جوية وبرية تستنزف الحوثيين في تعز",
-      "url": "https://aawsat.com/node/5323315",
+      "title": "من المدينة إلى العالم... جهود سعودية متواصلة لتعزيز الحصانة الفكرية للأجيال",
+      "url": "https://aawsat.com/node/5323294",
       "category": "مشرق أوسط",
-      "published": "Mon, 28 Sep 2026 00:43:20 +0100",
+      "published": "Sun, 27 Sep 2026 23:47:03 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "جيبوتي تحت ضغوط «اضطرابات الجوار»",
-      "url": "https://aawsat.com/node/5323237",
+      "title": "وزير الدفاع السعودي يستعرض مع نظيره الماليزي آفاق التعاون الدفاعي",
+      "url": "https://aawsat.com/node/5323172",
       "category": "مشرق أوسط",
-      "published": "Sun, 27 Sep 2026 19:42:33 +0100",
+      "published": "Sun, 27 Sep 2026 16:01:05 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "فرار قراصنة صوماليين وسط شبهات بتسهيل الشرطة هروبهم",
-      "url": "https://aawsat.com/node/5323175",
+      "title": "«إغاثي الملك سلمان» يسيّر 40 شاحنة مساعدات جديدة لـ5 ولايات سودانية",
+      "url": "https://aawsat.com/node/5323160",
       "category": "مشرق أوسط",
-      "published": "Sun, 27 Sep 2026 16:16:35 +0100",
+      "published": "Sun, 27 Sep 2026 15:29:53 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "جبهات تعز تستنزف الحوثيين وتطارد تعزيزاتهم",
-      "url": "https://aawsat.com/node/5323112",
+      "title": "إشادة أممية بالدور الإنساني للسعودية وجهودها في دعم اللاجئين",
+      "url": "https://aawsat.com/node/5323104",
       "category": "مشرق أوسط",
-      "published": "Sun, 27 Sep 2026 13:16:01 +0100",
+      "published": "Sun, 27 Sep 2026 12:40:54 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "قطاع الصحة في اليمن تحت ضغط التصعيد الحوثي",
-      "url": "https://aawsat.com/node/5323103",
+      "title": "بن فرحان يبحث مع غوتيريش المستجدات الإقليمية والدولية",
+      "url": "https://aawsat.com/node/5323017",
       "category": "مشرق أوسط",
-      "published": "Sun, 27 Sep 2026 12:40:41 +0100",
+      "published": "Sun, 27 Sep 2026 04:40:30 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "رفض سعودي لإساءة استخدام الممرات الحيوية",
+      "url": "https://aawsat.com/node/5323009",
+      "category": "مشرق أوسط",
+      "published": "Sun, 27 Sep 2026 00:05:56 +0100",
       "breaking": false,
       "watch_topics": []
     },
