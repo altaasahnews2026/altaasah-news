@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T20:32:25.516352+00:00",
+  "updated_at": "2026-09-28T20:47:09.561969+00:00",
   "items": [
     {
       "title": "دوي انفجار في جزيرة قشم جنوبي إيران",
@@ -34,6 +34,70 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/731e6ff968a2.html"
     },
     {
+      "title": "أسبوع الجمعية العامة للأمم المتحدة: غزة وإيران والسودان وأوكرانيا في صدارة الملفات - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c8e3r6rgznnko",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-28T20:32:54+00:00",
+      "image": "./assets/news/9d4e47f7ea731ac8bba81a0c.jpg",
+      "original_image": "./assets/news/9d4e47f7ea731ac8bba81a0c.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c8e3r6rgznnko",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9ef830c18b84.html"
+    },
+    {
+      "title": "معلومات جديدة عن طائرات إيران في النجف.. المحافظ اتصل ببغداد مرتين “وأصر على الحظر”",
+      "url": "https://964media.com/721110/",
+      "category": "عربي ودولي",
+      "region": "بغداد",
+      "published": "2026-09-28T20:30:31+00:00",
+      "image": "./assets/news/a6a27f3361e6a1bc96734c80.jpg",
+      "original_image": "./assets/news/a6a27f3361e6a1bc96734c80.jpg",
+      "source_url": "https://964media.com/721110/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/44b576a3c19a.html"
+    },
+    {
+      "title": "مسؤول أمريكي بشأن الاتفاق مع إيران: مشروط بمعالجة الملف النووي",
+      "url": "https://www.alsumaria.tv/news/international/577422/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%B4%D8%B1%D9%88%D8%B7-%D8%A8%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-28T20:30:00+00:00",
+      "image": "./assets/news/4ec16619ab170f908106171d.jpg",
+      "original_image": "./assets/news/4ec16619ab170f908106171d.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577422/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%B4%D8%B1%D9%88%D8%B7-%D8%A8%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0fe27f9f013c.html"
+    },
+    {
+      "title": "شرطة بغداد تسبق احتفالات أيام السيادة بحملة لتفتيش المقاهي والكافيهات",
+      "url": "https://964media.com/721159/",
+      "category": "أمن",
+      "region": "بغداد",
+      "published": "2026-09-28T20:19:11+00:00",
+      "image": "./assets/news/4f668d15f954e6bb128335e4.jpg",
+      "original_image": "./assets/news/4f668d15f954e6bb128335e4.jpg",
+      "source_url": "https://964media.com/721159/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bcceb5168948.html"
+    },
+    {
       "title": "قارئ نقوش بابل والعباسيين المعتقل في الموصل.. سيرة علمية للدكتور عامر الجميلي",
       "url": "https://964media.com/721127/",
       "category": "محليات",
@@ -48,22 +112,6 @@
       "report": false,
       "governorate": "نينوى",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/016cd1b9b5a6.html"
-    },
-    {
-      "title": "أسبوع الجمعية العامة للأمم المتحدة: غزة وإيران والسودان وأوكرانيا في صدارة الملفات - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c8e3r6rgznnko",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-28T20:00:59+00:00",
-      "image": "./assets/news/9d4e47f7ea731ac8bba81a0c.jpg",
-      "original_image": "./assets/news/9d4e47f7ea731ac8bba81a0c.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c8e3r6rgznnko",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8f9dbb0b0c50.html"
     },
     {
       "title": "كتائب حزب الله تحذر من استمرار الحصار الجوي على إيران",
@@ -87,8 +135,8 @@
       "category": "محليات",
       "region": "بغداد",
       "published": "2026-09-28T19:42:01+00:00",
-      "image": "./assets/news/cb9b9da59fe36f3d5a50829f.jpg",
-      "original_image": "./assets/news/cb9b9da59fe36f3d5a50829f.jpg",
+      "image": "./assets/news/a5a375cd36650799940e8100.jpg",
+      "original_image": "./assets/news/a5a375cd36650799940e8100.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577419/%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1-%D8%B4%D8%A7%D8%A8-%D8%AF%D8%A7%D8%AE%D9%84-%D9%85%D9%86%D8%B2%D9%84%D9%87-%D8%AC%D9%86%D9%88%D8%A8-%D8%B4%D8%B1%D9%82%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -258,22 +306,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b2ab00a324b5.html"
     },
     {
-      "title": "ترامب يفكر باستثناء مطار النجف من الحظر ولكن بشرط: الرحلات عبر الخطوط العراقية فقط",
-      "url": "https://964media.com/721092/",
-      "category": "محليات",
-      "region": "النجف",
-      "published": "2026-09-28T17:32:41+00:00",
-      "image": "./assets/news/dd05e98d23525bfc058ac8f1.jpg",
-      "original_image": "./assets/news/dd05e98d23525bfc058ac8f1.jpg",
-      "source_url": "https://964media.com/721092/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "النجف",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2b15f562c492.html"
-    },
-    {
       "title": "الذهب يتراجع أكثر من 4% للمرة الأولى منذ اب الماضي",
       "url": "https://www.alsumaria.tv/news/economy/577413/%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-4-%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%85%D9%86%D8%B0-%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A",
       "category": "اقتصاد",
@@ -434,22 +466,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/19c14f43db0d.html"
     },
     {
-      "title": "التشكيلة الرسمية لمنتخبنا الأولمبي لمواجهة صربيا ودياً",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577402/sports/%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8%D9%86%D8%A7-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%B5%D8%B1%D8%A8%D9%8A%D8%A7-%D9%88%D8%AF%D9%8A%D8%A7%D9%8B",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-28T16:08:10+00:00",
-      "image": "./assets/news/e99f48ae20659fa663877fc4.jpg",
-      "original_image": "./assets/news/e99f48ae20659fa663877fc4.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/577402/sports/%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8%D9%86%D8%A7-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%B5%D8%B1%D8%A8%D9%8A%D8%A7-%D9%88%D8%AF%D9%8A%D8%A7%D9%8B",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1084524420dd.html"
-    },
-    {
       "title": "بي بي سي في قلب مدينة يمنية على خط المواجهة الأمامي حيث تحاول جماعة أنصار الله الحوثية السيطرة عليها - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c95y4ned8dejo",
       "category": "محليات",
@@ -544,22 +560,6 @@
       "report": false,
       "governorate": "كركوك",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a4bec1674004.html"
-    },
-    {
-      "title": "فيديو: جهاز مكافحة الإرهاب يشتبك مع عناصر داعش في آلتون كوبري",
-      "url": "https://964media.com/720735/",
-      "category": "أمن",
-      "region": "كركوك",
-      "published": "2026-09-27T14:34:52+00:00",
-      "image": "./assets/news/c623e20b07973455dc8732af.jpg",
-      "original_image": "./assets/news/c623e20b07973455dc8732af.jpg",
-      "source_url": "https://964media.com/720735/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": true,
-      "report": false,
-      "governorate": "كركوك",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/95b125872409.html"
     }
   ]
 }
