@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T22:57:08.404079+00:00",
+  "updated_at": "2026-09-28T23:06:35.124269+00:00",
   "items": [
     {
       "title": "سوريا.. حريق بخط غاز في دير الزور جراء انفجار",
@@ -48,6 +48,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/731e6ff968a2.html"
+    },
+    {
+      "title": "ترامب ينفي تقديم عرض بتخفيف العقوبات على إيران، وعراقجي في انتظار رد واشنطن \"النهائي\" الثلاثاء - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cmlye0z22pxxo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-28T22:48:41+00:00",
+      "image": "./assets/news/9d9526da864b4fdf136fa98e.jpg",
+      "original_image": "./assets/news/9d9526da864b4fdf136fa98e.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cmlye0z22pxxo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ab22e760b445.html"
     },
     {
       "title": "ترامب ينفي عزمه تخفيف العقوبات على إيران",
@@ -242,22 +258,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/001f6b3fa051.html"
     },
     {
-      "title": "ترامب يقول إن الولايات المتحدة \"ستنتصر قريباً جداً\"، وخامئني يتوعد \"بخروج القوات الأمريكية من بحر العرب\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cmlye0z22pxxo",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-28T19:14:25+00:00",
-      "image": "./assets/news/86cac8c0e44bc246d2dcf35a.jpg",
-      "original_image": "./assets/news/86cac8c0e44bc246d2dcf35a.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cmlye0z22pxxo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/db69513031db.html"
-    },
-    {
       "title": "ترامب: سننتصر بحرب إيران وفريقنا التفاوضي أجرى محادثات غير مباشرة",
       "url": "https://www.alsumaria.tv/news/international/577418/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B3%D9%86%D9%86%D8%AA%D8%B5%D8%B1-%D8%A8%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D9%81%D8%B1%D9%8A%D9%82%D9%86%D8%A7-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%B6%D9%8A-%D8%A3%D8%AC%D8%B1%D9%89-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%BA%D9%8A%D8%B1-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9",
       "category": "عربي ودولي",
@@ -295,8 +295,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-28T18:21:16+00:00",
-      "image": "./assets/news/a8e76720ecb397dacfcd06f6.jpg",
-      "original_image": "./assets/news/a8e76720ecb397dacfcd06f6.jpg",
+      "image": "./assets/news/a6bc72d89347e1531847cb13.jpg",
+      "original_image": "./assets/news/a6bc72d89347e1531847cb13.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/577417/sports/%D8%A3%D9%88%D9%84-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D9%85%D9%86-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D8%A8%D8%B9%D8%AF-%D9%81%D9%88%D8%B2-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC",
       "source_name": "السومرية نيوز",
       "breaking": false,
