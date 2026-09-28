@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T01:10:21.895305+00:00",
+  "updated_at": "2026-09-28T01:24:03.695717+00:00",
   "items": [
     {
       "title": "قتلى ومصابون بإطلاق نار داخل ناد ليلي في ديترويت",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/74659d04a704.html"
+    },
+    {
+      "title": "ترامب يتوقع استئناف المحادثات مع إيران هذا الأسبوع رغم رفضه مقترحها لفتح هرمز - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqm2m6n86jgmo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-28T00:52:22+00:00",
+      "image": "./assets/news/1033d66e207372de730f5ad5.jpg",
+      "original_image": "./assets/news/1033d66e207372de730f5ad5.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cqm2m6n86jgmo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9a1e1e664440.html"
     },
     {
       "title": "جماعة أنصار الله تقول إن غارة سعودية قتلت وأصابت العشرات، والحكومة المعترف بها تعلن مقتل خبراء إيرانيين - شفق نيوز..",
@@ -272,22 +288,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fccbea9518bc.html"
-    },
-    {
-      "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqm2m6n86jgmo",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-27T18:11:18+00:00",
-      "image": "./assets/news/1033d66e207372de730f5ad5.jpg",
-      "original_image": "./assets/news/1033d66e207372de730f5ad5.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cqm2m6n86jgmo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/204d86de0b9e.html"
     },
     {
       "title": "خليجي 27.. قطر تتغلب على اليمن بصعوبة وتتصدر مجموعتها",

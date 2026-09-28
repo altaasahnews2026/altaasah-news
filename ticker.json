@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-09-28T01:10:25.714014+00:00",
+  "updated_at": "2026-09-28T01:24:07.736283+00:00",
   "latest": [
-    {
-      "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqm2m6n86jgmo",
-      "category": "عراق",
-      "published": "2026-09-27T18:11:18+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
-    },
     {
       "title": "إيران تعلن استهداف 19 سفينة حاولت عبور مضيق هرمز",
       "url": "https://www.alsumaria.tv/news/international/577233/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-19-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AD%D8%A7%D9%88%D9%84%D8%AA-%D8%B9%D8%A8%D9%88%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
@@ -37,6 +26,17 @@
       "url": "https://www.alsumaria.tv/news/international/577245/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D9%84%D9%84%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "category": "عراق",
       "published": "2026-09-27T21:46:00+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "ترامب يتوقع استئناف المحادثات مع إيران هذا الأسبوع رغم رفضه مقترحها لفتح هرمز - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqm2m6n86jgmo",
+      "category": "عراق",
+      "published": "2026-09-28T00:52:22+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران",
@@ -579,7 +579,7 @@
       ]
     },
     {
-      "title": "فرنسا: اليمين المتطرف يعلن حصوله على أصوات كافية لتشكيل تكتل في مجلس الشيوخ",
+      "title": "فرنسا: اليمين المتطرف يعزّز مقاعده في مجلس الشيوخ",
       "url": "https://aawsat.com/node/5323293",
       "category": "دولي",
       "published": "Sun, 27 Sep 2026 23:46:27 +0100",
@@ -636,17 +636,6 @@
     }
   ],
   "breaking": [
-    {
-      "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqm2m6n86jgmo",
-      "category": "عراق",
-      "published": "2026-09-27T18:11:18+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
-    },
     {
       "title": "إيران تعلن استهداف 19 سفينة حاولت عبور مضيق هرمز",
       "url": "https://www.alsumaria.tv/news/international/577233/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-19-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AD%D8%A7%D9%88%D9%84%D8%AA-%D8%B9%D8%A8%D9%88%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
