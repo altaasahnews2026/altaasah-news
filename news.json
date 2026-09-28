@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T21:47:40.540111+00:00",
+  "updated_at": "2026-09-28T21:57:49.033641+00:00",
   "items": [
     {
       "title": "دوي انفجار في جزيرة قشم جنوبي إيران",
@@ -34,13 +34,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/731e6ff968a2.html"
     },
     {
+      "title": "ترامب ينفي عزمه تخفيف العقوبات على إيران",
+      "url": "https://www.alsumaria.tv/news/international/577425/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%86%D9%81%D9%8A-%D8%B9%D8%B2%D9%85%D9%87-%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-28T21:47:08+00:00",
+      "image": "./assets/news/e527316daa40f579a3164e21.jpg",
+      "original_image": "./assets/news/e527316daa40f579a3164e21.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577425/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%86%D9%81%D9%8A-%D8%B9%D8%B2%D9%85%D9%87-%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bba221123666.html"
+    },
+    {
       "title": "السعودية وأمريكا تؤكدان أهمية أمن الملاحة في هرمز وباب المندب",
       "url": "https://www.alsumaria.tv/news/international/577424/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%AA%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%A9-%D9%81%D9%8A-%D9%87%D8%B1%D9%85%D8%B2-%D9%88%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%A8",
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-28T21:35:00+00:00",
-      "image": "./assets/news/55f2cc41ea6e881ef8f47bc7.jpg",
-      "original_image": "./assets/news/55f2cc41ea6e881ef8f47bc7.jpg",
+      "image": "./assets/news/0ec345a65d1a17016f4e4e91.jpg",
+      "original_image": "./assets/news/0ec345a65d1a17016f4e4e91.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577424/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%AA%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%A9-%D9%81%D9%8A-%D9%87%D8%B1%D9%85%D8%B2-%D9%88%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%A8",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -448,22 +464,6 @@
       "report": false,
       "governorate": "النجف",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fb8ac69259ae.html"
-    },
-    {
-      "title": "واشنطن: ترامب مستعد لتخفيف العقوبات على إيران والإفراج عن أصولها المجمدة",
-      "url": "https://www.alsumaria.tv/news/international/577405/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%85%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A3%D8%B5%D9%88%D9%84%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%AF",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-28T16:26:49+00:00",
-      "image": "./assets/news/2b8c2943a4dfa52efe031949.jpg",
-      "original_image": "./assets/news/2b8c2943a4dfa52efe031949.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/577405/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%85%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A3%D8%B5%D9%88%D9%84%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%AF",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4dca4dc73bc6.html"
     },
     {
       "title": "بي بي سي في قلب مدينة يمنية على خط المواجهة الأمامي حيث تحاول جماعة أنصار الله الحوثية السيطرة عليها - شفق نيوز..",
