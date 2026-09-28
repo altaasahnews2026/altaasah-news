@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T17:31:36.298921+00:00",
+  "updated_at": "2026-09-28T17:45:38.650716+00:00",
   "items": [
     {
       "title": "روسيا.. قتلى وجرحى في حريق بمصنع للألعاب النارية",
@@ -32,6 +32,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7f4e339e2679.html"
+    },
+    {
+      "title": "بالصور.. أسود الرافدين يستعدون لمواجهة السعودية غداً في خليجي 27",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577414/sports/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF%D9%88%D9%86-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%BA%D8%AF%D8%A7%D9%8B-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-28T17:40:00+00:00",
+      "image": "./assets/news/2d81eec9174c891201c8b546.jpg",
+      "original_image": "./assets/news/2d81eec9174c891201c8b546.jpg",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/577414/sports/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF%D9%88%D9%86-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%BA%D8%AF%D8%A7%D9%8B-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b2ab00a324b5.html"
     },
     {
       "title": "الذهب يتراجع أكثر من 4% للمرة الأولى منذ اب الماضي",
@@ -354,22 +370,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bafb4b58145a.html"
     },
     {
-      "title": "التعليم تحدد موعد افتتاح الدكتوراه الطبية.. اليكم آلية التقديم",
-      "url": "https://www.alsumaria.tv/news/localnews/577394/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%AD%D8%AF%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1%D8%A7%D9%87-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D9%8A%D9%83%D9%85-%D8%A2%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%82%D8%AF%D9%8A%D9%85",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-28T15:32:54+00:00",
-      "image": "./assets/news/76587588bcde0496d931d863.webp",
-      "original_image": "./assets/news/76587588bcde0496d931d863.webp",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577394/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%AD%D8%AF%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1%D8%A7%D9%87-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D9%8A%D9%83%D9%85-%D8%A2%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%82%D8%AF%D9%8A%D9%85",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5cab1efd59fb.html"
-    },
-    {
       "title": "اعتقال أجنبي في الديوانية مع اثنين عراقيين بحوزتهم 1.5 كغم من الكريستال",
       "url": "https://964media.com/721047/",
       "category": "أمن",
@@ -432,22 +432,6 @@
       "report": false,
       "governorate": "البصرة",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cbc6653b538c.html"
-    },
-    {
-      "title": "خليجي 28 في بغداد أو البصرة.. درجال: الاستضافة تأكيد على قدرة العراق",
-      "url": "https://964media.com/721015/",
-      "category": "محليات",
-      "region": "بغداد",
-      "published": "2026-09-28T12:48:31+00:00",
-      "image": "./assets/news/a219c02d7dd276092f90a5c8.jpg",
-      "original_image": "./assets/news/a219c02d7dd276092f90a5c8.jpg",
-      "source_url": "https://964media.com/721015/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5945aa019970.html"
     },
     {
       "title": "\"لم يبق إلا القليل من قادة الخليج المعولين على الدعم الأمريكي المعتاد\" - مقال في الأوبزرفر - شفق نيوز..",
