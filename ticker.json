@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T01:49:22.595021+00:00",
+  "updated_at": "2026-09-28T01:59:00.002499+00:00",
   "latest": [
     {
       "title": "إيران تعلن استهداف 19 سفينة حاولت عبور مضيق هرمز",
@@ -410,16 +410,6 @@
       ]
     },
     {
-      "title": "سيول: تصريح الرئيس حول عدم التدخل في الحرب ليس رفضاً لطلب ترمب بشأن هرمز",
-      "url": "https://aawsat.com/node/5320075",
-      "category": "مشرق أوسط",
-      "published": "Sat, 19 Sep 2026 10:15:12 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "ضربات جوية وبرية تستنزف الحوثيين في تعز",
       "url": "https://aawsat.com/node/5323315",
       "category": "مشرق أوسط",
@@ -456,6 +446,14 @@
       "url": "https://aawsat.com/node/5323103",
       "category": "مشرق أوسط",
       "published": "Sun, 27 Sep 2026 12:40:41 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "«شعلة سبتمبر» تتحدى قبضة الحوثيين في إب",
+      "url": "https://aawsat.com/node/5323093",
+      "category": "مشرق أوسط",
+      "published": "Sun, 27 Sep 2026 11:55:56 +0100",
       "breaking": false,
       "watch_topics": []
     },
