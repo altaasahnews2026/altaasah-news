@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-28T11:50:40.832640+00:00",
+  "updated_at": "2026-09-28T12:00:22.452012+00:00",
   "items": [
+    {
+      "title": "صافرة هولندية لمباراة العراق والسعودية في خليجي 27",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577372/sports/%D8%B5%D8%A7%D9%81%D8%B1%D8%A9-%D9%87%D9%88%D9%84%D9%86%D8%AF%D9%8A%D8%A9-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-28T11:50:00+00:00",
+      "image": "./assets/news/b1fb8ee38edabea5c1aaff05.webp",
+      "original_image": "./assets/news/b1fb8ee38edabea5c1aaff05.webp",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/577372/sports/%D8%B5%D8%A7%D9%81%D8%B1%D8%A9-%D9%87%D9%88%D9%84%D9%86%D8%AF%D9%8A%D8%A9-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5cf71a827b6c.html"
+    },
     {
       "title": "طهران تنفي وجود محادثات مقررة مع واشنطن، وأنباء عن إصابة ثمانية من \"المارينز\" في هجوم إيراني - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cmlye0z22pxxo",
@@ -432,38 +448,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1184184e619d.html"
-    },
-    {
-      "title": "ارتفاع طفيف لأسعار صرف الدولار في بورصات العراق اليوم الاثنين",
-      "url": "https://964media.com/720931/",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-28T08:23:08+00:00",
-      "image": "./assets/news/7bd1aac8ca1ef29aefdda019.jpg",
-      "original_image": "./assets/news/7bd1aac8ca1ef29aefdda019.jpg",
-      "source_url": "https://964media.com/720931/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c8b355fcf462.html"
-    },
-    {
-      "title": "نفس أسعار الأمس.. الدولار في السوق العراقية اليوم",
-      "url": "https://www.alsumaria.tv/news/economy/577316/%D9%86%D9%81%D8%B3-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-28T07:51:04+00:00",
-      "image": "./assets/news/09dac375a57e24a5d8cbf18f.jpg",
-      "original_image": "./assets/news/09dac375a57e24a5d8cbf18f.jpg",
-      "source_url": "https://www.alsumaria.tv/news/economy/577316/%D9%86%D9%81%D8%B3-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/196ef4cbdd06.html"
     },
     {
       "title": "استعادة أكثر من 80 قطعة أثرية وفنية هربت خارج العراق",
