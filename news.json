@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T13:08:27.718879+00:00",
+  "updated_at": "2026-09-28T13:25:49.870587+00:00",
   "items": [
     {
       "title": "الخطابي: كربلاء الأولى على المحافظات في نقل ملكية أراضي مبادرة المليون قطعة",
@@ -7,8 +7,8 @@
       "category": "محليات",
       "region": "كربلاء",
       "published": "2026-09-28T12:56:22+00:00",
-      "image": "./assets/news/d1bd79cc421d69db14c89136.jpg",
-      "original_image": "./assets/news/d1bd79cc421d69db14c89136.jpg",
+      "image": "./assets/news/a241855170dc6c7f1ce21d6e.jpg",
+      "original_image": "./assets/news/a241855170dc6c7f1ce21d6e.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577376/%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8%D9%8A-%D9%83%D8%B1%D8%A8%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D9%81%D9%8A-%D9%86%D9%82%D9%84-%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D9%88%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -226,7 +226,7 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a2b66dcc83a3.html"
     },
     {
-      "title": "الإمارات والجزائر والسودان والبحرين بين المتحدثين أمام الجمعية العامة، واجتماع لمجلس الأمن بخصوص القضية الفلسطينية - شفق نيوز..",
+      "title": "الإمارات والجزائر والسودان بين المتحدثين أمام الجمعية العامة، واجتماع لمجلس الأمن بخصوص القضية الفلسطينية - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cvrl6y15d91rt",
       "category": "أمن",
       "region": "العراق",
@@ -239,7 +239,7 @@
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/efd5131cabf5.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/327630b0c90a.html"
     },
     {
       "title": "إيران تتقدم بشكوى إلى منظمة الطيران المدني الدولي في شأن العقوبات الأميركية",
@@ -608,22 +608,6 @@
       "report": false,
       "governorate": "كركوك",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1db0add39808.html"
-    },
-    {
-      "title": "مسيّرة العسكر بـ 300 ألف دينار.. رجال الأعمال وجهاً لوجه مع المهندسين في بغداد",
-      "url": "https://964media.com/720455/",
-      "category": "أمن",
-      "region": "بغداد",
-      "published": "2026-09-27T07:06:13+00:00",
-      "image": "./assets/news/b6133bac1be3edf1c9569346.jpg",
-      "original_image": "./assets/news/b6133bac1be3edf1c9569346.jpg",
-      "source_url": "https://964media.com/720455/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9419ed172cf2.html"
     }
   ]
 }
