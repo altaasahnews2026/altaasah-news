@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T17:45:38.650716+00:00",
+  "updated_at": "2026-09-28T17:57:14.010969+00:00",
   "items": [
     {
       "title": "روسيا.. قتلى وجرحى في حريق بمصنع للألعاب النارية",
@@ -34,6 +34,38 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7f4e339e2679.html"
     },
     {
+      "title": "مصدر يوضح بشان السماح للخطوط الجوية العراقية السفر الى ايران",
+      "url": "https://www.alsumaria.tv/news/localnews/577416/%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%88%D8%B6%D8%AD-%D8%A8%D8%B4%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D8%AD-%D9%84%D9%84%D8%AE%D8%B7%D9%88%D8%B7-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D8%A7%D9%84%D9%89-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-28T17:48:52+00:00",
+      "image": "./assets/news/d178b172b7736450a50683a7.jpg",
+      "original_image": "./assets/news/d178b172b7736450a50683a7.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577416/%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D9%88%D8%B6%D8%AD-%D8%A8%D8%B4%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D8%AD-%D9%84%D9%84%D8%AE%D8%B7%D9%88%D8%B7-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D8%A7%D9%84%D9%89-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/032231443026.html"
+    },
+    {
+      "title": "عروس عراقية ترقص مع والدها المتوفى.. ما حقيقة ذلك؟",
+      "url": "https://www.alsumaria.tv/news/localnews/577415/%D8%B9%D8%B1%D9%88%D8%B3-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D8%B1%D9%82%D8%B5-%D9%85%D8%B9-%D9%88%D8%A7%D9%84%D8%AF%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%81%D9%89-%D9%85%D8%A7-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%B0%D9%84%D9%83%D8%9F",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-28T17:42:42+00:00",
+      "image": "./assets/news/fdec970c12466c4e725549de.jpg",
+      "original_image": "./assets/news/fdec970c12466c4e725549de.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577415/%D8%B9%D8%B1%D9%88%D8%B3-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D8%B1%D9%82%D8%B5-%D9%85%D8%B9-%D9%88%D8%A7%D9%84%D8%AF%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%81%D9%89-%D9%85%D8%A7-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%B0%D9%84%D9%83%D8%9F",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cede499c38e1.html"
+    },
+    {
       "title": "بالصور.. أسود الرافدين يستعدون لمواجهة السعودية غداً في خليجي 27",
       "url": "https://www.alsumaria.tv/Entertainment-News/577414/sports/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF%D9%88%D9%86-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%BA%D8%AF%D8%A7%D9%8B-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
       "category": "رياضة",
@@ -48,6 +80,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b2ab00a324b5.html"
+    },
+    {
+      "title": "ترامب يفكر باستثناء مطار النجف من الحظر ولكن بشرط: الرحلات عبر الخطوط العراقية فقط",
+      "url": "https://964media.com/721092/",
+      "category": "محليات",
+      "region": "النجف",
+      "published": "2026-09-28T17:32:41+00:00",
+      "image": "./assets/news/dd05e98d23525bfc058ac8f1.jpg",
+      "original_image": "./assets/news/dd05e98d23525bfc058ac8f1.jpg",
+      "source_url": "https://964media.com/721092/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "النجف",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2b15f562c492.html"
     },
     {
       "title": "الذهب يتراجع أكثر من 4% للمرة الأولى منذ اب الماضي",
@@ -338,38 +386,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/609364a8e493.html"
     },
     {
-      "title": "451 ألف وفاة إضافية.. النينيو تهدد العالم بموجة حر قاتلة",
-      "url": "https://www.alsumaria.tv/news/international/577396/451-%D8%A3%D9%84%D9%81-%D9%88%D9%81%D8%A7%D8%A9-%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D9%8A%D9%86%D9%8A%D9%88-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A8%D9%85%D9%88%D8%AC%D8%A9-%D8%AD%D8%B1-%D9%82%D8%A7%D8%AA%D9%84%D8%A9",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-28T15:39:14+00:00",
-      "image": "./assets/news/8171df7b669e4f3add87355a.jpg",
-      "original_image": "./assets/news/8171df7b669e4f3add87355a.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/577396/451-%D8%A3%D9%84%D9%81-%D9%88%D9%81%D8%A7%D8%A9-%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D9%8A%D9%86%D9%8A%D9%88-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A8%D9%85%D9%88%D8%AC%D8%A9-%D8%AD%D8%B1-%D9%82%D8%A7%D8%AA%D9%84%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6267f7cca3c4.html"
-    },
-    {
-      "title": "بريطانيا.. الإفراج بكفالة عن 5 موقوفين بشبهة استهداف قاعدة فيرفورد",
-      "url": "https://www.alsumaria.tv/news/international/577395/%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%A8%D9%83%D9%81%D8%A7%D9%84%D8%A9-%D8%B9%D9%86-5-%D9%85%D9%88%D9%82%D9%88%D9%81%D9%8A%D9%86-%D8%A8%D8%B4%D8%A8%D9%87%D8%A9-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D9%81%D9%8A%D8%B1%D9%81%D9%88%D8%B1%D8%AF",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-28T15:37:10+00:00",
-      "image": "./assets/news/fa27f1a9ffbc308620fbf3cf.webp",
-      "original_image": "./assets/news/fa27f1a9ffbc308620fbf3cf.webp",
-      "source_url": "https://www.alsumaria.tv/news/international/577395/%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%A8%D9%83%D9%81%D8%A7%D9%84%D8%A9-%D8%B9%D9%86-5-%D9%85%D9%88%D9%82%D9%88%D9%81%D9%8A%D9%86-%D8%A8%D8%B4%D8%A8%D9%87%D8%A9-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D9%81%D9%8A%D8%B1%D9%81%D9%88%D8%B1%D8%AF",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bafb4b58145a.html"
-    },
-    {
       "title": "اعتقال أجنبي في الديوانية مع اثنين عراقيين بحوزتهم 1.5 كغم من الكريستال",
       "url": "https://964media.com/721047/",
       "category": "أمن",
@@ -416,22 +432,6 @@
       "report": false,
       "governorate": "نينوى",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3204f2f06c64.html"
-    },
-    {
-      "title": "ذي قار تعلن استضافة خليجي 28 بالتشارك مع البصرة",
-      "url": "https://964media.com/721020/",
-      "category": "محليات",
-      "region": "البصرة",
-      "published": "2026-09-28T13:32:59+00:00",
-      "image": "./assets/news/869996c18abc6cb7cf3d15b0.webp",
-      "original_image": "./assets/news/869996c18abc6cb7cf3d15b0.webp",
-      "source_url": "https://964media.com/721020/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "البصرة",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cbc6653b538c.html"
     },
     {
       "title": "\"لم يبق إلا القليل من قادة الخليج المعولين على الدعم الأمريكي المعتاد\" - مقال في الأوبزرفر - شفق نيوز..",
