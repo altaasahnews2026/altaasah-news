@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T16:17:43.997663+00:00",
+  "updated_at": "2026-09-28T16:34:30.616634+00:00",
   "latest": [
     {
       "title": "\"محادثات مرتقبة غير مباشرة\" بين واشنطن وطهران في نيويورك، وإصابة 8 من المارينز في هجوم إيراني - شفق نيوز..",
@@ -7,6 +7,17 @@
       "category": "عراق",
       "published": "2026-09-28T15:20:04+00:00",
       "breaking": true,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "واشنطن: ترامب مستعد لتخفيف العقوبات على إيران والإفراج عن أصولها المجمدة",
+      "url": "https://www.alsumaria.tv/news/international/577405/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%85%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A3%D8%B5%D9%88%D9%84%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%AF",
+      "category": "عراق",
+      "published": "2026-09-28T16:26:49+00:00",
+      "breaking": false,
       "watch_topics": [
         "إيران",
         "أمريكا"
@@ -43,6 +54,16 @@
       "published": "2026-09-28T16:06:21+00:00",
       "breaking": true,
       "watch_topics": []
+    },
+    {
+      "title": "مصدر في مطار النجف: لا توجيه رسمي بشأن السماح بهبوط طائرات الشركات الإيرانية",
+      "url": "https://www.alsumaria.tv/news/localnews/577404/%D9%85%D8%B5%D8%AF%D8%B1-%D9%81%D9%8A-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D9%84%D8%A7-%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D8%B1%D8%B3%D9%85%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D8%AD-%D8%A8%D9%87%D8%A8%D9%88%D8%B7-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A",
+      "category": "عراق",
+      "published": "2026-09-28T16:21:33+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
     },
     {
       "title": "نزاهة بغداد تضبط مديراً في شركة التأمين أثناء تسلمه الرشوة",
@@ -101,26 +122,10 @@
       "watch_topics": []
     },
     {
-      "title": "الملخص الإخباري - صفحة المباشر - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c539m83r8p4ko",
-      "category": "عراق",
-      "published": "2026-09-28T11:08:25+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "الإمارات والجزائر والسودان بين المتحدثين أمام الجمعية العامة، واجتماع لمجلس الأمن بخصوص القضية الفلسطينية - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cvrl6y15d91rt",
       "category": "عراق",
       "published": "2026-09-28T11:08:25+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "حقائق قد لا تعرفها عن حاسة التذوق - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c797n1xjl48o",
-      "category": "عراق",
-      "published": "2026-09-28T11:12:53+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -165,30 +170,6 @@
       "watch_topics": []
     },
     {
-      "title": "تركيا.. استقالة نائبة رئيس الحزب الحاكم على خلفية أزمة صناديق الاستثمار",
-      "url": "https://www.alsumaria.tv/news/international/577386/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%84%D8%A9-%D9%86%D8%A7%D8%A6%D8%A8%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D8%AD%D8%A7%D9%83%D9%85-%D8%B9%D9%84%D9%89-%D8%AE%D9%84%D9%81%D9%8A%D8%A9-%D8%A3%D8%B2%D9%85%D8%A9-%D8%B5%D9%86%D8%A7%D8%AF%D9%8A%D9%82-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1",
-      "category": "عراق",
-      "published": "2026-09-28T14:08:44+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "دراسة: قضاء ثلاث دقائق مع الحمار قد يساعد على الشعور بمزيد من الهدوء",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/577383/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D9%82%D8%B6%D8%A7%D8%A1-%D8%AB%D9%84%D8%A7%D8%AB-%D8%AF%D9%82%D8%A7%D8%A6%D9%82-%D9%85%D8%B9-%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D8%B1-%D9%82%D8%AF-%D9%8A%D8%B3%D8%A7%D8%B9%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B4%D8%B9%D9%88%D8%B1-%D8%A8%D9%85%D8%B2%D9%8A%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D9%87%D8%AF%D9%88%D8%A1",
-      "category": "عراق",
-      "published": "2026-09-28T14:13:25+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "توضيح من جامعة الموصل بشأن اعتقال أحد اساتذتها",
-      "url": "https://www.alsumaria.tv/news/localnews/577384/%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D9%85%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%A3%D8%AD%D8%AF-%D8%A7%D8%B3%D8%A7%D8%AA%D8%B0%D8%AA%D9%87%D8%A7",
-      "category": "عراق",
-      "published": "2026-09-28T14:23:04+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "جامعة الموصل تنفي اعتقال تدريسي داخل الحرم.. وعائلته تناشد رئيس الوزراء",
       "url": "https://964media.com/721026/",
       "category": "عراق",
@@ -225,6 +206,30 @@
       "url": "https://www.alsumaria.tv/news/miscellaneous/577388/%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%87-%D9%85%D8%A7-%D8%A3%D8%A8%D8%B1%D8%B2-%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9%D8%9F",
       "category": "عراق",
       "published": "2026-09-28T14:52:19+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "في العراق.. تراجع معدلات الخصوبة",
+      "url": "https://www.alsumaria.tv/news/localnews/577389/%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%85%D8%B9%D8%AF%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%A8%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-28T14:58:18+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "بي بي سي في قلب مدينة يمنية على خط المواجهة الأمامي حيث تحاول جماعة أنصار الله الحوثية السيطرة عليها - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c95y4ned8dejo",
+      "category": "عراق",
+      "published": "2026-09-28T15:02:49+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "القبض على 3 متهمين بينهم أجنبي بحوزتهم 1.5 كغم من الكريستال في الديوانية",
+      "url": "https://www.alsumaria.tv/news/security/577391/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-3-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87%D9%85-15-%D9%83%D8%BA%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%8A%D9%88%D8%A7%D9%86%D9%8A",
+      "category": "عراق",
+      "published": "2026-09-28T15:05:43+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -494,14 +499,6 @@
       "watch_topics": []
     },
     {
-      "title": "البابا يحث الكنيسة على معالجة الجراح قبل لقاء ضحايا انتهاكات بفرنسا",
-      "url": "https://aawsat.com/node/5323189",
-      "category": "دولي",
-      "published": "Sun, 27 Sep 2026 16:54:35 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "ترمب يذكر أرقاماً صادمة لعدد القتلى في الحرب الروسية الأوكرانية",
       "url": "https://aawsat.com/node/5322975",
       "category": "دولي",
@@ -548,6 +545,14 @@
       "watch_topics": [
         "أمريكا"
       ]
+    },
+    {
+      "title": "بولندا تعتمد قواعد زمن الحرب لإسقاط الطائرات الأجنبية في أجوائها",
+      "url": "https://aawsat.com/node/5323570",
+      "category": "دولي",
+      "published": "Mon, 28 Sep 2026 17:26:00 +0100",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "البابا يدعو من فرنسا إلى «وقف زحف الحرب» ويندد بوهم التسلح",
@@ -761,14 +766,6 @@
       "url": "https://aawsat.com/node/5323206",
       "category": "دولي",
       "published": "Sun, 27 Sep 2026 17:51:15 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "البابا يحث الكنيسة على معالجة الجراح قبل لقاء ضحايا انتهاكات بفرنسا",
-      "url": "https://aawsat.com/node/5323189",
-      "category": "دولي",
-      "published": "Sun, 27 Sep 2026 16:54:35 +0100",
       "breaking": true,
       "watch_topics": []
     },
