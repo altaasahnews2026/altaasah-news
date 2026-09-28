@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T05:14:07.708242+00:00",
+  "updated_at": "2026-09-28T05:29:57.044129+00:00",
   "latest": [
     {
       "title": "إيران تعلن استهداف 19 سفينة حاولت عبور مضيق هرمز",
@@ -66,16 +66,6 @@
       "published": "2026-09-27T21:20:00+00:00",
       "breaking": true,
       "watch_topics": []
-    },
-    {
-      "title": "بالصور من جدة.. أسود الرافدين يستعدون لمواجهة السعودية في خليجي 27",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577227/sports/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%85%D9%86-%D8%AC%D8%AF%D8%A9-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF%D9%88%D9%86-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
-      "category": "عراق",
-      "published": "2026-09-27T16:55:35+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
     },
     {
       "title": "البرلمان الإيراني يعلن استكمال دراسة مشروع قانون تأمين مضيق هرمز",
@@ -240,6 +230,14 @@
       "url": "https://www.alsumaria.tv/news/international/577237/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%B5%D8%B1%D8%A8%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%84%D8%AA%D9%87-%D9%85%D9%86-%D9%85%D9%86%D8%B5%D8%A8%D9%87",
       "category": "عراق",
       "published": "2026-09-27T18:40:11+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "6 علب من مشروب الطاقة تنتهي بوفاة صبي عمره 13 عاماً في ديالى",
+      "url": "https://964media.com/720843/",
+      "category": "عراق",
+      "published": "2026-09-27T18:53:17+00:00",
       "breaking": false,
       "watch_topics": []
     },

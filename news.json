@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T05:14:04.815902+00:00",
+  "updated_at": "2026-09-28T05:29:51.184405+00:00",
   "items": [
     {
       "title": "قتلى ومصابون بإطلاق نار داخل ناد ليلي في ديترويت",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/74659d04a704.html"
+    },
+    {
+      "title": "أبراج اليوم 28 أيلول.. تغيّرات مهنية ومفاجآت عاطفية ونصائح صحية",
+      "url": "https://www.alsumaria.tv/news/horoscopenews/576889/%D8%A3%D8%A8%D8%B1%D8%A7%D8%AC-%D8%A7%D9%84%D9%8A%D9%88%D9%85-28-%D8%A3%D9%8A%D9%84%D9%88%D9%84-%D8%AA%D8%BA%D9%8A%D9%91%D8%B1%D8%A7%D8%AA-%D9%85%D9%87%D9%86%D9%8A%D8%A9-%D9%88%D9%85%D9%81%D8%A7%D8%AC%D8%A2%D8%AA-%D8%B9%D8%A7%D8%B7%D9%81%D9%8A%D8%A9-%D9%88%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D8%B5%D8%AD%D9%8A%D8%A9",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-28T05:14:00+00:00",
+      "image": "./assets/news/0e2e52d028b412f27c68cb95.jpg",
+      "original_image": "./assets/news/0e2e52d028b412f27c68cb95.jpg",
+      "source_url": "https://www.alsumaria.tv/news/horoscopenews/576889/%D8%A3%D8%A8%D8%B1%D8%A7%D8%AC-%D8%A7%D9%84%D9%8A%D9%88%D9%85-28-%D8%A3%D9%8A%D9%84%D9%88%D9%84-%D8%AA%D8%BA%D9%8A%D9%91%D8%B1%D8%A7%D8%AA-%D9%85%D9%87%D9%86%D9%8A%D8%A9-%D9%88%D9%85%D9%81%D8%A7%D8%AC%D8%A2%D8%AA-%D8%B9%D8%A7%D8%B7%D9%81%D9%8A%D8%A9-%D9%88%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D8%B5%D8%AD%D9%8A%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/233e4b47829b.html"
     },
     {
       "title": "ترامب يتوقع استئناف المحادثات مع إيران هذا الأسبوع رغم رفضه مقترحها لفتح هرمز - شفق نيوز..",
@@ -432,22 +448,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a3bf2c3e9c85.html"
-    },
-    {
-      "title": "بالصور من جدة.. أسود الرافدين يستعدون لمواجهة السعودية في خليجي 27",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577227/sports/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%85%D9%86-%D8%AC%D8%AF%D8%A9-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF%D9%88%D9%86-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-27T16:55:35+00:00",
-      "image": "./assets/news/e02c9f260d9b17b39a7059c7.jpg",
-      "original_image": "./assets/news/e02c9f260d9b17b39a7059c7.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/577227/sports/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%85%D9%86-%D8%AC%D8%AF%D8%A9-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF%D9%88%D9%86-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4833e5920649.html"
     },
     {
       "title": "هل يمكنك تناول الأطعمة فائقة المعالجة مع الحفاظ على صحتك؟ - شفق نيوز..",
