@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-28T22:23:44.396059+00:00",
+  "updated_at": "2026-09-28T22:37:52.272746+00:00",
   "items": [
+    {
+      "title": "سوريا.. حريق بخط غاز في دير الزور جراء انفجار",
+      "url": "https://www.alsumaria.tv/news/international/577426/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AD%D8%B1%D9%8A%D9%82-%D8%A8%D8%AE%D8%B7-%D8%BA%D8%A7%D8%B2-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-09-28T22:21:00+00:00",
+      "image": "./assets/news/45ecfb40bc70c49843404282.webp",
+      "original_image": "./assets/news/45ecfb40bc70c49843404282.webp",
+      "source_url": "https://www.alsumaria.tv/news/international/577426/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AD%D8%B1%D9%8A%D9%82-%D8%A8%D8%AE%D8%B7-%D8%BA%D8%A7%D8%B2-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1",
+      "source_name": "السومرية نيوز",
+      "breaking": true,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/547088e891a6.html"
+    },
     {
       "title": "دوي انفجار في جزيرة قشم جنوبي إيران",
       "url": "https://www.alsumaria.tv/news/international/577421/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%82%D8%B4%D9%85-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
@@ -39,8 +55,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-28T21:47:08+00:00",
-      "image": "./assets/news/856388cad74a72a52ecef055.jpg",
-      "original_image": "./assets/news/856388cad74a72a52ecef055.jpg",
+      "image": "./assets/news/e527316daa40f579a3164e21.jpg",
+      "original_image": "./assets/news/e527316daa40f579a3164e21.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577425/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%86%D9%81%D9%8A-%D8%B9%D8%B2%D9%85%D9%87-%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -450,22 +466,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/07ae3ca36d13.html"
     },
     {
-      "title": "ابرزها دعم استثناء مطار النجف من قرار الخزانة وحصر السلاح.. تفاصيل اجتماع الرئاسات",
-      "url": "https://www.alsumaria.tv/news/politics/577406/%D8%A7%D8%A8%D8%B1%D8%B2%D9%87%D8%A7-%D8%AF%D8%B9%D9%85-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A1-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D9%85%D9%86-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D9%88%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7",
-      "category": "أمن",
-      "region": "النجف",
-      "published": "2026-09-28T16:33:12+00:00",
-      "image": "./assets/news/c919722985a19125ddcc6139.jpg",
-      "original_image": "./assets/news/c919722985a19125ddcc6139.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/577406/%D8%A7%D8%A8%D8%B1%D8%B2%D9%87%D8%A7-%D8%AF%D8%B9%D9%85-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A1-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D9%85%D9%86-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D9%88%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "النجف",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fb8ac69259ae.html"
-    },
-    {
       "title": "بي بي سي في قلب مدينة يمنية على خط المواجهة الأمامي حيث تحاول جماعة أنصار الله الحوثية السيطرة عليها - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c95y4ned8dejo",
       "category": "محليات",
@@ -528,22 +528,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/45bdb4cacb9a.html"
-    },
-    {
-      "title": "صور من مكان الحادث: مكافحة الإرهاب اشتبك مع دواعش داخل سوبرماركت في آلتون كوبري",
-      "url": "https://964media.com/720776/",
-      "category": "أمن",
-      "region": "كركوك",
-      "published": "2026-09-27T16:25:49+00:00",
-      "image": "./assets/news/33b735c25da0eac3da41e3ca.jpg",
-      "original_image": "./assets/news/33b735c25da0eac3da41e3ca.jpg",
-      "source_url": "https://964media.com/720776/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": true,
-      "report": false,
-      "governorate": "كركوك",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/48aa27be4ae7.html"
     }
   ]
 }
