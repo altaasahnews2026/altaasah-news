@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T07:23:14.875277+00:00",
+  "updated_at": "2026-09-28T07:37:43.193399+00:00",
   "items": [
     {
       "title": "قتلى ومصابون بإطلاق نار داخل ناد ليلي في ديترويت",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/74659d04a704.html"
+    },
+    {
+      "title": "النزاهة تضبط متهماً بتضخُّم الأموال وتحتجز عجلات باهظة الثمن لآخر أدَّعى الانتساب لجهاز أمني",
+      "url": "https://www.alsumaria.tv/news/localnews/577265/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%85%D8%AA%D9%87%D9%85%D8%A7%D9%8B-%D8%A8%D8%AA%D8%B6%D8%AE%D9%91%D9%8F%D9%85-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D9%88%D8%AA%D8%AD%D8%AA%D8%AC%D8%B2-%D8%B9%D8%AC%D9%84%D8%A7%D8%AA-%D8%A8%D8%A7%D9%87%D8%B8%D8%A9-%D8%A7%D9%84%D8%AB%D9%85%D9%86-%D9%84%D8%A2%D8%AE%D8%B1-%D8%A3%D8%AF%D9%91%D9%8E",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-09-28T07:23:22+00:00",
+      "image": "./assets/news/d069564064632f8c537ff102.jpg",
+      "original_image": "./assets/news/d069564064632f8c537ff102.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577265/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%85%D8%AA%D9%87%D9%85%D8%A7%D9%8B-%D8%A8%D8%AA%D8%B6%D8%AE%D9%91%D9%8F%D9%85-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D9%88%D8%AA%D8%AD%D8%AA%D8%AC%D8%B2-%D8%B9%D8%AC%D9%84%D8%A7%D8%AA-%D8%A8%D8%A7%D9%87%D8%B8%D8%A9-%D8%A7%D9%84%D8%AB%D9%85%D9%86-%D9%84%D8%A2%D8%AE%D8%B1-%D8%A3%D8%AF%D9%91%D9%8E",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/94ab2ea74761.html"
     },
     {
       "title": "ترامب يتوقع استئناف المحادثات مع إيران هذا الأسبوع رغم رفضه مقترحها لفتح هرمز - شفق نيوز..",
@@ -432,22 +448,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fccbea9518bc.html"
-    },
-    {
-      "title": "خليجي 27.. قطر تتغلب على اليمن بصعوبة وتتصدر مجموعتها",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577234/sports/%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D9%82%D8%B7%D8%B1-%D8%AA%D8%AA%D8%BA%D9%84%D8%A8-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%A8%D8%B5%D8%B9%D9%88%D8%A8%D8%A9-%D9%88%D8%AA%D8%AA%D8%B5%D8%AF%D8%B1-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%AA%D9%87%D8%A7",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-27T17:49:19+00:00",
-      "image": "./assets/news/552b576c28a22de809182c75.jpg",
-      "original_image": "./assets/news/552b576c28a22de809182c75.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/577234/sports/%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D9%82%D8%B7%D8%B1-%D8%AA%D8%AA%D8%BA%D9%84%D8%A8-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%A8%D8%B5%D8%B9%D9%88%D8%A8%D8%A9-%D9%88%D8%AA%D8%AA%D8%B5%D8%AF%D8%B1-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%AA%D9%87%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a267d9c0543f.html"
     },
     {
       "title": "ضرائب العراق ثابتة.. المحاسبون يناقشون تدقيقاً بأثر رجعي لـ3 سنوات",
