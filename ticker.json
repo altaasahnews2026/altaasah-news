@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T04:33:02.242635+00:00",
+  "updated_at": "2026-09-28T04:48:38.286001+00:00",
   "latest": [
     {
       "title": "إيران تعلن استهداف 19 سفينة حاولت عبور مضيق هرمز",
@@ -310,6 +310,16 @@
       ]
     },
     {
+      "title": "وزير الخارجية السعودي يصل إلى واشنطن في زيارة رسمية",
+      "url": "https://aawsat.com/node/5323329",
+      "category": "مشرق أوسط",
+      "published": "Mon, 28 Sep 2026 05:35:55 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "الملك محمد السادس: أمن واستقرار السعودية جزء لا يتجزأ من أمن المغرب",
       "url": "https://aawsat.com/node/5323192",
       "category": "مشرق أوسط",
@@ -446,14 +456,6 @@
       "url": "https://aawsat.com/node/5323103",
       "category": "مشرق أوسط",
       "published": "Sun, 27 Sep 2026 12:40:41 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "«شعلة سبتمبر» تتحدى قبضة الحوثيين في إب",
-      "url": "https://aawsat.com/node/5323093",
-      "category": "مشرق أوسط",
-      "published": "Sun, 27 Sep 2026 11:55:56 +0100",
       "breaking": false,
       "watch_topics": []
     },
