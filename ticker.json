@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T10:05:02.056188+00:00",
+  "updated_at": "2026-09-28T10:23:30.928059+00:00",
   "latest": [
     {
       "title": "طهران تنفي وجود محادثات مقررة مع واشنطن، وأنباء عن إصابة ثمانية من \"المارينز\" في هجوم إيراني - شفق نيوز..",
@@ -54,6 +54,17 @@
       ]
     },
     {
+      "title": "واشنطن تحذّر بغداد.. خرق حظر طيران إيران يهدد المطارات العراقية بالعقوبات",
+      "url": "https://www.alsumaria.tv/news/localnews/577365/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AD%D8%B0%D9%91%D8%B1-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AE%D8%B1%D9%82-%D8%AD%D8%B8%D8%B1-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-28T10:04:02+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
       "title": "مسيّرة العسكر بـ 300 ألف دينار.. رجال الأعمال وجهاً لوجه مع المهندسين في بغداد",
       "url": "https://964media.com/720455/",
       "category": "عراق",
@@ -66,6 +77,14 @@
       "url": "https://964media.com/720626/",
       "category": "عراق",
       "published": "2026-09-27T10:35:15+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "إغلاق صالون تجميل وحجز مواد خاصة بـ “التاتو”.. بيان من صحة ديالى (صور)",
+      "url": "https://964media.com/720936/",
+      "category": "عراق",
+      "published": "2026-09-28T09:39:38+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -146,6 +165,14 @@
       "watch_topics": []
     },
     {
+      "title": "مكافحة الإرهاب يشتبك مع خلية انتحارية في كركوك.. قتيلان وثالث بقبضة الأمن",
+      "url": "https://964media.com/720750/",
+      "category": "عراق",
+      "published": "2026-09-27T14:44:54+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "صور من مكان الحادث: مكافحة الإرهاب اشتبك مع دواعش داخل سوبرماركت في آلتون كوبري",
       "url": "https://964media.com/720776/",
       "category": "عراق",
@@ -166,30 +193,6 @@
       "url": "https://964media.com/720773/",
       "category": "عراق",
       "published": "2026-09-27T19:16:33+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "التربية تعلن إعادة جدولة الامتحانات العامة للدور الخاص",
-      "url": "https://www.alsumaria.tv/news/localnews/577249/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AC%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5",
-      "category": "عراق",
-      "published": "2026-09-28T06:03:08+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الإطاحة بعنصرين من “داعش” لحظة دخولهما السليمانية وثالث مقيم هناك",
-      "url": "https://964media.com/720892/",
-      "category": "عراق",
-      "published": "2026-09-28T06:20:01+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الجيش العراقي يطلق عملية واسعة لملاحقة “داعش” في حوض الثلاب بخانقين",
-      "url": "https://964media.com/720908/",
-      "category": "عراق",
-      "published": "2026-09-28T06:35:56+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -587,6 +590,14 @@
       ]
     },
     {
+      "title": "«ربما أحبطتُ مخططاً إرهابياً»... مزارعة تروي تفاصيل رؤيتها للمشتبه بهم في واقعة قاعدة فيرفورد",
+      "url": "https://aawsat.com/node/5323417",
+      "category": "دولي",
+      "published": "Mon, 28 Sep 2026 11:11:33 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "كالاس: مهمة «أسبيدس» بحاجة لمزيد من القطع البحرية لأداء عملها",
       "url": "https://aawsat.com/node/5323375",
       "category": "دولي",
@@ -631,14 +642,6 @@
       "url": "https://aawsat.com/node/5323190",
       "category": "دولي",
       "published": "Sun, 27 Sep 2026 16:55:14 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "روسيا تضرب مقر أكبر مزود لخدمات الهاتف المحمول في أوكرانيا",
-      "url": "https://aawsat.com/node/5323181",
-      "category": "دولي",
-      "published": "Sun, 27 Sep 2026 16:28:20 +0100",
       "breaking": false,
       "watch_topics": []
     }
@@ -698,6 +701,14 @@
       "url": "https://964media.com/720626/",
       "category": "عراق",
       "published": "2026-09-27T10:35:15+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "إغلاق صالون تجميل وحجز مواد خاصة بـ “التاتو”.. بيان من صحة ديالى (صور)",
+      "url": "https://964media.com/720936/",
+      "category": "عراق",
+      "published": "2026-09-28T09:39:38+00:00",
       "breaking": true,
       "watch_topics": []
     },
