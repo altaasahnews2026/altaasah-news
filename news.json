@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T19:52:15.705667+00:00",
+  "updated_at": "2026-09-28T20:07:03.743520+00:00",
   "items": [
     {
       "title": "روسيا.. قتلى وجرحى في حريق بمصنع للألعاب النارية",
@@ -7,8 +7,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-28T17:01:12+00:00",
-      "image": "./assets/news/a448ab16d5c09f3a63c777c6.jpg",
-      "original_image": "./assets/news/a448ab16d5c09f3a63c777c6.jpg",
+      "image": "./assets/news/6135e171ab2c6d0c61e1cc9f.jpg",
+      "original_image": "./assets/news/6135e171ab2c6d0c61e1cc9f.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577409/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%81%D9%8A-%D8%AD%D8%B1%D9%8A%D9%82-%D8%A8%D9%85%D8%B5%D9%86%D8%B9-%D9%84%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%A7%D9%84%D9%86%D8%A7%D8%B1%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -34,13 +34,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7f4e339e2679.html"
     },
     {
+      "title": "كتائب حزب الله تحذر من استمرار الحصار الجوي على إيران",
+      "url": "https://www.alsumaria.tv/news/localnews/577420/%D9%83%D8%AA%D8%A7%D8%A6%D8%A8-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D9%88%D9%8A-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-28T19:50:44+00:00",
+      "image": "./assets/news/a82ecc8d0db7d53c7e57e582.jpg",
+      "original_image": "./assets/news/a82ecc8d0db7d53c7e57e582.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577420/%D9%83%D8%AA%D8%A7%D8%A6%D8%A8-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D9%88%D9%8A-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4c8c24d655d3.html"
+    },
+    {
       "title": "انتحار شاب داخل منزله جنوب شرقي بغداد",
       "url": "https://www.alsumaria.tv/news/localnews/577419/%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1-%D8%B4%D8%A7%D8%A8-%D8%AF%D8%A7%D8%AE%D9%84-%D9%85%D9%86%D8%B2%D9%84%D9%87-%D8%AC%D9%86%D9%88%D8%A8-%D8%B4%D8%B1%D9%82%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "category": "محليات",
       "region": "بغداد",
       "published": "2026-09-28T19:42:01+00:00",
-      "image": "./assets/news/cb9b9da59fe36f3d5a50829f.jpg",
-      "original_image": "./assets/news/cb9b9da59fe36f3d5a50829f.jpg",
+      "image": "./assets/news/a5a375cd36650799940e8100.jpg",
+      "original_image": "./assets/news/a5a375cd36650799940e8100.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577419/%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1-%D8%B4%D8%A7%D8%A8-%D8%AF%D8%A7%D8%AE%D9%84-%D9%85%D9%86%D8%B2%D9%84%D9%87-%D8%AC%D9%86%D9%88%D8%A8-%D8%B4%D8%B1%D9%82%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -66,20 +82,20 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/db69513031db.html"
     },
     {
-      "title": "ترامب: سننتصر في حرب إيران وفريقنا التفاوضي أجرى محادثات غير مباشرة",
-      "url": "https://www.alsumaria.tv/news/international/577418/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B3%D9%86%D9%86%D8%AA%D8%B5%D8%B1-%D9%81%D9%8A-%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D9%81%D8%B1%D9%8A%D9%82%D9%86%D8%A7-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%B6%D9%8A-%D8%A3%D8%AC%D8%B1%D9%89-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%BA%D9%8A%D8%B1-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9",
+      "title": "ترامب: سننتصر بحرب إيران وفريقنا التفاوضي أجرى محادثات غير مباشرة",
+      "url": "https://www.alsumaria.tv/news/international/577418/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B3%D9%86%D9%86%D8%AA%D8%B5%D8%B1-%D8%A8%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D9%81%D8%B1%D9%8A%D9%82%D9%86%D8%A7-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%B6%D9%8A-%D8%A3%D8%AC%D8%B1%D9%89-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%BA%D9%8A%D8%B1-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9",
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-28T18:51:24+00:00",
-      "image": "./assets/news/aa656b9350f89272483e2a58.jpg",
-      "original_image": "./assets/news/aa656b9350f89272483e2a58.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/577418/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B3%D9%86%D9%86%D8%AA%D8%B5%D8%B1-%D9%81%D9%8A-%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D9%81%D8%B1%D9%8A%D9%82%D9%86%D8%A7-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%B6%D9%8A-%D8%A3%D8%AC%D8%B1%D9%89-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%BA%D9%8A%D8%B1-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9",
+      "image": "./assets/news/063751c8b9200791b7c23934.jpg",
+      "original_image": "./assets/news/063751c8b9200791b7c23934.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577418/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B3%D9%86%D9%86%D8%AA%D8%B5%D8%B1-%D8%A8%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D9%81%D8%B1%D9%8A%D9%82%D9%86%D8%A7-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%B6%D9%8A-%D8%A3%D8%AC%D8%B1%D9%89-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%BA%D9%8A%D8%B1-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
       "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/05502d925cd2.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3f29a0df7605.html"
     },
     {
       "title": "كيف يستخدم رئيس البرلمان الإيراني المصطلحات المالية لاستهداف الأسواق الأمريكية؟ - شفق نيوز..",
@@ -400,22 +416,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1084524420dd.html"
-    },
-    {
-      "title": "ادارة إسطنبول تصدر تحذيرات عاجلة",
-      "url": "https://www.alsumaria.tv/news/international/577400/%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-28T15:56:47+00:00",
-      "image": "./assets/news/9ba304ec43580753406839f1.jpg",
-      "original_image": "./assets/news/9ba304ec43580753406839f1.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/577400/%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7b925c0e7e02.html"
     },
     {
       "title": "بي بي سي في قلب مدينة يمنية على خط المواجهة الأمامي حيث تحاول جماعة أنصار الله الحوثية السيطرة عليها - شفق نيوز..",
