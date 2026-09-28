@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T08:53:25.200937+00:00",
+  "updated_at": "2026-09-28T09:03:48.370457+00:00",
   "items": [
     {
       "title": "مخيم “آزادي” للمعارضة الإيرانية في أربيل يتعرض لهجوم بـ3 مسيّرات",
@@ -18,20 +18,36 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1e6bd5d3ccba.html"
     },
     {
-      "title": "قتلى ومصابون بإطلاق نار داخل ناد ليلي في ديترويت",
-      "url": "https://www.alsumaria.tv/news/international/577243/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D9%85%D8%B5%D8%A7%D8%A8%D9%88%D9%86-%D8%A8%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84-%D9%86%D8%A7%D8%AF-%D9%84%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%AF%D9%8A%D8%AA%D8%B1%D9%88%D9%8A%D8%AA",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-27T21:20:00+00:00",
-      "image": "./assets/news/ff485a766037c9015b294e93.jpg",
-      "original_image": "./assets/news/ff485a766037c9015b294e93.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/577243/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D9%85%D8%B5%D8%A7%D8%A8%D9%88%D9%86-%D8%A8%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84-%D9%86%D8%A7%D8%AF-%D9%84%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%AF%D9%8A%D8%AA%D8%B1%D9%88%D9%8A%D8%AA",
+      "title": "أسعار الذهب تنخفض في الأسواق المحلية ببغداد",
+      "url": "https://www.alsumaria.tv/news/economy/577357/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%AA%D9%86%D8%AE%D9%81%D8%B6-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A%D8%A9-%D8%A8%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "category": "اقتصاد",
+      "region": "بغداد",
+      "published": "2026-09-28T08:59:00+00:00",
+      "image": "./assets/news/ce9181308913611b56f4b5cf.jpg",
+      "original_image": "./assets/news/ce9181308913611b56f4b5cf.jpg",
+      "source_url": "https://www.alsumaria.tv/news/economy/577357/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%AA%D9%86%D8%AE%D9%81%D8%B6-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A%D8%A9-%D8%A8%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "source_name": "السومرية نيوز",
-      "breaking": true,
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/74fec9802845.html"
+    },
+    {
+      "title": "أرنولد قبل مواجهة السعودية: جاهزون لحسم بطاقة التأهل",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577358/sports/%D8%A3%D8%B1%D9%86%D9%88%D9%84%D8%AF-%D9%82%D8%A8%D9%84-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AC%D8%A7%D9%87%D8%B2%D9%88%D9%86-%D9%84%D8%AD%D8%B3%D9%85-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AA%D8%A3%D9%87%D9%84",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-28T08:58:53+00:00",
+      "image": "./assets/news/5f8851779b40b9d6b96108b3.jpg",
+      "original_image": "./assets/news/5f8851779b40b9d6b96108b3.jpg",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/577358/sports/%D8%A3%D8%B1%D9%86%D9%88%D9%84%D8%AF-%D9%82%D8%A8%D9%84-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AC%D8%A7%D9%87%D8%B2%D9%88%D9%86-%D9%84%D8%AD%D8%B3%D9%85-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AA%D8%A3%D9%87%D9%84",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
       "kirkuk": false,
       "report": false,
       "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/74659d04a704.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/623b4581667c.html"
     },
     {
       "title": "ميسي يدرس الاعتزال بنهاية 2026.. تقرير يكشف مفاجأة مدوية",
@@ -39,8 +55,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-28T08:46:31+00:00",
-      "image": "./assets/news/1550fdfdcecdc7496cced7ae.png",
-      "original_image": "./assets/news/1550fdfdcecdc7496cced7ae.png",
+      "image": "./assets/news/23f41dfba88d347611a7dcc3.png",
+      "original_image": "./assets/news/23f41dfba88d347611a7dcc3.png",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/577356/sports/%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%B2%D8%A7%D9%84-%D8%A8%D9%86%D9%87%D8%A7%D9%8A%D8%A9-2026-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D9%85%D9%81%D8%A7%D8%AC%D8%A3%D8%A9-%D9%85%D8%AF%D9%88%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -343,8 +359,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-28T06:03:08+00:00",
-      "image": "./assets/news/40b089297a779880d29ecc9d.jpg",
-      "original_image": "./assets/news/40b089297a779880d29ecc9d.jpg",
+      "image": "./assets/news/5e4887e6e64fc3c6ab895aca.jpg",
+      "original_image": "./assets/news/5e4887e6e64fc3c6ab895aca.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577249/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AC%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -464,22 +480,6 @@
       "report": false,
       "governorate": "السليمانية",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1701f448f430.html"
-    },
-    {
-      "title": "طقس العراق.. انخفاض بالحرارة وزخات مطر شمالا يوم غد",
-      "url": "https://www.alsumaria.tv/news/localnews/577242/%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A8%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%88%D8%B2%D8%AE%D8%A7%D8%AA-%D9%85%D8%B7%D8%B1-%D8%B4%D9%85%D8%A7%D9%84%D8%A7-%D9%8A%D9%88%D9%85-%D8%BA%D8%AF",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-27T20:37:57+00:00",
-      "image": "./assets/news/9bdd1f99662031c22d4ad804.jpg",
-      "original_image": "./assets/news/9bdd1f99662031c22d4ad804.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577242/%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A8%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%88%D8%B2%D8%AE%D8%A7%D8%AA-%D9%85%D8%B7%D8%B1-%D8%B4%D9%85%D8%A7%D9%84%D8%A7-%D9%8A%D9%88%D9%85-%D8%BA%D8%AF",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e2b133dec67a.html"
     },
     {
       "title": "ترامب يقول إن خمسة مشتبه بهم خططوا لإلحاق \"ضرر كبير\" بقاعدة تستخدمها الولايات المتحدة في بريطانيا - شفق نيوز..",
