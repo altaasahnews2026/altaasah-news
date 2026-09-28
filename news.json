@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T23:06:35.124269+00:00",
+  "updated_at": "2026-09-28T23:21:57.492797+00:00",
   "items": [
     {
       "title": "سوريا.. حريق بخط غاز في دير الزور جراء انفجار",
@@ -295,8 +295,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-28T18:21:16+00:00",
-      "image": "./assets/news/a6bc72d89347e1531847cb13.jpg",
-      "original_image": "./assets/news/a6bc72d89347e1531847cb13.jpg",
+      "image": "./assets/news/a8e76720ecb397dacfcd06f6.jpg",
+      "original_image": "./assets/news/a8e76720ecb397dacfcd06f6.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/577417/sports/%D8%A3%D9%88%D9%84-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D9%85%D9%86-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D8%A8%D8%B9%D8%AF-%D9%81%D9%88%D8%B2-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -512,22 +512,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a599c1bbfb3b.html"
-    },
-    {
-      "title": "ضرائب العراق ثابتة.. المحاسبون يناقشون تدقيقاً بأثر رجعي لـ3 سنوات",
-      "url": "https://964media.com/720504/",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-27T17:04:55+00:00",
-      "image": "./assets/news/1d61158b1f40f18506decd1b.jpg",
-      "original_image": "./assets/news/1d61158b1f40f18506decd1b.jpg",
-      "source_url": "https://964media.com/720504/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/45bdb4cacb9a.html"
     }
   ]
 }
