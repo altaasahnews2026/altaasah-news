@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-28T13:25:49.870587+00:00",
+  "updated_at": "2026-09-28T13:41:25.904414+00:00",
   "items": [
+    {
+      "title": "أنباء متضاربة حول عقد محادثات بين واشنطن وطهران، وإصابة 8 من المارينز في هجوم إيراني - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cmlye0z22pxxo",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-28T13:28:05+00:00",
+      "image": "./assets/news/2ba242859c9045745b6e0366.jpg",
+      "original_image": "./assets/news/2ba242859c9045745b6e0366.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cmlye0z22pxxo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5e6caf47d39c.html"
+    },
     {
       "title": "الخطابي: كربلاء الأولى على المحافظات في نقل ملكية أراضي مبادرة المليون قطعة",
       "url": "https://www.alsumaria.tv/news/localnews/577376/%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8%D9%8A-%D9%83%D8%B1%D8%A8%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D9%81%D9%8A-%D9%86%D9%82%D9%84-%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D9%88%D9%86",
@@ -144,22 +160,6 @@
       "report": true,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1c9a7d3f7955.html"
-    },
-    {
-      "title": "طهران تنفي وجود محادثات مقررة مع واشنطن، وأنباء عن إصابة ثمانية من \"المارينز\" في هجوم إيراني - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cmlye0z22pxxo",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-28T11:22:09+00:00",
-      "image": "./assets/news/2ba242859c9045745b6e0366.jpg",
-      "original_image": "./assets/news/2ba242859c9045745b6e0366.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cmlye0z22pxxo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/195681cba021.html"
     },
     {
       "title": "التربية توقف التنقلات بين المدارس الأكاديمية والمهنية",

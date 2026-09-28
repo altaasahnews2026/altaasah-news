@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-28T13:25:54.653246+00:00",
+  "updated_at": "2026-09-28T13:41:32.037584+00:00",
   "latest": [
     {
-      "title": "طهران تنفي وجود محادثات مقررة مع واشنطن، وأنباء عن إصابة ثمانية من \"المارينز\" في هجوم إيراني - شفق نيوز..",
+      "title": "أنباء متضاربة حول عقد محادثات بين واشنطن وطهران، وإصابة 8 من المارينز في هجوم إيراني - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cmlye0z22pxxo",
       "category": "عراق",
-      "published": "2026-09-28T11:22:09+00:00",
+      "published": "2026-09-28T13:28:05+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران",
@@ -258,6 +258,14 @@
       ]
     },
     {
+      "title": "33 قتيلاً في غارة للجيش البورمي على سوق في غرب البلاد",
+      "url": "https://aawsat.com/node/5323504",
+      "category": "مشرق أوسط",
+      "published": "Mon, 28 Sep 2026 14:39:55 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "أفغانستان: مقتل 28 مسلحاً بعد عبورهم من باكستان",
       "url": "https://aawsat.com/node/5323155",
       "category": "مشرق أوسط",
@@ -302,14 +310,6 @@
       "url": "https://aawsat.com/node/5320677",
       "category": "مشرق أوسط",
       "published": "Mon, 21 Sep 2026 05:14:03 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "باكستان: مقتل 28 مسلحاً في غارات جوية على 3 مواقع بأفغانستان",
-      "url": "https://aawsat.com/node/5320672",
-      "category": "مشرق أوسط",
-      "published": "Mon, 21 Sep 2026 04:46:16 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -645,10 +645,10 @@
   ],
   "breaking": [
     {
-      "title": "طهران تنفي وجود محادثات مقررة مع واشنطن، وأنباء عن إصابة ثمانية من \"المارينز\" في هجوم إيراني - شفق نيوز..",
+      "title": "أنباء متضاربة حول عقد محادثات بين واشنطن وطهران، وإصابة 8 من المارينز في هجوم إيراني - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cmlye0z22pxxo",
       "category": "عراق",
-      "published": "2026-09-28T11:22:09+00:00",
+      "published": "2026-09-28T13:28:05+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران",
@@ -672,6 +672,14 @@
       "watch_topics": [
         "السعودية"
       ]
+    },
+    {
+      "title": "33 قتيلاً في غارة للجيش البورمي على سوق في غرب البلاد",
+      "url": "https://aawsat.com/node/5323504",
+      "category": "مشرق أوسط",
+      "published": "Mon, 28 Sep 2026 14:39:55 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "أفغانستان: مقتل 28 مسلحاً بعد عبورهم من باكستان",
@@ -718,14 +726,6 @@
       "url": "https://aawsat.com/node/5320677",
       "category": "مشرق أوسط",
       "published": "Mon, 21 Sep 2026 05:14:03 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "باكستان: مقتل 28 مسلحاً في غارات جوية على 3 مواقع بأفغانستان",
-      "url": "https://aawsat.com/node/5320672",
-      "category": "مشرق أوسط",
-      "published": "Mon, 21 Sep 2026 04:46:16 +0100",
       "breaking": true,
       "watch_topics": []
     },
