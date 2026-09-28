@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T06:27:42.949538+00:00",
+  "updated_at": "2026-09-28T06:48:28.266060+00:00",
   "items": [
     {
       "title": "قتلى ومصابون بإطلاق نار داخل ناد ليلي في ديترويت",
@@ -18,13 +18,45 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/74659d04a704.html"
     },
     {
+      "title": "ماذا نعرف عن تحقيق مكافحة الإرهاب المرتبط بقاعدة فيرفورد الجوية البريطانية؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cwrk3y2p3zr0o",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-28T06:22:58+00:00",
+      "image": "./assets/news/dbe26bfeb24d90fdf7f2ee97.jpg",
+      "original_image": "./assets/news/dbe26bfeb24d90fdf7f2ee97.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cwrk3y2p3zr0o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1511396f7499.html"
+    },
+    {
+      "title": "الإطاحة بعنصرين من “داعش” لحظة دخولهما السليمانية وثالث مقيم هناك",
+      "url": "https://964media.com/720892/",
+      "category": "محليات",
+      "region": "السليمانية",
+      "published": "2026-09-28T06:20:01+00:00",
+      "image": "./assets/news/f9e1253f8beb70d33ede27ac.jpg",
+      "original_image": "./assets/news/f9e1253f8beb70d33ede27ac.jpg",
+      "source_url": "https://964media.com/720892/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "السليمانية",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9e4499f1516b.html"
+    },
+    {
       "title": "التربية تعلن إعادة جدولة الامتحانات العامة للدور الخاص",
       "url": "https://www.alsumaria.tv/news/localnews/577249/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AC%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5",
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-28T06:03:08+00:00",
-      "image": "./assets/news/40b089297a779880d29ecc9d.jpg",
-      "original_image": "./assets/news/40b089297a779880d29ecc9d.jpg",
+      "image": "./assets/news/5e4887e6e64fc3c6ab895aca.jpg",
+      "original_image": "./assets/news/5e4887e6e64fc3c6ab895aca.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577249/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AC%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -128,22 +160,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/34ddaf23839b.html"
-    },
-    {
-      "title": "ماذا نعرف عن تحقيق مكافحة الإرهاب المرتبط بقاعدة فيرفورد الجوية البريطانية؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cwrk3y2p3zr0o",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-27T22:15:25+00:00",
-      "image": "./assets/news/dbe26bfeb24d90fdf7f2ee97.jpg",
-      "original_image": "./assets/news/dbe26bfeb24d90fdf7f2ee97.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cwrk3y2p3zr0o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a6a60f5dcb38.html"
     },
     {
       "title": "ترامب يتحدث عن سعر النفط واحتمال العودة للضربات على إيران",
@@ -402,22 +418,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/997cb52dd558.html"
     },
     {
-      "title": "قبل مواجهة العراق.. استبعاد لاعب جديد من معسكر المنتخب السعودي",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577231/sports/%D9%82%D8%A8%D9%84-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D8%B3%D8%AA%D8%A8%D8%B9%D8%A7%D8%AF-%D9%84%D8%A7%D8%B9%D8%A8-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%85%D9%86-%D9%85%D8%B9%D8%B3%D9%83%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-27T17:30:35+00:00",
-      "image": "./assets/news/9aa8eaa08c8ba3dae4676e2d.jpg",
-      "original_image": "./assets/news/9aa8eaa08c8ba3dae4676e2d.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/577231/sports/%D9%82%D8%A8%D9%84-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D8%B3%D8%AA%D8%A8%D8%B9%D8%A7%D8%AF-%D9%84%D8%A7%D8%B9%D8%A8-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%85%D9%86-%D9%85%D8%B9%D8%B3%D9%83%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/953c479cca35.html"
-    },
-    {
       "title": "ضرائب العراق ثابتة.. المحاسبون يناقشون تدقيقاً بأثر رجعي لـ3 سنوات",
       "url": "https://964media.com/720504/",
       "category": "محليات",
@@ -480,22 +480,6 @@
       "report": false,
       "governorate": "كركوك",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/48aa27be4ae7.html"
-    },
-    {
-      "title": "مكافحة الإرهاب يشتبك مع خلية انتحارية في كركوك.. قتيلان وثالث بقبضة الأمن",
-      "url": "https://964media.com/720750/",
-      "category": "أمن",
-      "region": "كركوك",
-      "published": "2026-09-27T14:44:54+00:00",
-      "image": "./assets/news/f9e1253f8beb70d33ede27ac.jpg",
-      "original_image": "./assets/news/f9e1253f8beb70d33ede27ac.jpg",
-      "source_url": "https://964media.com/720750/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": true,
-      "report": false,
-      "governorate": "كركوك",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a4bec1674004.html"
     },
     {
       "title": "فيديو: جهاز مكافحة الإرهاب يشتبك مع عناصر داعش في آلتون كوبري",
