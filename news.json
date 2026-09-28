@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T10:51:39.571501+00:00",
+  "updated_at": "2026-09-28T11:03:13.404253+00:00",
   "items": [
     {
       "title": "مخيم “آزادي” للمعارضة الإيرانية في أربيل يتعرض لهجوم بـ3 مسيّرات",
@@ -16,6 +16,38 @@
       "report": false,
       "governorate": "أربيل",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1e6bd5d3ccba.html"
+    },
+    {
+      "title": "إيران تتقدم بشكوى إلى منظمة الطيران المدني الدولي في شأن العقوبات الأميركية",
+      "url": "https://www.alsumaria.tv/news/localnews/577369/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AA%D9%82%D8%AF%D9%85-%D8%A8%D8%B4%D9%83%D9%88%D9%89-%D8%A5%D9%84%D9%89-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%81%D9%8A-%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-28T10:52:10+00:00",
+      "image": "./assets/news/1fcd0a85159aa535c9c0cbc8.jpg",
+      "original_image": "./assets/news/1fcd0a85159aa535c9c0cbc8.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577369/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AA%D9%82%D8%AF%D9%85-%D8%A8%D8%B4%D9%83%D9%88%D9%89-%D8%A5%D9%84%D9%89-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%81%D9%8A-%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b30891fda167.html"
+    },
+    {
+      "title": "حقائق قد لا تعرفها عن حاسة التذوق - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c797n1xjl48o",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-28T10:41:28+00:00",
+      "image": "./assets/news/258070a38bebad2d81970d03.jpg",
+      "original_image": "./assets/news/258070a38bebad2d81970d03.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c797n1xjl48o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6584b7a3f3a9.html"
     },
     {
       "title": "التعليم المهني يعلن إعادة جدولة الامتحانات العامة للدور الخاص",
@@ -48,6 +80,22 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/07db39591fd6.html"
+    },
+    {
+      "title": "الاتحاد الخليجي يوافق على استضافة العراق لخليجي 28",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577367/sports/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D9%8A%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-28",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-28T10:22:03+00:00",
+      "image": "./assets/news/9f91a5074c9410279be89535.jpg",
+      "original_image": "./assets/news/9f91a5074c9410279be89535.jpg",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/577367/sports/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D9%8A%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-28",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0f0db8e5245b.html"
     },
     {
       "title": "المكتب الإعلامي لرئيس الوزراء يهنئ السومرية بذكرى تأسيسها الـ22",
@@ -450,22 +498,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/663186064317.html"
     },
     {
-      "title": "النزاهة تضبط متهماً بتضخُّم الأموال وتحتجز عجلات باهظة الثمن لآخر أدَّعى الانتساب لجهاز أمني",
-      "url": "https://www.alsumaria.tv/news/localnews/577265/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%85%D8%AA%D9%87%D9%85%D8%A7%D9%8B-%D8%A8%D8%AA%D8%B6%D8%AE%D9%91%D9%8F%D9%85-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D9%88%D8%AA%D8%AD%D8%AA%D8%AC%D8%B2-%D8%B9%D8%AC%D9%84%D8%A7%D8%AA-%D8%A8%D8%A7%D9%87%D8%B8%D8%A9-%D8%A7%D9%84%D8%AB%D9%85%D9%86-%D9%84%D8%A2%D8%AE%D8%B1-%D8%A3%D8%AF%D9%91%D9%8E",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-28T07:23:22+00:00",
-      "image": "./assets/news/d069564064632f8c537ff102.jpg",
-      "original_image": "./assets/news/d069564064632f8c537ff102.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577265/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%85%D8%AA%D9%87%D9%85%D8%A7%D9%8B-%D8%A8%D8%AA%D8%B6%D8%AE%D9%91%D9%8F%D9%85-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D9%88%D8%AA%D8%AD%D8%AA%D8%AC%D8%B2-%D8%B9%D8%AC%D9%84%D8%A7%D8%AA-%D8%A8%D8%A7%D9%87%D8%B8%D8%A9-%D8%A7%D9%84%D8%AB%D9%85%D9%86-%D9%84%D8%A2%D8%AE%D8%B1-%D8%A3%D8%AF%D9%91%D9%8E",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/94ab2ea74761.html"
-    },
-    {
       "title": "ترامب يتوقع استئناف المحادثات مع إيران هذا الأسبوع رغم رفضه مقترحها لفتح هرمز - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cqm2m6n86jgmo",
       "category": "عربي ودولي",
@@ -496,22 +528,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/569ae871fff0.html"
-    },
-    {
-      "title": "ترامب يقول إن خمسة مشتبه بهم خططوا لإلحاق \"ضرر كبير\" بقاعدة تستخدمها الولايات المتحدة في بريطانيا - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cmwyz9xkqeg1o",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-27T20:25:18+00:00",
-      "image": "./assets/news/5d3e4b524fb589aca1c153a8.jpg",
-      "original_image": "./assets/news/5d3e4b524fb589aca1c153a8.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cmwyz9xkqeg1o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/238de39dcd62.html"
     },
     {
       "title": "بلدية المنصور صارت أنيقة مثل المنصور وبغداد ستفخر بالأميرات.. وعد المديرة فاطمة",
