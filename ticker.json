@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T14:28:13.220975+00:00",
+  "updated_at": "2026-09-28T14:43:34.035989+00:00",
   "latest": [
     {
       "title": "أنباء متضاربة حول عقد محادثات بين واشنطن وطهران، وإصابة 8 من المارينز في هجوم إيراني - شفق نيوز..",
@@ -7,17 +7,6 @@
       "category": "عراق",
       "published": "2026-09-28T13:28:05+00:00",
       "breaking": true,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "واشنطن تحذّر بغداد.. خرق حظر طيران إيران يهدد المطارات العراقية بالعقوبات",
-      "url": "https://www.alsumaria.tv/news/localnews/577365/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AD%D8%B0%D9%91%D8%B1-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AE%D8%B1%D9%82-%D8%AD%D8%B8%D8%B1-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7",
-      "category": "عراق",
-      "published": "2026-09-28T10:04:02+00:00",
-      "breaking": false,
       "watch_topics": [
         "إيران",
         "أمريكا"
@@ -158,22 +147,6 @@
       "watch_topics": []
     },
     {
-      "title": "إصابة خبير ألغام بجروح بالغة خلال تفكيك حقل في أربيل",
-      "url": "https://964media.com/720958/",
-      "category": "عراق",
-      "published": "2026-09-28T10:08:38+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "المكتب الإعلامي لرئيس الوزراء يهنئ السومرية بذكرى تأسيسها الـ22",
-      "url": "https://www.alsumaria.tv/news/politics/577366/%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A-%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D9%87%D9%86%D8%A6-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B0%D9%83%D8%B1%D9%89-%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3%D9%87%D8%A7-%D8%A7%D9%84%D9%8022",
-      "category": "عراق",
-      "published": "2026-09-28T10:20:08+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "الاتحاد الخليجي يوافق على استضافة العراق لخليجي 28",
       "url": "https://www.alsumaria.tv/Entertainment-News/577367/sports/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D9%8A%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-28",
       "category": "عراق",
@@ -242,6 +215,30 @@
       "url": "https://964media.com/721004/",
       "category": "عراق",
       "published": "2026-09-28T11:51:11+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "العراق يتجاوز 50 مليوناً في 2030 رغم انخفاض معدل الخصوبة وتراجع نمو السكان",
+      "url": "https://964media.com/721001/",
+      "category": "عراق",
+      "published": "2026-09-28T12:07:57+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "\"لم يبق إلا القليل من قادة الخليج المعولين على الدعم الأمريكي المعتاد\" - مقال في الأوبزرفر - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3079ww2zo",
+      "category": "عراق",
+      "published": "2026-09-28T12:36:54+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "خليجي 28 في بغداد أو البصرة.. درجال: الاستضافة تأكيد على قدرة العراق",
+      "url": "https://964media.com/721015/",
+      "category": "عراق",
+      "published": "2026-09-28T12:48:31+00:00",
       "breaking": false,
       "watch_topics": []
     },
