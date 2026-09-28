@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T07:53:22.541721+00:00",
+  "updated_at": "2026-09-28T08:04:02.886788+00:00",
   "items": [
     {
       "title": "قتلى ومصابون بإطلاق نار داخل ناد ليلي في ديترويت",
@@ -18,6 +18,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/74659d04a704.html"
     },
     {
+      "title": "ثلاث طائرات تهاجم اربيل",
+      "url": "https://www.alsumaria.tv/news/security/577279/%D8%AB%D9%84%D8%A7%D8%AB-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%AA%D9%87%D8%A7%D8%AC%D9%85-%D8%A7%D8%B1%D8%A8%D9%8A%D9%84",
+      "category": "محليات",
+      "region": "أربيل",
+      "published": "2026-09-28T07:42:06+00:00",
+      "image": "./assets/news/904b1d1170974d5f4b92d1c7.jpg",
+      "original_image": "./assets/news/904b1d1170974d5f4b92d1c7.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/577279/%D8%AB%D9%84%D8%A7%D8%AB-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%AA%D9%87%D8%A7%D8%AC%D9%85-%D8%A7%D8%B1%D8%A8%D9%8A%D9%84",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "أربيل",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b422327ff33.html"
+    },
+    {
       "title": "طهران تنفي وجود محادثات مقررة مع واشنطن، وأنباء عن إصابة ثمانية من \"المارينز\" في هجوم إيراني - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cmlye0z22pxxo",
       "category": "أمن",
@@ -32,6 +48,38 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fd5b2475fef6.html"
+    },
+    {
+      "title": "استعادة أكثر من 80 قطعة أثرية وفنية هربت خارج العراق",
+      "url": "https://964media.com/720946/",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-28T07:36:10+00:00",
+      "image": "./assets/news/c5af33ed3c698c7a83502020.jpg",
+      "original_image": "./assets/news/c5af33ed3c698c7a83502020.jpg",
+      "source_url": "https://964media.com/720946/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ad1d85ccf703.html"
+    },
+    {
+      "title": "دهوك والأنبار تتصدران قائمة المحافظات الأقل حرارة.. وتليهما السليمانية",
+      "url": "https://964media.com/720891/",
+      "category": "محليات",
+      "region": "الأنبار",
+      "published": "2026-09-28T07:31:03+00:00",
+      "image": "./assets/news/64c2748c31dfda33d2715581.jpg",
+      "original_image": "./assets/news/64c2748c31dfda33d2715581.jpg",
+      "source_url": "https://964media.com/720891/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "الأنبار",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9a781ab16be3.html"
     },
     {
       "title": "العراق يستعيد 80 قطعة أثرية مهربة من الخارج",
@@ -64,6 +112,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/94ab2ea74761.html"
+    },
+    {
+      "title": "من الاربعاء.. امطار متتالية وحرارة منخفضة تمهد للشتاء",
+      "url": "https://www.alsumaria.tv/news/localnews/577252/%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-%D8%A7%D9%85%D8%B7%D8%A7%D8%B1-%D9%85%D8%AA%D8%AA%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%85%D9%86%D8%AE%D9%81%D8%B6%D8%A9-%D8%AA%D9%85%D9%87%D8%AF-%D9%84%D9%84%D8%B4%D8%AA%D8%A7%D8%A1",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-28T07:10:25+00:00",
+      "image": "./assets/news/527c888976745656861f285a.jpg",
+      "original_image": "./assets/news/527c888976745656861f285a.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577252/%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-%D8%A7%D9%85%D8%B7%D8%A7%D8%B1-%D9%85%D8%AA%D8%AA%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%85%D9%86%D8%AE%D9%81%D8%B6%D8%A9-%D8%AA%D9%85%D9%87%D8%AF-%D9%84%D9%84%D8%B4%D8%AA%D8%A7%D8%A1",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c5a1d16af49c.html"
     },
     {
       "title": "ترامب يتوقع استئناف المحادثات مع إيران هذا الأسبوع رغم رفضه مقترحها لفتح هرمز - شفق نيوز..",
@@ -231,8 +295,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-28T05:14:00+00:00",
-      "image": "./assets/news/0e2e52d028b412f27c68cb95.jpg",
-      "original_image": "./assets/news/0e2e52d028b412f27c68cb95.jpg",
+      "image": "./assets/news/9fabca73e006db6f7e526145.jpg",
+      "original_image": "./assets/news/9fabca73e006db6f7e526145.jpg",
       "source_url": "https://www.alsumaria.tv/news/horoscopenews/576889/%D8%A3%D8%A8%D8%B1%D8%A7%D8%AC-%D8%A7%D9%84%D9%8A%D9%88%D9%85-28-%D8%A3%D9%8A%D9%84%D9%88%D9%84-%D8%AA%D8%BA%D9%8A%D9%91%D8%B1%D8%A7%D8%AA-%D9%85%D9%87%D9%86%D9%8A%D8%A9-%D9%88%D9%85%D9%81%D8%A7%D8%AC%D8%A2%D8%AA-%D8%B9%D8%A7%D8%B7%D9%81%D9%8A%D8%A9-%D9%88%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D8%B5%D8%AD%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -432,22 +496,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fd2e70cfcd02.html"
-    },
-    {
-      "title": "التربية تعلن أسماء الأوائل المقبولين في معاهد النفط ببغداد والمحافظات",
-      "url": "https://964media.com/720832/",
-      "category": "اقتصاد",
-      "region": "بغداد",
-      "published": "2026-09-27T18:17:33+00:00",
-      "image": "./assets/news/8a729f31700e68f6e09d225e.jpg",
-      "original_image": "./assets/news/8a729f31700e68f6e09d225e.jpg",
-      "source_url": "https://964media.com/720832/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fccbea9518bc.html"
     },
     {
       "title": "ضرائب العراق ثابتة.. المحاسبون يناقشون تدقيقاً بأثر رجعي لـ3 سنوات",
