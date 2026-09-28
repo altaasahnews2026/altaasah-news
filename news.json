@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T21:36:13.069184+00:00",
+  "updated_at": "2026-09-28T21:47:40.540111+00:00",
   "items": [
     {
       "title": "دوي انفجار في جزيرة قشم جنوبي إيران",
@@ -7,8 +7,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-28T20:07:39+00:00",
-      "image": "./assets/news/c37d3907508f9048fe8e2440.jpg",
-      "original_image": "./assets/news/c37d3907508f9048fe8e2440.jpg",
+      "image": "./assets/news/8c0745f99ad05937e9ef045d.jpg",
+      "original_image": "./assets/news/8c0745f99ad05937e9ef045d.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577421/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%82%D8%B4%D9%85-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -32,6 +32,38 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/731e6ff968a2.html"
+    },
+    {
+      "title": "السعودية وأمريكا تؤكدان أهمية أمن الملاحة في هرمز وباب المندب",
+      "url": "https://www.alsumaria.tv/news/international/577424/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%AA%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%A9-%D9%81%D9%8A-%D9%87%D8%B1%D9%85%D8%B2-%D9%88%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%A8",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-09-28T21:35:00+00:00",
+      "image": "./assets/news/55f2cc41ea6e881ef8f47bc7.jpg",
+      "original_image": "./assets/news/55f2cc41ea6e881ef8f47bc7.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577424/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%AA%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%A9-%D9%81%D9%8A-%D9%87%D8%B1%D9%85%D8%B2-%D9%88%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%A8",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/80b51df9018c.html"
+    },
+    {
+      "title": "أسبوع الجمعية العامة للأمم المتحدة: غزة وإيران والسودان وأوكرانيا في صدارة الملفات - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c8e3r6rgznnko",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-28T21:32:11+00:00",
+      "image": "./assets/news/9d4e47f7ea731ac8bba81a0c.jpg",
+      "original_image": "./assets/news/9d4e47f7ea731ac8bba81a0c.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c8e3r6rgznnko",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8afcc0441f0d.html"
     },
     {
       "title": "تحركات عسكرية إسرائيلية في ريف القنيطرة جنوب سوريا",
@@ -64,22 +96,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cb4830ca9542.html"
-    },
-    {
-      "title": "أسبوع الجمعية العامة للأمم المتحدة: غزة وإيران والسودان وأوكرانيا في صدارة الملفات - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c8e3r6rgznnko",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-28T20:32:54+00:00",
-      "image": "./assets/news/9d4e47f7ea731ac8bba81a0c.jpg",
-      "original_image": "./assets/news/9d4e47f7ea731ac8bba81a0c.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c8e3r6rgznnko",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9ef830c18b84.html"
     },
     {
       "title": "معلومات جديدة عن طائرات إيران في النجف.. المحافظ اتصل ببغداد مرتين “وأصر على الحظر”",
@@ -167,8 +183,8 @@
       "category": "محليات",
       "region": "بغداد",
       "published": "2026-09-28T19:42:01+00:00",
-      "image": "./assets/news/cb9b9da59fe36f3d5a50829f.jpg",
-      "original_image": "./assets/news/cb9b9da59fe36f3d5a50829f.jpg",
+      "image": "./assets/news/a5a375cd36650799940e8100.jpg",
+      "original_image": "./assets/news/a5a375cd36650799940e8100.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577419/%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1-%D8%B4%D8%A7%D8%A8-%D8%AF%D8%A7%D8%AE%D9%84-%D9%85%D9%86%D8%B2%D9%84%D9%87-%D8%AC%D9%86%D9%88%D8%A8-%D8%B4%D8%B1%D9%82%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -448,22 +464,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4dca4dc73bc6.html"
-    },
-    {
-      "title": "مصدر في مطار النجف: لا توجيه رسمي بشأن السماح بهبوط طائرات الشركات الإيرانية",
-      "url": "https://www.alsumaria.tv/news/localnews/577404/%D9%85%D8%B5%D8%AF%D8%B1-%D9%81%D9%8A-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D9%84%D8%A7-%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D8%B1%D8%B3%D9%85%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D8%AD-%D8%A8%D9%87%D8%A8%D9%88%D8%B7-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A",
-      "category": "عربي ودولي",
-      "region": "النجف",
-      "published": "2026-09-28T16:21:33+00:00",
-      "image": "./assets/news/f07512725171592f9d4a7e82.jpg",
-      "original_image": "./assets/news/f07512725171592f9d4a7e82.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577404/%D9%85%D8%B5%D8%AF%D8%B1-%D9%81%D9%8A-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D9%84%D8%A7-%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D8%B1%D8%B3%D9%85%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D8%AD-%D8%A8%D9%87%D8%A8%D9%88%D8%B7-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "النجف",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ff3432c6d623.html"
     },
     {
       "title": "بي بي سي في قلب مدينة يمنية على خط المواجهة الأمامي حيث تحاول جماعة أنصار الله الحوثية السيطرة عليها - شفق نيوز..",
