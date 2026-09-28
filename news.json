@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T05:29:51.184405+00:00",
+  "updated_at": "2026-09-28T05:43:22.291314+00:00",
   "items": [
     {
       "title": "قتلى ومصابون بإطلاق نار داخل ناد ليلي في ديترويت",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/74659d04a704.html"
+    },
+    {
+      "title": "سعر النفط يرتفع أكثر من 1 بالمئة",
+      "url": "https://www.alsumaria.tv/news/economy/577247/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-1-%D8%A8%D8%A7%D9%84%D9%85%D8%A6%D8%A9",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-28T05:20:00+00:00",
+      "image": "./assets/news/94f575e768aeebb38cace89d.jpg",
+      "original_image": "./assets/news/94f575e768aeebb38cace89d.jpg",
+      "source_url": "https://www.alsumaria.tv/news/economy/577247/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-1-%D8%A8%D8%A7%D9%84%D9%85%D8%A6%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/36775a5b1b84.html"
     },
     {
       "title": "أبراج اليوم 28 أيلول.. تغيّرات مهنية ومفاجآت عاطفية ونصائح صحية",
@@ -432,22 +448,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c4d0ba06410d.html"
-    },
-    {
-      "title": "قبل إطلاقه في 2027.. تسريب يكشف مواصفات iPad الجديد",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/577228/%D9%82%D8%A8%D9%84-%D8%A5%D8%B7%D9%84%D8%A7%D9%82%D9%87-%D9%81%D9%8A-2027-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%8A%D9%83%D8%B4%D9%81-%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA-ipad-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-27T17:01:51+00:00",
-      "image": "./assets/news/4bad6f18a3bcf0a45c3a9cbb.webp",
-      "original_image": "./assets/news/4bad6f18a3bcf0a45c3a9cbb.webp",
-      "source_url": "https://www.alsumaria.tv/news/miscellaneous/577228/%D9%82%D8%A8%D9%84-%D8%A5%D8%B7%D9%84%D8%A7%D9%82%D9%87-%D9%81%D9%8A-2027-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%8A%D9%83%D8%B4%D9%81-%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA-ipad-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a3bf2c3e9c85.html"
     },
     {
       "title": "هل يمكنك تناول الأطعمة فائقة المعالجة مع الحفاظ على صحتك؟ - شفق نيوز..",
