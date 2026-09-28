@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-28T07:37:46.955150+00:00",
+  "updated_at": "2026-09-28T07:53:29.335832+00:00",
   "latest": [
+    {
+      "title": "طهران تنفي وجود محادثات مقررة مع واشنطن، وأنباء عن إصابة ثمانية من \"المارينز\" في هجوم إيراني - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cmlye0z22pxxo",
+      "category": "عراق",
+      "published": "2026-09-28T07:38:13+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
     {
       "title": "جماعة أنصار الله تقول إن غارة سعودية قتلت وأصابت العشرات، والحكومة المعترف بها تعلن مقتل خبراء إيرانيين - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cr5y5n3vvw4wo",
@@ -132,14 +143,6 @@
       "url": "https://964media.com/720832/",
       "category": "عراق",
       "published": "2026-09-27T18:17:33+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "السيد الصدر يدعو لفتح باب التسجيل في البنيان المرصوص",
-      "url": "https://www.alsumaria.tv/news/localnews/577236/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%B5%D8%AF%D8%B1-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D9%81%D8%AA%D8%AD-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%B5%D9%88%D8%B5",
-      "category": "عراق",
-      "published": "2026-09-27T18:22:46+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -577,6 +580,14 @@
       ]
     },
     {
+      "title": "كالاس: مهمة «أسبيدس» بحاجة لمزيد من القطع البحرية لأداء عملها",
+      "url": "https://aawsat.com/node/5323375",
+      "category": "دولي",
+      "published": "Mon, 28 Sep 2026 08:40:35 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "فرنسا: اليمين المتطرف يعزّز مقاعده في مجلس الشيوخ",
       "url": "https://aawsat.com/node/5323293",
       "category": "دولي",
@@ -623,17 +634,20 @@
       "published": "Sun, 27 Sep 2026 16:28:20 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "السويسريون يرفضون في استفتاء مشروعاً لتعزيز حياد بلادهم",
-      "url": "https://aawsat.com/node/5323153",
-      "category": "دولي",
-      "published": "Sun, 27 Sep 2026 15:12:00 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
+    {
+      "title": "طهران تنفي وجود محادثات مقررة مع واشنطن، وأنباء عن إصابة ثمانية من \"المارينز\" في هجوم إيراني - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cmlye0z22pxxo",
+      "category": "عراق",
+      "published": "2026-09-28T07:38:13+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
     {
       "title": "جماعة أنصار الله تقول إن غارة سعودية قتلت وأصابت العشرات، والحكومة المعترف بها تعلن مقتل خبراء إيرانيين - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cr5y5n3vvw4wo",

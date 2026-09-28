@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T07:37:43.193399+00:00",
+  "updated_at": "2026-09-28T07:53:22.541721+00:00",
   "items": [
     {
       "title": "قتلى ومصابون بإطلاق نار داخل ناد ليلي في ديترويت",
@@ -16,6 +16,38 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/74659d04a704.html"
+    },
+    {
+      "title": "طهران تنفي وجود محادثات مقررة مع واشنطن، وأنباء عن إصابة ثمانية من \"المارينز\" في هجوم إيراني - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cmlye0z22pxxo",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-28T07:38:13+00:00",
+      "image": "./assets/news/2ba242859c9045745b6e0366.jpg",
+      "original_image": "./assets/news/2ba242859c9045745b6e0366.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cmlye0z22pxxo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fd5b2475fef6.html"
+    },
+    {
+      "title": "العراق يستعيد 80 قطعة أثرية مهربة من الخارج",
+      "url": "https://www.alsumaria.tv/news/localnews/577266/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-80-%D9%82%D8%B7%D8%B9%D8%A9-%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D9%85%D9%87%D8%B1%D8%A8%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-28T07:27:25+00:00",
+      "image": "./assets/news/c0457dc0c2b9d32758efd183.jpg",
+      "original_image": "./assets/news/c0457dc0c2b9d32758efd183.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577266/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-80-%D9%82%D8%B7%D8%B9%D8%A9-%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D9%85%D9%87%D8%B1%D8%A8%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/663186064317.html"
     },
     {
       "title": "النزاهة تضبط متهماً بتضخُّم الأموال وتحتجز عجلات باهظة الثمن لآخر أدَّعى الانتساب لجهاز أمني",
@@ -64,22 +96,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cc7a9bfba9ee.html"
-    },
-    {
-      "title": "هل يمكنك تناول الأطعمة فائقة المعالجة مع الحفاظ على صحتك؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ckvgydp69jreo",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-28T06:41:39+00:00",
-      "image": "./assets/news/e1009580125a6999f59c17c7.jpg",
-      "original_image": "./assets/news/e1009580125a6999f59c17c7.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/ckvgydp69jreo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e7e2180f3c2d.html"
     },
     {
       "title": "بدء اجراءات نقل ملكية الأراضي المشمولة بمبادرة وطن",
@@ -215,8 +231,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-28T05:14:00+00:00",
-      "image": "./assets/news/9fabca73e006db6f7e526145.jpg",
-      "original_image": "./assets/news/9fabca73e006db6f7e526145.jpg",
+      "image": "./assets/news/0e2e52d028b412f27c68cb95.jpg",
+      "original_image": "./assets/news/0e2e52d028b412f27c68cb95.jpg",
       "source_url": "https://www.alsumaria.tv/news/horoscopenews/576889/%D8%A3%D8%A8%D8%B1%D8%A7%D8%AC-%D8%A7%D9%84%D9%8A%D9%88%D9%85-28-%D8%A3%D9%8A%D9%84%D9%88%D9%84-%D8%AA%D8%BA%D9%8A%D9%91%D8%B1%D8%A7%D8%AA-%D9%85%D9%87%D9%86%D9%8A%D8%A9-%D9%88%D9%85%D9%81%D8%A7%D8%AC%D8%A2%D8%AA-%D8%B9%D8%A7%D8%B7%D9%81%D9%8A%D8%A9-%D9%88%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D8%B5%D8%AD%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -416,22 +432,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fd2e70cfcd02.html"
-    },
-    {
-      "title": "السيد الصدر يدعو لفتح باب التسجيل في البنيان المرصوص",
-      "url": "https://www.alsumaria.tv/news/localnews/577236/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%B5%D8%AF%D8%B1-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D9%81%D8%AA%D8%AD-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%B5%D9%88%D8%B5",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-27T18:22:46+00:00",
-      "image": "./assets/news/2ee4addc542c761d59dae0c0.png",
-      "original_image": "./assets/news/2ee4addc542c761d59dae0c0.png",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577236/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%B5%D8%AF%D8%B1-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D9%81%D8%AA%D8%AD-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%B5%D9%88%D8%B5",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d79c67ea8ca5.html"
     },
     {
       "title": "التربية تعلن أسماء الأوائل المقبولين في معاهد النفط ببغداد والمحافظات",
