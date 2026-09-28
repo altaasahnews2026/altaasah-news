@@ -1,11 +1,21 @@
 {
-  "updated_at": "2026-09-28T20:07:09.419607+00:00",
+  "updated_at": "2026-09-28T20:18:32.021617+00:00",
   "latest": [
     {
       "title": "كيف يستخدم رئيس البرلمان الإيراني المصطلحات المالية لاستهداف الأسواق الأمريكية؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c6y8zld48k3vo",
       "category": "عراق",
       "published": "2026-09-28T18:33:57+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "دوي انفجار في جزيرة قشم جنوبي إيران",
+      "url": "https://www.alsumaria.tv/news/international/577421/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%82%D8%B4%D9%85-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "category": "عراق",
+      "published": "2026-09-28T20:07:39+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران"
@@ -45,10 +55,10 @@
       ]
     },
     {
-      "title": "يوفنتوس يستعيد حارسه نيتو بعد 9 سنوات بعقد طارئ",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577401/sports/%D9%8A%D9%88%D9%81%D9%86%D8%AA%D9%88%D8%B3-%D9%8A%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-%D8%AD%D8%A7%D8%B1%D8%B3%D9%87-%D9%86%D9%8A%D8%AA%D9%88-%D8%A8%D8%B9%D8%AF-9-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%A8%D8%B9%D9%82%D8%AF-%D8%B7%D8%A7%D8%B1%D8%A6",
+      "title": "الكتائب تبدأ الليلة مراقبة سماء العراق وتهدد بإسقاط الحكومة وإغلاق المنافذ الحدودية",
+      "url": "https://964media.com/721137/",
       "category": "عراق",
-      "published": "2026-09-28T16:06:21+00:00",
+      "published": "2026-09-28T19:35:25+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -239,14 +249,6 @@
       "url": "https://www.alsumaria.tv/news/localnews/577408/%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D9%88%D8%B6%D8%AD-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D9%83%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%A3%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D8%B6%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%88",
       "category": "عراق",
       "published": "2026-09-28T16:58:38+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "نائب مدير الـFBI يستقيل من منصبه",
-      "url": "https://www.alsumaria.tv/news/international/577410/%D9%86%D8%A7%D8%A6%D8%A8-%D9%85%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D9%80fbi-%D9%8A%D8%B3%D8%AA%D9%82%D9%8A%D9%84-%D9%85%D9%86-%D9%85%D9%86%D8%B5%D8%A8%D9%87",
-      "category": "عراق",
-      "published": "2026-09-28T17:08:43+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -654,10 +656,20 @@
       ]
     },
     {
-      "title": "يوفنتوس يستعيد حارسه نيتو بعد 9 سنوات بعقد طارئ",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577401/sports/%D9%8A%D9%88%D9%81%D9%86%D8%AA%D9%88%D8%B3-%D9%8A%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-%D8%AD%D8%A7%D8%B1%D8%B3%D9%87-%D9%86%D9%8A%D8%AA%D9%88-%D8%A8%D8%B9%D8%AF-9-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%A8%D8%B9%D9%82%D8%AF-%D8%B7%D8%A7%D8%B1%D8%A6",
+      "title": "دوي انفجار في جزيرة قشم جنوبي إيران",
+      "url": "https://www.alsumaria.tv/news/international/577421/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%82%D8%B4%D9%85-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "category": "عراق",
-      "published": "2026-09-28T16:06:21+00:00",
+      "published": "2026-09-28T20:07:39+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "الكتائب تبدأ الليلة مراقبة سماء العراق وتهدد بإسقاط الحكومة وإغلاق المنافذ الحدودية",
+      "url": "https://964media.com/721137/",
+      "category": "عراق",
+      "published": "2026-09-28T19:35:25+00:00",
       "breaking": true,
       "watch_topics": []
     },
