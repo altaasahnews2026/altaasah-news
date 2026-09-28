@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T06:02:53.319271+00:00",
+  "updated_at": "2026-09-28T06:27:46.413354+00:00",
   "latest": [
     {
       "title": "إيران تعلن استهداف 19 سفينة حاولت عبور مضيق هرمز",
@@ -15,7 +15,7 @@
       "title": "جماعة أنصار الله تقول إن غارة سعودية قتلت وأصابت العشرات، والحكومة المعترف بها تعلن مقتل خبراء إيرانيين - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cr5y5n3vvw4wo",
       "category": "عراق",
-      "published": "2026-09-27T23:01:06+00:00",
+      "published": "2026-09-28T05:48:24+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران"
@@ -122,14 +122,6 @@
       "watch_topics": []
     },
     {
-      "title": "بعد إحراق مضيف بيت عكاب.. شرطة البصرة تقبض على المتهم وتضبط سلاحه",
-      "url": "https://964media.com/720683/",
-      "category": "عراق",
-      "published": "2026-09-27T16:19:33+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "صور من مكان الحادث: مكافحة الإرهاب اشتبك مع دواعش داخل سوبرماركت في آلتون كوبري",
       "url": "https://964media.com/720776/",
       "category": "عراق",
@@ -158,14 +150,6 @@
       "url": "https://964media.com/720504/",
       "category": "عراق",
       "published": "2026-09-27T17:04:55+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "اخلاء 85 منزلا من ساكنيه في بريطانيا",
-      "url": "https://www.alsumaria.tv/news/international/577230/%D8%A7%D8%AE%D9%84%D8%A7%D8%A1-85-%D9%85%D9%86%D8%B2%D9%84%D8%A7-%D9%85%D9%86-%D8%B3%D8%A7%D9%83%D9%86%D9%8A%D9%87-%D9%81%D9%8A-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7",
-      "category": "عراق",
-      "published": "2026-09-27T17:26:35+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -240,6 +224,32 @@
       "published": "2026-09-27T19:56:13+00:00",
       "breaking": false,
       "watch_topics": []
+    },
+    {
+      "title": "في بغداد.. اعتقال 250 مخالفاً لشروط الإقامة و178 مخموراً",
+      "url": "https://www.alsumaria.tv/news/localnews/577241/%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-250-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A7%D9%8B-%D9%84%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D8%A5%D9%82%D8%A7%D9%85%D8%A9-%D9%88178-%D9%85%D8%AE%D9%85%D9%88%D8%B1%D8%A7%D9%8B",
+      "category": "عراق",
+      "published": "2026-09-27T20:18:00+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "طقس العراق.. انخفاض بالحرارة وزخات مطر شمالا يوم غد",
+      "url": "https://www.alsumaria.tv/news/localnews/577242/%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A8%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%88%D8%B2%D8%AE%D8%A7%D8%AA-%D9%85%D8%B7%D8%B1-%D8%B4%D9%85%D8%A7%D9%84%D8%A7-%D9%8A%D9%88%D9%85-%D8%BA%D8%AF",
+      "category": "عراق",
+      "published": "2026-09-27T20:37:57+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "السعودية تدين هجوم ديرة إسماعيل خان الإرهابي وتؤكد وقوفها مع باكستان",
+      "url": "https://aawsat.com/node/5323356",
+      "category": "مشرق أوسط",
+      "published": "Mon, 28 Sep 2026 07:19:44 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
       "title": "أفغانستان: مقتل 28 مسلحاً بعد عبورهم من باكستان",
@@ -450,14 +460,6 @@
       "watch_topics": []
     },
     {
-      "title": "قطاع الصحة في اليمن تحت ضغط التصعيد الحوثي",
-      "url": "https://aawsat.com/node/5323103",
-      "category": "مشرق أوسط",
-      "published": "Sun, 27 Sep 2026 12:40:41 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "الصين تعارض أمام الأمم المتحدة مواقف أميركا إزاء إيران وكوبا",
       "url": "https://aawsat.com/node/5322961",
       "category": "دولي",
@@ -648,7 +650,7 @@
       "title": "جماعة أنصار الله تقول إن غارة سعودية قتلت وأصابت العشرات، والحكومة المعترف بها تعلن مقتل خبراء إيرانيين - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cr5y5n3vvw4wo",
       "category": "عراق",
-      "published": "2026-09-27T23:01:06+00:00",
+      "published": "2026-09-28T05:48:24+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران"
@@ -677,6 +679,16 @@
       "published": "2026-09-27T21:20:00+00:00",
       "breaking": true,
       "watch_topics": []
+    },
+    {
+      "title": "السعودية تدين هجوم ديرة إسماعيل خان الإرهابي وتؤكد وقوفها مع باكستان",
+      "url": "https://aawsat.com/node/5323356",
+      "category": "مشرق أوسط",
+      "published": "Mon, 28 Sep 2026 07:19:44 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
       "title": "أفغانستان: مقتل 28 مسلحاً بعد عبورهم من باكستان",
