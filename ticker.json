@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-09-28T07:03:49.709298+00:00",
+  "updated_at": "2026-09-28T07:23:21.101912+00:00",
   "latest": [
-    {
-      "title": "إيران تعلن استهداف 19 سفينة حاولت عبور مضيق هرمز",
-      "url": "https://www.alsumaria.tv/news/international/577233/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-19-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AD%D8%A7%D9%88%D9%84%D8%AA-%D8%B9%D8%A8%D9%88%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
-      "category": "عراق",
-      "published": "2026-09-27T17:45:00+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
     {
       "title": "جماعة أنصار الله تقول إن غارة سعودية قتلت وأصابت العشرات، والحكومة المعترف بها تعلن مقتل خبراء إيرانيين - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cr5y5n3vvw4wo",
@@ -36,7 +26,7 @@
       "title": "ترامب يتوقع استئناف المحادثات مع إيران هذا الأسبوع رغم رفضه مقترحها لفتح هرمز - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cqm2m6n86jgmo",
       "category": "عراق",
-      "published": "2026-09-28T00:52:22+00:00",
+      "published": "2026-09-28T07:09:33+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران",
@@ -238,6 +228,14 @@
       "url": "https://www.alsumaria.tv/news/economy/577247/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-1-%D8%A8%D8%A7%D9%84%D9%85%D8%A6%D8%A9",
       "category": "عراق",
       "published": "2026-09-28T05:20:00+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "قرار نيابي يخص اسعار الادوية",
+      "url": "https://www.alsumaria.tv/news/localnews/577248/%D9%82%D8%B1%D8%A7%D8%B1-%D9%86%D9%8A%D8%A7%D8%A8%D9%8A-%D9%8A%D8%AE%D8%B5-%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%A7%D8%AF%D9%88%D9%8A%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-28T05:56:51+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -636,16 +634,6 @@
     }
   ],
   "breaking": [
-    {
-      "title": "إيران تعلن استهداف 19 سفينة حاولت عبور مضيق هرمز",
-      "url": "https://www.alsumaria.tv/news/international/577233/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-19-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AD%D8%A7%D9%88%D9%84%D8%AA-%D8%B9%D8%A8%D9%88%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
-      "category": "عراق",
-      "published": "2026-09-27T17:45:00+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
     {
       "title": "جماعة أنصار الله تقول إن غارة سعودية قتلت وأصابت العشرات، والحكومة المعترف بها تعلن مقتل خبراء إيرانيين - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cr5y5n3vvw4wo",
