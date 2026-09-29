@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T19:39:58.782528+00:00",
+  "updated_at": "2026-09-29T19:51:11.752875+00:00",
   "latest": [
     {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
@@ -86,16 +86,6 @@
       ]
     },
     {
-      "title": "دوسكي ويوسف الإمام في مقدمة تشكيلة العراق أمام السعودية",
-      "url": "https://964media.com/721380/",
-      "category": "عراق",
-      "published": "2026-09-29T15:49:46+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "انطلاق مباراة العراق والسعودية في خليجي 27",
       "url": "https://www.alsumaria.tv/Entertainment-News/577486/sports/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
       "category": "عراق",
@@ -116,10 +106,10 @@
       ]
     },
     {
-      "title": "العراق يخسر أمام السعودية ويغادر بطولة خليجي 27",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577492/sports/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AE%D8%B3%D8%B1-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D8%BA%D8%A7%D8%AF%D8%B1-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
+      "title": "العراق يخسر أمام السعودية في كأس الخليج",
+      "url": "https://964media.com/721452/",
       "category": "عراق",
-      "published": "2026-09-29T19:22:00+00:00",
+      "published": "2026-09-29T19:27:25+00:00",
       "breaking": false,
       "watch_topics": [
         "السعودية"
@@ -252,6 +242,14 @@
       "url": "https://964media.com/721416/",
       "category": "عراق",
       "published": "2026-09-29T17:12:19+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "هيئة الحج تدعو المشمولين بالحج لمراجعة مراكز فحص الاستطاعة",
+      "url": "https://www.alsumaria.tv/news/localnews/577488/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%AD%D8%AC-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A7%D9%84%D9%85%D8%B4%D9%85%D9%88%D9%84%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AD%D8%AC-%D9%84%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D9%85%D8%B1%D8%A7%D9%83%D8%B2-%D9%81%D8%AD%D8%B5-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B7%D8%A7%D8%B9%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-29T17:13:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -543,6 +541,14 @@
       "watch_topics": []
     },
     {
+      "title": "مقتل رجل في نيويورك دهساً بعدما علقت حقيبته بأبواب قطار أنفاق",
+      "url": "https://aawsat.com/node/5324067",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 20:47:25 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "ترمب يذكر أرقاماً صادمة لعدد القتلى في الحرب الروسية الأوكرانية",
       "url": "https://aawsat.com/node/5322975",
       "category": "دولي",
@@ -561,14 +567,12 @@
       ]
     },
     {
-      "title": "اختراق بيانات «البنتاغون» يكشف معلومات شخصية لعسكريين ويثير مخاوف أمنية",
-      "url": "https://aawsat.com/node/5322835",
+      "title": "غموض يكتنف «مخطط تفجير» قاعدة بريطانية تستخدمها القوات الأميركية",
+      "url": "https://aawsat.com/node/5324064",
       "category": "دولي",
-      "published": "Sat, 26 Sep 2026 13:13:46 +0100",
+      "published": "Tue, 29 Sep 2026 20:42:34 +0100",
       "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
+      "watch_topics": []
     },
     {
       "title": "الادعاء الألماني يلاحق أوكرانياً بتهمة التجسس لصالح موسكو",
@@ -631,14 +635,6 @@
       "url": "https://aawsat.com/node/5323716",
       "category": "دولي",
       "published": "Tue, 29 Sep 2026 01:15:09 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بولندا تعتمد قواعد زمن الحرب لإسقاط الطائرات الأجنبية في أجوائها",
-      "url": "https://aawsat.com/node/5323570",
-      "category": "دولي",
-      "published": "Mon, 28 Sep 2026 17:26:00 +0100",
       "breaking": false,
       "watch_topics": []
     }
@@ -787,6 +783,14 @@
       "url": "https://aawsat.com/node/5323542",
       "category": "دولي",
       "published": "Mon, 28 Sep 2026 16:14:51 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مقتل رجل في نيويورك دهساً بعدما علقت حقيبته بأبواب قطار أنفاق",
+      "url": "https://aawsat.com/node/5324067",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 20:47:25 +0100",
       "breaking": true,
       "watch_topics": []
     },
