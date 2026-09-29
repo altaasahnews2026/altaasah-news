@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T23:35:04.449488+00:00",
+  "updated_at": "2026-09-29T23:55:51.563689+00:00",
   "latest": [
     {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
@@ -257,16 +257,6 @@
       "watch_topics": []
     },
     {
-      "title": "السعودية تدين هجوم ديرة إسماعيل خان الإرهابي وتؤكد وقوفها مع باكستان",
-      "url": "https://aawsat.com/node/5323356",
-      "category": "مشرق أوسط",
-      "published": "Mon, 28 Sep 2026 07:19:44 +0100",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "قطر: نعمل على بناء أرضية مشتركة بين واشنطن وطهران",
       "url": "https://aawsat.com/node/5323878",
       "category": "مشرق أوسط",
@@ -349,6 +339,16 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "محادثات سعودية ــ إماراتية في الرياض",
+      "url": "https://aawsat.com/node/5324143",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 00:54:12 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {
@@ -482,6 +482,16 @@
       ]
     },
     {
+      "title": "«البنتاغون» يختار «بوينغ» لتزويد البحرية الأميركية بمقاتلات هجومية",
+      "url": "https://aawsat.com/node/5324144",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 00:55:03 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "أميركا تفرض عقوبات على 13 فرداً وكياناً لمساعدتهم إيران على شراء أسلحة",
       "url": "https://aawsat.com/node/5324055",
       "category": "دولي",
@@ -537,14 +547,6 @@
       "url": "https://aawsat.com/node/5324067",
       "category": "دولي",
       "published": "Tue, 29 Sep 2026 20:47:25 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "ترمب يذكر أرقاماً صادمة لعدد القتلى في الحرب الروسية الأوكرانية",
-      "url": "https://aawsat.com/node/5322975",
-      "category": "دولي",
-      "published": "Sat, 26 Sep 2026 21:56:11 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -673,16 +675,6 @@
       "watch_topics": []
     },
     {
-      "title": "السعودية تدين هجوم ديرة إسماعيل خان الإرهابي وتؤكد وقوفها مع باكستان",
-      "url": "https://aawsat.com/node/5323356",
-      "category": "مشرق أوسط",
-      "published": "Mon, 28 Sep 2026 07:19:44 +0100",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "ارتفاع حصيلة غارة الجيش البورمي على سوق إلى 50 قتيلاً",
       "url": "https://aawsat.com/node/5323813",
       "category": "مشرق أوسط",
@@ -747,6 +739,16 @@
       "watch_topics": []
     },
     {
+      "title": "«البنتاغون» يختار «بوينغ» لتزويد البحرية الأميركية بمقاتلات هجومية",
+      "url": "https://aawsat.com/node/5324144",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 00:55:03 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "تحطّم طائرة عسكرية في شرق روسيا... ومقتل 6 من طاقمها",
       "url": "https://aawsat.com/node/5323928",
       "category": "دولي",
@@ -791,14 +793,6 @@
       "url": "https://aawsat.com/node/5324067",
       "category": "دولي",
       "published": "Tue, 29 Sep 2026 20:47:25 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "ترمب يذكر أرقاماً صادمة لعدد القتلى في الحرب الروسية الأوكرانية",
-      "url": "https://aawsat.com/node/5322975",
-      "category": "دولي",
-      "published": "Sat, 26 Sep 2026 21:56:11 +0100",
       "breaking": true,
       "watch_topics": []
     }
