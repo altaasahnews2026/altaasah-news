@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-29T10:52:27.304267+00:00",
+  "updated_at": "2026-09-29T11:03:10.876389+00:00",
   "items": [
+    {
+      "title": "اطلاق رواتب متقاعدي العمال المضمونين",
+      "url": "https://www.alsumaria.tv/news/localnews/577459/%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D8%B1%D9%88%D8%A7%D8%AA%D8%A8-%D9%85%D8%AA%D9%82%D8%A7%D8%B9%D8%AF%D9%8A-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%B6%D9%85%D9%88%D9%86%D9%8A%D9%86",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-29T10:51:12+00:00",
+      "image": "./assets/news/47625abf0eaf08f17bca6cd7.jpg",
+      "original_image": "./assets/news/47625abf0eaf08f17bca6cd7.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577459/%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D8%B1%D9%88%D8%A7%D8%AA%D8%A8-%D9%85%D8%AA%D9%82%D8%A7%D8%B9%D8%AF%D9%8A-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%B6%D9%85%D9%88%D9%86%D9%8A%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e987eaa28604.html"
+    },
     {
       "title": "هيئة المنافذ تصدر 6 توصيات بينها العمل 24 ساعة وعدم التداخل بالصلاحيات",
       "url": "https://www.alsumaria.tv/news/localnews/577458/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%AA%D8%B5%D8%AF%D8%B1-6-%D8%AA%D9%88%D8%B5%D9%8A%D8%A7%D8%AA-%D8%A8%D9%8A%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D8%B9%D9%85%D9%84-24-%D8%B3%D8%A7%D8%B9%D8%A9-%D9%88%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D8%AE%D9%84-%D8%A8%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%AD%D9%8A%D8%A7%D8%AA",
@@ -402,22 +418,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ef6a8aa85e7b.html"
     },
     {
-      "title": "دولار العراق يرتفع مجدداً.. “الورقة” تتجاوز 157 ألف دينار في البورصات",
-      "url": "https://964media.com/721199/",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-29T07:52:23+00:00",
-      "image": "./assets/news/7cb49ab8772dedac5b1ed968.jpg",
-      "original_image": "./assets/news/7cb49ab8772dedac5b1ed968.jpg",
-      "source_url": "https://964media.com/721199/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9aef0e2933a2.html"
-    },
-    {
       "title": "التحقيق في حريق اندلع بمنزل سكني بالبصرة عثر بداخله على جثتين",
       "url": "https://www.alsumaria.tv/news/localnews/577441/%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%81%D9%8A-%D8%AD%D8%B1%D9%8A%D9%82-%D8%A7%D9%86%D8%AF%D9%84%D8%B9-%D8%A8%D9%85%D9%86%D8%B2%D9%84-%D8%B3%D9%83%D9%86%D9%8A-%D8%A8%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9-%D8%B9%D8%AB%D8%B1-%D8%A8%D8%AF%D8%A7%D8%AE%D9%84%D9%87-%D8%B9%D9%84%D9%89-%D8%AC%D8%AB%D8%AA%D9%8A%D9%86",
       "category": "أمن",
@@ -464,22 +464,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/52807a03b50d.html"
-    },
-    {
-      "title": "العمل تعلن تحديث بيانات أكثر من مليوني بطاقة موحدة للاسر المستفيدة",
-      "url": "https://www.alsumaria.tv/news/localnews/577439/%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%85%D9%84%D9%8A%D9%88%D9%86%D9%8A-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D9%85%D9%88%D8%AD%D8%AF%D8%A9-%D9%84%D9%84%D8%A7%D8%B3%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%81%D9%8A%D8%AF%D8%A9",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-29T07:26:08+00:00",
-      "image": "./assets/news/b056870fb8914e5a3363a575.jpg",
-      "original_image": "./assets/news/b056870fb8914e5a3363a575.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577439/%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%85%D9%84%D9%8A%D9%88%D9%86%D9%8A-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D9%85%D9%88%D8%AD%D8%AF%D8%A9-%D9%84%D9%84%D8%A7%D8%B3%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%81%D9%8A%D8%AF%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a1ac58501f8d.html"
     },
     {
       "title": "شرطة بغداد تسبق احتفالات أيام السيادة بحملة لتفتيش المقاهي والكافيهات",
