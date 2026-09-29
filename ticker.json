@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T17:05:38.852971+00:00",
+  "updated_at": "2026-09-29T17:22:53.464223+00:00",
   "latest": [
     {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
@@ -73,26 +73,6 @@
       "watch_topics": []
     },
     {
-      "title": "وزارة النقل تصدر توضيحاً بشأن الرحلات إلى ايران",
-      "url": "https://www.alsumaria.tv/news/localnews/577465/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D9%88%D8%B6%D9%8A%D8%AD%D8%A7%D9%8B-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A5%D9%84%D9%89-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86",
-      "category": "عراق",
-      "published": "2026-09-29T12:20:41+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "القبة الذهبية الأمريكية \"التزام وطني\" - مقال في واشنطن بوست - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cwjdv7377nl5o",
-      "category": "عراق",
-      "published": "2026-09-29T12:59:19+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
       "title": "الريال الإيراني يهبط إلى مستوى قياسي جديد أمام الدولار",
       "url": "https://www.alsumaria.tv/news/international/577468/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D9%87%D8%A8%D8%B7-%D8%A5%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
       "category": "عراق",
@@ -161,14 +141,6 @@
       "url": "https://964media.com/721271/",
       "category": "عراق",
       "published": "2026-09-29T12:21:09+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "البرازيل تهزم أستراليا برباعية ودياً وسط مخاوف من إصابة رافينيا",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577466/sports/%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%B2%D9%8A%D9%84-%D8%AA%D9%87%D8%B2%D9%85-%D8%A3%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7-%D8%A8%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A%D8%A9-%D9%88%D8%AF%D9%8A%D8%A7%D9%8B-%D9%88%D8%B3%D8%B7-%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D9%85%D9%86-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B1%D8%A7%D9%81%D9%8A%D9%86%D9%8A%D8%A7",
-      "category": "عراق",
-      "published": "2026-09-29T12:39:31+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -249,6 +221,30 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cmx2z0ylxkzko",
       "category": "عراق",
       "published": "2026-09-29T15:02:45+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "كيف تفاعل المغربيون مع عودة مرض الدفتيريا إلى بلادهم؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c3pwl4dpw915o",
+      "category": "عراق",
+      "published": "2026-09-29T15:03:14+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "ذي قار تعلن استعدادها لاستضافة خليجي 28: لدينا ملاعب منجزة وأخرى شارفت على الانتهاء",
+      "url": "https://964media.com/721350/",
+      "category": "عراق",
+      "published": "2026-09-29T15:11:01+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "قبل ساعات من الموعد.. العراق يعلن مغادرة جميع قوات التحالف من البلاد",
+      "url": "https://964media.com/721364/",
+      "category": "عراق",
+      "published": "2026-09-29T15:30:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
