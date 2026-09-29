@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T06:31:46.585302+00:00",
+  "updated_at": "2026-09-29T06:51:11.350112+00:00",
   "items": [
     {
       "title": "روبيو يحذر طهران من أي هجوم على مصالح أميركا",
@@ -7,8 +7,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-29T06:15:00+00:00",
-      "image": "./assets/news/18467946bcbc2a705f982d9e.jpg",
-      "original_image": "./assets/news/18467946bcbc2a705f982d9e.jpg",
+      "image": "./assets/news/07d4a1169220e4a6c0880f30.jpg",
+      "original_image": "./assets/news/07d4a1169220e4a6c0880f30.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577431/%D8%B1%D9%88%D8%A8%D9%8A%D9%88-%D9%8A%D8%AD%D8%B0%D8%B1-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D9%86-%D8%A3%D9%8A-%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -48,6 +48,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6dfce0394716.html"
+    },
+    {
+      "title": "قريبا.. وزير النفط تحت قبة البرلمان للمرة الثانية",
+      "url": "https://www.alsumaria.tv/news/politics/577432/%D9%82%D8%B1%D9%8A%D8%A8%D8%A7-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%AA%D8%AD%D8%AA-%D9%82%D8%A8%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-09-29T06:30:00+00:00",
+      "image": "./assets/news/f5e8688cdf552cd3c8bee457.jpg",
+      "original_image": "./assets/news/f5e8688cdf552cd3c8bee457.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/577432/%D9%82%D8%B1%D9%8A%D8%A8%D8%A7-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%AA%D8%AD%D8%AA-%D9%82%D8%A8%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e0bd51087c43.html"
     },
     {
       "title": "إصابات في حادث على متن حاملة الطائرات أيزنهاور",
@@ -480,22 +496,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b2ab00a324b5.html"
-    },
-    {
-      "title": "الذهب يتراجع أكثر من 4% للمرة الأولى منذ اب الماضي",
-      "url": "https://www.alsumaria.tv/news/economy/577413/%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-4-%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%85%D9%86%D8%B0-%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-28T17:27:05+00:00",
-      "image": "./assets/news/4830bb9682d2dcddcbd9dc76.jpg",
-      "original_image": "./assets/news/4830bb9682d2dcddcbd9dc76.jpg",
-      "source_url": "https://www.alsumaria.tv/news/economy/577413/%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-4-%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%85%D9%86%D8%B0-%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fdfe8b246974.html"
     },
     {
       "title": "استعادة أكثر من 80 قطعة أثرية وفنية هربت خارج العراق",
