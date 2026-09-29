@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-29T14:17:20.258451+00:00",
+  "updated_at": "2026-09-29T14:35:46.367707+00:00",
   "latest": [
+    {
+      "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
+      "url": "https://aawsat.com/node/5321276",
+      "category": "مشرق أوسط",
+      "published": "Tue, 22 Sep 2026 15:21:23 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
     {
       "title": "موسكو لا ترغب بانسحاب إيران من معاهدة عدم انتشار الأسلحة النووية، وطهران تهدد باستهداف البنى التحتية في الشرق الأوسط - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cjkg7kylkk1lo",
@@ -335,6 +345,16 @@
       ]
     },
     {
+      "title": "ولي العهد السعودي ونائب الرئيس الإماراتي يستعرضان التطورات في المنطقة",
+      "url": "https://aawsat.com/node/5323930",
+      "category": "مشرق أوسط",
+      "published": "Tue, 29 Sep 2026 15:27:55 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "ولي العهد السعودي وأمير قطر يبحثان هاتفيا مستجدات الأوضاع في المنطقة",
       "url": "https://aawsat.com/node/5323911",
       "category": "مشرق أوسط",
@@ -455,16 +475,6 @@
       ]
     },
     {
-      "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
-      "url": "https://aawsat.com/node/5321276",
-      "category": "مشرق أوسط",
-      "published": "Tue, 22 Sep 2026 15:21:23 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
       "title": "الصين تعارض أمام الأمم المتحدة مواقف أميركا إزاء إيران وكوبا",
       "url": "https://aawsat.com/node/5322961",
       "category": "دولي",
@@ -474,6 +484,14 @@
         "إيران",
         "أمريكا"
       ]
+    },
+    {
+      "title": "تحطّم طائرة عسكرية في شرق روسيا... ومقتل 6 من طاقمها",
+      "url": "https://aawsat.com/node/5323928",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 15:22:41 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "مقتل معلمة وإصابة شخصين إثر هجوم بسكين داخل مدرسة في سلوفاكيا",
@@ -554,6 +572,14 @@
       ]
     },
     {
+      "title": "غموض يحيط بحادثة «فيرفورد» بعد تقارير عن عدم العثور على متفجرات",
+      "url": "https://aawsat.com/node/5323926",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 15:21:11 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "إستونيا تتهم روسيا بالضلوع في حريق بشركة دفاعية... و«الناتو» يدعو للهدوء",
       "url": "https://aawsat.com/node/5323835",
       "category": "دولي",
@@ -606,30 +632,6 @@
       "url": "https://aawsat.com/node/5323519",
       "category": "دولي",
       "published": "Mon, 28 Sep 2026 15:22:17 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بريطانيا تفرج عن المعتقلين قرب قاعدة فيرفورد... وروبيو يشير إلى «طرف أجنبي»",
-      "url": "https://aawsat.com/node/5323517",
-      "category": "دولي",
-      "published": "Mon, 28 Sep 2026 15:18:42 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "في ختام زيارته إلى فرنسا... البابا ليو يرفض العنف باسم الدين",
-      "url": "https://aawsat.com/node/5323515",
-      "category": "دولي",
-      "published": "Mon, 28 Sep 2026 15:14:45 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الاتحاد الأوروبي يبحث تعزيز الردّ على «الهجمات الروسية الهجينة»",
-      "url": "https://aawsat.com/node/5323476",
-      "category": "دولي",
-      "published": "Mon, 28 Sep 2026 13:28:20 +0100",
       "breaking": false,
       "watch_topics": []
     }
@@ -732,6 +734,14 @@
       "url": "https://aawsat.com/node/5321412",
       "category": "مشرق أوسط",
       "published": "Tue, 22 Sep 2026 20:58:59 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تحطّم طائرة عسكرية في شرق روسيا... ومقتل 6 من طاقمها",
+      "url": "https://aawsat.com/node/5323928",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 15:22:41 +0100",
       "breaking": true,
       "watch_topics": []
     },
