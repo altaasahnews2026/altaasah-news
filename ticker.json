@@ -1,25 +1,14 @@
 {
-  "updated_at": "2026-09-29T09:22:30.740530+00:00",
+  "updated_at": "2026-09-29T09:38:51.709801+00:00",
   "latest": [
     {
       "title": "طهران تتوعد باستهداف البنى التحتية في الشرق الأوسط إذا \"لم يُضمن أمنها\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cjkg7kylkk1lo",
       "category": "عراق",
-      "published": "2026-09-29T09:00:11+00:00",
+      "published": "2026-09-29T09:17:47+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران"
-      ]
-    },
-    {
-      "title": "توضيح حكومي: حظر طيران إيران مستمر واتفاق ترامب والزيدي يشمل طائرات العراق فقط",
-      "url": "https://964media.com/721157/",
-      "category": "عراق",
-      "published": "2026-09-28T20:50:57+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
       ]
     },
     {
@@ -93,14 +82,6 @@
       "url": "https://964media.com/721159/",
       "category": "عراق",
       "published": "2026-09-28T20:19:11+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "قريبا.. وزير النفط تحت قبة البرلمان للمرة الثانية",
-      "url": "https://www.alsumaria.tv/news/politics/577432/%D9%82%D8%B1%D9%8A%D8%A8%D8%A7-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%AA%D8%AD%D8%AA-%D9%82%D8%A8%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-29T06:30:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -237,6 +218,22 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c3dx0wx5j0rno",
       "category": "عراق",
       "published": "2026-09-29T08:35:51+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "كادت تنكشف.. تفاصيل جديدة تعلن لأول مرة حول عملية البيجر",
+      "url": "https://www.alsumaria.tv/news/international/577447/%D9%83%D8%A7%D8%AF%D8%AA-%D8%AA%D9%86%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D8%AD%D9%88%D9%84-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%AC%D8%B1",
+      "category": "عراق",
+      "published": "2026-09-29T08:43:30+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "أسعار الذهب ترتفع في العراق.. مثقال المستورد يلامس المليون دينار",
+      "url": "https://www.alsumaria.tv/news/economy/577448/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%88%D8%B1%D8%AF-%D9%8A%D9%84%D8%A7%D9%85%D8%B3-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1",
+      "category": "عراق",
+      "published": "2026-09-29T08:48:11+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -635,7 +632,7 @@
       "title": "طهران تتوعد باستهداف البنى التحتية في الشرق الأوسط إذا \"لم يُضمن أمنها\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cjkg7kylkk1lo",
       "category": "عراق",
-      "published": "2026-09-29T09:00:11+00:00",
+      "published": "2026-09-29T09:17:47+00:00",
       "breaking": true,
       "watch_topics": [
         "إيران"
