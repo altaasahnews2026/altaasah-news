@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T01:04:07.409993+00:00",
+  "updated_at": "2026-09-29T01:20:25.683188+00:00",
   "items": [
     {
       "title": "سوريا.. حريق بخط غاز في دير الزور جراء انفجار",
@@ -48,6 +48,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/731e6ff968a2.html"
+    },
+    {
+      "title": "\"زيارة أخوية\" رفيعة المستوى بين الرياض وأبوظبي تختبر فرص تجاوز الخلافات - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c6wyzddy4v9vo",
+      "category": "محليات",
+      "region": "كركوك",
+      "governorate": "كركوك",
+      "published": "2026-09-29T00:54:33+00:00",
+      "image": "./assets/news/cb2ceae82f5828fc42da951a.jpg",
+      "original_image": "./assets/news/cb2ceae82f5828fc42da951a.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c6wyzddy4v9vo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": true,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/20456f1b23d3.html"
     },
     {
       "title": "ترامب ينفي تقديم عرض بتخفيف العقوبات على إيران، وعراقجي في انتظار رد واشنطن \"النهائي\" الثلاثاء - شفق نيوز..",
@@ -466,22 +482,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/07ae3ca36d13.html"
     },
     {
-      "title": "بي بي سي في قلب مدينة يمنية على خط المواجهة الأمامي حيث تحاول جماعة أنصار الله الحوثية السيطرة عليها - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c95y4ned8dejo",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-28T15:02:49+00:00",
-      "image": "./assets/news/56611f7e42b1dea6484f6e42.jpg",
-      "original_image": "./assets/news/56611f7e42b1dea6484f6e42.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c95y4ned8dejo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5356a4494245.html"
-    },
-    {
       "title": "استعادة أكثر من 80 قطعة أثرية وفنية هربت خارج العراق",
       "url": "https://964media.com/720946/",
       "category": "محليات",
@@ -496,22 +496,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ad1d85ccf703.html"
-    },
-    {
-      "title": "بلدية المنصور صارت أنيقة مثل المنصور وبغداد ستفخر بالأميرات.. وعد المديرة فاطمة",
-      "url": "https://964media.com/720773/",
-      "category": "محليات",
-      "region": "بغداد",
-      "published": "2026-09-27T19:16:33+00:00",
-      "image": "./assets/news/cd637c4557dad737d2b740ad.jpg",
-      "original_image": "./assets/news/cd637c4557dad737d2b740ad.jpg",
-      "source_url": "https://964media.com/720773/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a599c1bbfb3b.html"
     }
   ]
 }
