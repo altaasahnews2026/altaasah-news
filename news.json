@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T20:34:58.086719+00:00",
+  "updated_at": "2026-09-29T20:50:48.204204+00:00",
   "items": [
     {
       "title": "اعتقال مراهق خطط للهجوم على مدرسته",
@@ -16,6 +16,54 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/de1b87f754f8.html"
+    },
+    {
+      "title": "اتحاد الكرة: القرعة تحسم المتأهل لنصف نهائي خليجي 27 بين العراق وعُمان",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577494/sports/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%B1%D8%B9%D8%A9-%D8%AA%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%86%D8%B5%D9%81-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%B9%D9%8F%D9%85%D8%A7%D9%86",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-29T20:38:43+00:00",
+      "image": "./assets/news/2c00bd4c04b81556f18d8cac.jpg",
+      "original_image": "./assets/news/2c00bd4c04b81556f18d8cac.jpg",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/577494/sports/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%B1%D8%B9%D8%A9-%D8%AA%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%86%D8%B5%D9%81-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%B9%D9%8F%D9%85%D8%A7%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8a02bda4b1b5.html"
+    },
+    {
+      "title": "عند التساوي بكل شيء.. قرعة منتصف الليل تحسم بطاقة العراق أو عُمان",
+      "url": "https://964media.com/721512/",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-29T20:37:03+00:00",
+      "image": "./assets/news/6bf9d908e6e7958d038e6a3d.jpg",
+      "original_image": "./assets/news/6bf9d908e6e7958d038e6a3d.jpg",
+      "source_url": "https://964media.com/721512/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8044a9e03898.html"
+    },
+    {
+      "title": "أهل الكهف أيضاً سيراقبون سماء العراق: سنضرب أي طائرة أميركية ابتداءً من الغد",
+      "url": "https://964media.com/721503/",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-29T20:25:18+00:00",
+      "image": "./assets/news/01d7fd5a19c7cb98728de51f.jpg",
+      "original_image": "./assets/news/01d7fd5a19c7cb98728de51f.jpg",
+      "source_url": "https://964media.com/721503/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6a09d427fdc6.html"
     },
     {
       "title": "ترامب يعلن: أخرجنا من مضيق هرمز كميات نفط تفوق ما قبل الحرب",
@@ -480,22 +528,6 @@
       "report": true,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0e061a4b0f0a.html"
-    },
-    {
-      "title": "الدولار عاد لـ158 ألفاً.. ارتفاع جديد بأسعار الصرف في العراق",
-      "url": "https://www.alsumaria.tv/news/economy/577474/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B9%D8%A7%D8%AF-%D9%84%D9%80158-%D8%A3%D9%84%D9%81%D8%A7%D9%8B-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D8%B1%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-29T13:57:38+00:00",
-      "image": "./assets/news/c1f42bae2988b9cabc660acc.jpg",
-      "original_image": "./assets/news/c1f42bae2988b9cabc660acc.jpg",
-      "source_url": "https://www.alsumaria.tv/news/economy/577474/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B9%D8%A7%D8%AF-%D9%84%D9%80158-%D8%A3%D9%84%D9%81%D8%A7%D9%8B-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D8%B1%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/418f35b6cd04.html"
     },
     {
       "title": "“مكافحة الإرهاب قتلت مدنيين لا دواعش”.. كرد كركوك يطلبون تحقيقاً عاجلاً",
