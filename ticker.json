@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T07:36:42.378448+00:00",
+  "updated_at": "2026-09-29T07:51:16.903543+00:00",
   "latest": [
     {
       "title": "روبيو يحذر طهران من أي هجوم على مصالح أميركا",
@@ -90,16 +90,6 @@
       "url": "https://964media.com/721110/",
       "category": "عراق",
       "published": "2026-09-28T20:30:31+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
-      "title": "أسبوع الجمعية العامة للأمم المتحدة: غزة وإيران والسودان وأوكرانيا في صدارة الملفات - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c8e3r6rgznnko",
-      "category": "عراق",
-      "published": "2026-09-28T21:32:11+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
@@ -252,6 +242,14 @@
       "url": "https://www.alsumaria.tv/news/localnews/577434/%D9%82%D8%B1%D9%8A%D8%A8%D8%A7%D9%8B-%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1-%D8%AA%D8%AA%D8%B3%D9%84%D9%85-80-%D8%B1%D8%A7%D8%AF%D8%A7%D8%B1%D8%A7%D9%8B-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7%D9%8B",
       "category": "عراق",
       "published": "2026-09-29T07:00:00+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "النزاهة: القبض على (10) موظفين في مستشفى بالسماوة في قضايا تلاعب",
+      "url": "https://www.alsumaria.tv/news/localnews/577436/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-10-%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86-%D9%81%D9%8A-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A8%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D9%88%D8%A9-%D9%81%D9%8A-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D8%AA%D9%84%D8%A7%D8%B9%D8%A8",
+      "category": "عراق",
+      "published": "2026-09-29T07:08:05+00:00",
       "breaking": false,
       "watch_topics": []
     },
