@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T09:38:51.709801+00:00",
+  "updated_at": "2026-09-29T09:53:57.551906+00:00",
   "latest": [
     {
       "title": "طهران تتوعد باستهداف البنى التحتية في الشرق الأوسط إذا \"لم يُضمن أمنها\" - شفق نيوز..",
@@ -314,6 +314,16 @@
       ]
     },
     {
+      "title": "ولي العهد السعودي يتلقى اتصالاً هاتفياً من رئيس مجلس السيادة الانتقالي السوداني",
+      "url": "https://aawsat.com/node/5323790",
+      "category": "مشرق أوسط",
+      "published": "Tue, 29 Sep 2026 10:42:19 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "السعودية والمغرب تبحثان تعزيز التعاون الدفاعي",
       "url": "https://aawsat.com/node/5323604",
       "category": "مشرق أوسط",
@@ -448,14 +458,6 @@
       "watch_topics": []
     },
     {
-      "title": "بيانات أممية: أكثر من 4 آلاف ضحية جراء هجمات الحوثيين",
-      "url": "https://aawsat.com/node/5323477",
-      "category": "مشرق أوسط",
-      "published": "Mon, 28 Sep 2026 13:28:51 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "الصين تعارض أمام الأمم المتحدة مواقف أميركا إزاء إيران وكوبا",
       "url": "https://aawsat.com/node/5322961",
       "category": "دولي",
@@ -545,16 +547,6 @@
       ]
     },
     {
-      "title": "البيت الأبيض: منع «سي إن إن» من مرافقة ترمب على متن طائرة الرئاسة",
-      "url": "https://aawsat.com/node/5322717",
-      "category": "دولي",
-      "published": "Sat, 26 Sep 2026 02:36:33 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
       "title": "بوتين يأمر بزيادة عدد أفراد الجيش الروسي",
       "url": "https://aawsat.com/node/5323716",
       "category": "دولي",
@@ -623,6 +615,14 @@
       "url": "https://aawsat.com/node/5323476",
       "category": "دولي",
       "published": "Mon, 28 Sep 2026 13:28:20 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "«ربما أحبطتُ مخططاً إرهابياً»... مزارعة تروي تفاصيل رؤيتها للمشتبه بهم في واقعة قاعدة فيرفورد",
+      "url": "https://aawsat.com/node/5323417",
+      "category": "دولي",
+      "published": "Mon, 28 Sep 2026 11:11:33 +0100",
       "breaking": false,
       "watch_topics": []
     }
