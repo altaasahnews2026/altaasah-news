@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T14:52:20.957526+00:00",
+  "updated_at": "2026-09-29T15:05:26.322887+00:00",
   "latest": [
     {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
@@ -19,6 +19,17 @@
       "breaking": true,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "ترامب: الخلاف مع إيران سينتهي قريباً.. ولن تحصل على سلاح نووي",
+      "url": "https://www.alsumaria.tv/news/international/577478/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%B3%D9%8A%D9%86%D8%AA%D9%87%D9%8A-%D9%82%D8%B1%D9%8A%D8%A8%D8%A7%D9%8B-%D9%88%D9%84%D9%86-%D8%AA%D8%AD%D8%B5%D9%84-%D8%B9%D9%84%D9%89-%D8%B3%D9%84%D8%A7%D8%AD-%D9%86%D9%88%D9%88%D9%8A",
+      "category": "عراق",
+      "published": "2026-09-29T14:55:55+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
       ]
     },
     {
@@ -108,30 +119,6 @@
       "url": "https://964media.com/721226/",
       "category": "عراق",
       "published": "2026-09-29T09:24:49+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الحكيم يدعو قياداته النسوية في كربلاء لتحمل المنغصات ومواجهة حملات التسقيط",
-      "url": "https://964media.com/721240/",
-      "category": "عراق",
-      "published": "2026-09-29T10:03:22+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بوتين يأمر بزيادة عدد أفراد الجيش، وزيلينسكي يتحدث عن استعدادات لنشر عشرة آلاف جندي كوري شمالي - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c3dx0194rxq0o",
-      "category": "عراق",
-      "published": "2026-09-29T10:05:43+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بسبب خدعة المليون هاتف.. مداهمات في 19 دولة",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/577457/%D8%A8%D8%B3%D8%A8%D8%A8-%D8%AE%D8%AF%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%87%D8%A7%D8%AA%D9%81-%D9%85%D8%AF%D8%A7%D9%87%D9%85%D8%A7%D8%AA-%D9%81%D9%8A-19-%D8%AF%D9%88%D9%84%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-29T10:17:09+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -244,6 +231,22 @@
       "url": "https://www.alsumaria.tv/news/international/577470/%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D9%88%D8%A7%D8%AC%D9%87-%D8%AA%D9%81%D8%B4%D9%8A%D8%A7%D9%8B-%D9%84%D9%84%D8%AD%D8%B5%D8%A8%D8%A9-903-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%884-%D9%88%D9%81%D9%8A%D8%A7%D8%AA",
       "category": "عراق",
       "published": "2026-09-29T13:24:07+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "فليك أفضل مدرب في الدوري الإسباني خلال ايلول",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577471/sports/%D9%81%D9%84%D9%8A%D9%83-%D8%A3%D9%81%D8%B6%D9%84-%D9%85%D8%AF%D8%B1%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%8A%D9%84%D9%88%D9%84",
+      "category": "عراق",
+      "published": "2026-09-29T13:48:13+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "رويترز: إيطاليا تُكمل انسحاب قواتها من العراق",
+      "url": "https://www.alsumaria.tv/news/security/577472/%D8%B1%D9%88%D9%8A%D8%AA%D8%B1%D8%B2-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D8%AA%D9%8F%D9%83%D9%85%D9%84-%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D9%82%D9%88%D8%A7%D8%AA%D9%87%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+      "category": "عراق",
+      "published": "2026-09-29T13:56:14+00:00",
       "breaking": false,
       "watch_topics": []
     },
