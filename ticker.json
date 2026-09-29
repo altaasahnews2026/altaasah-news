@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-29T06:07:35.108358+00:00",
+  "updated_at": "2026-09-29T06:31:52.546593+00:00",
   "latest": [
+    {
+      "title": "روبيو يحذر طهران من أي هجوم على مصالح أميركا",
+      "url": "https://www.alsumaria.tv/news/international/577431/%D8%B1%D9%88%D8%A8%D9%8A%D9%88-%D9%8A%D8%AD%D8%B0%D8%B1-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D9%86-%D8%A3%D9%8A-%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-29T06:15:00+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
     {
       "title": "السعودية وأمريكا تؤكدان أهمية أمن الملاحة في هرمز وباب المندب",
       "url": "https://www.alsumaria.tv/news/international/577424/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%AA%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%A9-%D9%81%D9%8A-%D9%87%D8%B1%D9%85%D8%B2-%D9%88%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%A8",
@@ -168,14 +179,6 @@
       "url": "https://964media.com/720946/",
       "category": "عراق",
       "published": "2026-09-28T07:36:10+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ابتكار في التبريد وبطارية ضخمة.. هونر تطلق هاتف Magic9 Super Edition",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/577412/%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%A8%D8%B1%D9%8A%D8%AF-%D9%88%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A9-%D8%B6%D8%AE%D9%85%D8%A9-%D9%87%D9%88%D9%86%D8%B1-%D8%AA%D8%B7%D9%84%D9%82-%D9%87%D8%A7%D8%AA%D9%81-magic9-super-edition",
-      "category": "عراق",
-      "published": "2026-09-28T17:20:58+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -652,6 +655,17 @@
     }
   ],
   "breaking": [
+    {
+      "title": "روبيو يحذر طهران من أي هجوم على مصالح أميركا",
+      "url": "https://www.alsumaria.tv/news/international/577431/%D8%B1%D9%88%D8%A8%D9%8A%D9%88-%D9%8A%D8%AD%D8%B0%D8%B1-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D9%86-%D8%A3%D9%8A-%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-29T06:15:00+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
     {
       "title": "دوي انفجار في جزيرة قشم جنوبي إيران",
       "url": "https://www.alsumaria.tv/news/international/577421/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%82%D8%B4%D9%85-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
