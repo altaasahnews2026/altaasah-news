@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T03:27:05.900282+00:00",
+  "updated_at": "2026-09-29T03:41:13.503219+00:00",
   "items": [
     {
       "title": "سوريا.. حريق بخط غاز في دير الزور جراء انفجار",
@@ -48,6 +48,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/731e6ff968a2.html"
+    },
+    {
+      "title": "\"ثمرة الحراك المجتمعي\": انفراجة في أزمة السيدة المُسنة التي أشعلت احتجاجات في إسبانيا - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cmg496y0klg3o",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-29T03:16:43+00:00",
+      "image": "./assets/news/1e9ece7d9937b026ee242262.jpg",
+      "original_image": "./assets/news/1e9ece7d9937b026ee242262.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cmg496y0klg3o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3aaf0a4942b7.html"
     },
     {
       "title": "لماذا ذهب نتنياهو سراً إلى الإمارات الآن؟ وماذا طلب من بن زايد؟ - شفق نيوز..",
@@ -320,22 +336,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/876929b5d881.html"
-    },
-    {
-      "title": "الشرطة البريطانية تستجوب خمسة رجال اعتُقلوا قرب قاعدة فيرفورد الجوية، وتفرج عنهم بكفالة - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cwrk3y2p3zr0o",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-28T18:08:19+00:00",
-      "image": "./assets/news/dbe26bfeb24d90fdf7f2ee97.jpg",
-      "original_image": "./assets/news/dbe26bfeb24d90fdf7f2ee97.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cwrk3y2p3zr0o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c63d24c3814e.html"
     },
     {
       "title": "الخطوط العراقية تستأنف رحلاتها بين النجف والمطارات الإيرانية",
