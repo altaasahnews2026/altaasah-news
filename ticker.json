@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T23:59:06.768043+00:00",
+  "updated_at": "2026-09-29T00:07:28.942655+00:00",
   "latest": [
     {
       "title": "السعودية وأمريكا تؤكدان أهمية أمن الملاحة في هرمز وباب المندب",
@@ -491,6 +491,14 @@
       ]
     },
     {
+      "title": "مقتل 14 شخصاً في حريق بمصنع للألعاب النارية في روسيا",
+      "url": "https://aawsat.com/node/5323715",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 01:04:58 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "مسيّرة روسية تُلحق أضراراً بمركز حدودي أوكراني قرب بولندا",
       "url": "https://aawsat.com/node/5323592",
       "category": "دولي",
@@ -519,14 +527,6 @@
       "url": "https://aawsat.com/node/5323219",
       "category": "دولي",
       "published": "Sun, 27 Sep 2026 18:38:34 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "أوكرانيا تنقل 4 أطنان من الغذاء بمسيّرة إلى مدينة أوليشكي المحاصرة",
-      "url": "https://aawsat.com/node/5323206",
-      "category": "دولي",
-      "published": "Sun, 27 Sep 2026 17:51:15 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -763,6 +763,14 @@
       "watch_topics": []
     },
     {
+      "title": "مقتل 14 شخصاً في حريق بمصنع للألعاب النارية في روسيا",
+      "url": "https://aawsat.com/node/5323715",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 01:04:58 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "مسيّرة روسية تُلحق أضراراً بمركز حدودي أوكراني قرب بولندا",
       "url": "https://aawsat.com/node/5323592",
       "category": "دولي",
@@ -791,14 +799,6 @@
       "url": "https://aawsat.com/node/5323219",
       "category": "دولي",
       "published": "Sun, 27 Sep 2026 18:38:34 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "أوكرانيا تنقل 4 أطنان من الغذاء بمسيّرة إلى مدينة أوليشكي المحاصرة",
-      "url": "https://aawsat.com/node/5323206",
-      "category": "دولي",
-      "published": "Sun, 27 Sep 2026 17:51:15 +0100",
       "breaking": true,
       "watch_topics": []
     },
