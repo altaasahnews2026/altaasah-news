@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T22:00:16.224293+00:00",
+  "updated_at": "2026-09-29T22:13:15.758371+00:00",
   "latest": [
     {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
@@ -570,6 +570,14 @@
       ]
     },
     {
+      "title": "لوبن تدافع عن رئيس حزبها بمواجهة تهم معاداة السامية قبل انتخابات الرئاسة الفرنسية",
+      "url": "https://aawsat.com/node/5324102",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 23:12:15 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "مقدونيا الشمالية تعلن تفكيك خلية مرتبطة بتنظيم «داعش»",
       "url": "https://aawsat.com/node/5324091",
       "category": "دولي",
@@ -630,14 +638,6 @@
       "url": "https://aawsat.com/node/5323961",
       "category": "دولي",
       "published": "Tue, 29 Sep 2026 16:22:52 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "غموض يحيط بحادثة «فيرفورد» بعد تقارير عن عدم العثور على متفجرات",
-      "url": "https://aawsat.com/node/5323926",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 15:21:11 +0100",
       "breaking": false,
       "watch_topics": []
     }
