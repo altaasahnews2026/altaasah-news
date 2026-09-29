@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-29T13:30:37.989261+00:00",
+  "updated_at": "2026-09-29T13:47:35.501009+00:00",
   "items": [
+    {
+      "title": "موسكو لا ترغب بانسحاب إيران من معاهدة عدم انتشار الأسلحة النووية، وطهران تهدد باستهداف البنى التحتية في الشرق الأوسط - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cjkg7kylkk1lo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-29T13:26:39+00:00",
+      "image": "./assets/news/758ccc2fdd1b7b9fdfbbceb6.jpg",
+      "original_image": "./assets/news/758ccc2fdd1b7b9fdfbbceb6.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cjkg7kylkk1lo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e28d7f58ad52.html"
+    },
     {
       "title": "ولاية امريكية تواجه تفشياً للحصبة.. 903 إصابات و4 وفيات",
       "url": "https://www.alsumaria.tv/news/international/577470/%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D9%88%D8%A7%D8%AC%D9%87-%D8%AA%D9%81%D8%B4%D9%8A%D8%A7%D9%8B-%D9%84%D9%84%D8%AD%D8%B5%D8%A8%D8%A9-903-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%884-%D9%88%D9%81%D9%8A%D8%A7%D8%AA",
@@ -23,8 +39,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-29T13:19:46+00:00",
-      "image": "./assets/news/563ff62773e4237700d321c3.jpg",
-      "original_image": "./assets/news/563ff62773e4237700d321c3.jpg",
+      "image": "./assets/news/ae8a6f64c86571e4b30eb839.jpg",
+      "original_image": "./assets/news/ae8a6f64c86571e4b30eb839.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577469/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%A2%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%A8%D9%88%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -112,22 +128,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5ed5fd360f13.html"
-    },
-    {
-      "title": "موسكو لا ترغب بانسحاب إيران من معاهدة حظر الأسلحة النووية، وطهران تهدد باستهداف البنى التحتية في الشرق الأوسط - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cjkg7kylkk1lo",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-29T12:29:13+00:00",
-      "image": "./assets/news/758ccc2fdd1b7b9fdfbbceb6.jpg",
-      "original_image": "./assets/news/758ccc2fdd1b7b9fdfbbceb6.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cjkg7kylkk1lo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/33bbea7de128.html"
     },
     {
       "title": "الأمن والدفاع النيابية لـ 964: عملية آلتون كوبري لم تكن دقيقة وقتلاها مدنيون",
@@ -295,8 +295,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-29T10:51:12+00:00",
-      "image": "./assets/news/f783c4582a65d1a4f6f1a35d.jpg",
-      "original_image": "./assets/news/f783c4582a65d1a4f6f1a35d.jpg",
+      "image": "./assets/news/47625abf0eaf08f17bca6cd7.jpg",
+      "original_image": "./assets/news/47625abf0eaf08f17bca6cd7.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577459/%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D8%B1%D9%88%D8%A7%D8%AA%D8%A8-%D9%85%D8%AA%D9%82%D8%A7%D8%B9%D8%AF%D9%8A-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%B6%D9%85%D9%88%D9%86%D9%8A%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -528,22 +528,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bcceb5168948.html"
-    },
-    {
-      "title": "استعادة أكثر من 80 قطعة أثرية وفنية هربت خارج العراق",
-      "url": "https://964media.com/720946/",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-28T07:36:10+00:00",
-      "image": "./assets/news/c5af33ed3c698c7a83502020.jpg",
-      "original_image": "./assets/news/c5af33ed3c698c7a83502020.jpg",
-      "source_url": "https://964media.com/720946/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ad1d85ccf703.html"
     }
   ]
 }
