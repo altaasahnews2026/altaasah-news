@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T23:25:03.587887+00:00",
+  "updated_at": "2026-09-29T23:35:04.449488+00:00",
   "latest": [
     {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
@@ -493,17 +493,6 @@
       ]
     },
     {
-      "title": "الصين تعارض أمام الأمم المتحدة مواقف أميركا إزاء إيران وكوبا",
-      "url": "https://aawsat.com/node/5322961",
-      "category": "دولي",
-      "published": "Sat, 26 Sep 2026 20:13:20 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
-    },
-    {
       "title": "تحطّم طائرة عسكرية في شرق روسيا... ومقتل 6 من طاقمها",
       "url": "https://aawsat.com/node/5323928",
       "category": "دولي",
@@ -638,6 +627,14 @@
       "url": "https://aawsat.com/node/5323961",
       "category": "دولي",
       "published": "Tue, 29 Sep 2026 16:22:52 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "غموض يحيط بحادثة «فيرفورد» بعد تقارير عن عدم العثور على متفجرات",
+      "url": "https://aawsat.com/node/5323926",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 15:21:11 +0100",
       "breaking": false,
       "watch_topics": []
     }
