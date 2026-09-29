@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T00:07:28.942655+00:00",
+  "updated_at": "2026-09-29T00:30:44.732329+00:00",
   "latest": [
     {
       "title": "السعودية وأمريكا تؤكدان أهمية أمن الملاحة في هرمز وباب المندب",
@@ -579,6 +579,14 @@
       ]
     },
     {
+      "title": "بوتين يأمر بزيادة عدد أفراد الجيش الروسي",
+      "url": "https://aawsat.com/node/5323716",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 01:15:09 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "بولندا تعتمد قواعد زمن الحرب لإسقاط الطائرات الأجنبية في أجوائها",
       "url": "https://aawsat.com/node/5323570",
       "category": "دولي",
@@ -639,14 +647,6 @@
       "url": "https://aawsat.com/node/5323476",
       "category": "دولي",
       "published": "Mon, 28 Sep 2026 13:28:20 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "«ربما أحبطتُ مخططاً إرهابياً»... مزارعة تروي تفاصيل رؤيتها للمشتبه بهم في واقعة قاعدة فيرفورد",
-      "url": "https://aawsat.com/node/5323417",
-      "category": "دولي",
-      "published": "Mon, 28 Sep 2026 11:11:33 +0100",
       "breaking": false,
       "watch_topics": []
     }
