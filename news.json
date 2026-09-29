@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T03:09:50.910007+00:00",
+  "updated_at": "2026-09-29T03:27:05.900282+00:00",
   "items": [
     {
       "title": "سوريا.. حريق بخط غاز في دير الزور جراء انفجار",
@@ -48,6 +48,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/731e6ff968a2.html"
+    },
+    {
+      "title": "لماذا ذهب نتنياهو سراً إلى الإمارات الآن؟ وماذا طلب من بن زايد؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c6g7kx4yevevo",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-29T03:14:10+00:00",
+      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c6g7kx4yevevo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2ef850473d28.html"
     },
     {
       "title": "\"زيارة أخوية\" رفيعة المستوى بين الرياض وأبوظبي تختبر فرص تجاوز الخلافات - شفق نيوز..",
@@ -288,22 +304,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3f29a0df7605.html"
-    },
-    {
-      "title": "كيف يستخدم رئيس البرلمان الإيراني المصطلحات المالية لاستهداف الأسواق الأمريكية؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c6y8zld48k3vo",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-28T18:33:57+00:00",
-      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c6y8zld48k3vo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4d55c8e97ddc.html"
     },
     {
       "title": "أول تعليق من رونالدو بعد فوز البرتغال على النرويج",

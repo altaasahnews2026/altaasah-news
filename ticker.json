@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T03:09:54.377022+00:00",
+  "updated_at": "2026-09-29T03:27:09.936997+00:00",
   "latest": [
     {
       "title": "السعودية وأمريكا تؤكدان أهمية أمن الملاحة في هرمز وباب المندب",
@@ -11,16 +11,6 @@
         "إيران",
         "السعودية",
         "أمريكا"
-      ]
-    },
-    {
-      "title": "كيف يستخدم رئيس البرلمان الإيراني المصطلحات المالية لاستهداف الأسواق الأمريكية؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c6y8zld48k3vo",
-      "category": "عراق",
-      "published": "2026-09-28T18:33:57+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
       ]
     },
     {
@@ -258,6 +248,14 @@
       "url": "https://www.alsumaria.tv/news/localnews/577419/%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1-%D8%B4%D8%A7%D8%A8-%D8%AF%D8%A7%D8%AE%D9%84-%D9%85%D9%86%D8%B2%D9%84%D9%87-%D8%AC%D9%86%D9%88%D8%A8-%D8%B4%D8%B1%D9%82%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "category": "عراق",
       "published": "2026-09-28T19:42:01+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "قارئ نقوش بابل والعباسيين المعتقل في الموصل.. سيرة علمية للدكتور عامر الجميلي",
+      "url": "https://964media.com/721127/",
+      "category": "عراق",
+      "published": "2026-09-28T20:05:21+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -654,16 +652,6 @@
     }
   ],
   "breaking": [
-    {
-      "title": "كيف يستخدم رئيس البرلمان الإيراني المصطلحات المالية لاستهداف الأسواق الأمريكية؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c6y8zld48k3vo",
-      "category": "عراق",
-      "published": "2026-09-28T18:33:57+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
     {
       "title": "دوي انفجار في جزيرة قشم جنوبي إيران",
       "url": "https://www.alsumaria.tv/news/international/577421/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%82%D8%B4%D9%85-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
