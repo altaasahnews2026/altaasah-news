@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T19:51:11.752875+00:00",
+  "updated_at": "2026-09-29T20:03:25.820753+00:00",
   "latest": [
     {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
@@ -27,6 +27,17 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cjkg7kylkk1lo",
       "category": "عراق",
       "published": "2026-09-29T18:00:43+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "ترامب: أخرجنا من مضيق هرمز خلال اليومين الماضيين كميات نفط تفوق ما قبل الحرب",
+      "url": "https://www.alsumaria.tv/news/international/577493/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%a3%d8%ae%d8%b1%d8%ac%d9%86%d8%a7-%d9%85%d9%86-%d9%85%d8%b6%d9%8a%d9%82-%d9%87%d8%b1%d9%85%d8%b2-%d8%ae%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a%d9%8a%d9%86-%d9%83?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Tue, 29 Sep 2026 20:00:00 GMT",
       "breaking": false,
       "watch_topics": [
         "إيران",
@@ -226,14 +237,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c6x2zwexy23po",
       "category": "عراق",
       "published": "2026-09-29T16:18:23+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "استحداث محافظة الصويرة.. رئيس مجلس واسط يكشف موقفه ويحدد الشروط",
-      "url": "https://964media.com/721397/",
-      "category": "عراق",
-      "published": "2026-09-29T16:43:26+00:00",
       "breaking": false,
       "watch_topics": []
     },
