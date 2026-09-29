@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T18:42:38.965067+00:00",
+  "updated_at": "2026-09-29T18:57:31.781680+00:00",
   "latest": [
     {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
@@ -477,6 +477,17 @@
       ]
     },
     {
+      "title": "أميركا تفرض عقوبات على 10 أفراد وكيانات لمساعدتهم إيران على شراء أسلحة",
+      "url": "https://aawsat.com/node/5324055",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 19:54:53 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
       "title": "الصين تعارض أمام الأمم المتحدة مواقف أميركا إزاء إيران وكوبا",
       "url": "https://aawsat.com/node/5322961",
       "category": "دولي",
@@ -556,6 +567,14 @@
       ]
     },
     {
+      "title": "الادعاء الألماني يلاحق أوكرانياً بتهمة التجسس لصالح موسكو",
+      "url": "https://aawsat.com/node/5324051",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 19:47:40 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "بيرنهام يتعهد بإجراء تغيير كبير في بريطانيا",
       "url": "https://aawsat.com/node/5324047",
       "category": "دولي",
@@ -616,22 +635,6 @@
       "url": "https://aawsat.com/node/5323570",
       "category": "دولي",
       "published": "Mon, 28 Sep 2026 17:26:00 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "البابا يدعو من فرنسا إلى «وقف زحف الحرب» ويندد بوهم التسلح",
-      "url": "https://aawsat.com/node/5323554",
-      "category": "دولي",
-      "published": "Mon, 28 Sep 2026 16:45:51 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "دول «الاتحاد الأوروبي» تقر 5 مشروعات دفاعية كبرى في أنحاء القارة",
-      "url": "https://aawsat.com/node/5323523",
-      "category": "دولي",
-      "published": "Mon, 28 Sep 2026 15:27:38 +0100",
       "breaking": false,
       "watch_topics": []
     }
