@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T11:03:16.359557+00:00",
+  "updated_at": "2026-09-29T11:18:05.872395+00:00",
   "latest": [
     {
       "title": "طهران تتوعد باستهداف البنى التحتية في الشرق الأوسط إذا \"لم يُضمن أمنها\" - شفق نيوز..",
@@ -77,6 +77,16 @@
       "breaking": false,
       "watch_topics": [
         "السعودية"
+      ]
+    },
+    {
+      "title": "نص بيان الخزانة الأميركية حول السماح للخطوط الجوية تشغيل الرحلات بين العراق وايران",
+      "url": "https://www.alsumaria.tv/news/international/577460/%d9%86%d8%b5-%d8%a8%d9%8a%d8%a7%d9%86-%d8%a7%d9%84%d8%ae%d8%b2%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%a3%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d8%a9-%d8%ad%d9%88%d9%84-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%ad-%d9%84%d9%84%d8%ae%d8%b7%d9%88%d8%b7-%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d8%a9?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Tue, 29 Sep 2026 11:15:46 GMT",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
       ]
     },
     {
@@ -228,14 +238,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cqvgyvpj8dzvo",
       "category": "عراق",
       "published": "2026-09-29T10:04:35+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بوتين يأمر بزيادة عدد أفراد الجيش، وزيلينسكي يتحدث عن استعدادات لنشر عشرة آلاف جندي كوري شمالي - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c3dx0194rxq0o",
-      "category": "عراق",
-      "published": "2026-09-29T10:05:43+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -503,14 +505,6 @@
       "watch_topics": []
     },
     {
-      "title": "الشرطة البريطانية تعتقل 5 أشخاص بشبهة التخطيط لاستهداف قاعدة جوية",
-      "url": "https://aawsat.com/node/5323219",
-      "category": "دولي",
-      "published": "Sun, 27 Sep 2026 18:38:34 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "ترمب يذكر أرقاماً صادمة لعدد القتلى في الحرب الروسية الأوكرانية",
       "url": "https://aawsat.com/node/5322975",
       "category": "دولي",
@@ -547,6 +541,14 @@
       "watch_topics": [
         "أمريكا"
       ]
+    },
+    {
+      "title": "إستونيا تتهم روسيا بالضلوع في حريق بشركة دفاعية... و«الناتو» يدعو للهدوء",
+      "url": "https://aawsat.com/node/5323835",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 12:17:15 +0100",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "بوتين يأمر بزيادة عدد أفراد الجيش الروسي",
@@ -751,14 +753,6 @@
       "url": "https://aawsat.com/node/5323317",
       "category": "دولي",
       "published": "Mon, 28 Sep 2026 00:50:53 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "الشرطة البريطانية تعتقل 5 أشخاص بشبهة التخطيط لاستهداف قاعدة جوية",
-      "url": "https://aawsat.com/node/5323219",
-      "category": "دولي",
-      "published": "Sun, 27 Sep 2026 18:38:34 +0100",
       "breaking": true,
       "watch_topics": []
     },
