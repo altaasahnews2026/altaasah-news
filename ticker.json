@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T07:51:16.903543+00:00",
+  "updated_at": "2026-09-29T08:05:41.457244+00:00",
   "latest": [
     {
       "title": "روبيو يحذر طهران من أي هجوم على مصالح أميركا",
@@ -22,16 +22,6 @@
         "إيران",
         "السعودية",
         "أمريكا"
-      ]
-    },
-    {
-      "title": "دوي انفجار في جزيرة قشم جنوبي إيران",
-      "url": "https://www.alsumaria.tv/news/international/577421/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%82%D8%B4%D9%85-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
-      "category": "عراق",
-      "published": "2026-09-28T20:07:39+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
       ]
     },
     {
@@ -158,14 +148,6 @@
       "watch_topics": []
     },
     {
-      "title": "\"ثمرة الحراك المجتمعي\": انفراجة في أزمة السيدة المُسنة التي أشعلت احتجاجات في إسبانيا - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cmg496y0klg3o",
-      "category": "عراق",
-      "published": "2026-09-29T03:45:05+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "وزير الدفاع البريطاني: من السابق لأوانه الجزم بضلوع دولة أجنبية في حادث قاعدة \"راف فيرفورد\" العسكرية - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cwrk3y2p3zr0o",
       "category": "عراق",
@@ -250,6 +232,22 @@
       "url": "https://www.alsumaria.tv/news/localnews/577436/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-10-%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86-%D9%81%D9%8A-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A8%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D9%88%D8%A9-%D9%81%D9%8A-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D8%AA%D9%84%D8%A7%D8%B9%D8%A8",
       "category": "عراق",
       "published": "2026-09-29T07:08:05+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "المكتب الإعلامي للسيد الحكيم يهنئ السومرية بذكرى تأسيسها",
+      "url": "https://www.alsumaria.tv/news/politics/577437/%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A-%D9%84%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%AD%D9%83%D9%8A%D9%85-%D9%8A%D9%87%D9%86%D8%A6-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B0%D9%83%D8%B1%D9%89-%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3%D9%87%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-29T07:18:17+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "أول امرأة تواجه الإعدام في ولاية تينيسي الأمريكية منذ 200 عام، ومحاموها يقولون إنها ضحية - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c3dx0wx5j0rno",
+      "category": "عراق",
+      "published": "2026-09-29T07:21:07+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -653,16 +651,6 @@
       "watch_topics": [
         "إيران",
         "أمريكا"
-      ]
-    },
-    {
-      "title": "دوي انفجار في جزيرة قشم جنوبي إيران",
-      "url": "https://www.alsumaria.tv/news/international/577421/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%82%D8%B4%D9%85-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
-      "category": "عراق",
-      "published": "2026-09-28T20:07:39+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "إيران"
       ]
     },
     {
