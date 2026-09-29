@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T21:11:58.661303+00:00",
+  "updated_at": "2026-09-29T21:26:16.547906+00:00",
   "latest": [
     {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
@@ -169,14 +169,6 @@
       "watch_topics": []
     },
     {
-      "title": "التعليم تعلن إطلاق قناة قبول الطلبة الأوائل من خريجي الدراسة المهنية",
-      "url": "https://www.alsumaria.tv/news/localnews/577475/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%82%D9%86%D8%A7%D8%A9-%D9%82%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D8%A7%D8%A6%D9%84-%D9%85%D9%86-%D8%AE%D8%B1%D9%8A%D8%AC%D9%8A-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-29T14:03:28+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "الشمري يترأس اجتماعاً لتدقيق أوضاع العمالة الأجنبية في العراق",
       "url": "https://www.alsumaria.tv/news/security/577476/%D8%A7%D9%84%D8%B4%D9%85%D8%B1%D9%8A-%D9%8A%D8%AA%D8%B1%D8%A3%D8%B3-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7%D9%8B-%D9%84%D8%AA%D8%AF%D9%82%D9%8A%D9%82-%D8%A3%D9%88%D8%B6%D8%A7%D8%B9-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "category": "عراق",
@@ -253,6 +245,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cm93vr9xk7e5o",
       "category": "عراق",
       "published": "2026-09-29T18:57:28+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "مجلس الوزراء يتخذ قرارات عدة بينها يخص مكافحة الفساد ومنع تصدير المعادن",
+      "url": "https://www.alsumaria.tv/news/politics/577491/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%AA%D8%AE%D8%B0-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D9%86%D9%87%D8%A7-%D9%8A%D8%AE%D8%B5-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%81%D8%B3%D8%A7%D8%AF-%D9%88%D9%85%D9%86%D8%B9-%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF",
+      "category": "عراق",
+      "published": "2026-09-29T19:06:46+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -570,6 +570,14 @@
       ]
     },
     {
+      "title": "احتجاجات المدارس تتسع في فرنسا... وتوقيف 440 شخصاً",
+      "url": "https://aawsat.com/node/5324087",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 22:12:20 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "غموض يكتنف «مخطط تفجير» قاعدة بريطانية تستخدمها القوات الأميركية",
       "url": "https://aawsat.com/node/5324064",
       "category": "دولي",
@@ -630,14 +638,6 @@
       "url": "https://aawsat.com/node/5323835",
       "category": "دولي",
       "published": "Tue, 29 Sep 2026 12:17:15 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بوتين يأمر بزيادة عدد أفراد الجيش الروسي",
-      "url": "https://aawsat.com/node/5323716",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 01:15:09 +0100",
       "breaking": false,
       "watch_topics": []
     }

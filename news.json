@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T21:11:51.749511+00:00",
+  "updated_at": "2026-09-29T21:26:12.269188+00:00",
   "items": [
     {
       "title": "اعتقال مراهق خطط للهجوم على مدرسته",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/de1b87f754f8.html"
+    },
+    {
+      "title": "القرعة تؤهل عُمان على حساب العراق لنصف نهائي خليجي 27",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577495/sports/%D8%A7%D9%84%D9%82%D8%B1%D8%B9%D8%A9-%D8%AA%D8%A4%D9%87%D9%84-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%84%D9%86%D8%B5%D9%81-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-29T21:02:00+00:00",
+      "image": "./assets/news/4bf023c6826cbbf1b4dac57a.jpg",
+      "original_image": "./assets/news/4bf023c6826cbbf1b4dac57a.jpg",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/577495/sports/%D8%A7%D9%84%D9%82%D8%B1%D8%B9%D8%A9-%D8%AA%D8%A4%D9%87%D9%84-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%84%D9%86%D8%B5%D9%81-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f48417d69abe.html"
     },
     {
       "title": "اتحاد الكرة: القرعة تحسم المتأهل لنصف نهائي خليجي 27 بين العراق وعُمان",
@@ -512,22 +528,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/380196b3aea9.html"
-    },
-    {
-      "title": "التعليم تعلن إطلاق قناة قبول الطلبة الأوائل من خريجي الدراسة المهنية",
-      "url": "https://www.alsumaria.tv/news/localnews/577475/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%82%D9%86%D8%A7%D8%A9-%D9%82%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D8%A7%D8%A6%D9%84-%D9%85%D9%86-%D8%AE%D8%B1%D9%8A%D8%AC%D9%8A-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A%D8%A9",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-29T14:03:28+00:00",
-      "image": "./assets/news/ddd16e4069eb3fce1fe8ffde.jpg",
-      "original_image": "./assets/news/ddd16e4069eb3fce1fe8ffde.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577475/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%82%D9%86%D8%A7%D8%A9-%D9%82%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D8%A7%D8%A6%D9%84-%D9%85%D9%86-%D8%AE%D8%B1%D9%8A%D8%AC%D9%8A-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": true,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0e061a4b0f0a.html"
     },
     {
       "title": "“مكافحة الإرهاب قتلت مدنيين لا دواعش”.. كرد كركوك يطلبون تحقيقاً عاجلاً",
