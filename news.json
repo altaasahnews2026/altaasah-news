@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T02:15:49.639992+00:00",
+  "updated_at": "2026-09-30T02:30:15.291948+00:00",
   "items": [
     {
       "title": "اعتقال مراهق خطط للهجوم على مدرسته",
@@ -608,22 +608,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/992b005ee5fb.html"
-    },
-    {
-      "title": "شرطة بغداد تسبق احتفالات أيام السيادة بحملة لتفتيش المقاهي والكافيهات",
-      "url": "https://964media.com/721159/",
-      "category": "أمن",
-      "region": "بغداد",
-      "published": "2026-09-28T20:19:11+00:00",
-      "image": "./assets/news/4f668d15f954e6bb128335e4.jpg",
-      "original_image": "./assets/news/4f668d15f954e6bb128335e4.jpg",
-      "source_url": "https://964media.com/721159/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bcceb5168948.html"
     }
   ]
 }

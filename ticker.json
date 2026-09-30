@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T02:15:54.527878+00:00",
+  "updated_at": "2026-09-30T02:30:18.757787+00:00",
   "latest": [
     {
       "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
@@ -137,14 +137,6 @@
       ]
     },
     {
-      "title": "شرطة بغداد تسبق احتفالات أيام السيادة بحملة لتفتيش المقاهي والكافيهات",
-      "url": "https://964media.com/721159/",
-      "category": "عراق",
-      "published": "2026-09-28T20:19:11+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "عميد يضرب حملة الشهادات العليا “بالجلاليق” في بغداد",
       "url": "https://964media.com/721226/",
       "category": "عراق",
@@ -253,6 +245,14 @@
       "url": "https://964media.com/721458/",
       "category": "عراق",
       "published": "2026-09-29T19:08:39+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الحكومة توافق على بيع أراضٍ لمنتسبي جامعة الموصل خارج المزايدة",
+      "url": "https://964media.com/721460/",
+      "category": "عراق",
+      "published": "2026-09-29T19:11:20+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -501,6 +501,14 @@
       ]
     },
     {
+      "title": "مقتل طفل وإصابة 3 أشخاص في هجوم روسي على منطقة كييف",
+      "url": "https://aawsat.com/node/5324152",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 03:29:25 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "تحطّم طائرة عسكرية في شرق روسيا... ومقتل 6 من طاقمها",
       "url": "https://aawsat.com/node/5323928",
       "category": "دولي",
@@ -629,14 +637,6 @@
       "published": "Tue, 29 Sep 2026 16:22:52 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "غموض يحيط بحادثة «فيرفورد» بعد تقارير عن عدم العثور على متفجرات",
-      "url": "https://aawsat.com/node/5323926",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 15:21:11 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -753,6 +753,14 @@
       "watch_topics": [
         "أمريكا"
       ]
+    },
+    {
+      "title": "مقتل طفل وإصابة 3 أشخاص في هجوم روسي على منطقة كييف",
+      "url": "https://aawsat.com/node/5324152",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 03:29:25 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "تحطّم طائرة عسكرية في شرق روسيا... ومقتل 6 من طاقمها",
