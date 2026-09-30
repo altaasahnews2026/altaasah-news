@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T13:57:56.995492+00:00",
+  "updated_at": "2026-09-30T14:08:43.211081+00:00",
   "items": [
     {
       "title": "CBS News: أكثر من 600 هجوم استهدف المصالح الأميركية في العراق خلال 2026",
@@ -34,13 +34,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
     },
     {
+      "title": "نتنياهو: السعودية اعتقلت الطيار الذي هاجم زميله في طائرة فلاي دبي وأخضعته للتحقيق",
+      "url": "https://www.alsumaria.tv/news/international/577552/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%B9%D8%AA%D9%82%D9%84%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%8A-%D9%87%D8%A7%D8%AC%D9%85-%D8%B2%D9%85%D9%8A%D9%84%D9%87-%D9%81%D9%8A-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A-%D9%88%D8%A3%D8%AE%D8%B6%D8%B9",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-30T13:55:33+00:00",
+      "image": "./assets/news/63ca8bffd16b438001f951c5.webp",
+      "original_image": "./assets/news/63ca8bffd16b438001f951c5.webp",
+      "source_url": "https://www.alsumaria.tv/news/international/577552/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%B9%D8%AA%D9%82%D9%84%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%8A-%D9%87%D8%A7%D8%AC%D9%85-%D8%B2%D9%85%D9%8A%D9%84%D9%87-%D9%81%D9%8A-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A-%D9%88%D8%A3%D8%AE%D8%B6%D8%B9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bb0ac38140d7.html"
+    },
+    {
       "title": "انخفاض أسعار صرف الدولار في بغداد",
       "url": "https://www.alsumaria.tv/news/economy/577551/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "category": "اقتصاد",
       "region": "بغداد",
       "published": "2026-09-30T13:42:26+00:00",
-      "image": "./assets/news/5914b6fcaa9c65374d90cbf9.jpg",
-      "original_image": "./assets/news/5914b6fcaa9c65374d90cbf9.jpg",
+      "image": "./assets/news/ab5528f71171d3c9f1b3080e.jpg",
+      "original_image": "./assets/news/ab5528f71171d3c9f1b3080e.jpg",
       "source_url": "https://www.alsumaria.tv/news/economy/577551/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -416,22 +432,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/68008e084a3e.html"
-    },
-    {
-      "title": "اجتماع ومصير أرنولد على المحك.. ماذا حدث بعد خروج العراق من خليجي 27؟",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577520/sports/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%88%D9%85%D8%B5%D9%8A%D8%B1-%D8%A3%D8%B1%D9%86%D9%88%D9%84%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AD%D9%83-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AD%D8%AF%D8%AB-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B1%D9%88%D8%AC-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D9%86-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27%D8%9F",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-30T09:42:47+00:00",
-      "image": "./assets/news/c2b421567aaed9bd11ea4839.jpg",
-      "original_image": "./assets/news/c2b421567aaed9bd11ea4839.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/577520/sports/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%88%D9%85%D8%B5%D9%8A%D8%B1-%D8%A3%D8%B1%D9%86%D9%88%D9%84%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AD%D9%83-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AD%D8%AF%D8%AB-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B1%D9%88%D8%AC-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D9%86-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27%D8%9F",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f53650f91f7c.html"
     },
     {
       "title": "الأعرجي: انتهاء مهمة التحالف لا يعني انتهاء الشراكة مع أصدقاء العراق",
