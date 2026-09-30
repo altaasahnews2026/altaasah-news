@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-30T07:28:27.853110+00:00",
+  "updated_at": "2026-09-30T07:43:43.390115+00:00",
   "latest": [
     {
-      "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
-      "url": "https://aawsat.com/node/5322757",
+      "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
+      "url": "https://aawsat.com/node/5321276",
       "category": "مشرق أوسط",
-      "published": "Sat, 26 Sep 2026 09:10:07 +0100",
+      "published": "Tue, 22 Sep 2026 15:21:23 +0100",
       "breaking": false,
       "watch_topics": [
         "أمريكا"
@@ -15,7 +15,7 @@
       "title": "عاجل: مكتب نتنياهو يستبعد اختطاف طائرة فلاي دبي المتجهة إلى تل أبيب، مع احتمال هبوطها في السعودية - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
       "category": "عراق",
-      "published": "2026-09-30T07:02:42+00:00",
+      "published": "2026-09-30T07:21:07+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"
@@ -111,6 +111,16 @@
       ]
     },
     {
+      "title": "البنتاغون: انهينا عملية الانسحاب الكامل من العراق",
+      "url": "https://www.alsumaria.tv/news/international/577506/%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D8%A7%D9%86%D9%87%D9%8A%D9%86%D8%A7-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+      "category": "عراق",
+      "published": "2026-09-30T07:33:21+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "العراق يخسر أمام السعودية في خليجي 27",
       "url": "https://www.alsumaria.tv/Entertainment-News/577492/sports/%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%8a%d8%ae%d8%b3%d8%b1-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ae%d9%84%d9%8a%d8%ac%d9%8a-27?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
       "category": "عراق",
@@ -149,14 +159,6 @@
       "url": "https://964media.com/721416/",
       "category": "عراق",
       "published": "2026-09-29T17:12:19+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "هيئة الحج تدعو المشمولين بالحج لمراجعة مراكز فحص الاستطاعة",
-      "url": "https://www.alsumaria.tv/news/localnews/577488/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%AD%D8%AC-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A7%D9%84%D9%85%D8%B4%D9%85%D9%88%D9%84%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AD%D8%AC-%D9%84%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D9%85%D8%B1%D8%A7%D9%83%D8%B2-%D9%81%D8%AD%D8%B5-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B7%D8%A7%D8%B9%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-29T17:13:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -470,13 +472,13 @@
       ]
     },
     {
-      "title": "السعودية: زوال الخطر عن جازان ونجران بعد إطلاق الإنذار المبكر",
-      "url": "https://aawsat.com/node/5323480",
+      "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
+      "url": "https://aawsat.com/node/5322757",
       "category": "مشرق أوسط",
-      "published": "Mon, 28 Sep 2026 13:37:12 +0100",
+      "published": "Sat, 26 Sep 2026 09:10:07 +0100",
       "breaking": false,
       "watch_topics": [
-        "السعودية"
+        "أمريكا"
       ]
     },
     {
@@ -644,7 +646,7 @@
       "title": "عاجل: مكتب نتنياهو يستبعد اختطاف طائرة فلاي دبي المتجهة إلى تل أبيب، مع احتمال هبوطها في السعودية - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
       "category": "عراق",
-      "published": "2026-09-30T07:02:42+00:00",
+      "published": "2026-09-30T07:21:07+00:00",
       "breaking": true,
       "watch_topics": [
         "السعودية"

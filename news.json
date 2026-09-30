@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-09-30T07:28:23.844162+00:00",
+  "updated_at": "2026-09-30T07:43:39.921264+00:00",
   "items": [
+    {
+      "title": "البنتاغون: انهينا عملية الانسحاب الكامل من العراق",
+      "url": "https://www.alsumaria.tv/news/international/577506/%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D8%A7%D9%86%D9%87%D9%8A%D9%86%D8%A7-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-30T07:33:21+00:00",
+      "image": "./assets/news/df5851b494f3dd6928912eaf.jpg",
+      "original_image": "./assets/news/df5851b494f3dd6928912eaf.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577506/%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D8%A7%D9%86%D9%87%D9%8A%D9%86%D8%A7-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3664ec0864a7.html"
+    },
+    {
+      "title": "عاجل: مكتب نتنياهو يستبعد اختطاف طائرة فلاي دبي المتجهة إلى تل أبيب، مع احتمال هبوطها في السعودية - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-30T07:21:07+00:00",
+      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/dcd3004d466e.html"
+    },
     {
       "title": "التربية توجه بتسهيل إجراءات ذوي الإعاقة والاحتياجات الخاصة",
       "url": "https://www.alsumaria.tv/news/localnews/577505/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D9%88%D8%AC%D9%87-%D8%A8%D8%AA%D8%B3%D9%87%D9%8A%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9",
@@ -32,22 +64,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7e944fe65dd7.html"
-    },
-    {
-      "title": "عاجل: مكتب نتنياهو يستبعد اختطاف طائرة فلاي دبي المتجهة إلى تل أبيب، مع احتمال هبوطها في السعودية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-30T07:02:42+00:00",
-      "image": "./assets/news/a446640ef09610497a56424a.jpg",
-      "original_image": "./assets/news/a446640ef09610497a56424a.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7c1553a81b50.html"
     },
     {
       "title": "أمطار وحرارة منخفضة.. الاحد يعيد امجاد الصيف",
@@ -176,22 +192,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b48024bac7de.html"
-    },
-    {
-      "title": "وردة المسيح والعندليب: قصة القديسة تريز الطفل يسوع وسر لوحة عبد الحليم حافظ في كنيستها بمصر - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c331lxl75xmo",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-30T05:35:43+00:00",
-      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c331lxl75xmo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d3f9f96ac1c5.html"
     },
     {
       "title": "فنجان القهوة في مواجهة ألزهايمر",
@@ -512,22 +512,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/18987d7b42cd.html"
-    },
-    {
-      "title": "هيئة الحج تدعو المشمولين بالحج لمراجعة مراكز فحص الاستطاعة",
-      "url": "https://www.alsumaria.tv/news/localnews/577488/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%AD%D8%AC-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A7%D9%84%D9%85%D8%B4%D9%85%D9%88%D9%84%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AD%D8%AC-%D9%84%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D9%85%D8%B1%D8%A7%D9%83%D8%B2-%D9%81%D8%AD%D8%B5-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B7%D8%A7%D8%B9%D8%A9",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-29T17:13:00+00:00",
-      "image": "./assets/news/35922007cacec76ed93bafb0.jpg",
-      "original_image": "./assets/news/35922007cacec76ed93bafb0.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577488/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%AD%D8%AC-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A7%D9%84%D9%85%D8%B4%D9%85%D9%88%D9%84%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AD%D8%AC-%D9%84%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D9%85%D8%B1%D8%A7%D9%83%D8%B2-%D9%81%D8%AD%D8%B5-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B7%D8%A7%D8%B9%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/120ca94c410b.html"
     },
     {
       "title": "اعتقال امرأة في بغداد هددت بنشر صور فتاة عبر مواقع التواصل الاجتماعي",
