@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T23:10:44.919995+00:00",
+  "updated_at": "2026-09-30T23:23:52.226099+00:00",
   "items": [
     {
       "title": "قتلى وجرحى إثر استهداف حافلة بريف حماة في سوريا",
@@ -55,8 +55,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-30T22:28:00+00:00",
-      "image": "./assets/news/77c9f84a77fdafe877a4803c.jpg",
-      "original_image": "./assets/news/77c9f84a77fdafe877a4803c.jpg",
+      "image": "./assets/news/2eefce5e7264e67fb6a314d7.jpg",
+      "original_image": "./assets/news/2eefce5e7264e67fb6a314d7.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577594/%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D8%AA%D9%85%D8%AF%D8%AF-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%B9%D9%84%D9%89-%D8%AD%D8%AF%D9%88%D8%AF%D9%87%D8%A7-%D9%85%D8%B9-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%88%D8%B6%D8%B9-%D8%B3%D8%A8%D8%AA%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -576,22 +576,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b862592d151e.html"
-    },
-    {
-      "title": "اعتقال امرأة في بغداد هددت بنشر صور فتاة عبر مواقع التواصل الاجتماعي",
-      "url": "https://964media.com/721416/",
-      "category": "أمن",
-      "region": "بغداد",
-      "published": "2026-09-29T17:12:19+00:00",
-      "image": "./assets/news/95ea2b6670d6cfa69a3cb70d.jpg",
-      "original_image": "./assets/news/95ea2b6670d6cfa69a3cb70d.jpg",
-      "source_url": "https://964media.com/721416/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9e57b1f28962.html"
     }
   ]
 }
