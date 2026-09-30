@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T12:53:33.398058+00:00",
+  "updated_at": "2026-09-30T13:08:54.063078+00:00",
   "items": [
     {
       "title": "CBS News: أكثر من 600 هجوم استهدف المصالح الأميركية في العراق خلال 2026",
@@ -32,6 +32,38 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
+    },
+    {
+      "title": "وداع ميسي يقترب.. الرقم 10 يبقى بلا صاحب في الأرجنتين",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577549/sports/%D9%88%D8%AF%D8%A7%D8%B9-%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D8%A7%D9%84%D8%B1%D9%82%D9%85-10-%D9%8A%D8%A8%D9%82%D9%89-%D8%A8%D9%84%D8%A7-%D8%B5%D8%A7%D8%AD%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-30T13:00:00+00:00",
+      "image": "./assets/news/79770adf960aba8cf225d8b4.jpg",
+      "original_image": "./assets/news/79770adf960aba8cf225d8b4.jpg",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/577549/sports/%D9%88%D8%AF%D8%A7%D8%B9-%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D8%A7%D9%84%D8%B1%D9%82%D9%85-10-%D9%8A%D8%A8%D9%82%D9%89-%D8%A8%D9%84%D8%A7-%D8%B5%D8%A7%D8%AD%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2fa17e60dbf9.html"
+    },
+    {
+      "title": "بث مباشر.. مراسم الاحتفال الرسمي ليوم السيادة في بغداد",
+      "url": "https://964media.com/721691/",
+      "category": "سياسة",
+      "region": "بغداد",
+      "published": "2026-09-30T12:44:06+00:00",
+      "image": "./assets/news/323d5a9a7cc20439b0b6a3c5.jpg",
+      "original_image": "./assets/news/323d5a9a7cc20439b0b6a3c5.jpg",
+      "source_url": "https://964media.com/721691/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/005638c70740.html"
     },
     {
       "title": "الشمري: يوم السيادة بداية مسؤولية عراقية كاملة عن أمن البلاد",
@@ -119,8 +151,8 @@
       "category": "محليات",
       "region": "بغداد",
       "published": "2026-09-30T11:30:07+00:00",
-      "image": "./assets/news/dd899691f48047ad941d7413.jpg",
-      "original_image": "./assets/news/dd899691f48047ad941d7413.jpg",
+      "image": "./assets/news/59776b746042cea712257720.jpg",
+      "original_image": "./assets/news/59776b746042cea712257720.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/577543/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-7-%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D9%88%D8%B6%D8%A8%D8%B7-%D8%AC%D9%88%D8%A7%D8%B2%D8%A7%D8%AA-%D9%88%D8%A3%D8%AE%D8%AA%D8%A7%D9%85-%D9%85%D8%B2%D9%88%D8%B1%D8%A9-%D8%B4%D8%B1%D9%82%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -151,8 +183,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-30T11:23:42+00:00",
-      "image": "./assets/news/c231b51f2a7742f57b344dc5.jpg",
-      "original_image": "./assets/news/c231b51f2a7742f57b344dc5.jpg",
+      "image": "./assets/news/42f6e36a463fe4260d77294f.jpg",
+      "original_image": "./assets/news/42f6e36a463fe4260d77294f.jpg",
       "source_url": "https://www.alsumaria.tv/news/artculture/577542/%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D9%8A%D8%BA%D9%8A%D9%91%D8%A8-%D8%B2%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC-%D8%B5%D8%A7%D8%AF%D9%82-%D8%A7%D9%84%D8%B5%D8%A8%D9%91%D8%A7%D8%AD",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -400,22 +432,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/220d516dc259.html"
-    },
-    {
-      "title": "القيادة المركزية الأمريكية توضح: الانسحاب من العراق جزء من خطة انتقالية مدروسة",
-      "url": "https://www.alsumaria.tv/news/security/577517/%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D9%88%D8%B6%D8%AD-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AC%D8%B2%D8%A1-%D9%85%D9%86-%D8%AE%D8%B7%D8%A9-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84%D9%8A%D8%A9",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-30T09:15:07+00:00",
-      "image": "./assets/news/1663b4b1d944c43f1b90f762.jpg",
-      "original_image": "./assets/news/1663b4b1d944c43f1b90f762.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/577517/%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D9%88%D8%B6%D8%AD-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AC%D8%B2%D8%A1-%D9%85%D9%86-%D8%AE%D8%B7%D8%A9-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84%D9%8A%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f258fe8943fb.html"
     },
     {
       "title": "العراق بعد الانسحاب الأمريكي: من شبح \"تنظيم الدولة\" إلى معركة سلاح الفصائل - شفق نيوز..",
