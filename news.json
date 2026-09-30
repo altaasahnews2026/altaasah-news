@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T16:12:05.203777+00:00",
+  "updated_at": "2026-09-30T16:29:35.470507+00:00",
   "items": [
     {
       "title": "رئيس البرلمان: العراق لن يكون ساحة لتصفية الصراعات أو ممراً للاعتداء على الآخرين",
@@ -18,6 +18,70 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
     },
     {
+      "title": "واشنطن تدخل على خط حادثة فلاي دبي: التحقيق مستمر",
+      "url": "https://www.alsumaria.tv/news/international/577567/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AF%D8%AE%D9%84-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7-%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%85%D8%B3%D8%AA%D9%85%D8%B1",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-30T16:21:01+00:00",
+      "image": "./assets/news/91b85ba8086130cf304c1265.jpg",
+      "original_image": "./assets/news/91b85ba8086130cf304c1265.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577567/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AF%D8%AE%D9%84-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7-%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%85%D8%B3%D8%AA%D9%85%D8%B1",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c9c2a31a3d4c.html"
+    },
+    {
+      "title": "\"قراراتي مرتبطة باحتمال تجدُّد القتال\": ماذا يعني أن تُصبح الحرب \"الوضع الطبيعي\"؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c9e8e57004zmo",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-30T16:14:18+00:00",
+      "image": "./assets/news/4f7e00a25f171015cacd9b9a.jpg",
+      "original_image": "./assets/news/4f7e00a25f171015cacd9b9a.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c9e8e57004zmo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c9632a3a6d32.html"
+    },
+    {
+      "title": "آل ميرزا يتفقد مشاريع المجاري برفقة المحافظ ومستشار رئيس الوزراء في الديوانية",
+      "url": "https://www.alsumaria.tv/news/localnews/577566/%D8%A2%D9%84-%D9%85%D9%8A%D8%B1%D8%B2%D8%A7-%D9%8A%D8%AA%D9%81%D9%82%D8%AF-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D8%B1%D9%8A-%D8%A8%D8%B1%D9%81%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D9%88%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A7%D9%84",
+      "category": "سياسة",
+      "region": "القادسية",
+      "published": "2026-09-30T16:07:20+00:00",
+      "image": "./assets/news/5591ba15534acab5f6b2d015.jpg",
+      "original_image": "./assets/news/5591ba15534acab5f6b2d015.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577566/%D8%A2%D9%84-%D9%85%D9%8A%D8%B1%D8%B2%D8%A7-%D9%8A%D8%AA%D9%81%D9%82%D8%AF-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D8%B1%D9%8A-%D8%A8%D8%B1%D9%81%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D9%88%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A7%D9%84",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "القادسية",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5bc10609f05f.html"
+    },
+    {
+      "title": "بالصور.. حملة في بغداد بمناسبة يوم السيادة",
+      "url": "https://www.alsumaria.tv/news/localnews/577565/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%AD%D9%85%D9%84%D8%A9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
+      "category": "سياسة",
+      "region": "بغداد",
+      "published": "2026-09-30T16:04:35+00:00",
+      "image": "./assets/news/ea6846cb5b0e2cbffc9a53ed.jpg",
+      "original_image": "./assets/news/ea6846cb5b0e2cbffc9a53ed.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577565/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%AD%D9%85%D9%84%D8%A9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6fd5d769ae84.html"
+    },
+    {
       "title": "الخارجية الامريكية ترفع الحظر المفروض على الإمدادات العسكرية إلى سوريا",
       "url": "https://www.alsumaria.tv/news/international/577564/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D9%85%D9%81%D8%B1%D9%88%D8%B6-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D9%85%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
       "category": "عربي ودولي",
@@ -32,22 +96,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c3cfd92c7d5f.html"
-    },
-    {
-      "title": "\"قراراتي مرتبطة باحتمال تجدُّد القتال\": ماذا يعني أن تُصبح الحرب \"الوضع الطبيعي\"؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c9e8e57004zmo",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-30T15:45:13+00:00",
-      "image": "./assets/news/4f7e00a25f171015cacd9b9a.jpg",
-      "original_image": "./assets/news/4f7e00a25f171015cacd9b9a.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c9e8e57004zmo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/73495ab61c0c.html"
     },
     {
       "title": "15 مليون دولار مكافأة.. واشنطن تبحث عن ممولي الحرس الثوري",
@@ -418,38 +466,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d58645cb0151.html"
     },
     {
-      "title": "شركة توزيع المنتجات النفطية توقف مؤقتاً رابط ستيكر البنزين",
-      "url": "https://www.alsumaria.tv/news/localnews/577546/%D8%B4%D8%B1%D9%83%D8%A9-%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A%D8%A9-%D8%AA%D9%88%D9%82%D9%81-%D9%85%D8%A4%D9%82%D8%AA%D8%A7%D9%8B-%D8%B1%D8%A7%D8%A8%D8%B7-%D8%B3%D8%AA%D9%8A%D9%83%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D8%B2%D9%8A%D9%86",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-09-30T12:15:37+00:00",
-      "image": "./assets/news/f4568fd5ef00f79911888c1c.jpg",
-      "original_image": "./assets/news/f4568fd5ef00f79911888c1c.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577546/%D8%B4%D8%B1%D9%83%D8%A9-%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A%D8%A9-%D8%AA%D9%88%D9%82%D9%81-%D9%85%D8%A4%D9%82%D8%AA%D8%A7%D9%8B-%D8%B1%D8%A7%D8%A8%D8%B7-%D8%B3%D8%AA%D9%8A%D9%83%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D8%B2%D9%8A%D9%86",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8ca5fd3bda45.html"
-    },
-    {
-      "title": "شبل الزيدي: يوم السيادة يمثل بداية مرحلة جديدة للعراق",
-      "url": "https://www.alsumaria.tv/news/politics/577545/%D8%B4%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D9%8A%D9%85%D8%AB%D9%84-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-30T11:52:39+00:00",
-      "image": "./assets/news/af5bd120db40f058bf0eab0e.jpg",
-      "original_image": "./assets/news/af5bd120db40f058bf0eab0e.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/577545/%D8%B4%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D9%8A%D9%85%D8%AB%D9%84-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e24754345f09.html"
-    },
-    {
       "title": "الكتائب: الطيران الأميركي التجسسي والحربي لا زال يعمل بأجواء العراق",
       "url": "https://964media.com/721654/",
       "category": "محليات",
@@ -464,22 +480,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c2fd0805faa4.html"
-    },
-    {
-      "title": "حزب الدعوة في 30 أيلول: سيادة العراق تحققت بانسحاب الأميركان 2011",
-      "url": "https://964media.com/721622/",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-30T11:20:02+00:00",
-      "image": "./assets/news/7e4beff07fdb2534b9a652b2.jpg",
-      "original_image": "./assets/news/7e4beff07fdb2534b9a652b2.jpg",
-      "source_url": "https://964media.com/721622/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e27cfbcd130d.html"
     },
     {
       "title": "كيف تتخلص من العادات الخفية التي تجعل قلقك الاجتماعي أسوأ؟ - شفق نيوز..",
