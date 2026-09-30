@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T08:46:45.522726+00:00",
+  "updated_at": "2026-09-30T08:59:24.584216+00:00",
   "latest": [
     {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
@@ -9,16 +9,6 @@
       "breaking": false,
       "watch_topics": [
         "أمريكا"
-      ]
-    },
-    {
-      "title": "مكتب نتنياهو يستبعد اختطاف طائرة فلاي دبي المتجهة إلى تل أبيب، مع هبوطها في السعودية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "category": "عراق",
-      "published": "2026-09-30T07:45:52+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
       ]
     },
     {
@@ -100,6 +90,16 @@
       ]
     },
     {
+      "title": "طائرة من دبي إلى إسرائيل تهبط في السعودية \"بعد شجار على متنها\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "category": "عراق",
+      "published": "2026-09-30T08:35:45+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "عميد يضرب حملة الشهادات العليا “بالجلاليق” في بغداد",
       "url": "https://964media.com/721226/",
       "category": "عراق",
@@ -152,14 +152,6 @@
       "url": "https://964media.com/721512/",
       "category": "عراق",
       "published": "2026-09-29T20:37:03+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "اتحاد الكرة: القرعة تحسم المتأهل لنصف نهائي خليجي 27 بين العراق وعُمان",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577494/sports/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%B1%D8%B9%D8%A9-%D8%AA%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%86%D8%B5%D9%81-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%B9%D9%8F%D9%85%D8%A7%D9%86",
-      "category": "عراق",
-      "published": "2026-09-29T20:38:43+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -248,6 +240,14 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c6e30dkyve4po",
       "category": "عراق",
       "published": "2026-09-30T07:21:29+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "ضبط أكثر من 5 كيلوغرامات ذهب لمعاونة مدير التسجيل العقاري بصلاح الدين",
+      "url": "https://964media.com/721555/",
+      "category": "عراق",
+      "published": "2026-09-30T07:46:22+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -635,16 +635,6 @@
     }
   ],
   "breaking": [
-    {
-      "title": "مكتب نتنياهو يستبعد اختطاف طائرة فلاي دبي المتجهة إلى تل أبيب، مع هبوطها في السعودية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "category": "عراق",
-      "published": "2026-09-30T07:45:52+00:00",
-      "breaking": true,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
     {
       "title": "“مكافحة الإرهاب قتلت مدنيين لا دواعش”.. كرد كركوك يطلبون تحقيقاً عاجلاً",
       "url": "https://964media.com/721318/",
