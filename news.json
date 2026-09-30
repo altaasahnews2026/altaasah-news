@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T13:08:54.063078+00:00",
+  "updated_at": "2026-09-30T13:28:36.188070+00:00",
   "items": [
     {
       "title": "CBS News: أكثر من 600 هجوم استهدف المصالح الأميركية في العراق خلال 2026",
@@ -34,13 +34,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
     },
     {
+      "title": "الزيدي: القرار الأمني والعسكري أصبح وطنياً وخاصاً بمؤسسات الدولة",
+      "url": "https://www.alsumaria.tv/news/security/577550/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%A3%D8%B5%D8%A8%D8%AD-%D9%88%D8%B7%D9%86%D9%8A%D8%A7%D9%8B-%D9%88%D8%AE%D8%A7%D8%B5%D8%A7%D9%8B-%D8%A8%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-09-30T13:19:36+00:00",
+      "image": "./assets/news/ef8e81bc9378c2d7862b316c.jpg",
+      "original_image": "./assets/news/ef8e81bc9378c2d7862b316c.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/577550/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%A3%D8%B5%D8%A8%D8%AD-%D9%88%D8%B7%D9%86%D9%8A%D8%A7%D9%8B-%D9%88%D8%AE%D8%A7%D8%B5%D8%A7%D9%8B-%D8%A8%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": true,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bc9e1188bd93.html"
+    },
+    {
       "title": "وداع ميسي يقترب.. الرقم 10 يبقى بلا صاحب في الأرجنتين",
       "url": "https://www.alsumaria.tv/Entertainment-News/577549/sports/%D9%88%D8%AF%D8%A7%D8%B9-%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D8%A7%D9%84%D8%B1%D9%82%D9%85-10-%D9%8A%D8%A8%D9%82%D9%89-%D8%A8%D9%84%D8%A7-%D8%B5%D8%A7%D8%AD%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86",
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-30T13:00:00+00:00",
-      "image": "./assets/news/79770adf960aba8cf225d8b4.jpg",
-      "original_image": "./assets/news/79770adf960aba8cf225d8b4.jpg",
+      "image": "./assets/news/baf85f7821437fadc986312b.jpg",
+      "original_image": "./assets/news/baf85f7821437fadc986312b.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/577549/sports/%D9%88%D8%AF%D8%A7%D8%B9-%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D8%A7%D9%84%D8%B1%D9%82%D9%85-10-%D9%8A%D8%A8%D9%82%D9%89-%D8%A8%D9%84%D8%A7-%D8%B5%D8%A7%D8%AD%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -48,6 +64,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2fa17e60dbf9.html"
+    },
+    {
+      "title": "“الزيدي يتوعد المقصر مهما كانت رتبته”.. 72 ساعة لكشف ملابسات عملية آلتون كوبري",
+      "url": "https://964media.com/721681/",
+      "category": "محليات",
+      "region": "كركوك",
+      "published": "2026-09-30T12:59:47+00:00",
+      "image": "./assets/news/1800e3fed921ca3ea3982d3b.jpg",
+      "original_image": "./assets/news/1800e3fed921ca3ea3982d3b.jpg",
+      "source_url": "https://964media.com/721681/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": true,
+      "report": false,
+      "governorate": "كركوك",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/00729af69c75.html"
     },
     {
       "title": "بث مباشر.. مراسم الاحتفال الرسمي ليوم السيادة في بغداد",
@@ -400,22 +432,6 @@
       "report": false,
       "governorate": "صلاح الدين",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/af4ae7992c2b.html"
-    },
-    {
-      "title": "السيد الحكيم: يوم السيادة نقطة شروع لحل شامل لمشكلة السلاح خارج الدولة",
-      "url": "https://www.alsumaria.tv/news/politics/577518/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%AD%D9%83%D9%8A%D9%85-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D9%86%D9%82%D8%B7%D8%A9-%D8%B4%D8%B1%D9%88%D8%B9-%D9%84%D8%AD%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%D9%84%D9%85%D8%B4%D9%83%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-30T09:34:58+00:00",
-      "image": "./assets/news/6e7f3a544e8ff04feb01ef4c.jpg",
-      "original_image": "./assets/news/6e7f3a544e8ff04feb01ef4c.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/577518/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%AD%D9%83%D9%8A%D9%85-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D9%86%D9%82%D8%B7%D8%A9-%D8%B4%D8%B1%D9%88%D8%B9-%D9%84%D8%AD%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%D9%84%D9%85%D8%B4%D9%83%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/56afe20e15fd.html"
     },
     {
       "title": "الأعرجي: انتهاء مهمة التحالف لا يعني انتهاء الشراكة مع أصدقاء العراق",

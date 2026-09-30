@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-30T13:08:59.212470+00:00",
+  "updated_at": "2026-09-30T13:28:41.500559+00:00",
   "latest": [
+    {
+      "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
+      "url": "https://aawsat.com/node/5322757",
+      "category": "مشرق أوسط",
+      "published": "Sat, 26 Sep 2026 09:10:07 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
     {
       "title": "قطر تعمل على \"سد الفجوة\" بين الولايات المتحدة وإيران، وترامب يؤكد أن طهران \"ستستسلم\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cq62jpvz5pg5o",
@@ -109,14 +119,6 @@
       "url": "https://964media.com/721562/",
       "category": "عراق",
       "published": "2026-09-30T09:21:47+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "السيد الحكيم: يوم السيادة نقطة شروع لحل شامل لمشكلة السلاح خارج الدولة",
-      "url": "https://www.alsumaria.tv/news/politics/577518/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%AD%D9%83%D9%8A%D9%85-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D9%86%D9%82%D8%B7%D8%A9-%D8%B4%D8%B1%D9%88%D8%B9-%D9%84%D8%AD%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%D9%84%D9%85%D8%B4%D9%83%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-30T09:34:58+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -233,6 +235,14 @@
       "watch_topics": []
     },
     {
+      "title": "الكتائب: الطيران الأميركي التجسسي والحربي لا زال يعمل بأجواء العراق",
+      "url": "https://964media.com/721654/",
+      "category": "عراق",
+      "published": "2026-09-30T11:37:34+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "قطر: نعمل على بناء أرضية مشتركة بين واشنطن وطهران",
       "url": "https://aawsat.com/node/5323878",
       "category": "مشرق أوسط",
@@ -331,6 +341,16 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "ولي العهد السعودي يلقي الخطاب السنوي بـ«مجلس الشورى»",
+      "url": "https://aawsat.com/node/5324341",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 14:19:41 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {
@@ -441,16 +461,6 @@
       "breaking": false,
       "watch_topics": [
         "السعودية"
-      ]
-    },
-    {
-      "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
-      "url": "https://aawsat.com/node/5322757",
-      "category": "مشرق أوسط",
-      "published": "Sat, 26 Sep 2026 09:10:07 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
       ]
     },
     {
@@ -609,14 +619,6 @@
       "url": "https://aawsat.com/node/5323983",
       "category": "دولي",
       "published": "Tue, 29 Sep 2026 17:11:36 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الرئيس الفرنسي يترك الباب مشرعاً أمام احتمال ترشحه للرئاسة في عام 2032",
-      "url": "https://aawsat.com/node/5323970",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 16:46:46 +0100",
       "breaking": false,
       "watch_topics": []
     }
