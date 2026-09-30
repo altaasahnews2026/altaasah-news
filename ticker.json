@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T05:49:20.721720+00:00",
+  "updated_at": "2026-09-30T06:00:05.768492+00:00",
   "latest": [
     {
       "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
@@ -8,17 +8,6 @@
       "published": "Sat, 26 Sep 2026 09:10:07 +0100",
       "breaking": false,
       "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "ترامب: الخلاف مع إيران سينتهي قريباً.. ولن تحصل على سلاح نووي",
-      "url": "https://www.alsumaria.tv/news/international/577478/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%B3%D9%8A%D9%86%D8%AA%D9%87%D9%8A-%D9%82%D8%B1%D9%8A%D8%A8%D8%A7%D9%8B-%D9%88%D9%84%D9%86-%D8%AA%D8%AD%D8%B5%D9%84-%D8%B9%D9%84%D9%89-%D8%B3%D9%84%D8%A7%D8%AD-%D9%86%D9%88%D9%88%D9%8A",
-      "category": "عراق",
-      "published": "2026-09-29T14:55:55+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
         "أمريكا"
       ]
     },
@@ -201,6 +190,14 @@
       "watch_topics": []
     },
     {
+      "title": "‏مجلس الوزراء يصوت على قانون الحشد الشعبي ويحيله الى البرلمان",
+      "url": "https://www.alsumaria.tv/news/politics/577490/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%B5%D9%88%D8%AA-%D8%B9%D9%84%D9%89-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D8%AF-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A-%D9%88%D9%8A%D8%AD%D9%8A%D9%84%D9%87-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86",
+      "category": "عراق",
+      "published": "2026-09-29T18:03:54+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "بين المتنبي والرشيد.. فندق “بوتيك” يعيد اكتشاف بغداد القديمة للسياح",
       "url": "https://964media.com/721176/",
       "category": "عراق",
@@ -225,14 +222,6 @@
       "watch_topics": []
     },
     {
-      "title": "مجلس الوزراء يصوت على مشروع قانون الحشد الشعبي ويحيله إلى البرلمان",
-      "url": "https://964media.com/721458/",
-      "category": "عراق",
-      "published": "2026-09-29T19:08:39+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "الحكومة توافق على بيع أراضٍ لمنتسبي جامعة الموصل خارج المزايدة",
       "url": "https://964media.com/721460/",
       "category": "عراق",
@@ -253,6 +242,14 @@
       "url": "https://964media.com/721475/",
       "category": "عراق",
       "published": "2026-09-29T19:40:59+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "غزة ومقاومة المضادّات الحيويّة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c5n4kelydjd1o",
+      "category": "عراق",
+      "published": "2026-09-29T19:45:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
