@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T06:40:14.849827+00:00",
+  "updated_at": "2026-09-30T06:57:32.148011+00:00",
   "latest": [
     {
       "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
@@ -59,16 +59,6 @@
       "published": "2026-09-29T16:46:33+00:00",
       "breaking": true,
       "watch_topics": []
-    },
-    {
-      "title": "تشكيلة اسود الرافدين لمباراة السعودية في خليجي 27",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577482/sports/%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9-%D8%A7%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
-      "category": "عراق",
-      "published": "2026-09-29T15:46:56+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
     },
     {
       "title": "انطلاق مباراة العراق والسعودية في خليجي 27",
@@ -253,6 +243,14 @@
       "url": "https://964media.com/721512/",
       "category": "عراق",
       "published": "2026-09-29T20:37:03+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "اتحاد الكرة: القرعة تحسم المتأهل لنصف نهائي خليجي 27 بين العراق وعُمان",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577494/sports/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%B1%D8%B9%D8%A9-%D8%AA%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%86%D8%B5%D9%81-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%B9%D9%8F%D9%85%D8%A7%D9%86",
+      "category": "عراق",
+      "published": "2026-09-29T20:38:43+00:00",
       "breaking": false,
       "watch_topics": []
     },
