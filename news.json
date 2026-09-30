@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T14:45:53.344445+00:00",
+  "updated_at": "2026-09-30T15:04:21.855661+00:00",
   "items": [
     {
       "title": "رئيس البرلمان: العراق لن يكون ساحة لتصفية الصراعات أو ممراً للاعتداء على الآخرين",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
+    },
+    {
+      "title": "الى أي مدى ارتفع التضخم الأمريكي في أغسطس 2026؟",
+      "url": "https://www.alsumaria.tv/news/international/577559/%D8%A7%D9%84%D9%89-%D8%A3%D9%8A-%D9%85%D8%AF%D9%89-%D8%A7%D8%B1%D8%AA%D9%81%D8%B9-%D8%A7%D9%84%D8%AA%D8%B6%D8%AE%D9%85-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%81%D9%8A-%D8%A3%D8%BA%D8%B3%D8%B7%D8%B3-2026%D8%9F",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-30T14:45:53+00:00",
+      "image": "./assets/news/c671cf4e9831bd0bfb63f892.jpg",
+      "original_image": "./assets/news/c671cf4e9831bd0bfb63f892.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577559/%D8%A7%D9%84%D9%89-%D8%A3%D9%8A-%D9%85%D8%AF%D9%89-%D8%A7%D8%B1%D8%AA%D9%81%D8%B9-%D8%A7%D9%84%D8%AA%D8%B6%D8%AE%D9%85-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%81%D9%8A-%D8%A3%D8%BA%D8%B3%D8%B7%D8%B3-2026%D8%9F",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0337f76fa821.html"
     },
     {
       "title": "من الإقلاع الى الهبوط في تبوك.. تفاصيل ما حدث بطائرة الإسرائيليين",
@@ -448,22 +464,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5b158907f011.html"
-    },
-    {
-      "title": "بيان سعودي حول الهبوط الاضطراري لرحلة فلاي دبي بعد نداء استغاثة",
-      "url": "https://www.alsumaria.tv/news/international/577539/%D8%A8%D9%8A%D8%A7%D9%86-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%87%D8%A8%D9%88%D8%B7-%D8%A7%D9%84%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%D9%8A-%D9%84%D8%B1%D8%AD%D9%84%D8%A9-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A-%D8%A8%D8%B9%D8%AF-%D9%86%D8%AF%D8%A7%D8%A1-%D8%A7%D8%B3%D8%AA%D8%BA%D8%A7%D8%AB%D8%A9",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-30T11:00:00+00:00",
-      "image": "./assets/news/f6c06caf7130c57fa34f4a12.jpg",
-      "original_image": "./assets/news/f6c06caf7130c57fa34f4a12.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/577539/%D8%A8%D9%8A%D8%A7%D9%86-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%87%D8%A8%D9%88%D8%B7-%D8%A7%D9%84%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%D9%8A-%D9%84%D8%B1%D8%AD%D9%84%D8%A9-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A-%D8%A8%D8%B9%D8%AF-%D9%86%D8%AF%D8%A7%D8%A1-%D8%A7%D8%B3%D8%AA%D8%BA%D8%A7%D8%AB%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f7834b82681d.html"
     },
     {
       "title": "الأعرجي: انتهاء مهمة التحالف لا يعني انتهاء الشراكة مع أصدقاء العراق",
