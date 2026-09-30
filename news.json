@@ -1,21 +1,53 @@
 {
-  "updated_at": "2026-09-30T09:45:49.924725+00:00",
+  "updated_at": "2026-09-30T10:00:11.592524+00:00",
   "items": [
     {
+      "title": "رئيس البرلمان: العراق لن يكون ساحة لتصفية الصراعات أو ممراً للاعتداء على الآخرين",
+      "url": "https://964media.com/721602/",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-30T09:24:28+00:00",
+      "image": "./assets/news/93470085a4dff529ce24664d.jpg",
+      "original_image": "./assets/news/93470085a4dff529ce24664d.jpg",
+      "source_url": "https://964media.com/721602/",
+      "source_name": "شبكة 964",
+      "breaking": true,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
+    },
+    {
+      "title": "اجتماع ومصير أرنولد على المحك.. ماذا حدث بعد خروج العراق من خليجي 27؟",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577520/sports/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%88%D9%85%D8%B5%D9%8A%D8%B1-%D8%A3%D8%B1%D9%86%D9%88%D9%84%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AD%D9%83-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AD%D8%AF%D8%AB-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B1%D9%88%D8%AC-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D9%86-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27%D8%9F",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-09-30T09:42:47+00:00",
+      "image": "./assets/news/c2b421567aaed9bd11ea4839.jpg",
+      "original_image": "./assets/news/c2b421567aaed9bd11ea4839.jpg",
+      "source_url": "https://www.alsumaria.tv/Entertainment-News/577520/sports/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%88%D9%85%D8%B5%D9%8A%D8%B1-%D8%A3%D8%B1%D9%86%D9%88%D9%84%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AD%D9%83-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AD%D8%AF%D8%AB-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B1%D9%88%D8%AC-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D9%86-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27%D8%9F",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f53650f91f7c.html"
+    },
+    {
       "title": "إهمال صمامات صهريج يتسبب بحريق قرب محطة وقود في الدورة (فيديو)",
-      "url": "https://www.alsumaria.tv/news/localnews/577519/%D8%A5%D9%87%D9%85%D8%A7%D9%84-%D8%B5%D9%85%D8%A7%D9%85%D8%A7%D8%AA-%D8%B5%D9%87%D8%B1%D9%8A%D8%AC-%D9%8A%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D8%AD%D8%B1%D9%8A%D9%82-%D9%82%D8%B1%D8%A8-%D9%85%D8%AD%D8%B7%D8%A9-%D9%88%D9%82%D9%88%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+      "url": "https://www.alsumaria.tv/news/trends-alsumaria/577519/%D8%A5%D9%87%D9%85%D8%A7%D9%84-%D8%B5%D9%85%D8%A7%D9%85%D8%A7%D8%AA-%D8%B5%D9%87%D8%B1%D9%8A%D8%AC-%D9%8A%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D8%AD%D8%B1%D9%8A%D9%82-%D9%82%D8%B1%D8%A8-%D9%85%D8%AD%D8%B7%D8%A9-%D9%88%D9%82%D9%88%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
       "category": "أمن",
       "region": "صلاح الدين",
       "published": "2026-09-30T09:37:51+00:00",
       "image": "./assets/news/04c64fbed7ba999693425cb2.png",
       "original_image": "./assets/news/04c64fbed7ba999693425cb2.png",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577519/%D8%A5%D9%87%D9%85%D8%A7%D9%84-%D8%B5%D9%85%D8%A7%D9%85%D8%A7%D8%AA-%D8%B5%D9%87%D8%B1%D9%8A%D8%AC-%D9%8A%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D8%AD%D8%B1%D9%8A%D9%82-%D9%82%D8%B1%D8%A8-%D9%85%D8%AD%D8%B7%D8%A9-%D9%88%D9%82%D9%88%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+      "source_url": "https://www.alsumaria.tv/news/trends-alsumaria/577519/%D8%A5%D9%87%D9%85%D8%A7%D9%84-%D8%B5%D9%85%D8%A7%D9%85%D8%A7%D8%AA-%D8%B5%D9%87%D8%B1%D9%8A%D8%AC-%D9%8A%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D8%AD%D8%B1%D9%8A%D9%82-%D9%82%D8%B1%D8%A8-%D9%85%D8%AD%D8%B7%D8%A9-%D9%88%D9%82%D9%88%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
       "source_name": "السومرية نيوز",
       "breaking": false,
       "kirkuk": false,
       "report": false,
       "governorate": "صلاح الدين",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9f71da9583f2.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/af4ae7992c2b.html"
     },
     {
       "title": "السيد الحكيم: يوم السيادة نقطة شروع لحل شامل لمشكلة السلاح خارج الدولة",
@@ -32,6 +64,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/56afe20e15fd.html"
+    },
+    {
+      "title": "الأعرجي: انتهاء مهمة التحالف لا يعني انتهاء الشراكة مع أصدقاء العراق",
+      "url": "https://964media.com/721562/",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-30T09:21:47+00:00",
+      "image": "./assets/news/906ad7cfb3b249362215e29f.jpg",
+      "original_image": "./assets/news/906ad7cfb3b249362215e29f.jpg",
+      "source_url": "https://964media.com/721562/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/220d516dc259.html"
     },
     {
       "title": "القيادة المركزية الأمريكية توضح: الانسحاب من العراق جزء من خطة انتقالية مدروسة",
@@ -114,6 +162,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f86b9c6e1fa2.html"
     },
     {
+      "title": "أسعار صرف الدولار في بورصات بغداد وأربيل والبصرة اليوم الأربعاء",
+      "url": "https://964media.com/721559/",
+      "category": "اقتصاد",
+      "region": "بغداد",
+      "published": "2026-09-30T08:48:09+00:00",
+      "image": "./assets/news/9e5cd0f6c6ba26b5cb547a39.jpg",
+      "original_image": "./assets/news/9e5cd0f6c6ba26b5cb547a39.jpg",
+      "source_url": "https://964media.com/721559/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/18351ce1c1f6.html"
+    },
+    {
       "title": "العراق بعد الانسحاب الأمريكي: من شبح \"تنظيم الدولة\" إلى معركة سلاح الفصائل - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cm74k2ed93p9o",
       "category": "أمن",
@@ -151,8 +215,8 @@
       "category": "سياسة",
       "region": "بغداد",
       "published": "2026-09-30T08:38:21+00:00",
-      "image": "./assets/news/d38121dc12735ff7230b0ee1.jpg",
-      "original_image": "./assets/news/d38121dc12735ff7230b0ee1.jpg",
+      "image": "./assets/news/f9c82af93041e2bee886aad7.jpg",
+      "original_image": "./assets/news/f9c82af93041e2bee886aad7.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/577512/%D8%A8%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A3%D9%85%D9%8A%D9%86-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%8A%D8%AC%D8%AF%D8%AF-%D8%A7%D9%84%D8%B9%D9%87%D8%AF-%D8%A8%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -258,6 +322,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5c16ef76a214.html"
     },
     {
+      "title": "ضبط أكثر من 5 كيلوغرامات ذهب لمعاونة مدير التسجيل العقاري بصلاح الدين",
+      "url": "https://964media.com/721555/",
+      "category": "اقتصاد",
+      "region": "صلاح الدين",
+      "published": "2026-09-30T07:46:22+00:00",
+      "image": "./assets/news/7eaeb5bc3d86054b44fd1cff.webp",
+      "original_image": "./assets/news/7eaeb5bc3d86054b44fd1cff.webp",
+      "source_url": "https://964media.com/721555/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "صلاح الدين",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3b28ab7e92b1.html"
+    },
+    {
       "title": "البنتاغون: انهينا عملية الانسحاب الكامل من العراق",
       "url": "https://www.alsumaria.tv/news/international/577506/%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D8%A7%D9%86%D9%87%D9%8A%D9%86%D8%A7-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "category": "محليات",
@@ -272,6 +352,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3664ec0864a7.html"
+    },
+    {
+      "title": "البنتاغون: التحالف الدولي يختتم رسمياً مهامه العسكرية في العراق",
+      "url": "https://964media.com/721548/",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-30T07:30:46+00:00",
+      "image": "./assets/news/7b09ab9edd148f5327200987.jpg",
+      "original_image": "./assets/news/7b09ab9edd148f5327200987.jpg",
+      "source_url": "https://964media.com/721548/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/377ea1a9e12b.html"
     },
     {
       "title": "دعوات لاستبعاد مانشستر سيتي من الدوري الإنجليزي الممتاز بعد إدانته بإبرام عقود \"صورية\" ومخالفات مالية واسعة - شفق نيوز..",
@@ -368,22 +464,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/25630359ed4f.html"
-    },
-    {
-      "title": "ايران تتسلم رد واشنطن حول مقترح الـ7 أيام",
-      "url": "https://www.alsumaria.tv/news/international/577500/%D8%A7%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AA%D8%B3%D9%84%D9%85-%D8%B1%D8%AF-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AD%D9%88%D9%84-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D8%A7%D9%84%D9%807-%D8%A3%D9%8A%D8%A7%D9%85",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-09-30T06:20:56+00:00",
-      "image": "./assets/news/1762b17d242cf694c2d22bee.jpg",
-      "original_image": "./assets/news/1762b17d242cf694c2d22bee.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/577500/%D8%A7%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AA%D8%B3%D9%84%D9%85-%D8%B1%D8%AF-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AD%D9%88%D9%84-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D8%A7%D9%84%D9%807-%D8%A3%D9%8A%D8%A7%D9%85",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d1955a073218.html"
     },
     {
       "title": "قطر تعمل على \"سد الفجوة\" بين الولايات المتحدة وإيران، وترامب يؤكد أن طهران \"ستستسلم\" - شفق نيوز..",
