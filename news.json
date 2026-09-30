@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T19:37:43.048815+00:00",
+  "updated_at": "2026-09-30T19:50:51.333738+00:00",
   "items": [
     {
       "title": "انفجار في ريف دمشق الشرقي",
@@ -34,13 +34,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
     },
     {
+      "title": "ركاب رحلة \"فلاي دبي\" يصلون تل أبيب ونتنياهو يلتقيهم في المطار، وإسرائيل تعتزم تشديد فحص الطيارين الدوليين - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-30T19:39:08+00:00",
+      "image": "./assets/news/1fdeaa6e42f2c445a3d89444.jpg",
+      "original_image": "./assets/news/1fdeaa6e42f2c445a3d89444.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/dcfbbc47b6c0.html"
+    },
+    {
       "title": "خليجي 27.. اليمن تهزم البحرين بخماسية وتعادل قطر والإمارات",
       "url": "https://www.alsumaria.tv/Entertainment-News/577587/sports/%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%AA%D9%87%D8%B2%D9%85-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A8%D8%AE%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D9%88%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D9%82%D8%B7%D8%B1-%D9%88%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA",
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-30T19:25:00+00:00",
-      "image": "./assets/news/984255ceb1394741a34f1b9b.jpg",
-      "original_image": "./assets/news/984255ceb1394741a34f1b9b.jpg",
+      "image": "./assets/news/49cdbfb1fdf9f2bb9bede846.jpg",
+      "original_image": "./assets/news/49cdbfb1fdf9f2bb9bede846.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/577587/sports/%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%AA%D9%87%D8%B2%D9%85-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A8%D8%AE%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D9%88%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D9%82%D8%B7%D8%B1-%D9%88%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -135,8 +151,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-30T18:01:00+00:00",
-      "image": "./assets/news/5ec74a4ac6c67a89c171797d.jpg",
-      "original_image": "./assets/news/5ec74a4ac6c67a89c171797d.jpg",
+      "image": "./assets/news/b6b2cd2d3d59a39805f1d658.jpg",
+      "original_image": "./assets/news/b6b2cd2d3d59a39805f1d658.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/577579/sports/%D8%A5%D9%86%D9%81%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D9%88-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%B6%D8%B1%D8%A8%D8%A9-%D9%82%D9%88%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3%D8%B1%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -224,22 +240,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bf6eca52c03e.html"
-    },
-    {
-      "title": "ركاب رحلة \"فلاي دبي\" يصلون تل أبيب ونتنياهو يلتقيهم في المطار - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-30T17:37:00+00:00",
-      "image": "./assets/news/1fdeaa6e42f2c445a3d89444.jpg",
-      "original_image": "./assets/news/1fdeaa6e42f2c445a3d89444.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8ae5e0d368cc.html"
     },
     {
       "title": "أسباب الفجوة في معدلات الإصابة بالسرطان بين الرجال والنساء",
@@ -343,8 +343,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-30T17:05:06+00:00",
-      "image": "./assets/news/37790588dd29654507bb59b3.jpg",
-      "original_image": "./assets/news/37790588dd29654507bb59b3.jpg",
+      "image": "./assets/news/6c624f1087c24ee7c452633e.jpg",
+      "original_image": "./assets/news/6c624f1087c24ee7c452633e.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577571/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%AD%D9%85%D9%88%D8%AF%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D8%AF%D8%A3-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%88%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -391,8 +391,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-30T16:44:42+00:00",
-      "image": "./assets/news/eb96a583943f25ad0cf0c669.jpg",
-      "original_image": "./assets/news/eb96a583943f25ad0cf0c669.jpg",
+      "image": "./assets/news/d5428514520285689a2bed8d.jpg",
+      "original_image": "./assets/news/d5428514520285689a2bed8d.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577569/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D9%87%D8%AF%D8%AF-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%88%D8%B8%D8%A7%D8%A6%D9%81-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -439,8 +439,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-09-30T16:21:01+00:00",
-      "image": "./assets/news/e070c0a45873b702c5baa2f9.jpg",
-      "original_image": "./assets/news/e070c0a45873b702c5baa2f9.jpg",
+      "image": "./assets/news/91b85ba8086130cf304c1265.jpg",
+      "original_image": "./assets/news/91b85ba8086130cf304c1265.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577567/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AF%D8%AE%D9%84-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7-%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%85%D8%B3%D8%AA%D9%85%D8%B1",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -496,22 +496,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3e5d88cf1338.html"
-    },
-    {
-      "title": "المقاومة العراقية تعلن عدم التزامها بأي توقيتات حكومية لحصر السلاح",
-      "url": "https://964media.com/721711/",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-09-30T14:03:58+00:00",
-      "image": "./assets/news/ffe7a1a0d0bc78070a413099.jpg",
-      "original_image": "./assets/news/ffe7a1a0d0bc78070a413099.jpg",
-      "source_url": "https://964media.com/721711/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/950e1999870f.html"
     },
     {
       "title": "قادة الولايات المتحدة آخر من سيعرف الأسرار التي تحتفظ بها الاستخبارات البريطانية - مقال في الإندبندنت - شفق نيوز..",
@@ -624,22 +608,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9e57b1f28962.html"
-    },
-    {
-      "title": "“مكافحة الإرهاب قتلت مدنيين لا دواعش”.. كرد كركوك يطلبون تحقيقاً عاجلاً",
-      "url": "https://964media.com/721318/",
-      "category": "أمن",
-      "region": "كركوك",
-      "published": "2026-09-29T13:40:34+00:00",
-      "image": "./assets/news/26dd1b772773c5a8d817a953.jpg",
-      "original_image": "./assets/news/26dd1b772773c5a8d817a953.jpg",
-      "source_url": "https://964media.com/721318/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": true,
-      "report": true,
-      "governorate": "كركوك",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7e4363b0e308.html"
     }
   ]
 }
