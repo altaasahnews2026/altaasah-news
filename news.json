@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T23:23:52.226099+00:00",
+  "updated_at": "2026-09-30T23:36:01.865231+00:00",
   "items": [
     {
       "title": "قتلى وجرحى إثر استهداف حافلة بريف حماة في سوريا",
@@ -48,6 +48,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
+    },
+    {
+      "title": "سوريا: قتلى وجرحى في هجوم على حافلة في حمص، وانفجار خط غاز يعطّل ثلاث محطات لتوليد الكهرباء - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c69w4wrl4re8o",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-30T23:10:54+00:00",
+      "image": "./assets/news/719822ad9b921852f7bca7bc.jpg",
+      "original_image": "./assets/news/719822ad9b921852f7bca7bc.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c69w4wrl4re8o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e8d4f123e618.html"
     },
     {
       "title": "إيطاليا تمدد الرقابة على حدودها مع إسبانيا بسبب وضع سبتة",
@@ -480,22 +496,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f0f9a7d2b63c.html"
-    },
-    {
-      "title": "\"قراراتي مرتبطة باحتمال تجدُّد القتال\": ماذا يعني أن تُصبح الحرب \"الوضع الطبيعي\"؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c9e8e57004zmo",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-30T16:37:53+00:00",
-      "image": "./assets/news/4f7e00a25f171015cacd9b9a.jpg",
-      "original_image": "./assets/news/4f7e00a25f171015cacd9b9a.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c9e8e57004zmo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0e99eb539f4b.html"
     },
     {
       "title": "“الزيدي يتوعد المقصر مهما كانت رتبته”.. 72 ساعة لكشف ملابسات عملية آلتون كوبري",
