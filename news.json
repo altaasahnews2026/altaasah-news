@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T14:29:35.000910+00:00",
+  "updated_at": "2026-09-30T14:45:53.344445+00:00",
   "items": [
     {
       "title": "رئيس البرلمان: العراق لن يكون ساحة لتصفية الصراعات أو ممراً للاعتداء على الآخرين",
@@ -18,13 +18,61 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
     },
     {
+      "title": "من الإقلاع الى الهبوط في تبوك.. تفاصيل ما حدث بطائرة الإسرائيليين",
+      "url": "https://www.alsumaria.tv/news/international/577558/%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D8%A7%D8%B9-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D9%87%D8%A8%D9%88%D8%B7-%D9%81%D9%8A-%D8%AA%D8%A8%D9%88%D9%83-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%85%D8%A7-%D8%AD%D8%AF%D8%AB-%D8%A8%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D9%8A%D9%86",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-09-30T14:35:57+00:00",
+      "image": "./assets/news/2128dbe7782c58e241d88edc.jpg",
+      "original_image": "./assets/news/2128dbe7782c58e241d88edc.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577558/%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D8%A7%D8%B9-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D9%87%D8%A8%D9%88%D8%B7-%D9%81%D9%8A-%D8%AA%D8%A8%D9%88%D9%83-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%85%D8%A7-%D8%AD%D8%AF%D8%AB-%D8%A8%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D9%8A%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b3e495fce88b.html"
+    },
+    {
+      "title": "إيران تتسلم الرد الأمريكي على مقترحها لإنهاء الحرب وسط استمرار التوتر في مضيق هرمز - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cq62jpvz5pg5o",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-30T14:28:46+00:00",
+      "image": "./assets/news/147406b5e75a54ed24c2fab4.jpg",
+      "original_image": "./assets/news/147406b5e75a54ed24c2fab4.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cq62jpvz5pg5o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5a195670f1b3.html"
+    },
+    {
+      "title": "بريطانيا تعلن خروج جميع جنودها من العراق واختتام مهمة التحالف رسمياً",
+      "url": "https://964media.com/721717/",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-09-30T14:28:10+00:00",
+      "image": "./assets/news/00e498802066c0cd310e03be.jpg",
+      "original_image": "./assets/news/00e498802066c0cd310e03be.jpg",
+      "source_url": "https://964media.com/721717/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3e5d88cf1338.html"
+    },
+    {
       "title": "نجم ريال مدريد يخضع لعملية جراحية",
       "url": "https://www.alsumaria.tv/Entertainment-News/577557/sports/%D9%86%D8%AC%D9%85-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D8%AE%D8%B6%D8%B9-%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%AC%D8%B1%D8%A7%D8%AD%D9%8A%D8%A9",
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-09-30T14:24:43+00:00",
-      "image": "./assets/news/694552d7a5da2d5bdf3d62c1.png",
-      "original_image": "./assets/news/694552d7a5da2d5bdf3d62c1.png",
+      "image": "./assets/news/2a01db5ae397a4185bbeabdb.png",
+      "original_image": "./assets/news/2a01db5ae397a4185bbeabdb.png",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/577557/sports/%D9%86%D8%AC%D9%85-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D8%AE%D8%B6%D8%B9-%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%AC%D8%B1%D8%A7%D8%AD%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -66,6 +114,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/51601e994e48.html"
     },
     {
+      "title": "نتنياهو: طيار في رحلة \"فلاي دبي\" طعن الطيار الآخر وحاول إسقاط الطائرة والسعودية \"أوقفت منفذ العملية\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-30T14:19:25+00:00",
+      "image": "./assets/news/580503339193f47d53226cff.jpg",
+      "original_image": "./assets/news/580503339193f47d53226cff.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/75bc73d431aa.html"
+    },
+    {
       "title": "وزير الدفاع الإسرائيلي: الحدث على متن فلاي دبي كان محاولة تنفيذ عملية إرهابية",
       "url": "https://www.alsumaria.tv/news/international/577553/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A7%D9%84%D8%AD%D8%AF%D8%AB-%D8%B9%D9%84%D9%89-%D9%85%D8%AA%D9%86-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A-%D9%83%D8%A7%D9%86-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5",
       "category": "أمن",
@@ -87,8 +151,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-30T14:04:56+00:00",
-      "image": "./assets/news/40c28cf98323b57cfae888cc.jpg",
-      "original_image": "./assets/news/40c28cf98323b57cfae888cc.jpg",
+      "image": "./assets/news/2588c260bf2aee7de6e85834.jpg",
+      "original_image": "./assets/news/2588c260bf2aee7de6e85834.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577554/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%88%D9%86-%D9%8A%D8%AD%D8%AA%D9%81%D9%84%D9%88%D9%86-%D8%A8%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -306,22 +370,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/69074cf725ad.html"
     },
     {
-      "title": "إصابة قائد طائرة \"فلاي دبي\" ومساعده بعد تقارير عن مشاجرة على متن طائرة هبطت في السعودية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-30T11:25:59+00:00",
-      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3ae91c07f01d.html"
-    },
-    {
       "title": "الموت يغيّب زوجة المنتج صادق الصبّاح",
       "url": "https://www.alsumaria.tv/news/artculture/577542/%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D9%8A%D8%BA%D9%8A%D9%91%D8%A8-%D8%B2%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC-%D8%B5%D8%A7%D8%AF%D9%82-%D8%A7%D9%84%D8%B5%D8%A8%D9%91%D8%A7%D8%AD",
       "category": "محليات",
@@ -386,22 +434,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/00f1522260f2.html"
     },
     {
-      "title": "البارزاني يطمئن شعب كردستان: نسقنا مع بغداد لمواجهة “داعش” وغيره",
-      "url": "https://964media.com/721646/",
-      "category": "محليات",
-      "region": "بغداد",
-      "published": "2026-09-30T11:09:23+00:00",
-      "image": "./assets/news/70523e1175a2a40e81aad6c4.jpg",
-      "original_image": "./assets/news/70523e1175a2a40e81aad6c4.jpg",
-      "source_url": "https://964media.com/721646/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/94247240d238.html"
-    },
-    {
       "title": "كيف تتخلص من العادات الخفية التي تجعل قلقك الاجتماعي أسوأ؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cqy0zejlx5kgo",
       "category": "محليات",
@@ -432,22 +464,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f7834b82681d.html"
-    },
-    {
-      "title": "ارتفاع أسعار الذهب في بغداد.. تعرف على أسعار المثقال",
-      "url": "https://www.alsumaria.tv/news/economy/577538/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%AB%D9%82%D8%A7%D9%84",
-      "category": "اقتصاد",
-      "region": "بغداد",
-      "published": "2026-09-30T10:53:46+00:00",
-      "image": "./assets/news/69cf8ab17153908aa0dedcab.jpg",
-      "original_image": "./assets/news/69cf8ab17153908aa0dedcab.jpg",
-      "source_url": "https://www.alsumaria.tv/news/economy/577538/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%AB%D9%82%D8%A7%D9%84",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ebc100267b15.html"
     },
     {
       "title": "الأعرجي: انتهاء مهمة التحالف لا يعني انتهاء الشراكة مع أصدقاء العراق",
@@ -482,22 +498,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/69f9a7078e53.html"
     },
     {
-      "title": "قطر تعمل على \"سد الفجوة\" بين الولايات المتحدة وإيران، وترامب يؤكد أن طهران \"ستستسلم\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cq62jpvz5pg5o",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-30T06:14:19+00:00",
-      "image": "./assets/news/8d0b5811f66f363e366217e1.jpg",
-      "original_image": "./assets/news/8d0b5811f66f363e366217e1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cq62jpvz5pg5o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/41b45d65129b.html"
-    },
-    {
       "title": "فائق زيدان يهنئ العراقيين بيوم 30 أيلول ويؤكد على سلطة القانون",
       "url": "https://964media.com/721538/",
       "category": "سياسة",
@@ -512,6 +512,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d8afdc7c32e1.html"
+    },
+    {
+      "title": "وردة المسيح والعندليب: قصة القديسة تريز الطفل يسوع وسر لوحة عبد الحليم حافظ في كنيستها بمصر - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c331lxl75xmo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-30T05:35:43+00:00",
+      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c331lxl75xmo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d3f9f96ac1c5.html"
     },
     {
       "title": "بين المتنبي والرشيد.. فندق “بوتيك” يعيد اكتشاف بغداد القديمة للسياح",

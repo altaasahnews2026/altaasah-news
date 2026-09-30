@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-09-30T14:29:38.566754+00:00",
+  "updated_at": "2026-09-30T14:45:56.956946+00:00",
   "latest": [
-    {
-      "title": "قطر تعمل على \"سد الفجوة\" بين الولايات المتحدة وإيران، وترامب يؤكد أن طهران \"ستستسلم\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cq62jpvz5pg5o",
-      "category": "عراق",
-      "published": "2026-09-30T06:14:19+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
-    },
     {
       "title": "“مكافحة الإرهاب قتلت مدنيين لا دواعش”.. كرد كركوك يطلبون تحقيقاً عاجلاً",
       "url": "https://964media.com/721318/",
@@ -31,16 +20,6 @@
       ]
     },
     {
-      "title": "إصابة قائد طائرة \"فلاي دبي\" ومساعده بعد تقارير عن مشاجرة على متن طائرة هبطت في السعودية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "category": "عراق",
-      "published": "2026-09-30T11:25:59+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "نتنياهو: السعودية اعتقلت الطيار الذي هاجم زميله في طائرة فلاي دبي وأخضعته للتحقيق",
       "url": "https://www.alsumaria.tv/news/international/577552/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%B9%D8%AA%D9%82%D9%84%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%8A-%D9%87%D8%A7%D8%AC%D9%85-%D8%B2%D9%85%D9%8A%D9%84%D9%87-%D9%81%D9%8A-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A-%D9%88%D8%A3%D8%AE%D8%B6%D8%B9",
       "category": "عراق",
@@ -48,6 +27,26 @@
       "breaking": false,
       "watch_topics": [
         "السعودية"
+      ]
+    },
+    {
+      "title": "نتنياهو: طيار في رحلة \"فلاي دبي\" طعن الطيار الآخر وحاول إسقاط الطائرة والسعودية \"أوقفت منفذ العملية\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "category": "عراق",
+      "published": "2026-09-30T14:19:25+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "إيران تتسلم الرد الأمريكي على مقترحها لإنهاء الحرب وسط استمرار التوتر في مضيق هرمز - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cq62jpvz5pg5o",
+      "category": "عراق",
+      "published": "2026-09-30T14:28:46+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
       ]
     },
     {
@@ -91,6 +90,14 @@
       "watch_topics": []
     },
     {
+      "title": "وردة المسيح والعندليب: قصة القديسة تريز الطفل يسوع وسر لوحة عبد الحليم حافظ في كنيستها بمصر - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c331lxl75xmo",
+      "category": "عراق",
+      "published": "2026-09-30T05:35:43+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "فائق زيدان يهنئ العراقيين بيوم 30 أيلول ويؤكد على سلطة القانون",
       "url": "https://964media.com/721538/",
       "category": "عراق",
@@ -115,14 +122,6 @@
       "watch_topics": []
     },
     {
-      "title": "ارتفاع أسعار الذهب في بغداد.. تعرف على أسعار المثقال",
-      "url": "https://www.alsumaria.tv/news/economy/577538/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%AB%D9%82%D8%A7%D9%84",
-      "category": "عراق",
-      "published": "2026-09-30T10:53:46+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "بيان سعودي حول الهبوط الاضطراري لرحلة فلاي دبي بعد نداء استغاثة",
       "url": "https://www.alsumaria.tv/news/international/577539/%D8%A8%D9%8A%D8%A7%D9%86-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%87%D8%A8%D9%88%D8%B7-%D8%A7%D9%84%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%D9%8A-%D9%84%D8%B1%D8%AD%D9%84%D8%A9-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A-%D8%A8%D8%B9%D8%AF-%D9%86%D8%AF%D8%A7%D8%A1-%D8%A7%D8%B3%D8%AA%D8%BA%D8%A7%D8%AB%D8%A9",
       "category": "عراق",
@@ -135,14 +134,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cqy0zejlx5kgo",
       "category": "عراق",
       "published": "2026-09-30T11:04:00+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "البارزاني يطمئن شعب كردستان: نسقنا مع بغداد لمواجهة “داعش” وغيره",
-      "url": "https://964media.com/721646/",
-      "category": "عراق",
-      "published": "2026-09-30T11:09:23+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -231,6 +222,14 @@
       "url": "https://www.alsumaria.tv/Entertainment-News/577549/sports/%D9%88%D8%AF%D8%A7%D8%B9-%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D8%A7%D9%84%D8%B1%D9%82%D9%85-10-%D9%8A%D8%A8%D9%82%D9%89-%D8%A8%D9%84%D8%A7-%D8%B5%D8%A7%D8%AD%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86",
       "category": "عراق",
       "published": "2026-09-30T13:00:00+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "قادة الولايات المتحدة آخر من سيعرف الأسرار التي تحتفظ بها الاستخبارات البريطانية - مقال في الإندبندنت - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c8046w6egv2go",
+      "category": "عراق",
+      "published": "2026-09-30T13:16:24+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -503,14 +502,6 @@
       "watch_topics": []
     },
     {
-      "title": "مقتل معلمة وإصابة شخصين إثر هجوم بسكين داخل مدرسة في سلوفاكيا",
-      "url": "https://aawsat.com/node/5323889",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 14:16:10 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "مقتل رجل في نيويورك دهساً بعدما علقت حقيبته بأبواب قطار أنفاق",
       "url": "https://aawsat.com/node/5324067",
       "category": "دولي",
@@ -527,6 +518,22 @@
       "watch_topics": [
         "أمريكا"
       ]
+    },
+    {
+      "title": "«أساليب متهورة» أمام مدرسة طفليه... متحدث باسم الأمير هاري يندد بتصرفات الباباراتزي",
+      "url": "https://aawsat.com/node/5324372",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 15:32:43 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "نحو 50 من المحاربين بأوكرانيا يدخلون «الدوما» الروسي",
+      "url": "https://aawsat.com/node/5324371",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 15:31:25 +0100",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "«واحد يدخل وآخر يخرج»... محادثات فرنسية - بريطانية لإنهاء اتفاق بشأن الهجرة",
@@ -613,14 +620,6 @@
       "url": "https://aawsat.com/node/5324051",
       "category": "دولي",
       "published": "Tue, 29 Sep 2026 19:47:40 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بيرنهام يتعهد بإجراء تغيير كبير في بريطانيا",
-      "url": "https://aawsat.com/node/5324047",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 19:32:45 +0100",
       "breaking": false,
       "watch_topics": []
     }
@@ -737,14 +736,6 @@
       "url": "https://aawsat.com/node/5323928",
       "category": "دولي",
       "published": "Tue, 29 Sep 2026 15:22:41 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "مقتل معلمة وإصابة شخصين إثر هجوم بسكين داخل مدرسة في سلوفاكيا",
-      "url": "https://aawsat.com/node/5323889",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 14:16:10 +0100",
       "breaking": true,
       "watch_topics": []
     },
