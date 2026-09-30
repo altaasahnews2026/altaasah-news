@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T20:56:13.998000+00:00",
+  "updated_at": "2026-09-30T21:04:17.818364+00:00",
   "items": [
     {
       "title": "قتلى وجرحى إثر استهداف حافلة بريف حماة في سوريا",
@@ -48,6 +48,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
+    },
+    {
+      "title": "في بغداد.. اعتقال أجنبية بعد شكوك في عملها",
+      "url": "https://www.alsumaria.tv/news/localnews/577591/%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%B4%D9%83%D9%88%D9%83-%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%87%D8%A7",
+      "category": "أمن",
+      "region": "بغداد",
+      "published": "2026-09-30T20:48:25+00:00",
+      "image": "./assets/news/ea6846cb5b0e2cbffc9a53ed.jpg",
+      "original_image": "./assets/news/ea6846cb5b0e2cbffc9a53ed.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577591/%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%B4%D9%83%D9%88%D9%83-%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%87%D8%A7",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8bbce14c41f9.html"
     },
     {
       "title": "قتيلان بإطلاق نار في ولاية فرجينيا الأمريكية",
@@ -464,22 +480,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5887e81369b6.html"
-    },
-    {
-      "title": "اتصال يجمع نتنياهو وبن زايد عقب حادثة طائرة فلاي دبي",
-      "url": "https://www.alsumaria.tv/news/international/577572/%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D9%8A%D8%AC%D9%85%D8%B9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%88%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D8%B9%D9%82%D8%A8-%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-30T17:01:44+00:00",
-      "image": "./assets/news/41a4522d6def0c8e89b8736f.webp",
-      "original_image": "./assets/news/41a4522d6def0c8e89b8736f.webp",
-      "source_url": "https://www.alsumaria.tv/news/international/577572/%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D9%8A%D8%AC%D9%85%D8%B9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%88%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D8%B9%D9%82%D8%A8-%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cf58dde7c9bc.html"
     },
     {
       "title": "\"قراراتي مرتبطة باحتمال تجدُّد القتال\": ماذا يعني أن تُصبح الحرب \"الوضع الطبيعي\"؟ - شفق نيوز..",
