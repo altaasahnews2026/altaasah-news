@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T03:24:13.922977+00:00",
+  "updated_at": "2026-09-30T03:39:39.501900+00:00",
   "items": [
     {
       "title": "اعتقال مراهق خطط للهجوم على مدرسته",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/de1b87f754f8.html"
+    },
+    {
+      "title": "العراق بعد الانسحاب الأمريكي: من شبح \"تنظيم الدولة\" إلى معركة سلاح الفصائل - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm74k2ed93p9o",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-09-30T03:03:08+00:00",
+      "image": "./assets/news/ac6f74a8262c14ac1399e05d.jpg",
+      "original_image": "./assets/news/ac6f74a8262c14ac1399e05d.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cm74k2ed93p9o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1f96bf3cb391.html"
     },
     {
       "title": "دعوات لاستبعاد مانشستر سيتي من الدوري الإنجليزي الممتاز بعد إدانته بإبرام عقود \"صورية\" ومخالفات مالية واسعة - شفق نيوز..",
@@ -322,22 +338,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/24aa8a83703d.html"
     },
     {
-      "title": "ابتلعت موجات تسونامي زوجته، فكرَّس سنوات من حياته للغوص ليبقى قريباً منها - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm9w498qv72jo",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-29T17:48:29+00:00",
-      "image": "./assets/news/2be00214bc4ca4099b0b233d.jpg",
-      "original_image": "./assets/news/2be00214bc4ca4099b0b233d.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cm9w498qv72jo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e1b38734f13c.html"
-    },
-    {
       "title": "عقوبات أمريكية على 10 أفراد وكيانات تولوا شراء أسلحة لصالح إيران",
       "url": "https://www.alsumaria.tv/news/international/577489/%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-10-%D8%A3%D9%81%D8%B1%D8%A7%D8%AF-%D9%88%D9%83%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%AA%D9%88%D9%84%D9%88%D8%A7-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D9%84%D8%B5%D8%A7%D9%84%D8%AD-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "category": "عربي ودولي",
@@ -423,8 +423,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-09-29T16:46:33+00:00",
-      "image": "./assets/news/0f6f26b47edf52c9a64842d7.jpg",
-      "original_image": "./assets/news/0f6f26b47edf52c9a64842d7.jpg",
+      "image": "./assets/news/7da9d2a7e39f0aa35e0f25bf.jpg",
+      "original_image": "./assets/news/7da9d2a7e39f0aa35e0f25bf.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577485/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B4%D8%AD%D9%86-%D8%AA%D8%AD%D9%85%D9%84-%D9%85%D8%B9%D8%AF%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": false,
