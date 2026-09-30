@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-09-30T11:41:42.129979+00:00",
+  "updated_at": "2026-09-30T11:55:15.337554+00:00",
   "latest": [
-    {
-      "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
-      "url": "https://aawsat.com/node/5321276",
-      "category": "مشرق أوسط",
-      "published": "Tue, 22 Sep 2026 15:21:23 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
     {
       "title": "قطر تعمل على \"سد الفجوة\" بين الولايات المتحدة وإيران، وترامب يؤكد أن طهران \"ستستسلم\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cq62jpvz5pg5o",
@@ -123,14 +113,6 @@
       "watch_topics": []
     },
     {
-      "title": "بيوم السيادة الوطني.. أمين بغداد يجدد العهد بمواصلة تطوير العاصمة",
-      "url": "https://www.alsumaria.tv/news/security/577512/%D8%A8%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A3%D9%85%D9%8A%D9%86-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%8A%D8%AC%D8%AF%D8%AF-%D8%A7%D9%84%D8%B9%D9%87%D8%AF-%D8%A8%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-30T08:38:21+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "وزير العدل: يوم السيادة محطة لاستذكار تضحيات أبناء العراق",
       "url": "https://www.alsumaria.tv/news/localnews/577513/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D9%85%D8%AD%D8%B7%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D8%B0%D9%83%D8%A7%D8%B1-%D8%AA%D8%B6%D8%AD%D9%8A%D8%A7%D8%AA-%D8%A3%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "category": "عراق",
@@ -239,6 +221,14 @@
       "url": "https://www.alsumaria.tv/news/economy/577538/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%AB%D9%82%D8%A7%D9%84",
       "category": "عراق",
       "published": "2026-09-30T10:53:46+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "بيان سعودي حول الهبوط الاضطراري لرحلة فلاي دبي بعد نداء استغاثة",
+      "url": "https://www.alsumaria.tv/news/international/577539/%D8%A8%D9%8A%D8%A7%D9%86-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%87%D8%A8%D9%88%D8%B7-%D8%A7%D9%84%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%D9%8A-%D9%84%D8%B1%D8%AD%D9%84%D8%A9-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A-%D8%A8%D8%B9%D8%AF-%D9%86%D8%AF%D8%A7%D8%A1-%D8%A7%D8%B3%D8%AA%D8%BA%D8%A7%D8%AB%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-30T11:00:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -485,6 +475,14 @@
       ]
     },
     {
+      "title": "مشتبه به في مخطط استهداف قاعدة جوية بريطانية أبلغ الشرطة قبل اعتقاله",
+      "url": "https://aawsat.com/node/5324302",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 12:41:59 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "مقتل طفل وإصابة 5 أشخاص في هجوم روسي على منطقة كييف",
       "url": "https://aawsat.com/node/5324152",
       "category": "دولي",
@@ -513,14 +511,6 @@
       "url": "https://aawsat.com/node/5323715",
       "category": "دولي",
       "published": "Tue, 29 Sep 2026 01:04:58 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "مسيّرة روسية تُلحق أضراراً بمركز حدودي أوكراني قرب بولندا",
-      "url": "https://aawsat.com/node/5323592",
-      "category": "دولي",
-      "published": "Mon, 28 Sep 2026 18:26:23 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -619,6 +609,14 @@
       "url": "https://aawsat.com/node/5323983",
       "category": "دولي",
       "published": "Tue, 29 Sep 2026 17:11:36 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الرئيس الفرنسي يترك الباب مشرعاً أمام احتمال ترشحه للرئاسة في عام 2032",
+      "url": "https://aawsat.com/node/5323970",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 16:46:46 +0100",
       "breaking": false,
       "watch_topics": []
     }
@@ -739,6 +737,14 @@
       ]
     },
     {
+      "title": "مشتبه به في مخطط استهداف قاعدة جوية بريطانية أبلغ الشرطة قبل اعتقاله",
+      "url": "https://aawsat.com/node/5324302",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 12:41:59 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "مقتل طفل وإصابة 5 أشخاص في هجوم روسي على منطقة كييف",
       "url": "https://aawsat.com/node/5324152",
       "category": "دولي",
@@ -767,14 +773,6 @@
       "url": "https://aawsat.com/node/5323715",
       "category": "دولي",
       "published": "Tue, 29 Sep 2026 01:04:58 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "مسيّرة روسية تُلحق أضراراً بمركز حدودي أوكراني قرب بولندا",
-      "url": "https://aawsat.com/node/5323592",
-      "category": "دولي",
-      "published": "Mon, 28 Sep 2026 18:26:23 +0100",
       "breaking": true,
       "watch_topics": []
     },
