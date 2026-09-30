@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-30T18:56:02.965687+00:00",
+  "updated_at": "2026-09-30T19:08:02.387791+00:00",
   "latest": [
+    {
+      "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
+      "url": "https://aawsat.com/node/5322757",
+      "category": "مشرق أوسط",
+      "published": "Sat, 26 Sep 2026 09:10:07 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
     {
       "title": "“مكافحة الإرهاب قتلت مدنيين لا دواعش”.. كرد كركوك يطلبون تحقيقاً عاجلاً",
       "url": "https://964media.com/721318/",
@@ -335,6 +345,16 @@
       ]
     },
     {
+      "title": "آل الشيخ: «الشورى» يستلهم الإنجاز والمبادرة من «رؤية السعودية 2030»",
+      "url": "https://aawsat.com/node/5324488",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 19:57:26 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "السعودية: لا تهاون في حفظ أمننا وسنرد بحزم على أي تهديد",
       "url": "https://aawsat.com/node/5324445",
       "category": "مشرق أوسط",
@@ -452,16 +472,6 @@
       "breaking": false,
       "watch_topics": [
         "السعودية"
-      ]
-    },
-    {
-      "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
-      "url": "https://aawsat.com/node/5322757",
-      "category": "مشرق أوسط",
-      "published": "Sat, 26 Sep 2026 09:10:07 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
       ]
     },
     {
@@ -622,14 +632,6 @@
       "url": "https://aawsat.com/node/5324371",
       "category": "دولي",
       "published": "Wed, 30 Sep 2026 15:31:25 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "«واحد يدخل وآخر يخرج»... محادثات فرنسية - بريطانية لإنهاء اتفاق بشأن الهجرة",
-      "url": "https://aawsat.com/node/5324368",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 15:23:50 +0100",
       "breaking": false,
       "watch_topics": []
     }
