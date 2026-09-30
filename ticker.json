@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T17:08:57.401266+00:00",
+  "updated_at": "2026-09-30T17:26:05.901505+00:00",
   "latest": [
     {
       "title": "15 مليون دولار مكافأة.. واشنطن تبحث عن ممولي الحرس الثوري",
@@ -21,16 +21,6 @@
       "watch_topics": []
     },
     {
-      "title": "نتنياهو: السعودية اعتقلت الطيار الذي هاجم زميله في طائرة فلاي دبي وأخضعته للتحقيق",
-      "url": "https://www.alsumaria.tv/news/international/577552/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%B9%D8%AA%D9%82%D9%84%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%8A-%D9%87%D8%A7%D8%AC%D9%85-%D8%B2%D9%85%D9%8A%D9%84%D9%87-%D9%81%D9%8A-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A-%D9%88%D8%A3%D8%AE%D8%B6%D8%B9",
-      "category": "عراق",
-      "published": "2026-09-30T13:55:33+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "إيران تتسلم الرد الأمريكي على مقترحها لإنهاء الحرب وسط استمرار التوتر في مضيق هرمز - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cq62jpvz5pg5o",
       "category": "عراق",
@@ -48,6 +38,26 @@
       "breaking": false,
       "watch_topics": [
         "أمريكا"
+      ]
+    },
+    {
+      "title": "ترامب: نغادر العراق مع وجود رئيس وزراء رائع هناك",
+      "url": "https://www.alsumaria.tv/news/politics/577574/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%86%d8%ba%d8%a7%d8%af%d8%b1-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%85%d8%b9-%d9%88%d8%ac%d9%88%d8%af-%d8%b1%d8%a6%d9%8a%d8%b3-%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d8%b1%d8%a7%d8%a6%d8%b9-%d9%87%d9%86%d8%a7%d9%83?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Wed, 30 Sep 2026 17:22:26 GMT",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "بريطانيا تكشف عن \"مؤشرات قوية\" تربط إيران بحادث فيرفورد",
+      "url": "https://www.alsumaria.tv/news/international/577575/%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-quot%d9%85%d8%a4%d8%b4%d8%b1%d8%a7%d8%aa-%d9%82%d9%88%d9%8a%d8%a9quot-%d8%aa%d8%b1%d8%a8%d8%b7-%d8%a5%d9%8a%d8%b1%d8%a7?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Wed, 30 Sep 2026 17:12:03 GMT",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
       ]
     },
     {
@@ -71,14 +81,6 @@
       "url": "https://964media.com/721176/",
       "category": "عراق",
       "published": "2026-09-29T18:49:27+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "وردة المسيح والعندليب: قصة القديسة تريز الطفل يسوع وسر لوحة عبد الحليم حافظ في كنيستها بمصر - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c331lxl75xmo",
-      "category": "عراق",
-      "published": "2026-09-30T05:35:43+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -139,34 +141,10 @@
       "watch_topics": []
     },
     {
-      "title": "انخفاض أسعار صرف الدولار في بغداد",
-      "url": "https://www.alsumaria.tv/news/economy/577551/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "category": "عراق",
-      "published": "2026-09-30T13:42:26+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "المقاومة العراقية تعلن عدم التزامها بأي توقيتات حكومية لحصر السلاح",
       "url": "https://964media.com/721711/",
       "category": "عراق",
       "published": "2026-09-30T14:03:58+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بالصور.. العراقيون يحتفلون بيوم السيادة",
-      "url": "https://www.alsumaria.tv/news/localnews/577554/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%88%D9%86-%D9%8A%D8%AD%D8%AA%D9%81%D9%84%D9%88%D9%86-%D8%A8%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-30T14:04:56+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "وزير الدفاع الإسرائيلي: الحدث على متن فلاي دبي كان محاولة تنفيذ عملية إرهابية",
-      "url": "https://www.alsumaria.tv/news/international/577553/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A7%D9%84%D8%AD%D8%AF%D8%AB-%D8%B9%D9%84%D9%89-%D9%85%D8%AA%D9%86-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A-%D9%83%D8%A7%D9%86-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5",
-      "category": "عراق",
-      "published": "2026-09-30T14:05:35+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -231,6 +209,30 @@
       "url": "https://www.alsumaria.tv/news/localnews/577561/%D8%A7%D8%AB%D9%86%D8%AA%D8%A7%D9%86-%D9%88%D8%AB%D9%84%D8%A7%D8%AB%D9%88%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B5%D9%86%D9%8A%D9%81-%D8%A7%D9%84%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-2027",
       "category": "عراق",
       "published": "2026-09-30T15:11:58+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الستيكر يثير تساؤلات أصحاب السيارات.. ما علاقة توزيع البنزين بالرابط الإلكتروني؟",
+      "url": "https://www.alsumaria.tv/news/localnews/577562/%D8%A7%D9%84%D8%B3%D8%AA%D9%8A%D9%83%D8%B1-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%AA%D8%B3%D8%A7%D8%A4%D9%84%D8%A7%D8%AA-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%A7-%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D8%A8%D9%86%D8%B2%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B7-%D8%A7%D9%84%D8%A5",
+      "category": "عراق",
+      "published": "2026-09-30T15:25:17+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الخارجية الامريكية ترفع الحظر المفروض على الإمدادات العسكرية إلى سوريا",
+      "url": "https://www.alsumaria.tv/news/international/577564/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D9%85%D9%81%D8%B1%D9%88%D8%B6-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D9%85%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "category": "عراق",
+      "published": "2026-09-30T16:03:09+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "بالصور.. حملة في بغداد بمناسبة يوم السيادة",
+      "url": "https://www.alsumaria.tv/news/localnews/577565/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%AD%D9%85%D9%84%D8%A9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-30T16:04:35+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -325,6 +327,16 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "السعودية: لا تهاون في حفظ أمننا وسنرد بحزم على أي تهديد",
+      "url": "https://aawsat.com/node/5324445",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 18:18:07 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {
@@ -438,16 +450,6 @@
       ]
     },
     {
-      "title": "السعودية والمغرب تبحثان تعزيز التعاون الدفاعي",
-      "url": "https://aawsat.com/node/5323604",
-      "category": "مشرق أوسط",
-      "published": "Mon, 28 Sep 2026 18:54:04 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
       "url": "https://aawsat.com/node/5322757",
       "category": "مشرق أوسط",
@@ -521,6 +523,30 @@
       "watch_topics": [
         "أمريكا"
       ]
+    },
+    {
+      "title": "سانشيز يعتذر من ماكرون لرفض مجلس الشيوخ الإسباني الموافقة على معاهدة الصداقة",
+      "url": "https://aawsat.com/node/5324441",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 18:10:15 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "روسيا: مصانع الأسلحة الأوروبية الداعمة لأوكرانيا أهداف عسكرية محتملة",
+      "url": "https://aawsat.com/node/5324440",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 18:09:14 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "روسيا تستهدف إمدادات الكهرباء في كييف مع اقتراب الشتاء",
+      "url": "https://aawsat.com/node/5324439",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 18:09:03 +0100",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "روته: لا تهديدَ روسياً وشيكاً على دول «الناتو»",
@@ -599,30 +625,6 @@
       "url": "https://aawsat.com/node/5324318",
       "category": "دولي",
       "published": "Wed, 30 Sep 2026 13:26:28 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "سيول: زيلينسكي ربما كشف مسألة نقل أسيرَي حرب كوريَّين شماليَّين لكسب دعم عسكري",
-      "url": "https://aawsat.com/node/5324228",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 09:41:39 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بيرنهام: يتعيّن على بريطانيا دراسة خيار العودة إلى الاتحاد الأوروبي",
-      "url": "https://aawsat.com/node/5324218",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 09:16:15 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ملك إسبانيا: التعامل مع عبور المهاجرين لسبتة مسؤولية الاتحاد الأوروبي",
-      "url": "https://aawsat.com/node/5324114",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 23:51:07 +0100",
       "breaking": false,
       "watch_topics": []
     }
