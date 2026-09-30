@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-30T00:51:12.556545+00:00",
+  "updated_at": "2026-09-30T01:05:14.755425+00:00",
   "latest": [
     {
-      "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
-      "url": "https://aawsat.com/node/5321276",
+      "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
+      "url": "https://aawsat.com/node/5322757",
       "category": "مشرق أوسط",
-      "published": "Tue, 22 Sep 2026 15:21:23 +0100",
+      "published": "Sat, 26 Sep 2026 09:10:07 +0100",
       "breaking": false,
       "watch_topics": [
         "أمريكا"
@@ -268,6 +268,14 @@
       ]
     },
     {
+      "title": "بيونغ يانغ تنفي اتهام سيول لها بالمسؤولية عن انفجار لغمين في المنطقة العازلة",
+      "url": "https://aawsat.com/node/5324147",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 01:53:38 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "ارتفاع حصيلة غارة الجيش البورمي على سوق إلى 50 قتيلاً",
       "url": "https://aawsat.com/node/5323813",
       "category": "مشرق أوسط",
@@ -472,16 +480,6 @@
       ]
     },
     {
-      "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
-      "url": "https://aawsat.com/node/5322757",
-      "category": "مشرق أوسط",
-      "published": "Sat, 26 Sep 2026 09:10:07 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
       "title": "«البنتاغون» يختار «بوينغ» لتزويد البحرية الأميركية بمقاتلات هجومية",
       "url": "https://aawsat.com/node/5324144",
       "category": "دولي",
@@ -671,6 +669,14 @@
       "url": "https://www.alsumaria.tv/news/international/577477/%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D8%B1%D8%A7%D9%87%D9%82-%D8%AE%D8%B7%D8%B7-%D9%84%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D8%B1%D8%B3%D8%AA%D9%87",
       "category": "عراق",
       "published": "2026-09-29T14:41:02+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "بيونغ يانغ تنفي اتهام سيول لها بالمسؤولية عن انفجار لغمين في المنطقة العازلة",
+      "url": "https://aawsat.com/node/5324147",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 01:53:38 +0100",
       "breaking": true,
       "watch_topics": []
     },
