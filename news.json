@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T10:14:43.309963+00:00",
+  "updated_at": "2026-09-30T10:31:14.840042+00:00",
   "items": [
     {
       "title": "CBS News: أكثر من 600 هجوم استهدف المصالح الأميركية في العراق خلال 2026",
@@ -32,6 +32,38 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
+    },
+    {
+      "title": "إطلاق رابط التسجيل على الستيكر تمهيداً لإصدار البطاقة الوقودية لمركبات المواطنين",
+      "url": "https://www.alsumaria.tv/news/localnews/577523/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%B1%D8%A7%D8%A8%D8%B7-%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%AA%D9%8A%D9%83%D8%B1-%D8%AA%D9%85%D9%87%D9%8A%D8%AF%D8%A7%D9%8B-%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-09-30T10:17:07+00:00",
+      "image": "./assets/news/077a3d49c0285c1af6b932bb.jpg",
+      "original_image": "./assets/news/077a3d49c0285c1af6b932bb.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577523/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%B1%D8%A7%D8%A8%D8%B7-%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%AA%D9%8A%D9%83%D8%B1-%D8%AA%D9%85%D9%87%D9%8A%D8%AF%D8%A7%D9%8B-%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ef8a454c294f.html"
+    },
+    {
+      "title": "طائرة من دبي إلى إسرائيل تهبط في السعودية \"بعد شجار على متنها\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-09-30T10:03:38+00:00",
+      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/979b5baa0605.html"
     },
     {
       "title": "ذا ناشيونال: 123 قتيلاً و499 جريحاً أميركياً خلال 12 عاماً من المهمة في العراق",
@@ -160,22 +192,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/17a7ca251663.html"
-    },
-    {
-      "title": "طائرة من دبي إلى إسرائيل تهبط في السعودية \"بعد شجار على متنها\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-30T08:56:19+00:00",
-      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5ac066016577.html"
     },
     {
       "title": "القانون هو الفيصل.. الداخلية تحسم عبر السومرية موقفها من حصر السلاح",
@@ -432,22 +448,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7e944fe65dd7.html"
-    },
-    {
-      "title": "أمطار وحرارة منخفضة.. الاحد يعيد امجاد الصيف",
-      "url": "https://www.alsumaria.tv/news/localnews/577503/%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%88%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%85%D9%86%D8%AE%D9%81%D8%B6%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AF-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%A7%D9%85%D8%AC%D8%A7%D8%AF-%D8%A7%D9%84%D8%B5%D9%8A%D9%81",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-30T06:52:57+00:00",
-      "image": "./assets/news/9bdd1f99662031c22d4ad804.jpg",
-      "original_image": "./assets/news/9bdd1f99662031c22d4ad804.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577503/%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%88%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%85%D9%86%D8%AE%D9%81%D8%B6%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AF-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%A7%D9%85%D8%AC%D8%A7%D8%AF-%D8%A7%D9%84%D8%B5%D9%8A%D9%81",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f71addccdaa6.html"
     },
     {
       "title": "قطر تعمل على \"سد الفجوة\" بين الولايات المتحدة وإيران، وترامب يؤكد أن طهران \"ستستسلم\" - شفق نيوز..",
