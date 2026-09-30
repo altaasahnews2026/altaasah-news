@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-30T15:25:01.289305+00:00",
+  "updated_at": "2026-09-30T15:41:13.646864+00:00",
   "latest": [
+    {
+      "title": "15 مليون دولار مكافأة.. واشنطن تبحث عن ممولي الحرس الثوري",
+      "url": "https://www.alsumaria.tv/news/international/577563/15-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D9%83%D8%A7%D9%81%D8%A3%D8%A9-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D9%85%D9%85%D9%88%D9%84%D9%8A-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A",
+      "category": "عراق",
+      "published": "2026-09-30T15:27:12+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
     {
       "title": "“مكافحة الإرهاب قتلت مدنيين لا دواعش”.. كرد كركوك يطلبون تحقيقاً عاجلاً",
       "url": "https://964media.com/721318/",
@@ -30,16 +41,6 @@
       ]
     },
     {
-      "title": "نتنياهو: طيار في رحلة \"فلاي دبي\" طعن الطيار الآخر وحاول إسقاط الطائرة والسعودية \"أوقفت منفذ العملية\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "category": "عراق",
-      "published": "2026-09-30T14:19:25+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "إيران تتسلم الرد الأمريكي على مقترحها لإنهاء الحرب وسط استمرار التوتر في مضيق هرمز - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cq62jpvz5pg5o",
       "category": "عراق",
@@ -50,12 +51,14 @@
       ]
     },
     {
-      "title": "عميد يضرب حملة الشهادات العليا “بالجلاليق” في بغداد",
-      "url": "https://964media.com/721226/",
+      "title": "نتنياهو: طيار في رحلة \"فلاي دبي\" طعن الطيار الآخر وحاول إسقاط الطائرة والسعودية \"أوقفت منفذ العملية\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
       "category": "عراق",
-      "published": "2026-09-29T09:24:49+00:00",
+      "published": "2026-09-30T15:24:13+00:00",
       "breaking": false,
-      "watch_topics": []
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
       "title": "منافذ العراق تقر 6 توصيات لضبط الحدود وتسهيل حركة التجار والمسافرين",
@@ -106,14 +109,6 @@
       "watch_topics": []
     },
     {
-      "title": "العراق بعد الانسحاب الأمريكي: من شبح \"تنظيم الدولة\" إلى معركة سلاح الفصائل - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm74k2ed93p9o",
-      "category": "عراق",
-      "published": "2026-09-30T08:46:34+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "الأعرجي: انتهاء مهمة التحالف لا يعني انتهاء الشراكة مع أصدقاء العراق",
       "url": "https://964media.com/721562/",
       "category": "عراق",
@@ -126,30 +121,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cqy0zejlx5kgo",
       "category": "عراق",
       "published": "2026-09-30T11:04:00+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الدفاعي يكشف عن موعد حصر السلاح بيد الدولة",
-      "url": "https://www.alsumaria.tv/news/security/577541/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D9%85%D9%88%D8%B9%D8%AF-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D8%A8%D9%8A%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9",
-      "category": "عراق",
-      "published": "2026-09-30T11:22:10+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الموت يغيّب زوجة المنتج صادق الصبّاح",
-      "url": "https://www.alsumaria.tv/news/artculture/577542/%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D9%8A%D8%BA%D9%8A%D9%91%D8%A8-%D8%B2%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC-%D8%B5%D8%A7%D8%AF%D9%82-%D8%A7%D9%84%D8%B5%D8%A8%D9%91%D8%A7%D8%AD",
-      "category": "عراق",
-      "published": "2026-09-30T11:23:42+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "القبض على 7 أجانب وضبط جوازات وأختام مزورة شرقي بغداد",
-      "url": "https://www.alsumaria.tv/news/security/577543/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-7-%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D9%88%D8%B6%D8%A8%D8%B7-%D8%AC%D9%88%D8%A7%D8%B2%D8%A7%D8%AA-%D9%88%D8%A3%D8%AE%D8%AA%D8%A7%D9%85-%D9%85%D8%B2%D9%88%D8%B1%D8%A9-%D8%B4%D8%B1%D9%82%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "category": "عراق",
-      "published": "2026-09-30T11:30:07+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -230,6 +201,38 @@
       "url": "https://www.alsumaria.tv/news/economy/577551/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "category": "عراق",
       "published": "2026-09-30T13:42:26+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "المقاومة العراقية تعلن عدم التزامها بأي توقيتات حكومية لحصر السلاح",
+      "url": "https://964media.com/721711/",
+      "category": "عراق",
+      "published": "2026-09-30T14:03:58+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "بالصور.. العراقيون يحتفلون بيوم السيادة",
+      "url": "https://www.alsumaria.tv/news/localnews/577554/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%88%D9%86-%D9%8A%D8%AD%D8%AA%D9%81%D9%84%D9%88%D9%86-%D8%A8%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
+      "category": "عراق",
+      "published": "2026-09-30T14:04:56+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "وزير الدفاع الإسرائيلي: الحدث على متن فلاي دبي كان محاولة تنفيذ عملية إرهابية",
+      "url": "https://www.alsumaria.tv/news/international/577553/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A7%D9%84%D8%AD%D8%AF%D8%AB-%D8%B9%D9%84%D9%89-%D9%85%D8%AA%D9%86-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A-%D9%83%D8%A7%D9%86-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5",
+      "category": "عراق",
+      "published": "2026-09-30T14:05:35+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الحسيني: المقاومة الإسلامية غير ملزمة بأي توقيت أو اتفاق لتسليم السلاح",
+      "url": "https://www.alsumaria.tv/news/localnews/577555/%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D9%86%D9%8A-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D8%BA%D9%8A%D8%B1-%D9%85%D9%84%D8%B2%D9%85%D8%A9-%D8%A8%D8%A3%D9%8A-%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A3%D9%88-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%84%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD",
+      "category": "عراق",
+      "published": "2026-09-30T14:19:56+00:00",
       "breaking": false,
       "watch_topics": []
     },
