@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T11:00:34.817747+00:00",
+  "updated_at": "2026-09-30T11:13:19.690019+00:00",
   "latest": [
     {
       "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
@@ -123,14 +123,6 @@
       "watch_topics": []
     },
     {
-      "title": "النزاهة تضبط 5 كغم من المصوغات الذهبية العائدة لإحدى المتهمات في صلاح الدين",
-      "url": "https://www.alsumaria.tv/news/localnews/577507/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-5-%D9%83%D8%BA%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B5%D9%88%D8%BA%D8%A7%D8%AA-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D8%AF%D8%A9-%D9%84%D8%A5%D8%AD%D8%AF%D9%89-%D8%A7%D9%84%D9%85%D8%AA%D9%87%D9%85%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B5%D9%84%D8%A7%D8%AD",
-      "category": "عراق",
-      "published": "2026-09-30T07:47:45+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "انخفض قليلا.. اسعار الدولار في تعاملات اليوم",
       "url": "https://www.alsumaria.tv/news/economy/577508/%D8%A7%D9%86%D8%AE%D9%81%D8%B6-%D9%82%D9%84%D9%8A%D9%84%D8%A7-%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AA%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
       "category": "عراق",
@@ -239,6 +231,14 @@
       "url": "https://www.alsumaria.tv/news/trends-alsumaria/577519/%D8%A5%D9%87%D9%85%D8%A7%D9%84-%D8%B5%D9%85%D8%A7%D9%85%D8%A7%D8%AA-%D8%B5%D9%87%D8%B1%D9%8A%D8%AC-%D9%8A%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D8%AD%D8%B1%D9%8A%D9%82-%D9%82%D8%B1%D8%A8-%D9%85%D8%AD%D8%B7%D8%A9-%D9%88%D9%82%D9%88%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
       "category": "عراق",
       "published": "2026-09-30T09:37:51+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "اجتماع ومصير أرنولد على المحك.. ماذا حدث بعد خروج العراق من خليجي 27؟",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577520/sports/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%88%D9%85%D8%B5%D9%8A%D8%B1-%D8%A3%D8%B1%D9%86%D9%88%D9%84%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AD%D9%83-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AD%D8%AF%D8%AB-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B1%D9%88%D8%AC-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D9%86-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27%D8%9F",
+      "category": "عراق",
+      "published": "2026-09-30T09:42:47+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -462,6 +462,165 @@
       "watch_topics": [
         "السعودية"
       ]
+    },
+    {
+      "title": "«البنتاغون» يختار «بوينغ» لتطوير الجيل التالي من المقاتلات الهجومية",
+      "url": "https://aawsat.com/node/5324144",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 00:55:03 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "أميركا تفرض عقوبات على 13 فرداً وكياناً لمساعدتهم إيران على شراء أسلحة",
+      "url": "https://aawsat.com/node/5324055",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 19:54:53 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "مقتل طفل وإصابة 5 أشخاص في هجوم روسي على منطقة كييف",
+      "url": "https://aawsat.com/node/5324152",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 03:29:25 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تحطّم طائرة عسكرية في شرق روسيا... ومقتل 6 من طاقمها",
+      "url": "https://aawsat.com/node/5323928",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 15:22:41 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مقتل معلمة وإصابة شخصين إثر هجوم بسكين داخل مدرسة في سلوفاكيا",
+      "url": "https://aawsat.com/node/5323889",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 14:16:10 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مقتل 14 شخصاً في حريق بمصنع للألعاب النارية في روسيا",
+      "url": "https://aawsat.com/node/5323715",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 01:04:58 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مسيّرة روسية تُلحق أضراراً بمركز حدودي أوكراني قرب بولندا",
+      "url": "https://aawsat.com/node/5323592",
+      "category": "دولي",
+      "published": "Mon, 28 Sep 2026 18:26:23 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مقتل رجل في نيويورك دهساً بعدما علقت حقيبته بأبواب قطار أنفاق",
+      "url": "https://aawsat.com/node/5324067",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 20:47:25 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "استمر 9 أشهر... اختراق ضخم لـ«البنتاغون» يطول بيانات حساسة لـ3 ملايين شخص",
+      "url": "https://aawsat.com/node/5323854",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 12:48:55 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "سيول: زيلينسكي ربما كشف مسألة نقل أسيرَي حرب كوريَّين شماليَّين لكسب دعم عسكري",
+      "url": "https://aawsat.com/node/5324228",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 09:41:39 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "بيرنهام: يتعيّن على بريطانيا دراسة خيار العودة إلى الاتحاد الأوروبي",
+      "url": "https://aawsat.com/node/5324218",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 09:16:15 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "ملك إسبانيا: التعامل مع عبور المهاجرين لسبتة مسؤولية الاتحاد الأوروبي",
+      "url": "https://aawsat.com/node/5324114",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 23:51:07 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "لوبن تدافع عن رئيس حزبها بمواجهة تهم معاداة السامية قبل انتخابات الرئاسة الفرنسية",
+      "url": "https://aawsat.com/node/5324102",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 23:12:15 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "مقدونيا الشمالية تعلن تفكيك خلية مرتبطة بتنظيم «داعش»",
+      "url": "https://aawsat.com/node/5324091",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 22:33:14 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "احتجاجات المدارس تتسع في فرنسا... وتوقيف 440 شخصاً",
+      "url": "https://aawsat.com/node/5324087",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 22:12:20 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "غموض يكتنف «مخطط تفجير» قاعدة بريطانية تستخدمها القوات الأميركية",
+      "url": "https://aawsat.com/node/5324064",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 20:42:34 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الادعاء الألماني يلاحق أوكرانياً بتهمة التجسس لصالح موسكو",
+      "url": "https://aawsat.com/node/5324051",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 19:47:40 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "بيرنهام يتعهد بإجراء تغيير كبير في بريطانيا",
+      "url": "https://aawsat.com/node/5324047",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 19:32:45 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الادعاء الألماني يتّهم 4 عراقيين بالانتماء إلى «داعش»",
+      "url": "https://aawsat.com/node/5323983",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 17:11:36 +0100",
+      "breaking": false,
+      "watch_topics": []
     }
   ],
   "breaking": [
@@ -566,6 +725,64 @@
       "url": "https://aawsat.com/node/5321412",
       "category": "مشرق أوسط",
       "published": "Tue, 22 Sep 2026 20:58:59 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "«البنتاغون» يختار «بوينغ» لتطوير الجيل التالي من المقاتلات الهجومية",
+      "url": "https://aawsat.com/node/5324144",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 00:55:03 +0100",
+      "breaking": true,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "مقتل طفل وإصابة 5 أشخاص في هجوم روسي على منطقة كييف",
+      "url": "https://aawsat.com/node/5324152",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 03:29:25 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تحطّم طائرة عسكرية في شرق روسيا... ومقتل 6 من طاقمها",
+      "url": "https://aawsat.com/node/5323928",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 15:22:41 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مقتل معلمة وإصابة شخصين إثر هجوم بسكين داخل مدرسة في سلوفاكيا",
+      "url": "https://aawsat.com/node/5323889",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 14:16:10 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مقتل 14 شخصاً في حريق بمصنع للألعاب النارية في روسيا",
+      "url": "https://aawsat.com/node/5323715",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 01:04:58 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مسيّرة روسية تُلحق أضراراً بمركز حدودي أوكراني قرب بولندا",
+      "url": "https://aawsat.com/node/5323592",
+      "category": "دولي",
+      "published": "Mon, 28 Sep 2026 18:26:23 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مقتل رجل في نيويورك دهساً بعدما علقت حقيبته بأبواب قطار أنفاق",
+      "url": "https://aawsat.com/node/5324067",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 20:47:25 +0100",
       "breaking": true,
       "watch_topics": []
     }
