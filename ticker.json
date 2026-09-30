@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T16:29:40.854864+00:00",
+  "updated_at": "2026-09-30T16:49:26.788808+00:00",
   "latest": [
     {
       "title": "15 مليون دولار مكافأة.. واشنطن تبحث عن ممولي الحرس الثوري",
@@ -41,16 +41,6 @@
       ]
     },
     {
-      "title": "نتنياهو: طيار في رحلة \"فلاي دبي\" طعن الطيار الآخر وحاول إسقاط الطائرة والسعودية \"أوقفت منفذ العملية\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "category": "عراق",
-      "published": "2026-09-30T15:24:13+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "واشنطن تدخل على خط حادثة فلاي دبي: التحقيق مستمر",
       "url": "https://www.alsumaria.tv/news/international/577567/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AF%D8%AE%D9%84-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7-%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%85%D8%B3%D8%AA%D9%85%D8%B1",
       "category": "عراق",
@@ -59,14 +49,6 @@
       "watch_topics": [
         "أمريكا"
       ]
-    },
-    {
-      "title": "منافذ العراق تقر 6 توصيات لضبط الحدود وتسهيل حركة التجار والمسافرين",
-      "url": "https://964media.com/721262/",
-      "category": "عراق",
-      "published": "2026-09-29T10:41:23+00:00",
-      "breaking": false,
-      "watch_topics": []
     },
     {
       "title": "الأمن والدفاع النيابية لـ 964: عملية آلتون كوبري لم تكن دقيقة وقتلاها مدنيون",
@@ -233,6 +215,22 @@
       "url": "https://www.alsumaria.tv/Entertainment-News/577557/sports/%D9%86%D8%AC%D9%85-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D8%AE%D8%B6%D8%B9-%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%AC%D8%B1%D8%A7%D8%AD%D9%8A%D8%A9",
       "category": "عراق",
       "published": "2026-09-30T14:24:43+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "بريطانيا تعلن خروج جميع جنودها من العراق واختتام مهمة التحالف رسمياً",
+      "url": "https://964media.com/721717/",
+      "category": "عراق",
+      "published": "2026-09-30T14:28:10+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "من الإقلاع الى الهبوط في تبوك.. تفاصيل ما حدث بطائرة الإسرائيليين",
+      "url": "https://www.alsumaria.tv/news/international/577558/%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D8%A7%D8%B9-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D9%87%D8%A8%D9%88%D8%B7-%D9%81%D9%8A-%D8%AA%D8%A8%D9%88%D9%83-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%85%D8%A7-%D8%AD%D8%AF%D8%AB-%D8%A8%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D9%8A%D9%86",
+      "category": "عراق",
+      "published": "2026-09-30T14:35:57+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -505,6 +503,16 @@
       "watch_topics": []
     },
     {
+      "title": "لندن ترجّح دوراً إيرانياً في حادثة «فيرفورد»",
+      "url": "https://aawsat.com/node/5324426",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 17:38:55 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "استمر 9 أشهر... اختراق ضخم لـ«البنتاغون» يطول بيانات حساسة لـ3 ملايين شخص",
       "url": "https://aawsat.com/node/5323854",
       "category": "دولي",
@@ -615,14 +623,6 @@
       "url": "https://aawsat.com/node/5324102",
       "category": "دولي",
       "published": "Tue, 29 Sep 2026 23:12:15 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "مقدونيا الشمالية تعلن تفكيك خلية مرتبطة بتنظيم «داعش»",
-      "url": "https://aawsat.com/node/5324091",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 22:33:14 +0100",
       "breaking": false,
       "watch_topics": []
     }
