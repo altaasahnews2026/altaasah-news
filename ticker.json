@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T15:04:26.833202+00:00",
+  "updated_at": "2026-09-30T15:25:01.289305+00:00",
   "latest": [
     {
       "title": "“مكافحة الإرهاب قتلت مدنيين لا دواعش”.. كرد كركوك يطلبون تحقيقاً عاجلاً",
@@ -130,14 +130,6 @@
       "watch_topics": []
     },
     {
-      "title": "متحدث الحكومة يعلن الاتفاق مع الفصائل على دمجها: الأمور تمضي بهذا الاتجاه",
-      "url": "https://www.alsumaria.tv/news/politics/577540/%D9%85%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%85%D8%B9-%D8%A7%D9%84%D9%81%D8%B5%D8%A7%D8%A6%D9%84-%D8%B9%D9%84%D9%89-%D8%AF%D9%85%D8%AC%D9%87%D8%A7-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%B1-%D8%AA%D9%85%D8%B6%D9%8A-%D8%A8%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%A7%D8%AA%D8%AC",
-      "category": "عراق",
-      "published": "2026-09-30T11:16:05+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "الدفاعي يكشف عن موعد حصر السلاح بيد الدولة",
       "url": "https://www.alsumaria.tv/news/security/577541/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D9%85%D9%88%D8%B9%D8%AF-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D8%A8%D9%8A%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9",
       "category": "عراق",
@@ -234,6 +226,14 @@
       "watch_topics": []
     },
     {
+      "title": "انخفاض أسعار صرف الدولار في بغداد",
+      "url": "https://www.alsumaria.tv/news/economy/577551/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "category": "عراق",
+      "published": "2026-09-30T13:42:26+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "قطر: نعمل على بناء أرضية مشتركة بين واشنطن وطهران",
       "url": "https://aawsat.com/node/5323878",
       "category": "مشرق أوسط",
@@ -324,6 +324,16 @@
       "breaking": false,
       "watch_topics": [
         "إيران"
+      ]
+    },
+    {
+      "title": "دي مايو لـ«الشرق الأوسط»: قمة السعودية تدفع لشراكة خليجية - أوروبية أكثر طموحاً",
+      "url": "https://aawsat.com/node/5324398",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 16:23:54 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
       ]
     },
     {
@@ -437,16 +447,6 @@
       ]
     },
     {
-      "title": "البحرين: أمن السعودية من أمننا... واعتداءات الحوثي تهديد إقليمي",
-      "url": "https://aawsat.com/node/5323597",
-      "category": "مشرق أوسط",
-      "published": "Mon, 28 Sep 2026 18:39:21 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
       "url": "https://aawsat.com/node/5322757",
       "category": "مشرق أوسط",
@@ -510,6 +510,14 @@
       "watch_topics": [
         "أمريكا"
       ]
+    },
+    {
+      "title": "بيرنهام يفتح باب العودة إلى الاتحاد الأوروبي",
+      "url": "https://aawsat.com/node/5324395",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 16:17:05 +0100",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "بلغاريا تدعو إلى حوار أوروبي مع روسيا يأخذ في الحسبان «الخطر» النووي",
@@ -612,14 +620,6 @@
       "url": "https://aawsat.com/node/5324064",
       "category": "دولي",
       "published": "Tue, 29 Sep 2026 20:42:34 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الادعاء الألماني يلاحق أوكرانياً بتهمة التجسس لصالح موسكو",
-      "url": "https://aawsat.com/node/5324051",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 19:47:40 +0100",
       "breaking": false,
       "watch_topics": []
     }
