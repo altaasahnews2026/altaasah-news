@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T13:28:41.500559+00:00",
+  "updated_at": "2026-09-30T13:41:42.059383+00:00",
   "latest": [
     {
       "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
@@ -535,6 +535,14 @@
       ]
     },
     {
+      "title": "مداهمات كاسحة لشبكة تروّج لموسيقى النازيين الجدد المحرضة على الكراهية عبر أوروبا",
+      "url": "https://aawsat.com/node/5324348",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 14:32:51 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "الاتحاد الأوروبي يعتزم إنشاء شبكة اتصالات موحّدة لخدمات الطوارئ عبر الحدود",
       "url": "https://aawsat.com/node/5324318",
       "category": "دولي",
@@ -611,14 +619,6 @@
       "url": "https://aawsat.com/node/5324047",
       "category": "دولي",
       "published": "Tue, 29 Sep 2026 19:32:45 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الادعاء الألماني يتّهم 4 عراقيين بالانتماء إلى «داعش»",
-      "url": "https://aawsat.com/node/5323983",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 17:11:36 +0100",
       "breaking": false,
       "watch_topics": []
     }
