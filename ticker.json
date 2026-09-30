@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T07:58:54.209046+00:00",
+  "updated_at": "2026-09-30T08:11:36.883871+00:00",
   "latest": [
     {
       "title": "قبل زيارة رئيسها إلى واشنطن... الصين تقيّد تصدير مواد تُستخدم في تصنيع المخدرات",
@@ -69,16 +69,6 @@
       "published": "2026-09-30T07:04:30+00:00",
       "breaking": true,
       "watch_topics": []
-    },
-    {
-      "title": "انطلاق مباراة العراق والسعودية في خليجي 27",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577486/sports/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27",
-      "category": "عراق",
-      "published": "2026-09-29T17:30:00+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
     },
     {
       "title": "عقوبات أمريكية على 10 أفراد وكيانات تولوا شراء أسلحة لصالح إيران",
@@ -187,10 +177,42 @@
       "watch_topics": []
     },
     {
+      "title": "العراق يمنع تصدير النحاس والألمنيوم والرصاص والحديد لدعم الصناعة المحلية",
+      "url": "https://964media.com/721475/",
+      "category": "عراق",
+      "published": "2026-09-29T19:40:59+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "بعد خسارة العراق وفوز عُمان.. قرعة مرتقبة لحسم المتأهل إلى نصف النهائي",
+      "url": "https://964media.com/721484/",
+      "category": "عراق",
+      "published": "2026-09-29T19:52:52+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "فاطمة الزهراء المنصوري: ماذا نعرف عن أول امرأة تترأس الحكومة بالمغرب؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c6ly7j8p58v8o",
       "category": "عراق",
       "published": "2026-09-29T19:54:21+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "أهل الكهف أيضاً سيراقبون سماء العراق: سنضرب أي طائرة أميركية ابتداءً من الغد",
+      "url": "https://964media.com/721503/",
+      "category": "عراق",
+      "published": "2026-09-29T20:25:18+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "عند التساوي بكل شيء.. قرعة منتصف الليل تحسم بطاقة العراق أو عُمان",
+      "url": "https://964media.com/721512/",
+      "category": "عراق",
+      "published": "2026-09-29T20:37:03+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -231,30 +253,6 @@
       "url": "https://www.alsumaria.tv/news/miscellaneous/577497/%D9%81%D9%86%D8%AC%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D9%87%D9%88%D8%A9-%D9%81%D9%8A-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A3%D9%84%D8%B2%D9%87%D8%A7%D9%8A%D9%85%D8%B1",
       "category": "عراق",
       "published": "2026-09-30T05:34:07+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ضبط حاويتين معديتين للتهريب في منفذ ميناء ام قصر الشمالي",
-      "url": "https://www.alsumaria.tv/news/localnews/577498/%D8%B6%D8%A8%D8%B7-%D8%AD%D8%A7%D9%88%D9%8A%D8%AA%D9%8A%D9%86-%D9%85%D8%B9%D8%AF%D9%8A%D8%AA%D9%8A%D9%86-%D9%84%D9%84%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%81%D9%8A-%D9%85%D9%86%D9%81%D8%B0-%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%A7%D9%85-%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A",
-      "category": "عراق",
-      "published": "2026-09-30T05:43:53+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "فائق زيدان يهنئ العراقيين بيوم 30 أيلول ويؤكد على سلطة القانون",
-      "url": "https://964media.com/721538/",
-      "category": "عراق",
-      "published": "2026-09-30T06:09:23+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الأعرجي: اليوم نصل لمحطة مهمة بإنهاء مهمة التحالف الدولي والانتقال إلى العلاقات الثنائية",
-      "url": "https://www.alsumaria.tv/news/politics/577501/%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%AC%D9%8A-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%86%D8%B5%D9%84-%D9%84%D9%85%D8%AD%D8%B7%D8%A9-%D9%85%D9%87%D9%85%D8%A9-%D8%A8%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D9%85%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D8%A5%D9%84%D9%89",
-      "category": "عراق",
-      "published": "2026-09-30T06:27:56+00:00",
       "breaking": false,
       "watch_topics": []
     },
