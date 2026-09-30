@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T12:05:29.580375+00:00",
+  "updated_at": "2026-09-30T12:31:44.326205+00:00",
   "latest": [
     {
       "title": "قطر تعمل على \"سد الفجوة\" بين الولايات المتحدة وإيران، وترامب يؤكد أن طهران \"ستستسلم\" - شفق نيوز..",
@@ -17,14 +17,6 @@
       "url": "https://964media.com/721318/",
       "category": "عراق",
       "published": "2026-09-29T13:40:34+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "الزيدي يأمر بتوجيه كتاب شكر وتقدير إلى جميع منتسبي الأجهزة الأمنية والعسكرية",
-      "url": "https://www.alsumaria.tv/news/security/577515/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%A3%D9%85%D8%B1-%D8%A8%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D9%83%D8%AA%D8%A7%D8%A8-%D8%B4%D9%83%D8%B1-%D9%88%D8%AA%D9%82%D8%AF%D9%8A%D8%B1-%D8%A5%D9%84%D9%89-%D8%AC%D9%85%D9%8A%D8%B9-%D9%85%D9%86%D8%AA%D8%B3%D8%A8%D9%8A-%D8%A7%D9%84%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84",
-      "category": "عراق",
-      "published": "2026-09-30T09:03:42+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -117,14 +109,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cm74k2ed93p9o",
       "category": "عراق",
       "published": "2026-09-30T08:46:34+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "القانون هو الفيصل.. الداخلية تحسم عبر السومرية موقفها من حصر السلاح",
-      "url": "https://www.alsumaria.tv/news/security/577514/%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%87%D9%88-%D8%A7%D9%84%D9%81%D9%8A%D8%B5%D9%84-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B3%D9%85-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%B3%D9%88%D9%85%D8%B1%D9%8A%D8%A9-%D9%85%D9%88%D9%82%D9%81%D9%87%D8%A7-%D9%85%D9%86-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD",
-      "category": "عراق",
-      "published": "2026-09-30T08:53:40+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -233,6 +217,22 @@
       "watch_topics": []
     },
     {
+      "title": "البارزاني يطمئن شعب كردستان: نسقنا مع بغداد لمواجهة “داعش” وغيره",
+      "url": "https://964media.com/721646/",
+      "category": "عراق",
+      "published": "2026-09-30T11:09:23+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "متحدث الحكومة يعلن الاتفاق مع الفصائل على دمجها: الأمور تمضي بهذا الاتجاه",
+      "url": "https://www.alsumaria.tv/news/politics/577540/%D9%85%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%85%D8%B9-%D8%A7%D9%84%D9%81%D8%B5%D8%A7%D8%A6%D9%84-%D8%B9%D9%84%D9%89-%D8%AF%D9%85%D8%AC%D9%87%D8%A7-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%B1-%D8%AA%D9%85%D8%B6%D9%8A-%D8%A8%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%A7%D8%AA%D8%AC",
+      "category": "عراق",
+      "published": "2026-09-30T11:16:05+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "قطر: نعمل على بناء أرضية مشتركة بين واشنطن وطهران",
       "url": "https://aawsat.com/node/5323878",
       "category": "مشرق أوسط",
@@ -242,6 +242,14 @@
         "إيران",
         "أمريكا"
       ]
+    },
+    {
+      "title": "مقابر حوثية جديدة لاستيعاب الأعداد المتصاعدة من القتلى",
+      "url": "https://aawsat.com/node/5324248",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 10:54:04 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "بيونغ يانغ تنفي اتهام سيول لها بالمسؤولية عن انفجار لغمين في المنطقة العازلة",
@@ -314,6 +322,16 @@
       "published": "Tue, 22 Sep 2026 20:58:59 +0100",
       "breaking": true,
       "watch_topics": []
+    },
+    {
+      "title": "أسلحة حوثية - إيرانية تهدد الطيران المدني",
+      "url": "https://aawsat.com/node/5323096",
+      "category": "مشرق أوسط",
+      "published": "Sun, 27 Sep 2026 11:59:09 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
     },
     {
       "title": "السعودية: مؤتمر دولي يوصي بتوظيف الذكاء الاصطناعي في حماية الأمن الفكري",
@@ -436,22 +454,6 @@
       ]
     },
     {
-      "title": "«التحالف الإسلامي» والسنغال يبحثان سبل تعزيز التعاون في محاربة الإرهاب",
-      "url": "https://aawsat.com/node/5324293",
-      "category": "مشرق أوسط",
-      "published": "Wed, 30 Sep 2026 12:30:13 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "فيصل بن فرحان يبحث مع مشرّعين أميركيين مستجدات الأوضاع الإقليمية",
-      "url": "https://aawsat.com/node/5324206",
-      "category": "مشرق أوسط",
-      "published": "Wed, 30 Sep 2026 08:33:29 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "«البنتاغون» يختار «بوينغ» لتطوير الجيل التالي من المقاتلات الهجومية",
       "url": "https://aawsat.com/node/5324144",
       "category": "دولي",
@@ -505,14 +507,6 @@
       "watch_topics": []
     },
     {
-      "title": "مقتل 14 شخصاً في حريق بمصنع للألعاب النارية في روسيا",
-      "url": "https://aawsat.com/node/5323715",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 01:04:58 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "مقتل رجل في نيويورك دهساً بعدما علقت حقيبته بأبواب قطار أنفاق",
       "url": "https://aawsat.com/node/5324067",
       "category": "دولي",
@@ -529,6 +523,14 @@
       "watch_topics": [
         "أمريكا"
       ]
+    },
+    {
+      "title": "الاتحاد الأوروبي يعتزم إنشاء شبكة اتصالات موحّدة لخدمات الطوارئ عبر الحدود",
+      "url": "https://aawsat.com/node/5324318",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 13:26:28 +0100",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "سيول: زيلينسكي ربما كشف مسألة نقل أسيرَي حرب كوريَّين شماليَّين لكسب دعم عسكري",
@@ -629,18 +631,18 @@
       "watch_topics": []
     },
     {
-      "title": "الزيدي يأمر بتوجيه كتاب شكر وتقدير إلى جميع منتسبي الأجهزة الأمنية والعسكرية",
-      "url": "https://www.alsumaria.tv/news/security/577515/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%A3%D9%85%D8%B1-%D8%A8%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D9%83%D8%AA%D8%A7%D8%A8-%D8%B4%D9%83%D8%B1-%D9%88%D8%AA%D9%82%D8%AF%D9%8A%D8%B1-%D8%A5%D9%84%D9%89-%D8%AC%D9%85%D9%8A%D8%B9-%D9%85%D9%86%D8%AA%D8%B3%D8%A8%D9%8A-%D8%A7%D9%84%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84",
-      "category": "عراق",
-      "published": "2026-09-30T09:03:42+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "CBS News: أكثر من 600 هجوم استهدف المصالح الأميركية في العراق خلال 2026",
       "url": "https://www.alsumaria.tv/news/security/577522/cbs-news-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-600-%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AE%D9%84%D8%A7%D9%84-2026",
       "category": "عراق",
       "published": "2026-09-30T10:04:46+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مقابر حوثية جديدة لاستيعاب الأعداد المتصاعدة من القتلى",
+      "url": "https://aawsat.com/node/5324248",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 10:54:04 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -755,14 +757,6 @@
       "url": "https://aawsat.com/node/5323889",
       "category": "دولي",
       "published": "Tue, 29 Sep 2026 14:16:10 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "مقتل 14 شخصاً في حريق بمصنع للألعاب النارية في روسيا",
-      "url": "https://aawsat.com/node/5323715",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 01:04:58 +0100",
       "breaking": true,
       "watch_topics": []
     },
