@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T05:02:51.382057+00:00",
+  "updated_at": "2026-09-30T05:20:02.448713+00:00",
   "latest": [
     {
       "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
@@ -541,14 +541,6 @@
       "watch_topics": []
     },
     {
-      "title": "محكمة فرنسية تدين شركة «سويفت إير» بتهمة القتل الخطأ بعد سقوط طائرة في مالي",
-      "url": "https://aawsat.com/node/5323542",
-      "category": "دولي",
-      "published": "Mon, 28 Sep 2026 16:14:51 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "مقتل رجل في نيويورك دهساً بعدما علقت حقيبته بأبواب قطار أنفاق",
       "url": "https://aawsat.com/node/5324067",
       "category": "دولي",
@@ -565,6 +557,14 @@
       "watch_topics": [
         "أمريكا"
       ]
+    },
+    {
+      "title": "ملك إسبانيا: التعامل مع عبور المهاجرين لسبتة مسؤولية الاتحاد الأوروبي",
+      "url": "https://aawsat.com/node/5324114",
+      "category": "دولي",
+      "published": "Tue, 29 Sep 2026 23:51:07 +0100",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "لوبن تدافع عن رئيس حزبها بمواجهة تهم معاداة السامية قبل انتخابات الرئاسة الفرنسية",
@@ -791,14 +791,6 @@
       "url": "https://aawsat.com/node/5323592",
       "category": "دولي",
       "published": "Mon, 28 Sep 2026 18:26:23 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "محكمة فرنسية تدين شركة «سويفت إير» بتهمة القتل الخطأ بعد سقوط طائرة في مالي",
-      "url": "https://aawsat.com/node/5323542",
-      "category": "دولي",
-      "published": "Mon, 28 Sep 2026 16:14:51 +0100",
       "breaking": true,
       "watch_topics": []
     },
