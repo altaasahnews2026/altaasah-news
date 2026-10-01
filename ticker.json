@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-01T09:07:13.152290+00:00",
+  "updated_at": "2026-10-01T09:26:42.365107+00:00",
   "latest": [
+    {
+      "title": "الحرس الثوري الإيراني: طرد أميركا ثمرة صمود العراقيين",
+      "url": "https://964media.com/721856/",
+      "category": "عراق",
+      "published": "2026-10-01T08:54:44+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
     {
       "title": "قتيلان بإطلاق نار في ولاية فرجينيا الأمريكية",
       "url": "https://www.alsumaria.tv/news/international/577590/%D9%82%D8%AA%D9%8A%D9%84%D8%A7%D9%86-%D8%A8%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D9%81%D8%B1%D8%AC%D9%8A%D9%86%D9%8A%D8%A7-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9",
@@ -14,6 +25,14 @@
       "url": "https://www.alsumaria.tv/news/localnews/577595/%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%B1%D8%AC%D9%84-%D9%81%D9%8A-%D8%AA%D9%83%D8%B3%D8%A7%D8%B3-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D8%AC%D9%85%D8%A7%D8%B9%D9%8A-%D9%81%D9%8A-%D9%85%D8%A8%D9%86%D9%89-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D8%AA%D9%88%D9%84",
       "category": "عراق",
       "published": "2026-10-01T05:28:35+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "سوريا: قتلى وجرحى في هجوم على حافلة في حمص، وانفجار خط غاز يعطّل ثلاث محطات لتوليد الكهرباء - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c69w4wrl4re8o",
+      "category": "عراق",
+      "published": "2026-10-01T07:12:30+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -32,6 +51,16 @@
       "url": "https://www.alsumaria.tv/news/politics/577600/%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%89-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9",
       "category": "عراق",
       "published": "2026-10-01T07:26:07+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "رئيس الوزراء البريطاني: \"مؤشرات قوية\" على ضلوع إيران في حادثة قاعدة \"فيرفورد\" الجوية - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c6grvr0xpdpeo",
+      "category": "عراق",
+      "published": "2026-10-01T07:45:28+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
@@ -68,14 +97,6 @@
       "url": "https://964media.com/721681/",
       "category": "عراق",
       "published": "2026-09-30T12:59:47+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الخارجية العراقية: انتهاء مهمة التحالف الدولي لا يعني انتهاء التعاون",
-      "url": "https://www.alsumaria.tv/news/politics/577589/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D9%85%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D8%A7-%D9%8A%D8%B9%D9%86%D9%8A-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86",
-      "category": "عراق",
-      "published": "2026-09-30T20:14:30+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -128,6 +149,14 @@
       "watch_topics": []
     },
     {
+      "title": "خرافة أم حقيقة: هل يساعد وضع البصل النيّئ أسفل القدمين في علاج نزلات البرد؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c8x2z26l3w1do",
+      "category": "عراق",
+      "published": "2026-10-01T06:10:31+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "رئيس الوزراء يحدد 30 حزيران 2027 مهلة نهائية لمعالجة السلاح خارج سيطرة الدولة",
       "url": "https://www.alsumaria.tv/news/politics/577597/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%AD%D8%AF%D8%AF-30-%D8%AD%D8%B2%D9%8A%D8%B1%D8%A7%D9%86-2027-%D9%85%D9%87%D9%84%D8%A9-%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9",
       "category": "عراق",
@@ -144,6 +173,22 @@
       "watch_topics": []
     },
     {
+      "title": "\"أمضيت طفولتي ضمن عائلة يطاردها مكتب التحقيقات الفيدرالي\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm4gkn14xde1o",
+      "category": "عراق",
+      "published": "2026-10-01T06:51:38+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "من خنافس ذهبية إلى اكتشافات داروين: متحف رقمي جديد يعرض ملايين القطع ويحدث \"نقلة هائلة\" في فهمنا للعالم - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c5pve9vzz1y3o",
+      "category": "عراق",
+      "published": "2026-10-01T07:28:33+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "خبر سار للمتقاعدين",
       "url": "https://www.alsumaria.tv/news/localnews/577601/%D8%AE%D8%A8%D8%B1-%D8%B3%D8%A7%D8%B1-%D9%84%D9%84%D9%85%D8%AA%D9%82%D8%A7%D8%B9%D8%AF%D9%8A%D9%86",
       "category": "عراق",
@@ -156,6 +201,14 @@
       "url": "https://www.alsumaria.tv/news/economy/577602/%D9%85%D8%A7%D8%B2%D8%A7%D9%84-%D9%85%D8%B1%D8%AA%D9%81%D8%B9%D8%A7-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%B3%D8%AC%D9%84-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6%D8%A7%D9%8B-%D8%B7%D9%81%D9%8A%D9%81%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
       "category": "عراق",
       "published": "2026-10-01T07:53:43+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "الدولار مستقر فوق الـ 157 ألفاً في بغداد والجنوب.. وأربيل تسجل أقل سعر شراء",
+      "url": "https://964media.com/721852/",
+      "category": "عراق",
+      "published": "2026-10-01T08:07:25+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -180,38 +233,6 @@
       "url": "https://www.alsumaria.tv/news/localnews/577605/%D8%AE%D8%B1%D9%88%D8%AC-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%81%D8%B1%D8%AD%D8%A9-%D8%B4%D8%B9%D8%A8%D9%8A%D8%A9-%D9%88%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%AB%D9%82%D9%8A%D9%84%D8%A9-%D8%B9%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AA%D8%A7%D9%84",
       "category": "عراق",
       "published": "2026-10-01T08:30:27+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "انخفاض أسعار الذهب العراقي والأجنبي في بغداد",
-      "url": "https://www.alsumaria.tv/news/economy/577606/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "category": "عراق",
-      "published": "2026-10-01T08:36:15+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الدفاع التركية تعلن تسليم قاعدة بعشيقة زليكان تدريجياً للحكومة العراقية",
-      "url": "https://www.alsumaria.tv/news/security/577607/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D8%B9%D8%B4%D9%8A%D9%82%D8%A9-%D8%B2%D9%84%D9%8A%D9%83%D8%A7%D9%86-%D8%AA%D8%AF%D8%B1%D9%8A%D8%AC%D9%8A%D8%A7%D9%8B-%D9%84%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A",
-      "category": "عراق",
-      "published": "2026-10-01T08:39:36+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "أنقرة تقرر تسليم قاعدة “بعشيقة زليكان” للحكومة العراقية",
-      "url": "https://964media.com/721863/",
-      "category": "عراق",
-      "published": "2026-10-01T08:40:16+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "رئيس البرلمان: العراق لن يكون ساحة لتصفية الصراعات أو ممراً للاعتداء على الآخرين",
-      "url": "https://964media.com/721602/",
-      "category": "عراق",
-      "published": "2026-09-30T09:24:28+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -607,22 +628,6 @@
       "published": "Wed, 30 Sep 2026 15:32:43 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "نحو 50 من المحاربين بأوكرانيا يدخلون «الدوما» الروسي",
-      "url": "https://aawsat.com/node/5324371",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 15:31:25 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "«واحد يدخل وآخر يخرج»... محادثات فرنسية - بريطانية لإنهاء اتفاق بشأن الهجرة",
-      "url": "https://aawsat.com/node/5324368",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 15:23:50 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -639,6 +644,14 @@
       "url": "https://www.alsumaria.tv/news/localnews/577595/%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%B1%D8%AC%D9%84-%D9%81%D9%8A-%D8%AA%D9%83%D8%B3%D8%A7%D8%B3-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D8%AC%D9%85%D8%A7%D8%B9%D9%8A-%D9%81%D9%8A-%D9%85%D8%A8%D9%86%D9%89-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D8%AA%D9%88%D9%84",
       "category": "عراق",
       "published": "2026-10-01T05:28:35+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "سوريا: قتلى وجرحى في هجوم على حافلة في حمص، وانفجار خط غاز يعطّل ثلاث محطات لتوليد الكهرباء - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c69w4wrl4re8o",
+      "category": "عراق",
+      "published": "2026-10-01T07:12:30+00:00",
       "breaking": true,
       "watch_topics": []
     },
