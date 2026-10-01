@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T20:50:40.616916+00:00",
+  "updated_at": "2026-10-01T21:00:57.981294+00:00",
   "items": [
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
@@ -32,6 +32,22 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8d14d06dc129.html"
+    },
+    {
+      "title": "ابنة السياب: لا تحجزوا أبي في التاريخ فهو حي داخل القصائد",
+      "url": "https://964media.com/722014/",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-10-01T20:41:54+00:00",
+      "image": "./assets/news/b0398f8d6bf3b0517716a4d1.jpg",
+      "original_image": "./assets/news/b0398f8d6bf3b0517716a4d1.jpg",
+      "source_url": "https://964media.com/722014/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/12328b6c93e0.html"
     },
     {
       "title": "غارات تستهدف صنعاء وثلاث محافظات",
@@ -71,8 +87,8 @@
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-10-01T20:05:00+00:00",
-      "image": "./assets/news/5d89c9fae3ba50638cb0e985.jpg",
-      "original_image": "./assets/news/5d89c9fae3ba50638cb0e985.jpg",
+      "image": "./assets/news/ae7458c84eea47f6c2e3bf15.jpg",
+      "original_image": "./assets/news/ae7458c84eea47f6c2e3bf15.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577656/%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%B9%D9%88%D8%AF%D8%A9-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D9%8A%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -103,8 +119,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-10-01T20:00:00+00:00",
-      "image": "./assets/news/934631569179d5e24a3eb753.jpg",
-      "original_image": "./assets/news/934631569179d5e24a3eb753.jpg",
+      "image": "./assets/news/00d7deb9b29a4b989dea01fb.jpg",
+      "original_image": "./assets/news/00d7deb9b29a4b989dea01fb.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/577655/%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%A8%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D8%B9%D9%86-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D8%AE%D8%B5-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "source_name": "السومرية نيوز",
       "breaking": false,

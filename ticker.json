@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T20:50:44.808036+00:00",
+  "updated_at": "2026-10-01T21:01:02.314620+00:00",
   "latest": [
     {
       "title": "السعودية تتهم جماعة أنصار الله باستهداف محطة لتوزيع الكهرباء في المدينة المنورة، والجماعة تنفي - شفق نيوز..",
@@ -105,6 +105,16 @@
       "url": "https://www.alsumaria.tv/news/international/577656/%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%B9%D9%88%D8%AF%D8%A9-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D9%8A%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "category": "عراق",
       "published": "2026-10-01T20:05:00+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "إيران تطالب بعودة حركة الطيران مع العراق",
+      "url": "https://www.alsumaria.tv/news/international/577656/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%b9%d9%88%d8%af%d8%a9-%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d9%85%d8%b9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Thu, 01 Oct 2026 20:05:00 GMT",
       "breaking": false,
       "watch_topics": [
         "إيران"
@@ -235,14 +245,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
       "category": "عراق",
       "published": "2026-10-01T17:55:01+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "أزمة الوقود.. نائب يكشف تفاصيل استجواب وزير النفط ويشخص مواطن الفشل",
-      "url": "https://www.alsumaria.tv/news/alsumariaspecial/577647/%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF-%D9%86%D8%A7%D8%A6%D8%A8-%D9%8A%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D8%B3%D8%AA%D8%AC%D9%88%D8%A7%D8%A8-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D9%8A%D8%B4%D8%AE%D8%B5-%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D8%A7%D9%84%D9%81%D8%B4%D9%84",
-      "category": "عراق",
-      "published": "2026-10-01T18:30:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -521,6 +523,14 @@
       ]
     },
     {
+      "title": "تأييد المستشار الألماني ينخفض إلى مستوى غير مسبوق عند 10 %",
+      "url": "https://aawsat.com/node/5324958",
+      "category": "دولي",
+      "published": "Thu, 01 Oct 2026 21:51:08 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "فون دير لاين تواجه مظاهرات في كوسوفو رفضاً للحكم على رئيسها السابق",
       "url": "https://aawsat.com/node/5324955",
       "category": "دولي",
@@ -621,14 +631,6 @@
       "url": "https://aawsat.com/node/5324716",
       "category": "دولي",
       "published": "Thu, 01 Oct 2026 12:09:15 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "أوكرانيا: نحو مليون و535 ألف قتيل وجريح في صفوف الجيش الروسي منذ بدء الحرب",
-      "url": "https://aawsat.com/node/5324684",
-      "category": "دولي",
-      "published": "Thu, 01 Oct 2026 10:31:15 +0100",
       "breaking": false,
       "watch_topics": []
     }
