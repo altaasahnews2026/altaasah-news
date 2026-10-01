@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-10-01T00:57:47.879587+00:00",
+  "updated_at": "2026-10-01T01:10:47.784666+00:00",
   "latest": [
-    {
-      "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
-      "url": "https://aawsat.com/node/5322757",
-      "category": "مشرق أوسط",
-      "published": "Sat, 26 Sep 2026 09:10:07 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
     {
       "title": "إيران تتسلّم الرد الأمريكي على مقترحها لإنهاء الحرب، وترامب يقول: \"أمور ستتحقق قريباً في طهران\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cq62jpvz5pg5o",
@@ -338,16 +328,6 @@
       "watch_topics": []
     },
     {
-      "title": "أسلحة حوثية - إيرانية تهدد الطيران المدني",
-      "url": "https://aawsat.com/node/5323096",
-      "category": "مشرق أوسط",
-      "published": "Sun, 27 Sep 2026 11:59:09 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "آل الشيخ: «الشورى» يستلهم الإنجاز والمبادرة من «رؤية السعودية 2030»",
       "url": "https://aawsat.com/node/5324488",
       "category": "مشرق أوسط",
@@ -475,6 +455,16 @@
       "breaking": false,
       "watch_topics": [
         "السعودية"
+      ]
+    },
+    {
+      "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
+      "url": "https://aawsat.com/node/5322757",
+      "category": "مشرق أوسط",
+      "published": "Sat, 26 Sep 2026 09:10:07 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
       ]
     },
     {
@@ -635,6 +625,14 @@
       "url": "https://aawsat.com/node/5324371",
       "category": "دولي",
       "published": "Wed, 30 Sep 2026 15:31:25 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "«واحد يدخل وآخر يخرج»... محادثات فرنسية - بريطانية لإنهاء اتفاق بشأن الهجرة",
+      "url": "https://aawsat.com/node/5324368",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 15:23:50 +0100",
       "breaking": false,
       "watch_topics": []
     }
