@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T10:27:33.597237+00:00",
+  "updated_at": "2026-10-01T10:42:06.564886+00:00",
   "items": [
     {
       "title": "رئيس البرلمان: العراق لن يكون ساحة لتصفية الصراعات أو ممراً للاعتداء على الآخرين",
@@ -16,6 +16,38 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
+    },
+    {
+      "title": "النزاهة تسترد من لبنان مدانة هاربة لاختلاسها قرابة 4 مليارات دينار من صحة واسط",
+      "url": "https://www.alsumaria.tv/news/localnews/577617/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%B3%D8%AA%D8%B1%D8%AF-%D9%85%D9%86-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%85%D8%AF%D8%A7%D9%86%D8%A9-%D9%87%D8%A7%D8%B1%D8%A8%D8%A9-%D9%84%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D8%B3%D9%87%D8%A7-%D9%82%D8%B1%D8%A7%D8%A8%D8%A9-4-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%85%D9%86",
+      "category": "عربي ودولي",
+      "region": "واسط",
+      "published": "2026-10-01T10:26:05+00:00",
+      "image": "./assets/news/42bd3dcb026e22ef3048c9ea.jpg",
+      "original_image": "./assets/news/42bd3dcb026e22ef3048c9ea.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577617/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%B3%D8%AA%D8%B1%D8%AF-%D9%85%D9%86-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%85%D8%AF%D8%A7%D9%86%D8%A9-%D9%87%D8%A7%D8%B1%D8%A8%D8%A9-%D9%84%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D8%B3%D9%87%D8%A7-%D9%82%D8%B1%D8%A7%D8%A8%D8%A9-4-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%85%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "واسط",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/755f8458d1db.html"
+    },
+    {
+      "title": "العدل تعلن إطلاق سراح 601 نزيلاً خلال أيلول",
+      "url": "https://www.alsumaria.tv/news/localnews/577616/%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%B3%D8%B1%D8%A7%D8%AD-601-%D9%86%D8%B2%D9%8A%D9%84%D8%A7%D9%8B-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D9%8A%D9%84%D9%88%D9%84",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-10-01T10:21:00+00:00",
+      "image": "./assets/news/95aa6161612753afff46c2af.jpg",
+      "original_image": "./assets/news/95aa6161612753afff46c2af.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577616/%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%B3%D8%B1%D8%A7%D8%AD-601-%D9%86%D8%B2%D9%8A%D9%84%D8%A7%D9%8B-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D9%8A%D9%84%D9%88%D9%84",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ab8218f3de4e.html"
     },
     {
       "title": "خرافة أم حقيقة: هل يساعد وضع البصل النيء أسفل القدمين في علاج نزلات البرد؟ - شفق نيوز..",
@@ -231,8 +263,8 @@
       "category": "اقتصاد",
       "region": "بغداد",
       "published": "2026-10-01T08:36:15+00:00",
-      "image": "./assets/news/cda12f9235f554962449f8ae.jpg",
-      "original_image": "./assets/news/cda12f9235f554962449f8ae.jpg",
+      "image": "./assets/news/9f162820a107e9113c6f3bcd.jpg",
+      "original_image": "./assets/news/9f162820a107e9113c6f3bcd.jpg",
       "source_url": "https://www.alsumaria.tv/news/economy/577606/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -432,22 +464,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/91d1dd40639e.html"
-    },
-    {
-      "title": "رئيس الوزراء يحدد 30 حزيران 2027 مهلة نهائية لمعالجة السلاح خارج سيطرة الدولة",
-      "url": "https://www.alsumaria.tv/news/politics/577597/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%AD%D8%AF%D8%AF-30-%D8%AD%D8%B2%D9%8A%D8%B1%D8%A7%D9%86-2027-%D9%85%D9%87%D9%84%D8%A9-%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-10-01T06:13:17+00:00",
-      "image": "./assets/news/db89bae5bdba42a92cf2df96.jpg",
-      "original_image": "./assets/news/db89bae5bdba42a92cf2df96.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/577597/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%AD%D8%AF%D8%AF-30-%D8%AD%D8%B2%D9%8A%D8%B1%D8%A7%D9%86-2027-%D9%85%D9%87%D9%84%D8%A9-%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6232793ccb78.html"
     },
     {
       "title": "الزيدي يتحرك لنزع سلاح المجاميع غير العراقية ومهلة للفصائل.. والدولة صاحبة القرار",
