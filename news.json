@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T00:11:20.350324+00:00",
+  "updated_at": "2026-10-01T00:36:47.612295+00:00",
   "items": [
     {
       "title": "قتلى وجرحى إثر استهداف حافلة بريف حماة في سوريا",
@@ -48,6 +48,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
+    },
+    {
+      "title": "نتنياهو يتهم مساعد طيار بمحاولة إسقاط رحلة \"فلاي دبي\"، وترامب يقول إنه \"إرهابي أو مختل\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-10-01T00:07:47+00:00",
+      "image": "./assets/news/1fdeaa6e42f2c445a3d89444.jpg",
+      "original_image": "./assets/news/1fdeaa6e42f2c445a3d89444.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4f53b079ecab.html"
     },
     {
       "title": "سوريا: قتلى وجرحى في هجوم على حافلة في حمص، وانفجار خط غاز يعطّل ثلاث محطات لتوليد الكهرباء - شفق نيوز..",
@@ -224,22 +240,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ca3fbb1163fe.html"
-    },
-    {
-      "title": "ركاب رحلة \"فلاي دبي\" يصلون تل أبيب ونتنياهو يلتقيهم في المطار، وإسرائيل تعتزم تشديد فحص الطيارين الدوليين - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-09-30T19:39:08+00:00",
-      "image": "./assets/news/1fdeaa6e42f2c445a3d89444.jpg",
-      "original_image": "./assets/news/1fdeaa6e42f2c445a3d89444.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/dcfbbc47b6c0.html"
     },
     {
       "title": "خليجي 27.. اليمن تهزم البحرين بخماسية وتعادل قطر والإمارات",
