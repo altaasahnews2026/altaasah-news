@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T11:23:24.760732+00:00",
+  "updated_at": "2026-10-01T11:38:52.210166+00:00",
   "latest": [
     {
       "title": "الحرس الثوري الإيراني: طرد أميركا ثمرة صمود العراقيين",
@@ -38,6 +38,16 @@
       "breaking": false,
       "watch_topics": [
         "أمريكا"
+      ]
+    },
+    {
+      "title": "هل طُرد عراقجي والوفد الإيراني من نيويورك؟ طهران توضح",
+      "url": "https://www.alsumaria.tv/news/international/577621/%D9%87%D9%84-%D8%B7%D9%8F%D8%B1%D8%AF-%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D9%88%D8%A7%D9%84%D9%88%D9%81%D8%AF-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83%D8%9F-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D9%88%D8%B6%D8%AD",
+      "category": "عراق",
+      "published": "2026-10-01T11:23:07+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
       ]
     },
     {
@@ -221,14 +231,6 @@
       "url": "https://www.alsumaria.tv/news/localnews/577617/%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D9%87%D8%A9-%D8%AA%D8%B3%D8%AA%D8%B1%D8%AF-%D9%85%D9%86-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%85%D8%AF%D8%A7%D9%86%D8%A9-%D9%87%D8%A7%D8%B1%D8%A8%D8%A9-%D9%84%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D8%B3%D9%87%D8%A7-%D9%82%D8%B1%D8%A7%D8%A8%D8%A9-4-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%85%D9%86",
       "category": "عراق",
       "published": "2026-10-01T10:26:05+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "العراق يسترد “علياء حسوني” من لبنان لاختلاسها نحو 4 مليارات من صحة واسط",
-      "url": "https://964media.com/721880/",
-      "category": "عراق",
-      "published": "2026-10-01T10:33:07+00:00",
       "breaking": false,
       "watch_topics": []
     },
