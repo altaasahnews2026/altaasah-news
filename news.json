@@ -1,13 +1,45 @@
 {
-  "updated_at": "2026-10-01T16:50:22.940227+00:00",
+  "updated_at": "2026-10-01T17:02:09.086094+00:00",
   "items": [
+    {
+      "title": "سقوط طفل داخل بئر في نينوى.. والدفاع المدني يواصل عمليات الإنقاذ",
+      "url": "https://www.alsumaria.tv/news/localnews/577643/%D8%B3%D9%82%D9%88%D8%B7-%D8%B7%D9%81%D9%84-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A8%D8%A6%D8%B1-%D9%81%D9%8A-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%86%D9%82%D8%A7%D8%B0",
+      "category": "محليات",
+      "region": "نينوى",
+      "published": "2026-10-01T16:50:39+00:00",
+      "image": "./assets/news/f606f3fe52fe6a3167e3d924.jpg",
+      "original_image": "./assets/news/f606f3fe52fe6a3167e3d924.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577643/%D8%B3%D9%82%D9%88%D8%B7-%D8%B7%D9%81%D9%84-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A8%D8%A6%D8%B1-%D9%81%D9%8A-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%86%D9%82%D8%A7%D8%B0",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "نينوى",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/31d108f893aa.html"
+    },
+    {
+      "title": "ترامب يتحدث عن كميات النفط التي تمر عبر مضيق هرمز",
+      "url": "https://www.alsumaria.tv/news/international/577644/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D9%85%D8%B1-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-10-01T16:49:50+00:00",
+      "image": "./assets/news/b37bbefb49a0bf5c24987e46.jpg",
+      "original_image": "./assets/news/b37bbefb49a0bf5c24987e46.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577644/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D9%85%D8%B1-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fd0846898c9e.html"
+    },
     {
       "title": "المغرب: ما أهم التحديات التي تواجه المنصوري بعد تكليفها بتشكيل الحكومة؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cv62k2nw4kreo",
       "category": "سياسة",
       "region": "العراق",
       "governorate": "",
-      "published": "2026-10-01T16:27:30+00:00",
+      "published": "2026-10-01T16:44:15+00:00",
       "image": "./assets/news/5c3c221c4b213627a8015be4.jpg",
       "original_image": "./assets/news/5c3c221c4b213627a8015be4.jpg",
       "source_url": "https://shafaq.com/ar/bbc-arabic/cv62k2nw4kreo",
@@ -15,7 +47,7 @@
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0e3633aff972.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1d225cc71014.html"
     },
     {
       "title": "النجف تحدد تسعيرة المولدات للخطين العادي والذهبي",
@@ -448,38 +480,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/acbf159282fe.html"
-    },
-    {
-      "title": "ميسي يحصد أعلى تكريم أكاديمي من جامعة بوينس آيرس",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577624/sports/%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D8%AD%D8%B5%D8%AF-%D8%A3%D8%B9%D9%84%D9%89-%D8%AA%D9%83%D8%B1%D9%8A%D9%85-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A-%D9%85%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A8%D9%88%D9%8A%D9%86%D8%B3-%D8%A2%D9%8A%D8%B1%D8%B3",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-10-01T12:09:00+00:00",
-      "image": "./assets/news/185c9af3f66d9cbb8f34f26a.jpg",
-      "original_image": "./assets/news/185c9af3f66d9cbb8f34f26a.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/577624/sports/%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D8%AD%D8%B5%D8%AF-%D8%A3%D8%B9%D9%84%D9%89-%D8%AA%D9%83%D8%B1%D9%8A%D9%85-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A-%D9%85%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A8%D9%88%D9%8A%D9%86%D8%B3-%D8%A2%D9%8A%D8%B1%D8%B3",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/710a3d9062b9.html"
-    },
-    {
-      "title": "9 محافظات على طريق الضمان الصحي.. والصحة تحدد مراحل الشمول",
-      "url": "https://www.alsumaria.tv/news/localnews/577623/9-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%B6%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A-%D9%88%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%AA%D8%AD%D8%AF%D8%AF-%D9%85%D8%B1%D8%A7%D8%AD%D9%84-%D8%A7%D9%84%D8%B4%D9%85%D9%88%D9%84",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-10-01T12:00:46+00:00",
-      "image": "./assets/news/8e046998c1436b924c754816.png",
-      "original_image": "./assets/news/8e046998c1436b924c754816.png",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577623/9-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%B6%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A-%D9%88%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%AA%D8%AD%D8%AF%D8%AF-%D9%85%D8%B1%D8%A7%D8%AD%D9%84-%D8%A7%D9%84%D8%B4%D9%85%D9%88%D9%84",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/80f182b3ee20.html"
     },
     {
       "title": "العراق يسترد “علياء حسوني” من لبنان لاختلاسها نحو 4 مليارات من صحة واسط",
