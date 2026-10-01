@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T22:37:02.904102+00:00",
+  "updated_at": "2026-10-01T22:49:53.505649+00:00",
   "items": [
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
@@ -34,6 +34,38 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8d14d06dc129.html"
     },
     {
+      "title": "القوات الحكومية اليمنية تعلن استهداف مواقع \"ذات قيمة عالية\" في صنعاء، والتحالف يعترض مسيرات وصواريخ حوثية باتجاه جنوب السعودية - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
+      "category": "سياسة",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-10-01T22:39:57+00:00",
+      "image": "./assets/news/64016034c628efe4dbc137c9.jpg",
+      "original_image": "./assets/news/64016034c628efe4dbc137c9.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d3aeb2b5cfac.html"
+    },
+    {
+      "title": "وفاة باكستاني بظروف غامضة في النجف",
+      "url": "https://www.alsumaria.tv/news/localnews/577663/%D9%88%D9%81%D8%A7%D8%A9-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86%D9%8A-%D8%A8%D8%B8%D8%B1%D9%88%D9%81-%D8%BA%D8%A7%D9%85%D8%B6%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81",
+      "category": "محليات",
+      "region": "النجف",
+      "published": "2026-10-01T22:38:20+00:00",
+      "image": "./assets/news/b30fa60ec107cbd146bc0b5a.jpg",
+      "original_image": "./assets/news/b30fa60ec107cbd146bc0b5a.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577663/%D9%88%D9%81%D8%A7%D8%A9-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86%D9%8A-%D8%A8%D8%B8%D8%B1%D9%88%D9%81-%D8%BA%D8%A7%D9%85%D8%B6%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "النجف",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bcdb49ef5095.html"
+    },
+    {
       "title": "مقذوف مجهول يستهدف ناقلة في مضيق هرمز",
       "url": "https://www.alsumaria.tv/news/international/577660/%D9%85%D9%82%D8%B0%D9%88%D9%81-%D9%85%D8%AC%D9%87%D9%88%D9%84-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%81%D9%8A-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
       "category": "رياضة",
@@ -64,22 +96,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/810c2335e8e7.html"
-    },
-    {
-      "title": "سماع دوي انفجارات في صنعاء، والتحالف يعترض مسيرات وصواريخ حوثية باتجاه جنوب السعودية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-01T21:52:52+00:00",
-      "image": "./assets/news/2c8e20f023a7d14ac16b1138.jpg",
-      "original_image": "./assets/news/2c8e20f023a7d14ac16b1138.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e8a7ec132731.html"
     },
     {
       "title": "طهران تكشف حقيقة طرح مقترح نووي مقابل تخفيف العقوبات",
@@ -192,6 +208,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/11a3c89a8548.html"
+    },
+    {
+      "title": "في القاهرة.. السفارة العراقية تقيم احتفالية كبرى بمناسبة يوم السيادة",
+      "url": "https://www.alsumaria.tv/news/international/577661/%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D9%82%D9%8A%D9%85-%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84%D9%8A%D8%A9-%D9%83%D8%A8%D8%B1%D9%89-%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-10-01T19:40:00+00:00",
+      "image": "./assets/news/26e5cd9ff6e03a15c3a55431.jpg",
+      "original_image": "./assets/news/26e5cd9ff6e03a15c3a55431.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577661/%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D9%82%D9%8A%D9%85-%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84%D9%8A%D8%A9-%D9%83%D8%A8%D8%B1%D9%89-%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3097187ac270.html"
     },
     {
       "title": "الزيدي والحلبوسي يبحثان ملف استكمال السيادة الوطنية",
@@ -466,22 +498,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/31d108f893aa.html"
     },
     {
-      "title": "ترامب يتحدث عن كميات النفط التي تمر عبر مضيق هرمز",
-      "url": "https://www.alsumaria.tv/news/international/577644/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D9%85%D8%B1-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-10-01T16:49:50+00:00",
-      "image": "./assets/news/b37bbefb49a0bf5c24987e46.jpg",
-      "original_image": "./assets/news/b37bbefb49a0bf5c24987e46.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/577644/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D9%85%D8%B1-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fd0846898c9e.html"
-    },
-    {
       "title": "المغرب: ما أهم التحديات التي تواجه المنصوري بعد تكليفها بتشكيل الحكومة؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cv62k2nw4kreo",
       "category": "سياسة",
@@ -496,38 +512,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1d225cc71014.html"
-    },
-    {
-      "title": "النجف تحدد تسعيرة المولدات للخطين العادي والذهبي",
-      "url": "https://www.alsumaria.tv/news/localnews/577642/%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%AA%D8%AD%D8%AF%D8%AF-%D8%AA%D8%B3%D8%B9%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D9%84%D8%AF%D8%A7%D8%AA-%D9%84%D9%84%D8%AE%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%8A-%D9%88%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A",
-      "category": "اقتصاد",
-      "region": "النجف",
-      "published": "2026-10-01T16:20:11+00:00",
-      "image": "./assets/news/bc3ce16d577264488b9f44cf.jpg",
-      "original_image": "./assets/news/bc3ce16d577264488b9f44cf.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577642/%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%AA%D8%AD%D8%AF%D8%AF-%D8%AA%D8%B3%D8%B9%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D9%84%D8%AF%D8%A7%D8%AA-%D9%84%D9%84%D8%AE%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%8A-%D9%88%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "النجف",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d7d244f6ce04.html"
-    },
-    {
-      "title": "كتائب سيد الشهداء: سيادة العراق واستقلاله غاية أساسية وهذا ما تتطلبه المرحلة المقبلة",
-      "url": "https://www.alsumaria.tv/news/localnews/577641/%D9%83%D8%AA%D8%A7%D8%A6%D8%A8-%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%87-%D8%BA%D8%A7%D9%8A%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9-%D9%88%D9%87%D8%B0%D8%A7-%D9%85%D8%A7-%D8%AA%D8%AA%D8%B7%D9%84%D8%A8%D9%87-%D8%A7%D9%84",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-10-01T16:13:35+00:00",
-      "image": "./assets/news/4a5a737492cc751e0be7684a.jpg",
-      "original_image": "./assets/news/4a5a737492cc751e0be7684a.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577641/%D9%83%D8%AA%D8%A7%D8%A6%D8%A8-%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%87-%D8%BA%D8%A7%D9%8A%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9-%D9%88%D9%87%D8%B0%D8%A7-%D9%85%D8%A7-%D8%AA%D8%AA%D8%B7%D9%84%D8%A8%D9%87-%D8%A7%D9%84",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3d68405110da.html"
     },
     {
       "title": "العراق يسترد “علياء حسوني” من لبنان لاختلاسها نحو 4 مليارات من صحة واسط",
