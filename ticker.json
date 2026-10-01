@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T17:02:13.052353+00:00",
+  "updated_at": "2026-10-01T17:18:09.367402+00:00",
   "latest": [
     {
       "title": "ترامب يحشد 3 حاملات طائرات حول إيران وطهران تستعد للرد من بغداد حتى بيروت",
@@ -112,22 +112,6 @@
       "watch_topics": []
     },
     {
-      "title": "فوكس نيوز تنشر صورة لانسحاب آخر جندي وطائرة أميركية من العراق",
-      "url": "https://www.alsumaria.tv/news/security/577625/%D9%81%D9%88%D9%83%D8%B3-%D9%86%D9%8A%D9%88%D8%B2-%D8%AA%D9%86%D8%B4%D8%B1-%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%A2%D8%AE%D8%B1-%D8%AC%D9%86%D8%AF%D9%8A-%D9%88%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
-      "category": "عراق",
-      "published": "2026-10-01T12:20:00+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "المعروف بغير مكانه.. شاب يسرق طبيبا أعاد له بصره",
-      "url": "https://www.alsumaria.tv/news/international/577626/%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D9%81-%D8%A8%D8%BA%D9%8A%D8%B1-%D9%85%D9%83%D8%A7%D9%86%D9%87-%D8%B4%D8%A7%D8%A8-%D9%8A%D8%B3%D8%B1%D9%82-%D8%B7%D8%A8%D9%8A%D8%A8%D8%A7-%D8%A3%D8%B9%D8%A7%D8%AF-%D9%84%D9%87-%D8%A8%D8%B5%D8%B1%D9%87",
-      "category": "عراق",
-      "published": "2026-10-01T12:32:32+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "اجراء يخص جميع العقود في مؤسسات الدولة",
       "url": "https://www.alsumaria.tv/news/localnews/577627/%D8%A7%D8%AC%D8%B1%D8%A7%D8%A1-%D9%8A%D8%AE%D8%B5-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D9%81%D9%8A-%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9",
       "category": "عراق",
@@ -236,6 +220,22 @@
       "url": "https://964media.com/721966/",
       "category": "عراق",
       "published": "2026-10-01T15:31:49+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "أنصار الله الأوفياء: ملتزمون باستكمال السيادة وإنهاء العمليات العسكرية داخل العراق وفق التوقيتات",
+      "url": "https://www.alsumaria.tv/news/localnews/577640/%D8%A3%D9%86%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%A3%D9%88%D9%81%D9%8A%D8%A7%D8%A1-%D9%85%D9%84%D8%AA%D8%B2%D9%85%D9%88%D9%86-%D8%A8%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D9%88%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9",
+      "category": "عراق",
+      "published": "2026-10-01T15:46:40+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "نتنياهو يقول إن مساعد طيار رحلة \"فلاي دبي\" خضع لتلقين \"أفكار إسلامية متطرفة\"، وشركات إسرائيلية تعتزم استئناف رحلاتها لدبي - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "category": "عراق",
+      "published": "2026-10-01T15:54:47+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -495,14 +495,6 @@
       "watch_topics": []
     },
     {
-      "title": "مقتل رجل في نيويورك دهساً بعدما علقت حقيبته بأبواب قطار أنفاق",
-      "url": "https://aawsat.com/node/5324067",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 20:47:25 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "الشرطة الإسبانية توقف قائداً لمجموعة قرصنة إلكترونية عمره 16 عاماً",
       "url": "https://aawsat.com/node/5324887",
       "category": "دولي",
@@ -619,6 +611,14 @@
       "url": "https://aawsat.com/node/5324441",
       "category": "دولي",
       "published": "Wed, 30 Sep 2026 18:10:15 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "روسيا: مصانع الأسلحة الأوروبية الداعمة لأوكرانيا أهداف عسكرية محتملة",
+      "url": "https://aawsat.com/node/5324440",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 18:09:14 +0100",
       "breaking": false,
       "watch_topics": []
     }
@@ -743,14 +743,6 @@
       "url": "https://aawsat.com/node/5324770",
       "category": "دولي",
       "published": "Thu, 01 Oct 2026 13:50:05 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "مقتل رجل في نيويورك دهساً بعدما علقت حقيبته بأبواب قطار أنفاق",
-      "url": "https://aawsat.com/node/5324067",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 20:47:25 +0100",
       "breaking": true,
       "watch_topics": []
     }
