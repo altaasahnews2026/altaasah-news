@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T16:37:02.023753+00:00",
+  "updated_at": "2026-10-01T16:50:28.374727+00:00",
   "latest": [
     {
       "title": "ترامب يحشد 3 حاملات طائرات حول إيران وطهران تستعد للرد من بغداد حتى بيروت",
@@ -502,14 +502,20 @@
       "watch_topics": []
     },
     {
-      "title": "لندن ترجّح دوراً إيرانياً في حادثة «فيرفورد»",
-      "url": "https://aawsat.com/node/5324426",
+      "title": "الشرطة الإسبانية توقف قائداً لمجموعة قرصنة إلكترونية عمره 16 عاماً",
+      "url": "https://aawsat.com/node/5324887",
       "category": "دولي",
-      "published": "Wed, 30 Sep 2026 17:38:55 +0100",
+      "published": "Thu, 01 Oct 2026 17:46:08 +0100",
       "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
+      "watch_topics": []
+    },
+    {
+      "title": "بوتين: يجب منع سيناريو استخدام أسلحة الدمار الشامل",
+      "url": "https://aawsat.com/node/5324883",
+      "category": "دولي",
+      "published": "Thu, 01 Oct 2026 17:41:13 +0100",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "موجة جديدة من العقوبات البريطانية ضد صندوق الحرب الروسي",
@@ -612,14 +618,6 @@
       "url": "https://aawsat.com/node/5324441",
       "category": "دولي",
       "published": "Wed, 30 Sep 2026 18:10:15 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "روسيا: مصانع الأسلحة الأوروبية الداعمة لأوكرانيا أهداف عسكرية محتملة",
-      "url": "https://aawsat.com/node/5324440",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 18:09:14 +0100",
       "breaking": false,
       "watch_topics": []
     }
