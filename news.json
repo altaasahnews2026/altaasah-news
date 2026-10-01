@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T08:42:41.087520+00:00",
+  "updated_at": "2026-10-01T08:55:46.519012+00:00",
   "items": [
     {
       "title": "رئيس البرلمان: العراق لن يكون ساحة لتصفية الصراعات أو ممراً للاعتداء على الآخرين",
@@ -18,13 +18,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
     },
     {
+      "title": "ماذا قال الحرس الثوري الإيراني عن خروج القوات الأميركية من العراق؟",
+      "url": "https://www.alsumaria.tv/news/international/577608/%D9%85%D8%A7%D8%B0%D8%A7-%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%B9%D9%86-%D8%AE%D8%B1%D9%88%D8%AC-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D8%9F",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-10-01T08:44:42+00:00",
+      "image": "./assets/news/5bfdf4f781188b794f39fe14.webp",
+      "original_image": "./assets/news/5bfdf4f781188b794f39fe14.webp",
+      "source_url": "https://www.alsumaria.tv/news/international/577608/%D9%85%D8%A7%D8%B0%D8%A7-%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%B9%D9%86-%D8%AE%D8%B1%D9%88%D8%AC-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D8%9F",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/246af42f20e0.html"
+    },
+    {
       "title": "انخفاض أسعار الذهب العراقي والأجنبي في بغداد",
       "url": "https://www.alsumaria.tv/news/economy/577606/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "category": "اقتصاد",
       "region": "بغداد",
       "published": "2026-10-01T08:36:15+00:00",
-      "image": "./assets/news/9f162820a107e9113c6f3bcd.jpg",
-      "original_image": "./assets/news/9f162820a107e9113c6f3bcd.jpg",
+      "image": "./assets/news/cda12f9235f554962449f8ae.jpg",
+      "original_image": "./assets/news/cda12f9235f554962449f8ae.jpg",
       "source_url": "https://www.alsumaria.tv/news/economy/577606/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -448,22 +464,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9e28554b516d.html"
-    },
-    {
-      "title": "الزيدي يعلن عهداً جديداً في العراق ويوجه رسالة لمن قاتل من أجل الوطن",
-      "url": "https://www.alsumaria.tv/news/politics/577586/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%87%D8%AF%D8%A7%D9%8B-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D9%8A%D9%88%D8%AC%D9%87-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D9%84%D9%85%D9%86-%D9%82%D8%A7%D8%AA%D9%84-%D9%85%D9%86-%D8%A3%D8%AC%D9%84-%D8%A7%D9%84%D9%88%D8%B7%D9%86",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-30T20:01:00+00:00",
-      "image": "./assets/news/f5e7755c3d4501056ff80994.jpg",
-      "original_image": "./assets/news/f5e7755c3d4501056ff80994.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/577586/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%87%D8%AF%D8%A7%D9%8B-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D9%8A%D9%88%D8%AC%D9%87-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D9%84%D9%85%D9%86-%D9%82%D8%A7%D8%AA%D9%84-%D9%85%D9%86-%D8%A3%D8%AC%D9%84-%D8%A7%D9%84%D9%88%D8%B7%D9%86",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ca3fbb1163fe.html"
     },
     {
       "title": "“الزيدي يتوعد المقصر مهما كانت رتبته”.. 72 ساعة لكشف ملابسات عملية آلتون كوبري",
