@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-01T20:16:20.271566+00:00",
+  "updated_at": "2026-10-01T20:34:06.948289+00:00",
   "latest": [
+    {
+      "title": "السعودية تتهم جماعة أنصار الله باستهداف محطة لتوزيع الكهرباء في المدينة المنورة، والجماعة تنفي - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
+      "category": "عراق",
+      "published": "2026-10-01T20:03:28+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
       "url": "https://www.alsumaria.tv/news/alsumariaspecial/577648/%D9%87%D9%84-%D9%84%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AF-%D8%A8%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%B5%D8%A7%D8%AF%D9%82%D9%88%D9%86-%D8%AA%D9%83%D8%B4%D9%81-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA",
@@ -112,14 +122,6 @@
       "url": "https://964media.com/721880/",
       "category": "عراق",
       "published": "2026-10-01T10:33:07+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "تدهور الحالة الصحية للرئيس السوداني المعزول عمر البشير ونقله إلى المستشفى - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqm2r2d5yex9o",
-      "category": "عراق",
-      "published": "2026-10-01T14:13:06+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -472,12 +474,48 @@
       ]
     },
     {
+      "title": "إصابة جسر رئيسي في كييف إثر استهدافه بمسيّرتين روسيتين",
+      "url": "https://aawsat.com/node/5324753",
+      "category": "دولي",
+      "published": "Thu, 01 Oct 2026 13:29:55 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "«عدوى الاحتجاج» تجتاح المدارس الفرنسية وتستنفر الأجهزة الأمنية",
+      "url": "https://aawsat.com/node/5324598",
+      "category": "دولي",
+      "published": "Thu, 01 Oct 2026 06:08:56 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "مقتل شخصين وفقدان ثالث بتحطم مروحية إجلاء طبي قبالة لوس أنجليس",
       "url": "https://aawsat.com/node/5324770",
       "category": "دولي",
       "published": "Thu, 01 Oct 2026 13:50:05 +0100",
       "breaking": true,
       "watch_topics": []
+    },
+    {
+      "title": "شرطة لندن تعتقل بريطانياً - إيرانياً في تحقيق بشأن قاعدة «فيرفورد» الجوية",
+      "url": "https://aawsat.com/node/5324908",
+      "category": "دولي",
+      "published": "Thu, 01 Oct 2026 18:54:28 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "توقيف بريطاني - إيراني بشبهة الإرهاب في قضية «فيرفورد»",
+      "url": "https://aawsat.com/node/5324906",
+      "category": "دولي",
+      "published": "Thu, 01 Oct 2026 18:51:55 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
     },
     {
       "title": "واشنطن تخشى سرقة الصين نماذج الذكاء الاصطناعي الأميركية",
@@ -490,143 +528,121 @@
       ]
     },
     {
-      "title": "الديمقراطيون يطرقون أبواب معاقل جمهورية قبل انتخابات نوفمبر",
-      "url": "https://aawsat.com/node/5324898",
+      "title": "روبيو يزور آيسلندا تعزيزاً للاندفاعة الدبلوماسية الأميركية في القطب الشمالي",
+      "url": "https://aawsat.com/node/5324934",
       "category": "دولي",
-      "published": "Thu, 01 Oct 2026 18:12:39 +0100",
+      "published": "Thu, 01 Oct 2026 20:38:04 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "ترمب أمام اختبار «الصوت اللاتيني» في انتخابات التجديد النصفي",
-      "url": "https://aawsat.com/node/5324868",
+      "title": "زيلينسكي: أوكرانيا أدخلت صاروخاً باليستياً تكتيكياً جديداً في عملياتها العسكرية",
+      "url": "https://aawsat.com/node/5324921",
       "category": "دولي",
-      "published": "Thu, 01 Oct 2026 16:52:03 +0100",
+      "published": "Thu, 01 Oct 2026 19:34:22 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "المحكمة العليا توافق على مراجعة سياسة ترمب بشأن الاحتجاز الإلزامي للمهاجرين",
-      "url": "https://aawsat.com/node/5324865",
+      "title": "ملك إسبانيا يزور سبتة ومليلية",
+      "url": "https://aawsat.com/node/5324915",
       "category": "دولي",
-      "published": "Thu, 01 Oct 2026 16:38:43 +0100",
+      "published": "Thu, 01 Oct 2026 19:09:47 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "نواب ديمقراطيون يدعون للتحقيق في إعلانات حكومية يظهر فيها ترمب",
-      "url": "https://aawsat.com/node/5324779",
+      "title": "الشرطة الإسبانية توقف قائداً لمجموعة قرصنة إلكترونية عمره 16 عاماً",
+      "url": "https://aawsat.com/node/5324887",
       "category": "دولي",
-      "published": "Thu, 01 Oct 2026 14:15:56 +0100",
+      "published": "Thu, 01 Oct 2026 17:46:08 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "بعد حقنتين سامتين... فشل إعدام أول امرأة في تينيسي منذ 200 عام",
-      "url": "https://aawsat.com/node/5324748",
+      "title": "بوتين يرفض وقفا متبادلا للضربات بعيدة المدى مع أوكرانيا",
+      "url": "https://aawsat.com/node/5324883",
       "category": "دولي",
-      "published": "Thu, 01 Oct 2026 13:22:31 +0100",
+      "published": "Thu, 01 Oct 2026 17:41:13 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "خبراء: ترمب لن يفوز بجائزة نوبل هذا العام لكنه قد يؤثر على الاختيار",
-      "url": "https://aawsat.com/node/5324720",
+      "title": "موجة جديدة من العقوبات البريطانية ضد صندوق الحرب الروسي",
+      "url": "https://aawsat.com/node/5324875",
       "category": "دولي",
-      "published": "Thu, 01 Oct 2026 12:13:08 +0100",
+      "published": "Thu, 01 Oct 2026 17:17:18 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "ماسك يعود إلى دائرة ترمب لرسم ملامح حروب المستقبل",
-      "url": "https://aawsat.com/node/5324674",
+      "title": "خلاف أوروبي - أطلسي حول الرد على «الحرب الهجينة» الروسية",
+      "url": "https://aawsat.com/node/5324847",
       "category": "دولي",
-      "published": "Thu, 01 Oct 2026 10:08:16 +0100",
+      "published": "Thu, 01 Oct 2026 16:01:51 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "قاضٍ أميركي يحكم بترحيل رئيس مسجد ميلووكي الفلسطيني",
-      "url": "https://aawsat.com/node/5324618",
+      "title": "دول أوروبية تسعى لإقامة مراكز إيواء مهاجرين في رواندا",
+      "url": "https://aawsat.com/node/5324844",
       "category": "دولي",
-      "published": "Thu, 01 Oct 2026 07:29:20 +0100",
+      "published": "Thu, 01 Oct 2026 15:57:26 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "وزير الدفاع الأميركي يعلن تقليص عدد الجنرالات في الجيش بنسبة 20 %",
-      "url": "https://aawsat.com/node/5324513",
+      "title": "هولندا تعلن 4 وفيات جديدة بسبب فيروس غرب النيل",
+      "url": "https://aawsat.com/node/5324786",
       "category": "دولي",
-      "published": "Wed, 30 Sep 2026 21:33:01 +0100",
+      "published": "Thu, 01 Oct 2026 14:26:43 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "ترمب يعلن مغادرة آخر القوات الأميركية العراق وانتهاء مهمة «التحالف الدولي»",
-      "url": "https://aawsat.com/node/5324463",
+      "title": "روسيا تطرد دبلوماسيين مجريين رداً على خطوة مماثلة من بودابست",
+      "url": "https://aawsat.com/node/5324775",
       "category": "دولي",
-      "published": "Wed, 30 Sep 2026 18:58:08 +0100",
+      "published": "Thu, 01 Oct 2026 14:01:39 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "غرينسبان تتقدم خطوة لخلافة غوتيريش… وأنباء عن مرشح جديد",
-      "url": "https://aawsat.com/node/5324436",
+      "title": "فرنسا تعترف بـ«مداهمات الميناء القديم» في مرسيليا جريمة ضد الإنسانية",
+      "url": "https://aawsat.com/node/5324731",
       "category": "دولي",
-      "published": "Wed, 30 Sep 2026 17:59:26 +0100",
+      "published": "Thu, 01 Oct 2026 12:43:29 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "المحكمة العليا الأميركية تلغي قيوداً على ترحيل المهاجرين إلى دول ثالثة",
-      "url": "https://aawsat.com/node/5324272",
+      "title": "بعد حادث «فلاي دبي»... بريطانيا تدرس كيفية تأمين مواطنيها في الرحلات الجوية",
+      "url": "https://aawsat.com/node/5324716",
       "category": "دولي",
-      "published": "Wed, 30 Sep 2026 11:55:46 +0100",
+      "published": "Thu, 01 Oct 2026 12:09:15 +0100",
       "breaking": false,
       "watch_topics": []
     },
     {
-      "title": "إدارة ترمب تنسحب من هيئة أوروبية لمكافحة الفساد",
-      "url": "https://aawsat.com/node/5324153",
+      "title": "أوكرانيا: نحو مليون و535 ألف قتيل وجريح في صفوف الجيش الروسي منذ بدء الحرب",
+      "url": "https://aawsat.com/node/5324684",
       "category": "دولي",
-      "published": "Wed, 30 Sep 2026 03:53:19 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الولايات المتحدة تشدّد عقوباتها على كوبا",
-      "url": "https://aawsat.com/node/5324149",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 02:34:59 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "«الشيوخ الأميركي» يرفض قراراً يطلب تقريراً عن انتهاكات الضفة الغربية",
-      "url": "https://aawsat.com/node/5324148",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 02:25:39 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ترمب يُروّج للذكاء الاصطناعي",
-      "url": "https://aawsat.com/node/5324135",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 00:29:27 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "هيغسيث لخفض إضافي في أعداد الجنرالات والأدميرالات بالجيش الأميركي",
-      "url": "https://aawsat.com/node/5324107",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 23:26:04 +0100",
+      "published": "Thu, 01 Oct 2026 10:31:15 +0100",
       "breaking": false,
       "watch_topics": []
     }
   ],
   "breaking": [
+    {
+      "title": "السعودية تتهم جماعة أنصار الله باستهداف محطة لتوزيع الكهرباء في المدينة المنورة، والجماعة تنفي - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
+      "category": "عراق",
+      "published": "2026-10-01T20:03:28+00:00",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
       "url": "https://www.alsumaria.tv/news/alsumariaspecial/577648/%D9%87%D9%84-%D9%84%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AF-%D8%A8%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%B5%D8%A7%D8%AF%D9%82%D9%88%D9%86-%D8%AA%D9%83%D8%B4%D9%81-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA",
@@ -734,6 +750,22 @@
       "watch_topics": [
         "أمريكا"
       ]
+    },
+    {
+      "title": "إصابة جسر رئيسي في كييف إثر استهدافه بمسيّرتين روسيتين",
+      "url": "https://aawsat.com/node/5324753",
+      "category": "دولي",
+      "published": "Thu, 01 Oct 2026 13:29:55 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "«عدوى الاحتجاج» تجتاح المدارس الفرنسية وتستنفر الأجهزة الأمنية",
+      "url": "https://aawsat.com/node/5324598",
+      "category": "دولي",
+      "published": "Thu, 01 Oct 2026 06:08:56 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "مقتل شخصين وفقدان ثالث بتحطم مروحية إجلاء طبي قبالة لوس أنجليس",
