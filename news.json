@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T08:55:46.519012+00:00",
+  "updated_at": "2026-10-01T09:07:04.876005+00:00",
   "items": [
     {
       "title": "رئيس البرلمان: العراق لن يكون ساحة لتصفية الصراعات أو ممراً للاعتداء على الآخرين",
@@ -32,6 +32,38 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/246af42f20e0.html"
+    },
+    {
+      "title": "أنقرة تقرر تسليم قاعدة “بعشيقة زليكان” للحكومة العراقية",
+      "url": "https://964media.com/721863/",
+      "category": "سياسة",
+      "region": "نينوى",
+      "published": "2026-10-01T08:40:16+00:00",
+      "image": "./assets/news/081381e881faad8628614630.webp",
+      "original_image": "./assets/news/081381e881faad8628614630.webp",
+      "source_url": "https://964media.com/721863/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "نينوى",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d296d7d0af5a.html"
+    },
+    {
+      "title": "الدفاع التركية تعلن تسليم قاعدة بعشيقة زليكان تدريجياً للحكومة العراقية",
+      "url": "https://www.alsumaria.tv/news/security/577607/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D8%B9%D8%B4%D9%8A%D9%82%D8%A9-%D8%B2%D9%84%D9%8A%D9%83%D8%A7%D9%86-%D8%AA%D8%AF%D8%B1%D9%8A%D8%AC%D9%8A%D8%A7%D9%8B-%D9%84%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A",
+      "category": "سياسة",
+      "region": "نينوى",
+      "published": "2026-10-01T08:39:36+00:00",
+      "image": "./assets/news/b45d292a72a98b80b1d039a0.jpg",
+      "original_image": "./assets/news/b45d292a72a98b80b1d039a0.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/577607/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D8%B9%D8%B4%D9%8A%D9%82%D8%A9-%D8%B2%D9%84%D9%8A%D9%83%D8%A7%D9%86-%D8%AA%D8%AF%D8%B1%D9%8A%D8%AC%D9%8A%D8%A7%D9%8B-%D9%84%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "نينوى",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6cea5de797e2.html"
     },
     {
       "title": "انخفاض أسعار الذهب العراقي والأجنبي في بغداد",
@@ -98,22 +130,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7044c452214d.html"
     },
     {
-      "title": "الدولار مستقر فوق الـ 157 ألفاً في بغداد والجنوب.. وأربيل تسجل أقل سعر شراء",
-      "url": "https://964media.com/721852/",
-      "category": "اقتصاد",
-      "region": "بغداد",
-      "published": "2026-10-01T08:07:25+00:00",
-      "image": "./assets/news/613730578e34529a90b8a3d9.jpg",
-      "original_image": "./assets/news/613730578e34529a90b8a3d9.jpg",
-      "source_url": "https://964media.com/721852/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d859679f57b8.html"
-    },
-    {
       "title": "مازال مرتفعا.. الدولار يسجل انخفاضاً طفيفاً في السوق العراقية",
       "url": "https://www.alsumaria.tv/news/economy/577602/%D9%85%D8%A7%D8%B2%D8%A7%D9%84-%D9%85%D8%B1%D8%AA%D9%81%D8%B9%D8%A7-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%B3%D8%AC%D9%84-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6%D8%A7%D9%8B-%D8%B7%D9%81%D9%8A%D9%81%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
       "category": "رياضة",
@@ -146,54 +162,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f4beba4436db.html"
     },
     {
-      "title": "رئيس الوزراء البريطاني: \"مؤشرات قوية\" على ضلوع إيران في حادثة قاعدة \"فيرفورد\" الجوية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c6grvr0xpdpeo",
-      "category": "سياسة",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-01T07:45:28+00:00",
-      "image": "./assets/news/e6d84e49cb3496fbc1a9cd51.jpg",
-      "original_image": "./assets/news/e6d84e49cb3496fbc1a9cd51.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c6grvr0xpdpeo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5304c0cede86.html"
-    },
-    {
-      "title": "\"فلاي دبي\" تعلّق الرحلات الجوية من وإلى إسرائيل، والقضاء الإماراتي يباشر التحقيق بالحادثة - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-10-01T07:45:09+00:00",
-      "image": "./assets/news/99c21f13d6d88c4dcc1d8d34.jpg",
-      "original_image": "./assets/news/99c21f13d6d88c4dcc1d8d34.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9c9c6c750057.html"
-    },
-    {
-      "title": "من خنافس ذهبية إلى اكتشافات داروين: متحف رقمي جديد يعرض ملايين القطع ويحدث \"نقلة هائلة\" في فهمنا للعالم - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c5pve9vzz1y3o",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-01T07:28:33+00:00",
-      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c5pve9vzz1y3o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7ef9ff282189.html"
-    },
-    {
       "title": "طهران تدعو بغداد الى حماية العلاقات من العقوبات الاميركية",
       "url": "https://www.alsumaria.tv/news/politics/577600/%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%89-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9",
       "category": "سياسة",
@@ -210,22 +178,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8e745edaad0d.html"
     },
     {
-      "title": "سوريا: قتلى وجرحى في هجوم على حافلة في حمص، وانفجار خط غاز يعطّل ثلاث محطات لتوليد الكهرباء - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c69w4wrl4re8o",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-01T07:12:30+00:00",
-      "image": "./assets/news/719822ad9b921852f7bca7bc.jpg",
-      "original_image": "./assets/news/719822ad9b921852f7bca7bc.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c69w4wrl4re8o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4f09e135aa11.html"
-    },
-    {
       "title": "روبيو يطرد الوفد الإيراني.. ويأمره بمغادرة نيويورك فورا",
       "url": "https://www.alsumaria.tv/news/international/577599/%D8%B1%D9%88%D8%A8%D9%8A%D9%88-%D9%8A%D8%B7%D8%B1%D8%AF-%D8%A7%D9%84%D9%88%D9%81%D8%AF-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%88%D9%8A%D8%A3%D9%85%D8%B1%D9%87-%D8%A8%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D9%81%D9%88%D8%B1%D8%A7",
       "category": "عربي ودولي",
@@ -240,22 +192,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b09e8b670b23.html"
-    },
-    {
-      "title": "\"أمضيت طفولتي ضمن عائلة يطاردها مكتب التحقيقات الفيدرالي\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cm4gkn14xde1o",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-01T06:51:38+00:00",
-      "image": "./assets/news/34be66af276b9e284d977a3c.jpg",
-      "original_image": "./assets/news/34be66af276b9e284d977a3c.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cm4gkn14xde1o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/177d1098be4b.html"
     },
     {
       "title": "ممثلون عن الشاباك الإسرائيلي يتوجهون إلى دبي",
@@ -288,22 +224,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6232793ccb78.html"
-    },
-    {
-      "title": "خرافة أم حقيقة: هل يساعد وضع البصل النيّئ أسفل القدمين في علاج نزلات البرد؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c8x2z26l3w1do",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-01T06:10:31+00:00",
-      "image": "./assets/news/95443a52ba1124bd7fa1dbd6.jpg",
-      "original_image": "./assets/news/95443a52ba1124bd7fa1dbd6.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c8x2z26l3w1do",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b9941192e7e3.html"
     },
     {
       "title": "الزيدي يتحرك لنزع سلاح المجاميع غير العراقية ومهلة للفصائل.. والدولة صاحبة القرار",
@@ -448,22 +368,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a5f681b1550b.html"
-    },
-    {
-      "title": "كلمة الزيدي بمناسبة يوم السيادة وخروج القوات الأميركية من العراق",
-      "url": "https://964media.com/721807/",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-09-30T20:03:35+00:00",
-      "image": "./assets/news/d3b13b530e71d9e083f70361.jpg",
-      "original_image": "./assets/news/d3b13b530e71d9e083f70361.jpg",
-      "source_url": "https://964media.com/721807/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9e28554b516d.html"
     },
     {
       "title": "“الزيدي يتوعد المقصر مهما كانت رتبته”.. 72 ساعة لكشف ملابسات عملية آلتون كوبري",
