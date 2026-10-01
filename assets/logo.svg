@@ -1,25 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1640 924" role="img" aria-labelledby="title desc">
-<title id="title">التاسعة نيوز</title><desc id="desc">شعار التاسعة نيوز مع عبارة نعلم لتعلم</desc>
-<defs>
- <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f5da9"/><stop offset="1" stop-color="#238ee2"/></linearGradient>
- <linearGradient id="blue2" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#1767b8"/><stop offset="1" stop-color="#0a3d78"/></linearGradient>
- <linearGradient id="black" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111111"/><stop offset="1" stop-color="#292929"/></linearGradient>
-</defs>
-<!-- التاسعة symbol -->
-<g transform="translate(65 55)">
- <path d="M310 0c150 0 272 122 272 272 0 112-54 203-145 257l-112 66 83-136 55-35c48-31 76-83 76-143 0-77-45-143-113-174L303 91c-20-9-38-15-58-18C270 27 288 0 310 0z" fill="url(#blue)"/>
- <path d="M310 0C160 0 38 122 38 272c0 112 54 203 145 257l112 66-83-136-55-35c-48-31-76-83-76-143 0-77 45-143 113-174l123-50c20-8 38-14 58-17C350 27 332 0 310 0z" fill="url(#black)"/>
- <path d="M183 191c31-38 78-62 127-62 91 0 165 74 165 165 0 44-17 84-45 113l-71 42 45-72c16-25 24-53 24-83 0-66-53-119-119-119-31 0-60 12-82 33z" fill="#fff"/>
- <circle cx="310" cy="294" r="83" fill="#ed1c24"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 394" role="img" aria-labelledby="t d"><title id="t">التاسعة نيوز</title><desc id="d">شعار التاسعة نيوز</desc><defs><linearGradient id="b" x1=".15" y1=".1" x2=".85" y2=".9"><stop offset="0" stop-color="#2469bd"/><stop offset="1" stop-color="#1c8fe3"/></linearGradient><linearGradient id="b2" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#1766b8"/><stop offset="1" stop-color="#0c3f7b"/></linearGradient><linearGradient id="k" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c0c0d"/><stop offset="1" stop-color="#292929"/></linearGradient></defs>
+<!-- exact-proportion 9 mark -->
+<path d="M210 2c-82 0-149 67-149 149 0 61 34 112 85 137l55 27-34-55-27-18c-30-20-48-52-48-91 0-54 34-100 84-116l77-26c-9-4-22-7-43-7z" fill="url(#k)"/>
+<path d="M210 2c82 0 149 67 149 149 0 62-34 113-86 138l-57 27 35-57 28-18c30-20 48-52 48-90 0-54-34-100-84-117l-77-25c9-4 23-7 44-7z" fill="url(#b)"/>
+<path d="M124 125c20-25 51-40 84-40 59 0 107 48 107 107 0 28-11 54-29 74l-47 28 28-46c9-15 14-31 14-49 0-41-33-74-74-74-20 0-39 8-53 21z" fill="#fff"/>
+<circle cx="208" cy="191" r="42" fill="#ef2026"/>
 <!-- NEWS wordmark -->
-<g transform="translate(585 300) skewX(-9)">
- <text x="0" y="0" font-family="Arial,Helvetica,sans-serif" font-size="178" font-weight="900" font-style="italic" letter-spacing="-13" fill="#151515">NEW</text>
- <text x="485" y="0" font-family="Arial,Helvetica,sans-serif" font-size="178" font-weight="900" font-style="italic" letter-spacing="-13" fill="#ed1c24">S</text>
-</g>
-<!-- blue underline -->
-<path d="M575 515 Q680 458 815 502 L1535 502 Q1580 502 1610 481 Q1575 526 1520 534 L820 534 Q675 526 575 570 Q618 538 575 515z" fill="#1767b8"/>
-<!-- Arabic -->
-<text x="1530" y="620" direction="rtl" text-anchor="end" font-family="Tahoma,Arial,sans-serif" font-size="58" font-weight="700" fill="#d7e5f5">التاسعة نيوز</text>
-<text x="1530" y="695" direction="rtl" text-anchor="end" font-family="Tahoma,Arial,sans-serif" font-size="54" font-weight="900" fill="#ffffff">نعلم لتعلم</text>
+<g transform="translate(280 255) skewX(-8)"><text x="0" y="0" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="96" font-weight="900" font-style="italic" letter-spacing="-7" fill="#151515">NEW</text><text x="263" y="0" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="96" font-weight="900" font-style="italic" letter-spacing="-7" fill="#ef2026">S</text></g>
+<!-- underline -->
+<path d="M190 278c34-22 64-27 102-24h344c-11 12-25 19-47 20H292c-43-1-72 8-102 25z" fill="#1b66b8"/>
+<!-- Arabic wordmark exactly under line -->
+<text x="652" y="326" direction="rtl" text-anchor="end" font-family="Tahoma,Arial,sans-serif" font-size="29" font-weight="700" fill="#153b70">التاسعة نيوز</text>
 </svg>
