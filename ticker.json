@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T07:24:23.158420+00:00",
+  "updated_at": "2026-10-01T07:40:27.491969+00:00",
   "latest": [
     {
       "title": "إيران تتسلّم الرد الأمريكي على مقترحها لإنهاء الحرب، وترامب يقول: \"أمور ستتحقق قريباً في طهران\" - شفق نيوز..",
@@ -21,18 +21,18 @@
       "watch_topics": []
     },
     {
-      "title": "سوريا: قتلى وجرحى في هجوم على حافلة في حمص، وانفجار خط غاز يعطّل ثلاث محطات لتوليد الكهرباء - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c69w4wrl4re8o",
-      "category": "عراق",
-      "published": "2026-09-30T23:10:54+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "اعتقال رجل في تكساس بتهمة التخطيط لإطلاق نار جماعي في مبنى الكابيتول",
       "url": "https://www.alsumaria.tv/news/localnews/577595/%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%B1%D8%AC%D9%84-%D9%81%D9%8A-%D8%AA%D9%83%D8%B3%D8%A7%D8%B3-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D8%AC%D9%85%D8%A7%D8%B9%D9%8A-%D9%81%D9%8A-%D9%85%D8%A8%D9%86%D9%89-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D8%AA%D9%88%D9%84",
       "category": "عراق",
       "published": "2026-10-01T05:28:35+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "سوريا: قتلى وجرحى في هجوم على حافلة في حمص، وانفجار خط غاز يعطّل ثلاث محطات لتوليد الكهرباء - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c69w4wrl4re8o",
+      "category": "عراق",
+      "published": "2026-10-01T07:12:30+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -103,6 +103,16 @@
       ]
     },
     {
+      "title": "طهران تدعو بغداد الى حماية العلاقات من العقوبات الاميركية",
+      "url": "https://www.alsumaria.tv/news/politics/577600/%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%89-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9",
+      "category": "عراق",
+      "published": "2026-10-01T07:26:07+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "فائق زيدان يهنئ العراقيين بيوم 30 أيلول ويؤكد على سلطة القانون",
       "url": "https://964media.com/721538/",
       "category": "عراق",
@@ -131,14 +141,6 @@
       "url": "https://964media.com/721681/",
       "category": "عراق",
       "published": "2026-09-30T12:59:47+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "إنفانتينو يتلقى ضربة قوية من الاتحاد السويسري",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577579/sports/%D8%A5%D9%86%D9%81%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D9%88-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%B6%D8%B1%D8%A8%D8%A9-%D9%82%D9%88%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3%D8%B1%D9%8A",
-      "category": "عراق",
-      "published": "2026-09-30T18:01:00+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -528,6 +530,14 @@
       ]
     },
     {
+      "title": "فرنسا أمام ثلاثية صعبة: اقتصاد متعثر وديون وشارع غاضب",
+      "url": "https://aawsat.com/node/5324636",
+      "category": "دولي",
+      "published": "Thu, 01 Oct 2026 08:30:10 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "بكين ترفض تصنيف بريطانيا معهداً صينياً «واجهةً للتجسس»",
       "url": "https://aawsat.com/node/5324622",
       "category": "دولي",
@@ -622,14 +632,6 @@
       "published": "Wed, 30 Sep 2026 15:32:43 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "نحو 50 من المحاربين بأوكرانيا يدخلون «الدوما» الروسي",
-      "url": "https://aawsat.com/node/5324371",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 15:31:25 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -642,18 +644,18 @@
       "watch_topics": []
     },
     {
-      "title": "سوريا: قتلى وجرحى في هجوم على حافلة في حمص، وانفجار خط غاز يعطّل ثلاث محطات لتوليد الكهرباء - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c69w4wrl4re8o",
-      "category": "عراق",
-      "published": "2026-09-30T23:10:54+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "اعتقال رجل في تكساس بتهمة التخطيط لإطلاق نار جماعي في مبنى الكابيتول",
       "url": "https://www.alsumaria.tv/news/localnews/577595/%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%B1%D8%AC%D9%84-%D9%81%D9%8A-%D8%AA%D9%83%D8%B3%D8%A7%D8%B3-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D8%AC%D9%85%D8%A7%D8%B9%D9%8A-%D9%81%D9%8A-%D9%85%D8%A8%D9%86%D9%89-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D8%AA%D9%88%D9%84",
       "category": "عراق",
       "published": "2026-10-01T05:28:35+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "سوريا: قتلى وجرحى في هجوم على حافلة في حمص، وانفجار خط غاز يعطّل ثلاث محطات لتوليد الكهرباء - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c69w4wrl4re8o",
+      "category": "عراق",
+      "published": "2026-10-01T07:12:30+00:00",
       "breaking": true,
       "watch_topics": []
     },

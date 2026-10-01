@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T07:24:16.959518+00:00",
+  "updated_at": "2026-10-01T07:40:22.518212+00:00",
   "items": [
     {
       "title": "قتلى وجرحى إثر استهداف حافلة بريف حماة في سوريا",
@@ -7,8 +7,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-09-30T20:00:42+00:00",
-      "image": "./assets/news/132c4a141e92d930c03d98d9.jpg",
-      "original_image": "./assets/news/132c4a141e92d930c03d98d9.jpg",
+      "image": "./assets/news/75fd89936b362dd68e531ef5.jpg",
+      "original_image": "./assets/news/75fd89936b362dd68e531ef5.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577588/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A5%D8%AB%D8%B1-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%AD%D8%A7%D9%81%D9%84%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%85%D8%A7%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
       "source_name": "السومرية نيوز",
       "breaking": true,
@@ -48,6 +48,38 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
+    },
+    {
+      "title": "طهران تدعو بغداد الى حماية العلاقات من العقوبات الاميركية",
+      "url": "https://www.alsumaria.tv/news/politics/577600/%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%89-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9",
+      "category": "سياسة",
+      "region": "بغداد",
+      "published": "2026-10-01T07:26:07+00:00",
+      "image": "./assets/news/523544054eecf85cf6e72c27.jpg",
+      "original_image": "./assets/news/523544054eecf85cf6e72c27.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/577600/%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%89-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8e745edaad0d.html"
+    },
+    {
+      "title": "سوريا: قتلى وجرحى في هجوم على حافلة في حمص، وانفجار خط غاز يعطّل ثلاث محطات لتوليد الكهرباء - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c69w4wrl4re8o",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-10-01T07:12:30+00:00",
+      "image": "./assets/news/719822ad9b921852f7bca7bc.jpg",
+      "original_image": "./assets/news/719822ad9b921852f7bca7bc.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c69w4wrl4re8o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4f09e135aa11.html"
     },
     {
       "title": "\"فلاي دبي\" تعلّق الرحلات الجوية من وإلى إسرائيل، وترامب يقول إن مساعد الطيار كان \"إرهابي أو مختل\" - شفق نيوز..",
@@ -210,22 +242,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bd4df60c2f90.html"
     },
     {
-      "title": "سوريا: قتلى وجرحى في هجوم على حافلة في حمص، وانفجار خط غاز يعطّل ثلاث محطات لتوليد الكهرباء - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c69w4wrl4re8o",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-30T23:10:54+00:00",
-      "image": "./assets/news/719822ad9b921852f7bca7bc.jpg",
-      "original_image": "./assets/news/719822ad9b921852f7bca7bc.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c69w4wrl4re8o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e8d4f123e618.html"
-    },
-    {
       "title": "إيطاليا تمدد الرقابة على حدودها مع إسبانيا بسبب وضع سبتة",
       "url": "https://www.alsumaria.tv/news/international/577594/%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D8%AA%D9%85%D8%AF%D8%AF-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%B9%D9%84%D9%89-%D8%AD%D8%AF%D9%88%D8%AF%D9%87%D8%A7-%D9%85%D8%B9-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%88%D8%B6%D8%B9-%D8%B3%D8%A8%D8%AA%D8%A9",
       "category": "محليات",
@@ -327,8 +343,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-09-30T20:14:30+00:00",
-      "image": "./assets/news/7bc25d0dc63e181f15adaf4d.jpg",
-      "original_image": "./assets/news/7bc25d0dc63e181f15adaf4d.jpg",
+      "image": "./assets/news/05618f20ccbb126be7616c3b.jpg",
+      "original_image": "./assets/news/05618f20ccbb126be7616c3b.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/577589/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D9%85%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D8%A7-%D9%8A%D8%B9%D9%86%D9%8A-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -464,22 +480,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/417281f919ea.html"
-    },
-    {
-      "title": "إنفانتينو يتلقى ضربة قوية من الاتحاد السويسري",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577579/sports/%D8%A5%D9%86%D9%81%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D9%88-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%B6%D8%B1%D8%A8%D8%A9-%D9%82%D9%88%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3%D8%B1%D9%8A",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-09-30T18:01:00+00:00",
-      "image": "./assets/news/b6b2cd2d3d59a39805f1d658.jpg",
-      "original_image": "./assets/news/b6b2cd2d3d59a39805f1d658.jpg",
-      "source_url": "https://www.alsumaria.tv/Entertainment-News/577579/sports/%D8%A5%D9%86%D9%81%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D9%88-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%B6%D8%B1%D8%A8%D8%A9-%D9%82%D9%88%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3%D8%B1%D9%8A",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e32201623098.html"
     },
     {
       "title": "ترامب: أخذنا كافة معداتنا من العراق.. هذه نهاية رحلة مكلفة للغاية",
