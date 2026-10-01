@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T19:26:36.481278+00:00",
+  "updated_at": "2026-10-01T19:40:54.559198+00:00",
   "latest": [
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
@@ -88,6 +88,16 @@
       ]
     },
     {
+      "title": "بغداد وواشنطن تبحثان ملف سجناء داعش الذين نُقلوا من سوريا إلى العراق",
+      "url": "https://www.alsumaria.tv/news/politics/577653/%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D9%85%D9%84%D9%81-%D8%B3%D8%AC%D9%86%D8%A7%D8%A1-%D8%AF%D8%A7%D8%B9%D8%B4-%D8%A7%D9%84%D8%B0%D9%8A%D9%86-%D9%86%D9%8F%D9%82%D9%84%D9%88%D8%A7-%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+      "category": "عراق",
+      "published": "2026-10-01T19:29:23+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "الزيدي يتحرك لنزع سلاح المجاميع غير العراقية ومهلة للفصائل.. والدولة صاحبة القرار",
       "url": "https://964media.com/721843/",
       "category": "عراق",
@@ -100,14 +110,6 @@
       "url": "https://964media.com/721880/",
       "category": "عراق",
       "published": "2026-10-01T10:33:07+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "العثور على مواد متفجرة واتلافها في الأنبار",
-      "url": "https://www.alsumaria.tv/news/localnews/577633/%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%AF-%D9%85%D8%AA%D9%81%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D8%AA%D9%84%D8%A7%D9%81%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7%D8%B1",
-      "category": "عراق",
-      "published": "2026-10-01T14:05:21+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -312,6 +314,16 @@
       "watch_topics": []
     },
     {
+      "title": "تدمير باليستيين و4 «مسيَّرات» حوثية جنوب السعودية",
+      "url": "https://aawsat.com/node/5324935",
+      "category": "مشرق أوسط",
+      "published": "Thu, 01 Oct 2026 20:38:16 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "السعودية: قائد «فلاي دبي» ومساعده غادرا إلى الإمارات برفقة فريق أمني",
       "url": "https://aawsat.com/node/5324923",
       "category": "مشرق أوسط",
@@ -422,16 +434,6 @@
       ]
     },
     {
-      "title": "ولي العهد السعودي وأمير قطر يبحثان هاتفيا مستجدات الأوضاع في المنطقة",
-      "url": "https://aawsat.com/node/5323911",
-      "category": "مشرق أوسط",
-      "published": "Tue, 29 Sep 2026 14:56:35 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
       "url": "https://aawsat.com/node/5322757",
       "category": "مشرق أوسط",
@@ -520,6 +522,14 @@
       "watch_topics": [
         "أمريكا"
       ]
+    },
+    {
+      "title": "روبيو يزور آيسلندا تعزيزاً للاندفاعة الدبلوماسية الأميركية في القطب الشمالي",
+      "url": "https://aawsat.com/node/5324934",
+      "category": "دولي",
+      "published": "Thu, 01 Oct 2026 20:38:04 +0100",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "زيلينسكي: أوكرانيا أدخلت صاروخاً باليستياً تكتيكياً جديداً في عملياتها العسكرية",
@@ -614,14 +624,6 @@
       "url": "https://aawsat.com/node/5324684",
       "category": "دولي",
       "published": "Thu, 01 Oct 2026 10:31:15 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "وزير الخارجية الألماني يتوجه إلى مونتينيغرو للمشاركة في اجتماع بشأن غرب البلقان",
-      "url": "https://aawsat.com/node/5324652",
-      "category": "دولي",
-      "published": "Thu, 01 Oct 2026 08:56:58 +0100",
       "breaking": false,
       "watch_topics": []
     }
