@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T04:38:29.202655+00:00",
+  "updated_at": "2026-10-01T04:55:03.903108+00:00",
   "latest": [
     {
       "title": "إيران تتسلّم الرد الأمريكي على مقترحها لإنهاء الحرب، وترامب يقول: \"أمور ستتحقق قريباً في طهران\" - شفق نيوز..",
@@ -264,6 +264,14 @@
       "watch_topics": []
     },
     {
+      "title": "باكستان تشن غارات على أفغانستان... وكابول تعلن مقتل 9 أشخاص",
+      "url": "https://aawsat.com/node/5324593",
+      "category": "مشرق أوسط",
+      "published": "Thu, 01 Oct 2026 05:49:29 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "بيونغ يانغ تنفي اتهام سيول لها بالمسؤولية عن انفجار لغمين في المنطقة العازلة",
       "url": "https://aawsat.com/node/5324147",
       "category": "مشرق أوسط",
@@ -316,14 +324,6 @@
       "url": "https://aawsat.com/node/5322255",
       "category": "مشرق أوسط",
       "published": "Thu, 24 Sep 2026 19:29:04 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "باكستان تقصف مواقع في أفغانستان مرتبطة بأنشطة طائرات مسيرة",
-      "url": "https://aawsat.com/node/5321914",
-      "category": "مشرق أوسط",
-      "published": "Thu, 24 Sep 2026 02:09:56 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -687,6 +687,14 @@
       "watch_topics": []
     },
     {
+      "title": "باكستان تشن غارات على أفغانستان... وكابول تعلن مقتل 9 أشخاص",
+      "url": "https://aawsat.com/node/5324593",
+      "category": "مشرق أوسط",
+      "published": "Thu, 01 Oct 2026 05:49:29 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "بيونغ يانغ تنفي اتهام سيول لها بالمسؤولية عن انفجار لغمين في المنطقة العازلة",
       "url": "https://aawsat.com/node/5324147",
       "category": "مشرق أوسط",
@@ -739,14 +747,6 @@
       "url": "https://aawsat.com/node/5322255",
       "category": "مشرق أوسط",
       "published": "Thu, 24 Sep 2026 19:29:04 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "باكستان تقصف مواقع في أفغانستان مرتبطة بأنشطة طائرات مسيرة",
-      "url": "https://aawsat.com/node/5321914",
-      "category": "مشرق أوسط",
-      "published": "Thu, 24 Sep 2026 02:09:56 +0100",
       "breaking": true,
       "watch_topics": []
     },
