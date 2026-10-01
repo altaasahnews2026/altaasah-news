@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T13:28:23.934236+00:00",
+  "updated_at": "2026-10-01T13:42:58.678693+00:00",
   "latest": [
     {
       "title": "ترامب يرجّح استئناف قصف إيران بعد انتخابات تشرين الثاني",
@@ -236,6 +236,17 @@
       "watch_topics": []
     },
     {
+      "title": "قطر: نعمل على بناء أرضية مشتركة بين واشنطن وطهران",
+      "url": "https://aawsat.com/node/5323878",
+      "category": "مشرق أوسط",
+      "published": "Tue, 29 Sep 2026 13:51:02 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
       "title": "تحذيرات يمنية من أخطار حوثية عابرة للحدود",
       "url": "https://aawsat.com/node/5324724",
       "category": "مشرق أوسط",
@@ -308,6 +319,136 @@
       "watch_topics": []
     },
     {
+      "title": "السعودية تقدم 224 مليون ريال لدعم موازنة الحكومة اليمنية",
+      "url": "https://aawsat.com/node/5324783",
+      "category": "مشرق أوسط",
+      "published": "Thu, 01 Oct 2026 14:24:33 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "آل الشيخ: «الشورى» يستلهم الإنجاز والمبادرة من «رؤية السعودية 2030»",
+      "url": "https://aawsat.com/node/5324488",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 19:57:26 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "السعودية: لا تهاون في حفظ أمننا وسنرد بحزم على أي تهديد",
+      "url": "https://aawsat.com/node/5324445",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 18:18:07 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "دي مايو لـ«الشرق الأوسط»: قمة السعودية تدفع لشراكة خليجية - أوروبية أكثر طموحاً",
+      "url": "https://aawsat.com/node/5324398",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 16:23:54 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "ولي العهد السعودي يلقي الخطاب السنوي بـ«مجلس الشورى»",
+      "url": "https://aawsat.com/node/5324341",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 14:19:41 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "السعودية: مؤتمر دولي يوصي بتوظيف الذكاء الاصطناعي في حماية الأمن الفكري",
+      "url": "https://aawsat.com/node/5324292",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 12:30:07 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "محادثات سعودية ــ إماراتية في الرياض",
+      "url": "https://aawsat.com/node/5324143",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 00:54:12 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "السعودية وبلغاريا تبحثان تطوير التعاون العسكري والدفاعي",
+      "url": "https://aawsat.com/node/5324073",
+      "category": "مشرق أوسط",
+      "published": "Tue, 29 Sep 2026 21:04:47 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "السعودية تؤكد رفض استخدام الممرات الحيوية أداةً للإضرار بمصالح الدول",
+      "url": "https://aawsat.com/node/5323989",
+      "category": "مشرق أوسط",
+      "published": "Tue, 29 Sep 2026 17:22:51 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "ولي العهد السعودي ونائب الرئيس الإماراتي يستعرضان تطورات المنطقة",
+      "url": "https://aawsat.com/node/5323930",
+      "category": "مشرق أوسط",
+      "published": "Tue, 29 Sep 2026 15:27:55 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "ولي العهد السعودي وأمير قطر يبحثان هاتفيا مستجدات الأوضاع في المنطقة",
+      "url": "https://aawsat.com/node/5323911",
+      "category": "مشرق أوسط",
+      "published": "Tue, 29 Sep 2026 14:56:35 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "وزير الدفاع السعودي ونائب رئيس الإمارات يبحثان في الرياض تطوير العلاقات",
+      "url": "https://aawsat.com/node/5323908",
+      "category": "مشرق أوسط",
+      "published": "Tue, 29 Sep 2026 14:50:14 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "السعودية تعلن «زوال الخطر» بعد إطلاق الإنذار المبكر في نجران",
+      "url": "https://aawsat.com/node/5323844",
+      "category": "مشرق أوسط",
+      "published": "Tue, 29 Sep 2026 12:28:12 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
       "url": "https://aawsat.com/node/5322757",
       "category": "مشرق أوسط",
@@ -318,135 +459,12 @@
       ]
     },
     {
-      "title": "تعز تصدّ هجمات حوثية متزامنة هي الأعنف منذ سنوات",
-      "url": "https://aawsat.com/node/5324764",
-      "category": "مشرق أوسط",
-      "published": "Thu, 01 Oct 2026 13:40:50 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ارتفاع أعداد المشردين جراء الهجمات الحوثية إلى 198 ألفاً",
-      "url": "https://aawsat.com/node/5324763",
-      "category": "مشرق أوسط",
-      "published": "Thu, 01 Oct 2026 13:39:56 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "«العزم الصلب» تغادر العراق",
-      "url": "https://aawsat.com/node/5324575",
-      "category": "مشرق أوسط",
-      "published": "Thu, 01 Oct 2026 02:02:24 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "تعز ولحج تشعلان نذر المعركة اليمنية الكبرى",
-      "url": "https://aawsat.com/node/5324573",
-      "category": "مشرق أوسط",
-      "published": "Thu, 01 Oct 2026 01:54:58 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "«العزم الصلب» تنتهي في بغداد... و«عُقدة» الفصائل دون حل",
-      "url": "https://aawsat.com/node/5324391",
-      "category": "مشرق أوسط",
-      "published": "Wed, 30 Sep 2026 16:12:51 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "منتدى «أصيلة» يعلن فوز شاعرين من العراق والمغرب بـ«جائزة بلند الحيدري للشعراء الشباب»",
-      "url": "https://aawsat.com/node/5324386",
-      "category": "مشرق أوسط",
-      "published": "Wed, 30 Sep 2026 16:02:11 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "نُذر إطلاق معركة يمنية شاملة ضد الحوثيين",
-      "url": "https://aawsat.com/node/5324351",
-      "category": "مشرق أوسط",
-      "published": "Wed, 30 Sep 2026 14:40:12 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "«الكوليرا» يطرق مخيمات اليمنيين الفارّين من الهجمات الحوثية",
-      "url": "https://aawsat.com/node/5324314",
-      "category": "مشرق أوسط",
-      "published": "Wed, 30 Sep 2026 13:22:35 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "خسائر الحوثيين تقترب من 3 آلاف عنصر خلال 4 أيام",
-      "url": "https://aawsat.com/node/5323849",
-      "category": "مشرق أوسط",
-      "published": "Tue, 29 Sep 2026 12:37:22 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بعد موافقة البرلمان اليمني... تعبئة عامة لمواجهة الحوثيين",
-      "url": "https://aawsat.com/node/5323846",
-      "category": "مشرق أوسط",
-      "published": "Tue, 29 Sep 2026 12:36:52 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الحوثيون اعتقلوا 278 يمنياً لاحتفالهم بـ«26 سبتمبر»",
-      "url": "https://aawsat.com/node/5323804",
-      "category": "مشرق أوسط",
-      "published": "Tue, 29 Sep 2026 11:11:16 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "قائد خفر السواحل اليمنية: سفن تهريب الحوثيين لم تعد تخفي تحركاتها في البحر الأحمر",
-      "url": "https://aawsat.com/node/5323489",
-      "category": "مشرق أوسط",
-      "published": "Mon, 28 Sep 2026 13:59:08 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الحوثيون يختبرون ولاء الساحل الغربي اليمني بالتجنيد والجباية",
-      "url": "https://aawsat.com/node/5323486",
-      "category": "مشرق أوسط",
-      "published": "Mon, 28 Sep 2026 13:51:48 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "2300 حوثي بين قتيل وجريح في 8 جبهات خلال 3 أيام",
-      "url": "https://aawsat.com/node/5323483",
-      "category": "مشرق أوسط",
-      "published": "Mon, 28 Sep 2026 13:42:45 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "«البنتاغون» يختار «بوينغ» لتطوير الجيل التالي من المقاتلات الهجومية",
       "url": "https://aawsat.com/node/5324144",
       "category": "دولي",
       "published": "Wed, 30 Sep 2026 00:55:03 +0100",
       "breaking": true,
       "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "«توبيخ دبلوماسي»... روبيو «طرد» الوفد الإيراني من أميركا بعد تعثر المفاوضات",
-      "url": "https://aawsat.com/node/5324621",
-      "category": "دولي",
-      "published": "Thu, 01 Oct 2026 07:39:11 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
         "أمريكا"
       ]
     },
@@ -596,6 +614,14 @@
       "url": "https://aawsat.com/node/5324440",
       "category": "دولي",
       "published": "Wed, 30 Sep 2026 18:09:14 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "روسيا تستهدف إمدادات الكهرباء في كييف مع اقتراب الشتاء",
+      "url": "https://aawsat.com/node/5324439",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 18:09:03 +0100",
       "breaking": false,
       "watch_topics": []
     }
