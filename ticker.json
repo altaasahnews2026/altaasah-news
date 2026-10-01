@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T16:02:57.792482+00:00",
+  "updated_at": "2026-10-01T16:19:05.953784+00:00",
   "latest": [
     {
       "title": "ترامب يرجّح استئناف قصف إيران بعد انتخابات تشرين الثاني",
@@ -40,14 +40,12 @@
       "watch_topics": []
     },
     {
-      "title": "هل طُرد عراقجي والوفد الإيراني من نيويورك؟ طهران توضح",
-      "url": "https://www.alsumaria.tv/news/international/577621/%D9%87%D9%84-%D8%B7%D9%8F%D8%B1%D8%AF-%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D9%88%D8%A7%D9%84%D9%88%D9%81%D8%AF-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83%D8%9F-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D9%88%D8%B6%D8%AD",
+      "title": "كتائب سيد الشهداء: سيادة العراق واستقلاله غاية أساسية وهذا ما تتطلبه المرحلة المقبلة",
+      "url": "https://www.alsumaria.tv/news/localnews/577641/%D9%83%D8%AA%D8%A7%D8%A6%D8%A8-%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%87-%D8%BA%D8%A7%D9%8A%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9-%D9%88%D9%87%D8%B0%D8%A7-%D9%85%D8%A7-%D8%AA%D8%AA%D8%B7%D9%84%D8%A8%D9%87-%D8%A7%D9%84",
       "category": "عراق",
-      "published": "2026-10-01T11:23:07+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
+      "published": "2026-10-01T16:13:35+00:00",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "الخنجر في ضيافة البارزاني.. بحثا مستقبل العراق بعد خروج الأميركان",
@@ -517,6 +515,14 @@
       ]
     },
     {
+      "title": "موجة جديدة من العقوبات البريطانية ضد صندوق الحرب الروسي",
+      "url": "https://aawsat.com/node/5324875",
+      "category": "دولي",
+      "published": "Thu, 01 Oct 2026 17:17:18 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "خلاف أوروبي - أطلسي حول الرد على «الحرب الهجينة» الروسية",
       "url": "https://aawsat.com/node/5324847",
       "category": "دولي",
@@ -619,14 +625,6 @@
       "published": "Wed, 30 Sep 2026 18:09:14 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "روسيا تستهدف إمدادات الكهرباء في كييف مع اقتراب الشتاء",
-      "url": "https://aawsat.com/node/5324439",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 18:09:03 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -654,6 +652,14 @@
       "url": "https://www.alsumaria.tv/news/technology/577637/%D8%B2%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A-%D9%84%D9%85%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA-%D8%A7%D8%AC%D9%87%D8%B2%D8%A9-iphone-18-pro-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A",
       "category": "عراق",
       "published": "2026-10-01T14:43:41+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "كتائب سيد الشهداء: سيادة العراق واستقلاله غاية أساسية وهذا ما تتطلبه المرحلة المقبلة",
+      "url": "https://www.alsumaria.tv/news/localnews/577641/%D9%83%D8%AA%D8%A7%D8%A6%D8%A8-%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%87-%D8%BA%D8%A7%D9%8A%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9-%D9%88%D9%87%D8%B0%D8%A7-%D9%85%D8%A7-%D8%AA%D8%AA%D8%B7%D9%84%D8%A8%D9%87-%D8%A7%D9%84",
+      "category": "عراق",
+      "published": "2026-10-01T16:13:35+00:00",
       "breaking": true,
       "watch_topics": []
     },
