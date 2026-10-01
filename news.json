@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T11:38:46.498645+00:00",
+  "updated_at": "2026-10-01T11:52:59.204675+00:00",
   "items": [
     {
       "title": "رئيس البرلمان: العراق لن يكون ساحة لتصفية الصراعات أو ممراً للاعتداء على الآخرين",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
+    },
+    {
+      "title": "ترامب يرجّح استئناف قصف إيران بعد انتخابات تشرين الثاني",
+      "url": "https://www.alsumaria.tv/news/international/577622/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%B1%D8%AC%D9%91%D8%AD-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D9%82%D8%B5%D9%81-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AA%D8%B4%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-10-01T11:45:18+00:00",
+      "image": "./assets/news/17a07c5eb6475e7a1687cf26.jpg",
+      "original_image": "./assets/news/17a07c5eb6475e7a1687cf26.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577622/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%B1%D8%AC%D9%91%D8%AD-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D9%82%D8%B5%D9%81-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AA%D8%B4%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/38b1fc4779d1.html"
     },
     {
       "title": "هل طُرد عراقجي والوفد الإيراني من نيويورك؟ طهران توضح",
@@ -82,13 +98,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/37d6fee05a1b.html"
     },
     {
+      "title": "\"فلاي دبي\" تعلّق الرحلات الجوية من وإلى إسرائيل، والقضاء الإماراتي يباشر التحقيق بالحادثة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-10-01T11:14:29+00:00",
+      "image": "./assets/news/99c21f13d6d88c4dcc1d8d34.jpg",
+      "original_image": "./assets/news/99c21f13d6d88c4dcc1d8d34.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a4bf08bd14f4.html"
+    },
+    {
       "title": "تقرير أرنولد يحسم مستقبله مع منتخب العراق",
       "url": "https://www.alsumaria.tv/Entertainment-News/577619/sports/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%A3%D8%B1%D9%86%D9%88%D9%84%D8%AF-%D9%8A%D8%AD%D8%B3%D9%85-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84%D9%87-%D9%85%D8%B9-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-10-01T11:04:14+00:00",
-      "image": "./assets/news/adbe04056d5675243711a72c.jpg",
-      "original_image": "./assets/news/adbe04056d5675243711a72c.jpg",
+      "image": "./assets/news/8a6fb7410209654214038f2c.jpg",
+      "original_image": "./assets/news/8a6fb7410209654214038f2c.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/577619/sports/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%A3%D8%B1%D9%86%D9%88%D9%84%D8%AF-%D9%8A%D8%AD%D8%B3%D9%85-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84%D9%87-%D9%85%D8%B9-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -306,22 +338,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4cbe3c14b7d5.html"
     },
     {
-      "title": "\"فلاي دبي\" تعلّق الرحلات الجوية من وإلى إسرائيل، والقضاء الإماراتي يباشر التحقيق بالحادثة - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-10-01T09:05:18+00:00",
-      "image": "./assets/news/99c21f13d6d88c4dcc1d8d34.jpg",
-      "original_image": "./assets/news/99c21f13d6d88c4dcc1d8d34.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/20db023fff0c.html"
-    },
-    {
       "title": "الحرس الثوري الإيراني: طرد أميركا ثمرة صمود العراقيين",
       "url": "https://964media.com/721856/",
       "category": "عربي ودولي",
@@ -464,22 +480,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d859679f57b8.html"
-    },
-    {
-      "title": "مازال مرتفعا.. الدولار يسجل انخفاضاً طفيفاً في السوق العراقية",
-      "url": "https://www.alsumaria.tv/news/economy/577602/%D9%85%D8%A7%D8%B2%D8%A7%D9%84-%D9%85%D8%B1%D8%AA%D9%81%D8%B9%D8%A7-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%B3%D8%AC%D9%84-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6%D8%A7%D9%8B-%D8%B7%D9%81%D9%8A%D9%81%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
-      "category": "رياضة",
-      "region": "العراق",
-      "published": "2026-10-01T07:53:43+00:00",
-      "image": "./assets/news/0c72d96b15d3d1f83d02b9bb.jpg",
-      "original_image": "./assets/news/0c72d96b15d3d1f83d02b9bb.jpg",
-      "source_url": "https://www.alsumaria.tv/news/economy/577602/%D9%85%D8%A7%D8%B2%D8%A7%D9%84-%D9%85%D8%B1%D8%AA%D9%81%D8%B9%D8%A7-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%B3%D8%AC%D9%84-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6%D8%A7%D9%8B-%D8%B7%D9%81%D9%8A%D9%81%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/14f826df0e74.html"
     },
     {
       "title": "\"أمضيت طفولتي ضمن عائلة يطاردها مكتب التحقيقات الفيدرالي\" - شفق نيوز..",
