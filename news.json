@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T00:36:47.612295+00:00",
+  "updated_at": "2026-10-01T00:57:42.750044+00:00",
   "items": [
     {
       "title": "قتلى وجرحى إثر استهداف حافلة بريف حماة في سوريا",
@@ -48,6 +48,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
+    },
+    {
+      "title": "رئيس الوزراء البريطاني: إيران ضالعة في حادثة قاعدة \"فيرفورد\" الجوية - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c6grvr0xpdpeo",
+      "category": "سياسة",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-10-01T00:22:55+00:00",
+      "image": "./assets/news/e6d84e49cb3496fbc1a9cd51.jpg",
+      "original_image": "./assets/news/e6d84e49cb3496fbc1a9cd51.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c6grvr0xpdpeo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9029f5016c1b.html"
     },
     {
       "title": "نتنياهو يتهم مساعد طيار بمحاولة إسقاط رحلة \"فلاي دبي\"، وترامب يقول إنه \"إرهابي أو مختل\" - شفق نيوز..",
@@ -482,22 +498,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2b604f9060bb.html"
     },
     {
-      "title": "قصة الصحفي الأوغندي الذي تُوج ملكاً بعد صراع على العرش - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cry4z954nn7yo",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-30T17:18:48+00:00",
-      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cry4z954nn7yo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f0f9a7d2b63c.html"
-    },
-    {
       "title": "“الزيدي يتوعد المقصر مهما كانت رتبته”.. 72 ساعة لكشف ملابسات عملية آلتون كوبري",
       "url": "https://964media.com/721681/",
       "category": "محليات",
@@ -560,22 +560,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d8afdc7c32e1.html"
-    },
-    {
-      "title": "بين المتنبي والرشيد.. فندق “بوتيك” يعيد اكتشاف بغداد القديمة للسياح",
-      "url": "https://964media.com/721176/",
-      "category": "محليات",
-      "region": "بغداد",
-      "published": "2026-09-29T18:49:27+00:00",
-      "image": "./assets/news/2485d3c21078d949dd001177.jpg",
-      "original_image": "./assets/news/2485d3c21078d949dd001177.jpg",
-      "source_url": "https://964media.com/721176/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b862592d151e.html"
     }
   ]
 }
