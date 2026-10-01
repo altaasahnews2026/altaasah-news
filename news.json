@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T07:54:18.371285+00:00",
+  "updated_at": "2026-10-01T08:05:01.406013+00:00",
   "items": [
     {
       "title": "قتلى وجرحى إثر استهداف حافلة بريف حماة في سوريا",
@@ -50,6 +50,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
     },
     {
+      "title": "مازال مرتفعا.. الدولار يسجل انخفاضاً طفيفاً في السوق العراقية",
+      "url": "https://www.alsumaria.tv/news/economy/577602/%D9%85%D8%A7%D8%B2%D8%A7%D9%84-%D9%85%D8%B1%D8%AA%D9%81%D8%B9%D8%A7-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%B3%D8%AC%D9%84-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6%D8%A7%D9%8B-%D8%B7%D9%81%D9%8A%D9%81%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-10-01T07:53:43+00:00",
+      "image": "./assets/news/a283cc4e245dec95b60658a5.jpg",
+      "original_image": "./assets/news/a283cc4e245dec95b60658a5.jpg",
+      "source_url": "https://www.alsumaria.tv/news/economy/577602/%D9%85%D8%A7%D8%B2%D8%A7%D9%84-%D9%85%D8%B1%D8%AA%D9%81%D8%B9%D8%A7-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%B3%D8%AC%D9%84-%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6%D8%A7%D9%8B-%D8%B7%D9%81%D9%8A%D9%81%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/14f826df0e74.html"
+    },
+    {
       "title": "خبر سار للمتقاعدين",
       "url": "https://www.alsumaria.tv/news/localnews/577601/%D8%AE%D8%A8%D8%B1-%D8%B3%D8%A7%D8%B1-%D9%84%D9%84%D9%85%D8%AA%D9%82%D8%A7%D8%B9%D8%AF%D9%8A%D9%86",
       "category": "محليات",
@@ -64,6 +80,38 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f4beba4436db.html"
+    },
+    {
+      "title": "رئيس الوزراء البريطاني: \"مؤشرات قوية\" على ضلوع إيران في حادثة قاعدة \"فيرفورد\" الجوية - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c6grvr0xpdpeo",
+      "category": "سياسة",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-10-01T07:45:28+00:00",
+      "image": "./assets/news/e6d84e49cb3496fbc1a9cd51.jpg",
+      "original_image": "./assets/news/e6d84e49cb3496fbc1a9cd51.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c6grvr0xpdpeo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5304c0cede86.html"
+    },
+    {
+      "title": "\"فلاي دبي\" تعلّق الرحلات الجوية من وإلى إسرائيل، والقضاء الإماراتي يباشر التحقيق بالحادثة - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-10-01T07:45:09+00:00",
+      "image": "./assets/news/99c21f13d6d88c4dcc1d8d34.jpg",
+      "original_image": "./assets/news/99c21f13d6d88c4dcc1d8d34.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9c9c6c750057.html"
     },
     {
       "title": "من خنافس ذهبية إلى اكتشافات داروين: متحف رقمي جديد يعرض ملايين القطع ويحدث \"نقلة هائلة\" في فهمنا للعالم - شفق نيوز..",
@@ -112,22 +160,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4f09e135aa11.html"
-    },
-    {
-      "title": "\"فلاي دبي\" تعلّق الرحلات الجوية من وإلى إسرائيل، وترامب يقول إن مساعد الطيار كان \"إرهابي أو مختل\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-01T07:02:22+00:00",
-      "image": "./assets/news/99c21f13d6d88c4dcc1d8d34.jpg",
-      "original_image": "./assets/news/99c21f13d6d88c4dcc1d8d34.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/48882b9aa2f4.html"
     },
     {
       "title": "روبيو يطرد الوفد الإيراني.. ويأمره بمغادرة نيويورك فورا",
@@ -256,22 +288,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/84a611112266.html"
-    },
-    {
-      "title": "رئيس الوزراء البريطاني: \"مؤشرات قوية\" على ضلوع إيران في حادثة قاعدة \"فيرفورد\" الجوية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c6grvr0xpdpeo",
-      "category": "سياسة",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-01T02:17:42+00:00",
-      "image": "./assets/news/e6d84e49cb3496fbc1a9cd51.jpg",
-      "original_image": "./assets/news/e6d84e49cb3496fbc1a9cd51.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c6grvr0xpdpeo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bd4df60c2f90.html"
     },
     {
       "title": "إيطاليا تمدد الرقابة على حدودها مع إسبانيا بسبب وضع سبتة",
@@ -464,22 +480,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e28d20ec199d.html"
-    },
-    {
-      "title": "العزم وبدر يؤكدان أهمية اعتماد التفاهم والحوار بمعالجة القضايا الوطنية",
-      "url": "https://www.alsumaria.tv/news/localnews/577582/%D8%A7%D9%84%D8%B9%D8%B2%D9%85-%D9%88%D8%A8%D8%AF%D8%B1-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%88%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D8%A8%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-09-30T18:25:00+00:00",
-      "image": "./assets/news/688040674e9213ddca6e4215.jpg",
-      "original_image": "./assets/news/688040674e9213ddca6e4215.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577582/%D8%A7%D9%84%D8%B9%D8%B2%D9%85-%D9%88%D8%A8%D8%AF%D8%B1-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%88%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D8%A8%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7b21cb3ea7d9.html"
     },
     {
       "title": "ترامب: أخذنا كافة معداتنا من العراق.. هذه نهاية رحلة مكلفة للغاية",
