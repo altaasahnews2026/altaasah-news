@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T17:50:25.184184+00:00",
+  "updated_at": "2026-10-01T18:02:14.863089+00:00",
   "latest": [
     {
       "title": "ترامب يحشد 3 حاملات طائرات حول إيران وطهران تستعد للرد من بغداد حتى بيروت",
@@ -206,14 +206,6 @@
       "watch_topics": []
     },
     {
-      "title": "نتنياهو يقول إن مساعد طيار رحلة \"فلاي دبي\" خضع لتلقين \"أفكار إسلامية متطرفة\"، وشركات إسرائيلية تعتزم استئناف رحلاتها لدبي - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "category": "عراق",
-      "published": "2026-10-01T15:54:47+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "النجف تحدد تسعيرة المولدات للخطين العادي والذهبي",
       "url": "https://www.alsumaria.tv/news/localnews/577642/%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%AA%D8%AD%D8%AF%D8%AF-%D8%AA%D8%B3%D8%B9%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D9%84%D8%AF%D8%A7%D8%AA-%D9%84%D9%84%D8%AE%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%8A-%D9%88%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A",
       "category": "عراق",
@@ -234,6 +226,14 @@
       "url": "https://www.alsumaria.tv/news/localnews/577643/%D8%B3%D9%82%D9%88%D8%B7-%D8%B7%D9%81%D9%84-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A8%D8%A6%D8%B1-%D9%81%D9%8A-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%86%D9%82%D8%A7%D8%B0",
       "category": "عراق",
       "published": "2026-10-01T16:50:39+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "تفاصيل جديدة عن حادثة البئر بنينوى.. الطفل توفي فور سقوطه وجهود لاستخراج جثته",
+      "url": "https://www.alsumaria.tv/news/localnews/577645/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D9%86-%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D8%A7%D9%84%D8%A8%D8%A6%D8%B1-%D8%A8%D9%86%D9%8A%D9%86%D9%88%D9%89-%D8%A7%D9%84%D8%B7%D9%81%D9%84-%D8%AA%D9%88%D9%81%D9%8A-%D9%81%D9%88%D8%B1-%D8%B3%D9%82%D9%88%D8%B7%D9%87-%D9%88%D8%AC%D9%87%D9%88%D8%AF-%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC",
+      "category": "عراق",
+      "published": "2026-10-01T16:58:49+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -493,6 +493,26 @@
       "watch_topics": []
     },
     {
+      "title": "شرطة لندن تعتقل بريطانياً - إيرانياً في تحقيق بشأن قاعدة «فيرفورد» الجوية",
+      "url": "https://aawsat.com/node/5324908",
+      "category": "دولي",
+      "published": "Thu, 01 Oct 2026 18:54:28 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "توقيف بريطاني - إيراني بشبهة الإرهاب في قضية «فيرفورد»",
+      "url": "https://aawsat.com/node/5324906",
+      "category": "دولي",
+      "published": "Thu, 01 Oct 2026 18:51:55 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "واشنطن تخشى سرقة الصين نماذج الذكاء الاصطناعي الأميركية",
       "url": "https://aawsat.com/node/5324902",
       "category": "دولي",
@@ -603,22 +623,6 @@
       "url": "https://aawsat.com/node/5324622",
       "category": "دولي",
       "published": "Thu, 01 Oct 2026 07:41:04 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ألمانيا: القبض على سوري بتهمة ارتكاب جرائم حرب في بلاده",
-      "url": "https://aawsat.com/node/5324487",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 19:54:11 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "سانشيز يعتذر من ماكرون لرفض مجلس الشيوخ الإسباني الموافقة على معاهدة الصداقة",
-      "url": "https://aawsat.com/node/5324441",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 18:10:15 +0100",
       "breaking": false,
       "watch_topics": []
     }
