@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T10:56:45.882351+00:00",
+  "updated_at": "2026-10-01T11:06:07.997821+00:00",
   "items": [
     {
       "title": "رئيس البرلمان: العراق لن يكون ساحة لتصفية الصراعات أو ممراً للاعتداء على الآخرين",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
+    },
+    {
+      "title": "من خنافس ذهبية إلى اكتشافات داروين: متحف رقمي جديد يعرض ملايين القطع ويُحدث \"نقلة هائلة\" في فهمنا للعالم - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c5pve9vzz1y3o",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-10-01T10:56:00+00:00",
+      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c5pve9vzz1y3o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6b8ff9ed6e8d.html"
     },
     {
       "title": "صادرات النفط العراقية تقفز.. 5 مليارات دولار إيرادات خلال أيلول",
@@ -87,8 +103,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-10-01T10:21:00+00:00",
-      "image": "./assets/news/95aa6161612753afff46c2af.jpg",
-      "original_image": "./assets/news/95aa6161612753afff46c2af.jpg",
+      "image": "./assets/news/6b9df54425eb5f41487f4d43.jpg",
+      "original_image": "./assets/news/6b9df54425eb5f41487f4d43.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577616/%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%B3%D8%B1%D8%A7%D8%AD-601-%D9%86%D8%B2%D9%8A%D9%84%D8%A7%D9%8B-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D9%8A%D9%84%D9%88%D9%84",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -416,22 +432,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5304c0cede86.html"
-    },
-    {
-      "title": "من خنافس ذهبية إلى اكتشافات داروين: متحف رقمي جديد يعرض ملايين القطع ويحدث \"نقلة هائلة\" في فهمنا للعالم - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c5pve9vzz1y3o",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-01T07:28:33+00:00",
-      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c5pve9vzz1y3o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7ef9ff282189.html"
     },
     {
       "title": "طهران تدعو بغداد الى حماية العلاقات من العقوبات الاميركية",

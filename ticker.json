@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T10:56:52.066477+00:00",
+  "updated_at": "2026-10-01T11:06:11.575020+00:00",
   "latest": [
     {
       "title": "الحرس الثوري الإيراني: طرد أميركا ثمرة صمود العراقيين",
@@ -107,14 +107,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/cm4gkn14xde1o",
       "category": "عراق",
       "published": "2026-10-01T06:51:38+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "من خنافس ذهبية إلى اكتشافات داروين: متحف رقمي جديد يعرض ملايين القطع ويحدث \"نقلة هائلة\" في فهمنا للعالم - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c5pve9vzz1y3o",
-      "category": "عراق",
-      "published": "2026-10-01T07:28:33+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -235,6 +227,14 @@
       "url": "https://www.alsumaria.tv/news/international/577615/%D8%B1%D9%88%D9%8A%D8%AA%D8%B1%D8%B2-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A8%D9%8A%D9%86-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%88%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
       "category": "عراق",
       "published": "2026-10-01T10:08:05+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "خرافة أم حقيقة: هل يساعد وضع البصل النيء أسفل القدمين في علاج نزلات البرد؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c8x2z26l3w1do",
+      "category": "عراق",
+      "published": "2026-10-01T10:15:38+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -462,50 +462,10 @@
       ]
     },
     {
-      "title": "«البنتاغون» يختار «بوينغ» لتطوير الجيل التالي من المقاتلات الهجومية",
-      "url": "https://aawsat.com/node/5324144",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 00:55:03 +0100",
-      "breaking": true,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "«توبيخ دبلوماسي»... روبيو «طرد» الوفد الإيراني من أميركا بعد تعثر المفاوضات",
-      "url": "https://aawsat.com/node/5324621",
-      "category": "دولي",
-      "published": "Thu, 01 Oct 2026 07:39:11 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
-    },
-    {
-      "title": "أميركا تفرض عقوبات على 13 فرداً وكياناً لمساعدتهم إيران على شراء أسلحة",
-      "url": "https://aawsat.com/node/5324055",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 19:54:53 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
-    },
-    {
       "title": "«عدوى الاحتجاج» تجتاح المدارس الفرنسية وتستنفر الأجهزة الأمنية",
       "url": "https://aawsat.com/node/5324598",
       "category": "دولي",
       "published": "Thu, 01 Oct 2026 06:08:56 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "مقتل رجل في نيويورك دهساً بعدما علقت حقيبته بأبواب قطار أنفاق",
-      "url": "https://aawsat.com/node/5324067",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 20:47:25 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -630,6 +590,38 @@
       "published": "Wed, 30 Sep 2026 15:46:40 +0100",
       "breaking": false,
       "watch_topics": []
+    },
+    {
+      "title": "«أساليب متهورة» أمام مدرسة طفليه... متحدث باسم الأمير هاري يندد بتصرفات الباباراتزي",
+      "url": "https://aawsat.com/node/5324372",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 15:32:43 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "نحو 50 من المحاربين بأوكرانيا يدخلون «الدوما» الروسي",
+      "url": "https://aawsat.com/node/5324371",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 15:31:25 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "«واحد يدخل وآخر يخرج»... محادثات فرنسية - بريطانية لإنهاء اتفاق بشأن الهجرة",
+      "url": "https://aawsat.com/node/5324368",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 15:23:50 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "مداهمات كاسحة لشبكة تروّج لموسيقى النازيين الجدد المحرضة على الكراهية عبر أوروبا",
+      "url": "https://aawsat.com/node/5324348",
+      "category": "دولي",
+      "published": "Wed, 30 Sep 2026 14:32:51 +0100",
+      "breaking": false,
+      "watch_topics": []
     }
   ],
   "breaking": [
@@ -714,28 +706,10 @@
       "watch_topics": []
     },
     {
-      "title": "«البنتاغون» يختار «بوينغ» لتطوير الجيل التالي من المقاتلات الهجومية",
-      "url": "https://aawsat.com/node/5324144",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 00:55:03 +0100",
-      "breaking": true,
-      "watch_topics": [
-        "أمريكا"
-      ]
-    },
-    {
       "title": "«عدوى الاحتجاج» تجتاح المدارس الفرنسية وتستنفر الأجهزة الأمنية",
       "url": "https://aawsat.com/node/5324598",
       "category": "دولي",
       "published": "Thu, 01 Oct 2026 06:08:56 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "مقتل رجل في نيويورك دهساً بعدما علقت حقيبته بأبواب قطار أنفاق",
-      "url": "https://aawsat.com/node/5324067",
-      "category": "دولي",
-      "published": "Tue, 29 Sep 2026 20:47:25 +0100",
       "breaking": true,
       "watch_topics": []
     }
