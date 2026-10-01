@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T10:42:11.596060+00:00",
+  "updated_at": "2026-10-01T10:56:52.066477+00:00",
   "latest": [
     {
       "title": "الحرس الثوري الإيراني: طرد أميركا ثمرة صمود العراقيين",
@@ -13,10 +13,10 @@
       ]
     },
     {
-      "title": "سوريا: قتلى وجرحى في هجوم على حافلة في حمص، وانفجار خط غاز يعطّل ثلاث محطات لتوليد الكهرباء - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c69w4wrl4re8o",
+      "title": "هل يمكن أن نثق بتحذيرات بيل غيتس من الذكاء الاصطناعي بعد علاقته بإبستين؟- مقال في الغارديان - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c8vgygw793dqo",
       "category": "عراق",
-      "published": "2026-10-01T07:12:30+00:00",
+      "published": "2026-10-01T10:21:24+00:00",
       "breaking": true,
       "watch_topics": []
     },
@@ -99,14 +99,6 @@
       "url": "https://964media.com/721843/",
       "category": "عراق",
       "published": "2026-10-01T06:10:27+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ممثلون عن الشاباك الإسرائيلي يتوجهون إلى دبي",
-      "url": "https://www.alsumaria.tv/news/international/577598/%D9%85%D9%85%D8%AB%D9%84%D9%88%D9%86-%D8%B9%D9%86-%D8%A7%D9%84%D8%B4%D8%A7%D8%A8%D8%A7%D9%83-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%AC%D9%87%D9%88%D9%86-%D8%A5%D9%84%D9%89-%D8%AF%D8%A8%D9%8A",
-      "category": "عراق",
-      "published": "2026-10-01T06:44:39+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -235,6 +227,14 @@
       "url": "https://www.alsumaria.tv/Entertainment-News/577613/sports/%D9%85%D8%B5%D8%A7%D8%B1%D8%B9-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%AA%D9%88%D8%AC-%D8%A8%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%86%D8%B2%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A2%D8%B3%D9%8A%D8%A7%D8%AF-%D9%86%D8%A7%D8%BA%D9%88%D9%8A%D8%A7",
       "category": "عراق",
       "published": "2026-10-01T09:49:19+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "رويترز: اجتماع بين مسؤولين سوريين وحزب الله في تركيا",
+      "url": "https://www.alsumaria.tv/news/international/577615/%D8%B1%D9%88%D9%8A%D8%AA%D8%B1%D8%B2-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A8%D9%8A%D9%86-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%88%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+      "category": "عراق",
+      "published": "2026-10-01T10:08:05+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -634,10 +634,10 @@
   ],
   "breaking": [
     {
-      "title": "سوريا: قتلى وجرحى في هجوم على حافلة في حمص، وانفجار خط غاز يعطّل ثلاث محطات لتوليد الكهرباء - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c69w4wrl4re8o",
+      "title": "هل يمكن أن نثق بتحذيرات بيل غيتس من الذكاء الاصطناعي بعد علاقته بإبستين؟- مقال في الغارديان - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c8vgygw793dqo",
       "category": "عراق",
-      "published": "2026-10-01T07:12:30+00:00",
+      "published": "2026-10-01T10:21:24+00:00",
       "breaking": true,
       "watch_topics": []
     },
