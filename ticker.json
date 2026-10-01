@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-01T18:22:09.631269+00:00",
+  "updated_at": "2026-10-01T18:43:30.640107+00:00",
   "latest": [
+    {
+      "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
+      "url": "https://www.alsumaria.tv/news/alsumariaspecial/577648/%d9%87%d9%84-%d9%84%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%8a%d8%af-%d8%a8%d8%a7%d9%84%d9%87%d8%ac%d9%88%d9%85-%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%b5%d8%a7%d8%af%d9%82%d9%88%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Thu, 01 Oct 2026 18:41:00 GMT",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
     {
       "title": "ترامب يحشد 3 حاملات طائرات حول إيران وطهران تستعد للرد من بغداد حتى بيروت",
       "url": "https://964media.com/721959/",
@@ -106,14 +116,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c6lyeyrn32xdo",
       "category": "عراق",
       "published": "2026-10-01T12:58:20+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "شقيقة رونالدو تهاجم الإعلام والجماهير البرتغالية.. حسود ويفتقر الى الاحترام",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577630/sports/%D8%B4%D9%82%D9%8A%D9%82%D8%A9-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D8%AA%D9%87%D8%A7%D8%AC%D9%85-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84%D9%8A%D8%A9-%D8%AD%D8%B3%D9%88%D8%AF-%D9%88%D9%8A%D9%81%D8%AA%D9%82%D8%B1-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA",
-      "category": "عراق",
-      "published": "2026-10-01T13:45:23+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -310,6 +312,16 @@
       "watch_topics": []
     },
     {
+      "title": "السعودية: حادثة «فلاي دبي» سببها اعتداء على قائد الطائرة من مساعده",
+      "url": "https://aawsat.com/node/5324923",
+      "category": "مشرق أوسط",
+      "published": "Thu, 01 Oct 2026 19:37:31 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "السعودية تدعم موازنة الحكومة اليمنية بـ59.7 مليون دولار",
       "url": "https://aawsat.com/node/5324783",
       "category": "مشرق أوسط",
@@ -420,16 +432,6 @@
       ]
     },
     {
-      "title": "وزير الدفاع السعودي ونائب رئيس الإمارات يبحثان في الرياض تطوير العلاقات",
-      "url": "https://aawsat.com/node/5323908",
-      "category": "مشرق أوسط",
-      "published": "Tue, 29 Sep 2026 14:50:14 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
       "url": "https://aawsat.com/node/5322757",
       "category": "مشرق أوسط",
@@ -518,6 +520,14 @@
       "watch_topics": [
         "أمريكا"
       ]
+    },
+    {
+      "title": "زيلينسكي: أوكرانيا أدخلت صاروخاً باليستياً تكتيكياً جديداً في عملياتها العسكرية",
+      "url": "https://aawsat.com/node/5324921",
+      "category": "دولي",
+      "published": "Thu, 01 Oct 2026 19:34:22 +0100",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "ملك إسبانيا يزور سبتة ومليلية",
@@ -614,17 +624,19 @@
       "published": "Thu, 01 Oct 2026 08:56:58 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "فرنسا أمام ثلاثية صعبة: اقتصاد متعثر وديون وشارع غاضب",
-      "url": "https://aawsat.com/node/5324636",
-      "category": "دولي",
-      "published": "Thu, 01 Oct 2026 08:30:10 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
+    {
+      "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
+      "url": "https://www.alsumaria.tv/news/alsumariaspecial/577648/%d9%87%d9%84-%d9%84%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%8a%d8%af-%d8%a8%d8%a7%d9%84%d9%87%d8%ac%d9%88%d9%85-%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%b5%d8%a7%d8%af%d9%82%d9%88%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Thu, 01 Oct 2026 18:41:00 GMT",
+      "breaking": true,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
     {
       "title": "زين العراق تعلن الاطلاق الرسمي لمبيعات اجهزة iPhone 18 Pro الجديدة في العراق باعتبارها الوجهة الرسمية والموثوقة لمنتجات شركة Apple العالمية",
       "url": "https://www.alsumaria.tv/news/technology/577637/%D8%B2%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A-%D9%84%D9%85%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA-%D8%A7%D8%AC%D9%87%D8%B2%D8%A9-iphone-18-pro-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A",
