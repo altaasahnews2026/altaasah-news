@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T21:29:33.763820+00:00",
+  "updated_at": "2026-10-01T21:45:47.287454+00:00",
   "items": [
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
@@ -34,13 +34,45 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8d14d06dc129.html"
     },
     {
+      "title": "سماع دوي انفجارات في صنعاء، والتحالف يعترض مسيرات وصواريخ حوثية باتجاه جنوب السعودية - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-10-01T21:37:12+00:00",
+      "image": "./assets/news/2c8e20f023a7d14ac16b1138.jpg",
+      "original_image": "./assets/news/2c8e20f023a7d14ac16b1138.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/acd02e057869.html"
+    },
+    {
+      "title": "طهران تكشف حقيقة طرح مقترح نووي مقابل تخفيف العقوبات",
+      "url": "https://www.alsumaria.tv/news/international/577659/%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D9%83%D8%B4%D9%81-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%B7%D8%B1%D8%AD-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%86%D9%88%D9%88%D9%8A-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-10-01T21:36:00+00:00",
+      "image": "./assets/news/5d61ae6841b012f449f6b8db.jpg",
+      "original_image": "./assets/news/5d61ae6841b012f449f6b8db.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577659/%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D9%83%D8%B4%D9%81-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%B7%D8%B1%D8%AD-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%86%D9%88%D9%88%D9%8A-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fa9f04535a6d.html"
+    },
+    {
       "title": "ترامب يلمح إلى صلة إيران بحادث طائرة فلاي دبي",
       "url": "https://www.alsumaria.tv/news/international/577658/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%84%D9%85%D8%AD-%D8%A5%D9%84%D9%89-%D8%B5%D9%84%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D8%AD%D8%A7%D8%AF%D8%AB-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A",
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-10-01T21:05:15+00:00",
-      "image": "./assets/news/8fa2826aac2ff3afd7e9bf31.jpg",
-      "original_image": "./assets/news/8fa2826aac2ff3afd7e9bf31.jpg",
+      "image": "./assets/news/1ff757478e1078cdea4b6e98.jpg",
+      "original_image": "./assets/news/1ff757478e1078cdea4b6e98.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577658/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%84%D9%85%D8%AD-%D8%A5%D9%84%D9%89-%D8%B5%D9%84%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D8%AD%D8%A7%D8%AF%D8%AB-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%81%D9%84%D8%A7%D9%8A-%D8%AF%D8%A8%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -112,22 +144,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/04aa56ae8495.html"
-    },
-    {
-      "title": "السعودية تتهم جماعة أنصار الله باستهداف محطة لتوزيع الكهرباء في المدينة المنورة، والجماعة تنفي - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-10-01T20:03:28+00:00",
-      "image": "./assets/news/2c8e20f023a7d14ac16b1138.jpg",
-      "original_image": "./assets/news/2c8e20f023a7d14ac16b1138.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/821f52b9fc47.html"
     },
     {
       "title": "الداخلية تكشف بالأرقام عن عمليات تخص الأمن السيبراني في العراق",
@@ -512,22 +528,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/eb55becfaaba.html"
-    },
-    {
-      "title": "محافظ كربلاء يدعو لإقامة خليجي 28 المقبلة في كربلاء او بالتشارك مع البصرة",
-      "url": "https://www.alsumaria.tv/news/localnews/577639/%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D9%83%D8%B1%D8%A8%D9%84%D8%A7%D8%A1-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D8%A5%D9%82%D8%A7%D9%85%D8%A9-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-28-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9-%D9%81%D9%8A-%D9%83%D8%B1%D8%A8%D9%84%D8%A7%D8%A1-%D8%A7%D9%88-%D8%A8%D8%A7%D9%84%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%85%D8%B9-%D8%A7%D9%84%D8%A8",
-      "category": "محليات",
-      "region": "البصرة",
-      "published": "2026-10-01T15:30:55+00:00",
-      "image": "./assets/news/183f52bcd01c2b412b00e515.png",
-      "original_image": "./assets/news/183f52bcd01c2b412b00e515.png",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577639/%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D9%83%D8%B1%D8%A8%D9%84%D8%A7%D8%A1-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D8%A5%D9%82%D8%A7%D9%85%D8%A9-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-28-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9-%D9%81%D9%8A-%D9%83%D8%B1%D8%A8%D9%84%D8%A7%D8%A1-%D8%A7%D9%88-%D8%A8%D8%A7%D9%84%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%85%D8%B9-%D8%A7%D9%84%D8%A8",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "البصرة",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3826f3867c1a.html"
     },
     {
       "title": "العراق يسترد “علياء حسوني” من لبنان لاختلاسها نحو 4 مليارات من صحة واسط",
