@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T20:34:03.067925+00:00",
+  "updated_at": "2026-10-01T20:50:40.616916+00:00",
   "items": [
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
@@ -34,13 +34,45 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8d14d06dc129.html"
     },
     {
+      "title": "غارات تستهدف صنعاء وثلاث محافظات",
+      "url": "https://www.alsumaria.tv/news/international/577657/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%B5%D9%86%D8%B9%D8%A7%D8%A1-%D9%88%D8%AB%D9%84%D8%A7%D8%AB-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA",
+      "category": "رياضة",
+      "region": "العراق",
+      "published": "2026-10-01T20:33:46+00:00",
+      "image": "./assets/news/7a6c799e7e07e6566a0628d4.jpg",
+      "original_image": "./assets/news/7a6c799e7e07e6566a0628d4.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577657/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%B5%D9%86%D8%B9%D8%A7%D8%A1-%D9%88%D8%AB%D9%84%D8%A7%D8%AB-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5d1323f5960b.html"
+    },
+    {
+      "title": "بيان إيراني حول العراق: نحترم سيادتكم.. ترامب يثير فتنة ونريد أن نطير بشكل طبيعي",
+      "url": "https://964media.com/722062/",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-10-01T20:24:56+00:00",
+      "image": "./assets/news/4d0ac70eeaa594734036b0ed.jpg",
+      "original_image": "./assets/news/4d0ac70eeaa594734036b0ed.jpg",
+      "source_url": "https://964media.com/722062/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/eedda105e102.html"
+    },
+    {
       "title": "طهران تطالب بعودة حركة الطيران بين إيران والعراق",
       "url": "https://www.alsumaria.tv/news/international/577656/%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%B9%D9%88%D8%AF%D8%A9-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D9%8A%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "category": "عربي ودولي",
       "region": "عربي ودولي",
       "published": "2026-10-01T20:05:00+00:00",
-      "image": "./assets/news/ae7458c84eea47f6c2e3bf15.jpg",
-      "original_image": "./assets/news/ae7458c84eea47f6c2e3bf15.jpg",
+      "image": "./assets/news/5d89c9fae3ba50638cb0e985.jpg",
+      "original_image": "./assets/news/5d89c9fae3ba50638cb0e985.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577656/%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%B9%D9%88%D8%AF%D8%A9-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D9%8A%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -71,8 +103,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-10-01T20:00:00+00:00",
-      "image": "./assets/news/00d7deb9b29a4b989dea01fb.jpg",
-      "original_image": "./assets/news/00d7deb9b29a4b989dea01fb.jpg",
+      "image": "./assets/news/934631569179d5e24a3eb753.jpg",
+      "original_image": "./assets/news/934631569179d5e24a3eb753.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/577655/%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%A8%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D8%B9%D9%86-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D8%AE%D8%B5-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -480,22 +512,6 @@
       "report": false,
       "governorate": "كركوك",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/586a3362ae5e.html"
-    },
-    {
-      "title": "النجباء: خروج امريكا نصر.. اما تصغر سفارتهم ببغداد او تبنى لبغداد بحجمها بأمريكا",
-      "url": "https://www.alsumaria.tv/news/localnews/577636/%D8%A7%D9%84%D9%86%D8%AC%D8%A8%D8%A7%D8%A1-%D8%AE%D8%B1%D9%88%D8%AC-%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D9%86%D8%B5%D8%B1-%D8%A7%D9%85%D8%A7-%D8%AA%D8%B5%D8%BA%D8%B1-%D8%B3%D9%81%D8%A7%D8%B1%D8%AA%D9%87%D9%85-%D8%A8%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%88-%D8%AA%D8%A8%D9%86%D9%89-%D9%84%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A8%D8%AD%D8%AC%D9%85%D9%87%D8%A7",
-      "category": "عربي ودولي",
-      "region": "بغداد",
-      "published": "2026-10-01T14:44:21+00:00",
-      "image": "./assets/news/c236b547c42b2f5309193e55.jpg",
-      "original_image": "./assets/news/c236b547c42b2f5309193e55.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577636/%D8%A7%D9%84%D9%86%D8%AC%D8%A8%D8%A7%D8%A1-%D8%AE%D8%B1%D9%88%D8%AC-%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D9%86%D8%B5%D8%B1-%D8%A7%D9%85%D8%A7-%D8%AA%D8%B5%D8%BA%D8%B1-%D8%B3%D9%81%D8%A7%D8%B1%D8%AA%D9%87%D9%85-%D8%A8%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A7%D9%88-%D8%AA%D8%A8%D9%86%D9%89-%D9%84%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A8%D8%AD%D8%AC%D9%85%D9%87%D8%A7",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/08e886c1c89f.html"
     },
     {
       "title": "العراق يسترد “علياء حسوني” من لبنان لاختلاسها نحو 4 مليارات من صحة واسط",
