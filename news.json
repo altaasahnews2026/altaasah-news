@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T18:58:11.029604+00:00",
+  "updated_at": "2026-10-01T19:10:40.465970+00:00",
   "items": [
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
@@ -199,8 +199,8 @@
       "category": "سياسة",
       "region": "بغداد",
       "published": "2026-10-01T17:00:31+00:00",
-      "image": "./assets/news/7dbe5b0c71f076b5bbf40094.jpg",
-      "original_image": "./assets/news/7dbe5b0c71f076b5bbf40094.jpg",
+      "image": "./assets/news/df14a2aa5cbc10ce6ae56cd3.jpg",
+      "original_image": "./assets/news/df14a2aa5cbc10ce6ae56cd3.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/577646/%D8%BA%D8%AF%D8%A7%D9%8B-%D8%A7%D8%B3%D8%AA%D8%B9%D8%B1%D8%A7%D8%B6-%D8%AC%D9%88%D9%8A-%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -231,8 +231,8 @@
       "category": "محليات",
       "region": "نينوى",
       "published": "2026-10-01T16:50:39+00:00",
-      "image": "./assets/news/f606f3fe52fe6a3167e3d924.jpg",
-      "original_image": "./assets/news/f606f3fe52fe6a3167e3d924.jpg",
+      "image": "./assets/news/ce636196db0a3fdffaee6fd5.jpg",
+      "original_image": "./assets/news/ce636196db0a3fdffaee6fd5.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577643/%D8%B3%D9%82%D9%88%D8%B7-%D8%B7%D9%81%D9%84-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A8%D8%A6%D8%B1-%D9%81%D9%8A-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%86%D9%82%D8%A7%D8%B0",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -279,8 +279,8 @@
       "category": "اقتصاد",
       "region": "النجف",
       "published": "2026-10-01T16:20:11+00:00",
-      "image": "./assets/news/bc3ce16d577264488b9f44cf.jpg",
-      "original_image": "./assets/news/bc3ce16d577264488b9f44cf.jpg",
+      "image": "./assets/news/ef23d542d646462b3b974c2d.jpg",
+      "original_image": "./assets/news/ef23d542d646462b3b974c2d.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577642/%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%AA%D8%AD%D8%AF%D8%AF-%D8%AA%D8%B3%D8%B9%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D9%84%D8%AF%D8%A7%D8%AA-%D9%84%D9%84%D8%AE%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%8A-%D9%88%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -368,22 +368,6 @@
       "report": false,
       "governorate": "كركوك",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/586a3362ae5e.html"
-    },
-    {
-      "title": "ترامب يحشد 3 حاملات طائرات حول إيران وطهران تستعد للرد من بغداد حتى بيروت",
-      "url": "https://964media.com/721959/",
-      "category": "عربي ودولي",
-      "region": "بغداد",
-      "published": "2026-10-01T15:18:52+00:00",
-      "image": "./assets/news/5d3dbe40da7318c3327c42f9.jpg",
-      "original_image": "./assets/news/5d3dbe40da7318c3327c42f9.jpg",
-      "source_url": "https://964media.com/721959/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/944d84c316fd.html"
     },
     {
       "title": "النجباء: خروج امريكا نصر.. اما تصغر سفارتهم ببغداد او تبنى لبغداد بحجمها بأمريكا",
@@ -512,22 +496,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e98e276842cc.html"
-    },
-    {
-      "title": "“الزيدي يتوعد المقصر مهما كانت رتبته”.. 72 ساعة لكشف ملابسات عملية آلتون كوبري",
-      "url": "https://964media.com/721681/",
-      "category": "محليات",
-      "region": "كركوك",
-      "published": "2026-09-30T12:59:47+00:00",
-      "image": "./assets/news/1800e3fed921ca3ea3982d3b.jpg",
-      "original_image": "./assets/news/1800e3fed921ca3ea3982d3b.jpg",
-      "source_url": "https://964media.com/721681/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": true,
-      "report": false,
-      "governorate": "كركوك",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/00729af69c75.html"
     }
   ]
 }
