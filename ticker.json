@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T12:49:33.903530+00:00",
+  "updated_at": "2026-10-01T13:06:00.297647+00:00",
   "latest": [
     {
       "title": "ترامب يرجّح استئناف قصف إيران بعد انتخابات تشرين الثاني",
@@ -206,14 +206,6 @@
       "watch_topics": []
     },
     {
-      "title": "حبس فريق صحفي كامل يعيد ملف حرية الصحافة في مصر إلى الواجهة محلياً ودولياً - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqj9x9vz8v33o",
-      "category": "عراق",
-      "published": "2026-10-01T11:39:20+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "\"فلاي دبي\" تعلّق الرحلات الجوية من وإلى إسرائيل، والقضاء الإماراتي يباشر التحقيق في الحادثة - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
       "category": "عراق",
@@ -235,6 +227,41 @@
       "category": "عراق",
       "published": "2026-10-01T12:09:00+00:00",
       "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "فوكس نيوز تنشر صورة لانسحاب آخر جندي وطائرة أميركية من العراق",
+      "url": "https://www.alsumaria.tv/news/security/577625/%D9%81%D9%88%D9%83%D8%B3-%D9%86%D9%8A%D9%88%D8%B2-%D8%AA%D9%86%D8%B4%D8%B1-%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%A2%D8%AE%D8%B1-%D8%AC%D9%86%D8%AF%D9%8A-%D9%88%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
+      "category": "عراق",
+      "published": "2026-10-01T12:20:00+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "قطر: نعمل على بناء أرضية مشتركة بين واشنطن وطهران",
+      "url": "https://aawsat.com/node/5323878",
+      "category": "مشرق أوسط",
+      "published": "Tue, 29 Sep 2026 13:51:02 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "تحذيرات يمنية من أخطار حوثية عابرة للحدود",
+      "url": "https://aawsat.com/node/5324724",
+      "category": "مشرق أوسط",
+      "published": "Thu, 01 Oct 2026 12:16:42 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مقابر حوثية جديدة لاستيعاب الأعداد المتصاعدة من القتلى",
+      "url": "https://aawsat.com/node/5324248",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 10:54:04 +0100",
+      "breaking": true,
       "watch_topics": []
     },
     {
@@ -294,6 +321,136 @@
       "watch_topics": []
     },
     {
+      "title": "آل الشيخ: «الشورى» يستلهم الإنجاز والمبادرة من «رؤية السعودية 2030»",
+      "url": "https://aawsat.com/node/5324488",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 19:57:26 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "السعودية: لا تهاون في حفظ أمننا وسنرد بحزم على أي تهديد",
+      "url": "https://aawsat.com/node/5324445",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 18:18:07 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "دي مايو لـ«الشرق الأوسط»: قمة السعودية تدفع لشراكة خليجية - أوروبية أكثر طموحاً",
+      "url": "https://aawsat.com/node/5324398",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 16:23:54 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "ولي العهد السعودي يلقي الخطاب السنوي بـ«مجلس الشورى»",
+      "url": "https://aawsat.com/node/5324341",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 14:19:41 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "السعودية: مؤتمر دولي يوصي بتوظيف الذكاء الاصطناعي في حماية الأمن الفكري",
+      "url": "https://aawsat.com/node/5324292",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 12:30:07 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "محادثات سعودية ــ إماراتية في الرياض",
+      "url": "https://aawsat.com/node/5324143",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 00:54:12 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "السعودية وبلغاريا تبحثان تطوير التعاون العسكري والدفاعي",
+      "url": "https://aawsat.com/node/5324073",
+      "category": "مشرق أوسط",
+      "published": "Tue, 29 Sep 2026 21:04:47 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "السعودية تؤكد رفض استخدام الممرات الحيوية أداةً للإضرار بمصالح الدول",
+      "url": "https://aawsat.com/node/5323989",
+      "category": "مشرق أوسط",
+      "published": "Tue, 29 Sep 2026 17:22:51 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "ولي العهد السعودي ونائب الرئيس الإماراتي يستعرضان تطورات المنطقة",
+      "url": "https://aawsat.com/node/5323930",
+      "category": "مشرق أوسط",
+      "published": "Tue, 29 Sep 2026 15:27:55 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "ولي العهد السعودي وأمير قطر يبحثان هاتفيا مستجدات الأوضاع في المنطقة",
+      "url": "https://aawsat.com/node/5323911",
+      "category": "مشرق أوسط",
+      "published": "Tue, 29 Sep 2026 14:56:35 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "وزير الدفاع السعودي ونائب رئيس الإمارات يبحثان في الرياض تطوير العلاقات",
+      "url": "https://aawsat.com/node/5323908",
+      "category": "مشرق أوسط",
+      "published": "Tue, 29 Sep 2026 14:50:14 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "السعودية تعلن «زوال الخطر» بعد إطلاق الإنذار المبكر في نجران",
+      "url": "https://aawsat.com/node/5323844",
+      "category": "مشرق أوسط",
+      "published": "Tue, 29 Sep 2026 12:28:12 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
+      "title": "ولي العهد السعودي يتلقى اتصالاً هاتفياً من رئيس مجلس السيادة الانتقالي السوداني",
+      "url": "https://aawsat.com/node/5323790",
+      "category": "مشرق أوسط",
+      "published": "Tue, 29 Sep 2026 10:42:19 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
+    },
+    {
       "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
       "url": "https://aawsat.com/node/5322757",
       "category": "مشرق أوسط",
@@ -302,102 +459,6 @@
       "watch_topics": [
         "أمريكا"
       ]
-    },
-    {
-      "title": "كوريا الجنوبية تحث جارتها الشمالية على استئناف الحوار",
-      "url": "https://aawsat.com/node/5324594",
-      "category": "مشرق أوسط",
-      "published": "Thu, 01 Oct 2026 05:55:13 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "أفغانستان تتهم باكستان بقتل مدنيين في غارات شملت ولاية هلمند",
-      "url": "https://aawsat.com/node/5324593",
-      "category": "مشرق أوسط",
-      "published": "Thu, 01 Oct 2026 05:49:29 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الصين تمنح إعفاء نادراً لمغنية بعد أدائها أغنية غير مصرح بها مسبقاً",
-      "url": "https://aawsat.com/node/5324453",
-      "category": "مشرق أوسط",
-      "published": "Wed, 30 Sep 2026 18:42:23 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "شي يدعو إلى تعزيز الجهود نحو إعادة التوحيد مع تايوان",
-      "url": "https://aawsat.com/node/5324382",
-      "category": "مشرق أوسط",
-      "published": "Wed, 30 Sep 2026 15:51:55 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الصين تفتتح منشأة عسكرية مشتركة في لاوس",
-      "url": "https://aawsat.com/node/5324364",
-      "category": "مشرق أوسط",
-      "published": "Wed, 30 Sep 2026 15:20:11 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "باكستان: لن نسمح للهند باستخدام المياه «سلاحاً»",
-      "url": "https://aawsat.com/node/5324356",
-      "category": "مشرق أوسط",
-      "published": "Wed, 30 Sep 2026 14:58:28 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "«الدفاع الأفغانية» تقول إنها قتلت 41 متمرداً عبروا الحدود من باكستان",
-      "url": "https://aawsat.com/node/5324340",
-      "category": "مشرق أوسط",
-      "published": "Wed, 30 Sep 2026 14:19:13 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "أسرّة مزدوجة وتكييفات وشاشات كبيرة... إندونيسيا توقف مسؤولين بسبب زنازين سجن فاخرة",
-      "url": "https://aawsat.com/node/5324306",
-      "category": "مشرق أوسط",
-      "published": "Wed, 30 Sep 2026 12:52:35 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ولاية هندية توزع الذهب على المواليد الجدد لتعزيز الثقة بالنظام الصحي",
-      "url": "https://aawsat.com/node/5323488",
-      "category": "مشرق أوسط",
-      "published": "Mon, 28 Sep 2026 13:55:11 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "سيول تطالب كييف باعتذار بعد كشفها نقل جنديَّين كوريَّين شماليَّين إليها",
-      "url": "https://aawsat.com/node/5323321",
-      "category": "مشرق أوسط",
-      "published": "Mon, 28 Sep 2026 02:56:11 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "فيضانات بانكوك تجبر الآلاف من سكانها على اللجوء إلى مراكز إيواء",
-      "url": "https://aawsat.com/node/5323142",
-      "category": "مشرق أوسط",
-      "published": "Sun, 27 Sep 2026 14:40:49 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "رئيس كازاخستان يقيل وزير الدفاع بعد مصرع 14 عسكرياً خلال تدريبات بحرية",
-      "url": "https://aawsat.com/node/5323098",
-      "category": "مشرق أوسط",
-      "published": "Sun, 27 Sep 2026 12:14:47 +0100",
-      "breaking": false,
-      "watch_topics": []
     },
     {
       "title": "«البنتاغون» يختار «بوينغ» لتطوير الجيل التالي من المقاتلات الهجومية",
@@ -448,6 +509,14 @@
       "watch_topics": []
     },
     {
+      "title": "مقتل شخصين وفقدان ثالث بتحطم مروحية إجلاء طبي قبالة لوس أنجليس",
+      "url": "https://aawsat.com/node/5324770",
+      "category": "دولي",
+      "published": "Thu, 01 Oct 2026 13:50:05 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "مقتل رجل في نيويورك دهساً بعدما علقت حقيبته بأبواب قطار أنفاق",
       "url": "https://aawsat.com/node/5324067",
       "category": "دولي",
@@ -464,6 +533,14 @@
       "watch_topics": [
         "إيران"
       ]
+    },
+    {
+      "title": "روسيا تطرد دبلوماسيين مجريين رداً على خطوة مماثلة من بودابست",
+      "url": "https://aawsat.com/node/5324775",
+      "category": "دولي",
+      "published": "Thu, 01 Oct 2026 14:01:39 +0100",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "فرنسا تعترف بـ«مداهمات الميناء القديم» في مرسيليا جريمة ضد الإنسانية",
@@ -552,54 +629,6 @@
       "published": "Wed, 30 Sep 2026 18:09:03 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "روته: لا تهديدَ روسياً وشيكاً على دول «الناتو»",
-      "url": "https://aawsat.com/node/5324434",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 17:57:07 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "موسكو تلوّح بـ«النووي» و«الخارجية» تهدّد مراكز القرار في «ناتو» إذا تعرضت كالينينغراد لحصار",
-      "url": "https://aawsat.com/node/5324413",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 17:05:25 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الاستخبارات البريطانية تطلب من جامعات وقف التعاون مع معهد صيني",
-      "url": "https://aawsat.com/node/5324411",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 17:02:57 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بيرنهام يفتح باب العودة إلى الاتحاد الأوروبي",
-      "url": "https://aawsat.com/node/5324395",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 16:17:05 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "بلغاريا تدعو إلى حوار أوروبي مع روسيا يأخذ في الحسبان «الخطر» النووي",
-      "url": "https://aawsat.com/node/5324381",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 15:46:40 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "«أساليب متهورة» أمام مدرسة طفليه... متحدث باسم الأمير هاري يندد بتصرفات الباباراتزي",
-      "url": "https://aawsat.com/node/5324372",
-      "category": "دولي",
-      "published": "Wed, 30 Sep 2026 15:32:43 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -619,6 +648,22 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c8vgygw793dqo",
       "category": "عراق",
       "published": "2026-10-01T11:20:23+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "تحذيرات يمنية من أخطار حوثية عابرة للحدود",
+      "url": "https://aawsat.com/node/5324724",
+      "category": "مشرق أوسط",
+      "published": "Thu, 01 Oct 2026 12:16:42 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مقابر حوثية جديدة لاستيعاب الأعداد المتصاعدة من القتلى",
+      "url": "https://aawsat.com/node/5324248",
+      "category": "مشرق أوسط",
+      "published": "Wed, 30 Sep 2026 10:54:04 +0100",
       "breaking": true,
       "watch_topics": []
     },
@@ -701,6 +746,14 @@
       "url": "https://aawsat.com/node/5324598",
       "category": "دولي",
       "published": "Thu, 01 Oct 2026 06:08:56 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "مقتل شخصين وفقدان ثالث بتحطم مروحية إجلاء طبي قبالة لوس أنجليس",
+      "url": "https://aawsat.com/node/5324770",
+      "category": "دولي",
+      "published": "Thu, 01 Oct 2026 13:50:05 +0100",
       "breaking": true,
       "watch_topics": []
     },

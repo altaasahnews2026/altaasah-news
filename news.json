@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T12:49:20.435892+00:00",
+  "updated_at": "2026-10-01T13:05:54.127740+00:00",
   "items": [
     {
       "title": "رئيس البرلمان: العراق لن يكون ساحة لتصفية الصراعات أو ممراً للاعتداء على الآخرين",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
+    },
+    {
+      "title": "حبس فريق صحفي كامل يعيد ملف حرية الصحافة في مصر إلى الواجهة محلياً ودولياً - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqj9x9vz8v33o",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-10-01T12:55:55+00:00",
+      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cqj9x9vz8v33o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cce2f4ec3ad0.html"
     },
     {
       "title": "اجراء يخص جميع العقود في مؤسسات الدولة",
@@ -87,8 +103,8 @@
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-10-01T12:09:00+00:00",
-      "image": "./assets/news/185c9af3f66d9cbb8f34f26a.jpg",
-      "original_image": "./assets/news/185c9af3f66d9cbb8f34f26a.jpg",
+      "image": "./assets/news/1ee8dcbc7d60564209964cf3.jpg",
+      "original_image": "./assets/news/1ee8dcbc7d60564209964cf3.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/577624/sports/%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D8%AD%D8%B5%D8%AF-%D8%A3%D8%B9%D9%84%D9%89-%D8%AA%D9%83%D8%B1%D9%8A%D9%85-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A-%D9%85%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A8%D9%88%D9%8A%D9%86%D8%B3-%D8%A2%D9%8A%D8%B1%D8%B3",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -144,22 +160,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/38b1fc4779d1.html"
-    },
-    {
-      "title": "حبس فريق صحفي كامل يعيد ملف حرية الصحافة في مصر إلى الواجهة محلياً ودولياً - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqj9x9vz8v33o",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-10-01T11:39:20+00:00",
-      "image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "original_image": "./assets/news/7c4751a7c3033c0ff6261ba1.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cqj9x9vz8v33o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0d449aded15c.html"
     },
     {
       "title": "هل طُرد عراقجي والوفد الإيراني من نيويورك؟ طهران توضح",
