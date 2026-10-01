@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 500" role="img" aria-labelledby="title desc"><title id="title">التاسعة نيوز - نعلم لتعلم</title><desc id="desc">شعار التاسعة نيوز مع عبارة نعلم لتعلم</desc><defs><linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#176fc2"/><stop offset="1" stop-color="#168fe8"/></linearGradient><linearGradient id="dark" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111"/><stop offset="1" stop-color="#303030"/></linearGradient></defs><g transform="translate(25 25)"><path d="M225 5c95 0 172 77 172 172 0 83-47 143-123 181l-78 39 55-89 46-28c37-22 58-54 58-96 0-50-30-93-75-112L174 28c16-15 31-23 51-23z" fill="url(#blue)"/><path d="M225 5C129 5 53 81 53 177c0 83 47 144 123 181l78 39-55-89-46-28c-37-22-58-54-58-96 0-49 30-93 75-112l106-44C260 13 245 5 225 5z" fill="url(#dark)"/><circle cx="225" cy="177" r="73" fill="#fff"/><circle cx="225" cy="177" r="43" fill="#ed1c24"/></g><g transform="translate(430 55)"><text x="0" y="155" font-family="Arial,Helvetica,sans-serif" font-size="150" font-weight="900" font-style="italic" letter-spacing="-9" fill="#171717">NEW</text><text x="520" y="155" font-family="Arial,Helvetica,sans-serif" font-size="150" font-weight="900" font-style="italic" letter-spacing="-9" fill="#ed1c24">S</text><path d="M0 195 Q120 150 230 190 L800 190 Q835 190 865 174 Q838 204 800 208 L230 208 Q100 205 0 230 Q35 207 0 195z" fill="#176fc2"/><text x="810" y="270" direction="rtl" text-anchor="end" font-family="Tahoma,Arial,sans-serif" font-size="44" font-weight="700" fill="#dce9f7">التاسعة نيوز</text><text x="810" y="326" direction="rtl" text-anchor="end" font-family="Tahoma,Arial,sans-serif" font-size="34" font-weight="900" fill="#ffffff">نعلم لتعلم</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1640 924" role="img" aria-labelledby="title desc">
+<title id="title">التاسعة نيوز</title><desc id="desc">شعار التاسعة نيوز مع عبارة نعلم لتعلم</desc>
+<defs>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f5da9"/><stop offset="1" stop-color="#238ee2"/></linearGradient>
+ <linearGradient id="blue2" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#1767b8"/><stop offset="1" stop-color="#0a3d78"/></linearGradient>
+ <linearGradient id="black" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111111"/><stop offset="1" stop-color="#292929"/></linearGradient>
+</defs>
+<!-- التاسعة symbol -->
+<g transform="translate(65 55)">
+ <path d="M310 0c150 0 272 122 272 272 0 112-54 203-145 257l-112 66 83-136 55-35c48-31 76-83 76-143 0-77-45-143-113-174L303 91c-20-9-38-15-58-18C270 27 288 0 310 0z" fill="url(#blue)"/>
+ <path d="M310 0C160 0 38 122 38 272c0 112 54 203 145 257l112 66-83-136-55-35c-48-31-76-83-76-143 0-77 45-143 113-174l123-50c20-8 38-14 58-17C350 27 332 0 310 0z" fill="url(#black)"/>
+ <path d="M183 191c31-38 78-62 127-62 91 0 165 74 165 165 0 44-17 84-45 113l-71 42 45-72c16-25 24-53 24-83 0-66-53-119-119-119-31 0-60 12-82 33z" fill="#fff"/>
+ <circle cx="310" cy="294" r="83" fill="#ed1c24"/>
+</g>
+<!-- NEWS wordmark -->
+<g transform="translate(585 300) skewX(-9)">
+ <text x="0" y="0" font-family="Arial,Helvetica,sans-serif" font-size="178" font-weight="900" font-style="italic" letter-spacing="-13" fill="#151515">NEW</text>
+ <text x="485" y="0" font-family="Arial,Helvetica,sans-serif" font-size="178" font-weight="900" font-style="italic" letter-spacing="-13" fill="#ed1c24">S</text>
+</g>
+<!-- blue underline -->
+<path d="M575 515 Q680 458 815 502 L1535 502 Q1580 502 1610 481 Q1575 526 1520 534 L820 534 Q675 526 575 570 Q618 538 575 515z" fill="#1767b8"/>
+<!-- Arabic -->
+<text x="1530" y="620" direction="rtl" text-anchor="end" font-family="Tahoma,Arial,sans-serif" font-size="58" font-weight="700" fill="#d7e5f5">التاسعة نيوز</text>
+<text x="1530" y="695" direction="rtl" text-anchor="end" font-family="Tahoma,Arial,sans-serif" font-size="54" font-weight="900" fill="#ffffff">نعلم لتعلم</text>
+</svg>
