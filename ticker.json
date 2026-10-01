@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T17:35:08.886738+00:00",
+  "updated_at": "2026-10-01T17:50:25.184184+00:00",
   "latest": [
     {
       "title": "ترامب يحشد 3 حاملات طائرات حول إيران وطهران تستعد للرد من بغداد حتى بيروت",
@@ -40,14 +40,12 @@
       "watch_topics": []
     },
     {
-      "title": "الخنجر في ضيافة البارزاني.. بحثا مستقبل العراق بعد خروج الأميركان",
-      "url": "https://964media.com/721937/",
+      "title": "انفجار أعتدة موضوعة داخل كرفان جنوبي بغداد",
+      "url": "https://www.alsumaria.tv/news/security/577650/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A3%D8%B9%D8%AA%D8%AF%D8%A9-%D9%85%D9%88%D8%B6%D9%88%D8%B9%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D9%83%D8%B1%D9%81%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
       "category": "عراق",
-      "published": "2026-10-01T13:45:27+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "أمريكا"
-      ]
+      "published": "2026-10-01T17:35:22+00:00",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "العراق يعلن وصول شحنة دولار من أميركا في “يوم السيادة”",
@@ -80,14 +78,6 @@
       ]
     },
     {
-      "title": "الكتائب: الطيران الأميركي التجسسي والحربي لا زال يعمل بأجواء العراق",
-      "url": "https://964media.com/721654/",
-      "category": "عراق",
-      "published": "2026-09-30T11:37:34+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "“الزيدي يتوعد المقصر مهما كانت رتبته”.. 72 ساعة لكشف ملابسات عملية آلتون كوبري",
       "url": "https://964media.com/721681/",
       "category": "عراق",
@@ -116,14 +106,6 @@
       "url": "https://shafaq.com/ar/bbc-arabic/c6lyeyrn32xdo",
       "category": "عراق",
       "published": "2026-10-01T12:58:20+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "ماذا يعني الرقم 7 في كرة القدم.. من اول اسطورة خطر في بالك؟",
-      "url": "https://www.alsumaria.tv/Entertainment-News/577628/sports/%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%B9%D9%86%D9%8A-%D8%A7%D9%84%D8%B1%D9%82%D9%85-7-%D9%81%D9%8A-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D9%85%D9%86-%D8%A7%D9%88%D9%84-%D8%A7%D8%B3%D8%B7%D9%88%D8%B1%D8%A9-%D8%AE%D8%B7%D8%B1-%D9%81%D9%8A-%D8%A8%D8%A7%D9%84%D9%83%D8%9F",
-      "category": "عراق",
-      "published": "2026-10-01T13:03:18+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -232,10 +214,26 @@
       "watch_topics": []
     },
     {
-      "title": "كاليفورنيا تحظر زواج الأطفال، بينما يبقى قانونياً في 32 ولاية أمريكية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ckwyzyry4d3yo",
+      "title": "النجف تحدد تسعيرة المولدات للخطين العادي والذهبي",
+      "url": "https://www.alsumaria.tv/news/localnews/577642/%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D8%AA%D8%AD%D8%AF%D8%AF-%D8%AA%D8%B3%D8%B9%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D9%84%D8%AF%D8%A7%D8%AA-%D9%84%D9%84%D8%AE%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%8A-%D9%88%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A",
       "category": "عراق",
-      "published": "2026-10-01T16:00:04+00:00",
+      "published": "2026-10-01T16:20:11+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "المغرب: ما أهم التحديات التي تواجه المنصوري بعد تكليفها بتشكيل الحكومة؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cv62k2nw4kreo",
+      "category": "عراق",
+      "published": "2026-10-01T16:44:15+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "سقوط طفل داخل بئر في نينوى.. والدفاع المدني يواصل عمليات الإنقاذ",
+      "url": "https://www.alsumaria.tv/news/localnews/577643/%D8%B3%D9%82%D9%88%D8%B7-%D8%B7%D9%81%D9%84-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A8%D8%A6%D8%B1-%D9%81%D9%8A-%D9%86%D9%8A%D9%86%D9%88%D9%89-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%86%D9%82%D8%A7%D8%B0",
+      "category": "عراق",
+      "published": "2026-10-01T16:50:39+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -639,6 +637,14 @@
       "url": "https://www.alsumaria.tv/news/localnews/577641/%D9%83%D8%AA%D8%A7%D8%A6%D8%A8-%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%87-%D8%BA%D8%A7%D9%8A%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9-%D9%88%D9%87%D8%B0%D8%A7-%D9%85%D8%A7-%D8%AA%D8%AA%D8%B7%D9%84%D8%A8%D9%87-%D8%A7%D9%84",
       "category": "عراق",
       "published": "2026-10-01T16:13:35+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "انفجار أعتدة موضوعة داخل كرفان جنوبي بغداد",
+      "url": "https://www.alsumaria.tv/news/security/577650/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A3%D8%B9%D8%AA%D8%AF%D8%A9-%D9%85%D9%88%D8%B6%D9%88%D8%B9%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D9%83%D8%B1%D9%81%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "category": "عراق",
+      "published": "2026-10-01T17:35:22+00:00",
       "breaking": true,
       "watch_topics": []
     },
