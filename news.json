@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T21:57:52.879158+00:00",
+  "updated_at": "2026-10-01T22:08:47.687931+00:00",
   "items": [
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
@@ -34,12 +34,28 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8d14d06dc129.html"
     },
     {
+      "title": "نتنياهو يقول إن مساعد طيار رحلة \"فلاي دبي\" خضع لتلقين \"أفكار إسلامية متطرفة\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-10-01T21:54:11+00:00",
+      "image": "./assets/news/3f428722f50a978ea1926240.jpg",
+      "original_image": "./assets/news/3f428722f50a978ea1926240.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/810c2335e8e7.html"
+    },
+    {
       "title": "سماع دوي انفجارات في صنعاء، والتحالف يعترض مسيرات وصواريخ حوثية باتجاه جنوب السعودية - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
       "category": "أمن",
       "region": "العراق",
       "governorate": "",
-      "published": "2026-10-01T21:37:12+00:00",
+      "published": "2026-10-01T21:52:52+00:00",
       "image": "./assets/news/2c8e20f023a7d14ac16b1138.jpg",
       "original_image": "./assets/news/2c8e20f023a7d14ac16b1138.jpg",
       "source_url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
@@ -47,7 +63,7 @@
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/acd02e057869.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e8a7ec132731.html"
     },
     {
       "title": "طهران تكشف حقيقة طرح مقترح نووي مقابل تخفيف العقوبات",
@@ -55,8 +71,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-10-01T21:36:00+00:00",
-      "image": "./assets/news/2ea9427e926b5ae0656d7b4a.jpg",
-      "original_image": "./assets/news/2ea9427e926b5ae0656d7b4a.jpg",
+      "image": "./assets/news/5d61ae6841b012f449f6b8db.jpg",
+      "original_image": "./assets/news/5d61ae6841b012f449f6b8db.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577659/%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D9%83%D8%B4%D9%81-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%B7%D8%B1%D8%AD-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%86%D9%88%D9%88%D9%8A-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -151,8 +167,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-10-01T20:00:00+00:00",
-      "image": "./assets/news/00d7deb9b29a4b989dea01fb.jpg",
-      "original_image": "./assets/news/00d7deb9b29a4b989dea01fb.jpg",
+      "image": "./assets/news/934631569179d5e24a3eb753.jpg",
+      "original_image": "./assets/news/934631569179d5e24a3eb753.jpg",
       "source_url": "https://www.alsumaria.tv/news/security/577655/%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%A8%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D8%B9%D9%86-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D8%AE%D8%B5-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -304,22 +320,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a083e9f0f26a.html"
-    },
-    {
-      "title": "نتنياهو يقول إن مساعد طيار رحلة \"فلاي دبي\" خضع لتلقين \"أفكار إسلامية متطرفة\"، وشركات إسرائيلية تعتزم استئناف رحلاتها لدبي - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-10-01T17:55:01+00:00",
-      "image": "./assets/news/3f428722f50a978ea1926240.jpg",
-      "original_image": "./assets/news/3f428722f50a978ea1926240.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b499c86b03c8.html"
     },
     {
       "title": "العراق يعلن اكتمال التحقيقات الأولية مع الدواعش المنقولين من سوريا",
