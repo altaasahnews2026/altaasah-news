@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T02:20:54.595388+00:00",
+  "updated_at": "2026-10-01T02:36:53.784717+00:00",
   "items": [
     {
       "title": "قتلى وجرحى إثر استهداف حافلة بريف حماة في سوريا",
@@ -50,12 +50,12 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0b6d8e73c4ce.html"
     },
     {
-      "title": "رئيس الوزراء البريطاني: إيران ضالعة في حادثة قاعدة \"فيرفورد\" الجوية - شفق نيوز..",
+      "title": "رئيس الوزراء البريطاني: \"مؤشرات قوية\" على ضلوع إيران في حادثة قاعدة \"فيرفورد\" الجوية - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/c6grvr0xpdpeo",
       "category": "سياسة",
       "region": "العراق",
       "governorate": "",
-      "published": "2026-10-01T00:22:55+00:00",
+      "published": "2026-10-01T02:17:42+00:00",
       "image": "./assets/news/e6d84e49cb3496fbc1a9cd51.jpg",
       "original_image": "./assets/news/e6d84e49cb3496fbc1a9cd51.jpg",
       "source_url": "https://shafaq.com/ar/bbc-arabic/c6grvr0xpdpeo",
@@ -63,7 +63,23 @@
       "breaking": false,
       "kirkuk": false,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9029f5016c1b.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bd4df60c2f90.html"
+    },
+    {
+      "title": "\"أمضيت طفولتي ضمن عائلة مُطاردة من مكتب التحقيقات الفيدرالي\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cm4gkn14xde1o",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-10-01T02:12:55+00:00",
+      "image": "./assets/news/34be66af276b9e284d977a3c.jpg",
+      "original_image": "./assets/news/34be66af276b9e284d977a3c.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cm4gkn14xde1o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b50fe76c02f2.html"
     },
     {
       "title": "نتنياهو يتهم مساعد طيار بمحاولة إسقاط رحلة \"فلاي دبي\"، وترامب يقول إنه \"إرهابي أو مختل\" - شفق نيوز..",
@@ -400,22 +416,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ce1c2a5a1111.html"
-    },
-    {
-      "title": "طبيب مصري شهير يشعل الجدل بالحديث عن نقل أعضاء المحكومين بالإعدام - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cwp8038rjd4go",
-      "category": "سياسة",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-09-30T17:47:41+00:00",
-      "image": "./assets/news/808d3433c44863e631eba4a6.jpg",
-      "original_image": "./assets/news/808d3433c44863e631eba4a6.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cwp8038rjd4go",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5a9f7a0be10e.html"
     },
     {
       "title": "​النائب الزيدي: السيادة قرار عراقي مستقل وسلاح بيد الدولة",
