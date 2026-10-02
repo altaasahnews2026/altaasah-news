@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T16:16:25.175476+00:00",
+  "updated_at": "2026-10-02T16:33:23.238661+00:00",
   "items": [
     {
       "title": "مكافحة الإرهاب في منزل ضحايا اشتباك آلتون كوبري.. تعهد للأم بكشف الحقيقة",
@@ -18,13 +18,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/299d442303b6.html"
     },
     {
+      "title": "إصابة ناقلة بمقذوف في هرمز وترامب يلوّح بضرب إيران إذا ثبت تورطها في حادثة \"فلاي دبي\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-10-02T16:11:39+00:00",
+      "image": "./assets/news/0ec08321944122498d59a8ef.jpg",
+      "original_image": "./assets/news/0ec08321944122498d59a8ef.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bad97ffa4f42.html"
+    },
+    {
       "title": "هل أنت أسد أم دب أم ذئب أم ثعلب؟ طبيب عراقي يثير الجدل ويكشف السرّ لخسارة الوزن بدون جوع",
       "url": "https://www.alsumaria.tv/news/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88/572087/%D9%87%D9%84-%D8%A3%D9%86%D8%AA-%D8%A3%D8%B3%D8%AF-%D8%A3%D9%85-%D8%AF%D8%A8-%D8%A3%D9%85-%D8%B0%D8%A6%D8%A8-%D8%A3%D9%85-%D8%AB%D8%B9%D9%84%D8%A8%D8%9F-%D8%B7%D8%A8%D9%8A%D8%A8-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D9%88%D9%8A%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D8%B3%D8%B1%D9%91-%D9%84%D8%AE%D8%B3",
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-10-02T16:10:27+00:00",
-      "image": "./assets/news/844e227e9bf0a4f8b6ad80e9.jpg",
-      "original_image": "./assets/news/844e227e9bf0a4f8b6ad80e9.jpg",
+      "image": "./assets/news/ca775b07f3ece8a599902c7d.jpg",
+      "original_image": "./assets/news/ca775b07f3ece8a599902c7d.jpg",
       "source_url": "https://www.alsumaria.tv/news/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88/572087/%D9%87%D9%84-%D8%A3%D9%86%D8%AA-%D8%A3%D8%B3%D8%AF-%D8%A3%D9%85-%D8%AF%D8%A8-%D8%A3%D9%85-%D8%B0%D8%A6%D8%A8-%D8%A3%D9%85-%D8%AB%D8%B9%D9%84%D8%A8%D8%9F-%D8%B7%D8%A8%D9%8A%D8%A8-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D9%88%D9%8A%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D8%B3%D8%B1%D9%91-%D9%84%D8%AE%D8%B3",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -32,6 +48,54 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d69783f6fcda.html"
+    },
+    {
+      "title": "حريق بناقلة نفط بعد إصابتها بمقذوف في مضيق هرمز",
+      "url": "https://www.alsumaria.tv/news/localnews/577702/%D8%AD%D8%B1%D9%8A%D9%82-%D8%A8%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D8%A8%D8%B9%D8%AF-%D8%A5%D8%B5%D8%A7%D8%A8%D8%AA%D9%87%D8%A7-%D8%A8%D9%85%D9%82%D8%B0%D9%88%D9%81-%D9%81%D9%8A-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-10-02T16:10:02+00:00",
+      "image": "./assets/news/c15f5d7594aa3b0c6a8a17e5.jpg",
+      "original_image": "./assets/news/c15f5d7594aa3b0c6a8a17e5.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577702/%D8%AD%D8%B1%D9%8A%D9%82-%D8%A8%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%86%D9%81%D8%B7-%D8%A8%D8%B9%D8%AF-%D8%A5%D8%B5%D8%A7%D8%A8%D8%AA%D9%87%D8%A7-%D8%A8%D9%85%D9%82%D8%B0%D9%88%D9%81-%D9%81%D9%8A-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d4c108689d8d.html"
+    },
+    {
+      "title": "ماسكات طبيعية للعناية بالبشرة في الخريف Publishing Date * Set Now",
+      "url": "https://www.alsumaria.tv/news-article/577703/women/%D9%85%D8%A7%D8%B3%D9%83%D8%A7%D8%AA-%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9-%D9%84%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D9%81-publishing-date-set-now",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-10-02T16:08:46+00:00",
+      "image": "./assets/news/b2860851eac2bd85b9f24eff.webp",
+      "original_image": "./assets/news/b2860851eac2bd85b9f24eff.webp",
+      "source_url": "https://www.alsumaria.tv/news-article/577703/women/%D9%85%D8%A7%D8%B3%D9%83%D8%A7%D8%AA-%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9-%D9%84%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D9%81-publishing-date-set-now",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/e9a636fb9ff4.html"
+    },
+    {
+      "title": "نبوخذ نصر ألهم العراقيات.. الجنائن المعلقة وقصص بلاد الرافدين على جدار معهد فرنسا",
+      "url": "https://964media.com/722066/",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-10-02T16:00:51+00:00",
+      "image": "./assets/news/954bd180ef336070edd25334.jpg",
+      "original_image": "./assets/news/954bd180ef336070edd25334.jpg",
+      "source_url": "https://964media.com/722066/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/cf3d629e3f61.html"
     },
     {
       "title": "ريال مدريد يدعم فينيسيوس رغم البداية المتعثرة.. أرقامه تقترب من يامال",
@@ -80,22 +144,6 @@
       "report": false,
       "governorate": "النجف",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bbf8a17dce46.html"
-    },
-    {
-      "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت تورطها بحادثة طائرة \"فلاي دبي\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-02T15:26:42+00:00",
-      "image": "./assets/news/0ec08321944122498d59a8ef.jpg",
-      "original_image": "./assets/news/0ec08321944122498d59a8ef.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f7764e013542.html"
     },
     {
       "title": "مجموعة السبع تعلن سحب 100 مليون برميل من احتياطيات الطاقة لدعم الأسواق",
@@ -464,22 +512,6 @@
       "kirkuk": false,
       "report": false,
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1835865c519f.html"
-    },
-    {
-      "title": "الاعلام الامني: جميع طائراتنا سالمة ومغرضون بثوا شائعات غير صحيحة",
-      "url": "https://www.alsumaria.tv/news/security/577683/%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D9%86%D9%8A-%D8%AC%D9%85%D9%8A%D8%B9-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA%D9%86%D8%A7-%D8%B3%D8%A7%D9%84%D9%85%D8%A9-%D9%88%D9%85%D8%BA%D8%B1%D8%B6%D9%88%D9%86-%D8%A8%D8%AB%D9%88%D8%A7-%D8%B4%D8%A7%D8%A6%D8%B9%D8%A7%D8%AA-%D8%BA%D9%8A%D8%B1-%D8%B5%D8%AD%D9%8A%D8%AD%D8%A9",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-10-02T10:31:52+00:00",
-      "image": "./assets/news/ada3d1bf21df0eec3bcdfaa7.jpg",
-      "original_image": "./assets/news/ada3d1bf21df0eec3bcdfaa7.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/577683/%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D9%86%D9%8A-%D8%AC%D9%85%D9%8A%D8%B9-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA%D9%86%D8%A7-%D8%B3%D8%A7%D9%84%D9%85%D8%A9-%D9%88%D9%85%D8%BA%D8%B1%D8%B6%D9%88%D9%86-%D8%A8%D8%AB%D9%88%D8%A7-%D8%B4%D8%A7%D8%A6%D8%B9%D8%A7%D8%AA-%D8%BA%D9%8A%D8%B1-%D8%B5%D8%AD%D9%8A%D8%AD%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7654893e1d2a.html"
     },
     {
       "title": "نيجيرفان بارزاني بالعربي في بغداد.. خارطة طريق تسد فراغ أمريكا وتمنع نزاعات آتية",
