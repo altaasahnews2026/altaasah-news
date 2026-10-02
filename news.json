@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T10:20:19.763235+00:00",
+  "updated_at": "2026-10-02T10:35:50.689345+00:00",
   "items": [
     {
       "title": "انفجار مجهول يهز مطار تفتناز السوري",
@@ -418,22 +418,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2a029d59541a.html"
     },
     {
-      "title": "ترامب يعلن: الحرب مع إيران ستنتهي سريعاً",
-      "url": "https://www.alsumaria.tv/news/international/577662/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%B3%D8%AA%D9%86%D8%AA%D9%87%D9%8A-%D8%B3%D8%B1%D9%8A%D8%B9%D8%A7%D9%8B",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-10-01T22:39:59+00:00",
-      "image": "./assets/news/f04625af6346df89746634f9.jpg",
-      "original_image": "./assets/news/f04625af6346df89746634f9.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/577662/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%B3%D8%AA%D9%86%D8%AA%D9%87%D9%8A-%D8%B3%D8%B1%D9%8A%D8%B9%D8%A7%D9%8B",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2eb4a1efa0c6.html"
-    },
-    {
       "title": "ابنة السياب: لا تحجزوا أبي في التاريخ فهو حي داخل القصائد",
       "url": "https://964media.com/722014/",
       "category": "محليات",
@@ -448,54 +432,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/12328b6c93e0.html"
-    },
-    {
-      "title": "بيان إيراني حول العراق: نحترم سيادتكم.. ترامب يثير فتنة ونريد أن نطير بشكل طبيعي",
-      "url": "https://964media.com/722062/",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "published": "2026-10-01T20:24:56+00:00",
-      "image": "./assets/news/4d0ac70eeaa594734036b0ed.jpg",
-      "original_image": "./assets/news/4d0ac70eeaa594734036b0ed.jpg",
-      "source_url": "https://964media.com/722062/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/eedda105e102.html"
-    },
-    {
-      "title": "وفاة نزيل شاب في سجن البصرة.. الشرطة: عجز في عضلة القلب",
-      "url": "https://964media.com/722045/",
-      "category": "أمن",
-      "region": "البصرة",
-      "published": "2026-10-01T19:24:05+00:00",
-      "image": "./assets/news/a4799c8260ae1afcf44dbf04.jpg",
-      "original_image": "./assets/news/a4799c8260ae1afcf44dbf04.jpg",
-      "source_url": "https://964media.com/722045/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "البصرة",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a8a901ffb3f8.html"
-    },
-    {
-      "title": "موسكو تهنئ بغداد بيوم السيادة: نرفض انتهاك استقلاله والتدخل في شؤونه",
-      "url": "https://964media.com/722030/",
-      "category": "سياسة",
-      "region": "بغداد",
-      "published": "2026-10-01T19:02:12+00:00",
-      "image": "./assets/news/9052c35e185c5493c3984c5a.jpg",
-      "original_image": "./assets/news/9052c35e185c5493c3984c5a.jpg",
-      "source_url": "https://964media.com/722030/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f004ede64985.html"
     },
     {
       "title": "العراق يسترد “علياء حسوني” من لبنان لاختلاسها نحو 4 مليارات من صحة واسط",
