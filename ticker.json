@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T08:30:01.753849+00:00",
+  "updated_at": "2026-10-02T08:44:01.886837+00:00",
   "latest": [
     {
       "title": "بيان إيراني حول العراق: نحترم سيادتكم.. ترامب يثير فتنة ونريد أن نطير بشكل طبيعي",
@@ -38,7 +38,7 @@
       "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت ضلوعها في حادثة طائرة \"فلاي دبي\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
       "category": "عراق",
-      "published": "2026-10-02T07:36:29+00:00",
+      "published": "2026-10-02T08:16:30+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران",
@@ -66,6 +66,14 @@
       "url": "https://www.alsumaria.tv/news/international/577674/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%AC%D9%87%D9%88%D9%84-%D9%8A%D9%87%D8%B2-%D9%85%D8%B7%D8%A7%D8%B1-%D8%AA%D9%81%D8%AA%D9%86%D8%A7%D8%B2-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
       "category": "عراق",
       "published": "2026-10-02T08:04:14+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "خطوات عاجلة لحماية البيانات في هاتفك المسروق",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/577677/%d8%ae%d8%b7%d9%88%d8%a7%d8%aa-%d8%b9%d8%a7%d8%ac%d9%84%d8%a9-%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d9%81%d9%8a-%d9%87%d8%a7%d8%aa%d9%81%d9%83-%d8%a7%d9%84%d9%85%d8%b3%d8%b1%d9%88%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Fri, 02 Oct 2026 08:41:16 GMT",
       "breaking": true,
       "watch_topics": []
     },
@@ -180,14 +188,6 @@
       "url": "https://www.alsumaria.tv/news/localnews/577663/%D9%88%D9%81%D8%A7%D8%A9-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86%D9%8A-%D8%A8%D8%B8%D8%B1%D9%88%D9%81-%D8%BA%D8%A7%D9%85%D8%B6%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%AC%D9%81",
       "category": "عراق",
       "published": "2026-10-01T22:38:20+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "الجزائر تقر عقوبة الإعدام لمفتعلي حرائق الغابات - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c65ywyz03pn4o",
-      "category": "عراق",
-      "published": "2026-10-02T01:14:34+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -650,6 +650,14 @@
       "url": "https://www.alsumaria.tv/news/international/577674/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%AC%D9%87%D9%88%D9%84-%D9%8A%D9%87%D8%B2-%D9%85%D8%B7%D8%A7%D8%B1-%D8%AA%D9%81%D8%AA%D9%86%D8%A7%D8%B2-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
       "category": "عراق",
       "published": "2026-10-02T08:04:14+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "خطوات عاجلة لحماية البيانات في هاتفك المسروق",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/577677/%d8%ae%d8%b7%d9%88%d8%a7%d8%aa-%d8%b9%d8%a7%d8%ac%d9%84%d8%a9-%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d9%81%d9%8a-%d9%87%d8%a7%d8%aa%d9%81%d9%83-%d8%a7%d9%84%d9%85%d8%b3%d8%b1%d9%88%d9%82?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Fri, 02 Oct 2026 08:41:16 GMT",
       "breaking": true,
       "watch_topics": []
     },
