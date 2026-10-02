@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T00:11:54.745789+00:00",
+  "updated_at": "2026-10-02T00:35:31.216837+00:00",
   "items": [
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
@@ -32,6 +32,22 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8d14d06dc129.html"
+    },
+    {
+      "title": "حرائق واحتجاجات طلابية: ماذا يحدث في فرنسا؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cq3d7dle9jz7o",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-10-02T00:11:51+00:00",
+      "image": "./assets/news/5c03ae19ce6c20fbe0502d21.jpg",
+      "original_image": "./assets/news/5c03ae19ce6c20fbe0502d21.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cq3d7dle9jz7o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b5990fca9339.html"
     },
     {
       "title": "ترامب يعلن: الحرب مع إيران ستنتهي سريعاً",
@@ -512,22 +528,6 @@
       "report": false,
       "governorate": "نينوى",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/31d108f893aa.html"
-    },
-    {
-      "title": "المغرب: ما أهم التحديات التي تواجه المنصوري بعد تكليفها بتشكيل الحكومة؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cv62k2nw4kreo",
-      "category": "سياسة",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-01T16:44:15+00:00",
-      "image": "./assets/news/5c3c221c4b213627a8015be4.jpg",
-      "original_image": "./assets/news/5c3c221c4b213627a8015be4.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cv62k2nw4kreo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1d225cc71014.html"
     },
     {
       "title": "العراق يسترد “علياء حسوني” من لبنان لاختلاسها نحو 4 مليارات من صحة واسط",
