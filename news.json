@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T15:32:23.724694+00:00",
+  "updated_at": "2026-10-02T15:49:43.105265+00:00",
   "items": [
     {
       "title": "مكافحة الإرهاب في منزل ضحايا اشتباك آلتون كوبري.. تعهد للأم بكشف الحقيقة",
@@ -18,7 +18,55 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/299d442303b6.html"
     },
     {
-      "title": "مجموعة السبع تعلن سحب 100 مليون برميل من احتياطيات الطاقة لدعم الأسواق Publishing Date *",
+      "title": "الزيدي يعلن استئناف رحلات الشركات الإيرانية إلى النجف: أميركا وافقت على 40 رحلة فقط",
+      "url": "https://964media.com/722164/",
+      "category": "عربي ودولي",
+      "region": "النجف",
+      "published": "2026-10-02T15:29:45+00:00",
+      "image": "./assets/news/f0545e6c31dbc91e6efd8188.jpg",
+      "original_image": "./assets/news/f0545e6c31dbc91e6efd8188.jpg",
+      "source_url": "https://964media.com/722164/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "النجف",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/155aee92dc96.html"
+    },
+    {
+      "title": "الزيدي يعلن السماح بتسيير 40 رحلة جوية يومياً من وإلى مطار النجف لشركات الطيران الإيرانية",
+      "url": "https://www.alsumaria.tv/news/localnews/577699/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D8%AD-%D8%A8%D8%AA%D8%B3%D9%8A%D9%8A%D8%B1-40-%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9-%D9%8A%D9%88%D9%85%D9%8A%D8%A7%D9%8B-%D9%85%D9%86-%D9%88%D8%A5%D9%84%D9%89-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D9%84%D8%B4%D8%B1%D9%83%D8%A7",
+      "category": "عربي ودولي",
+      "region": "النجف",
+      "published": "2026-10-02T15:29:05+00:00",
+      "image": "./assets/news/15f50891eaad3bd26a8ffdd1.jpg",
+      "original_image": "./assets/news/15f50891eaad3bd26a8ffdd1.jpg",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577699/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D8%AD-%D8%A8%D8%AA%D8%B3%D9%8A%D9%8A%D8%B1-40-%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9-%D9%8A%D9%88%D9%85%D9%8A%D8%A7%D9%8B-%D9%85%D9%86-%D9%88%D8%A5%D9%84%D9%89-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D9%84%D8%B4%D8%B1%D9%83%D8%A7",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "النجف",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bbf8a17dce46.html"
+    },
+    {
+      "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت تورطها بحادثة طائرة \"فلاي دبي\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-10-02T15:26:42+00:00",
+      "image": "./assets/news/0ec08321944122498d59a8ef.jpg",
+      "original_image": "./assets/news/0ec08321944122498d59a8ef.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f7764e013542.html"
+    },
+    {
+      "title": "مجموعة السبع تعلن سحب 100 مليون برميل من احتياطيات الطاقة لدعم الأسواق",
       "url": "https://www.alsumaria.tv/news/international/577698/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D8%A8%D8%B9-%D8%AA%D8%B9%D9%84%D9%86-%D8%B3%D8%AD%D8%A8-100-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%85%D9%86-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82",
       "category": "محليات",
       "region": "العراق",
@@ -31,7 +79,7 @@
       "kirkuk": false,
       "report": false,
       "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fec193c5dd5f.html"
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6b8f4b97314c.html"
     },
     {
       "title": "إحباط محاولة تهريب عجول وأبقار من العراق إلى إيران",
@@ -96,22 +144,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/33be3130c962.html"
-    },
-    {
-      "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت تورطها بحادثة طائرة \"فلاي دبي\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-02T14:34:45+00:00",
-      "image": "./assets/news/0ec08321944122498d59a8ef.jpg",
-      "original_image": "./assets/news/0ec08321944122498d59a8ef.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/64fc30c709d2.html"
     },
     {
       "title": "التربية تعلن وصول أكثر من مليون كتاب إلى مخازنها Publishing Date * Set Now",
