@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T20:45:48.779045+00:00",
+  "updated_at": "2026-10-02T20:57:52.861511+00:00",
   "items": [
     {
       "title": "مكافحة الإرهاب في منزل ضحايا اشتباك آلتون كوبري.. تعهد للأم بكشف الحقيقة",
@@ -16,6 +16,22 @@
       "report": false,
       "governorate": "كركوك",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/299d442303b6.html"
+    },
+    {
+      "title": "الطاقة الدولية: أسعار النفط بدأت بالانخفاض بعد قرار الإفراج عن 100 مليون برميل",
+      "url": "https://www.alsumaria.tv/news/economy/577713/%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A8%D8%AF%D8%A3%D8%AA-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A8%D8%B9%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-100-%D9%85%D9%84%D9%8A%D9%88",
+      "category": "اقتصاد",
+      "region": "العراق",
+      "published": "2026-10-02T20:40:21+00:00",
+      "image": "./assets/news/17a501bbd36a077430daedd0.jpg",
+      "original_image": "./assets/news/17a501bbd36a077430daedd0.jpg",
+      "source_url": "https://www.alsumaria.tv/news/economy/577713/%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A8%D8%AF%D8%A3%D8%AA-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A8%D8%B9%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-100-%D9%85%D9%84%D9%8A%D9%88",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b0bf399f9851.html"
     },
     {
       "title": "إصابة ناقلة بمقذوف في هرمز وترامب يلوّح بضرب إيران إذا ثبت تورطها في حادثة \"فلاي دبي\" - شفق نيوز..",
@@ -391,8 +407,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-10-02T14:58:17+00:00",
-      "image": "./assets/news/552009d61bce4bff0fe7123f.jpg",
-      "original_image": "./assets/news/552009d61bce4bff0fe7123f.jpg",
+      "image": "./assets/news/dabc367f4becea446726e292.jpg",
+      "original_image": "./assets/news/dabc367f4becea446726e292.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577697/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D9%85%D8%AE%D8%B2%D9%88%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%8A%D8%B2%D9%84",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -496,22 +512,6 @@
       "report": false,
       "governorate": "البصرة",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7023afbd6fdf.html"
-    },
-    {
-      "title": "السعودية ترفع تدفقات النفط عبر شرق–غرب إلى أكثر من 80% Publishing Date * Set Now",
-      "url": "https://www.alsumaria.tv/news/economy/577693/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B1%D9%81%D8%B9-%D8%AA%D8%AF%D9%81%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B9%D8%A8%D8%B1-%D8%B4%D8%B1%D9%82%E2%80%93%D8%BA%D8%B1%D8%A8-%D8%A5%D9%84%D9%89-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-80-publishing-date",
-      "category": "اقتصاد",
-      "region": "العراق",
-      "published": "2026-10-02T13:47:11+00:00",
-      "image": "./assets/news/4f840c60f29ad65c42969a6b.jpg",
-      "original_image": "./assets/news/4f840c60f29ad65c42969a6b.jpg",
-      "source_url": "https://www.alsumaria.tv/news/economy/577693/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B1%D9%81%D8%B9-%D8%AA%D8%AF%D9%81%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B9%D8%A8%D8%B1-%D8%B4%D8%B1%D9%82%E2%80%93%D8%BA%D8%B1%D8%A8-%D8%A5%D9%84%D9%89-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-80-publishing-date",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fa87cc94ddd4.html"
     },
     {
       "title": "\"أوبن إيه آي\" تفصل ثلاثة موظفين بسبب \"سوء التعامل مع معلومات حساسة\" - شفق نيوز..",
