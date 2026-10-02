@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T06:01:17.479817+00:00",
+  "updated_at": "2026-10-02T06:18:03.835912+00:00",
   "latest": [
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
@@ -524,6 +524,14 @@
       ]
     },
     {
+      "title": "مقدونيا الشمالية تعلن تفكيك شبكة دعاية موالية لروسيا",
+      "url": "https://aawsat.com/node/5325040",
+      "category": "دولي",
+      "published": "Fri, 02 Oct 2026 07:11:05 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "احتجاجات الطلاب تتمدد في فرنسا... والحكومة تشكّل خلية أزمة",
       "url": "https://aawsat.com/node/5325001",
       "category": "دولي",
@@ -624,14 +632,6 @@
       "url": "https://aawsat.com/node/5324775",
       "category": "دولي",
       "published": "Thu, 01 Oct 2026 14:01:39 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "فرنسا تعترف بـ«مداهمات الميناء القديم» في مرسيليا جريمة ضد الإنسانية",
-      "url": "https://aawsat.com/node/5324731",
-      "category": "دولي",
-      "published": "Thu, 01 Oct 2026 12:43:29 +0100",
       "breaking": false,
       "watch_topics": []
     }
