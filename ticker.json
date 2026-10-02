@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-02T11:58:21.151311+00:00",
+  "updated_at": "2026-10-02T12:11:52.058296+00:00",
   "latest": [
-    {
-      "title": "بيان إيراني حول العراق: نحترم سيادتكم.. ترامب يثير فتنة ونريد أن نطير بشكل طبيعي",
-      "url": "https://964media.com/722062/",
-      "category": "عراق",
-      "published": "2026-10-01T20:24:56+00:00",
-      "breaking": false,
-      "watch_topics": [
-        "إيران",
-        "أمريكا"
-      ]
-    },
     {
       "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت تورطها بحادثة طائرة \"فلاي دبي\" - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
@@ -90,6 +79,16 @@
       "url": "https://www.alsumaria.tv/news/localnews/577685/%D8%AE%D8%B7%D9%8A%D8%A8-%D8%AC%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%AE%D8%B1%D9%88%D8%AC-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D9%85%D9%86-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A",
       "category": "عراق",
       "published": "2026-10-02T11:14:41+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "إمام جمعة النجف: حظر الطيران على إيران مظلمة وعلى العراق مراجعة موقفه",
+      "url": "https://964media.com/722127/",
+      "category": "عراق",
+      "published": "2026-10-02T11:54:47+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران"
@@ -412,6 +411,14 @@
       ]
     },
     {
+      "title": "الصواريخ... غطاء الحوثيين الناري للتقدم الميداني",
+      "url": "https://aawsat.com/node/5325143",
+      "category": "مشرق أوسط",
+      "published": "Fri, 02 Oct 2026 13:05:52 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "الرعاية الصحية... معركة جديدة للفارّين من الهجمات الحوثية",
       "url": "https://aawsat.com/node/5325134",
       "category": "مشرق أوسط",
@@ -440,14 +447,6 @@
       "url": "https://aawsat.com/node/5324575",
       "category": "مشرق أوسط",
       "published": "Thu, 01 Oct 2026 02:02:24 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "تعز ولحج تشعلان نذر المعركة اليمنية الكبرى",
-      "url": "https://aawsat.com/node/5324573",
-      "category": "مشرق أوسط",
-      "published": "Thu, 01 Oct 2026 01:54:58 +0100",
       "breaking": false,
       "watch_topics": []
     },
