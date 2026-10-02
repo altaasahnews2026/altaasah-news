@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T16:51:28.531783+00:00",
+  "updated_at": "2026-10-02T17:01:28.676811+00:00",
   "latest": [
     {
       "title": "الزيدي يعلن استئناف رحلات الشركات الإيرانية إلى النجف: أميركا وافقت على 40 رحلة فقط",
@@ -464,6 +464,14 @@
       "watch_topics": []
     },
     {
+      "title": "ألمانيا: تحقيق بشأن تورط ألماني وسوريَّيْن اثنين في التخطيط لهجوم «إرهابي»",
+      "url": "https://aawsat.com/node/5325247",
+      "category": "دولي",
+      "published": "Fri, 02 Oct 2026 18:00:35 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "«استهداف قاعدة فيرفورد البريطانية»... ماذا حدث؟ وماذا وجدت الشرطة؟",
       "url": "https://aawsat.com/node/5325215",
       "category": "دولي",
@@ -624,14 +632,6 @@
       "published": "Thu, 01 Oct 2026 19:34:22 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "ملك إسبانيا يزور سبتة ومليلية",
-      "url": "https://aawsat.com/node/5324915",
-      "category": "دولي",
-      "published": "Thu, 01 Oct 2026 19:09:47 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
@@ -744,6 +744,14 @@
       "url": "https://aawsat.com/node/5322830",
       "category": "مشرق أوسط",
       "published": "Sat, 26 Sep 2026 12:54:44 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "ألمانيا: تحقيق بشأن تورط ألماني وسوريَّيْن اثنين في التخطيط لهجوم «إرهابي»",
+      "url": "https://aawsat.com/node/5325247",
+      "category": "دولي",
+      "published": "Fri, 02 Oct 2026 18:00:35 +0100",
       "breaking": true,
       "watch_topics": []
     },
