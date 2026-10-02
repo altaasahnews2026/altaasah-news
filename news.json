@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T17:59:58.365823+00:00",
+  "updated_at": "2026-10-02T18:15:37.374406+00:00",
   "items": [
     {
       "title": "مكافحة الإرهاب في منزل ضحايا اشتباك آلتون كوبري.. تعهد للأم بكشف الحقيقة",
@@ -18,13 +18,45 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/299d442303b6.html"
     },
     {
+      "title": "وزير الخارجية يعلق على استئناف الرحلات إلى إيران",
+      "url": "https://www.alsumaria.tv/news/politics/577707/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%8A%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A5%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-10-02T18:00:11+00:00",
+      "image": "./assets/news/ce44a631cd62c4bba43444e9.jpg",
+      "original_image": "./assets/news/ce44a631cd62c4bba43444e9.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/577707/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%8A%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A5%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0680329646b8.html"
+    },
+    {
+      "title": "فؤاد حسين استحصل الاستثناء الأميركي لمطار النجف بعد مباحثات مع وزير الخزانة",
+      "url": "https://964media.com/722185/",
+      "category": "سياسة",
+      "region": "النجف",
+      "published": "2026-10-02T17:57:16+00:00",
+      "image": "./assets/news/365f74439161d929f69bbbce.jpg",
+      "original_image": "./assets/news/365f74439161d929f69bbbce.jpg",
+      "source_url": "https://964media.com/722185/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "النجف",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/34ec29e8a77f.html"
+    },
+    {
       "title": "العراق يحصل على ثلاث ورش تدريبية من FIFA",
       "url": "https://www.alsumaria.tv/Entertainment-News/577706/sports/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AD%D8%B5%D9%84-%D8%B9%D9%84%D9%89-%D8%AB%D9%84%D8%A7%D8%AB-%D9%88%D8%B1%D8%B4-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9-%D9%85%D9%86-fifa",
       "category": "رياضة",
       "region": "العراق",
       "published": "2026-10-02T17:39:32+00:00",
-      "image": "./assets/news/5fe886f2f875402266333d7c.jpg",
-      "original_image": "./assets/news/5fe886f2f875402266333d7c.jpg",
+      "image": "./assets/news/0afe67dab2eb2f6d3f880528.jpg",
+      "original_image": "./assets/news/0afe67dab2eb2f6d3f880528.jpg",
       "source_url": "https://www.alsumaria.tv/Entertainment-News/577706/sports/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AD%D8%B5%D9%84-%D8%B9%D9%84%D9%89-%D8%AB%D9%84%D8%A7%D8%AB-%D9%88%D8%B1%D8%B4-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9-%D9%85%D9%86-fifa",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -450,22 +482,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bf3a7de02c87.html"
     },
     {
-      "title": "إمام جمعة النجف: حظر الطيران على إيران مظلمة وعلى العراق مراجعة موقفه",
-      "url": "https://964media.com/722127/",
-      "category": "عربي ودولي",
-      "region": "النجف",
-      "published": "2026-10-02T11:54:47+00:00",
-      "image": "./assets/news/08e9fb01edfe1886b7b357e3.jpg",
-      "original_image": "./assets/news/08e9fb01edfe1886b7b357e3.jpg",
-      "source_url": "https://964media.com/722127/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "النجف",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8e1de4dd7469.html"
-    },
-    {
       "title": "بيان جديد حول انباء سقوط طائرة F16 عراقية اليوم",
       "url": "https://www.alsumaria.tv/news/security/577688/%D8%A8%D9%8A%D8%A7%D9%86-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%AD%D9%88%D9%84-%D8%A7%D9%86%D8%A8%D8%A7%D8%A1-%D8%B3%D9%82%D9%88%D8%B7-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-f16-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
       "category": "محليات",
@@ -480,22 +496,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5c25daca3329.html"
-    },
-    {
-      "title": "تحديد موعد حسم استكمال الكابينة الحكومية",
-      "url": "https://www.alsumaria.tv/news/politics/577687/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%AD%D8%B3%D9%85-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-10-02T11:42:01+00:00",
-      "image": "./assets/news/f0d18c47b480dd685f9a9441.jpg",
-      "original_image": "./assets/news/f0d18c47b480dd685f9a9441.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/577687/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%AD%D8%B3%D9%85-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/48a09b24b217.html"
     },
     {
       "title": "\"قوية وجميلة\": لماذا نحن جميعاً بحاجة إلى دهون الجسم؟ - شفق نيوز..",
