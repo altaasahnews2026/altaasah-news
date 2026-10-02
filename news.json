@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T06:18:00.433920+00:00",
+  "updated_at": "2026-10-02T06:40:38.010974+00:00",
   "items": [
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
@@ -34,6 +34,54 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8d14d06dc129.html"
     },
     {
+      "title": "مقتل عز الدين بك في غارة جوية",
+      "url": "https://www.alsumaria.tv/news/international/577667/%D9%85%D9%82%D8%AA%D9%84-%D8%B9%D8%B2-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A8%D9%83-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-10-02T06:32:55+00:00",
+      "image": "./assets/news/f42bb36de1039f578b61bcdb.jpg",
+      "original_image": "./assets/news/f42bb36de1039f578b61bcdb.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577667/%D9%85%D9%82%D8%AA%D9%84-%D8%B9%D8%B2-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A8%D9%83-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c86bdd3f55d2.html"
+    },
+    {
+      "title": "ولاية أمريكية ثانية تعلن عيد الفطر وعيد الأضحى عطلتين رسميتين",
+      "url": "https://www.alsumaria.tv/news/international/577666/%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%81%D8%B7%D8%B1-%D9%88%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D8%B6%D8%AD%D9%89-%D8%B9%D8%B7%D9%84%D8%AA%D9%8A%D9%86-%D8%B1%D8%B3%D9%85%D9%8A%D8%AA%D9%8A%D9%86",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-10-02T06:26:23+00:00",
+      "image": "./assets/news/a58fca92d2a09484af71ed3c.jpg",
+      "original_image": "./assets/news/a58fca92d2a09484af71ed3c.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577666/%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%81%D8%B7%D8%B1-%D9%88%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D8%B6%D8%AD%D9%89-%D8%B9%D8%B7%D9%84%D8%AA%D9%8A%D9%86-%D8%B1%D8%B3%D9%85%D9%8A%D8%AA%D9%8A%D9%86",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7812d58720c5.html"
+    },
+    {
+      "title": "القوات الحكومية اليمنية تعلن استهداف مواقع \"ذات قيمة عالية\" في صنعاء بعد سماع دوي انفجارات قوية - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-10-02T06:10:20+00:00",
+      "image": "./assets/news/64016034c628efe4dbc137c9.jpg",
+      "original_image": "./assets/news/64016034c628efe4dbc137c9.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/35105e894fba.html"
+    },
+    {
       "title": "ترامب في تصريح غامض: أوروبا تُلتهم حية",
       "url": "https://www.alsumaria.tv/news/international/577665/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%81%D9%8A-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D8%BA%D8%A7%D9%85%D8%B6-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%AA%D9%8F%D9%84%D8%AA%D9%87%D9%85-%D8%AD%D9%8A%D8%A9",
       "category": "محليات",
@@ -64,22 +112,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2a029d59541a.html"
-    },
-    {
-      "title": "القوات الحكومية اليمنية تعلن استهداف مواقع \"ذات قيمة عالية\" في صنعاء بعد سماع دوي انفجارات قوية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-02T04:36:52+00:00",
-      "image": "./assets/news/64016034c628efe4dbc137c9.jpg",
-      "original_image": "./assets/news/64016034c628efe4dbc137c9.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2428af33bae7.html"
     },
     {
       "title": "إثيوبيا وإريتريا تتبادلان قطع العلاقات، وتوتر متصاعد مع مصر - شفق نيوز..",
@@ -482,22 +514,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1bc658994925.html"
     },
     {
-      "title": "الزيدي يعلن انطلاق مرحلة السيادة التي تحميها الدولة ويضمنها القانون",
-      "url": "https://www.alsumaria.tv/news/politics/577649/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D8%AD%D9%85%D9%8A%D9%87%D8%A7-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%88%D9%8A%D8%B6%D9%85%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86",
-      "category": "سياسة",
-      "region": "العراق",
-      "published": "2026-10-01T17:18:07+00:00",
-      "image": "./assets/news/0336fe21a8704fc65a5f0555.jpg",
-      "original_image": "./assets/news/0336fe21a8704fc65a5f0555.jpg",
-      "source_url": "https://www.alsumaria.tv/news/politics/577649/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D8%AD%D9%85%D9%8A%D9%87%D8%A7-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%88%D9%8A%D8%B6%D9%85%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b4084792f8b0.html"
-    },
-    {
       "title": "صقور الجو يزينون سماء بغداد والمحافظات غداً احتفالاً بـ”يوم السيادة”",
       "url": "https://964media.com/721992/",
       "category": "سياسة",
@@ -512,22 +528,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/627a9717a929.html"
-    },
-    {
-      "title": "غداً.. استعراض جوي بمناسبة يوم السيادة في بغداد والمحافظات",
-      "url": "https://www.alsumaria.tv/news/security/577646/%D8%BA%D8%AF%D8%A7%D9%8B-%D8%A7%D8%B3%D8%AA%D8%B9%D8%B1%D8%A7%D8%B6-%D8%AC%D9%88%D9%8A-%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA",
-      "category": "سياسة",
-      "region": "بغداد",
-      "published": "2026-10-01T17:00:31+00:00",
-      "image": "./assets/news/7dbe5b0c71f076b5bbf40094.jpg",
-      "original_image": "./assets/news/7dbe5b0c71f076b5bbf40094.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/577646/%D8%BA%D8%AF%D8%A7%D9%8B-%D8%A7%D8%B3%D8%AA%D8%B9%D8%B1%D8%A7%D8%B6-%D8%AC%D9%88%D9%8A-%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/23afdc84f28e.html"
     },
     {
       "title": "العراق يسترد “علياء حسوني” من لبنان لاختلاسها نحو 4 مليارات من صحة واسط",
