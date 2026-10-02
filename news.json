@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T12:55:09.011066+00:00",
+  "updated_at": "2026-10-02T13:06:51.990771+00:00",
   "items": [
     {
       "title": "انفجار مجهول يهز مطار تفتناز السوري",
@@ -18,20 +18,20 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0766d77f3206.html"
     },
     {
-      "title": "\"الاعتماد على الأمم المتحدة في هذا الظرف يضع العالم في مأزق كبير\" - مقال في الغارديان - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cmp8d88z5we9o",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-02T12:19:49+00:00",
-      "image": "./assets/news/4425d1ca36933ca5feef34c2.jpg",
-      "original_image": "./assets/news/4425d1ca36933ca5feef34c2.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cmp8d88z5we9o",
-      "source_name": "شفق نيوز",
+      "title": "وفد رفيع من مكافحة الإرهاب يزور مجلسَي عزاء شهيدين في كركوك Publishing Date * Set Now",
+      "url": "https://www.alsumaria.tv/news/security/577689/%D9%88%D9%81%D8%AF-%D8%B1%D9%81%D9%8A%D8%B9-%D9%85%D9%86-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%8A%D8%B2%D9%88%D8%B1-%D9%85%D8%AC%D9%84%D8%B3%D9%8E%D9%8A-%D8%B9%D8%B2%D8%A7%D8%A1-%D8%B4%D9%87%D9%8A%D8%AF%D9%8A%D9%86-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83-publishing",
+      "category": "أمن",
+      "region": "كركوك",
+      "published": "2026-10-02T12:51:06+00:00",
+      "image": "./assets/news/da3cab2ce666d22e906c592b.jpg",
+      "original_image": "./assets/news/da3cab2ce666d22e906c592b.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/577689/%D9%88%D9%81%D8%AF-%D8%B1%D9%81%D9%8A%D8%B9-%D9%85%D9%86-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%8A%D8%B2%D9%88%D8%B1-%D9%85%D8%AC%D9%84%D8%B3%D9%8E%D9%8A-%D8%B9%D8%B2%D8%A7%D8%A1-%D8%B4%D9%87%D9%8A%D8%AF%D9%8A%D9%86-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83-publishing",
+      "source_name": "السومرية نيوز",
       "breaking": false,
-      "kirkuk": false,
+      "kirkuk": true,
       "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/bf3a7de02c87.html"
+      "governorate": "كركوك",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b1fd5c2465ab.html"
     },
     {
       "title": "إمام جمعة النجف: حظر الطيران على إيران مظلمة وعلى العراق مراجعة موقفه",
@@ -98,22 +98,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/784ec4d4a70b.html"
     },
     {
-      "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت تورطها بحادثة طائرة \"فلاي دبي\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-02T11:30:38+00:00",
-      "image": "./assets/news/0ec08321944122498d59a8ef.jpg",
-      "original_image": "./assets/news/0ec08321944122498d59a8ef.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/809e7d463a50.html"
-    },
-    {
       "title": "خطيب جمعة النجف يتحدث عن حظر الطيران على ايران وخروج المنتخب من خليجي 27",
       "url": "https://www.alsumaria.tv/news/localnews/577685/%D8%AE%D8%B7%D9%8A%D8%A8-%D8%AC%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%AE%D8%B1%D9%88%D8%AC-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D9%85%D9%86-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A",
       "category": "رياضة",
@@ -144,22 +128,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/082acfc51416.html"
-    },
-    {
-      "title": "\"قوية وجميلة\": لماذا نحن جميعاً بحاجة إلى دهون الجسم؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/crq5xvgdyvqdo",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-02T10:39:33+00:00",
-      "image": "./assets/news/e9d3b04264f927c203e32b24.jpg",
-      "original_image": "./assets/news/e9d3b04264f927c203e32b24.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/crq5xvgdyvqdo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1835865c519f.html"
     },
     {
       "title": "الاعلام الامني: جميع طائراتنا سالمة ومغرضون بثوا شائعات غير صحيحة",
@@ -242,22 +210,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5a85ceb43a07.html"
     },
     {
-      "title": "أزمة دبلوماسية بين إثيوبيا وإريتريا، وسط توتر متصاعد مع مصر - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqwyzy2zd9pko",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-10-02T09:12:52+00:00",
-      "image": "./assets/news/6d333b95aaa5ca485c251fb8.jpg",
-      "original_image": "./assets/news/6d333b95aaa5ca485c251fb8.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cqwyzy2zd9pko",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/919bf214e326.html"
-    },
-    {
       "title": "العراق يتخذ قرارا يخص العائدين من المهجر",
       "url": "https://www.alsumaria.tv/news/localnews/577679/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AA%D8%AE%D8%B0-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7-%D9%8A%D8%AE%D8%B5-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D8%AF%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%87%D8%AC%D8%B1",
       "category": "محليات",
@@ -279,8 +231,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-10-02T08:44:42+00:00",
-      "image": "./assets/news/414cd6ebeca7aca7338eff8f.jpg",
-      "original_image": "./assets/news/414cd6ebeca7aca7338eff8f.jpg",
+      "image": "./assets/news/4e4db93af34c68e3707180ca.jpg",
+      "original_image": "./assets/news/4e4db93af34c68e3707180ca.jpg",
       "source_url": "https://www.alsumaria.tv/news/localnews/577678/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%88%D8%B5%D9%88%D9%84-%D8%AF%D9%81%D8%B9%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%B2%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -354,22 +306,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d9c803bb9455.html"
     },
     {
-      "title": "العال تلغي رحلاتها لإعادة إسرائيليين من دبي، ونتنياهو يقول إن مساعد طيار رحلة فلاي دبي \"خضع لتلقين أفكار إسلامية متطرفة\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-10-02T07:56:46+00:00",
-      "image": "./assets/news/3f428722f50a978ea1926240.jpg",
-      "original_image": "./assets/news/3f428722f50a978ea1926240.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/ed5e6ea24ea9.html"
-    },
-    {
       "title": "هلع وذعر.. حقيقة التفجير الانتحاري في مكة",
       "url": "https://www.alsumaria.tv/news/international/577672/%D9%87%D9%84%D8%B9-%D9%88%D8%B0%D8%B9%D8%B1-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1%D9%8A-%D9%81%D9%8A-%D9%85%D9%83%D8%A9",
       "category": "محليات",
@@ -418,22 +354,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f97731045213.html"
     },
     {
-      "title": "من كانون الاول المقبل.. رحلات مباشرة بين بغداد وبرلين",
-      "url": "https://www.alsumaria.tv/news/international/577669/%D9%85%D9%86-%D9%83%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D8%A8%D8%B1%D9%84%D9%8A%D9%86",
-      "category": "محليات",
-      "region": "بغداد",
-      "published": "2026-10-02T07:20:51+00:00",
-      "image": "./assets/news/0cfb454699488628365951ae.jpg",
-      "original_image": "./assets/news/0cfb454699488628365951ae.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/577669/%D9%85%D9%86-%D9%83%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D8%A8%D8%B1%D9%84%D9%8A%D9%86",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a6cad52cece6.html"
-    },
-    {
       "title": "نيجيرفان بارزاني بالعربي في بغداد.. خارطة طريق تسد فراغ أمريكا وتمنع نزاعات آتية",
       "url": "https://964media.com/722087/",
       "category": "عربي ودولي",
@@ -448,22 +368,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/352f84972188.html"
-    },
-    {
-      "title": "القوات الحكومية اليمنية تعلن استهداف مواقع \"ذات قيمة عالية\" في صنعاء بعد سماع دوي انفجارات قوية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-02T06:10:20+00:00",
-      "image": "./assets/news/64016034c628efe4dbc137c9.jpg",
-      "original_image": "./assets/news/64016034c628efe4dbc137c9.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/35105e894fba.html"
     },
     {
       "title": "ابنة السياب: لا تحجزوا أبي في التاريخ فهو حي داخل القصائد",
