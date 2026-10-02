@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T05:49:20.401056+00:00",
+  "updated_at": "2026-10-02T06:01:17.479817+00:00",
   "latest": [
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
@@ -326,14 +326,6 @@
       "watch_topics": []
     },
     {
-      "title": "أفغانستان تعلن مقتل 4 مدنيين في غارات للجيش الباكستاني",
-      "url": "https://aawsat.com/node/5322255",
-      "category": "مشرق أوسط",
-      "published": "Thu, 24 Sep 2026 19:29:04 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
       "title": "تدمير باليستيين و4 «مسيَّرات» حوثية جنوب السعودية",
       "url": "https://aawsat.com/node/5324935",
       "category": "مشرق أوسط",
@@ -464,6 +456,14 @@
       "url": "https://aawsat.com/node/5324575",
       "category": "مشرق أوسط",
       "published": "Thu, 01 Oct 2026 02:02:24 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "تعز ولحج تشعلان نذر المعركة اليمنية الكبرى",
+      "url": "https://aawsat.com/node/5324573",
+      "category": "مشرق أوسط",
+      "published": "Thu, 01 Oct 2026 01:54:58 +0100",
       "breaking": false,
       "watch_topics": []
     },
@@ -732,14 +732,6 @@
       "url": "https://aawsat.com/node/5322830",
       "category": "مشرق أوسط",
       "published": "Sat, 26 Sep 2026 12:54:44 +0100",
-      "breaking": true,
-      "watch_topics": []
-    },
-    {
-      "title": "أفغانستان تعلن مقتل 4 مدنيين في غارات للجيش الباكستاني",
-      "url": "https://aawsat.com/node/5322255",
-      "category": "مشرق أوسط",
-      "published": "Thu, 24 Sep 2026 19:29:04 +0100",
       "breaking": true,
       "watch_topics": []
     },
