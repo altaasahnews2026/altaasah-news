@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T09:25:44.020550+00:00",
+  "updated_at": "2026-10-02T09:40:44.746751+00:00",
   "items": [
     {
       "title": "انفجار مجهول يهز مطار تفتناز السوري",
@@ -18,13 +18,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0766d77f3206.html"
     },
     {
+      "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت ضلوعها في حادثة طائرة \"فلاي دبي\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-10-02T09:27:44+00:00",
+      "image": "./assets/news/0ec08321944122498d59a8ef.jpg",
+      "original_image": "./assets/news/0ec08321944122498d59a8ef.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/21bceb35ab4a.html"
+    },
+    {
       "title": "ماذا سيحدث للبشرية والعالم في 13 تشرين الثاني القادم؟.. تنبؤات اطلقت قبل 66 عاما",
       "url": "https://www.alsumaria.tv/news/international/577680/%D9%85%D8%A7%D8%B0%D8%A7-%D8%B3%D9%8A%D8%AD%D8%AF%D8%AB-%D9%84%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%81%D9%8A-13-%D8%AA%D8%B4%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%9F-%D8%AA%D9%86%D8%A8%D8%A4%D8%A7%D8%AA-%D8%A7%D8%B7%D9%84%D9%82%D8%AA-%D9%82%D8%A8%D9%84",
       "category": "محليات",
       "region": "العراق",
       "published": "2026-10-02T09:13:32+00:00",
-      "image": "./assets/news/c1b56ce31d811bbf3a759425.jpg",
-      "original_image": "./assets/news/c1b56ce31d811bbf3a759425.jpg",
+      "image": "./assets/news/f9435ed38d60e8e56c05c5f2.jpg",
+      "original_image": "./assets/news/f9435ed38d60e8e56c05c5f2.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577680/%D9%85%D8%A7%D8%B0%D8%A7-%D8%B3%D9%8A%D8%AD%D8%AF%D8%AB-%D9%84%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%81%D9%8A-13-%D8%AA%D8%B4%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%9F-%D8%AA%D9%86%D8%A8%D8%A4%D8%A7%D8%AA-%D8%A7%D8%B7%D9%84%D9%82%D8%AA-%D9%82%D8%A8%D9%84",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -32,6 +48,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5a85ceb43a07.html"
+    },
+    {
+      "title": "أزمة دبلوماسية بين إثيوبيا وإريتريا، وسط توتر متصاعد مع مصر - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqwyzy2zd9pko",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-10-02T09:12:52+00:00",
+      "image": "./assets/news/6d333b95aaa5ca485c251fb8.jpg",
+      "original_image": "./assets/news/6d333b95aaa5ca485c251fb8.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cqwyzy2zd9pko",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/919bf214e326.html"
     },
     {
       "title": "العراق يتخذ قرارا يخص العائدين من المهجر",
@@ -71,8 +103,8 @@
       "category": "محليات",
       "region": "العراق",
       "published": "2026-10-02T08:41:16+00:00",
-      "image": "./assets/news/0d6400a02799bba1d164e0e3.jpg",
-      "original_image": "./assets/news/0d6400a02799bba1d164e0e3.jpg",
+      "image": "./assets/news/d90a0b7b68ff2da21ab1d986.jpg",
+      "original_image": "./assets/news/d90a0b7b68ff2da21ab1d986.jpg",
       "source_url": "https://www.alsumaria.tv/news/miscellaneous/577677/%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D9%87%D8%A7%D8%AA%D9%81%D9%83-%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D9%88%D9%82",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -80,22 +112,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/596f852a328b.html"
-    },
-    {
-      "title": "أزمة دبلوماسية بين إثيوبيا وإريتريا، وسط توتر متصاعد مع مصر - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqwyzy2zd9pko",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-10-02T08:33:55+00:00",
-      "image": "./assets/news/6d333b95aaa5ca485c251fb8.jpg",
-      "original_image": "./assets/news/6d333b95aaa5ca485c251fb8.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cqwyzy2zd9pko",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f836e3529743.html"
     },
     {
       "title": "الجزائر تُقر عقوبة الإعدام لمفتعِلي حرائق الغابات - شفق نيوز..",
@@ -130,29 +146,13 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/91b8777e3dbb.html"
     },
     {
-      "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت ضلوعها في حادثة طائرة \"فلاي دبي\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-02T08:16:30+00:00",
-      "image": "./assets/news/0ec08321944122498d59a8ef.jpg",
-      "original_image": "./assets/news/0ec08321944122498d59a8ef.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8047e1a34ffc.html"
-    },
-    {
       "title": "لوريال باريس تحتفي بالجمال والثقة بالنفس من قلب أسبوع الموضة",
       "url": "https://www.alsumaria.tv/news/artculture/577675/%D9%84%D9%88%D8%B1%D9%8A%D8%A7%D9%84-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-%D8%AA%D8%AD%D8%AA%D9%81%D9%8A-%D8%A8%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D8%AB%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D9%86%D9%81%D8%B3-%D9%85%D9%86-%D9%82%D9%84%D8%A8-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D8%B6%D8%A9",
       "category": "محليات",
       "region": "العراق",
       "published": "2026-10-02T08:11:21+00:00",
-      "image": "./assets/news/79388211ca5958fabc14361d.jpg",
-      "original_image": "./assets/news/79388211ca5958fabc14361d.jpg",
+      "image": "./assets/news/8f99c56eb072228ef9169d22.jpg",
+      "original_image": "./assets/news/8f99c56eb072228ef9169d22.jpg",
       "source_url": "https://www.alsumaria.tv/news/artculture/577675/%D9%84%D9%88%D8%B1%D9%8A%D8%A7%D9%84-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-%D8%AA%D8%AD%D8%AA%D9%81%D9%8A-%D8%A8%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D8%AB%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D9%86%D9%81%D8%B3-%D9%85%D9%86-%D9%82%D9%84%D8%A8-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D8%B6%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -496,22 +496,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f004ede64985.html"
-    },
-    {
-      "title": "دعاء كميل الليلة من كربلاء.. خشوع وتهجد بين الحرمين",
-      "url": "https://964media.com/722018/",
-      "category": "محليات",
-      "region": "كربلاء",
-      "published": "2026-10-01T18:32:45+00:00",
-      "image": "./assets/news/cee9256fb9c29d297a72efc5.jpg",
-      "original_image": "./assets/news/cee9256fb9c29d297a72efc5.jpg",
-      "source_url": "https://964media.com/722018/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "كربلاء",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/a51ec356b8a6.html"
     },
     {
       "title": "العراق يسترد “علياء حسوني” من لبنان لاختلاسها نحو 4 مليارات من صحة واسط",
