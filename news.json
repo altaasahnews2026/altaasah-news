@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T06:40:38.010974+00:00",
+  "updated_at": "2026-10-02T06:58:41.254135+00:00",
   "items": [
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
@@ -18,20 +18,36 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9812199a0868.html"
     },
     {
-      "title": "انفجار أعتدة موضوعة داخل كرفان جنوبي بغداد",
-      "url": "https://www.alsumaria.tv/news/security/577650/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A3%D8%B9%D8%AA%D8%AF%D8%A9-%D9%85%D9%88%D8%B6%D9%88%D8%B9%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D9%83%D8%B1%D9%81%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
-      "category": "أمن",
-      "region": "بغداد",
-      "published": "2026-10-01T17:35:22+00:00",
-      "image": "./assets/news/aad6ceee8e6a1d2b9d9cfb0f.jpg",
-      "original_image": "./assets/news/aad6ceee8e6a1d2b9d9cfb0f.jpg",
-      "source_url": "https://www.alsumaria.tv/news/security/577650/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A3%D8%B9%D8%AA%D8%AF%D8%A9-%D9%85%D9%88%D8%B6%D9%88%D8%B9%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D9%83%D8%B1%D9%81%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+      "title": "4 محافظات في الموجة العشرينية وامطار غزيرة حتى منتصف الاسبوع",
+      "url": "https://www.alsumaria.tv/news/localnews/577668/4-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%8A%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%85%D8%B7%D8%A7%D8%B1-%D8%BA%D8%B2%D9%8A%D8%B1%D8%A9-%D8%AD%D8%AA%D9%89-%D9%85%D9%86%D8%AA%D8%B5%D9%81-%D8%A7%D9%84%D8%A7%D8%B3%D8%A8%D9%88%D8%B9",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-10-02T06:45:42+00:00",
+      "image": "./assets/news/86aeddfdbc413eb5919f4f04.webp",
+      "original_image": "./assets/news/86aeddfdbc413eb5919f4f04.webp",
+      "source_url": "https://www.alsumaria.tv/news/localnews/577668/4-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%8A%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%85%D8%B7%D8%A7%D8%B1-%D8%BA%D8%B2%D9%8A%D8%B1%D8%A9-%D8%AD%D8%AA%D9%89-%D9%85%D9%86%D8%AA%D8%B5%D9%81-%D8%A7%D9%84%D8%A7%D8%B3%D8%A8%D9%88%D8%B9",
       "source_name": "السومرية نيوز",
-      "breaking": true,
+      "breaking": false,
       "kirkuk": false,
       "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8d14d06dc129.html"
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d6221907b3f9.html"
+    },
+    {
+      "title": "إثيوبيا وإريتريا تتبادلان قطع العلاقات، وتوتر متصاعد مع مصر - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqwyzy2zd9pko",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-10-02T06:43:09+00:00",
+      "image": "./assets/news/6d333b95aaa5ca485c251fb8.jpg",
+      "original_image": "./assets/news/6d333b95aaa5ca485c251fb8.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cqwyzy2zd9pko",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/f017f478c22f.html"
     },
     {
       "title": "مقتل عز الدين بك في غارة جوية",
@@ -39,8 +55,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-10-02T06:32:55+00:00",
-      "image": "./assets/news/f42bb36de1039f578b61bcdb.jpg",
-      "original_image": "./assets/news/f42bb36de1039f578b61bcdb.jpg",
+      "image": "./assets/news/9cc8595355708a1df497ecb5.jpg",
+      "original_image": "./assets/news/9cc8595355708a1df497ecb5.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577667/%D9%85%D9%82%D8%AA%D9%84-%D8%B9%D8%B2-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A8%D9%83-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -103,8 +119,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-10-02T05:31:27+00:00",
-      "image": "./assets/news/6955d0b64a1460b30ff75eff.jpg",
-      "original_image": "./assets/news/6955d0b64a1460b30ff75eff.jpg",
+      "image": "./assets/news/3a8b3c680a30ecf90e797916.jpg",
+      "original_image": "./assets/news/3a8b3c680a30ecf90e797916.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577664/%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D9%88%D8%B8%D9%81-%D9%81%D9%8A-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -112,22 +128,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2a029d59541a.html"
-    },
-    {
-      "title": "إثيوبيا وإريتريا تتبادلان قطع العلاقات، وتوتر متصاعد مع مصر - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cqwyzy2zd9pko",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-10-02T04:07:10+00:00",
-      "image": "./assets/news/6d333b95aaa5ca485c251fb8.jpg",
-      "original_image": "./assets/news/6d333b95aaa5ca485c251fb8.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cqwyzy2zd9pko",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3c0d970029da.html"
     },
     {
       "title": "الجزائر تقر عقوبة الإعدام لمفتعلي حرائق الغابات - شفق نيوز..",
@@ -512,22 +512,6 @@
       "report": true,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1bc658994925.html"
-    },
-    {
-      "title": "صقور الجو يزينون سماء بغداد والمحافظات غداً احتفالاً بـ”يوم السيادة”",
-      "url": "https://964media.com/721992/",
-      "category": "سياسة",
-      "region": "بغداد",
-      "published": "2026-10-01T17:15:12+00:00",
-      "image": "./assets/news/86ce656d2c34f74a95901bde.jpg",
-      "original_image": "./assets/news/86ce656d2c34f74a95901bde.jpg",
-      "source_url": "https://964media.com/721992/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/627a9717a929.html"
     },
     {
       "title": "العراق يسترد “علياء حسوني” من لبنان لاختلاسها نحو 4 مليارات من صحة واسط",
