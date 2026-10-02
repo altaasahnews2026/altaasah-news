@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T11:30:47.210147+00:00",
+  "updated_at": "2026-10-02T11:45:55.366111+00:00",
   "items": [
     {
       "title": "انفجار مجهول يهز مطار تفتناز السوري",
@@ -16,6 +16,70 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0766d77f3206.html"
+    },
+    {
+      "title": "تحديد موعد حسم استكمال الكابينة الحكومية",
+      "url": "https://www.alsumaria.tv/news/politics/577687/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%AD%D8%B3%D9%85-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9",
+      "category": "سياسة",
+      "region": "العراق",
+      "published": "2026-10-02T11:42:01+00:00",
+      "image": "./assets/news/29059d2fdd6309ff7c52a766.jpg",
+      "original_image": "./assets/news/29059d2fdd6309ff7c52a766.jpg",
+      "source_url": "https://www.alsumaria.tv/news/politics/577687/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%AD%D8%B3%D9%85-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/48a09b24b217.html"
+    },
+    {
+      "title": "آبل تتحرك بشان ثغرة أمنية في آيفون وآيباد",
+      "url": "https://www.alsumaria.tv/news/miscellaneous/577686/%D8%A2%D8%A8%D9%84-%D8%AA%D8%AA%D8%AD%D8%B1%D9%83-%D8%A8%D8%B4%D8%A7%D9%86-%D8%AB%D8%BA%D8%B1%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A2%D9%8A%D9%81%D9%88%D9%86-%D9%88%D8%A2%D9%8A%D8%A8%D8%A7%D8%AF",
+      "category": "أمن",
+      "region": "العراق",
+      "published": "2026-10-02T11:32:22+00:00",
+      "image": "./assets/news/1b8a819247d463fa7cf9f63c.jpg",
+      "original_image": "./assets/news/1b8a819247d463fa7cf9f63c.jpg",
+      "source_url": "https://www.alsumaria.tv/news/miscellaneous/577686/%D8%A2%D8%A8%D9%84-%D8%AA%D8%AA%D8%AD%D8%B1%D9%83-%D8%A8%D8%B4%D8%A7%D9%86-%D8%AB%D8%BA%D8%B1%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A2%D9%8A%D9%81%D9%88%D9%86-%D9%88%D8%A2%D9%8A%D8%A8%D8%A7%D8%AF",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/784ec4d4a70b.html"
+    },
+    {
+      "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت تورطها بحادثة طائرة \"فلاي دبي\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
+      "category": "أمن",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-10-02T11:30:38+00:00",
+      "image": "./assets/news/0ec08321944122498d59a8ef.jpg",
+      "original_image": "./assets/news/0ec08321944122498d59a8ef.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/809e7d463a50.html"
+    },
+    {
+      "title": "\"الاعتماد على الأمم المتحدة في هذا الوضع يضع العالم في مأزق كبير\" - مقال في الغارديان - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cmp8d88z5we9o",
+      "category": "محليات",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-10-02T11:23:47+00:00",
+      "image": "./assets/news/4425d1ca36933ca5feef34c2.jpg",
+      "original_image": "./assets/news/4425d1ca36933ca5feef34c2.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cmp8d88z5we9o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9388dd581ebe.html"
     },
     {
       "title": "خطيب جمعة النجف يتحدث عن حظر الطيران على ايران وخروج المنتخب من خليجي 27",
@@ -130,22 +194,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/4a4cb316fadd.html"
     },
     {
-      "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت ضلوعها في حادثة طائرة \"فلاي دبي\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
-      "category": "أمن",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-02T09:27:44+00:00",
-      "image": "./assets/news/0ec08321944122498d59a8ef.jpg",
-      "original_image": "./assets/news/0ec08321944122498d59a8ef.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/21bceb35ab4a.html"
-    },
-    {
       "title": "ماذا سيحدث للبشرية والعالم في 13 تشرين الثاني القادم؟.. تنبؤات اطلقت قبل 66 عاما",
       "url": "https://www.alsumaria.tv/news/international/577680/%D9%85%D8%A7%D8%B0%D8%A7-%D8%B3%D9%8A%D8%AD%D8%AF%D8%AB-%D9%84%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%81%D9%8A-13-%D8%AA%D8%B4%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%9F-%D8%AA%D9%86%D8%A8%D8%A4%D8%A7%D8%AA-%D8%A7%D8%B7%D9%84%D9%82%D8%AA-%D9%82%D8%A8%D9%84",
       "category": "محليات",
@@ -224,22 +272,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/596f852a328b.html"
-    },
-    {
-      "title": "الجزائر تُقر عقوبة الإعدام لمفتعِلي حرائق الغابات - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c65ywyz03pn4o",
-      "category": "عربي ودولي",
-      "region": "عربي ودولي",
-      "governorate": "",
-      "published": "2026-10-02T08:26:08+00:00",
-      "image": "./assets/news/e798ce4e6e0297eeb0900cfc.jpg",
-      "original_image": "./assets/news/e798ce4e6e0297eeb0900cfc.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c65ywyz03pn4o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7ef22d067170.html"
     },
     {
       "title": "صادقون تعليقا على تصريحات بارزاني: نأخذها على محمل انتخابي",
@@ -400,38 +432,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d6221907b3f9.html"
-    },
-    {
-      "title": "مقتل عز الدين بك في غارة جوية",
-      "url": "https://www.alsumaria.tv/news/international/577667/%D9%85%D9%82%D8%AA%D9%84-%D8%B9%D8%B2-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A8%D9%83-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9",
-      "category": "أمن",
-      "region": "العراق",
-      "published": "2026-10-02T06:32:55+00:00",
-      "image": "./assets/news/f42bb36de1039f578b61bcdb.jpg",
-      "original_image": "./assets/news/f42bb36de1039f578b61bcdb.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/577667/%D9%85%D9%82%D8%AA%D9%84-%D8%B9%D8%B2-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A8%D9%83-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c86bdd3f55d2.html"
-    },
-    {
-      "title": "ولاية أمريكية ثانية تعلن عيد الفطر وعيد الأضحى عطلتين رسميتين",
-      "url": "https://www.alsumaria.tv/news/international/577666/%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%81%D8%B7%D8%B1-%D9%88%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D8%B6%D8%AD%D9%89-%D8%B9%D8%B7%D9%84%D8%AA%D9%8A%D9%86-%D8%B1%D8%B3%D9%85%D9%8A%D8%AA%D9%8A%D9%86",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-10-02T06:26:23+00:00",
-      "image": "./assets/news/a58fca92d2a09484af71ed3c.jpg",
-      "original_image": "./assets/news/a58fca92d2a09484af71ed3c.jpg",
-      "source_url": "https://www.alsumaria.tv/news/international/577666/%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%81%D8%B7%D8%B1-%D9%88%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D8%B6%D8%AD%D9%89-%D8%B9%D8%B7%D9%84%D8%AA%D9%8A%D9%86-%D8%B1%D8%B3%D9%85%D9%8A%D8%AA%D9%8A%D9%86",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7812d58720c5.html"
     },
     {
       "title": "القوات الحكومية اليمنية تعلن استهداف مواقع \"ذات قيمة عالية\" في صنعاء بعد سماع دوي انفجارات قوية - شفق نيوز..",
