@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T00:35:31.216837+00:00",
+  "updated_at": "2026-10-02T00:55:31.485090+00:00",
   "items": [
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
@@ -34,6 +34,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8d14d06dc129.html"
     },
     {
+      "title": "القوات الحكومية اليمنية تعلن استهداف مواقع \"ذات قيمة عالية\" في صنعاء - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
+      "category": "سياسة",
+      "region": "العراق",
+      "governorate": "",
+      "published": "2026-10-02T00:16:40+00:00",
+      "image": "./assets/news/64016034c628efe4dbc137c9.jpg",
+      "original_image": "./assets/news/64016034c628efe4dbc137c9.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/067a8cc4880a.html"
+    },
+    {
       "title": "حرائق واحتجاجات طلابية: ماذا يحدث في فرنسا؟ - شفق نيوز..",
       "url": "https://shafaq.com/ar/bbc-arabic/cq3d7dle9jz7o",
       "category": "محليات",
@@ -64,22 +80,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2eb4a1efa0c6.html"
-    },
-    {
-      "title": "القوات الحكومية اليمنية تعلن استهداف مواقع \"ذات قيمة عالية\" في صنعاء، والتحالف يعترض مسيرات وصواريخ حوثية باتجاه جنوب السعودية - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
-      "category": "سياسة",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-01T22:39:57+00:00",
-      "image": "./assets/news/64016034c628efe4dbc137c9.jpg",
-      "original_image": "./assets/news/64016034c628efe4dbc137c9.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d3aeb2b5cfac.html"
     },
     {
       "title": "وفاة باكستاني بظروف غامضة في النجف",
@@ -455,8 +455,8 @@
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-10-01T17:18:07+00:00",
-      "image": "./assets/news/0336fe21a8704fc65a5f0555.jpg",
-      "original_image": "./assets/news/0336fe21a8704fc65a5f0555.jpg",
+      "image": "./assets/news/d51a220cc01f107e75d92ac9.jpg",
+      "original_image": "./assets/news/d51a220cc01f107e75d92ac9.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/577649/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D8%AD%D9%85%D9%8A%D9%87%D8%A7-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%88%D9%8A%D8%B6%D9%85%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
