@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T09:55:06.279903+00:00",
+  "updated_at": "2026-10-02T10:04:01.998867+00:00",
   "latest": [
     {
       "title": "بيان إيراني حول العراق: نحترم سيادتكم.. ترامب يثير فتنة ونريد أن نطير بشكل طبيعي",
@@ -511,6 +511,14 @@
       ]
     },
     {
+      "title": "استطلاع: السويسريون يعارضون اتفاقاً لشراء مقاتلات أميركية",
+      "url": "https://aawsat.com/node/5325107",
+      "category": "دولي",
+      "published": "Fri, 02 Oct 2026 10:55:22 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "احتجاجات طلابية تغلق 400 مدرسة ثانوية في فرنسا... وتوقيف ألفَيْ شخص",
       "url": "https://aawsat.com/node/5325102",
       "category": "دولي",
@@ -611,14 +619,6 @@
       "url": "https://aawsat.com/node/5324844",
       "category": "دولي",
       "published": "Thu, 01 Oct 2026 15:57:26 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "هولندا تعلن 4 وفيات جديدة بسبب فيروس غرب النيل",
-      "url": "https://aawsat.com/node/5324786",
-      "category": "دولي",
-      "published": "Thu, 01 Oct 2026 14:26:43 +0100",
       "breaking": false,
       "watch_topics": []
     }
