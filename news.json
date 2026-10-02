@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T14:59:10.075719+00:00",
+  "updated_at": "2026-10-02T15:13:45.539770+00:00",
   "items": [
     {
       "title": "مكافحة الإرهاب في منزل ضحايا اشتباك آلتون كوبري.. تعهد للأم بكشف الحقيقة",
@@ -18,6 +18,22 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/299d442303b6.html"
     },
     {
+      "title": "ترامب: أوروبا توافق على الإفراج عن كميات كبيرة من مخزونات الديزل Publishing Date * Set N",
+      "url": "https://www.alsumaria.tv/news/international/577697/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D9%85%D8%AE%D8%B2%D9%88%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%8A%D8%B2%D9%84-publis",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-10-02T14:58:17+00:00",
+      "image": "./assets/news/552009d61bce4bff0fe7123f.jpg",
+      "original_image": "./assets/news/552009d61bce4bff0fe7123f.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577697/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D9%85%D8%AE%D8%B2%D9%88%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%8A%D8%B2%D9%84-publis",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/2af7af9dfb01.html"
+    },
+    {
       "title": "الدفاع تلخص أبرز مواقفها: لا قوات للتحالف في العراق وتطوير منظومات الدفاع الجوي ونفي سقوط F16 Publishing Date *",
       "url": "https://www.alsumaria.tv/news/security/577696/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%AA%D9%84%D8%AE%D8%B5-%D8%A3%D8%A8%D8%B1%D8%B2-%D9%85%D9%88%D8%A7%D9%82%D9%81%D9%87%D8%A7-%D9%84%D8%A7-%D9%82%D9%88%D8%A7%D8%AA-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%88%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81",
       "category": "سياسة",
@@ -32,6 +48,22 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1dd38c7d1fd0.html"
+    },
+    {
+      "title": "العراق وسوريا ولبنان أمام فرصة تاريخية.. ممرات جديدة تتجاوز مضيق هرمز",
+      "url": "https://964media.com/722142/",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-10-02T14:45:20+00:00",
+      "image": "./assets/news/f3cd75109ee74630d94d6dab.jpg",
+      "original_image": "./assets/news/f3cd75109ee74630d94d6dab.jpg",
+      "source_url": "https://964media.com/722142/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/33be3130c962.html"
     },
     {
       "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت تورطها بحادثة طائرة \"فلاي دبي\" - شفق نيوز..",
@@ -354,22 +386,6 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/7654893e1d2a.html"
     },
     {
-      "title": "مقاتلات F-16 تستعرض في سماء بغداد والمحافظات احتفالاً بـ “السيادة”",
-      "url": "https://964media.com/722106/",
-      "category": "سياسة",
-      "region": "بغداد",
-      "published": "2026-10-02T10:03:09+00:00",
-      "image": "./assets/news/89501db6b979d00678a26063.jpg",
-      "original_image": "./assets/news/89501db6b979d00678a26063.jpg",
-      "source_url": "https://964media.com/722106/",
-      "source_name": "شبكة 964",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "بغداد",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/b031d96ff0fd.html"
-    },
-    {
       "title": "البنتاغون يرسل نحو 10 آلاف جندي إلى الشرق الأوسط.. ما القصة؟",
       "url": "https://www.alsumaria.tv/news/international/577682/%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%8A%D8%B1%D8%B3%D9%84-%D9%86%D8%AD%D9%88-10-%D8%A2%D9%84%D8%A7%D9%81-%D8%AC%D9%86%D8%AF%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D9%85%D8%A7-%D8%A7%D9%84%D9%82%D8%B5%D8%A9%D8%9F",
       "category": "محليات",
@@ -448,22 +464,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c686fc7578e4.html"
-    },
-    {
-      "title": "خطوات عاجلة لحماية البيانات في هاتفك المسروق",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/577677/%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D9%87%D8%A7%D8%AA%D9%81%D9%83-%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D9%88%D9%82",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-10-02T08:41:16+00:00",
-      "image": "./assets/news/d90a0b7b68ff2da21ab1d986.jpg",
-      "original_image": "./assets/news/d90a0b7b68ff2da21ab1d986.jpg",
-      "source_url": "https://www.alsumaria.tv/news/miscellaneous/577677/%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D9%87%D8%A7%D8%AA%D9%81%D9%83-%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D9%88%D9%82",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/596f852a328b.html"
     },
     {
       "title": "نيجيرفان بارزاني بالعربي في بغداد.. خارطة طريق تسد فراغ أمريكا وتمنع نزاعات آتية",

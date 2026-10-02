@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T14:59:13.241406+00:00",
+  "updated_at": "2026-10-02T15:13:51.021605+00:00",
   "latest": [
     {
       "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت تورطها بحادثة طائرة \"فلاي دبي\" - شفق نيوز..",
@@ -11,14 +11,6 @@
         "إيران",
         "أمريكا"
       ]
-    },
-    {
-      "title": "خطوات عاجلة لحماية البيانات في هاتفك المسروق",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/577677/%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D9%87%D8%A7%D8%AA%D9%81%D9%83-%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D9%88%D9%82",
-      "category": "عراق",
-      "published": "2026-10-02T08:41:16+00:00",
-      "breaking": true,
-      "watch_topics": []
     },
     {
       "title": "بيان جديد حول انباء سقوط طائرة F16 عراقية اليوم",
@@ -131,6 +123,26 @@
       ]
     },
     {
+      "title": "العراق وسوريا ولبنان أمام فرصة تاريخية.. ممرات جديدة تتجاوز مضيق هرمز",
+      "url": "https://964media.com/722142/",
+      "category": "عراق",
+      "published": "2026-10-02T14:45:20+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "ترامب: أوروبا توافق على الإفراج عن كميات كبيرة من مخزونات الديزل Publishing Date * Set N",
+      "url": "https://www.alsumaria.tv/news/international/577697/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D9%85%D8%AE%D8%B2%D9%88%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%8A%D8%B2%D9%84-publis",
+      "category": "عراق",
+      "published": "2026-10-02T14:58:17+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "أمريكا"
+      ]
+    },
+    {
       "title": "العراق يسترد “علياء حسوني” من لبنان لاختلاسها نحو 4 مليارات من صحة واسط",
       "url": "https://964media.com/721880/",
       "category": "عراق",
@@ -167,14 +179,6 @@
       "url": "https://www.alsumaria.tv/news/international/577680/%D9%85%D8%A7%D8%B0%D8%A7-%D8%B3%D9%8A%D8%AD%D8%AF%D8%AB-%D9%84%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%81%D9%8A-13-%D8%AA%D8%B4%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%9F-%D8%AA%D9%86%D8%A8%D8%A4%D8%A7%D8%AA-%D8%A7%D8%B7%D9%84%D9%82%D8%AA-%D9%82%D8%A8%D9%84",
       "category": "عراق",
       "published": "2026-10-02T09:13:32+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "مقاتلات F-16 تستعرض في سماء بغداد والمحافظات احتفالاً بـ “السيادة”",
-      "url": "https://964media.com/722106/",
-      "category": "عراق",
-      "published": "2026-10-02T10:03:09+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -626,14 +630,6 @@
     }
   ],
   "breaking": [
-    {
-      "title": "خطوات عاجلة لحماية البيانات في هاتفك المسروق",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/577677/%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D9%87%D8%A7%D8%AA%D9%81%D9%83-%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D9%88%D9%82",
-      "category": "عراق",
-      "published": "2026-10-02T08:41:16+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
     {
       "title": "بيان جديد حول انباء سقوط طائرة F16 عراقية اليوم",
       "url": "https://www.alsumaria.tv/news/security/577688/%D8%A8%D9%8A%D8%A7%D9%86-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%AD%D9%88%D9%84-%D8%A7%D9%86%D8%A8%D8%A7%D8%A1-%D8%B3%D9%82%D9%88%D8%B7-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-f16-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
