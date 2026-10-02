@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T15:13:51.021605+00:00",
+  "updated_at": "2026-10-02T15:32:28.803675+00:00",
   "latest": [
     {
       "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت تورطها بحادثة طائرة \"فلاي دبي\" - شفق نيوز..",
@@ -143,6 +143,26 @@
       ]
     },
     {
+      "title": "إحباط محاولة تهريب عجول وأبقار من العراق إلى إيران",
+      "url": "https://964media.com/722160/",
+      "category": "عراق",
+      "published": "2026-10-02T15:04:29+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
+      "title": "الزيدي يعلن السماح بتسيير 40 رحلة جوية يومياً من وإلى مطار النجف لشركات الطيران الإيرانية Publishing Date *",
+      "url": "https://www.alsumaria.tv/news/localnews/577699/%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a-%d9%8a%d8%b9%d9%84%d9%86-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%ad-%d8%a8%d8%aa%d8%b3%d9%8a%d9%8a%d8%b1-40-%d8%b1%d8%ad%d9%84%d8%a9-%d8%ac%d9%88%d9%8a%d8%a9-%d9%8a%d9%88%d9%85%d9%8a%d8%a7%d9%8b-%d9%85%d9%86?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "category": "عراق",
+      "published": "Fri, 02 Oct 2026 15:29:05 GMT",
+      "breaking": false,
+      "watch_topics": [
+        "إيران"
+      ]
+    },
+    {
       "title": "العراق يسترد “علياء حسوني” من لبنان لاختلاسها نحو 4 مليارات من صحة واسط",
       "url": "https://964media.com/721880/",
       "category": "عراق",
@@ -155,22 +175,6 @@
       "url": "https://964media.com/722014/",
       "category": "عراق",
       "published": "2026-10-01T20:41:54+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "التربية تعلن وصول دفعة جديدة من الكتب المنهجية إلى المخازن",
-      "url": "https://www.alsumaria.tv/news/localnews/577678/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%88%D8%B5%D9%88%D9%84-%D8%AF%D9%81%D8%B9%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%B2%D9%86",
-      "category": "عراق",
-      "published": "2026-10-02T08:44:42+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "العراق يتخذ قرارا يخص العائدين من المهجر",
-      "url": "https://www.alsumaria.tv/news/localnews/577679/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AA%D8%AE%D8%B0-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7-%D9%8A%D8%AE%D8%B5-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D8%AF%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%87%D8%AC%D8%B1",
-      "category": "عراق",
-      "published": "2026-10-02T08:54:29+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -469,6 +473,14 @@
       ]
     },
     {
+      "title": "الحكومة الإسبانية تخسر تصويتين برلمانيين لإقرار إجراءات الإسكان الطارئة",
+      "url": "https://aawsat.com/node/5325157",
+      "category": "دولي",
+      "published": "Fri, 02 Oct 2026 14:08:37 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "مقتل شخصين وفقدان ثالث بتحطم مروحية إجلاء طبي قبالة لوس أنجليس",
       "url": "https://aawsat.com/node/5324770",
       "category": "دولي",
@@ -517,10 +529,10 @@
       ]
     },
     {
-      "title": "مظاهرات في مدريد مع مواجهة الحكومة الإسبانية تصويتاً حاسماً بشأن أزمة الإيجارات",
-      "url": "https://aawsat.com/node/5325157",
+      "title": "حكومة فنلندا تنجو من تصويت على الثقة بعد جدل أثارته زيارة وزير الدفاع لإسرائيل",
+      "url": "https://aawsat.com/node/5325206",
       "category": "دولي",
-      "published": "Fri, 02 Oct 2026 14:08:37 +0100",
+      "published": "Fri, 02 Oct 2026 16:23:32 +0100",
       "breaking": false,
       "watch_topics": []
     },
@@ -617,14 +629,6 @@
       "url": "https://aawsat.com/node/5324883",
       "category": "دولي",
       "published": "Thu, 01 Oct 2026 17:41:13 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "موجة جديدة من العقوبات البريطانية ضد صندوق الحرب الروسي",
-      "url": "https://aawsat.com/node/5324875",
-      "category": "دولي",
-      "published": "Thu, 01 Oct 2026 17:17:18 +0100",
       "breaking": false,
       "watch_topics": []
     }
@@ -751,6 +755,14 @@
       "watch_topics": [
         "أمريكا"
       ]
+    },
+    {
+      "title": "الحكومة الإسبانية تخسر تصويتين برلمانيين لإقرار إجراءات الإسكان الطارئة",
+      "url": "https://aawsat.com/node/5325157",
+      "category": "دولي",
+      "published": "Fri, 02 Oct 2026 14:08:37 +0100",
+      "breaking": true,
+      "watch_topics": []
     },
     {
       "title": "مقتل شخصين وفقدان ثالث بتحطم مروحية إجلاء طبي قبالة لوس أنجليس",

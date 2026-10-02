@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T15:13:45.539770+00:00",
+  "updated_at": "2026-10-02T15:32:23.724694+00:00",
   "items": [
     {
       "title": "مكافحة الإرهاب في منزل ضحايا اشتباك آلتون كوبري.. تعهد للأم بكشف الحقيقة",
@@ -16,6 +16,38 @@
       "report": false,
       "governorate": "كركوك",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/299d442303b6.html"
+    },
+    {
+      "title": "مجموعة السبع تعلن سحب 100 مليون برميل من احتياطيات الطاقة لدعم الأسواق Publishing Date *",
+      "url": "https://www.alsumaria.tv/news/international/577698/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D8%A8%D8%B9-%D8%AA%D8%B9%D9%84%D9%86-%D8%B3%D8%AD%D8%A8-100-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%85%D9%86-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-10-02T15:19:27+00:00",
+      "image": "./assets/news/05ed66ad4a612aa61c386b1b.jpg",
+      "original_image": "./assets/news/05ed66ad4a612aa61c386b1b.jpg",
+      "source_url": "https://www.alsumaria.tv/news/international/577698/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D8%A8%D8%B9-%D8%AA%D8%B9%D9%84%D9%86-%D8%B3%D8%AD%D8%A8-100-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%85%D9%86-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/fec193c5dd5f.html"
+    },
+    {
+      "title": "إحباط محاولة تهريب عجول وأبقار من العراق إلى إيران",
+      "url": "https://964media.com/722160/",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "published": "2026-10-02T15:04:29+00:00",
+      "image": "./assets/news/695aca020b300a9e722aa838.jpg",
+      "original_image": "./assets/news/695aca020b300a9e722aa838.jpg",
+      "source_url": "https://964media.com/722160/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1bab8c2e4103.html"
     },
     {
       "title": "ترامب: أوروبا توافق على الإفراج عن كميات كبيرة من مخزونات الديزل Publishing Date * Set N",
@@ -432,38 +464,6 @@
       "report": false,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5a85ceb43a07.html"
-    },
-    {
-      "title": "العراق يتخذ قرارا يخص العائدين من المهجر",
-      "url": "https://www.alsumaria.tv/news/localnews/577679/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AA%D8%AE%D8%B0-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7-%D9%8A%D8%AE%D8%B5-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D8%AF%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%87%D8%AC%D8%B1",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-10-02T08:54:29+00:00",
-      "image": "./assets/news/1e7cd3e478418e658f1a319e.jpg",
-      "original_image": "./assets/news/1e7cd3e478418e658f1a319e.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577679/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AA%D8%AE%D8%B0-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7-%D9%8A%D8%AE%D8%B5-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D8%AF%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%87%D8%AC%D8%B1",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9d2c05086d86.html"
-    },
-    {
-      "title": "التربية تعلن وصول دفعة جديدة من الكتب المنهجية إلى المخازن",
-      "url": "https://www.alsumaria.tv/news/localnews/577678/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%88%D8%B5%D9%88%D9%84-%D8%AF%D9%81%D8%B9%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%B2%D9%86",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-10-02T08:44:42+00:00",
-      "image": "./assets/news/414cd6ebeca7aca7338eff8f.jpg",
-      "original_image": "./assets/news/414cd6ebeca7aca7338eff8f.jpg",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577678/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%88%D8%B5%D9%88%D9%84-%D8%AF%D9%81%D8%B9%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%B2%D9%86",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/c686fc7578e4.html"
     },
     {
       "title": "نيجيرفان بارزاني بالعربي في بغداد.. خارطة طريق تسد فراغ أمريكا وتمنع نزاعات آتية",
