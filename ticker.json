@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T01:51:25.419905+00:00",
+  "updated_at": "2026-10-02T02:02:51.449713+00:00",
   "latest": [
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
@@ -432,16 +432,6 @@
       ]
     },
     {
-      "title": "السعودية تؤكد رفض استخدام الممرات الحيوية أداةً للإضرار بمصالح الدول",
-      "url": "https://aawsat.com/node/5323989",
-      "category": "مشرق أوسط",
-      "published": "Tue, 29 Sep 2026 17:22:51 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
       "title": "تايوان تؤكد لواشنطن أن تسليحها مصلحة أميركية",
       "url": "https://aawsat.com/node/5322757",
       "category": "مشرق أوسط",
@@ -464,6 +454,14 @@
       "url": "https://aawsat.com/node/5324763",
       "category": "مشرق أوسط",
       "published": "Thu, 01 Oct 2026 13:39:56 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "«العزم الصلب» تغادر العراق",
+      "url": "https://aawsat.com/node/5324575",
+      "category": "مشرق أوسط",
+      "published": "Thu, 01 Oct 2026 02:02:24 +0100",
       "breaking": false,
       "watch_topics": []
     },
