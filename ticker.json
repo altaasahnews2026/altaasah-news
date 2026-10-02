@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T18:35:56.563498+00:00",
+  "updated_at": "2026-10-02T18:53:45.495711+00:00",
   "latest": [
     {
       "title": "الزيدي يعلن استئناف رحلات الشركات الإيرانية إلى النجف: أميركا وافقت على 40 رحلة فقط",
@@ -22,14 +22,6 @@
         "إيران",
         "أمريكا"
       ]
-    },
-    {
-      "title": "وفد رفيع من مكافحة الإرهاب يزور مجلسَي عزاء شهيدين في كركوك Publishing Date * Set Now",
-      "url": "https://www.alsumaria.tv/news/security/577689/%D9%88%D9%81%D8%AF-%D8%B1%D9%81%D9%8A%D8%B9-%D9%85%D9%86-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%8A%D8%B2%D9%88%D8%B1-%D9%85%D8%AC%D9%84%D8%B3%D9%8E%D9%8A-%D8%B9%D8%B2%D8%A7%D8%A1-%D8%B4%D9%87%D9%8A%D8%AF%D9%8A%D9%86-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83-publishing",
-      "category": "عراق",
-      "published": "2026-10-02T12:51:06+00:00",
-      "breaking": true,
-      "watch_topics": []
     },
     {
       "title": "مقتل شخص بنيران مسلحين مجهولين في أبي صخير بالبصرة",
@@ -250,6 +242,14 @@
       "watch_topics": []
     },
     {
+      "title": "هل أنت أسد أم دب أم ذئب أم ثعلب؟ طبيب عراقي يثير الجدل ويكشف السرّ لخسارة الوزن بدون جوع",
+      "url": "https://www.alsumaria.tv/news/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88/572087/%D9%87%D9%84-%D8%A3%D9%86%D8%AA-%D8%A3%D8%B3%D8%AF-%D8%A3%D9%85-%D8%AF%D8%A8-%D8%A3%D9%85-%D8%B0%D8%A6%D8%A8-%D8%A3%D9%85-%D8%AB%D8%B9%D9%84%D8%A8%D8%9F-%D8%B7%D8%A8%D9%8A%D8%A8-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D9%88%D9%8A%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D8%B3%D8%B1%D9%91-%D9%84%D8%AE%D8%B3",
+      "category": "عراق",
+      "published": "2026-10-02T16:10:27+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "تحذيرات يمنية من أخطار حوثية عابرة للحدود",
       "url": "https://aawsat.com/node/5324724",
       "category": "مشرق أوسط",
@@ -320,6 +320,16 @@
       "published": "Sat, 26 Sep 2026 12:54:44 +0100",
       "breaking": true,
       "watch_topics": []
+    },
+    {
+      "title": "وزير خارجية باكستان: «حلف مكة» يبحث في الرياض هجمات الحوثيين",
+      "url": "https://aawsat.com/node/5325268",
+      "category": "مشرق أوسط",
+      "published": "Fri, 02 Oct 2026 19:48:51 +0100",
+      "breaking": false,
+      "watch_topics": [
+        "السعودية"
+      ]
     },
     {
       "title": "تدمير باليستيين و4 «مسيَّرات» حوثية جنوب السعودية",
@@ -396,16 +406,6 @@
       "url": "https://aawsat.com/node/5324292",
       "category": "مشرق أوسط",
       "published": "Wed, 30 Sep 2026 12:30:07 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "محادثات سعودية ــ إماراتية في الرياض",
-      "url": "https://aawsat.com/node/5324143",
-      "category": "مشرق أوسط",
-      "published": "Wed, 30 Sep 2026 00:54:12 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
@@ -542,6 +542,14 @@
       ]
     },
     {
+      "title": "بريطانيا تدرس خفض دعم تحسين كفاءة الطاقة في المنازل لتمويل الإنفاق العسكري",
+      "url": "https://aawsat.com/node/5325269",
+      "category": "دولي",
+      "published": "Fri, 02 Oct 2026 19:51:11 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "حراك الطلاب يهزّ فرنسا... والحكومة تسابق اتساع الغضب",
       "url": "https://aawsat.com/node/5325260",
       "category": "دولي",
@@ -620,25 +628,9 @@
       "published": "Thu, 01 Oct 2026 21:34:03 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "روبيو يزور آيسلندا تعزيزاً للاندفاعة الدبلوماسية الأميركية في القطب الشمالي",
-      "url": "https://aawsat.com/node/5324934",
-      "category": "دولي",
-      "published": "Thu, 01 Oct 2026 20:38:04 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
-    {
-      "title": "وفد رفيع من مكافحة الإرهاب يزور مجلسَي عزاء شهيدين في كركوك Publishing Date * Set Now",
-      "url": "https://www.alsumaria.tv/news/security/577689/%D9%88%D9%81%D8%AF-%D8%B1%D9%81%D9%8A%D8%B9-%D9%85%D9%86-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%8A%D8%B2%D9%88%D8%B1-%D9%85%D8%AC%D9%84%D8%B3%D9%8E%D9%8A-%D8%B9%D8%B2%D8%A7%D8%A1-%D8%B4%D9%87%D9%8A%D8%AF%D9%8A%D9%86-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%88%D9%83-publishing",
-      "category": "عراق",
-      "published": "2026-10-02T12:51:06+00:00",
-      "breaking": true,
-      "watch_topics": []
-    },
     {
       "title": "مقتل شخص بنيران مسلحين مجهولين في أبي صخير بالبصرة",
       "url": "https://www.alsumaria.tv/news/security/577694/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D8%A8%D9%86%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%B3%D9%84%D8%AD%D9%8A%D9%86-%D9%85%D8%AC%D9%87%D9%88%D9%84%D9%8A%D9%86-%D9%81%D9%8A-%D8%A3%D8%A8%D9%8A-%D8%B5%D8%AE%D9%8A%D8%B1-%D8%A8%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9",
