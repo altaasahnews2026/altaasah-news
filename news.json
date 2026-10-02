@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T06:58:41.254135+00:00",
+  "updated_at": "2026-10-02T07:11:32.621341+00:00",
   "items": [
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
@@ -16,6 +16,22 @@
       "report": true,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/9812199a0868.html"
+    },
+    {
+      "title": "نيجيرفان بارزاني بالعربي في بغداد.. خارطة طريق تسد فراغ أمريكا وتمنع نزاعات آتية",
+      "url": "https://964media.com/722087/",
+      "category": "عربي ودولي",
+      "region": "بغداد",
+      "published": "2026-10-02T06:48:19+00:00",
+      "image": "./assets/news/c6b3ae00b9598a470c271294.jpg",
+      "original_image": "./assets/news/c6b3ae00b9598a470c271294.jpg",
+      "source_url": "https://964media.com/722087/",
+      "source_name": "شبكة 964",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "بغداد",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/352f84972188.html"
     },
     {
       "title": "4 محافظات في الموجة العشرينية وامطار غزيرة حتى منتصف الاسبوع",
@@ -55,8 +71,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-10-02T06:32:55+00:00",
-      "image": "./assets/news/9cc8595355708a1df497ecb5.jpg",
-      "original_image": "./assets/news/9cc8595355708a1df497ecb5.jpg",
+      "image": "./assets/news/f42bb36de1039f578b61bcdb.jpg",
+      "original_image": "./assets/news/f42bb36de1039f578b61bcdb.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577667/%D9%85%D9%82%D8%AA%D9%84-%D8%B9%D8%B2-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A8%D9%83-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B1%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -119,8 +135,8 @@
       "category": "أمن",
       "region": "العراق",
       "published": "2026-10-02T05:31:27+00:00",
-      "image": "./assets/news/3a8b3c680a30ecf90e797916.jpg",
-      "original_image": "./assets/news/3a8b3c680a30ecf90e797916.jpg",
+      "image": "./assets/news/6955d0b64a1460b30ff75eff.jpg",
+      "original_image": "./assets/news/6955d0b64a1460b30ff75eff.jpg",
       "source_url": "https://www.alsumaria.tv/news/international/577664/%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D9%88%D8%B8%D9%81-%D9%81%D9%8A-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86",
       "source_name": "السومرية نيوز",
       "breaking": false,
