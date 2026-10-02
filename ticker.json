@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-10-02T13:06:57.271699+00:00",
+  "updated_at": "2026-10-02T13:25:27.668524+00:00",
   "latest": [
+    {
+      "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت تورطها بحادثة طائرة \"فلاي دبي\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
+      "category": "عراق",
+      "published": "2026-10-02T11:30:38+00:00",
+      "breaking": false,
+      "watch_topics": [
+        "إيران",
+        "أمريكا"
+      ]
+    },
+    {
+      "title": "القوات الحكومية اليمنية تعلن استهداف مواقع \"ذات قيمة عالية\" في صنعاء بعد سماع دوي انفجارات قوية - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
+      "category": "عراق",
+      "published": "2026-10-02T06:10:20+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
     {
       "title": "خطوات عاجلة لحماية البيانات في هاتفك المسروق",
       "url": "https://www.alsumaria.tv/news/miscellaneous/577677/%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D9%87%D8%A7%D8%AA%D9%81%D9%83-%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D9%88%D9%82",
@@ -100,26 +119,18 @@
       "watch_topics": []
     },
     {
-      "title": "الطيران الحربي يحلق في سماء بغداد والمحافظات",
-      "url": "https://www.alsumaria.tv/news/security/577670/%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A-%D9%8A%D8%AD%D9%84%D9%82-%D9%81%D9%8A-%D8%B3%D9%85%D8%A7%D8%A1-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA",
-      "category": "عراق",
-      "published": "2026-10-02T07:28:46+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "أوروبا امام كارثة تعيد احداث 2011 للذاكرة",
-      "url": "https://www.alsumaria.tv/news/international/577671/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%A7%D9%85%D8%A7%D9%85-%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D8%AA%D8%B9%D9%8A%D8%AF-%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB-2011-%D9%84%D9%84%D8%B0%D8%A7%D9%83%D8%B1%D8%A9",
-      "category": "عراق",
-      "published": "2026-10-02T07:35:48+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "هلع وذعر.. حقيقة التفجير الانتحاري في مكة",
       "url": "https://www.alsumaria.tv/news/international/577672/%D9%87%D9%84%D8%B9-%D9%88%D8%B0%D8%B9%D8%B1-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1%D9%8A-%D9%81%D9%8A-%D9%85%D9%83%D8%A9",
       "category": "عراق",
       "published": "2026-10-02T07:48:38+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "العال تلغي رحلاتها لإعادة إسرائيليين من دبي، ونتنياهو يقول إن مساعد طيار رحلة فلاي دبي \"خضع لتلقين أفكار إسلامية متطرفة\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/ck0e3v20ljxlo",
+      "category": "عراق",
+      "published": "2026-10-02T07:56:46+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -164,6 +175,14 @@
       "watch_topics": []
     },
     {
+      "title": "أزمة دبلوماسية بين إثيوبيا وإريتريا، وسط توتر متصاعد مع مصر - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqwyzy2zd9pko",
+      "category": "عراق",
+      "published": "2026-10-02T09:12:52+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "ماذا سيحدث للبشرية والعالم في 13 تشرين الثاني القادم؟.. تنبؤات اطلقت قبل 66 عاما",
       "url": "https://www.alsumaria.tv/news/international/577680/%D9%85%D8%A7%D8%B0%D8%A7-%D8%B3%D9%8A%D8%AD%D8%AF%D8%AB-%D9%84%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%81%D9%8A-13-%D8%AA%D8%B4%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%9F-%D8%AA%D9%86%D8%A8%D8%A4%D8%A7%D8%AA-%D8%A7%D8%B7%D9%84%D9%82%D8%AA-%D9%82%D8%A8%D9%84",
       "category": "عراق",
@@ -184,6 +203,14 @@
       "url": "https://www.alsumaria.tv/news/security/577683/%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D9%86%D9%8A-%D8%AC%D9%85%D9%8A%D8%B9-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA%D9%86%D8%A7-%D8%B3%D8%A7%D9%84%D9%85%D8%A9-%D9%88%D9%85%D8%BA%D8%B1%D8%B6%D9%88%D9%86-%D8%A8%D8%AB%D9%88%D8%A7-%D8%B4%D8%A7%D8%A6%D8%B9%D8%A7%D8%AA-%D8%BA%D9%8A%D8%B1-%D8%B5%D8%AD%D9%8A%D8%AD%D8%A9",
       "category": "عراق",
       "published": "2026-10-02T10:31:52+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "\"قوية وجميلة\": لماذا نحن جميعاً بحاجة إلى دهون الجسم؟ - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/crq5xvgdyvqdo",
+      "category": "عراق",
+      "published": "2026-10-02T10:39:33+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -384,6 +411,14 @@
       ]
     },
     {
+      "title": "من السماء إلى الأرض... جبهات تعز تكسر زحف الحوثيين",
+      "url": "https://aawsat.com/node/5325158",
+      "category": "مشرق أوسط",
+      "published": "Fri, 02 Oct 2026 14:13:59 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "الصواريخ... غطاء الحوثيين الناري للتقدم الميداني",
       "url": "https://aawsat.com/node/5325143",
       "category": "مشرق أوسط",
@@ -412,14 +447,6 @@
       "url": "https://aawsat.com/node/5324763",
       "category": "مشرق أوسط",
       "published": "Thu, 01 Oct 2026 13:39:56 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "«العزم الصلب» تغادر العراق",
-      "url": "https://aawsat.com/node/5324575",
-      "category": "مشرق أوسط",
-      "published": "Thu, 01 Oct 2026 02:02:24 +0100",
       "breaking": false,
       "watch_topics": []
     },
@@ -480,6 +507,14 @@
       "watch_topics": [
         "أمريكا"
       ]
+    },
+    {
+      "title": "مظاهرات في مدريد مع مواجهة الحكومة الإسبانية تصويتاً حاسماً بشأن أزمة الإيجارات",
+      "url": "https://aawsat.com/node/5325157",
+      "category": "دولي",
+      "published": "Fri, 02 Oct 2026 14:08:37 +0100",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "ضربات روسية تعلّق حركة المرور على جسر في كييف",
@@ -584,41 +619,17 @@
       "published": "Thu, 01 Oct 2026 17:17:18 +0100",
       "breaking": false,
       "watch_topics": []
-    },
-    {
-      "title": "خلاف أوروبي - أطلسي حول الرد على «الحرب الهجينة» الروسية",
-      "url": "https://aawsat.com/node/5324847",
-      "category": "دولي",
-      "published": "Thu, 01 Oct 2026 16:01:51 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "دول أوروبية تسعى لإقامة مراكز إيواء مهاجرين في رواندا",
-      "url": "https://aawsat.com/node/5324844",
-      "category": "دولي",
-      "published": "Thu, 01 Oct 2026 15:57:26 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "هولندا تعلن 4 وفيات جديدة بسبب فيروس غرب النيل",
-      "url": "https://aawsat.com/node/5324786",
-      "category": "دولي",
-      "published": "Thu, 01 Oct 2026 14:26:43 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "روسيا تطرد دبلوماسيين مجريين رداً على خطوة مماثلة من بودابست",
-      "url": "https://aawsat.com/node/5324775",
-      "category": "دولي",
-      "published": "Thu, 01 Oct 2026 14:01:39 +0100",
-      "breaking": false,
-      "watch_topics": []
     }
   ],
   "breaking": [
+    {
+      "title": "القوات الحكومية اليمنية تعلن استهداف مواقع \"ذات قيمة عالية\" في صنعاء بعد سماع دوي انفجارات قوية - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/c3dx0xjxkd94o",
+      "category": "عراق",
+      "published": "2026-10-02T06:10:20+00:00",
+      "breaking": true,
+      "watch_topics": []
+    },
     {
       "title": "خطوات عاجلة لحماية البيانات في هاتفك المسروق",
       "url": "https://www.alsumaria.tv/news/miscellaneous/577677/%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D9%87%D8%A7%D8%AA%D9%81%D9%83-%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D9%88%D9%82",
