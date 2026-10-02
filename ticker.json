@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T20:15:58.962519+00:00",
+  "updated_at": "2026-10-02T20:30:08.238837+00:00",
   "latest": [
     {
       "title": "الزيدي يعلن استئناف رحلات الشركات الإيرانية إلى النجف: أميركا وافقت على 40 رحلة فقط",
@@ -13,10 +13,10 @@
       ]
     },
     {
-      "title": "إصابة ناقلة بمقذوف في هرمز وترامب يلوّح بضرب إيران إذا ثبت تورطها في حادثة \"فلاي دبي\" - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
+      "title": "ترامب: قضية إيران ستنتهي قريباً وستنخفض أسعار النفط",
+      "url": "https://www.alsumaria.tv/news/international/577712/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%82%D8%B6%D9%8A%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%B3%D8%AA%D9%86%D8%AA%D9%87%D9%8A-%D9%82%D8%B1%D9%8A%D8%A8%D8%A7%D9%8B-%D9%88%D8%B3%D8%AA%D9%86%D8%AE%D9%81%D8%B6-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7",
       "category": "عراق",
-      "published": "2026-10-02T18:52:36+00:00",
+      "published": "2026-10-02T20:08:05+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران",
@@ -24,10 +24,10 @@
       ]
     },
     {
-      "title": "ترامب: قضية إيران ستنتهي قريباً وستنخفض أسعار النفط",
-      "url": "https://www.alsumaria.tv/news/international/577712/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%82%d8%b6%d9%8a%d8%a9-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%b3%d8%aa%d9%86%d8%aa%d9%87%d9%8a-%d9%82%d8%b1%d9%8a%d8%a8%d8%a7%d9%8b-%d9%88%d8%b3%d8%aa%d9%86%d8%ae%d9%81%d8%b6-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%86%d9%81?src=rss&utm_source=thewall360&utm_medium=rss-articles&utm_campaign=rss&utm_term=Rss",
+      "title": "إصابة ناقلة بمقذوف في هرمز وترامب يلوّح بضرب إيران إذا ثبت تورطها في حادثة \"فلاي دبي\" - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cjx2z23z0neeo",
       "category": "عراق",
-      "published": "Fri, 02 Oct 2026 20:08:05 GMT",
+      "published": "2026-10-02T20:20:47+00:00",
       "breaking": false,
       "watch_topics": [
         "إيران",
@@ -505,16 +505,6 @@
       ]
     },
     {
-      "title": "شرطة لندن تعتقل بريطانياً - إيرانياً في تحقيق بشأن قاعدة «فيرفورد» الجوية",
-      "url": "https://aawsat.com/node/5324908",
-      "category": "دولي",
-      "published": "Thu, 01 Oct 2026 18:54:28 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "إيران"
-      ]
-    },
-    {
       "title": "واشنطن تفرض عقوبات على شبكة متهمة بتمويل حركة «حماس»",
       "url": "https://aawsat.com/node/5325222",
       "category": "دولي",
@@ -533,6 +523,14 @@
       "watch_topics": [
         "أمريكا"
       ]
+    },
+    {
+      "title": "اتهام رجلين بريطانيين بالتخطيط لمؤامرة إرهابية تستهدف الجالية اليهودية",
+      "url": "https://aawsat.com/node/5325283",
+      "category": "دولي",
+      "published": "Fri, 02 Oct 2026 21:26:15 +0100",
+      "breaking": false,
+      "watch_topics": []
     },
     {
       "title": "بوتين يتابع مناورات عسكرية للتصدي لـ«عدوان» على البر وبحر قزوين",
