@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T17:33:30.522373+00:00",
+  "updated_at": "2026-10-02T17:48:41.416120+00:00",
   "latest": [
     {
       "title": "الزيدي يعلن استئناف رحلات الشركات الإيرانية إلى النجف: أميركا وافقت على 40 رحلة فقط",
@@ -170,14 +170,6 @@
       "watch_topics": []
     },
     {
-      "title": "آبل تتحرك بشان ثغرة أمنية في آيفون وآيباد",
-      "url": "https://www.alsumaria.tv/news/miscellaneous/577686/%D8%A2%D8%A8%D9%84-%D8%AA%D8%AA%D8%AD%D8%B1%D9%83-%D8%A8%D8%B4%D8%A7%D9%86-%D8%AB%D8%BA%D8%B1%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A2%D9%8A%D9%81%D9%88%D9%86-%D9%88%D8%A2%D9%8A%D8%A8%D8%A7%D8%AF",
-      "category": "عراق",
-      "published": "2026-10-02T11:32:22+00:00",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
       "title": "تحديد موعد حسم استكمال الكابينة الحكومية",
       "url": "https://www.alsumaria.tv/news/politics/577687/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%AD%D8%B3%D9%85-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9",
       "category": "عراق",
@@ -246,6 +238,14 @@
       "url": "https://www.alsumaria.tv/news/international/577698/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D8%A8%D8%B9-%D8%AA%D8%B9%D9%84%D9%86-%D8%B3%D8%AD%D8%A8-100-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%85%D9%86-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82",
       "category": "عراق",
       "published": "2026-10-02T15:19:27+00:00",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
+      "title": "ريال مدريد يدعم فينيسيوس رغم البداية المتعثرة.. أرقامه تقترب من يامال",
+      "url": "https://www.alsumaria.tv/Entertainment-News/577701/sports/%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D8%AF%D8%B9%D9%85-%D9%81%D9%8A%D9%86%D9%8A%D8%B3%D9%8A%D9%88%D8%B3-%D8%B1%D8%BA%D9%85-%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D8%AB%D8%B1%D8%A9-%D8%A3%D8%B1%D9%82%D8%A7%D9%85%D9%87-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D9%8A%D8%A7%D9%85%D8%A7%D9%84",
+      "category": "عراق",
+      "published": "2026-10-02T15:58:52+00:00",
       "breaking": false,
       "watch_topics": []
     },
@@ -544,6 +544,14 @@
       ]
     },
     {
+      "title": "حراك الطلاب يهزّ فرنسا... والحكومة تسابق اتساع الغضب",
+      "url": "https://aawsat.com/node/5325260",
+      "category": "دولي",
+      "published": "Fri, 02 Oct 2026 18:46:34 +0100",
+      "breaking": false,
+      "watch_topics": []
+    },
+    {
       "title": "موسكو تعتبر وقف إمدادات السلاح لأوكرانيا عبر البحر الأسود أولوية قصوى",
       "url": "https://aawsat.com/node/5325237",
       "category": "دولي",
@@ -620,14 +628,6 @@
       "url": "https://aawsat.com/node/5324934",
       "category": "دولي",
       "published": "Thu, 01 Oct 2026 20:38:04 +0100",
-      "breaking": false,
-      "watch_topics": []
-    },
-    {
-      "title": "زيلينسكي: أوكرانيا أدخلت صاروخاً باليستياً تكتيكياً جديداً في عملياتها العسكرية",
-      "url": "https://aawsat.com/node/5324921",
-      "category": "دولي",
-      "published": "Thu, 01 Oct 2026 19:34:22 +0100",
       "breaking": false,
       "watch_topics": []
     }
