@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T23:58:20.480558+00:00",
+  "updated_at": "2026-10-02T00:11:58.555855+00:00",
   "latest": [
     {
       "title": "القوات الحكومية اليمنية تعلن استهداف مواقع \"ذات قيمة عالية\" في صنعاء، والتحالف يعترض مسيرات وصواريخ حوثية باتجاه جنوب السعودية - شفق نيوز..",
@@ -270,6 +270,14 @@
       "watch_topics": []
     },
     {
+      "title": "استهداف حوثي لكهرباء المسجد النبوي",
+      "url": "https://aawsat.com/node/5325005",
+      "category": "مشرق أوسط",
+      "published": "Fri, 02 Oct 2026 01:09:10 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
       "title": "بيونغ يانغ تنفي اتهام سيول لها بالمسؤولية عن انفجار لغمين في المنطقة العازلة",
       "url": "https://aawsat.com/node/5324147",
       "category": "مشرق أوسط",
@@ -430,16 +438,6 @@
       "url": "https://aawsat.com/node/5323989",
       "category": "مشرق أوسط",
       "published": "Tue, 29 Sep 2026 17:22:51 +0100",
-      "breaking": false,
-      "watch_topics": [
-        "السعودية"
-      ]
-    },
-    {
-      "title": "ولي العهد السعودي ونائب الرئيس الإماراتي يستعرضان تطورات المنطقة",
-      "url": "https://aawsat.com/node/5323930",
-      "category": "مشرق أوسط",
-      "published": "Tue, 29 Sep 2026 15:27:55 +0100",
       "breaking": false,
       "watch_topics": [
         "السعودية"
@@ -682,6 +680,14 @@
       "url": "https://aawsat.com/node/5324248",
       "category": "مشرق أوسط",
       "published": "Wed, 30 Sep 2026 10:54:04 +0100",
+      "breaking": true,
+      "watch_topics": []
+    },
+    {
+      "title": "استهداف حوثي لكهرباء المسجد النبوي",
+      "url": "https://aawsat.com/node/5325005",
+      "category": "مشرق أوسط",
+      "published": "Fri, 02 Oct 2026 01:09:10 +0100",
       "breaking": true,
       "watch_topics": []
     },
