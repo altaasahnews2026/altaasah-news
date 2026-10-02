@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T04:04:41.841676+00:00",
+  "updated_at": "2026-10-02T04:22:44.150989+00:00",
   "items": [
     {
       "title": "هل للعراق يد بالهجوم الأخير على السعودية.. صادقون تكشف نتائج التحقيقات",
@@ -32,6 +32,22 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/8d14d06dc129.html"
+    },
+    {
+      "title": "إثيوبيا وإريتريا تتبادلان قطع العلاقات، وتوتر متصاعد مع مصر - شفق نيوز..",
+      "url": "https://shafaq.com/ar/bbc-arabic/cqwyzy2zd9pko",
+      "category": "عربي ودولي",
+      "region": "عربي ودولي",
+      "governorate": "",
+      "published": "2026-10-02T04:07:10+00:00",
+      "image": "./assets/news/6d333b95aaa5ca485c251fb8.jpg",
+      "original_image": "./assets/news/6d333b95aaa5ca485c251fb8.jpg",
+      "source_url": "https://shafaq.com/ar/bbc-arabic/cqwyzy2zd9pko",
+      "source_name": "شفق نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/3c0d970029da.html"
     },
     {
       "title": "الجزائر تقر عقوبة الإعدام لمفتعلي حرائق الغابات - شفق نيوز..",
@@ -432,22 +448,6 @@
       "report": true,
       "governorate": "",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/1bc658994925.html"
-    },
-    {
-      "title": "كيف تلهم عيون القطط الباحثين في تطوير تكنولوجيا التصوير؟ - شفق نيوز..",
-      "url": "https://shafaq.com/ar/bbc-arabic/c6rr4y1yq1q9o",
-      "category": "محليات",
-      "region": "العراق",
-      "governorate": "",
-      "published": "2026-10-01T17:31:49+00:00",
-      "image": "./assets/news/69fb2490dc195dde8eda3978.jpg",
-      "original_image": "./assets/news/69fb2490dc195dde8eda3978.jpg",
-      "source_url": "https://shafaq.com/ar/bbc-arabic/c6rr4y1yq1q9o",
-      "source_name": "شفق نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/6965b2ef8e8a.html"
     },
     {
       "title": "الزيدي يعلن انطلاق مرحلة السيادة التي تحميها الدولة ويضمنها القانون",
