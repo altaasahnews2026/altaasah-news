@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T11:45:55.366111+00:00",
+  "updated_at": "2026-10-02T11:58:17.281266+00:00",
   "items": [
     {
       "title": "انفجار مجهول يهز مطار تفتناز السوري",
@@ -18,13 +18,29 @@
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/0766d77f3206.html"
     },
     {
+      "title": "بيان جديد حول انباء سقوط طائرة F16 عراقية اليوم",
+      "url": "https://www.alsumaria.tv/news/security/577688/%D8%A8%D9%8A%D8%A7%D9%86-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%AD%D9%88%D9%84-%D8%A7%D9%86%D8%A8%D8%A7%D8%A1-%D8%B3%D9%82%D9%88%D8%B7-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-f16-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+      "category": "محليات",
+      "region": "العراق",
+      "published": "2026-10-02T11:49:26+00:00",
+      "image": "./assets/news/b2633da02de2aaef940d7a29.jpg",
+      "original_image": "./assets/news/b2633da02de2aaef940d7a29.jpg",
+      "source_url": "https://www.alsumaria.tv/news/security/577688/%D8%A8%D9%8A%D8%A7%D9%86-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%AD%D9%88%D9%84-%D8%A7%D9%86%D8%A8%D8%A7%D8%A1-%D8%B3%D9%82%D9%88%D8%B7-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-f16-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+      "source_name": "السومرية نيوز",
+      "breaking": false,
+      "kirkuk": false,
+      "report": false,
+      "governorate": "",
+      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/5c25daca3329.html"
+    },
+    {
       "title": "تحديد موعد حسم استكمال الكابينة الحكومية",
       "url": "https://www.alsumaria.tv/news/politics/577687/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%AD%D8%B3%D9%85-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9",
       "category": "سياسة",
       "region": "العراق",
       "published": "2026-10-02T11:42:01+00:00",
-      "image": "./assets/news/29059d2fdd6309ff7c52a766.jpg",
-      "original_image": "./assets/news/29059d2fdd6309ff7c52a766.jpg",
+      "image": "./assets/news/f0d18c47b480dd685f9a9441.jpg",
+      "original_image": "./assets/news/f0d18c47b480dd685f9a9441.jpg",
       "source_url": "https://www.alsumaria.tv/news/politics/577687/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%AD%D8%B3%D9%85-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9",
       "source_name": "السومرية نيوز",
       "breaking": false,
@@ -416,22 +432,6 @@
       "report": false,
       "governorate": "بغداد",
       "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/352f84972188.html"
-    },
-    {
-      "title": "4 محافظات في الموجة العشرينية وامطار غزيرة حتى منتصف الاسبوع",
-      "url": "https://www.alsumaria.tv/news/localnews/577668/4-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%8A%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%85%D8%B7%D8%A7%D8%B1-%D8%BA%D8%B2%D9%8A%D8%B1%D8%A9-%D8%AD%D8%AA%D9%89-%D9%85%D9%86%D8%AA%D8%B5%D9%81-%D8%A7%D9%84%D8%A7%D8%B3%D8%A8%D9%88%D8%B9",
-      "category": "محليات",
-      "region": "العراق",
-      "published": "2026-10-02T06:45:42+00:00",
-      "image": "./assets/news/86aeddfdbc413eb5919f4f04.webp",
-      "original_image": "./assets/news/86aeddfdbc413eb5919f4f04.webp",
-      "source_url": "https://www.alsumaria.tv/news/localnews/577668/4-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%8A%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%85%D8%B7%D8%A7%D8%B1-%D8%BA%D8%B2%D9%8A%D8%B1%D8%A9-%D8%AD%D8%AA%D9%89-%D9%85%D9%86%D8%AA%D8%B5%D9%81-%D8%A7%D9%84%D8%A7%D8%B3%D8%A8%D9%88%D8%B9",
-      "source_name": "السومرية نيوز",
-      "breaking": false,
-      "kirkuk": false,
-      "report": false,
-      "governorate": "",
-      "article_url": "https://altaasahnews2026.github.io/altaasah-news/news/d6221907b3f9.html"
     },
     {
       "title": "القوات الحكومية اليمنية تعلن استهداف مواقع \"ذات قيمة عالية\" في صنعاء بعد سماع دوي انفجارات قوية - شفق نيوز..",
