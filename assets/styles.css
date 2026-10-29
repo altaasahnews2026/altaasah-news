@@ -89,3 +89,44 @@ footer .footer-logo img{height:auto!important;max-height:90px!important}
 .brand span{font-size:14px!important;line-height:1.35!important;margin:0!important;color:#fff!important}
 @media(max-width:900px){.masthead-main{height:175px!important;min-height:175px!important}.brand{width:33vw!important;max-width:33vw!important}.brand img{height:auto!important;max-height:none!important}}
 @media(max-width:700px){.masthead-main{height:126px!important;min-height:126px!important;padding-inline:10px!important}.brand{width:45vw!important;max-width:45vw!important}.brand img{width:100%!important;height:auto!important;max-height:none!important}.brand span{font-size:10px!important}}
+
+
+/* New editorial color palette: deep teal, turquoise and warm gold */
+:root{
+  --primary:#123d46;
+  --primary-dark:#092b33;
+  --accent:#d5a63b;
+  --accent-bright:#e8bd55;
+  --surface:#f3f7f7;
+  --text:#172d32;
+}
+body{background:#f3f7f7!important;color:#172d32!important}
+.breaking-masthead,.masthead-main{
+  background:linear-gradient(115deg,#092b33 0%,#123d46 58%,#1b5961 100%)!important;
+}
+.breaking-masthead{border-bottom:3px solid #d5a63b!important}
+.breaking-word,.ticker-label,.latest-button{
+  background:#d5a63b!important;color:#092b33!important;
+}
+.breaking-copy{color:#f5fbfb!important}
+nav{background:#0d343c!important;border-bottom:4px solid #d5a63b!important}
+nav a.active,nav a:hover{background:#d5a63b!important;color:#092b33!important}
+.ticker-wrap{background:#edf3f3!important;border-bottom:1px solid #d5e1e2!important}
+.ticker-label{font-weight:800!important}
+.page{background:#f3f7f7!important}
+.news-section,.photo-section,.video-section,.reports,.most-read{
+  background:#fff!important;
+}
+.section-title{border-bottom-color:#d5a63b!important}
+.section-title h2,.category,.photo-note{color:#17606a!important}
+.section-title a{color:#17606a!important}
+.category{background:#e5f1f1!important}
+.news-card:hover h3,.report-row:hover{color:#17606a!important}
+.video-section .section-title,.red-title{border-bottom-color:#d5a63b!important}
+.video-grid i{background:#d5a63b!important;color:#092b33!important}
+footer{background:#092b33!important;border-top:4px solid #d5a63b!important}
+footer a:hover{color:#e8bd55!important}
+@media(max-width:700px){
+  nav{border-bottom-width:3px!important}
+  .breaking-masthead{border-bottom-width:2px!important}
+}
