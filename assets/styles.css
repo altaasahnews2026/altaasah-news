@@ -56,3 +56,11 @@ nav a.active,nav a:hover{background:#d90b1b!important}
 .page{background:#fff!important}
 .news-section,.photo-section,.video-section,.reports,.most-read{background:#fff!important}
 @media(max-width:700px){.breaking-masthead{min-height:40px!important}.breaking-word{font-size:22px!important;min-width:55px!important}.breaking-copy{font-size:10px!important}.masthead-main{height:108px!important;min-height:108px!important;padding:0 10px!important}.brand{width:47%!important;max-width:47vw!important}.brand img{height:78px!important}.brand span{font-size:11px!important;margin-top:-5px!important}.search{width:49%!important}}
+
+/* Keep the uploaded transparent logo at its real aspect ratio */
+.brand{width:320px!important;max-width:38vw!important}
+.brand img{display:block!important;width:100%!important;height:auto!important;max-height:180px!important;object-fit:contain!important}
+.masthead-main{height:185px!important;min-height:185px!important}
+.brand span{margin-top:0!important;line-height:1.2!important}
+footer .footer-logo img{height:auto!important;max-height:90px!important}
+@media(max-width:700px){.masthead-main{height:125px!important;min-height:125px!important}.brand{width:47%!important;max-width:47vw!important}.brand img{width:100%!important;height:auto!important;max-height:86px!important}.brand span{font-size:10px!important;margin-top:0!important}}
