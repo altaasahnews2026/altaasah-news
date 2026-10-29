@@ -188,3 +188,16 @@ body{background:#f7f9fc!important;color:#273142!important}
 .photo-section{background:#f1f5f9!important}
 .video-section,.reports,.most-read{border-radius:12px!important}
 .news-card:hover,.report-row:hover{background:#f8fafc!important}
+
+
+/* Extra-light editorial theme for the news reading area */
+body{background:#fcfdff!important;color:#263238!important}
+.page{background:#fcfdff!important}
+.news-section,.video-section,.reports,.most-read{background:#fff!important}
+.photo-section{background:#f8fbff!important}
+.news-card,.report-row,.most-read li{background:#fff!important;border-color:#edf0f4!important}
+.news-card h3,.report-row span,.most-read li{color:#263238!important}
+.news-card small,.report-row small{color:#84909d!important}
+.section-title{border-bottom:1px solid #edf0f4!important}
+.section-title h2{color:#263238!important}
+.ticker-wrap{background:#fff!important;border-bottom:1px solid #f0f2f5!important}
