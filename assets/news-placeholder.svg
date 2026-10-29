@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title">
+<title id="title">صورة خبر غير متاحة</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020d1d"/><stop offset="1" stop-color="#07345c"/></linearGradient></defs>
+<rect width="800" height="450" fill="url(#bg)"/>
+<g fill="none" stroke="#1c5d91" stroke-width="2" opacity=".55"><circle cx="400" cy="225" r="150"/><circle cx="400" cy="225" r="110"/><path d="M170 225H630M400 45V405M250 100l300 250M550 100L250 350"/></g>
+<path d="M340 140h120l-22 52h-76z" fill="#ed101b"/><text x="400" y="245" fill="#fff" font-family="Tahoma,Arial,sans-serif" font-size="38" font-weight="700" text-anchor="middle">التاسعة نيوز</text><text x="400" y="292" fill="#b8d1e7" font-family="Tahoma,Arial,sans-serif" font-size="22" text-anchor="middle">الصورة غير متاحة</text>
+</svg>
