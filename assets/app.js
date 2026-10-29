@@ -18,12 +18,16 @@ document.addEventListener('DOMContentLoaded',()=>{
    if(key==='home'||key==='all'){
      if(status)status.textContent='';
      window.scrollTo({top:key==='home'?0:$('#iraq')?.offsetTop||0,behavior:'smooth'});
+     if(nav.classList.contains('open')){nav.classList.remove('open');menu?.setAttribute('aria-expanded','false')}
      return;
    }
    if(key==='photos'){
-     if(status)status.textContent='قسم الصور غير مضاف بعد؛ ستتم إضافته عند توفير صور منشورة خاصة بالموقع.';
+     if(status)status.textContent='';
+     $('#photos')?.scrollIntoView({behavior:'smooth',block:'start'});
+     if(nav.classList.contains('open')){nav.classList.remove('open');menu?.setAttribute('aria-expanded','false')}
      return;
    }
+   if(nav.classList.contains('open')){nav.classList.remove('open');menu?.setAttribute('aria-expanded','false')}
    const matches=filterables.filter(el=>(el.querySelector('.category')?.textContent||'').trim()===key);
    if(matches.length){
      filterables.forEach(el=>el.hidden=!matches.includes(el));
