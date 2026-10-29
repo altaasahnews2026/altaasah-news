@@ -168,3 +168,23 @@ footer a:hover{color:#ff6469!important}
   nav{border-bottom-width:3px!important}
   .breaking-masthead{border-bottom-width:2px!important}
 }
+
+
+/* Light, readable news cards and article surfaces */
+body{background:#f7f9fc!important;color:#273142!important}
+.page{background:#f7f9fc!important}
+.news-section,.photo-section,.video-section,.reports,.most-read{
+  background:#ffffff!important;
+  border-color:#e6ebf2!important;
+}
+.news-card,.report-row,.most-read li{background:#ffffff!important}
+.news-card h3,.report-row span,.most-read li{color:#273142!important}
+.news-card small,.report-row small{color:#788397!important}
+.section-title{border-bottom:2px solid #e3eaf2!important}
+.section-title h2{color:#25344a!important}
+.category{background:#fff0f0!important;color:#c4151c!important}
+.ticker-wrap{background:#fff!important;color:#263445!important}
+.ticker-wrap .ticker-text{color:#263445!important}
+.photo-section{background:#f1f5f9!important}
+.video-section,.reports,.most-read{border-radius:12px!important}
+.news-card:hover,.report-row:hover{background:#f8fafc!important}
