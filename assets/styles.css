@@ -130,3 +130,41 @@ footer a:hover{color:#e8bd55!important}
   nav{border-bottom-width:3px!important}
   .breaking-masthead{border-bottom-width:2px!important}
 }
+
+
+/* Newsroom palette refresh: bold red, white and charcoal */
+:root{
+  --primary:#171b22;
+  --primary-dark:#0d1117;
+  --accent:#d71920;
+  --accent-bright:#f02b32;
+  --surface:#f5f6f8;
+  --text:#20242b;
+}
+body{background:#f5f6f8!important;color:#20242b!important}
+.breaking-masthead,.masthead-main{
+  background:linear-gradient(115deg,#0d1117 0%,#171b22 58%,#292f38 100%)!important;
+}
+.breaking-masthead{border-bottom:3px solid #d71920!important}
+.breaking-word,.ticker-label,.latest-button{
+  background:#d71920!important;color:#fff!important;
+}
+.breaking-copy{color:#fff!important}
+nav{background:#171b22!important;border-bottom:4px solid #d71920!important}
+nav a.active,nav a:hover{background:#d71920!important;color:#fff!important}
+.ticker-wrap{background:#fff!important;border-bottom:1px solid #e0e3e8!important}
+.page{background:#f5f6f8!important}
+.news-section,.photo-section,.video-section,.reports,.most-read{background:#fff!important}
+.section-title{border-bottom-color:#d71920!important}
+.section-title h2,.category,.photo-note{color:#c4151c!important}
+.section-title a{color:#c4151c!important}
+.category{background:#fff0f0!important}
+.news-card:hover h3,.report-row:hover{color:#c4151c!important}
+.video-section .section-title,.red-title{border-bottom-color:#d71920!important}
+.video-grid i{background:#d71920!important;color:#fff!important}
+footer{background:#0d1117!important;border-top:4px solid #d71920!important}
+footer a:hover{color:#ff6469!important}
+@media(max-width:700px){
+  nav{border-bottom-width:3px!important}
+  .breaking-masthead{border-bottom-width:2px!important}
+}
