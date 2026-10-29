@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 394" role="img" aria-labelledby="title desc"><title id="title">التاسعة نيوز</title><desc id="desc">شعار التاسعة نيوز</desc><defs><linearGradient id="blue" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#0878d1"/><stop offset="1" stop-color="#2f8fe6"/></linearGradient><linearGradient id="black" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050505"/><stop offset="1" stop-color="#292929"/></linearGradient></defs><g transform="translate(22 10)"><path fill="url(#black)" d="M168 5C82 5 12 72 12 154c0 79 62 145 141 150l47-65c-14 6-29 9-45 9-51 0-93-42-93-94s42-94 93-94c27 0 52 12 69 31l47-63C242 16 207 5 168 5z"/><path fill="url(#blue)" d="M207 12l-57 79c13-6 27-9 42-9 52 0 94 42 94 94 0 19-6 37-16 52L151 383h83l123-168c17-24 27-53 27-84 0-52-27-98-68-121-32-18-72-18-109 2z"/><circle cx="168" cy="157" r="46" fill="#fff"/><circle cx="168" cy="157" r="29" fill="#ef1d24"/><g font-family="Arial, Tahoma, sans-serif" font-weight="900"><text x="263" y="236" font-size="104" font-style="italic" letter-spacing="-5" fill="#151515">NEWS</text><text x="665" y="300" text-anchor="end" font-size="39" fill="#12345c" direction="rtl" unicode-bidi="plaintext">التاسعة نيوز</text><path d="M258 315H650" stroke="#1265a5" stroke-width="8" stroke-linecap="round"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+<title id="title">التاسعة نيوز</title><desc id="desc">شعار التاسعة نيوز باللون الفضي والأحمر</desc>
+<defs>
+ <linearGradient id="silver" x1="0" y1="0" x2="0.9" y2="1"><stop offset="0" stop-color="#fff"/><stop offset=".28" stop-color="#dce4eb"/><stop offset=".52" stop-color="#8995a1"/><stop offset=".72" stop-color="#f6f8fa"/><stop offset="1" stop-color="#aab4bf"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff3942"/><stop offset="1" stop-color="#c90010"/></linearGradient>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="3"/><feOffset dy="3"/><feComponentTransfer><feFuncA type="linear" slope=".5"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g filter="url(#shadow)">
+ <path d="M132 20C67 20 18 68 18 128c0 55 43 100 98 104l40-48c-10 5-22 8-34 8-35 0-63-28-63-63s28-63 63-63c23 0 43 12 54 30l39-42c-20-22-49-34-83-34z" fill="url(#silver)" stroke="#f5f7fa" stroke-width="2"/>
+ <path d="M170 29l-38 51c10-5 20-7 31-7 36 0 65 29 65 65 0 13-4 25-11 36L132 240h57l90-122c12-17 19-37 19-59 0-23-8-44-22-60-28-30-69-36-106-16z" fill="url(#silver)" stroke="#aeb8c2" stroke-width="2"/>
+ <circle cx="119" cy="127" r="39" fill="#101c2a" stroke="#d7dfe7" stroke-width="3"/>
+ <circle cx="119" cy="127" r="25" fill="url(#red)"/>
+ <text x="305" y="137" font-family="Arial, sans-serif" font-size="118" font-weight="900" font-style="italic" letter-spacing="-7" fill="url(#silver)">NEWS</text>
+ <text x="866" y="197" text-anchor="end" font-family="Tahoma, Arial, sans-serif" font-size="54" font-weight="900" fill="#f4f7fb" direction="rtl" unicode-bidi="plaintext">التاسعة نيوز</text>
+ <path d="M308 166H860" stroke="url(#red)" stroke-width="7" stroke-linecap="round"/>
+</g>
+</svg>
