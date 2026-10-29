@@ -256,3 +256,20 @@ nav a.active,nav a:hover{background:#e71925!important;color:#fff!important}
 footer{background:linear-gradient(90deg,#062c82,#0647b8)!important;color:#fff!important;border-top:4px solid #e71925!important}
 footer a,footer .footer-logo span{color:#fff!important}
 footer a:hover{color:#ffb8bd!important}
+
+
+/* Branded colored أخبار marker inside the site masthead */
+.brand .news-mark{
+  display:inline-flex!important;align-items:center!important;justify-content:center!important;
+  gap:7px!important;margin:8px 0 0!important;padding:5px 18px!important;
+  border-radius:4px!important;background:linear-gradient(90deg,#0647b8,#0875e8)!important;
+  border-right:4px solid #e71925!important;color:#fff!important;
+  font-size:14px!important;font-weight:900!important;line-height:1.25!important;
+  letter-spacing:.2px!important;text-shadow:none!important;box-shadow:0 3px 10px #0647b826!important;
+}
+.brand .news-mark i{display:inline-block!important;width:7px!important;height:7px!important;
+  border-radius:50%!important;background:#ff3038!important;box-shadow:0 0 0 3px #ffffff30!important}
+@media(max-width:700px){
+ .brand .news-mark{font-size:10px!important;padding:3px 10px!important;margin-top:3px!important;gap:5px!important}
+ .brand .news-mark i{width:5px!important;height:5px!important}
+}
