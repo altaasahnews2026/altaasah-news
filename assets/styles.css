@@ -322,3 +322,7 @@ footer a:hover{color:#ffb8bd!important}
  .brand .news-mark i{width:5px!important;height:5px!important}
  .search{width:48%!important}
 }
+
+
+/* Remove the upper breaking-news strip and its text entirely */
+.breaking-masthead{display:none!important}
