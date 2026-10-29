@@ -64,3 +64,12 @@ nav a.active,nav a:hover{background:#d90b1b!important}
 .brand span{margin-top:0!important;line-height:1.2!important}
 footer .footer-logo img{height:auto!important;max-height:90px!important}
 @media(max-width:700px){.masthead-main{height:125px!important;min-height:125px!important}.brand{width:47%!important;max-width:47vw!important}.brand img{width:100%!important;height:auto!important;max-height:86px!important}.brand span{font-size:10px!important;margin-top:0!important}}
+
+/* Logo sizing tuned for the actual 420:237 source ratio */
+.masthead-main{height:218px!important;min-height:218px!important;padding-inline:3.2%!important}
+.brand{width:min(390px,40vw)!important;max-width:40vw!important;flex:0 0 auto!important;gap:0!important}
+.brand img{width:100%!important;height:auto!important;max-height:205px!important;object-fit:contain!important;object-position:center!important}
+.brand span{font-size:14px!important;line-height:1.35!important;margin-top:-2px!important;color:#fff!important}
+.search{align-self:center!important}
+@media(max-width:900px){.masthead-main{height:178px!important;min-height:178px!important}.brand{width:34vw!important;max-width:34vw!important}.brand img{max-height:160px!important}}
+@media(max-width:700px){.masthead-main{height:128px!important;min-height:128px!important;padding-inline:10px!important}.brand{width:47vw!important;max-width:47vw!important}.brand img{max-height:96px!important}.brand span{font-size:10px!important;margin-top:0!important}.search{width:48%!important}}
