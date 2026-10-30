@@ -107,3 +107,14 @@ footer{margin-top:14px;min-height:70px}
  .media-row{grid-template-columns:1fr}
  .media-cards,.media-row #video .media-cards{grid-template-columns:repeat(2,minmax(0,1fr))}
 }
+
+/* Independent editorial columns: keep the left rail and right news feed aligned like the supplied reference */
+.top-grid{display:grid;direction:ltr;grid-template-columns:minmax(330px,410px) minmax(0,1fr);gap:14px;align-items:start}
+.left-rail,.right-feed{display:flex;flex-direction:column;min-width:0;gap:14px;direction:rtl}
+.left-rail>.most{margin:0}
+.left-rail>.newsletter{margin:0;align-self:stretch}
+.right-feed>.hero{height:305px;min-height:305px;flex:none}
+.right-feed>#iraq{margin:0;min-width:0}
+.right-feed .iraq .four{grid-template-columns:repeat(4,minmax(0,1fr))}
+@media(max-width:1050px){.top-grid{grid-template-columns:minmax(280px,36%) minmax(0,1fr)}.right-feed .iraq .four{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:700px){.top-grid{grid-template-columns:1fr;direction:rtl}.right-feed{grid-column:1;grid-row:1}.left-rail{grid-column:1;grid-row:2}.right-feed>.hero{height:300px;min-height:300px}.right-feed .iraq .four{grid-template-columns:repeat(2,minmax(0,1fr))}}
