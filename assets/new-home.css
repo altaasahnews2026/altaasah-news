@@ -168,3 +168,15 @@ footer>.foot-links{grid-column:2;grid-row:1 / span 2}
 @media(min-width:701px) and (max-width:1050px){
  .mast-top{grid-template-columns:160px minmax(170px,1fr) minmax(260px,360px)}
 }
+
+/* Reference-layout refinements */
+.newsletter-note{padding:10px 12px;border:1px dashed #b9d2f2;background:#f7fbff;color:#456895;border-radius:6px;font-size:12px;font-weight:700;text-align:center}
+.search-status{margin:7px 5px;color:#164b98;font-size:12px}
+.mast-top .social{flex:none}
+.hero{height:325px;min-height:325px}
+.iraq .cards article{transition:transform .2s ease,box-shadow .2s ease}
+.iraq .cards article:hover{transform:translateY(-3px);box-shadow:0 8px 20px #092f7818}
+.media-cards article{transition:transform .2s ease}
+.media-cards article:hover{transform:translateY(-2px)}
+@media(max-width:1050px){.hero{height:310px;min-height:310px}}
+@media(max-width:700px){.hero{height:285px;min-height:285px}.newsletter-note{font-size:11px}}
