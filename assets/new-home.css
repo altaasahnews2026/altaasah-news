@@ -118,3 +118,13 @@ footer{margin-top:14px;min-height:70px}
 .right-feed .iraq .four{grid-template-columns:repeat(4,minmax(0,1fr))}
 @media(max-width:1050px){.top-grid{grid-template-columns:minmax(280px,36%) minmax(0,1fr)}.right-feed .iraq .four{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:700px){.top-grid{grid-template-columns:1fr;direction:rtl}.right-feed{grid-column:1;grid-row:1}.left-rail{grid-column:1;grid-row:2}.right-feed>.hero{height:300px;min-height:300px}.right-feed .iraq .four{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+/* Root-cause fixes: explicit RTL gallery/footer order and avoid layout inherited from legacy rules */
+.media-row{direction:rtl;grid-template-columns:1fr 1fr}
+.media-row>#photos{grid-column:1;grid-row:1}
+.media-row>#video{grid-column:2;grid-row:1}
+footer{direction:rtl;display:grid;grid-template-columns:1fr auto 1fr;align-items:center}
+footer>small{grid-column:1;grid-row:1;text-align:right}
+footer>.foot-links{grid-column:2;grid-row:1;justify-content:center}
+footer>.foot-social{grid-column:3;grid-row:1;justify-content:flex-end}
+@media(max-width:700px){.media-row{grid-template-columns:1fr}.media-row>#photos,.media-row>#video{grid-column:1;grid-row:auto}footer{display:flex;flex-direction:column}footer>small{order:3}footer>.foot-links{order:2}footer>.foot-social{order:1}}
