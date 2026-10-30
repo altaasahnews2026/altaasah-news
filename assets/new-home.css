@@ -31,3 +31,22 @@
  .top-grid{direction:rtl;grid-template-columns:1fr;grid-template-areas:"hero" "most" "newsletter"}
  .top-grid>.hero{min-height:300px}
 }
+
+/* Final layout and interaction fixes */
+.top-grid{direction:ltr;grid-template-columns:minmax(330px,410px) minmax(0,1fr);grid-template-areas:"most hero" "newsletter iraq";align-items:start}
+.top-grid>.most{grid-area:most;direction:rtl}
+.top-grid>.hero{grid-area:hero;direction:rtl;min-height:320px;align-self:start}
+.top-grid>.newsletter{grid-area:newsletter;direction:rtl;align-self:start}
+.top-grid>#iraq{grid-area:iraq;direction:rtl;margin-top:0;min-width:0}
+.top-grid>#iraq .four{grid-template-columns:repeat(2,minmax(0,1fr))}
+.newsletter output{display:block;min-height:1.5em;color:var(--blue);font-size:12px;line-height:1.6}
+[hidden]{display:none!important}
+@media(max-width:1050px){
+ .top-grid{grid-template-columns:minmax(280px,36%) minmax(0,1fr);grid-template-areas:"most hero" "newsletter iraq"}
+ .top-grid>#iraq .four{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:700px){
+ .top-grid{direction:rtl;grid-template-columns:1fr;grid-template-areas:"hero" "iraq" "most" "newsletter"}
+ .top-grid>.hero{min-height:300px}
+ .top-grid>#iraq .four{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
