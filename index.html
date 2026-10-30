@@ -1,116 +1,107 @@
 <!doctype html>
 <html lang="ar" dir="rtl">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#073b91">
-  <meta name="description" content="التاسعة نيوز — نعلم لتعلم. منصة إخبارية عراقية.">
-  <meta name="robots" content="index,follow">
-  <title>التاسعة نيوز | نعلم لتعلم</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="assets/new-home.css?v=20261030-34">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#082f78">
+<meta name="description" content="التاسعة نيوز — نعلم لتعلم">
+<title>التاسعة نيوز | نعلم لتعلم</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="assets/new-home.css?v=20261030-35">
 </head>
 <body>
 <header class="mast" id="home">
-  <div class="mast-top">
-    <a class="live" href="#video"><span aria-hidden="true">▶</span> أحدث الفيديوهات</a>
-    <a class="brand" href="#home" aria-label="التاسعة نيوز - الصفحة الرئيسية">
-      <img src="assets/logo.svg" alt="التاسعة نيوز — نعلم لتعلم" width="420" height="237">
-    </a>
-    <div class="tools">
-      <form class="search" id="siteSearch" role="search">
-        <input id="searchInput" type="search" aria-label="ابحث في الموقع" placeholder="ابحث في الموقع..." autocomplete="off">
-        <button type="submit" aria-label="بحث">⌕</button>
-      </form>
-    </div>
+ <div class="mast-top">
+  <a class="live" href="#video"><span aria-hidden="true">▶</span> الفيديوهات والتقارير</a>
+  <a class="brand" href="#home" aria-label="التاسعة نيوز — نعلم لتعلم"><img src="assets/logo.svg" alt="التاسعة نيوز — نعلم لتعلم" width="420" height="237"></a>
+  <div class="tools">
+   <form class="search" id="siteSearch" role="search"><input id="searchInput" type="search" aria-label="ابحث في الموقع" placeholder="ابحث في الموقع..." autocomplete="off"><button type="submit" aria-label="بحث">⌕</button></form>
+   <div class="social" aria-label="أيقونات منصات التواصل؛ الروابط ستضاف عند ربط الحسابات الرسمية"><span aria-label="فيسبوك">f</span><span aria-label="إكس">𝕏</span><span aria-label="يوتيوب">▶</span><span aria-label="إنستغرام">◎</span><span aria-label="تيك توك">♪</span></div>
   </div>
-  <nav class="nav" aria-label="القائمة الرئيسية">
-    <a class="active" href="#home" data-filter="all">الرئيسية</a>
-    <a href="#iraq" data-filter="العراق">العراق</a>
-    <a href="#iraq" data-filter="كركوك">كركوك</a>
-    <a href="#iraq" data-filter="عربية ودولية">عربية ودولية</a>
-    <a href="#photos">صور</a>
-    <a href="#video">فيديو</a>
-    <a href="#about">من نحن</a>
-  </nav>
+ </div>
+ <nav class="nav" aria-label="القائمة الرئيسية">
+  <a class="active" href="#home" data-filter="all">الرئيسية</a><a href="#iraq" data-filter="العراق">العراق</a><a href="#iraq" data-filter="كركوك">كركوك</a><a href="#iraq" data-filter="عربية ودولية">عربية ودولية</a><a href="#photos">صور</a><a href="#video">فيديو</a><a href="#about">المزيد</a>
+ </nav>
 </header>
 
-<section class="breaking" aria-label="شريط الأخبار">
-  <strong>التاسعة</strong>
-  <div class="ticker"><div class="ticker-inner" id="tickerTrack">
-    <span>التاسعة نيوز — نعلم لتعلم</span><i aria-hidden="true">•</i>
-    <span>تابعوا آخر التحديثات والأخبار من العراق</span><i aria-hidden="true">•</i>
-    <span>كركوك — العراق</span><i aria-hidden="true">•</i>
-  </div></div>
-  <div class="ticker-arrows" aria-hidden="true">‹ ›</div>
+<section class="breaking" aria-label="شريط الأخبار العاجلة">
+ <strong>عاجل</strong>
+ <div class="ticker"><div class="ticker-inner" id="tickerTrack">
+  <span>التاسعة نيوز — نعلم لتعلم</span><i>•</i><span>أخبار كركوك والعراق أولاً بأول</span><i>•</i><span>تغطيات ميدانية وتقارير صحفية</span><i>•</i><span>تابعوا آخر المستجدات عبر التاسعة نيوز</span>
+ </div></div><div class="ticker-arrows" aria-hidden="true">‹ ›</div>
 </section>
 
 <main class="wrap">
-  <div class="top-grid">
-    <aside class="left-rail">
-      <section class="most panel" aria-labelledby="mostTitle">
-        <h2 id="mostTitle">الأكثر قراءة <b aria-hidden="true">♨</b></h2>
-        <div class="empty-state compact-empty">
-          <span aria-hidden="true">▤</span>
-          <p>ستظهر هنا الأخبار الأكثر قراءة بعد إضافة الأخبار المنشورة.</p>
-        </div>
-      </section>
-      <section class="newsletter panel" aria-labelledby="newsletterTitle">
-        <h2 id="newsletterTitle">تابع التاسعة نيوز</h2>
-        <p>تابع آخر الأخبار والتغطيات عبر منصاتنا الرسمية.</p>
-        <a class="newsletter-link" href="#about">معلومات التواصل</a>
-      </section>
-    </aside>
+ <section class="top-grid">
+  <aside class="left-rail">
+   <section class="most panel" aria-labelledby="mostTitle">
+    <h2 id="mostTitle">الأكثر قراءة <b aria-hidden="true">♨</b></h2>
+    <ol>
+     <li><span>1</span><img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=180&q=75" alt="مبنى حكومي"><p>مطالب خدمية وشعبية تتصدر المشهد في كركوك<small>كركوك</small></p></li>
+     <li><span>2</span><img src="https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=180&q=75" alt="أسواق محلية"><p>ملف الأسعار والقدرة الشرائية للمواطنين<small>اقتصاد</small></p></li>
+     <li><span>3</span><img src="https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=180&q=75" alt="ملعب كرة قدم"><p>المنتخب الوطني والاستحقاقات المقبلة<small>رياضة</small></p></li>
+     <li><span>4</span><img src="https://images.unsplash.com/photo-1516937941344-00b4e0337589?auto=format&fit=crop&w=180&q=75" alt="منشأة صناعية"><p>ملفات الخدمات والطاقة في العراق<small>العراق</small></p></li>
+     <li><span>5</span><img src="https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=180&q=75" alt="منظر عام"><p>متابعة أبرز التطورات المحلية<small>متابعات</small></p></li>
+    </ol>
+   </section>
+   <section class="newsletter panel">
+    <h2>تابع آخر أخبار التاسعة نيوز ✉</h2>
+    <p>ابقَ على اطلاع بآخر التغطيات والأخبار من كركوك والعراق.</p>
+    <div class="newsletter-note">خدمة الاشتراك الإلكتروني قيد التفعيل</div>
+   </section>
+  </aside>
 
-    <div class="right-feed">
-      <article class="hero">
-        <img src="https://cdn.loc.gov/service/pnp/matpc/16200/16241v.jpg" alt="صورة أرشيفية تاريخية من كركوك" fetchpriority="high">
-        <div class="shade"></div>
-        <span class="tag">كركوك • أرشيف</span>
-        <div class="hero-text">
-          <h1>التاسعة نيوز</h1>
-          <p>نعلم لتعلم — منصة إعلامية تتابع أخبار كركوك والعراق، وتنقل إليكم الحدث بمهنية ووضوح.</p>
-          <small id="todayDate">كركوك — العراق</small>
-        </div>
-      </article>
-
-      <section id="iraq" class="section iraq" aria-labelledby="latestTitle">
-        <header><h2 id="latestTitle">آخر الأخبار</h2></header>
-        <div class="news-empty empty-state">
-          <span aria-hidden="true">📰</span>
-          <h3>لا توجد أخبار منشورة في هذا القسم حالياً</h3>
-          <p>ستظهر الأخبار هنا عند إضافتها إلى الموقع. لا نعرض عناوين أو معلومات غير موثقة.</p>
-        </div>
-      </section>
+  <div class="right-feed">
+   <article class="hero">
+    <img src="https://cdn.loc.gov/service/pnp/matpc/16200/16241v.jpg" alt="جسر تاريخي في كركوك، صورة أرشيفية من عام 1932" fetchpriority="high">
+    <div class="shade"></div><span class="tag">كركوك • صورة أرشيفية</span>
+    <div class="hero-text">
+     <h1>التاسعة نيوز… نعلم لتعلم</h1>
+     <p>من كركوك إلى العراق؛ نتابع الحدث وننقل الصورة بمهنية ووضوح.</p>
+     <small id="todayDate">كركوك — العراق</small>
     </div>
+    <div class="dots" aria-hidden="true">● ● ●</div>
+   </article>
+
+   <section id="iraq" class="section iraq">
+    <header><h2 id="latestTitle">أبرز الأخبار</h2><a href="#iraq">المزيد ←</a></header>
+    <div class="cards four">
+     <article class="news-card"><div class="card-photo"><img src="https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=520&q=80" alt="مدينة عراقية"><span class="category">عربية ودولية</span></div><h3>تغطية لأبرز التطورات العربية والدولية</h3><small>قسم الأخبار</small></article>
+     <article class="news-card"><div class="card-photo"><img src="https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=520&q=80" alt="أسواق ومؤشرات اقتصادية"><span class="category">اقتصاد</span></div><h3>متابعة الملفات الاقتصادية والأسواق المحلية</h3><small>قسم الاقتصاد</small></article>
+     <article class="news-card"><div class="card-photo"><img src="https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=520&q=80" alt="ملعب كرة قدم"><span class="category">رياضة</span></div><h3>آخر أخبار الرياضة والمنتخبات الوطنية</h3><small>قسم الرياضة</small></article>
+     <article class="news-card"><div class="card-photo"><img src="https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=520&q=80" alt="مشهد من العراق"><span class="category">كركوك</span></div><h3>تقارير ميدانية من كركوك والمحافظات</h3><small>قسم كركوك</small></article>
+    </div>
+   </section>
   </div>
+ </section>
 </main>
 
 <div class="media-row">
-  <section id="photos" class="section" aria-labelledby="photosTitle">
-    <header><h2 id="photosTitle">أحدث الصور</h2></header>
-    <div class="media-empty empty-state"><span aria-hidden="true">▧</span><p>معرض الصور قيد التجهيز.</p></div>
-  </section>
-  <section id="video" class="section" aria-labelledby="videoTitle">
-    <header><h2 id="videoTitle">أحدث الفيديوهات</h2></header>
-    <div class="media-empty empty-state"><span aria-hidden="true">▶</span><p>سيتم عرض الفيديوهات المنشورة هنا.</p></div>
-  </section>
+ <section id="photos" class="section">
+  <header><h2>أحدث الصور ▧</h2><a href="#photos">المزيد ←</a></header>
+  <div class="media-cards">
+   <article><img src="https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=360&q=75" alt="مشهد حضري"><h3>معالم ومدن</h3></article>
+   <article><img src="https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=360&q=75" alt="ملعب رياضي"><h3>الرياضة</h3></article>
+   <article><img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=360&q=75" alt="مبنى رسمي"><h3>أحداث ومؤتمرات</h3></article>
+   <article><img src="https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=360&q=75" alt="مدينة"><h3>مشاهد من العراق</h3></article>
+  </div>
+ </section>
+ <section id="video" class="section">
+  <header><h2>أحدث الفيديوهات ▶</h2><a href="#video">المزيد ←</a></header>
+  <div class="media-cards">
+   <article><img src="https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=360&q=75" alt="صحف وأخبار"><h3>التقارير الإخبارية</h3></article>
+   <article><img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=360&q=75" alt="مؤتمر صحفي"><h3>المؤتمرات الصحفية</h3></article>
+   <article><img src="https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=360&q=75" alt="مشهد مائي"><h3>تقارير ميدانية</h3></article>
+  </div>
+ </section>
 </div>
 
 <footer id="about">
-  <div class="footer-brand">
-    <strong>التاسعة نيوز</strong>
-    <span>نعلم لتعلم</span>
-  </div>
-  <div class="foot-links">
-    <a href="#home">الرئيسية</a>
-    <a href="#iraq">آخر الأخبار</a>
-    <a href="#photos">الصور</a>
-    <a href="#video">الفيديو</a>
-  </div>
-  <small>جميع الحقوق محفوظة © <span id="year">2026</span> — التاسعة نيوز</small>
+ <div class="footer-brand"><strong>التاسعة نيوز</strong><span>نعلم لتعلم</span></div>
+ <div class="foot-links"><a href="#home">الرئيسية</a><a href="#iraq">أبرز الأخبار</a><a href="#photos">الصور</a><a href="#video">الفيديو</a></div>
+ <div class="foot-social" aria-label="أيقونات التواصل"><span>f</span><span>𝕏</span><span>▶</span><span>◎</span><span>♪</span></div>
+ <small>جميع الحقوق محفوظة © <span id="year">2026</span> — التاسعة نيوز</small>
 </footer>
 <script src="assets/site.js?v=20261030-1" defer></script>
-</body>
-</html>
+</body></html>
