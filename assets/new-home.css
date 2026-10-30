@@ -18,7 +18,7 @@ button,input{font:inherit}
 .search input{border:0;outline:0;padding:11px 17px;min-width:0;flex:1;color:var(--ink)}
 .search button{border:0;background:transparent;color:var(--blue);font-size:25px;padding:0 15px;cursor:pointer}
 .social,.foot-social{display:flex;gap:8px;align-items:center}
-.social a,.foot-social a{display:grid;place-items:center;width:34px;height:34px;border-radius:50%;background:#fff;color:var(--blue);font-weight:900;font-size:19px;box-shadow:0 2px 8px #0b36751c}
+.social a,.social span,.foot-social a,.foot-social span{display:grid;place-items:center;width:34px;height:34px;border-radius:50%;background:#fff;color:var(--blue);font-weight:900;font-size:19px;box-shadow:0 2px 8px #0b36751c}
 .nav{background:linear-gradient(90deg,#07317e,#0756c6);display:flex;justify-content:center;gap:0;flex-wrap:wrap;padding:0 18px;border-bottom:4px solid #dbeaff}
 .nav a{color:#fff;padding:12px 20px;font-weight:800;white-space:nowrap}
 .nav a:hover,.nav .active{background:#fff;color:var(--blue);border-radius:9px 9px 0 0}
