@@ -14,7 +14,7 @@
 <header class="mast" id="home">
  <div class="mast-top">
   <a class="live" href="#video"><span aria-hidden="true">▶</span> بث مباشر</a>
-  <a class="brand" href="#home" aria-label="التاسعة نيوز — نعلم لتعلم"><img src="assets/logo.svg" alt="التاسعة نيوز — نعلم لتعلم" width="420" height="237"></a>
+  <a class="brand" href="#home" aria-label="التاسعة نيوز — نعلم لتعلم"><img src="assets/logo.svg" alt="التاسعة نيوز — نعلم لتعلم" width="420" height="237" decoding="async"></a>
   <div class="tools">
    <form class="search" id="siteSearch" role="search"><input id="searchInput" type="search" aria-label="ابحث في الموقع" placeholder="ابحث في الموقع..." autocomplete="off"><button type="submit" aria-label="بحث">⌕</button></form>
    <div class="social" aria-label="منصات التواصل"><a href="#about" aria-label="فيسبوك">f</a><a href="#about" aria-label="إكس">𝕏</a><a href="#video" aria-label="يوتيوب">▶</a><a href="#about" aria-label="إنستغرام">◎</a><a href="#about" aria-label="تيك توك">♪</a></div>
@@ -45,8 +45,8 @@
    </section>
    <section class="newsletter panel">
     <h2>تابع آخر أخبار التاسعة نيوز ✉</h2>
-    <p>ابقَ على اطلاع بآخر التغطيات والأخبار من كركوك والعراق.</p>
-    <div class="newsletter-note">خدمة الاشتراك الإلكتروني قيد التفعيل</div>
+    <p>ليصلك كل جديد من أخبار التاسعة نيوز.</p>
+    <form class="newsletter-form" id="newsletterForm"><label class="sr-only" for="newsletterEmail">بريدك الإلكتروني</label><input id="newsletterEmail" type="email" placeholder="أدخل بريدك الإلكتروني" autocomplete="email" required><button type="submit">اشترك الآن</button><output id="newsletterStatus" aria-live="polite">خدمة الاشتراك قيد التفعيل</output></form>
    </section>
   </aside>
 
@@ -57,7 +57,7 @@
     <div class="hero-text">
      <h1>كركوك تشهد استقراراً أمنياً وتحسناً في الخدمات الأساسية</h1>
      <p>أعلنت الجهات الأمنية في محافظة كركوك اليوم الثلاثاء، عن تحقيق استقرار أمني ملحوظ في مختلف مناطق المحافظة، مؤكدة استمرار الجهود لتأمين حياة المواطنين وتعزيز الأمن.</p>
-     <small id="todayDate">كركوك — العراق</small>
+     <small id="todayDate">منذ ساعتين</small>
     </div>
     <div class="dots" aria-hidden="true">● ● ●</div>
    </article>
@@ -65,10 +65,10 @@
    <section id="iraq" class="section iraq">
     <header><h2 id="latestTitle">أبرز الأخبار</h2><a href="#iraq">المزيد ←</a></header>
     <div class="cards four">
-     <article class="news-card"><div class="card-photo"><img src="https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=520&q=80" alt="مدينة عراقية"><span class="category">عربية ودولية</span></div><h3>تغطية لأبرز التطورات العربية والدولية</h3><small>منذ 3 ساعات</small></article>
-     <article class="news-card"><div class="card-photo"><img src="https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=520&q=80" alt="أسواق ومؤشرات اقتصادية"><span class="category">اقتصاد</span></div><h3>متابعة الملفات الاقتصادية والأسواق المحلية</h3><small>منذ 6 ساعات</small></article>
-     <article class="news-card"><div class="card-photo"><img src="https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=520&q=80" alt="ملعب كرة قدم"><span class="category">رياضة</span></div><h3>آخر أخبار الرياضة والمنتخبات الوطنية</h3><small>منذ 8 ساعات</small></article>
-     <article class="news-card"><div class="card-photo"><img src="https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=520&q=80" alt="مشهد من العراق"><span class="category">كركوك</span></div><h3>تقارير ميدانية من كركوك والمحافظات</h3><small>منذ 10 ساعات</small></article>
+     <article class="news-card"><div class="card-photo"><img src="https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=520&q=80" alt="مدينة عراقية"><span class="category">عربية ودولية</span></div><h3>تصاعد التوترات في المنطقة وسط تطورات دولية</h3><small>منذ 3 ساعات</small></article>
+     <article class="news-card"><div class="card-photo"><img src="https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=520&q=80" alt="أسواق ومؤشرات اقتصادية"><span class="category">اقتصاد</span></div><h3>الدولار يحافظ على استقراره في الأسواق المحلية</h3><small>منذ 6 ساعات</small></article>
+     <article class="news-card"><div class="card-photo"><img src="https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=520&q=80" alt="ملعب كرة قدم"><span class="category">رياضة</span></div><h3>مواجهات قوية في دوري نجوم العراق غداً</h3><small>منذ 8 ساعات</small></article>
+     <article class="news-card"><div class="card-photo"><img src="https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=520&q=80" alt="مشهد من العراق"><span class="category">كركوك</span></div><h3>البرلمان يدعو إلى دعم العراق في مواجهة التحديات</h3><small>منذ 10 ساعات</small></article>
     </div>
    </section>
   </div>
