@@ -3,105 +3,85 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#082f78">
-<meta name="description" content="التاسعة نيوز — نعلم لتعلم">
+<meta name="theme-color" content="#061629">
+<meta name="description" content="التاسعة نيوز — نعلم لتعلم. أخبار كركوك والعراق والعالم، تقارير ميدانية وتغطيات صحفية.">
 <title>التاسعة نيوز | نعلم لتعلم</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="assets/new-home.css?v=20261031-3">
+<link rel="stylesheet" href="assets/styles.css?v=20261031-launch1">
+<script src="assets/site.js?v=20261031-launch1" defer></script>
 </head>
 <body>
-<header class="mast" id="home">
- <div class="mast-top">
-  <a class="live" href="#video"><span aria-hidden="true">▶</span> الفيديوهات والتقارير</a>
-  <a class="brand" href="#home" aria-label="التاسعة نيوز — نعلم لتعلم"><img src="assets/logo.svg" alt="التاسعة نيوز — نعلم لتعلم" width="420" height="237"></a>
-  <div class="tools">
-   <form class="search" id="siteSearch" role="search"><input id="searchInput" type="search" aria-label="ابحث في الموقع" placeholder="ابحث في الموقع..." autocomplete="off"><button type="submit" aria-label="بحث">⌕</button></form>
-   <div class="social" aria-label="أيقونات منصات التواصل؛ الروابط ستضاف عند ربط الحسابات الرسمية"><span aria-label="فيسبوك">f</span><span aria-label="إكس">𝕏</span><span aria-label="يوتيوب">▶</span><span aria-label="إنستغرام">◎</span><span aria-label="تيك توك">♪</span></div>
+<header class="site-header" id="home">
+ <div class="header-top">
+  <div class="header-inner">
+   <div class="header-meta"><span class="date" id="today">التاسعة نيوز</span><span class="edition">النسخة الإلكترونية</span></div>
+   <a class="brand" href="#home" aria-label="التاسعة نيوز — نعلم لتعلم"><img src="assets/logo.svg" alt="التاسعة نيوز — نعلم لتعلم"><span>نعلم لتعلم</span></a>
+   <div class="header-tools">
+    <form class="search" id="siteSearch" role="search"><input id="searchInput" type="search" placeholder="ابحث في الأخبار..." aria-label="ابحث في الأخبار"><button type="submit" aria-label="بحث">⌕</button></form>
+    <button class="menu-toggle" id="menuBtn" type="button" aria-expanded="false" aria-controls="mainNav">☰ القائمة</button>
+   </div>
   </div>
  </div>
- <nav class="nav" aria-label="القائمة الرئيسية">
-  <a class="active" href="#home" data-filter="all">الرئيسية</a><a href="#iraq" data-filter="العراق">العراق</a><a href="#iraq" data-filter="كركوك">كركوك</a><a href="#iraq" data-filter="عربية ودولية">عربية ودولية</a><a href="#photos">صور</a><a href="#video">فيديو</a><a href="#about">المزيد</a>
+ <nav class="main-nav" id="mainNav" aria-label="القائمة الرئيسية">
+  <a class="active" href="#home">الرئيسية</a><a href="#iraq">العراق</a><a href="#kirkuk">كركوك</a><a href="#governorates">المحافظات</a><a href="#economy">اقتصاد</a><a href="#world">عربية ودولية</a><a href="#reports">تقارير خاصة</a><a href="#photos">صور</a><a href="#video">فيديو</a><a href="#about">من نحن</a>
  </nav>
 </header>
-
-<section class="breaking" aria-label="شريط الأخبار العاجلة">
- <strong>عاجل</strong>
- <div class="ticker"><div class="ticker-inner" id="tickerTrack">
-  <span>التاسعة نيوز — نعلم لتعلم</span><i>•</i><span>أخبار كركوك والعراق أولاً بأول</span><i>•</i><span>تغطيات ميدانية وتقارير صحفية</span><i>•</i><span>تابعوا آخر المستجدات عبر التاسعة نيوز</span>
- </div></div><div class="ticker-arrows" aria-hidden="true">‹ ›</div>
-</section>
-
-<main class="wrap">
- <section class="top-grid">
-  <aside class="left-rail">
-   <section class="most panel" aria-labelledby="mostTitle">
-    <h2 id="mostTitle">الأكثر قراءة <b aria-hidden="true">♨</b></h2>
-    <ol>
-     <li><span>1</span><img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=180&q=75" alt="مبنى حكومي"><p>مطالب خدمية وشعبية تتصدر المشهد في كركوك<small>كركوك</small></p></li>
-     <li><span>2</span><img src="https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=180&q=75" alt="أسواق محلية"><p>ملف الأسعار والقدرة الشرائية للمواطنين<small>اقتصاد</small></p></li>
-     <li><span>3</span><img src="https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=180&q=75" alt="ملعب كرة قدم"><p>المنتخب الوطني والاستحقاقات المقبلة<small>رياضة</small></p></li>
-     <li><span>4</span><img src="https://images.unsplash.com/photo-1516937941344-00b4e0337589?auto=format&fit=crop&w=180&q=75" alt="منشأة صناعية"><p>ملفات الخدمات والطاقة في العراق<small>العراق</small></p></li>
-     <li><span>5</span><img src="https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=180&q=75" alt="منظر عام"><p>متابعة أبرز التطورات المحلية<small>متابعات</small></p></li>
-    </ol>
-   </section>
-   <section class="newsletter panel">
-    <h2>تابع آخر أخبار التاسعة نيوز ✉</h2>
-    <p>ابقَ على اطلاع بآخر التغطيات والأخبار من كركوك والعراق.</p>
-    <div class="newsletter-note">خدمة الاشتراك الإلكتروني قيد التفعيل</div>
-   </section>
+<main class="page-shell">
+ <div class="ticker" aria-label="شريط الأخبار"><strong>آخر الأخبار</strong><div class="ticker-window"><div class="ticker-track" id="tickerTrack"><span>التاسعة نيوز — نعلم لتعلم</span><span>تغطية صحفية من كركوك والعراق</span><span>تابعوا آخر المستجدات والتقارير الميدانية</span></div></div></div>
+ <section class="lead-layout" aria-label="المشهد الإخباري الرئيسي">
+  <aside class="left-column">
+   <section class="panel important"><h2 class="panel-title">الأكثر قراءة</h2><ol>
+    <li><b>1</b><a href="#kirkuk">ملفات الخدمات والطاقة تتصدر اهتمامات الشارع في كركوك</a></li>
+    <li><b>2</b><a href="#iraq">قراءة في أبرز الملفات المحلية والاقتصادية</a></li>
+    <li><b>3</b><a href="#reports">التقارير الميدانية.. الحدث من موقعه</a></li>
+    <li><b>4</b><a href="#world">أبرز التطورات على الساحتين العربية والدولية</a></li>
+   </ol></section>
+   <section class="ad-panel"><span>مساحة إعلانية</span><b>للتواصل بشأن الإعلان</b><small>التاسعة نيوز</small></section>
   </aside>
-
-  <div class="right-feed">
-   <article class="hero">
-    <img src="https://cdn.loc.gov/service/pnp/matpc/16200/16241v.jpg" alt="جسر تاريخي في كركوك، صورة أرشيفية من عام 1932" fetchpriority="high">
-    <div class="shade"></div><span class="tag">كركوك • صورة أرشيفية</span>
-    <div class="hero-text">
-     <h1>التاسعة نيوز… نعلم لتعلم</h1>
-     <p>من كركوك إلى العراق؛ نتابع الحدث وننقل الصورة بمهنية ووضوح.</p>
-     <small id="todayDate">كركوك — العراق</small>
-    </div>
-    <div class="dots" aria-hidden="true">● ● ●</div>
+  <section class="center-column">
+   <article class="hero-story">
+    <img src="https://cdn.loc.gov/service/pnp/matpc/16200/16241v.jpg" alt="مشهد تاريخي من كركوك — صورة أرشيفية" fetchpriority="high">
+    <span class="hero-tag">كركوك</span><div class="hero-copy"><h1>كركوك في صدارة التغطية.. أخبار المدينة من قلب الحدث</h1><p>التاسعة نيوز تتابع الملفات الخدمية والمجتمعية وتنقل الصورة بمهنية ووضوح.</p><small id="heroDate">كركوك — العراق</small></div>
    </article>
-
-   <section id="iraq" class="section iraq">
-    <header><h2 id="latestTitle">أبرز الأخبار</h2><a href="#iraq">المزيد ←</a></header>
-    <div class="cards four">
-     <article class="news-card"><div class="card-photo"><img src="https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=520&q=80" alt="مدينة عراقية"><span class="category">عربية ودولية</span></div><h3>تغطية لأبرز التطورات العربية والدولية</h3><small>قسم الأخبار</small></article>
-     <article class="news-card"><div class="card-photo"><img src="https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=520&q=80" alt="أسواق ومؤشرات اقتصادية"><span class="category">اقتصاد</span></div><h3>متابعة الملفات الاقتصادية والأسواق المحلية</h3><small>قسم الاقتصاد</small></article>
-     <article class="news-card"><div class="card-photo"><img src="https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=520&q=80" alt="ملعب كرة قدم"><span class="category">رياضة</span></div><h3>آخر أخبار الرياضة والمنتخبات الوطنية</h3><small>قسم الرياضة</small></article>
-     <article class="news-card"><div class="card-photo"><img src="https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=520&q=80" alt="مشهد من العراق"><span class="category">كركوك</span></div><h3>تقارير ميدانية من كركوك والمحافظات</h3><small>قسم كركوك</small></article>
-    </div>
+   <section class="section-block" id="kirkuk"><div class="section-heading"><h2>كركوك</h2><a href="#kirkuk">كل أخبار كركوك ←</a></div><div class="news-grid">
+    <article class="news-card"><img src="https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=640&q=80" alt="مشهد مدينة"><span>خدمات</span><h3>الملفات الخدمية واحتياجات الأهالي في كركوك</h3></article>
+    <article class="news-card"><img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=640&q=80" alt="مبنى حكومي"><span>محليات</span><h3>متابعة القرارات والملفات المحلية في المحافظة</h3></article>
+    <article class="news-card"><img src="https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=640&q=80" alt="سوق للمواد الغذائية"><span>اقتصاد</span><h3>حركة الأسواق وأسعار السلع في متابعة يومية</h3></article>
+    <article class="news-card"><img src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=640&q=80" alt="اجتماع عمل"><span>متابعات</span><h3>لقاءات ومؤتمرات وفعاليات من كركوك</h3></article>
+   </div></section>
+  </section>
+  <aside class="right-column">
+   <section class="panel latest"><h2 class="panel-title">أحدث الأخبار</h2>
+    <article><img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=220&q=75" alt="مبنى رسمي"><div><b>العراق</b><p>متابعة أبرز الملفات والأحداث المحلية</p></div></article>
+    <article><img src="https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=220&q=75" alt="أسواق"><div><b>اقتصاد</b><p>الأسواق والأسعار في دائرة الاهتمام</p></div></article>
+    <article><img src="https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=220&q=75" alt="صحف"><div><b>تقارير</b><p>تغطيات صحفية وتحقيقات ميدانية</p></div></article>
+    <article><img src="https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=220&q=75" alt="ملعب كرة قدم"><div><b>رياضة</b><p>أخبار الرياضة والمنتخبات</p></div></article>
    </section>
-  </div>
+   <section class="weather-panel"><b>الطقس</b><span>تحديثات الطقس المحلية</span><small>تُعرض درجات الحرارة عند ربط مصدر الطقس</small></section>
+  </aside>
  </section>
+ <section class="section-block wide-section" id="iraq"><div class="section-heading"><h2>أخبار العراق</h2><a href="#iraq">المزيد ←</a></div><div class="wide-grid">
+  <article class="wide-card"><img src="https://images.unsplash.com/photo-1516937941344-00b4e0337589?auto=format&fit=crop&w=700&q=80" alt="منشأة صناعية"><div><span>العراق</span><h3>الملفات الخدمية والاقتصادية في متابعة مستمرة</h3><p>قراءة في أبرز القضايا التي تمس حياة المواطنين.</p></div></article>
+  <article class="wide-card"><img src="https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=700&q=80" alt="مدينة"><div><span>المحافظات</span><h3>نبض المحافظات.. أخبار من مختلف المدن العراقية</h3><p>تغطية محلية تضع قضايا المحافظات في الواجهة.</p></div></article>
+  <article class="wide-card"><img src="https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=700&q=80" alt="مؤشرات مالية"><div><span>اقتصاد</span><h3>مؤشرات الأسواق والاقتصاد المحلي</h3><p>متابعة التطورات الاقتصادية وانعكاساتها.</p></div></article>
+ </div></section>
+ <section class="section-block wide-section" id="reports"><div class="section-heading"><h2>تقارير خاصة</h2><a href="#reports">جميع التقارير ←</a></div><div class="report-grid">
+  <article><img src="https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=700&q=80" alt="صحف ومصادر إعلامية"><h3>من الميدان.. قصص الناس والقضايا التي تستحق المتابعة</h3></article>
+  <article><img src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=700&q=80" alt="اجتماع"><h3>حوارات ولقاءات مع أصحاب القرار والاختصاص</h3></article>
+  <article><img src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=700&q=80" alt="صحفي يكتب"><h3>تحقيقات صحفية وملفات معمقة</h3></article>
+ </div></section>
+ <section class="section-block wide-section" id="governorates"><div class="section-heading"><h2>نبض المحافظات</h2></div><div class="city-list"><a href="#governorates">بغداد</a><a href="#kirkuk">كركوك</a><a href="#governorates">البصرة</a><a href="#governorates">نينوى</a><a href="#governorates">أربيل</a><a href="#governorates">الأنبار</a></div></section>
+ <section class="section-block wide-section" id="world"><div class="section-heading"><h2>عربية ودولية</h2><a href="#world">المزيد ←</a></div><div class="news-grid three">
+  <article class="news-card"><img src="https://images.unsplash.com/photo-1523995462485-3d171b5c8fa9?auto=format&fit=crop&w=640&q=80" alt="مبنى مدينة"><span>عربي</span><h3>تطورات المنطقة في متابعة إخبارية مستمرة</h3></article>
+  <article class="news-card"><img src="https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=640&q=80" alt="علم في مدينة"><span>دولي</span><h3>أبرز الملفات الدولية وانعكاساتها</h3></article>
+  <article class="news-card"><img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=640&q=80" alt="مقر رسمي"><span>سياسة</span><h3>قرارات ومواقف على الساحة الدولية</h3></article>
+ </div></section>
+ <section class="section-block wide-section" id="economy"><div class="section-heading"><h2>اقتصاد</h2><a href="#economy">المزيد ←</a></div><p class="section-note">متابعة أسعار الأسواق والملفات المالية والاقتصادية في العراق والمنطقة.</p></section>
+ <section class="section-block wide-section" id="photos"><div class="section-heading"><h2>أحدث الصور</h2><a href="#photos">معرض الصور ←</a></div><div class="photo-grid">
+  <img src="https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=500&q=75" alt="مدينة"><img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=500&q=75" alt="مبنى"><img src="https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=75" alt="سوق"><img src="https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=500&q=75" alt="رياضة">
+ </div></section>
+ <section class="section-block wide-section" id="video"><div class="section-heading"><h2>الفيديو والتقارير</h2><a href="#video">المزيد ←</a></div><div class="video-placeholder"><span>▶</span><div><b>فيديوهات التاسعة نيوز</b><small>تُضاف التقارير المصورة عند نشرها</small></div></div></section>
 </main>
-
-<div class="media-row">
- <section id="photos" class="section">
-  <header><h2>أحدث الصور ▧</h2><a href="#photos">المزيد ←</a></header>
-  <div class="media-cards">
-   <article><img src="https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=360&q=75" alt="مشهد حضري"><h3>معالم ومدن</h3></article>
-   <article><img src="https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=360&q=75" alt="ملعب رياضي"><h3>الرياضة</h3></article>
-   <article><img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=360&q=75" alt="مبنى رسمي"><h3>أحداث ومؤتمرات</h3></article>
-   <article><img src="https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=360&q=75" alt="مدينة"><h3>مشاهد من العراق</h3></article>
-  </div>
- </section>
- <section id="video" class="section">
-  <header><h2>أحدث الفيديوهات ▶</h2><a href="#video">المزيد ←</a></header>
-  <div class="media-cards">
-   <article><img src="https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=360&q=75" alt="صحف وأخبار"><h3>التقارير الإخبارية</h3></article>
-   <article><img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=360&q=75" alt="مؤتمر صحفي"><h3>المؤتمرات الصحفية</h3></article>
-   <article><img src="https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=360&q=75" alt="مشهد مائي"><h3>تقارير ميدانية</h3></article>
-  </div>
- </section>
-</div>
-
-<footer id="about">
- <div class="footer-brand"><strong>التاسعة نيوز</strong><span>نعلم لتعلم</span></div>
- <div class="foot-links"><a href="#home">الرئيسية</a><a href="#iraq">أبرز الأخبار</a><a href="#photos">الصور</a><a href="#video">الفيديو</a></div>
- <div class="foot-social" aria-label="أيقونات التواصل"><span>f</span><span>𝕏</span><span>▶</span><span>◎</span><span>♪</span></div>
- <small>جميع الحقوق محفوظة © <span id="year">2026</span> — التاسعة نيوز</small>
-</footer>
-<script src="assets/site.js?v=20261031-2" defer></script>
+<footer class="site-footer" id="about"><div class="footer-inner"><div class="footer-brand"><img src="assets/logo.svg" alt="التاسعة نيوز"><b>نعلم لتعلم</b></div><p>التاسعة نيوز — منصة إخبارية عراقية تهتم بنقل الخبر من كركوك والعراق إلى العالم بمهنية ووضوح.</p><div class="footer-links"><a href="#home">الرئيسية</a><a href="#kirkuk">كركوك</a><a href="#iraq">العراق</a><a href="#reports">تقارير خاصة</a><a href="#contact">اتصل بنا</a></div><small>جميع الحقوق محفوظة © <span id="year">2026</span> — التاسعة نيوز</small></div></footer>
 </body></html>
