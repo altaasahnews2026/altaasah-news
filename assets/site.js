@@ -17,6 +17,13 @@ document.addEventListener('DOMContentLoaded',()=>{
   });
   input?.addEventListener('input',()=>{if(!input.value.trim()&&status)status.textContent=''});
 
+  const newsletter=$('#newsletterForm');
+  newsletter?.addEventListener('submit',e=>{
+    e.preventDefault();
+    const output=$('#newsletterStatus');
+    if(output) output.textContent='شكراً لاهتمامك؛ خدمة الاشتراك ستُفعّل قريباً.';
+  });
+
   document.querySelectorAll('.nav a[data-filter]').forEach(link=>{
     link.addEventListener('click',()=>{
       document.querySelectorAll('.nav a').forEach(a=>a.classList.toggle('active',a===link));
@@ -24,9 +31,9 @@ document.addEventListener('DOMContentLoaded',()=>{
       if(filter!=='all'){
         const section=$('#iraq');
         const title=$('#latestTitle');
-        if(title) title.textContent='آخر الأخبار — '+filter;
+        if(title) title.textContent='أبرز الأخبار — '+filter;
         if(section) section.scrollIntoView({behavior:'smooth',block:'start'});
-      }else if($('#latestTitle')) $('#latestTitle').textContent='آخر الأخبار';
+      }else if($('#latestTitle')) $('#latestTitle').textContent='أبرز الأخبار';
     });
   });
 
